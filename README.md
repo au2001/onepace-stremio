@@ -53,6 +53,7 @@ This Addon mainly focuses on pre-time skip arcs once you get past "impel Down" t
 - 01/12/23 - Arabasta s14e02 and s14e04 Updated, Added Skypiea s16e10
 - 08/12/23 - Wano s34e36 Added
 - 16/12/23 - Wano s34e37 Added
+- 23/12/23 - Water Seven s18e15 Added
 
 ## Support
 
