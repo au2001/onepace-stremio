@@ -54,7 +54,8 @@ This Addon mainly focuses on pre-time skip arcs once you get past "impel Down" t
 - 08/12/23 - Wano s34e36 Added
 - 16/12/23 - Wano s34e37 Added
 - 23/12/23 - Water Seven s18e15 Added
-- 24/01/05 - Added Reverse Mountain re-edit
+- 05/01/24 - Added Reverse Mountain re-edit
+- 12/01/24 - Egghead s35e01 Added
 
 ## Support
 
