@@ -3108,6 +3108,13 @@
                 "id": "EH_1",
                 "title": "New Emperors",
                 "thumbnail": "https://onepace.net/images/episodes/cover-egghead-01.webp"
+            },
+            {
+                "season": 35,
+                "episode": 2,
+                "id": "EH_2",
+                "title": "The Matter Involving Captain Koby",
+                "thumbnail": "https://onepace.net/images/episodes/cover-egghead-02.webp"
             }
         ]
     }
