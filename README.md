@@ -2,7 +2,7 @@
 
 ## Overview
 
-### This project is just a mod of the Orginal addon you  can find here: [OnePace addon](https://github.com/fedew04/OnePaceStremio)
+### This project is just a mod of the Orginal addon you can find here: [OnePace addon](https://github.com/fedew04/OnePaceStremio)
 
 This addon integrates One Piece KAI episodes to fill in missing sections in One Pace, specifically for the Arabasta Arc, Skypiea Arc, and Water 7. Once installed on your Stremio account, the addon will sync across all platforms.
 
@@ -64,4 +64,3 @@ If you encounter any issues or have questions, feel free to message me.
 ---
 
 Happy streaming!
-

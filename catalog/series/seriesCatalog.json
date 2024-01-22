@@ -1,14 +1,11 @@
 {
-    "metas": [
-        {
-            "type": "series",
-            "id": "pp_onepace",
-            "name": "One Pace v2",
-            "poster": "https://i.ibb.co/QfZ2z0s/finpic.jpg",
-            "genres": [
-                "Adventure",
-                "Fantasy"
-            ]
-        }
-    ]
+  "metas": [
+    {
+      "type": "series",
+      "id": "pp_onepace",
+      "name": "One Pace v2",
+      "poster": "https://i.ibb.co/QfZ2z0s/finpic.jpg",
+      "genres": ["Adventure", "Fantasy"]
+    }
+  ]
 }

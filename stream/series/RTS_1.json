@@ -1,8 +1,8 @@
-{ 
-"streams": [ 
-        { 
-            "infoHash": "77cc4c78deedc5b7048cd72620688bf37de17032", 
-            "fileIdx": 0 
-        } 
-   ] 
-} 
+{
+  "streams": [
+    {
+      "infoHash": "77cc4c78deedc5b7048cd72620688bf37de17032",
+      "fileIdx": 0
+    }
+  ]
+}

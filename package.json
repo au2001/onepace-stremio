@@ -4,7 +4,7 @@
   "description": "One Pace addon for Stremio",
   "main": "server.js",
   "scripts": {
-    "test": "node test/*",
+    "format": "prettier --write .",
     "start": "node server.js"
   },
   "repository": {
@@ -25,5 +25,8 @@
   "dependencies": {
     "magnet-uri": "^6.2.0",
     "stremio-addon-sdk": "^1.6.10"
+  },
+  "devDependencies": {
+    "prettier": "^3.2.4"
   }
 }
