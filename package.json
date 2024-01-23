@@ -1,6 +1,6 @@
 {
   "name": "stremio-onepace",
-  "version": "1.0.0",
+  "version": "1.6.0",
   "description": "One Pace addon for Stremio",
   "main": "server.js",
   "scripts": {
