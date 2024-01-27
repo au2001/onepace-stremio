@@ -683,30 +683,30 @@
         "title": "Unreleased",
         "thumbnail": "https://onepace.net/images/unreleased-placeholder-16x9.jpg"
       },
-
       {
+        "id": "AL_22",
         "season": 14,
         "episode": 22,
-        "id": "ALOG_121",
-        "title": "One Piece Kai, - Hope for the Sand Kingdom (120-123) - (Skip to 121)",
+        "title": "Hope for the Sand Kingdom",
         "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/063736e62a3deb2031bb32c4d883d195.jpe",
-        "overview": "Skip ahead to catch up to the end of the last one Pace episode (121 - 123 is the goal)"
+        "released": "2002-08-25T12:00:00.000Z"
       },
       {
+        "id": "AL_23",
         "season": 14,
         "episode": 23,
-        "id": "ALOG_122",
-        "title": "One Piece Kai, - Crocodile (124-126)",
-        "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/f37c688368d79ad91fce89f59f283da3.jpe"
+        "title": "Crocodile",
+        "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/f37c688368d79ad91fce89f59f283da3.jpe",
+        "released": "2002-09-15T12:00:00.000Z"
       },
       {
+        "id": "AL_24",
         "season": 14,
         "episode": 24,
-        "id": "ALOG_123",
-        "title": "One Piece Kai, - A Kingdom Restored (127-130)",
-        "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/e589e3221145a17bacdcc102e8181efc.jpe"
+        "title": "A Kingdom Restored",
+        "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/e589e3221145a17bacdcc102e8181efc.jpe",
+        "released": "2002-10-27T12:00:00.000Z"
       },
-
       {
         "season": 15,
         "episode": 1,
@@ -967,51 +967,46 @@
         "title": "Unreleased",
         "thumbnail": "https://onepace.net/images/unreleased-placeholder-16x9.jpg"
       },
-
       {
+        "id": "SK_25",
         "season": 16,
         "episode": 25,
-        "id": "SK_KAI_30",
-        "title": "One Piece Kai, - Survival Game - Aubade (165-170) - (Skip to 167)",
-        "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/559ac753900d3bd987bcf4f5efc4e9e7.jpe",
-        "overview": "Skip ahead to catch up to the end of the last one Pace episode (167-170 is the target)"
+        "title": "Shandora March",
+        "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/57cd2bf95a7aa77cdfa3f59d2d900ffd.jpe",
+        "released": "2003-12-21T12:00:00.000Z"
       },
       {
+        "id": "SK_26",
         "season": 16,
         "episode": 26,
-        "id": "SK_KAI_31",
-        "title": "One Piece Kai, - Shandora - March (171-175)",
-        "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/57cd2bf95a7aa77cdfa3f59d2d900ffd.jpe"
+        "title": "Divine Comedy Concerto",
+        "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/7c048f3067abe3f429afe160774bd54f.jpe",
+        "released": "2004-02-15T12:00:00.000Z"
       },
       {
+        "id": "SK_27",
         "season": 16,
         "episode": 27,
-        "id": "SK_KAI_32",
-        "title": "One Piece Kai, - Divine Comedy - Concerto (176-180, beginning of 181)",
-        "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/7c048f3067abe3f429afe160774bd54f.jpe"
+        "title": "Vs Eneru Capriccio",
+        "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/8ee7af513287c74d498cd5e7c26b472b.jpe",
+        "released": "2004-03-21T12:00:00.000Z"
       },
       {
+        "id": "SK_28",
         "season": 16,
         "episode": 28,
-        "id": "SK_KAI_33",
-        "title": "One Piece Kai, - Vs. Eneru/Enel - Capriccio (rest of 181, 182-186)",
-        "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/8ee7af513287c74d498cd5e7c26b472b.jpe"
+        "title": "Noland Bolero",
+        "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/752df5cd4b5167ddbdc051fd60f31067.jpe",
+        "released": "2004-04-04T12:00:00.000Z"
       },
       {
+        "id": "SK_29",
         "season": 16,
         "episode": 29,
-        "id": "SK_KAI_34",
-        "title": "One Piece Kai, - Noland - Bolero (187-189)",
-        "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/752df5cd4b5167ddbdc051fd60f31067.jpe"
+        "title": "Golden Bell Symphony",
+        "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/d7c66cf4377728a2e25a6aba13d9c3f1.jpe",
+        "released": "2004-06-13T12:00:00.000Z"
       },
-      {
-        "season": 16,
-        "episode": 30,
-        "id": "SK_KAI_35",
-        "title": "One Piece Kai, - Golden Bell Symphony (190-195)",
-        "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/d7c66cf4377728a2e25a6aba13d9c3f1.jpe"
-      },
-
       {
         "season": 17,
         "episode": 1,
@@ -1236,22 +1231,22 @@
         "title": "Unreleased",
         "thumbnail": "https://onepace.net/images/unreleased-placeholder-16x9.jpg"
       },
-
       {
+        "id": "WS_21",
+        "season": 18,
+        "episode": 21,
+        "title": "Aqua Laguna",
+        "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/dbb369428e4ab4e4c899372b5ab72b04.jpe",
+        "released": "2006-02-05T12:00:00.000Z"
+      },
+      {
+        "id": "WS_22",
         "season": 18,
         "episode": 22,
-        "id": "WS_KAI_43",
-        "title": "One Piece Kai, - Aqua Laguna (252-256)",
-        "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/dbb369428e4ab4e4c899372b5ab72b04.jpe"
+        "title": "Sea Train Battle Game",
+        "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/1253e2a9b0031d6be32451b159d22f9b.jpe",
+        "released": "2006-04-16T12:00:00.000Z"
       },
-      {
-        "season": 18,
-        "episode": 23,
-        "id": "WS_KAI_44",
-        "title": "One Piece Kai, - Sea Train Battle Game (257-262)",
-        "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/1253e2a9b0031d6be32451b159d22f9b.jpe"
-      },
-
       {
         "season": 19,
         "episode": 1,
