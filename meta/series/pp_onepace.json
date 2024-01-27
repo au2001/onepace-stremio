@@ -3857,8 +3857,10 @@
         "season": 34,
         "episode": 38,
         "id": "WA_38",
-        "title": "Unreleased",
-        "thumbnail": "https://onepace.net/images/unreleased-placeholder-16x9.jpg"
+        "title": "Roger's Adventure",
+        "overview": "Oden visits Wano and sees his retainers for the first time in years, but he immediately returns to the sea and leaves his family behind in their care. After stopping at Zou for the final red poneglyph, the Roger Pirates finally make it to the last island.",
+        "thumbnail": "https://onepace.net/images/unreleased-placeholder-16x9.jpg",
+        "released": "2023-01-26T12:00:00.000Z"
       },
       {
         "season": 34,
