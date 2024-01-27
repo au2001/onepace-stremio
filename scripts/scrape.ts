@@ -27,7 +27,7 @@ import { getVideo } from "./parse";
 
   let { meta } = await readJSON<{
     meta: { videos: Video[] };
-  }>("meta/series/pp_onepace.json");
+  }>("meta/series/onepace.json");
 
   const coveredAnimeEpisodes = new Set<number>();
 
@@ -129,7 +129,7 @@ import { getVideo } from "./parse";
     }),
   );
 
-  await writeJSON("meta/series/pp_onepace.json", {
+  await writeJSON("meta/series/onepace.json", {
     meta: { ...meta, videos },
   });
 

@@ -1,12 +1,14 @@
 {
   "name": "onepace-stremio",
   "version": "2.0.0",
-  "description": "One Pace Addon for Stremio",
+  "description": " Stremio addon for watching One Pace and One Piece Kai effortlessly",
   "keywords": [
     "stremio",
     "stremio-addons",
     "anime",
-    "one-piece"
+    "one-piece",
+    "one-pace",
+    "torrent"
   ],
   "author": "Aurélien <git@garnier.dev> (https://garnier.dev)",
   "license": "MIT",
@@ -14,10 +16,8 @@
     "type": "git",
     "url": "https://github.com/au2001/onepace-stremio.git"
   },
-  "main": "server.js",
   "scripts": {
     "format": "prettier --write .",
-    "start": "node server.js",
     "scrape": "ts-node scripts/scrape.ts"
   },
   "dependencies": {
