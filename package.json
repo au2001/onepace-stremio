@@ -1,32 +1,34 @@
 {
-  "name": "stremio-onepace",
-  "version": "1.6.0",
-  "description": "One Pace addon for Stremio",
-  "main": "server.js",
-  "scripts": {
-    "format": "prettier --write .",
-    "start": "node server.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/roshank231/optest"
-  },
+  "name": "onepace-stremio",
+  "version": "2.0.0",
+  "description": "One Pace Addon for Stremio",
   "keywords": [
     "stremio",
     "stremio-addons",
-    "addons"
+    "anime",
+    "one-piece"
   ],
-  "author": "fedew",
+  "author": "Aurélien <git@garnier.dev> (https://garnier.dev)",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/roshank231/optest"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/au2001/onepace-stremio.git"
   },
-  "homepage": "https://github.com/roshank231/optest",
+  "main": "server.js",
+  "scripts": {
+    "format": "prettier --write .",
+    "start": "node server.js",
+    "scrape": "ts-node scripts/scrape.ts"
+  },
   "dependencies": {
     "magnet-uri": "^6.2.0",
     "stremio-addon-sdk": "^1.6.10"
   },
   "devDependencies": {
-    "prettier": "^3.2.4"
+    "@types/parse-torrent": "^5.8.7",
+    "limiter": "^2.1.0",
+    "parse-torrent": "^9.1.5",
+    "prettier": "^3.2.4",
+    "ts-node": "^10.9.2"
   }
 }
