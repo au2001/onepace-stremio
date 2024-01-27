@@ -704,7 +704,7 @@
         "season": 14,
         "episode": 24,
         "title": "A Kingdom Restored",
-        "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/e589e3221145a17bacdcc102e8181efc.jpe",
+        "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/c4e3a81d230bf89f3e88dd654978d83c.jpe",
         "released": "2002-10-27T12:00:00.000Z"
       },
       {
@@ -971,7 +971,7 @@
         "id": "SK_25",
         "season": 16,
         "episode": 25,
-        "title": "Shandora March",
+        "title": "Shandora - March",
         "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/57cd2bf95a7aa77cdfa3f59d2d900ffd.jpe",
         "released": "2003-12-21T12:00:00.000Z"
       },
@@ -979,7 +979,7 @@
         "id": "SK_26",
         "season": 16,
         "episode": 26,
-        "title": "Divine Comedy Concerto",
+        "title": "Divine Comedy - Concerto",
         "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/7c048f3067abe3f429afe160774bd54f.jpe",
         "released": "2004-02-15T12:00:00.000Z"
       },
@@ -987,7 +987,7 @@
         "id": "SK_27",
         "season": 16,
         "episode": 27,
-        "title": "Vs Eneru Capriccio",
+        "title": "Vs. Eneru/Enel - Capriccio",
         "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/8ee7af513287c74d498cd5e7c26b472b.jpe",
         "released": "2004-03-21T12:00:00.000Z"
       },
@@ -995,7 +995,7 @@
         "id": "SK_28",
         "season": 16,
         "episode": 28,
-        "title": "Noland Bolero",
+        "title": "Noland - Bolero",
         "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/752df5cd4b5167ddbdc051fd60f31067.jpe",
         "released": "2004-04-04T12:00:00.000Z"
       },
@@ -1236,7 +1236,7 @@
         "season": 18,
         "episode": 21,
         "title": "Aqua Laguna",
-        "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/dbb369428e4ab4e4c899372b5ab72b04.jpe",
+        "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/af3bce334fd73c961f13524e7123809f.jpe",
         "released": "2006-02-05T12:00:00.000Z"
       },
       {
@@ -1948,6 +1948,14 @@
         "thumbnail": "https://onepace.net/images/episodes/cover-impel-down-10.webp",
         "overview": "Thanks to Jinbe’s quick thinking, Luffy and co. narrowly escape Impel Down. However, the Gates of Justice remain closed, and a horde of Navy ships is gaining on them. Then, just when all hope seems lost, a dear friend makes an all-or-nothing gamble.",
         "released": "2017-06-23T12:00:00.000Z"
+      },
+      {
+        "id": "IM_11",
+        "season": 24,
+        "episode": 11,
+        "title": "New Ordeals for the Straw Hat Pirates",
+        "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/8c96750824eb91163885ebc25e411b77.jpe",
+        "released": "2010-06-20T12:00:00.000Z"
       },
       {
         "season": 25,
