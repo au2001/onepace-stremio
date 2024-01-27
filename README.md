@@ -32,14 +32,14 @@ Please note:
 ### Quick Install
 
 1. Log into [Stremio for Browser](https://app.strem.io) with the same account you will use on your device.
-2. [Click HERE](https://app.strem.io/#/addons/community/all?addon=https%3A%2F%2Fraw.githubusercontent.com%2Fau2001%2Fonepace-stremio%2Fmain%2Fmanifest.json) and hit the `Install` button.
+2. [Click HERE](https://app.strem.io/#/addons/community/all?addon=https%3A%2F%2Fonepace.arl.sh%2Fmanifest.json) and hit the `Install` button.
 3. One Pace should now be available in the `Discover` tab or [here](https://app.strem.io/#/detail/series/onepace/).
 4. The addon will synchronize with any other device under the same account so you can watch from anywhere.
 
 ### Manual Install
 
 1. Go to Stremio's `Addons` tab.
-2. In `Search addons`, paste the following link: `https://raw.githubusercontent.com/au2001/onepace-stremio/main/manifest.json`
+2. In `Search addons`, paste the following link: `https://onepace.arl.sh/manifest.json`
 3. Hit the `Install` button.
 4. One Pace should now be available in the `Discover` tab.
 
