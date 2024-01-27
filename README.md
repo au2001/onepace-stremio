@@ -1,67 +1,64 @@
-# OnePace X OnePiece Kai Stremio Addon
+# One Pace x One Piece Kai Stremio Addon
 
 ## Overview
 
-### This project is just a mod of the Orginal addon you can find here: [OnePace addon](https://github.com/fedew04/OnePaceStremio)
+[Stremio](https://www.stremio.com) is a modern media center that gives you the freedom to watch everything you want.\
+Thanks to its addon system, it allows accessing a variety of content.
 
-This addon integrates One Piece KAI episodes to fill in missing sections in One Pace, specifically for the Arabasta Arc, Skypiea Arc, and Water 7. Once installed on your Stremio account, the addon will sync across all platforms.
+[One Pace](https://onepace.net) is a fan project that recuts One Piece to bring it more in line with the pacing of the original manga by Eiichiro Oda.\
+It is distributed through torrent files on their website, which can be cumbersome to watch, and is missing some parts.
 
-### Important Notes:
+[One Piece Kai](https://www.reddit.com/comments/mbsv0n/) is another fan project made by [u/Emigliore (NSFW)](https://www.reddit.com/user/Emigliore) in March 2021, similar to One Pace but without any missing part.\
+It stops after the first "half" of the One Piece anime though, and has Japanese audio with hardcoded English subtitles[^1].
 
-- For a complete episode list that includes the Kai episodes, you may need to delete the original OnePace addon.
-- Subtitles don't work properly in ExoPlayer, this is especially noticeable in Android variants of Stremio, Go to Settings --> Player --> Switch to LibVLC for a much better experience. You can also "open in VLC" if you are on Desktop
-- You can also set Stremio to default to Japanese as the preferred language in Stremio settings if you find the English dub playing as default whilst trying to watch subbed.
+[^1]: An older [English dub](https://www.reddit.com/comments/g7aro3/) also exists if you prefer – [updated](https://www.reddit.com/comments/17phccc/) in November 2023 (up to the first half of Wano).
 
-## Features
+This addon brings all three together to provide the optimal One Piece watching experience.\
+You will see a new One Piece series on Stremio which contains One Pace, with missing parts filled in from One Piece Kai.\
+It is automatically kept up to date with the latest releases nightly.
 
-- Added thumbnails for a better visual experience
-- Integrated One Piece KAI (Subbed) to fill in missing episodes
-- Alternate posters and background art for a richer UI
+## Usage
 
-## Installation
+First of all, you will need [Stremio](https://www.stremio.com/downloads).\
+It is available on Windows, macOS, Linux, Android TV, Samsung TV, Android, Stream Deck, and web browsers.\
+The iOS version only allows seeing episodes' metadata but not streaming due to App Store regulations.
 
-### Desktop
+Please note:
 
-#### Method 1: [Click Here](https://app.strem.io/shell-v4.4/#/addons/community/all?addon=https%3A%2F%2Fraw.githubusercontent.com%2Froshank231%2Foptest%2Fmain%2Fmanifest.json)
+- This addon does not work well alongside previous versions. Uninstall any other One Pace addon before using this one.
+- Subtitles might not work properly on Android. Go to Settings -> Player -> Switch to LibVLC for a much better experience.
+- Some One Pace episodes are dubbed in English. Change your preferred language in Stremio settings to set the default track.
 
-#### Method 2: Manual Install
+### Quick Install
 
-1. Copy the following link: `https://raw.githubusercontent.com/roshank231/optest/main/manifest.json`
-2. Open Stremio and paste the link into the addon search bar.
+1. Log into [Stremio for Browser](https://app.strem.io) with the same account you will use on your device.
+2. [Click HERE](https://app.strem.io/#/addons/community/all?addon=https%3A%2F%2Fraw.githubusercontent.com%2Fau2001%2Fonepace-stremio%2Fmain%2Fmanifest.json) and hit the `Install` button.
+3. One Pace should now be available in the `Discover` tab or [here](https://app.strem.io/#/detail/series/pp_onepace/).
+4. The addon will synchronize with any other device under the same account so you can watch from anywhere.
 
-### Android
+### Manual Install
 
-**Note**: Direct URL installation is not supported on the Android app for mobile. (Installing on Desktop is recommended, addons will sync from there, or you can install it via the web-app using method 1)
+1. Go to Stremio's `Addons` tab.
+2. In `Search addons`, paste the following link: `https://raw.githubusercontent.com/au2001/onepace-stremio/main/manifest.json`
+3. Hit the `Install` button.
+4. One Pace should now be available in the `Discover` tab.
 
-#### Method 1: [Click Here](https://app.strem.io/shell-v4.4/#/addons/community/all?addon=https%3A%2F%2Fraw.githubusercontent.com%2Froshank231%2Foptest%2Fmain%2Fmanifest.json)
+## Addon History
 
-#### Method 2: Manual Install (Android TV)
+[fedew04](https://github.com/fedew04) created the original version of this addon in December 2022, which only contained One Pace.\
+It is hosted on GitHub and is still maintained manually with new releases: [fedew04/OnePaceStremio](https://github.com/fedew04/OnePaceStremio).
 
-1. Log in to the Stremio Web app on your Android device.
-2. Navigate to "Add Addon" and use the following link: `https://raw.githubusercontent.com/roshank231/optest/main/manifest.json`
+[roshank231](https://github.com/roshank231) forked this first addon in August 2023 to integrate One Piece Kai episodes to fill in missing sections in One Pace.\
+This second version is also available on GitHub but is no longer actively maintained: [roshank231/optest](https://github.com/roshank231/optest).
 
-## Final Notes
+I, [au2001](https://github.com/au2001), then forked this second addon in October 2023 to update it with newly released One Pace episodes.\
+[trulow](https://github.com/trulow) further helped maintain it by adding new episodes as they were being released.
 
-This Addon mainly focuses on pre-time skip arcs once you get past "impel Down" there are no more gaps filled by One Piece KAI, you are better off switching to the original [OnePace addon](https://github.com/fedew04/OnePaceStremio) as this is being actively updated with the latest episodes as the one pace team release them.
+In January 2024, I automated the update process for adding new One Pace episodes, removing the need for manual intervention.
 
-- 30/09/23 - Jaya Updated
-- 29/10/23 - Buggy's Crew, Skypiea & Wano Updated
-- 01/11/23 - Fixed title for Fishman Island s28e16, Changed The Trials of Koby-Meppo s11e03 to s11e01
-- 04/11/23 - Water Seven s18e14 Added
-- 13/11/23 - Wano s34e35 Added
-- 17/11/23 - Skypia s16e09 Added
-- 01/12/23 - Arabasta s14e02 and s14e04 Updated, Added Skypiea s16e10
-- 08/12/23 - Wano s34e36 Added
-- 16/12/23 - Wano s34e37 Added
-- 23/12/23 - Water Seven s18e15 Added
-- 05/01/24 - Added Reverse Mountain re-edit
-- 12/01/24 - Egghead s35e01 Added
-- 27/01/24 - Wano s34e38 Added
+Thank you to everyone involved, especially [One Pace volunteers](https://onepace.net/about) for their incredible, ongoing effort.
 
 ## Support
 
-If you encounter any issues or have questions, feel free to message me.
-
----
-
-Happy streaming!
+If you encounter any problem or have questions, feel free to open an [Issue](https://github.com/au2001/onepace-stremio/issues) on this repository.\
+Enhancements and bug fixes are welcome through [Pull Requests](https://github.com/au2001/onepace-stremio/pulls) on this repository.
