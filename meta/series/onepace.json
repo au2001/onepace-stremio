@@ -1200,8 +1200,10 @@
         "season": 18,
         "episode": 16,
         "id": "WS_16",
-        "title": "Unreleased",
-        "thumbnail": "https://onepace.net/images/unreleased-placeholder-16x9.jpg"
+        "title": "Aqua Laguna",
+        "thumbnail": "https://onepace.net/images/episodes/cover-water-seven-16.webp",
+        "overview": "Sanji coolly fights his way through the sea train and locates Usopp and Franky. Back in Water Seven, Kokoro sees how determined Luffy is to save Robin, so she and Iceburg lend the Straw Hat crew an unexpected helping hand.",
+        "released": "2024-02-02T12:00:00.000Z"
       },
       {
         "season": 18,
@@ -1235,14 +1237,6 @@
         "id": "WS_21",
         "season": 18,
         "episode": 21,
-        "title": "Aqua Laguna",
-        "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/af3bce334fd73c961f13524e7123809f.jpe",
-        "released": "2006-02-05T12:00:00.000Z"
-      },
-      {
-        "id": "WS_22",
-        "season": 18,
-        "episode": 22,
         "title": "Sea Train Battle Game",
         "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/1253e2a9b0031d6be32451b159d22f9b.jpe",
         "released": "2006-04-16T12:00:00.000Z"
