@@ -17,7 +17,7 @@
         "id": "RO_1",
         "title": "Romance Dawn, the Dawn of an Adventure",
         "thumbnail": "https://onepace.net/images/episodes/cover-romance-dawn-01.webp",
-        "overview": "Influenced by the straw-hat-wearing pirate Red-Haired Shanks, an enthusiastic young boy named Monkey D. Luffy dreams of one day becoming king of the pirates.",
+        "overview": "Influenced by the straw-hat-wearing pirate Red-Haired Shanks, an enthusiastic young boy named Monkey D. Luffy dreams of one day becoming King of the Pirates.",
         "released": "2020-12-02T12:00:00.000Z"
       },
       {
@@ -35,7 +35,7 @@
         "id": "RO_3",
         "title": "The Pirate King and the Master Swordsman",
         "thumbnail": "https://onepace.net/images/episodes/cover-romance-dawn-03.webp",
-        "overview": "In search of members for his pirate crew, Luffy with his new friend Koby arrive at an island with a Navy stronghold. There, they track down the renowned Pirate Hunter Zoro but run afoul of Helmeppo, son of the infamous Captain Morgan.",
+        "overview": "In search of members for his pirate crew, Luffy with his new friend Koby arrive at Shells Town. There, they track down the renowned Pirate Hunter Zoro but run afoul of Helmeppo, son of the infamous Captain Morgan.",
         "released": "2020-12-02T12:00:00.000Z"
       },
       {
@@ -62,7 +62,7 @@
         "id": "OR_2",
         "title": "Treasure",
         "thumbnail": "https://onepace.net/images/episodes/cover-orange-town-02.webp",
-        "overview": "Luffy meets a small dog guarding his late master’s store. Meanwhile, the beast tamer Mohji, the acrobat Cabaji, and the lion Richie show up in the streets of Orange Town to get revenge for Captain Buggy's humiliating loss.",
+        "overview": "Luffy meets a small dog guarding his late master’s store. Meanwhile, Beast Tamer Mohji, Cabaji the Acrobat, and the lion Richie show up in the streets of Orange Town to get revenge for Captain Buggy's humiliating loss.",
         "released": "2021-08-07T12:00:00.000Z"
       },
       {
@@ -80,7 +80,7 @@
         "id": "SY_1",
         "title": "Captain Usopp",
         "thumbnail": "https://onepace.net/images/episodes/cover-syrup-village-01.webp",
-        "overview": "With Nami joining as Luffy's navigator (though not as an actual member of the crew), they arrive at an island in search of a proper ship. There they meet a man claiming to be a pirate captain who seemingly also has ties to Red-Haired Shanks.",
+        "overview": "With Nami joining as Luffy's navigator (though not as an actual member of the crew), they arrive at Syrup Village in search of a proper ship. There they meet a man claiming to be a pirate captain who also seems to have ties to Red-Haired Shanks.",
         "released": "2017-02-03T12:00:00.000Z"
       },
       {
@@ -116,7 +116,7 @@
         "id": "SY_5",
         "title": "For Whom the Bell Tolls",
         "thumbnail": "https://onepace.net/images/episodes/cover-syrup-village-05.webp",
-        "overview": "While the fight between Luffy and Kuro continues, Jango is intent on forcing Kaya to bequeath her family's money to the Black Cat captain. Despite the Usopp Pirates' efforts to stop the hypnotist, it seems as if the transaction is all but inevitable.",
+        "overview": "While the fight between Luffy and Kuro continues, Jango works to force Kaya to bequeath her family's money to the Black Cat captain. Despite the Usopp Pirates' efforts to stop the hypnotist, it seems as if the transaction is all but inevitable.",
         "released": "2017-10-21T12:00:00.000Z"
       },
       {
@@ -1227,8 +1227,10 @@
         "season": 18,
         "episode": 19,
         "id": "WS_19",
-        "title": "Unreleased",
-        "thumbnail": "https://onepace.net/images/unreleased-placeholder-16x9.jpg"
+        "title": "The Honorable Captain T-Bone",
+        "thumbnail": "https://onepace.net/images/episodes/cover-water-seven-19.webp",
+        "overview": "In his battle against Wanze and his strange Ramen Kenpo, Sanji makes an exception to his rule of never using his hands. Meanwhile, Franky and Nero are baffled by each other’s abilities, and back on Rocketman, Zoro clashes with “Ship-Slasher” T-Bone.",
+        "released": "2024-03-02T12:00:00.000Z"
       },
       {
         "season": 18,
