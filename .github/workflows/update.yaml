@@ -28,6 +28,12 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Cache torrent files
+        uses: actions/cache@v4
+        with:
+          path: cache
+          key: torrents
+
       - name: Scrape One Pace website
         run: npm run scrape
 
