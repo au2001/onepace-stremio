@@ -35,10 +35,24 @@ jobs:
           key: torrents
 
       - name: Scrape One Pace website
-        run: npm run scrape
+        id: scrape
+        run: |
+          echo "message<<EOF" >> "$GITHUB_OUTPUT"
+          npm run --silent scrape >> "$GITHUB_OUTPUT"
+          echo "EOF" >> "$GITHUB_OUTPUT"
 
       - name: Commit changes
+        id: commit
         uses: EndBug/add-and-commit@v9
         with:
           message: Update One Pace episodes
           default_author: github_actions
+
+      - name: Send message to Matrix
+        uses: s3krit/matrix-message-action@v0.0.3
+        if: steps.commit.outputs.pushed && steps.scrape.outputs.message != ''
+        with:
+          server: ${{ vars.MATRIX_SERVER }}
+          access_token: ${{ secrets.MATRIX_ACCESS_TOKEN }}
+          room_id: ${{ vars.MATRIX_ROOM_ID }}
+          message: ${{ steps.scrape.outputs.message }}
