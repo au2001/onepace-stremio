@@ -1,3 +1,5 @@
+import fs from "fs/promises";
+import path from "path";
 import parseTorrent from "parse-torrent";
 import { RateLimiter } from "limiter";
 import { Arc, Episode, Stream, Video } from "./types";
@@ -5,14 +7,43 @@ import { getArcPrefix } from "./utils";
 
 const limiter = new RateLimiter({ tokensPerInterval: 3, interval: 1000 });
 
-const cache: Record<string, Promise<parseTorrent.Instance | undefined>> = {};
+const cache: Record<string, Promise<parseTorrent.Instance>> = {};
 export const fetchTorrent = async (infoHash: string) =>
   await (cache[infoHash] ??= new Promise(async (resolve, reject) => {
-    await limiter.removeTokens(1);
-    parseTorrent.remote(
-      `https://api.onepace.net/download/torrent.php?hash=${infoHash}`,
-      (err, torrent) => (err ? reject(err) : resolve(torrent)),
-    );
+    const cacheFile = path.join(__dirname, "../cache", `${infoHash}.torrent`);
+
+    try {
+      const buffer = await fs.readFile(cacheFile);
+      resolve(parseTorrent(buffer) as parseTorrent.Instance);
+      return;
+    } catch (e) {
+      if (!(e instanceof Error) || !("code" in e) || e.code !== "ENOENT") {
+        reject(e);
+        return;
+      }
+    }
+
+    try {
+      await limiter.removeTokens(1);
+      parseTorrent.remote(
+        `https://api.onepace.net/download/torrent.php?hash=${infoHash}`,
+        async (err, torrent) => {
+          try {
+            if (torrent === undefined) throw err;
+
+            const buffer = parseTorrent.toTorrentFile(torrent);
+            await fs.mkdir(path.dirname(cacheFile), { recursive: true });
+            await fs.writeFile(cacheFile, buffer);
+
+            resolve(torrent);
+          } catch (e) {
+            reject(e);
+          }
+        },
+      );
+    } catch (e) {
+      reject(e);
+    }
   }));
 
 export const getVideo = async (

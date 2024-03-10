@@ -32,28 +32,27 @@ import { getVideo } from "./parse";
   const coveredAnimeEpisodes = new Set<number>();
 
   const videos = await Promise.all(
-    arcs.flatMap((arc) =>
-      arc.part < 100
-        ? arc.episodes.map(async (episode) => {
-            const [newVideo, newStream] = await getVideo(arc, episode);
+    arcs.flatMap((arc) => {
+      if (arc.part === 100) return [];
 
-            const index = meta.videos.findIndex(
-              (video) => video.id === newVideo.id,
-            );
-            const [video] =
-              index > -1 ? meta.videos.splice(index, 1) : [undefined];
-            saveVideo(newVideo, video);
+      return arc.episodes.map(async (episode) => {
+        const [newVideo, newStream] = await getVideo(arc, episode);
 
-            if (await saveStream(newVideo.id, newStream)) {
-              getCoveredAnimeEpisodes(episode.anime_episodes).forEach(
-                (episode) => coveredAnimeEpisodes.add(episode),
-              );
-            }
+        const index = meta.videos.findIndex(
+          (video) => video.id === newVideo.id,
+        );
+        const [video] = index > -1 ? meta.videos.splice(index, 1) : [undefined];
+        saveVideo(newVideo, video);
 
-            return newVideo;
-          })
-        : [],
-    ),
+        if (await saveStream(newVideo.id, newStream)) {
+          getCoveredAnimeEpisodes(episode.anime_episodes).forEach((episode) =>
+            coveredAnimeEpisodes.add(episode),
+          );
+        }
+
+        return newVideo;
+      });
+    }),
   );
 
   let maxEpisodeNumbers: Record<number, number> = {};
