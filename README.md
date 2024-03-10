@@ -1,5 +1,7 @@
 # One Pace x One Piece Kai Stremio Addon
 
+Join the [#onepace:garnier.dev](https://matrix.to/#/#onepace:garnier.dev) Matrix channel to receive updates when new episodes are released!
+
 ## Overview
 
 [Stremio](https://www.stremio.com) is a modern media center that gives you the freedom to watch everything you want.\
@@ -54,7 +56,8 @@ This second version is also available on GitHub but is no longer actively mainta
 I, [au2001](https://github.com/au2001), then forked this second addon in October 2023 to update it with newly released One Pace episodes.\
 [trulow](https://github.com/trulow) further helped maintain it by adding new episodes as they were being released.
 
-In January 2024, I automated the update process for adding new One Pace episodes, removing the need for manual intervention.
+In January 2024, I automated the update process for adding new One Pace episodes, removing the need for manual intervention.\
+In March 2024, I then created the Matrix channel to receive notifications when new episodes are released.
 
 Thank you to everyone involved, especially [One Pace volunteers](https://onepace.net/about) for their incredible, ongoing effort.
 
