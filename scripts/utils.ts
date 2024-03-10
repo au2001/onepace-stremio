@@ -41,8 +41,10 @@ export const getCoveredAnimeEpisodes = (string?: string) => {
   return animeEpisodes;
 };
 
-export const saveVideo = (newVideo: Video, video?: Video) => {
+export const saveVideo = (arc: Arc, newVideo: Video, video?: Video) => {
   if (video !== undefined) {
+    let updated = false;
+
     if (video.season !== newVideo.season) {
       throw new Error(
         `${video.id}'s season changed from ${video.season} to ${newVideo.season}`,
@@ -59,35 +61,49 @@ export const saveVideo = (newVideo: Video, video?: Video) => {
       );
     }
     if (video.title !== newVideo.title) {
-      console.warn(
+      console.error(
         `${video.id}'s title changed from ${video.title} to ${newVideo.title}`,
       );
+      updated = true;
     }
     if (video.thumbnail !== newVideo.thumbnail) {
-      console.warn(
+      console.error(
         `${video.id}'s thumbnail changed from ${video.thumbnail} to ${newVideo.thumbnail}`,
       );
+      updated = true;
     }
     if (video.overview !== newVideo.overview) {
-      console.warn(
+      console.error(
         `${video.id}'s overview changed from ${video.overview} to ${newVideo.overview}`,
       );
+      updated = true;
     }
     if (video.released !== newVideo.released) {
-      console.warn(
+      console.error(
         `${video.id}'s released changed from ${video.released} to ${newVideo.released}`,
+      );
+      updated = true;
+    }
+
+    if (updated) {
+      console.log(
+        `Update: ${arc.invariant_title} episode ${video.episode} "${video.title}" metadata changed.`,
       );
     }
   } else {
-    console.warn(`${newVideo.id} added`);
+    console.error(`${newVideo.id} added`);
   }
 };
 
-export const saveStream = async (id: string, newStream?: Stream) => {
+export const saveStream = async (
+  arc: Arc,
+  video: Video,
+  newStream?: Stream,
+) => {
   let stream: Stream | undefined;
   try {
     const { streams } = await readJSON<{ streams: Stream[] }>(
-      `stream/series/${id}.json`,
+      `stream/series/${video.id}.json`,
     );
     stream = streams[0];
   } catch (e: any) {
@@ -98,29 +114,42 @@ export const saveStream = async (id: string, newStream?: Stream) => {
   const newStreamId = `${newStream?.infoHash}${newStream?.fileIdx !== undefined ? `:${newStream?.fileIdx}` : ""}`;
   if (newStream !== undefined) {
     if (stream !== undefined) {
+      let updated = false;
+
       if (stream.infoHash !== newStream.infoHash) {
-        console.warn(
-          `${id}'s stream infoHash changed from ${streamId} to ${newStreamId}`,
+        console.error(
+          `${video.id}'s stream infoHash changed from ${streamId} to ${newStreamId}`,
         );
+        updated = true;
       } else if (stream.fileIdx !== newStream.fileIdx) {
-        console.warn(
-          `${id}'s stream fileIdx changed from ${stream.fileIdx} to ${newStream.fileIdx}`,
+        console.error(
+          `${video.id}'s stream fileIdx changed from ${stream.fileIdx} to ${newStream.fileIdx}`,
+        );
+        updated = true;
+      }
+
+      if (updated) {
+        console.log(
+          `Update: ${arc.invariant_title} episode ${video.episode} "${video.title}" re-released.`,
         );
       }
     } else {
-      console.warn(`${id}'s stream created at ${newStreamId}`);
+      console.error(`${video.id}'s stream created at ${newStreamId}`);
+      console.log(
+        `NEW RELEASE! ${arc.invariant_title} episode ${video.episode} "${video.title}" available.`,
+      );
     }
 
-    await writeJSON(`stream/series/${id}.json`, {
+    await writeJSON(`stream/series/${video.id}.json`, {
       streams: [newStream],
     });
 
     return true;
   } else if (stream !== undefined) {
-    console.warn(`${id}'s stream removed from ${streamId}`);
+    console.error(`${video.id}'s stream removed from ${streamId}`);
 
     try {
-      await fs.unlink(`stream/series/${id}.json`);
+      await fs.unlink(`stream/series/${video.id}.json`);
     } catch (e: any) {
       if (!("code" in e) || e.code !== "ENOENT") throw e;
     }

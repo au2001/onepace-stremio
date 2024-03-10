@@ -42,9 +42,9 @@ import { getVideo } from "./parse";
           (video) => video.id === newVideo.id,
         );
         const [video] = index > -1 ? meta.videos.splice(index, 1) : [undefined];
-        saveVideo(newVideo, video);
+        saveVideo(arc, newVideo, video);
 
-        if (await saveStream(newVideo.id, newStream)) {
+        if (await saveStream(arc, newVideo, newStream)) {
           getCoveredAnimeEpisodes(episode.anime_episodes).forEach((episode) =>
             coveredAnimeEpisodes.add(episode),
           );
@@ -99,9 +99,9 @@ import { getVideo } from "./parse";
           );
           const [video] =
             index > -1 ? meta.videos.splice(index, 1) : [undefined];
-          saveVideo(newVideo, video);
+          saveVideo(arc, newVideo, video);
 
-          await saveStream(newVideo.id, {
+          await saveStream(arc, newVideo, {
             infoHash: KAI.infoHash,
             fileIdx,
           });
@@ -118,7 +118,7 @@ import { getVideo } from "./parse";
 
   await Promise.all(
     meta.videos.map(async (video) => {
-      console.warn(`${video.title} removed`);
+      console.error(`${video.title} removed`);
 
       try {
         await fs.unlink(`stream/series/${video.id}.json`);
@@ -131,6 +131,4 @@ import { getVideo } from "./parse";
   await writeJSON("meta/series/onepace.json", {
     meta: { ...meta, videos },
   });
-
-  console.log(`Found ${videos.length} total episodes`);
 })();
