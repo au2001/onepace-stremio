@@ -645,8 +645,10 @@
         "season": 14,
         "episode": 16,
         "id": "AL_16",
-        "title": "Unreleased",
-        "thumbnail": "https://onepace.net/images/unreleased-placeholder-16x9.jpg"
+        "title": "The Desert Doo Doo Hits the Fan",
+        "thumbnail": "https://onepace.net/images/episodes/cover-arabasta-16.webp",
+        "overview": "When Crocodile yells \"Oh no! Water!\" it's game over! Join Monkey D. Luffy and his courageous crew—Nami, Usopp, Chopper (who does doctoring), Sanji, and Zolo—as they save Alabasta from the crooked clutches of Baroque Works!",
+        "released": "2024-04-01T00:00:00.000Z"
       },
       {
         "season": 14,
@@ -1944,6 +1946,15 @@
         "released": "2017-06-23T00:00:00.000Z"
       },
       {
+        "season": 25,
+        "episode": 1,
+        "id": "GO_ANYWHERE_1",
+        "title": "If You Could Go Anywhere... The Adventures of the Straw Hats",
+        "thumbnail": "https://onepace.net/images/episodes/cover-if-you-could-go-anywhere-the-adventures-of-the-straw-hats-01.webp",
+        "overview": "Somewhere in the world... Sanji resists, while Robin meets terrible people. Franky's not himself, and Usopp learns to survive. Chopper avoids becoming food, and Nami reports on the weather. Brook is repaid in underpants, and Zoro... is lost and annoyed.",
+        "released": "2024-03-29T00:00:00.000Z"
+      },
+      {
         "season": 26,
         "episode": 1,
         "id": "MA_1",
@@ -2167,14 +2178,6 @@
         "thumbnail": "https://onepace.net/images/episodes/cover-post-war-08.webp",
         "overview": "The Straw Hat Pirates have interpreted their captain's message to meet up again in two years. During this time, they will prepare themselves for the New World! In the Calm Belt, Luffy arrives in Luscaina to begin training under Rayleigh.",
         "released": "2021-01-18T00:00:00.000Z"
-      },
-      {
-        "id": "PW_9",
-        "season": 27,
-        "episode": 9,
-        "title": "New Ordeals for the Straw Hat Pirates",
-        "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/8c96750824eb91163885ebc25e411b77.jpe",
-        "released": "2010-06-20T00:00:00.000Z"
       },
       {
         "season": 28,
