@@ -33,7 +33,7 @@ import { getVideo } from "./parse";
 
   const videos = await Promise.all(
     arcs.flatMap((arc) => {
-      if (arc.part === 100) return [];
+      if (arc.part === 99) return [];
 
       return arc.episodes.map(async (episode) => {
         const [newVideo, newStream] = await getVideo(arc, episode);
