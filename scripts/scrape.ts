@@ -16,7 +16,7 @@ import { getVideo } from "./parse";
   const html = await response.text();
   const [, data] =
     html.match(
-      /<script id="__NEXT_DATA__" type="application\/json">(.*?)<\/script>/,
+      /<script id="__NEXT_DATA__"[^>]*>(.*?)<\/script>/,
     ) ?? [];
 
   const {
