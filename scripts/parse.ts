@@ -86,7 +86,7 @@ export const getVideo = async (
     released !== undefined
       ? [...arc.downloads, ...episode.downloads].flatMap((download) =>
           download.type === "TORRENT" || download.type === "MAGNET"
-            ? new URL(download.uri).searchParams.get("hash") ?? []
+            ? download.uri.match(/^https:\/\/api\.onepace\.net\/download\/(?:magnet|torrent)\.php\?hash=([0-9a-f]{40})$/)?.[1] ?? []
             : [],
         )
       : [],
