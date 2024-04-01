@@ -33,6 +33,10 @@ export const getCoveredAnimeEpisodes = (string?: string) => {
       /^Episode of (Nami|Luffy|Merry|Sabo|East Blue|Sky Island)$/.test(range)
     ) {
       // https://onepiece.fandom.com/wiki/Category:Specials
+    } else if (
+      /^.+ \(movie \d+\)$/.test(range)
+    ) {
+      // https://onepiece.fandom.com/wiki/Category:One_Piece_Movies
     } else {
       throw new Error(`Unknown anime episode range: ${range}`);
     }
