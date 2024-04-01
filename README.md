@@ -41,23 +41,27 @@ Please note:
 ### Manual Install
 
 1. Go to Stremio's `Addons` tab.
-2. In `Search addons`, paste the following link: `https://onepace.arl.sh/manifest.json`
+2. In `Search addons`, paste the following link: `https://onepace.arl.sh/manifest.json`.
 3. Hit the `Install` button.
 4. One Pace should now be available in the `Discover` tab.
 
 ## Addon History
 
-[fedew04](https://github.com/fedew04) created the original version of this addon in December 2022, which only contained One Pace.\
+[fedew04](https://github.com/fedew04) created the original version of this addon in December 2022 before joining the One Pace team, not including One Piece Kai.\
 It is hosted on GitHub and is still maintained manually with new releases: [fedew04/OnePaceStremio](https://github.com/fedew04/OnePaceStremio).
 
-[roshank231](https://github.com/roshank231) forked this first addon in August 2023 to integrate One Piece Kai episodes to fill in missing sections in One Pace.\
+[vasujain275](https://github.com/vasujain275) developed another addon in parallel in July 2023 which shows the latest One Pace episodes in real time.\
+It is hosted on [BeamUp](https://github.com/Stremio/stremio-beamup) and the source code is available on GitHub: [vasujain275/onepace-stremio-v2](https://github.com/vasujain275/onepace-stremio-v2).
+
+[roshank231](https://github.com/roshank231) forked the original addon in August 2023, integrating One Piece Kai episodes to fill in missing sections in One Pace.\
 This second version is also available on GitHub but is no longer actively maintained: [roshank231/optest](https://github.com/roshank231/optest).
 
-I, [au2001](https://github.com/au2001), then forked this second addon in October 2023 to update it with newly released One Pace episodes.\
+I, [au2001](https://github.com/au2001), then started improving on this third addon in October 2023 by updating it with newly released One Pace episodes.\
 [trulow](https://github.com/trulow) further helped maintain it by adding new episodes as they were being released.
 
 In January 2024, I automated the update process for adding new One Pace episodes, removing the need for manual intervention.\
-In March 2024, I then created the Matrix channel to receive notifications when new episodes are released.
+In March 2024, I then created the Matrix channel to receive notifications when new episodes are released.\
+In April 2024, One Pace changed their website very slightly which temporarly broke the automated updates. I switched to a more robust method using the official GraphQL API which I discovered through [vasujain275](https://github.com/vasujain275)'s addon.
 
 Thank you to everyone involved, especially [One Pace volunteers](https://onepace.net/about) for their incredible, ongoing effort.
 
