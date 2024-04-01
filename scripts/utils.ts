@@ -1,6 +1,7 @@
 import * as fs from "fs/promises";
 import * as prettier from "prettier";
-import { Arc, Stream, Video } from "./types";
+import { Stream, Video } from "./types";
+import { Arc } from "./generated/graphql";
 import ARC_PREFIXES from "./arcs.json";
 
 export const readJSON = async <T>(path: string) =>
@@ -33,9 +34,7 @@ export const getCoveredAnimeEpisodes = (string?: string) => {
       /^Episode of (Nami|Luffy|Merry|Sabo|East Blue|Sky Island)$/.test(range)
     ) {
       // https://onepiece.fandom.com/wiki/Category:Specials
-    } else if (
-      /^.+ \(movie \d+\)$/.test(range)
-    ) {
+    } else if (/^.+ \(movie \d+\)$/.test(range)) {
       // https://onepiece.fandom.com/wiki/Category:One_Piece_Movies
     } else {
       throw new Error(`Unknown anime episode range: ${range}`);

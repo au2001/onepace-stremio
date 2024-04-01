@@ -1,4 +1,5 @@
 import * as fs from "fs/promises";
+import { GraphQLClient } from "graphql-request";
 import {
   getArcPrefix,
   getCoveredAnimeEpisodes,
@@ -7,23 +8,15 @@ import {
   saveVideo,
   writeJSON,
 } from "./utils";
-import { Arc, Video } from "./types";
-import KAI from "./kai.json";
 import { getVideo } from "./parse";
+import { Video } from "./types";
+import { getSdk } from "./generated/graphql";
+import KAI from "./kai.json";
 
 (async () => {
-  const response = await fetch("https://onepace.net/watch");
-  const html = await response.text();
-  const [, data] =
-    html.match(
-      /<script id="__NEXT_DATA__"[^>]*>(.*?)<\/script>/,
-    ) ?? [];
-
-  const {
-    props: {
-      pageProps: { arcs },
-    },
-  } = JSON.parse(data) as { props: { pageProps: { arcs: Arc[] } } };
+  const client = new GraphQLClient("https://onepace.net/api/graphql");
+  const sdk = getSdk(client);
+  const { arcs } = await sdk.getArcs();
 
   let { meta } = await readJSON<{
     meta: { videos: Video[] };

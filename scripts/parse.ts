@@ -2,8 +2,9 @@ import fs from "fs/promises";
 import path from "path";
 import parseTorrent from "parse-torrent";
 import { RateLimiter } from "limiter";
-import { Arc, Episode, Stream, Video } from "./types";
+import { Stream, Video } from "./types";
 import { getArcPrefix } from "./utils";
+import { Arc, DownloadType, Episode } from "./generated/graphql";
 
 const limiter = new RateLimiter({ tokensPerInterval: 3, interval: 1000 });
 
@@ -64,10 +65,11 @@ export const getVideo = async (
       ? translation?.title ?? episode.invariant_title
       : "Unreleased";
 
-  const thumbnail =
-    episode.images.length !== 0
-      ? `https://onepace.net/images/episodes/${episode.images[0].src}`
-      : "https://onepace.net/images/unreleased-placeholder-16x9.jpg";
+  const image =
+    episode.images.find((image) => image.mimeType === "image/webp") ??
+    episode.images[0];
+
+  const thumbnail = `https://onepace.net/images/${image !== undefined ? `episodes/${image.src}` : "unreleased-placeholder-16x9.jpg"}`;
 
   const overview =
     released !== undefined ? translation?.description ?? undefined : undefined;
@@ -85,8 +87,11 @@ export const getVideo = async (
   const infoHashes = new Set(
     released !== undefined
       ? [...arc.downloads, ...episode.downloads].flatMap((download) =>
-          download.type === "TORRENT" || download.type === "MAGNET"
-            ? download.uri.match(/^https:\/\/api\.onepace\.net\/download\/(?:magnet|torrent)\.php\?hash=([0-9a-f]{40})$/)?.[1] ?? []
+          download.type === DownloadType.Torrent ||
+          download.type === DownloadType.Magnet
+            ? download.uri.match(
+                /^https:\/\/api\.onepace\.net\/download\/(?:magnet|torrent)\.php\?hash=([0-9a-f]{40})$/,
+              )?.[1] ?? []
             : [],
         )
       : [],

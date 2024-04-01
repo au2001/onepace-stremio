@@ -1,7 +1,7 @@
 {
   "name": "onepace-stremio",
   "version": "2.0.0",
-  "description": " Stremio addon for watching One Pace and One Piece Kai effortlessly",
+  "description": "Stremio addon for watching One Pace and One Piece Kai effortlessly",
   "keywords": [
     "stremio",
     "stremio-addons",
@@ -18,14 +18,14 @@
   },
   "scripts": {
     "format": "prettier --write .",
-    "scrape": "ts-node scripts/scrape.ts"
-  },
-  "dependencies": {
-    "magnet-uri": "^6.2.0",
-    "stremio-addon-sdk": "^1.6.10"
+    "scrape": "ts-node scripts/scrape.ts",
+    "generate": "graphql-codegen"
   },
   "devDependencies": {
+    "@graphql-codegen/cli": "^5.0.2",
+    "@graphql-codegen/typescript-graphql-request": "^6.2.0",
     "@types/parse-torrent": "^5.8.7",
+    "graphql-request": "^6.1.0",
     "limiter": "^2.1.0",
     "parse-torrent": "^9.1.5",
     "prettier": "^3.2.4",
