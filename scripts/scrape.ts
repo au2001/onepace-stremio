@@ -86,9 +86,9 @@ import { getVideo } from "./parse";
           const episodeNumber = ++maxEpisodeNumbers[arc.part];
 
           const newVideo: Video = {
-            id: `${getArcPrefix(arc)}_${episodeNumber}`,
             season: arc.part,
             episode: episodeNumber,
+            id: `${getArcPrefix(arc)}_${episodeNumber}`,
             title: episode.title,
             thumbnail: episode.thumbnail,
             released: episode.released,
