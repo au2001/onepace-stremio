@@ -1,7 +1,14 @@
 {
   "streams": [
     {
-      "infoHash": "63a53a466547469c6c854c498301c9308ab76c6a"
+      "infoHash": "63a53a466547469c6c854c498301c9308ab76c6a",
+      "subtitles": [
+        {
+          "id": "[One Pace][252-254] Skypiea 08 [1080p].ass",
+          "lang": "en",
+          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B252-254%5D%20Skypiea%2008%20%5B1080p%5D.ass"
+        }
+      ]
     }
   ]
 }

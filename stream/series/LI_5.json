@@ -2,7 +2,14 @@
   "streams": [
     {
       "infoHash": "43093df501144a675d8f6a177ab1fdaf5e3c9328",
-      "fileIdx": 4
+      "fileIdx": 4,
+      "subtitles": [
+        {
+          "id": "[One Pace][127-129] Little Garden 05 [480p].ass",
+          "lang": "en",
+          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B127-129%5D%20Little%20Garden%2005%20%5B480p%5D.ass"
+        }
+      ]
     }
   ]
 }

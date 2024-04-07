@@ -2,7 +2,19 @@
   "streams": [
     {
       "infoHash": "6c29dedaa9bef46c73a04ebe2c8c9761b92cb9eb",
-      "fileIdx": 0
+      "fileIdx": 0,
+      "subtitles": [
+        {
+          "id": "[One Pace][23-25] Syrup Village 01 [480p] Deutsch.ass",
+          "lang": "de",
+          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B23-25%5D%20Syrup%20Village%2001%20%5B480p%5D%20Deutsch.ass"
+        },
+        {
+          "id": "[One Pace][23-25] Syrup Village 01 [480p].ass",
+          "lang": "en",
+          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B23-25%5D%20Syrup%20Village%2001%20%5B480p%5D.ass"
+        }
+      ]
     }
   ]
 }

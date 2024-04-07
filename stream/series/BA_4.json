@@ -1,7 +1,19 @@
 {
   "streams": [
     {
-      "infoHash": "c103456d91b3f07a283313deed5e9b793ecd5695"
+      "infoHash": "c103456d91b3f07a283313deed5e9b793ecd5695",
+      "subtitles": [
+        {
+          "id": "[One Pace][50-52] Baratie 04 [1080p] Italian.ass",
+          "lang": "it",
+          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B50-52%5D%20Baratie%2004%20%5B1080p%5D%20Italian.ass"
+        },
+        {
+          "id": "[One Pace][50-52] Baratie 04 [1080p].ass",
+          "lang": "en",
+          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B50-52%5D%20Baratie%2004%20%5B1080p%5D.ass"
+        }
+      ]
     }
   ]
 }

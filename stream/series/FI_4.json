@@ -2,7 +2,14 @@
   "streams": [
     {
       "infoHash": "fd204b5dc346f5458f7f04cf1ad98679aaf9586e",
-      "fileIdx": 3
+      "fileIdx": 3,
+      "subtitles": [
+        {
+          "id": "[One Pace][609-610] Fishman Island 04 [720p].ass",
+          "lang": "en",
+          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B609-610%5D%20Fishman%20Island%2004%20%5B720p%5D.ass"
+        }
+      ]
     }
   ]
 }

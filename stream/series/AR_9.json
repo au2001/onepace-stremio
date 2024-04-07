@@ -2,7 +2,14 @@
   "streams": [
     {
       "infoHash": "4c688038db6ae51893f505fbb0c12eafacde8f4b",
-      "fileIdx": 8
+      "fileIdx": 8,
+      "subtitles": [
+        {
+          "id": "[One Pace][91-94] Arlong Park 09 [480p].ass",
+          "lang": "en",
+          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B91-94%5D%20Arlong%20Park%2009%20%5B480p%5D.ass"
+        }
+      ]
     }
   ]
 }

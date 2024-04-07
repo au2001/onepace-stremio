@@ -1,7 +1,14 @@
 {
   "streams": [
     {
-      "infoHash": "1e8b4afc42cce0c51f7b72973de5b90f18246459"
+      "infoHash": "1e8b4afc42cce0c51f7b72973de5b90f18246459",
+      "subtitles": [
+        {
+          "id": "[One Pace][928-930] Wano 15 [1080p].ass",
+          "lang": "en",
+          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B928-930%5D%20Wano%2015%20%5B1080p%5D.ass"
+        }
+      ]
     }
   ]
 }

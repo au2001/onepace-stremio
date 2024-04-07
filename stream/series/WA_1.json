@@ -2,7 +2,14 @@
   "streams": [
     {
       "infoHash": "d67ed82392c28cb6c40509383ba70bfb4e6aefdf",
-      "fileIdx": 0
+      "fileIdx": 0,
+      "subtitles": [
+        {
+          "id": "[One Pace][909-910] Wano 01 [1080p].ass",
+          "lang": "en",
+          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B909-910%5D%20Wano%2001%20%5B1080p%5D.ass"
+        }
+      ]
     }
   ]
 }

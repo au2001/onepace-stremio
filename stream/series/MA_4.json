@@ -2,7 +2,14 @@
   "streams": [
     {
       "infoHash": "3e96ef072e3798dc20d9c9fe21700eee27ff8312",
-      "fileIdx": 3
+      "fileIdx": 3,
+      "subtitles": [
+        {
+          "id": "[One Pace][555-556] Marineford 04 [720p].ass",
+          "lang": "en",
+          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B555-556%5D%20Marineford%2004%20%5B720p%5D.ass"
+        }
+      ]
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "streams": [
     {
-      "infoHash": "b1a87c6668cce9523fe8c56556fedb18438a242b"
+      "infoHash": "b1a87c6668cce9523fe8c56556fedb18438a242b",
+      "subtitles": [
+        {
+          "id": "[One Pace][940-941] Wano 21 [1080p].ass",
+          "lang": "en",
+          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B940-941%5D%20Wano%2021%20%5B1080p%5D.ass"
+        }
+      ]
     }
   ]
 }

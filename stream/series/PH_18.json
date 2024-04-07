@@ -2,7 +2,14 @@
   "streams": [
     {
       "infoHash": "bcdff039cd7c01f2ffb78799b4082d91de25b2fb",
-      "fileIdx": 17
+      "fileIdx": 17,
+      "subtitles": [
+        {
+          "id": "[One Pace][689-690] Punk Hazard 18 [720p].ass",
+          "lang": "en",
+          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B689-690%5D%20Punk%20Hazard%2018%20%5B720p%5D.ass"
+        }
+      ]
     }
   ]
 }

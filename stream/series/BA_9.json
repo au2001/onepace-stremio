@@ -1,7 +1,14 @@
 {
   "streams": [
     {
-      "infoHash": "d42ad6406584c715482920f7014eb190acaf601c"
+      "infoHash": "d42ad6406584c715482920f7014eb190acaf601c",
+      "subtitles": [
+        {
+          "id": "[One Pace][67-68] Baratie 09 [1080p].ass",
+          "lang": "en",
+          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B67-68%5D%20Baratie%2009%20%5B1080p%5D.ass"
+        }
+      ]
     }
   ]
 }

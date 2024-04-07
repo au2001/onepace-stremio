@@ -1,7 +1,14 @@
 {
   "streams": [
     {
-      "infoHash": "a8813f7e4bd753fa76e32ee2b5288cffb5c898f8"
+      "infoHash": "a8813f7e4bd753fa76e32ee2b5288cffb5c898f8",
+      "subtitles": [
+        {
+          "id": "[One Pace][56-59] Baratie 06 [1080p].ass",
+          "lang": "en",
+          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B56-59%5D%20Baratie%2006%20%5B1080p%5D.ass"
+        }
+      ]
     }
   ]
 }

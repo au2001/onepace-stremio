@@ -2,7 +2,14 @@
   "streams": [
     {
       "infoHash": "2589926c8f90e8f031a6caeab93bcd5b79990c0e",
-      "fileIdx": 7
+      "fileIdx": 7,
+      "subtitles": [
+        {
+          "id": "[One Pace][505-506] Sabaody Archipelago 08 [720p].ass",
+          "lang": "en",
+          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B505-506%5D%20Sabaody%20Archipelago%2008%20%5B720p%5D.ass"
+        }
+      ]
     }
   ]
 }

@@ -2,7 +2,14 @@
   "streams": [
     {
       "infoHash": "2589926c8f90e8f031a6caeab93bcd5b79990c0e",
-      "fileIdx": 3
+      "fileIdx": 3,
+      "subtitles": [
+        {
+          "id": "[One Pace][496-497] Sabaody Archipelago 04 [720p].ass",
+          "lang": "en",
+          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B496-497%5D%20Sabaody%20Archipelago%2004%20%5B720p%5D.ass"
+        }
+      ]
     }
   ]
 }

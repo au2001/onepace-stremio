@@ -1,7 +1,14 @@
 {
   "streams": [
     {
-      "infoHash": "0a9639f371dbd1270c79b058309aeba62d91ebc6"
+      "infoHash": "0a9639f371dbd1270c79b058309aeba62d91ebc6",
+      "subtitles": [
+        {
+          "id": "[One Pace][948-949] Wano 26 [1080p].ass",
+          "lang": "en",
+          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B948-949%5D%20Wano%2026%20%5B1080p%5D.ass"
+        }
+      ]
     }
   ]
 }

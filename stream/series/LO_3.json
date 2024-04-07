@@ -2,7 +2,14 @@
   "streams": [
     {
       "infoHash": "fc5f605b1fc12f8a14b6176690151ea53bcb7e19",
-      "fileIdx": 2
+      "fileIdx": 2,
+      "subtitles": [
+        {
+          "id": "[One Pace][98-100] Loguetown 03 [480p].ass",
+          "lang": "en",
+          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B98-100%5D%20Loguetown%2003%20%5B480p%5D.ass"
+        }
+      ]
     }
   ]
 }

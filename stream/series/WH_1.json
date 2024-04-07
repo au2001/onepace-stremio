@@ -2,7 +2,14 @@
   "streams": [
     {
       "infoHash": "d5af21f3f6ab66d20dda4b131b5eeb0e17a23b7a",
-      "fileIdx": 0
+      "fileIdx": 0,
+      "subtitles": [
+        {
+          "id": "[One Pace][106-109] Whisky Peak 01 [1080p].ass",
+          "lang": "en",
+          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B106-109%5D%20Whisky%20Peak%2001%20%5B1080p%5D.ass"
+        }
+      ]
     }
   ]
 }

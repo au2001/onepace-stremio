@@ -2,7 +2,14 @@
   "streams": [
     {
       "infoHash": "59497fc3d9a6dbcdbaced48eaa9f5ba2047614df",
-      "fileIdx": 2
+      "fileIdx": 2,
+      "subtitles": [
+        {
+          "id": "[One Pace][436-437] Post-Enies Lobby 03 [720p].ass",
+          "lang": "en",
+          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B436-437%5D%20Post-Enies%20Lobby%2003%20%5B720p%5D.ass"
+        }
+      ]
     }
   ]
 }

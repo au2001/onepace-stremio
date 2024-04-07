@@ -1,7 +1,34 @@
 {
   "streams": [
     {
-      "infoHash": "a80390cd2b04c68811c6b139929dd5ac512a403c"
+      "infoHash": "a80390cd2b04c68811c6b139929dd5ac512a403c",
+      "subtitles": [
+        {
+          "id": "[One Pace][47-49] Baratie 03 [1080p] Deutsch.ass",
+          "lang": "de",
+          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B47-49%5D%20Baratie%2003%20%5B1080p%5D%20Deutsch.ass"
+        },
+        {
+          "id": "[One Pace][47-49] Baratie 03 [1080p].ass",
+          "lang": "en",
+          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B47-49%5D%20Baratie%2003%20%5B1080p%5D.ass"
+        },
+        {
+          "id": "[One Pace][48-49] Baratie 03 [1080p] Deutsch.ass",
+          "lang": "de",
+          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B48-49%5D%20Baratie%2003%20%5B1080p%5D%20Deutsch.ass"
+        },
+        {
+          "id": "[One Pace][48-49] Baratie 03 [1080p] Italian.ass",
+          "lang": "it",
+          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B48-49%5D%20Baratie%2003%20%5B1080p%5D%20Italian.ass"
+        },
+        {
+          "id": "[One Pace][48-49] Baratie 03 [1080p].ass",
+          "lang": "en",
+          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B48-49%5D%20Baratie%2003%20%5B1080p%5D.ass"
+        }
+      ]
     }
   ]
 }

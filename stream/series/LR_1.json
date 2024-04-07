@@ -2,7 +2,14 @@
   "streams": [
     {
       "infoHash": "4f2b72009c25ec6c534a852ddfc3fd85ed10fdf5",
-      "fileIdx": 0
+      "fileIdx": 0,
+      "subtitles": [
+        {
+          "id": "[One Pace][304-306] Long Ring Long Land 01 [720p].ass",
+          "lang": "en",
+          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B304-306%5D%20Long%20Ring%20Long%20Land%2001%20%5B720p%5D.ass"
+        }
+      ]
     }
   ]
 }

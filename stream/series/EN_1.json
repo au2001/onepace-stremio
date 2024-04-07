@@ -1,7 +1,14 @@
 {
   "streams": [
     {
-      "infoHash": "86fbff72e60cf50f347b9c30308c64f966e664a5"
+      "infoHash": "86fbff72e60cf50f347b9c30308c64f966e664a5",
+      "subtitles": [
+        {
+          "id": "[One Pace][375-376] Enies Lobby 01 [1080p].ass",
+          "lang": "en",
+          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B375-376%5D%20Enies%20Lobby%2001%20%5B1080p%5D.ass"
+        }
+      ]
     }
   ]
 }

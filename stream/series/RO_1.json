@@ -2,7 +2,29 @@
   "streams": [
     {
       "infoHash": "d42d71270da00dd578e34fb28517a5fffe4d2cfb",
-      "fileIdx": 0
+      "fileIdx": 0,
+      "subtitles": [
+        {
+          "id": "[One Pace][1] Romance Dawn 01 [1080p] Deutsch.ass",
+          "lang": "de",
+          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B1%5D%20Romance%20Dawn%2001%20%5B1080p%5D%20Deutsch.ass"
+        },
+        {
+          "id": "[One Pace][1] Romance Dawn 01 [1080p] Italian.ass",
+          "lang": "it",
+          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B1%5D%20Romance%20Dawn%2001%20%5B1080p%5D%20Italian.ass"
+        },
+        {
+          "id": "[One Pace][1] Romance Dawn 01 [1080p] Portugues.ass",
+          "lang": "pt",
+          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B1%5D%20Romance%20Dawn%2001%20%5B1080p%5D%20Portugues.ass"
+        },
+        {
+          "id": "[One Pace][1] Romance Dawn 01 [1080p].ass",
+          "lang": "en",
+          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B1%5D%20Romance%20Dawn%2001%20%5B1080p%5D.ass"
+        }
+      ]
     }
   ]
 }

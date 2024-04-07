@@ -1,7 +1,14 @@
 {
   "streams": [
     {
-      "infoHash": "24b093304e357aad9f3c7b958c199a3ce9fd8bff"
+      "infoHash": "24b093304e357aad9f3c7b958c199a3ce9fd8bff",
+      "subtitles": [
+        {
+          "id": "[One Pace][397-398] Enies Lobby 10 [720p].ass",
+          "lang": "en",
+          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B397-398%5D%20Enies%20Lobby%2010%20%5B720p%5D.ass"
+        }
+      ]
     }
   ]
 }

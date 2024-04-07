@@ -2,7 +2,14 @@
   "streams": [
     {
       "infoHash": "8eae38e998ff4e537f0974ab4249f89479fb644d",
-      "fileIdx": 28
+      "fileIdx": 28,
+      "subtitles": [
+        {
+          "id": "[One Pace][879-880] Whole Cake Island 29 [720p].ass",
+          "lang": "en",
+          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B879-880%5D%20Whole%20Cake%20Island%2029%20%5B720p%5D.ass"
+        }
+      ]
     }
   ]
 }

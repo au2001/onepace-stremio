@@ -1,7 +1,14 @@
 {
   "streams": [
     {
-      "infoHash": "48869d544c38227988763c9b0835e421bdaeeed1"
+      "infoHash": "48869d544c38227988763c9b0835e421bdaeeed1",
+      "subtitles": [
+        {
+          "id": "[One Pace][179-182] Arabasta 10 [1080p].ass",
+          "lang": "en",
+          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B179-182%5D%20Arabasta%2010%20%5B1080p%5D.ass"
+        }
+      ]
     }
   ]
 }

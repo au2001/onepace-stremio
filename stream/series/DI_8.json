@@ -1,7 +1,19 @@
 {
   "streams": [
     {
-      "infoHash": "a464ed705df4d6e5c82182720fcb680aff526df9"
+      "infoHash": "a464ed705df4d6e5c82182720fcb680aff526df9",
+      "subtitles": [
+        {
+          "id": "[One Pace][153-155, 142] Drum Island 08 [1080p].ass",
+          "lang": "en",
+          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B153-155,%20142%5D%20Drum%20Island%2008%20%5B1080p%5D.ass"
+        },
+        {
+          "id": "[One Pace][153-155] Drum Island 08 [1080p].ass",
+          "lang": "en",
+          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B153-155%5D%20Drum%20Island%2008%20%5B1080p%5D.ass"
+        }
+      ]
     }
   ]
 }

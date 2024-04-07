@@ -2,7 +2,14 @@
   "streams": [
     {
       "infoHash": "a031cac6baf81b804c4d034dfaef0e5e4a671145",
-      "fileIdx": 12
+      "fileIdx": 12,
+      "subtitles": [
+        {
+          "id": "[One Pace][724-725] Dressrosa 13 [720p].ass",
+          "lang": "en",
+          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B724-725%5D%20Dressrosa%2013%20%5B720p%5D.ass"
+        }
+      ]
     }
   ]
 }

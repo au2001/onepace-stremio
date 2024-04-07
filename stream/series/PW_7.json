@@ -1,7 +1,14 @@
 {
   "streams": [
     {
-      "infoHash": "53b3c345c97722e5840573c7781d8c09583434dd"
+      "infoHash": "53b3c345c97722e5840573c7781d8c09583434dd",
+      "subtitles": [
+        {
+          "id": "[One Pace][593-594] Post-War 07 [1080p].ass",
+          "lang": "en",
+          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B593-594%5D%20Post-War%2007%20%5B1080p%5D.ass"
+        }
+      ]
     }
   ]
 }

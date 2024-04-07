@@ -1,7 +1,14 @@
 {
   "streams": [
     {
-      "infoHash": "b5a0d39d7b1eda73ccb3d70ddfa608e7834b84ce"
+      "infoHash": "b5a0d39d7b1eda73ccb3d70ddfa608e7834b84ce",
+      "subtitles": [
+        {
+          "id": "[One Pace][189-192] Arabasta 13 [1080p].ass",
+          "lang": "en",
+          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B189-192%5D%20Arabasta%2013%20%5B1080p%5D.ass"
+        }
+      ]
     }
   ]
 }

@@ -1,7 +1,14 @@
 {
   "streams": [
     {
-      "infoHash": "fb777e9dadcf29a80900d8846e64ab33f9df6077"
+      "infoHash": "fb777e9dadcf29a80900d8846e64ab33f9df6077",
+      "subtitles": [
+        {
+          "id": "[One Pace][225-226] Jaya 03 [1080p].ass",
+          "lang": "en",
+          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B225-226%5D%20Jaya%2003%20%5B1080p%5D.ass"
+        }
+      ]
     }
   ]
 }

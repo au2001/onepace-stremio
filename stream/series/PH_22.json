@@ -2,7 +2,14 @@
   "streams": [
     {
       "infoHash": "bcdff039cd7c01f2ffb78799b4082d91de25b2fb",
-      "fileIdx": 21
+      "fileIdx": 21,
+      "subtitles": [
+        {
+          "id": "[One Pace][698-699] Punk Hazard 22 [720p].ass",
+          "lang": "en",
+          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B698-699%5D%20Punk%20Hazard%2022%20%5B720p%5D.ass"
+        }
+      ]
     }
   ]
 }

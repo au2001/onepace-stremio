@@ -1,7 +1,14 @@
 {
   "streams": [
     {
-      "infoHash": "c3d949cf5c3229da4e355867599bea0933a23ec2"
+      "infoHash": "c3d949cf5c3229da4e355867599bea0933a23ec2",
+      "subtitles": [
+        {
+          "id": "[One Pace][169-170] Arabasta 07 [1080p].ass",
+          "lang": "en",
+          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B169-170%5D%20Arabasta%2007%20%5B1080p%5D.ass"
+        }
+      ]
     }
   ]
 }

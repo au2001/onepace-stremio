@@ -2,7 +2,14 @@
   "streams": [
     {
       "infoHash": "1f62e2583956c412f8550672bc8066c5e96ab0a8",
-      "fileIdx": 2
+      "fileIdx": 2,
+      "subtitles": [
+        {
+          "id": "[One Pace][518-519] Amazon Lily 03 [720p].ass",
+          "lang": "en",
+          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B518-519%5D%20Amazon%20Lily%2003%20%5B720p%5D.ass"
+        }
+      ]
     }
   ]
 }

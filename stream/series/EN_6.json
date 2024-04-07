@@ -1,7 +1,14 @@
 {
   "streams": [
     {
-      "infoHash": "eef5f64e3d053a6abe98dcabe934c67d5d2e3a73"
+      "infoHash": "eef5f64e3d053a6abe98dcabe934c67d5d2e3a73",
+      "subtitles": [
+        {
+          "id": "[One Pace][385-387] Enies Lobby 06 [720p].ass",
+          "lang": "en",
+          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B385-387%5D%20Enies%20Lobby%2006%20%5B720p%5D.ass"
+        }
+      ]
     }
   ]
 }

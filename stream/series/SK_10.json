@@ -1,7 +1,14 @@
 {
   "streams": [
     {
-      "infoHash": "aca4c747981ae6f366fe82d1fa6dceb7f619e49e"
+      "infoHash": "aca4c747981ae6f366fe82d1fa6dceb7f619e49e",
+      "subtitles": [
+        {
+          "id": "[One Pace][258-260] Skypiea 10 [1080p].ass",
+          "lang": "en",
+          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B258-260%5D%20Skypiea%2010%20%5B1080p%5D.ass"
+        }
+      ]
     }
   ]
 }

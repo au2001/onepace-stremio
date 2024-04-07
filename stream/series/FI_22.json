@@ -2,7 +2,14 @@
   "streams": [
     {
       "infoHash": "fd204b5dc346f5458f7f04cf1ad98679aaf9586e",
-      "fileIdx": 21
+      "fileIdx": 21,
+      "subtitles": [
+        {
+          "id": "[One Pace][647-649] Fishman Island 22 [720p].ass",
+          "lang": "en",
+          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B647-649%5D%20Fishman%20Island%2022%20%5B720p%5D.ass"
+        }
+      ]
     }
   ]
 }

@@ -2,7 +2,14 @@
   "streams": [
     {
       "infoHash": "2e1a040b1de930368ae027be070e6e8bc134b709",
-      "fileIdx": 5
+      "fileIdx": 5,
+      "subtitles": [
+        {
+          "id": "[One Pace][537-538] Impel Down 06 [720p].ass",
+          "lang": "en",
+          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B537-538%5D%20Impel%20Down%2006%20%5B720p%5D.ass"
+        }
+      ]
     }
   ]
 }

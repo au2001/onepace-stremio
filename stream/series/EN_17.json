@@ -1,7 +1,14 @@
 {
   "streams": [
     {
-      "infoHash": "4d3503626c56e2199ab7fdb911de35bf4605348a"
+      "infoHash": "4d3503626c56e2199ab7fdb911de35bf4605348a",
+      "subtitles": [
+        {
+          "id": "[One Pace][412-413] Enies Lobby 17 [1080p].ass",
+          "lang": "en",
+          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B412-413%5D%20Enies%20Lobby%2017%20%5B1080p%5D.ass"
+        }
+      ]
     }
   ]
 }

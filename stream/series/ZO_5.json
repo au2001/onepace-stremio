@@ -2,7 +2,14 @@
   "streams": [
     {
       "infoHash": "5c027631a28242814a6cf1fe24f455b70bca14bc",
-      "fileIdx": 4
+      "fileIdx": 4,
+      "subtitles": [
+        {
+          "id": "[One Pace][810-811] Zou 05 [720p].ass",
+          "lang": "en",
+          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B810-811%5D%20Zou%2005%20%5B720p%5D.ass"
+        }
+      ]
     }
   ]
 }

@@ -2,7 +2,14 @@
   "streams": [
     {
       "infoHash": "c5860b5066c7ed8bfe51abde23f76ef3f78a6ec7",
-      "fileIdx": 0
+      "fileIdx": 0,
+      "subtitles": [
+        {
+          "id": "[One Pace][903-904] Reverie 01 [1080p].ass",
+          "lang": "en",
+          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B903-904%5D%20Reverie%2001%20%5B1080p%5D.ass"
+        }
+      ]
     }
   ]
 }

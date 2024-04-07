@@ -1,7 +1,14 @@
 {
   "streams": [
     {
-      "infoHash": "b6d264228c2fb62b413d9f73a9d546495fc35069"
+      "infoHash": "b6d264228c2fb62b413d9f73a9d546495fc35069",
+      "subtitles": [
+        {
+          "id": "[One Pace][145-148] Drum Island 06 [1080p].ass",
+          "lang": "en",
+          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B145-148%5D%20Drum%20Island%2006%20%5B1080p%5D.ass"
+        }
+      ]
     }
   ]
 }
