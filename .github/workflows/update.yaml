@@ -39,11 +39,19 @@ jobs:
       - name: Generate GraphQL types
         run: npm run generate
 
-      - name: Cache torrent files
-        uses: actions/cache@v4
+      - name: Get current date
+        id: date
+        run: |
+          echo "utc=$(date -u +"%Y-%m-%dT%H:%M:%SZ")" >> "$GITHUB_OUTPUT"
+
+      - name: Restore torrent files
+        id: cache
+        uses: actions/cache/restore@v4
         with:
           path: cache
-          key: torrents
+          key: torrents-${{ steps.date.outputs.utc }}
+          restore-keys: |
+            torrents-
 
       - name: Scrape One Pace website
         id: scrape
@@ -51,6 +59,13 @@ jobs:
           echo "message<<EOF" >> "$GITHUB_OUTPUT"
           npm run --silent scrape | sed 's/$/<br>/g' >> "$GITHUB_OUTPUT"
           echo "EOF" >> "$GITHUB_OUTPUT"
+
+      - name: Cache torrent files
+        uses: actions/cache/save@v4
+        if: always()
+        with:
+          path: cache
+          key: ${{ steps.cache.outputs.cache-primary-key }}
 
       - name: Commit changes
         id: commit
