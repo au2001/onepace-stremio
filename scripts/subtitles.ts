@@ -21,11 +21,19 @@ const convert = async (input: string, output: string) =>
   await new Promise((resolve, reject) => {
     ffmpeg()
       .input(path.join(LOCAL_DIR, input))
-      .output(path.join(__dirname, "..", output))
+      .output(output)
       .on("error", reject)
       .on("end", resolve)
       .run();
   });
+
+const removeComments = async (file: string) => {
+  let data = (await fs.readFile(file)).toString();
+
+  data = data.replace(/\{[^\}]*\}/gm, "");
+
+  await fs.writeFile(file, data);
+};
 
 export const getSubtitles = async (arc: Arc, video: Video) => {
   const filter = ` ${arc.invariant_title} ${video.episode.toString().padStart(2, "0")} `;
@@ -46,8 +54,10 @@ export const getSubtitles = async (arc: Arc, video: Video) => {
 
     const id = `${video.id}_${lang}`;
     const output = path.join("./static/", `${id}.srt`);
+    const file = path.join(__dirname, "..", output);
 
-    await convert(input, output);
+    await convert(input, file);
+    await removeComments(file);
 
     subtitles.push({
       id,
