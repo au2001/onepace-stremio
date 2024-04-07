@@ -5,6 +5,7 @@ import { RateLimiter } from "limiter";
 import { Stream, Video } from "./types";
 import { getArcPrefix } from "./utils";
 import { Arc, DownloadType, Episode } from "./generated/graphql";
+import { getSubtitles } from "./subtitles";
 
 const limiter = new RateLimiter({ tokensPerInterval: 3, interval: 1000 });
 
@@ -116,6 +117,7 @@ export const getVideo = async (
     const stream: Stream = {
       infoHash,
       fileIdx,
+      subtitles: await getSubtitles(arc, episode),
     };
 
     return [video, stream];

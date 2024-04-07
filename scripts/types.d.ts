@@ -11,4 +11,11 @@ export interface Video {
 export interface Stream {
   infoHash: string;
   fileIdx?: number;
+  subtitles?: Subtitle[];
+}
+
+export interface Subtitle {
+  id: string;
+  url: string;
+  lang: string;
 }

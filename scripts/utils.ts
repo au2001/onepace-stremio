@@ -135,6 +135,23 @@ export const saveStream = async (
         updated = true;
       }
 
+      const subtitles = new Set(stream.subtitles?.map((subtitle) => subtitle.lang));
+      const newSubtitles = new Set(newStream.subtitles?.map((subtitle) => subtitle.lang));
+
+      const removedSubtitles = [...subtitles].filter((lang) => !newSubtitles.has(lang));
+      if (removedSubtitles.length !== 0) {
+        console.error(
+          `${video.id} subtitles removed in ${removedSubtitles.join(", ")}`,
+        );
+      }
+      
+      const addedSubtitles = [...newSubtitles].filter((lang) => !subtitles.has(lang));
+      if (addedSubtitles.length !== 0) {
+        console.error(
+          `${video.id} subtitles added in ${addedSubtitles.join(", ")}`,
+        );
+      }
+
       if (updated) {
         console.log(
           `Update: ${arc.invariant_title} episode ${video.episode} "${video.title}" re-released.`,

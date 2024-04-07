@@ -1,0 +1,3 @@
+[submodule "scripts/subtitles"]
+	path = scripts/subtitles
+	url = https://github.com/one-pace/one-pace-public-subtitles.git
