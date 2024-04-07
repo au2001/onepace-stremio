@@ -1,0 +1,2306 @@
+1
+00:00:00,000 --> 00:00:09,990
+<font face="Impress BT Pace" size="90">Your media player does not support the subtitle format used in this episode.
+Subtitles will likely not function properly.
+Please use one of the recommended video players, preferably mpv:
+https://mpv.io</font>
+
+2
+00:00:00,180 --> 00:00:03,180
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}<font color="#000000">Video Editing</font></b></font>
+
+3
+00:00:00,180 --> 00:00:03,180
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}Video Editing</b></font>
+
+4
+00:00:00,180 --> 00:00:03,180
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}<font color="#000000">Galaxy 9000</font></b></font>
+
+5
+00:00:00,180 --> 00:00:03,180
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}Galaxy 9000</b></font>
+
+6
+00:00:01,350 --> 00:00:04,530
+<font face="Impress BT Pace" size="82"><i>{\an8}Wealth, fame, power...</i></font>
+
+7
+00:00:03,180 --> 00:00:06,180
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}<font color="#000000">Graphics</font></b></font>
+
+8
+00:00:03,180 --> 00:00:06,180
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}Graphics</b></font>
+
+9
+00:00:03,180 --> 00:00:06,180
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}<font color="#000000">Datenshi</font></b></font>
+
+10
+00:00:03,180 --> 00:00:06,180
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}Datenshi</b></font>
+
+11
+00:00:05,600 --> 00:00:08,340
+<font face="Impress BT Pace" size="82"><i>{\an8}Gold Roger, the King of the Pirates,</i></font>
+
+12
+00:00:06,180 --> 00:00:09,180
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}<font color="#000000">Soundtracking</font></b></font>
+
+13
+00:00:06,180 --> 00:00:09,180
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}Soundtracking</b></font>
+
+14
+00:00:06,180 --> 00:00:09,180
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}<font color="#000000">Halee</font></b></font>
+
+15
+00:00:06,180 --> 00:00:09,180
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}Halee</b></font>
+
+16
+00:00:08,340 --> 00:00:10,900
+<font face="Impress BT Pace" size="82"><i>{\an8}obtained everything the world had to offer.</i></font>
+
+17
+00:00:09,180 --> 00:00:12,180
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}<font color="#000000">Quality Control</font></b></font>
+
+18
+00:00:09,180 --> 00:00:12,180
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}Quality Control</b></font>
+
+19
+00:00:09,180 --> 00:00:12,180
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}<font color="#000000">JT-421
+Pepperjack
+TheFVGuy</font></b></font>
+
+20
+00:00:09,180 --> 00:00:12,180
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}JT-421
+Pepperjack
+TheFVGuy</b></font>
+
+21
+00:00:11,470 --> 00:00:17,370
+<font face="Impress BT Pace" size="82"><i>{\an8}His final words lured all sorts
+of adventurers to the sea.</i></font>
+
+22
+00:00:12,180 --> 00:00:14,680
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}<font color="#000000">Timing</font></b></font>
+
+23
+00:00:12,180 --> 00:00:14,680
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}Timing</b></font>
+
+24
+00:00:12,180 --> 00:00:14,680
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}<font color="#000000">PhosCity</font></b></font>
+
+25
+00:00:12,180 --> 00:00:14,680
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}PhosCity</b></font>
+
+26
+00:00:14,680 --> 00:00:17,680
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}<font color="#000000">Karaoke</font></b></font>
+
+27
+00:00:14,680 --> 00:00:17,680
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}Karaoke</b></font>
+
+28
+00:00:14,680 --> 00:00:17,680
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}<font color="#000000">KaitouYahiko</font></b></font>
+
+29
+00:00:14,680 --> 00:00:17,680
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}KaitouYahiko</b></font>
+
+30
+00:00:17,680 --> 00:00:20,680
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}<font color="#000000">Subtitle Editing</font></b></font>
+
+31
+00:00:17,680 --> 00:00:20,680
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}Subtitle Editing</b></font>
+
+32
+00:00:17,680 --> 00:00:20,680
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}<font color="#000000">Feeso
+JT-421
+Ravenfire
+Zenef</font></b></font>
+
+33
+00:00:17,680 --> 00:00:20,680
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}Feeso
+JT-421
+Ravenfire
+Zenef</b></font>
+
+34
+00:00:17,770 --> 00:00:23,590
+<font face="Impress BT Pace" size="82">My treasure?
+It's yours, if you can find it.</font>
+
+35
+00:00:20,680 --> 00:00:23,680
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}<font color="#000000">Translation</font></b></font>
+
+36
+00:00:20,680 --> 00:00:23,680
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}Translation</b></font>
+
+37
+00:00:20,680 --> 00:00:23,680
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}<font color="#000000">arch1t3cht
+Crunchyroll
+DemonRin</font></b></font>
+
+38
+00:00:20,680 --> 00:00:23,680
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}arch1t3cht
+Crunchyroll
+DemonRin</b></font>
+
+39
+00:00:23,590 --> 00:00:26,330
+<font face="Impress BT Pace" size="82">Everything is right where I left it!</font>
+
+40
+00:00:26,840 --> 00:00:31,340
+<font face="Impress BT Pace" size="82"><i>{\an8}Now, pirates head for the Grand Line
+in pursuit of their dreams!</i></font>
+
+41
+00:00:31,950 --> 00:00:34,020
+<font face="Impress BT Pace" size="82"><i>{\an8}The world has entered...</i></font>
+
+42
+00:00:34,020 --> 00:00:36,100
+<font face="Impress BT Pace" size="82"><i>{\an8}the Great Pirate Era!</i></font>
+
+43
+00:00:37,930 --> 00:00:42,180
+<font face="M+ 1c" size="95" color="#fefefe"><b><font color="#272727">The Dawn of an Adventure</font></b></font>
+
+44
+00:00:37,930 --> 00:00:42,180
+<font face="M+ 1c" size="95" color="#fefefe"><b><font color="#e6e6e6">The Dawn of an Adventure</font></b></font>
+
+45
+00:00:51,860 --> 00:00:54,740
+<font face="Impress BT Pace" size="82">Hey, Luffy!
+What are you trying to do?!</font>
+
+46
+00:00:56,570 --> 00:01:02,040
+<font face="Kakumin Web" size="56"><b><font color="#000000">Monkey D. Luffy{A }
+Village Boy</font></b></font>
+
+47
+00:00:56,570 --> 00:01:02,040
+<font face="Kakumin Web" size="56"><b>Monkey D. Luffy{A }
+Village Boy</b></font>
+
+48
+00:00:56,900 --> 00:01:02,040
+<font face="Impress BT Pace" size="82">{I'm really serious! I'm so pissed!
+I'm gonna prove it to you!}{I'm serious, and I'm pissed off!
+I'm gonna prove it to you! - OG}I've had it! I'm not a little kid anymore!
+I'm gonna prove it to you!{arch - Z: removed "And" from start of third line}</font>
+
+49
+00:01:04,080 --> 00:01:07,880
+<font face="Impress BT Pace" size="82">{Yeah, do it! I don't know
+what you're gonna do though!}Get on with it already...
+whatever it is you're up to!</font>
+
+50
+00:01:10,710 --> 00:01:12,000
+<font face="Impress BT Pace" size="82">Ouch!</font>
+
+51
+00:01:12,000 --> 00:01:14,380
+<font face="Impress BT Pace" size="82">You idiot!
+{What are you doing}What'd you do that for?!</font>
+
+52
+00:01:14,380 --> 00:01:15,950
+<font face="Impress BT Pace" size="82">{Cheers, guys!}Guys! A toast!</font>
+
+53
+00:01:17,560 --> 00:01:22,560
+<font face="Impress BT Pace" size="82">To Luffy's guts and to {our great journey}another
+successful voyage!</font>
+
+54
+00:01:23,400 --> 00:01:25,440
+<font face="Impress BT Pace" size="82">{Oh}{Uh}Ah, it didn't hurt {at all}one bit!</font>
+
+55
+00:01:25,440 --> 00:01:27,860
+<font face="Impress BT Pace" size="82">{That's a lie. Don't do such a stupid thing.}Liar. You can't pull
+dumb stunts like that.</font>
+
+56
+00:01:27,860 --> 00:01:28,940
+<font face="Impress BT Pace" size="82">{It's not a lie!}I'm not lying!</font>
+
+57
+00:01:28,940 --> 00:01:31,770
+<font face="Impress BT Pace" size="82">I'm not scared of getting hurt!</font>
+
+58
+00:01:31,770 --> 00:01:35,950
+<font face="Impress BT Pace" size="82">{Take}{So, take me on your next voyage!
+I wanna be a pirate too! - OG}So, take me with you when you set sail!
+I wanna be a pirate too!{arch/Raven}</font>
+
+59
+00:01:37,520 --> 00:01:39,950
+<font face="Impress BT Pace" size="82">{As if you could ever be a pirate}Like you'd ever make it as a pirate!</font>
+
+60
+00:01:40,200 --> 00:01:43,580
+<font face="Kakumin Web" size="56"><b><font color="#000000">"Red-Haired" Shanks
+Pirate Captain</font></b></font>
+
+61
+00:01:40,200 --> 00:01:43,580
+<font face="Kakumin Web" size="56"><b>"Red-Haired" Shanks
+Pirate Captain</b></font>
+
+62
+00:01:40,460 --> 00:01:43,580
+<font face="Impress BT Pace" size="82">{It's a fatal flaw for a pirate to be an anchor! - OG}{[/q2]It's a fatal flaw for a pirate to sink like an anchor! - arch/Raven}There's no use for a pirate that sinks like an anchor!{arch/Raven}</font>
+
+63
+00:01:43,580 --> 00:01:46,520
+<font face="Impress BT Pace" size="82">{I'll be okay as long as
+I don't fall out of the ship!}I'll be just fine if I don't fall overboard!</font>
+
+64
+00:01:46,520 --> 00:01:48,710
+<font face="Impress BT Pace" size="82">{And I'm good at fighting too}And besides, I'm a good fighter!</font>
+
+65
+00:01:48,710 --> 00:01:53,460
+<font face="Impress BT Pace" size="82">{I'm well-trained so my
+punches are like pistols!}I've been training,
+so now my punches are like pistols!{Z}</font>
+
+66
+00:01:53,460 --> 00:01:56,200
+<font face="Impress BT Pace" size="82">Pistols? Oh, <i>really</i>?</font>
+
+67
+00:01:54,680 --> 00:02:04,670
+<font face="Impress BT Pace" size="90">Your media player does not support the subtitle format used in this episode.
+Subtitles will likely not function properly.
+Please use one of the recommended video players, preferably mpv:
+https://mpv.io</font>
+
+68
+00:01:56,200 --> 00:01:57,800
+<font face="Impress BT Pace" size="82">{What's [/i1]that[/i0] mean?! - OG}What's <i>that</i> supposed to mean?!{arch/Raven}</font>
+
+69
+00:01:57,800 --> 00:01:59,180
+<font face="Impress BT Pace" size="82">Luffy!</font>
+
+70
+00:01:59,470 --> 00:02:01,720
+<font face="Impress BT Pace" size="82">{You're in such a bad mood!}{What's eating you? - OG}You're getting so worked up!{arch/Raven}</font>
+
+71
+00:02:01,720 --> 00:02:04,140
+<font face="Impress BT Pace" size="82">{Have fun at whatever you're doing!}Loosen up and have some fun!</font>
+
+72
+00:02:04,140 --> 00:02:06,810
+<font face="Impress BT Pace" size="82">{Yes! Being a pirate is fun!}Yeah! Being a pirate is <i>about</i> having fun!</font>
+
+73
+00:02:06,810 --> 00:02:09,100
+<font face="Impress BT Pace" size="82">{The sea is broad and vast! - OG}The sea is boundless!{Z}</font>
+
+74
+00:02:09,100 --> 00:02:11,560
+<font face="Impress BT Pace" size="82">{We're traveling various islands! - OG}There are tons of islands to explore!</font>
+
+75
+00:02:11,560 --> 00:02:13,190
+<font face="Impress BT Pace" size="82">{Above all, we're free! - OG}It's all about freedom!</font>
+
+76
+00:02:14,650 --> 00:02:18,030
+<font face="Impress BT Pace" size="82">{Guys, don't teach him such silly stuff. - OG}Guys, stop filling his head with nonsense.</font>
+
+77
+00:02:18,030 --> 00:02:20,030
+<font face="Impress BT Pace" size="82">But it's all true! Right?!</font>
+
+78
+00:02:20,030 --> 00:02:23,450
+<font face="Impress BT Pace" size="82">{C'mon, Boss, why not take him
+on just one voyage? - OG}C'mon, Boss, why not take him
+on just one trip?{arch/Raven}</font>
+
+79
+00:02:23,450 --> 00:02:25,780
+<font face="Impress BT Pace" size="82">{I think so too.}I'd second that.</font>
+
+80
+00:02:25,780 --> 00:02:28,250
+<font face="Impress BT Pace" size="82">{Then, somebody, trade places with him.}Sure, but one of you stays behind.</font>
+
+81
+00:02:28,250 --> 00:02:31,360
+<font face="Impress BT Pace" size="82">{Okay, we're done talking! Let's drink! - OG}Good chat, kid! Let's drink!{Z}</font>
+
+82
+00:02:31,360 --> 00:02:32,960
+<font face="Impress BT Pace" size="82">{Didn't you side with me?! - OG}Weren't you on my side?!</font>
+
+83
+00:02:32,970 --> 00:02:38,930
+<font face="Impress BT Pace" size="82">{In short, you're too much of a kid.
+I'll consider it when you're 10 years older! - OG}Really, you're just too young, kid.
+Maybe I'll give you a chance in about ten years!{Z}</font>
+
+84
+00:02:38,930 --> 00:02:41,680
+<font face="Impress BT Pace" size="82">{Stupid Shanks! I'm not a kid!}{C'mon, Shanks! I'm not a little kid!}Shanks, you big jerk! I'm not a little kid!</font>
+
+85
+00:02:41,680 --> 00:02:44,300
+<font face="Impress BT Pace" size="82">{Now, now. Don't get so mad.
+Have some juice! - OG}{Hey, now. Simmer down
+and have some juice. - Z}Hey, now. Simmer down.
+Here, have some juice.{arch/Raven}</font>
+
+86
+00:02:44,300 --> 00:02:46,360
+<font face="Impress BT Pace" size="82">{Wow! Thanks! - OG}Oh! Thanks!</font>
+
+87
+00:02:47,940 --> 00:02:49,820
+<font face="Impress BT Pace" size="82">{See, you are just a kid! Ha! - OG}See?! You <i>are</i> just a kid!</font>
+
+88
+00:02:49,820 --> 00:02:51,480
+<font face="Impress BT Pace" size="82">{That wasn't fair, Shanks! - OG}No fair, Shanks!</font>
+
+89
+00:02:52,480 --> 00:02:54,500
+<font face="Impress BT Pace" size="82">{I'm tired now! - OG}I'm so sick of this!</font>
+
+90
+00:02:54,500 --> 00:02:58,220
+<font face="Impress BT Pace" size="82">{Luffy, you gotta try
+to understand how Boss feels. - OG}Luffy, try to understand
+where the boss is coming from.</font>
+
+91
+00:02:58,220 --> 00:02:58,990
+<font face="Impress BT Pace" size="82">{First mate! - OG}The first mate!</font>
+
+92
+00:02:59,920 --> 00:03:03,420
+<font face="Impress BT Pace" size="82">{There's no denying that he's
+the head of a pirate group. - OG}The reality is,
+he's the head of a pirate crew.</font>
+
+93
+00:03:03,420 --> 00:03:07,370
+<font face="Impress BT Pace" size="82">{He knows how tough and dangerous
+being a pirate is more than anybody. - OG}He knows better than anybody
+how tough and dangerous pirating can be.</font>
+
+94
+00:03:07,370 --> 00:03:11,920
+<font face="Impress BT Pace" size="82">{You get it?
+He's not trying to break your spirit. - OG}You get it? He's not
+trying to dash your hopes.{arch/Gaijin}</font>
+
+95
+00:03:12,340 --> 00:03:16,630
+<font face="Impress BT Pace" size="82">{No, I don't!
+Shanks is just making fun of me! - OG}No, I <i>don't</i> get it!
+Shanks just likes making fun of me!</font>
+
+96
+00:03:16,630 --> 00:03:17,910
+<font face="Impress BT Pace" size="82">{Anchor! - OG}Look, an anchor!{arch/Gaijin}</font>
+
+97
+00:03:17,910 --> 00:03:18,630
+<font face="Impress BT Pace" size="82">See?!</font>
+
+98
+00:03:18,630 --> 00:03:20,990
+<font face="Impress BT Pace" size="82">{I guess you're having fun as usual. - OG}I see you're having fun as usual.</font>
+
+99
+00:03:20,990 --> 00:03:24,670
+<font face="Impress BT Pace" size="82">{Yeah, I like teasing him. - OG}Yeah, I just love teasing this kid.</font>
+
+100
+00:03:25,290 --> 00:03:27,810
+<font face="Impress BT Pace" size="82">{Luffy, do you wanna eat something too? - OG}Luffy, would you like something to eat too?</font>
+
+101
+00:03:27,810 --> 00:03:30,390
+<font face="Impress BT Pace" size="82">{Uh-huh! Put it on my treasure tab! - OG}Yeah! Put it on my treasure tab!</font>
+
+102
+00:03:30,390 --> 00:03:34,470
+<font face="Impress BT Pace" size="82">The treasure tab again?
+That's fraud, you know?</font>
+
+103
+00:03:34,470 --> 00:03:35,250
+<font face="Impress BT Pace" size="82">No, it's not!</font>
+
+104
+00:03:35,250 --> 00:03:39,070
+<font face="Impress BT Pace" size="82">{Once I become a pirate, I'll pay her back with the treasure I find! - OG}I'll pay her back once I become
+a pirate and find some treasure!</font>
+
+105
+00:03:39,940 --> 00:03:41,680
+<font face="Impress BT Pace" size="82">I'm counting on it.</font>
+
+106
+00:03:43,300 --> 00:03:44,370
+<font face="Impress BT Pace" size="82">Shanks.</font>
+
+107
+00:03:44,370 --> 00:03:45,290
+<font face="Impress BT Pace" size="82">{What? - OG}What's up?</font>
+
+108
+00:03:45,290 --> 00:03:47,980
+<font face="Impress BT Pace" size="82">{How much longer
+are you gonna dock at this village? - OG}How much longer
+are you gonna stay in this village?{OG/arch/Raven}</font>
+
+109
+00:03:47,980 --> 00:03:49,420
+<font face="Impress BT Pace" size="82">Let's see...</font>
+
+110
+00:03:49,420 --> 00:03:55,110
+<font face="Impress BT Pace" size="82">{We're gonna go on a couple of voyages... then we'll leave this village to head north for good.}After a couple more voyages,
+we'll leave this village for good and head north.</font>
+
+111
+00:03:57,000 --> 00:03:59,010
+<font face="Impress BT Pace" size="82">{A couple of voyages, huh? - OG}A couple more voyages, huh?</font>
+
+112
+00:04:02,510 --> 00:04:05,390
+<font face="Impress BT Pace" size="82">{I'll practice swimming while you're here! - OG}So I gotta learn to swim before you leave!</font>
+
+113
+00:04:05,390 --> 00:04:08,310
+<font face="Impress BT Pace" size="82">{That's good. Knock yourself out. - OG}Sure thing. Knock yourself out.</font>
+
+114
+00:04:13,080 --> 00:04:14,850
+<font face="Impress BT Pace" size="82">{Pardon us. - OG}Excuse us.{arch/Raven}</font>
+
+115
+00:04:14,850 --> 00:04:19,400
+<font face="Impress BT Pace" size="82">{So these are "pirates."
+Look pretty damn dumb. - OG}So, <i>these</i> are "pirates."
+Looks like a sorry bunch to me.</font>
+
+116
+00:04:28,620 --> 00:04:33,990
+<font face="Impress BT Pace" size="82">{We're mountain bandits.
+But we ain't here to tear up the place. - OG}We're mountain bandits,
+but we ain't here to bust up the place.</font>
+
+117
+00:04:33,990 --> 00:04:35,290
+<font face="Impress BT Pace" size="82">{Sell us some booze. - OG}We'd like some booze.</font>
+
+118
+00:04:35,290 --> 00:04:38,920
+<font face="Impress BT Pace" size="82">{I'm sorry. I just ran out of alcohol. - OG}My apologies. I just ran out of alcohol.</font>
+
+119
+00:04:39,990 --> 00:04:44,010
+<font face="Impress BT Pace" size="82">{These pirates seem to be drinking
+something... What is it, water? - OG}Then what are these pirates drinking? Water?</font>
+
+120
+00:04:44,010 --> 00:04:47,640
+<font face="Impress BT Pace" size="82">{No, what they're drinking is the last of it. - OG}I'm afraid I served the last of it to them.</font>
+
+121
+00:04:47,640 --> 00:04:53,700
+<font face="Impress BT Pace" size="82">{My apologies.
+Looks like we drank the whole place dry. - OG}I feel bad. Looks like we
+drank the whole place dry.{arch/Raven}</font>
+
+122
+00:04:53,700 --> 00:04:54,600
+<font face="Impress BT Pace" size="82">Sorry!</font>
+
+123
+00:04:55,490 --> 00:04:58,860
+<font face="Impress BT Pace" size="82">You can have this. It hasn't been opened yet.</font>
+
+124
+00:05:06,780 --> 00:05:11,390
+<font face="Impress BT Pace" size="82">{Hey, you bastard!
+Who do you think I am? - OG}Hey, wise guy. What do you take me for?{Z}</font>
+
+125
+00:05:11,390 --> 00:05:14,710
+<font face="Impress BT Pace" size="82">{One bottle ain't
+even enough for a bedtime drink! - OG}One bottle ain't even enough for a nightcap!</font>
+
+126
+00:05:16,380 --> 00:05:18,250
+<font face="Impress BT Pace" size="82">The floor's all wet!</font>
+
+127
+00:05:18,250 --> 00:05:19,490
+<font face="Impress BT Pace" size="82">{Look at this. - OG}Take a look.</font>
+
+128
+00:05:19,490 --> 00:05:22,380
+<font face="Impress BT Pace" size="82">{There's an eight million belly
+bounty on my head. - OG}My head's worth eight million belly.</font>
+
+129
+00:05:23,000 --> 00:05:27,720
+<font face="Impress BT Pace" size="82">{I've killed fifty-six people. They were all impudent like you. - OG}I've killed fifty-six people,
+all of ‘em comedians like you.{Z}</font>
+
+130
+00:05:27,720 --> 00:05:30,190
+<font face="Impress BT Pace" size="82">{So be careful hereafter. - OG}You'd better watch yourself.</font>
+
+131
+00:05:30,190 --> 00:05:34,080
+<font face="Impress BT Pace" size="82">{But, since we're in the mountains and you're on the sea, I don't think we'll see each other again. - OG}But we're mountain folk and you're seafarers;
+I doubt we'll see each other again.</font>
+
+132
+00:05:36,270 --> 00:05:39,800
+<font face="Impress BT Pace" size="82">{Sorry about that mess, Makino-san.
+Do you have a rag? - OG}Sorry about the mess, Makino.
+Do you have a rag?</font>
+
+133
+00:05:39,800 --> 00:05:42,850
+<font face="Impress BT Pace" size="82">{Oh, I'll do that! - OG}No! Leave that to me!</font>
+
+134
+00:05:50,070 --> 00:05:54,950
+<font face="Impress BT Pace" size="82">{Seems you like to clean.
+Then maybe you'll find this more fulfilling. - OG}Seems you like to clean.
+Maybe you'll find <i>this</i> more fulfilling.</font>
+
+135
+00:06:08,900 --> 00:06:11,300
+<font face="Impress BT Pace" size="82">{Later, wimps! - OG}Later, cowards!</font>
+
+136
+00:06:17,940 --> 00:06:20,100
+<font face="Impress BT Pace" size="82">Captain{-san}, are you all right?</font>
+
+137
+00:06:20,100 --> 00:06:21,980
+<font face="Impress BT Pace" size="82">{Oh, no problem at all. - OG}Yeah. No worries.{Z}</font>
+
+138
+00:06:26,610 --> 00:06:28,940
+<font face="Impress BT Pace" size="82">Talk about lame, Boss!</font>
+
+139
+00:06:28,940 --> 00:06:30,540
+<font face="Impress BT Pace" size="82">He got you good!</font>
+
+140
+00:06:32,490 --> 00:06:34,990
+<font face="Impress BT Pace" size="82">Why are you laughing?!</font>
+
+141
+00:06:34,990 --> 00:06:39,010
+<font face="Impress BT Pace" size="82">{That was so uncool!
+Why didn't you fight them?! - OG}That was so uncool!
+Why didn't you fight back?!</font>
+
+142
+00:06:39,010 --> 00:06:44,090
+<font face="Impress BT Pace" size="82">{You're not men - or pirates -
+if you laugh after something like that! -OG}{You can't call yourself a pirate—or even a
+man—if you laugh after something like that! - OG}You can't call yourself a pirate, or even a man,
+if you laugh after something like that!{arch/Raven}</font>
+
+143
+00:06:45,840 --> 00:06:50,720
+<font face="Impress BT Pace" size="82">{I can understand how you feel
+but he only spilled some booze on me. - OG}I get where you're coming from,
+but he only got some booze on me.{Used as Flashback in Post War 2 @timestamp 08:46}</font>
+
+144
+00:06:50,720 --> 00:06:53,130
+<font face="Impress BT Pace" size="82">It's nothing worth getting mad over.</font>
+
+145
+00:06:55,390 --> 00:06:57,220
+<font face="Impress BT Pace" size="82">Hey, wait, Luffy.</font>
+
+146
+00:06:57,220 --> 00:06:59,690
+<font face="Impress BT Pace" size="82">I've had it! I don't wanna be a coward like you!</font>
+
+147
+00:07:07,780 --> 00:07:09,280
+<font face="Impress BT Pace" size="82">{His arm stretches! - OG}His arm stretched!</font>
+
+148
+00:07:09,280 --> 00:07:10,950
+<font face="Impress BT Pace" size="82">{Don't tell me you...! - OG}{He didn't...! - OG}H-He didn't!{arch/Raven}</font>
+
+149
+00:07:10,950 --> 00:07:12,530
+<font face="Impress BT Pace" size="82">What's going on?!</font>
+
+150
+00:07:12,530 --> 00:07:13,250
+<font face="Impress BT Pace" size="82">It's gone!</font>
+
+151
+00:07:13,250 --> 00:07:14,580
+<font face="Impress BT Pace" size="82">– What?!
+– What?!</font>
+
+152
+00:07:14,580 --> 00:07:17,040
+<font face="Impress BT Pace" size="82">{The Gum-Gum Fruit
+that we robbed from our enemy! - OG}The Gum-Gum Fruit we stole from our enemy!</font>
+
+153
+00:07:17,040 --> 00:07:21,210
+<font face="Impress BT Pace" size="82">{Luffy, don't tell me you ate
+a fruit like this! - OG}Luffy! Please tell me
+you didn't eat a fruit like this!</font>
+
+154
+00:07:21,210 --> 00:07:23,790
+<font face="Impress BT Pace" size="82">{I-I did. It tasted so bad. - OG}I-I did. It tasted pretty bad.</font>
+
+155
+00:07:23,790 --> 00:07:25,250
+<font face="Impress BT Pace" size="82">{The Gum-Gum Fruit is - OG}That was the Gum-Gum Fruit!</font>
+
+156
+00:07:25,250 --> 00:07:28,300
+<font face="Impress BT Pace" size="82">{a hidden treasure of the sea known as a devil fruit! - OG}It's a rare treasure of the sea
+known as a devil fruit!</font>
+
+157
+00:07:28,300 --> 00:07:33,180
+<font face="Impress BT Pace" size="82">{Eating it changes your body into rubber and makes you lose the ability to swim for the rest of your life! - OG}You gain a rubber body after eating it,
+but you lose the ability to swim for life!</font>
+
+158
+00:07:33,180 --> 00:07:35,660
+<font face="Impress BT Pace" size="82">What?! No way!</font>
+
+159
+00:07:35,660 --> 00:07:38,010
+<font face="Impress BT Pace" size="82">You dumbass!</font>
+
+160
+00:07:41,980 --> 00:07:44,150
+<font face="Impress BT Pace" size="82">Gimme a fish, old fish shop guy!</font>
+
+161
+00:07:44,150 --> 00:07:45,490
+<font face="Impress BT Pace" size="82">Hey, Luffy!</font>
+
+162
+00:07:45,490 --> 00:07:48,910
+<font face="Impress BT Pace" size="82">{I heard that you didn't
+get to go on a voyage again! - OG}I heard they sailed off without you again!</font>
+
+163
+00:07:48,910 --> 00:07:49,780
+<font face="Impress BT Pace" size="82">{That's okay! - OG}I don't mind!</font>
+
+164
+00:07:50,160 --> 00:07:56,190
+<font face="Impress BT Pace" size="82">{Because I got to become a rubber man!
+It's making me way happier than a voyage! - OG}{Becoming a rubber man is way cooler
+than going on some dumb voyage. - Z}Becoming a rubber man is way cooler
+than going on some dumb trip.{arch/Raven}</font>
+
+165
+00:07:58,290 --> 00:08:01,660
+<font face="Impress BT Pace" size="82">{It's been a while since Captain-san
+and his crew went on a voyage. - OG}It's been a while since the captain
+and his crew set out to sea.</font>
+
+166
+00:08:02,150 --> 00:08:03,700
+<font face="Impress BT Pace" size="82">I bet you miss them.</font>
+
+167
+00:08:03,700 --> 00:08:06,540
+<font face="Impress BT Pace" size="82">{Not at all! I haven't forgiven them yet! - OG}No way! They're still not off the hook!</font>
+
+168
+00:08:06,540 --> 00:08:10,590
+<font face="Impress BT Pace" size="82">I can't believe I thought Shanks
+and his crew were awesome pirates.</font>
+
+169
+00:08:10,590 --> 00:08:16,390
+<font face="Impress BT Pace" size="82">{Yeah? I think it's cooler to pay no mind and laugh after someone humiliates you like that. - OG}Really? I think it's much cooler to shrug it off
+and laugh after someone humiliates you like that.</font>
+
+170
+00:08:16,390 --> 00:08:18,530
+<font face="Impress BT Pace" size="82">{You don't understand. - OG}Makino, you just don't get it.</font>
+
+171
+00:08:18,530 --> 00:08:21,100
+<font face="Impress BT Pace" size="82">{There are times that men
+have to stand up and fight. - OG}There are times when a man's gotta fight.</font>
+
+172
+00:08:21,100 --> 00:08:23,140
+<font face="Impress BT Pace" size="82">{I guess I don't understand. - OG}Maybe I don't get it.</font>
+
+173
+00:08:23,590 --> 00:08:25,310
+<font face="Impress BT Pace" size="82">{Make way! - OG}Hate to intrude.{arch/Raven}</font>
+
+174
+00:08:26,190 --> 00:08:28,980
+<font face="Impress BT Pace" size="82">{Those damn pirates aren't here today, huh? - OG}Those damn pirates ain't here today, huh?</font>
+
+175
+00:08:28,980 --> 00:08:32,110
+<font face="Impress BT Pace" size="82">{We were walking by again so we dropped in.}We were in the area,
+so we decided to drop by.</font>
+
+176
+00:08:37,880 --> 00:08:39,460
+<font face="Impress BT Pace" size="82">Why are you just standing there?!{OG}{Don't just stand there! - Z TL: this is phrased as a question}</font>
+
+177
+00:08:39,460 --> 00:08:41,160
+<font face="Impress BT Pace" size="82">{Bring us some booze! Now! - OG}Booze! Now!</font>
+
+178
+00:08:45,040 --> 00:08:46,060
+<font face="Impress BT Pace" size="82">Mayor, we have a problem!</font>
+
+179
+00:08:46,060 --> 00:08:47,840
+<font face="Impress BT Pace" size="82">{What is it, Makino? - OG}What's wrong, Makino?</font>
+
+180
+00:08:48,220 --> 00:08:50,670
+<font face="Impress BT Pace" size="82">Luffy's in trouble with the mountain bandits!</font>
+
+181
+00:08:51,840 --> 00:08:54,130
+<font face="Impress BT Pace" size="82">{Let go! Damn it! - OG}Let go! Dammit!</font>
+
+182
+00:08:52,550 --> 00:08:54,130
+<font face="Impress BT Pace" size="82" color="#d6d6d6">{What an interesting body... - OG}Weird body ya got here...</font>
+
+183
+00:08:56,260 --> 00:08:57,430
+<font face="Impress BT Pace" size="82">{Say you're sorry for that! - OG}Apologize already!</font>
+
+184
+00:08:57,430 --> 00:08:59,890
+<font face="Impress BT Pace" size="82">{– What kind of creature is he?
+– You bastard! - OG}What kind of creature is he?</font>
+
+185
+00:08:58,620 --> 00:08:59,890
+<font face="Impress BT Pace" size="82" color="#d6d6d6">You dumb jerk!{arch/Raven}</font>
+
+186
+00:09:03,810 --> 00:09:06,020
+<font face="Impress BT Pace" size="82">{Damn! I'm gonna make you pay! - OG}Dammit! You're gonna pay!</font>
+
+187
+00:09:06,020 --> 00:09:09,070
+<font face="Impress BT Pace" size="82">{We can sell him for good money. - OG}He might fetch a good price.</font>
+
+188
+00:09:11,320 --> 00:09:12,780
+<font face="Impress BT Pace" size="82">{You're so persistent. - OG}How stubborn.</font>
+
+189
+00:09:12,780 --> 00:09:13,800
+<font face="Impress BT Pace" size="82">Brat!</font>
+
+190
+00:09:15,530 --> 00:09:18,700
+<font face="Impress BT Pace" size="82">Did I say something to offend you?</font>
+
+191
+00:09:18,700 --> 00:09:22,620
+<font face="Impress BT Pace" size="82">You did! Now apologize!
+Get your foot off of me!</font>
+
+192
+00:09:22,620 --> 00:09:24,790
+<font face="Impress BT Pace" size="82">Let the boy go!</font>
+
+193
+00:09:25,700 --> 00:09:26,670
+<font face="Impress BT Pace" size="82">{Please! - OG}I beg you!</font>
+
+194
+00:09:27,510 --> 00:09:31,550
+<font face="Impress BT Pace" size="82">{I don't intend to fight with you!
+If you allow it, I'll even pay you! - OG}I have no intention of fighting you,
+but I'm willing to pay.</font>
+
+195
+00:09:31,550 --> 00:09:34,720
+<font face="Impress BT Pace" size="82">Spare the boy's life!</font>
+
+196
+00:09:34,720 --> 00:09:38,890
+<font face="Impress BT Pace" size="82">{Leave it to senior citizens to know how the world works. - OG}Leave it to a senior citizen
+to know the ways of the world.</font>
+
+197
+00:09:40,180 --> 00:09:42,140
+<font face="Impress BT Pace" size="82">But no.</font>
+
+198
+00:09:42,140 --> 00:09:46,940
+<font face="Impress BT Pace" size="82">{It's too late for him now.
+After all, he's made me angry... - OG}It's too late for that now.
+After all, he's pissed me off.{Z}</font>
+
+199
+00:09:46,940 --> 00:09:48,060
+<font face="Impress BT Pace" size="82">{Oh, please... - OG}No...</font>
+
+200
+00:09:48,060 --> 00:09:52,980
+<font face="Impress BT Pace" size="82">{I'm irritated from being messed
+with by this rubber squirt! - OG}I've had it up to here with this rubber runt!</font>
+
+201
+00:09:52,980 --> 00:09:57,150
+<font face="Impress BT Pace" size="82">{You're the bad guys! You mountain apes! - OG}You're the bad guys here, you mountain apes!</font>
+
+202
+00:09:58,340 --> 00:10:01,620
+<font face="Impress BT Pace" size="82">{We're not gonna sell him. Let's just kill him! - OG}Forget selling him. Let's just kill him!</font>
+
+203
+00:10:02,580 --> 00:10:03,330
+<font face="Impress BT Pace" size="82">Luffy!</font>
+
+204
+00:10:03,330 --> 00:10:05,120
+<font face="Impress BT Pace" size="82">Please! Let him go!</font>
+
+205
+00:10:11,790 --> 00:10:14,470
+<font face="Impress BT Pace" size="82">{No one came to greet us at the port... - OG}No one came to greet us at the port.</font>
+
+206
+00:10:16,690 --> 00:10:18,510
+<font face="Impress BT Pace" size="82">{So I wondered why... - OG}So, <i>this</i> is why.</font>
+
+207
+00:10:19,680 --> 00:10:22,930
+<font face="Impress BT Pace" size="82">They're the mountain bandits from before.</font>
+
+208
+00:10:21,720 --> 00:10:22,930
+<font face="Impress BT Pace" size="82" color="#d6d6d6">Captain{-san}!</font>
+
+209
+00:10:23,290 --> 00:10:27,810
+<font face="Impress BT Pace" size="82">{Luffy! I thought your punches
+were as strong as pistols? - OG}Luffy, I thought your punches
+were as strong as pistols.</font>
+
+210
+00:10:29,000 --> 00:10:29,980
+<font face="Impress BT Pace" size="82">Shut up!</font>
+
+211
+00:10:30,270 --> 00:10:32,610
+<font face="Impress BT Pace" size="82">So you pirates <i>are</i> still here, huh?</font>
+
+212
+00:10:35,810 --> 00:10:38,240
+<font face="Impress BT Pace" size="82">You'd best leave before you get hurt.</font>
+
+213
+00:10:38,580 --> 00:10:41,950
+<font face="Impress BT Pace" size="82">{Any closer and he'll
+shoot your head off, wimp. - OG}{Any closer and we'll
+blow your head off, coward. - Z}Any closer and you're dead meat, coward!{arch}</font>
+
+214
+00:10:43,910 --> 00:10:46,170
+<font face="Impress BT Pace" size="82">{He said no closer! - OG}{He said stop! - arch/Raven}What are you, deaf?{arch}</font>
+
+215
+00:10:46,170 --> 00:10:47,790
+<font face="Impress BT Pace" size="82">{Don't make me pull the trigger! - OG}I'll blow your head off!{arch}</font>
+
+216
+00:10:52,370 --> 00:10:55,900
+<font face="Impress BT Pace" size="82">{Now that you've drawn your pistol,
+put your life on the line. - OG}Now that you've drawn your pistol,
+you've put your life on the line.</font>
+
+217
+00:10:55,900 --> 00:10:57,630
+<font face="Impress BT Pace" size="82">{What the hell are you talking about? - OG}{The hell're you talkin' about? - OG}{The hell you talkin' about? - arch/Raven}Huh? The hell do you mean?{Z}</font>
+
+218
+00:10:57,630 --> 00:11:01,640
+<font face="Impress BT Pace" size="82">I'm saying those aren't for threatening people.</font>
+
+219
+00:11:15,290 --> 00:11:17,150
+<font face="Impress BT Pace" size="82">N-Now you've done it!</font>
+
+220
+00:11:17,150 --> 00:11:19,070
+<font face="Impress BT Pace" size="82">These bastards fight dirty!</font>
+
+221
+00:11:19,070 --> 00:11:20,400
+<font face="Impress BT Pace" size="82">"Dirty"?</font>
+
+222
+00:11:20,400 --> 00:11:22,240
+<font face="Impress BT Pace" size="82">Cut the crap.</font>
+
+223
+00:11:22,240 --> 00:11:24,550
+<font face="Impress BT Pace" size="82">{You think you're dealing with saints or something? - OG}{Think you're dealing with saints or something? - OG}You think you're dealing with saints?{Z - removed "or something" for CPS}</font>
+
+224
+00:11:25,500 --> 00:11:29,000
+<font face="Impress BT Pace" size="82">{You're looking at pirates! - OG}{You're staring down a crew of pirates! - OG}You're staring down a group of pirates!{arch/Raven}</font>
+
+225
+00:11:29,380 --> 00:11:32,460
+<font face="Impress BT Pace" size="82">{You got nothing to do
+with this in the first place! - OG}Shut up! This is none of
+your damn business anyway!</font>
+
+226
+00:11:33,210 --> 00:11:34,900
+<font face="Impress BT Pace" size="82">Listen, bandits.</font>
+
+227
+00:11:34,900 --> 00:11:38,710
+<font face="Impress BT Pace" size="82">{Whether I'm splattered with alcohol or food, - OG}It doesn't matter if I'm doused
+with alcohol or covered in food,</font>
+
+228
+00:11:38,710 --> 00:11:41,680
+<font face="Impress BT Pace" size="82">{most of the time, I'd just laugh and forget about it. - OG}most of the time, I'll just laugh it off.</font>
+
+229
+00:11:42,500 --> 00:11:43,590
+<font face="Impress BT Pace" size="82">{But...! - OG}But know this!</font>
+
+230
+00:11:44,390 --> 00:11:47,140
+<font face="Impress BT Pace" size="82">{No matter what the reason, - OG}Hurt a friend of mine for any reason,</font>
+
+231
+00:11:47,140 --> 00:11:51,440
+<font face="Impress BT Pace" size="82">{anyone who hurts my friends has to pay! - OG}and you'll answer to me.</font>
+
+232
+00:11:52,520 --> 00:11:53,980
+<font face="Impress BT Pace" size="82">Shanks...</font>
+
+233
+00:11:55,290 --> 00:11:56,820
+<font face="Impress BT Pace" size="82">{Has to pay, huh?! - OG}Answer to you, huh?!</font>
+
+234
+00:11:56,820 --> 00:11:59,940
+<font face="Impress BT Pace" size="82">Lousy pirates! Kill 'em, men!</font>
+
+235
+00:12:04,820 --> 00:12:06,990
+<font face="Impress BT Pace" size="82">{I'll handle this.
+Should be easy enough. - OG}I'll handle this. Shouldn't be a problem.</font>
+
+236
+00:12:08,330 --> 00:12:10,310
+<font face="Impress BT Pace" size="82">{Come on! Come on! - OG}Come on! Bring it!</font>
+
+237
+00:12:11,040 --> 00:12:12,120
+<font face="Impress BT Pace" size="82">{Ouch!}That burns!</font>
+
+238
+00:12:19,470 --> 00:12:22,380
+<font face="Impress BT Pace" size="82">Don't get cocky, bandit.</font>
+
+239
+00:12:23,500 --> 00:12:27,260
+<font face="Impress BT Pace" size="82">{If you wanna fight us,
+then go drag a warship here or something. - OG}You'll need a whole battleship
+if you wanna challenge us.</font>
+
+240
+00:12:28,230 --> 00:12:29,600
+<font face="Impress BT Pace" size="82">So strong!</font>
+
+241
+00:12:30,400 --> 00:12:31,520
+<font face="Impress BT Pace" size="82">Unbelievable...</font>
+
+242
+00:12:31,520 --> 00:12:35,230
+<font face="Impress BT Pace" size="82">H-Hold on! The kid attacked <i>us</i>!</font>
+
+243
+00:12:35,570 --> 00:12:37,610
+<font face="Impress BT Pace" size="82">{You're a wanted man anyway. - OG}You're a wanted man, though.</font>
+
+244
+00:12:40,170 --> 00:12:41,200
+<font face="Impress BT Pace" size="82">A smokescreen!</font>
+
+245
+00:12:41,200 --> 00:12:44,030
+<font face="Impress BT Pace" size="82">{– Let go! Let go!
+– Come with me, brat! - OG}– Let me go! Let me go!
+– Come with me, brat!</font>
+
+246
+00:12:46,200 --> 00:12:47,070
+<font face="Impress BT Pace" size="82">Luffy!</font>
+
+247
+00:12:47,070 --> 00:12:50,240
+<font face="Impress BT Pace" size="82">Crap! I let my guard down! Luffy's gone!
+What do we do, guys?!</font>
+
+248
+00:12:50,240 --> 00:12:54,690
+<font face="Impress BT Pace" size="82">{Quit freakin' the hell out, Boss!
+It won't take us long to find him! - OG}Quit freakin' the hell out, Boss!
+It won't take us long to find him!</font>
+
+249
+00:12:54,690 --> 00:12:57,420
+<font face="Impress BT Pace" size="82">I can't believe this guy...</font>
+
+250
+00:12:59,200 --> 00:13:01,260
+<font face="Impress BT Pace" size="82">I made a clean getaway!</font>
+
+251
+00:13:01,570 --> 00:13:04,220
+<font face="Impress BT Pace" size="82">{I got no use for you anymore! - OG}I've got no more use for you.{Z}</font>
+
+252
+00:13:05,010 --> 00:13:06,590
+<font face="Impress BT Pace" size="82">You bastard!</font>
+
+253
+00:13:07,180 --> 00:13:08,640
+<font face="Impress BT Pace" size="82">So long!{OG}{Later! - Z}</font>
+
+254
+00:13:09,180 --> 00:13:10,810
+<font face="Impress BT Pace" size="82">Dammit! Dammit!</font>
+
+255
+00:13:10,810 --> 00:13:14,940
+<font face="Impress BT Pace" size="82">{I couldn't hit those scumbags even once! - OG}Those guys are scum,
+but I couldn't even hit them once!</font>
+
+256
+00:13:14,940 --> 00:13:17,420
+<font face="Impress BT Pace" size="82">Dammit! Dammit!</font>
+
+257
+00:13:19,700 --> 00:13:22,360
+<font face="Impress BT Pace" size="82"><i>You see the looks on those pirates' faces?!</i></font>
+
+258
+00:13:22,800 --> 00:13:24,900
+<font face="Impress BT Pace" size="82"><i>{Pirates are just a bunch of wimps. - OG}Pirates ain't nothin' but cowards.</i></font>
+
+259
+00:13:24,900 --> 00:13:27,900
+<font face="Impress BT Pace" size="82"><i>{Stop it! Stop making fun of Shanks and the others! - OG}Cut that out! Quit making fun
+of Shanks and his crew!</i></font>
+
+260
+00:13:27,900 --> 00:13:28,990
+<font face="Impress BT Pace" size="82"><i>{Stop, Luffy! - OG}Calm down, Luffy!</i></font>
+
+261
+00:13:30,450 --> 00:13:33,910
+<font face="Impress BT Pace" size="82"><i>{Stop making fun of Shanks and the others! - OG}Stop making fun of Shanks and his crew!</i></font>
+
+262
+00:13:41,310 --> 00:13:42,610
+<font face="Impress BT Pace" size="82">{Silly brat. - OG}Stupid kid.</font>
+
+263
+00:13:48,470 --> 00:13:49,640
+<font face="Impress BT Pace" size="82">Wh-What the hell?!</font>
+
+264
+00:13:52,790 --> 00:13:53,890
+<font face="Impress BT Pace" size="82">Help!</font>
+
+265
+00:13:57,560 --> 00:13:58,810
+<font face="Impress BT Pace" size="82">It's gonna eat me!</font>
+
+266
+00:14:00,230 --> 00:14:01,230
+<font face="Impress BT Pace" size="82">Help!</font>
+
+267
+00:14:15,890 --> 00:14:17,210
+<font face="Impress BT Pace" size="82">Shanks...</font>
+
+268
+00:14:25,810 --> 00:14:27,720
+<font face="Impress BT Pace" size="82">Get lost!</font>
+
+269
+00:14:49,900 --> 00:14:55,060
+<font face="Impress BT Pace" size="82">I'm in your debt, Luffy...
+Makino{-san} told me everything.</font>
+
+270
+00:14:55,060 --> 00:14:58,210
+<font face="Impress BT Pace" size="82">{You fought for us. - OG}You stood up for us.</font>
+
+271
+00:14:59,040 --> 00:15:02,170
+<font face="Impress BT Pace" size="82">{Hey, don't cry! You're a man, right? - OG}C'mon, don't cry! You're a man, right?</font>
+
+272
+00:15:03,560 --> 00:15:06,170
+<font face="Impress BT Pace" size="82">But... Shanks...</font>
+
+273
+00:15:07,440 --> 00:15:09,410
+<font face="Impress BT Pace" size="82">Your arm!</font>
+
+274
+00:15:12,220 --> 00:15:15,140
+<font face="Impress BT Pace" size="82">It's only an arm. No big deal.</font>
+
+275
+00:15:15,900 --> 00:15:17,760
+<font face="Impress BT Pace" size="82">{I'm just glad you're alright... - OG}I'm just glad you're not hurt.</font>
+
+276
+00:15:27,900 --> 00:15:31,490
+<font face="Impress BT Pace" size="82"><i>{\an8}{Luffy learned the reason why Shanks didn't take him on a voyage was - OG}Luffy finally understood the reason
+Shanks never took him on a voyage:</i></font>
+
+277
+00:15:31,490 --> 00:15:34,800
+<font face="Impress BT Pace" size="82"><i>{\an8}{the harshness of the sea,
+his powerlessness, - OG}{the sea was harsh, and he was powerless. - OG}the sea was dangerous, and he was powerless.{arch/Raven}</i></font>
+
+278
+00:15:34,800 --> 00:15:38,850
+<font face="Impress BT Pace" size="82"><i>{\an8}{and most importantly, the man named Shanks' greatness. - OG}But more importantly,
+he discovered Shanks' greatness.</i></font>
+
+279
+00:15:38,850 --> 00:15:43,420
+<font face="Impress BT Pace" size="82"><i>{\an8}{He truly thought that he wanted to
+become a man like him someday. - OG}He aspired to become a man like him one day.</i></font>
+
+280
+00:15:46,400 --> 00:15:49,670
+<font face="Impress BT Pace" size="82">{Shanks, aren't you gonna come back? - OG}Shanks, you're not coming back?</font>
+
+281
+00:15:50,020 --> 00:15:54,010
+<font face="Impress BT Pace" size="82">{No. It was a long stay,
+but now we part way. - OG}Nah. We were able to stay awhile,
+but it's time to part ways.</font>
+
+282
+00:15:54,780 --> 00:15:57,980
+<font face="Impress BT Pace" size="82">{Yeah, I won't ask you to take me anymore. - OG}Right. I'm not gonna ask you
+to take me this time.</font>
+
+283
+00:15:57,980 --> 00:16:01,480
+<font face="Impress BT Pace" size="82">{I've decided to become a pirate on my own now! - OG}I've decided to become a pirate on my own!</font>
+
+284
+00:16:01,480 --> 00:16:03,520
+<font face="Impress BT Pace" size="82">I wasn't gonna take you anyway!</font>
+
+285
+00:16:04,300 --> 00:16:06,770
+<font face="Impress BT Pace" size="82">{You'll never be a pirate! - OG}You'd never make it as a pirate!</font>
+
+286
+00:16:06,770 --> 00:16:08,000
+<font face="Impress BT Pace" size="82">I will too!{OG}{I will! - Z}</font>
+
+287
+00:16:08,000 --> 00:16:12,020
+<font face="Impress BT Pace" size="82">Someday, I'm gonna gather a crew
+every bit as good as yours.</font>
+
+288
+00:16:12,020 --> 00:16:14,110
+<font face="Impress BT Pace" size="82">{We'll find the greatest treasure in the world, - OG}We'll find the world's greatest treasure,</font>
+
+289
+00:16:14,480 --> 00:16:17,450
+<font face="Impress BT Pace" size="82">{and then I'm gonna be the King of the Pirates! - OG}and then I'm gonna be King of the Pirates!</font>
+
+290
+00:16:18,370 --> 00:16:22,270
+<font face="Impress BT Pace" size="82">Oh? You're gonna surpass us, huh?</font>
+
+291
+00:16:24,110 --> 00:16:25,580
+<font face="Impress BT Pace" size="82">In that case...</font>
+
+292
+00:16:28,500 --> 00:16:31,450
+<font face="Impress BT Pace" size="82">I'll leave this hat with you.</font>
+
+293
+00:16:37,790 --> 00:16:40,510
+<font face="Impress BT Pace" size="82">It's dear to me.</font>
+
+294
+00:16:42,850 --> 00:16:47,810
+<font face="Impress BT Pace" size="82">Come bring it back to me someday
+once you've become a great pirate!</font>
+
+295
+00:16:50,530 --> 00:16:52,690
+<font face="Impress BT Pace" size="82">He's got quite a future.</font>
+
+296
+00:16:52,690 --> 00:16:56,620
+<font face="Impress BT Pace" size="82">Yeah, he's so much like the kid I used to be.</font>
+
+297
+00:16:57,460 --> 00:16:59,660
+<font face="Impress BT Pace" size="82">Set sail!</font>
+
+298
+00:17:01,120 --> 00:17:06,880
+<font face="Impress BT Pace" size="82"><i>{\an8}<font color="#ffffff">{Then a decade later, the boy's
+adventure started at the same port. - OG}{The boy's adventure would begin
+10 years later from this very port. - OG}The boy's adventure would begin
+a decade later from this very port.{arch/Raven}</font></i></font>
+
+299
+00:17:08,670 --> 00:17:11,760
+<font face="Kakumin Web" size="56"><b><font color="#000000">Ten Years Later</font></b></font>
+
+300
+00:17:08,670 --> 00:17:11,760
+<font face="Kakumin Web" size="56"><b>Ten Years Later</b></font>
+
+301
+00:17:11,760 --> 00:17:14,430
+<font face="Impress BT Pace" size="82">{He's finally leaving, Mayor. - OG}Well, Mayor, he's finally off.</font>
+
+302
+00:17:14,430 --> 00:17:17,970
+<font face="Impress BT Pace" size="82">{It's a dishonor to the village
+to become a pirate! - OG}He's disgracing our village
+by becoming a pirate!</font>
+
+303
+00:17:18,600 --> 00:17:21,560
+<font face="Impress BT Pace" size="82">{What a nice day for setting sail! - OG}What a nice day to set sail!</font>
+
+304
+00:17:27,440 --> 00:17:28,860
+<font face="Impress BT Pace" size="82">What the...?</font>
+
+305
+00:17:30,400 --> 00:17:34,150
+<font face="Impress BT Pace" size="82">{Here comes our local Sea Monster! - OG}If it isn't our local sea monster.
+You don't know who you're messing with.</font>
+
+306
+00:17:34,470 --> 00:17:37,030
+<font face="Impress BT Pace" size="82">{Look at this technique
+I've been training for 10 years! - OG}{Here's a technique 10 years in the making! - OG}Here's a technique that's ten years in the making!{arch/Raven}</font>
+
+307
+00:17:40,280 --> 00:17:42,910
+<font face="Impress BT Pace" size="82">Gum-Gum...</font>
+
+308
+00:17:44,080 --> 00:17:46,120
+<font face="Impress BT Pace" size="82">Pistol!</font>
+
+309
+00:17:45,630 --> 00:17:46,030
+<font face="Duality" size="70" color="#3f93d8">{\an7}</font>
+
+310
+00:17:45,630 --> 00:17:46,030
+<font face="Duality" size="70" color="#3f93d8">{\an7}</font>
+
+311
+00:17:45,680 --> 00:17:50,620
+<font face="Duality" size="70" color="#3f93d8">{\an7}We'</font>
+
+312
+00:17:45,680 --> 00:17:46,110
+<font face="Duality" size="70" color="#3f93d8">{\an7}A</font>
+
+313
+00:17:45,730 --> 00:17:50,670
+<font face="Duality" size="70" color="#3f93d8">{\an7}re go</font>
+
+314
+00:17:45,730 --> 00:17:46,200
+<font face="Duality" size="70" color="#3f93d8">{\an7}ri</font>
+
+315
+00:17:45,780 --> 00:17:50,720
+<font face="Duality" size="70" color="#3f93d8">{\an7}ing</font>
+
+316
+00:17:45,780 --> 00:17:46,290
+<font face="Duality" size="70" color="#3f93d8">{\an7}tta</font>
+
+317
+00:17:45,830 --> 00:17:50,770
+<font face="Duality" size="70" color="#3f93d8">{\an7} to</font>
+
+318
+00:17:45,830 --> 00:17:46,480
+<font face="Duality" size="70" color="#3f93d8">{\an7}ke</font>
+
+319
+00:17:45,880 --> 00:17:50,820
+<font face="Duality" size="70" color="#3f93d8">{\an7} ga</font>
+
+320
+00:17:45,880 --> 00:17:46,680
+<font face="Duality" size="70" color="#3f93d8">{\an7}no</font>
+
+321
+00:17:45,930 --> 00:17:50,870
+<font face="Duality" size="70" color="#3f93d8">{\an7}th</font>
+
+322
+00:17:45,930 --> 00:17:47,200
+<font face="Duality" size="70" color="#3f93d8">{\an7}yu</font>
+
+323
+00:17:45,980 --> 00:17:50,920
+<font face="Duality" size="70" color="#3f93d8">{\an7}er</font>
+
+324
+00:17:45,980 --> 00:17:47,540
+<font face="Duality" size="70" color="#3f93d8">{\an7}me</font>
+
+325
+00:17:46,030 --> 00:17:50,870
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8"></font></font>
+
+326
+00:17:46,030 --> 00:17:50,970
+<font face="Duality" size="70" color="#3f93d8">{\an7}up</font>
+
+327
+00:17:46,030 --> 00:17:46,360
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8"></font></font>
+
+328
+00:17:46,030 --> 00:17:47,740
+<font face="Duality" size="70" color="#3f93d8">{\an7}wo</font>
+
+329
+00:17:46,080 --> 00:17:51,020
+<font face="Duality" size="70" color="#3f93d8">{\an7}all</font>
+
+330
+00:17:46,080 --> 00:17:48,700
+<font face="Duality" size="70" color="#3f93d8">{\an7}</font>
+
+331
+00:17:46,110 --> 00:17:46,450
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">A</font></font>
+
+332
+00:17:46,130 --> 00:17:51,070
+<font face="Duality" size="70" color="#3f93d8">{\an7}our</font>
+
+333
+00:17:46,130 --> 00:17:49,010
+<font face="Duality" size="70" color="#3f93d8">{\an7}ka</font>
+
+334
+00:17:46,180 --> 00:17:51,120
+<font face="Duality" size="70" color="#3f93d8">{\an7} dr</font>
+
+335
+00:17:46,180 --> 00:17:49,150
+<font face="Duality" size="70" color="#3f93d8">{\an7}ki</font>
+
+336
+00:17:46,200 --> 00:17:46,540
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">ri</font></font>
+
+337
+00:17:46,230 --> 00:17:51,170
+<font face="Duality" size="70" color="#3f93d8">{\an7}ea</font>
+
+338
+00:17:46,230 --> 00:17:49,340
+<font face="Duality" size="70" color="#3f93d8">{\an7}a</font>
+
+339
+00:17:46,280 --> 00:17:51,220
+<font face="Duality" size="70" color="#3f93d8">{\an7}ms</font>
+
+340
+00:17:46,280 --> 00:17:49,620
+<font face="Duality" size="70" color="#3f93d8">{\an7}tsu</font>
+
+341
+00:17:46,290 --> 00:17:46,730
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">tta</font></font>
+
+342
+00:17:46,330 --> 00:17:49,840
+<font face="Duality" size="70" color="#3f93d8">{\an7}me</font>
+
+343
+00:17:46,480 --> 00:17:46,930
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">ke</font></font>
+
+344
+00:17:46,680 --> 00:17:47,450
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">no</font></font>
+
+345
+00:17:47,200 --> 00:17:47,790
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">yu</font></font>
+
+346
+00:17:47,540 --> 00:17:47,990
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">me</font></font>
+
+347
+00:17:47,740 --> 00:17:48,950
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">wo</font></font>
+
+348
+00:17:48,700 --> 00:17:49,260
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8"></font></font>
+
+349
+00:17:49,010 --> 00:17:49,400
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">ka</font></font>
+
+350
+00:17:49,150 --> 00:17:49,590
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">ki</font></font>
+
+351
+00:17:49,340 --> 00:17:49,870
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">a</font></font>
+
+352
+00:17:49,620 --> 00:17:50,090
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">tsu</font></font>
+
+353
+00:17:49,840 --> 00:17:51,520
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">me</font></font>
+
+354
+00:17:50,620 --> 00:17:50,920
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">We'</font></font>
+
+355
+00:17:50,670 --> 00:17:50,970
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">re go</font></font>
+
+356
+00:17:50,720 --> 00:17:51,020
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">ing</font></font>
+
+357
+00:17:50,770 --> 00:17:51,070
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8"> to</font></font>
+
+358
+00:17:50,820 --> 00:17:51,120
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8"> ga</font></font>
+
+359
+00:17:50,870 --> 00:17:51,170
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">th</font></font>
+
+360
+00:17:50,920 --> 00:17:51,220
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">er</font></font>
+
+361
+00:17:50,970 --> 00:17:51,270
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">up</font></font>
+
+362
+00:17:51,020 --> 00:17:51,320
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">all</font></font>
+
+363
+00:17:51,070 --> 00:17:51,370
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">our</font></font>
+
+364
+00:17:51,090 --> 00:17:51,490
+<font face="Duality" size="70" color="#3f93d8">{\an7}</font>
+
+365
+00:17:51,090 --> 00:17:51,490
+<font face="Duality" size="70" color="#3f93d8">{\an7}</font>
+
+366
+00:17:51,120 --> 00:17:51,420
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8"> dr</font></font>
+
+367
+00:17:51,140 --> 00:17:56,450
+<font face="Duality" size="70" color="#3f93d8">{\an7}and</font>
+
+368
+00:17:51,140 --> 00:17:51,620
+<font face="Duality" size="70" color="#3f93d8">{\an7}Sa</font>
+
+369
+00:17:51,170 --> 00:17:51,470
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">ea</font></font>
+
+370
+00:17:51,190 --> 00:17:56,500
+<font face="Duality" size="70" color="#3f93d8">{\an7}set</font>
+
+371
+00:17:51,190 --> 00:17:51,840
+<font face="Duality" size="70" color="#3f93d8">{\an7}ga</font>
+
+372
+00:17:51,220 --> 00:17:51,520
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">ms</font></font>
+
+373
+00:17:51,240 --> 00:17:56,550
+<font face="Duality" size="70" color="#3f93d8">{\an7}out</font>
+
+374
+00:17:51,240 --> 00:17:51,970
+<font face="Duality" size="70" color="#3f93d8">{\an7}shi</font>
+
+375
+00:17:51,290 --> 00:17:56,600
+<font face="Duality" size="70" color="#3f93d8">{\an7}in</font>
+
+376
+00:17:51,290 --> 00:17:52,200
+<font face="Duality" size="70" color="#3f93d8">{\an7}mo</font>
+
+377
+00:17:51,340 --> 00:17:56,650
+<font face="Duality" size="70" color="#3f93d8">{\an7}se</font>
+
+378
+00:17:51,340 --> 00:17:52,420
+<font face="Duality" size="70" color="#3f93d8">{\an7}no</font>
+
+379
+00:17:51,390 --> 00:17:56,700
+<font face="Duality" size="70" color="#3f93d8">{\an7}ar</font>
+
+380
+00:17:51,390 --> 00:17:52,570
+<font face="Duality" size="70" color="#3f93d8">{\an7}wo</font>
+
+381
+00:17:51,440 --> 00:17:56,750
+<font face="Duality" size="70" color="#3f93d8">{\an7}ch</font>
+
+382
+00:17:51,440 --> 00:17:52,860
+<font face="Duality" size="70" color="#3f93d8">{\an7}sa</font>
+
+383
+00:17:51,490 --> 00:17:56,700
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8"></font></font>
+
+384
+00:17:51,490 --> 00:17:56,800
+<font face="Duality" size="70" color="#3f93d8">{\an7}of</font>
+
+385
+00:17:51,490 --> 00:17:51,870
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8"></font></font>
+
+386
+00:17:51,490 --> 00:17:53,280
+<font face="Duality" size="70" color="#3f93d8">{\an7}ga</font>
+
+387
+00:17:51,540 --> 00:17:56,850
+<font face="Duality" size="70" color="#3f93d8">{\an7}so</font>
+
+388
+00:17:51,540 --> 00:17:53,370
+<font face="Duality" size="70" color="#3f93d8">{\an7}shi</font>
+
+389
+00:17:51,590 --> 00:17:56,900
+<font face="Duality" size="70" color="#3f93d8">{\an7}me</font>
+
+390
+00:17:51,590 --> 00:17:53,990
+<font face="Duality" size="70" color="#3f93d8">{\an7}ni</font>
+
+391
+00:17:51,620 --> 00:17:52,090
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">Sa</font></font>
+
+392
+00:17:51,640 --> 00:17:56,950
+<font face="Duality" size="70" color="#3f93d8">{\an7}th</font>
+
+393
+00:17:51,640 --> 00:17:54,350
+<font face="Duality" size="70" color="#3f93d8">{\an7}yu</font>
+
+394
+00:17:51,690 --> 00:17:57,000
+<font face="Duality" size="70" color="#3f93d8">{\an7}ing</font>
+
+395
+00:17:51,690 --> 00:17:54,710
+<font face="Duality" size="70" color="#3f93d8">{\an7}ku</font>
+
+396
+00:17:51,740 --> 00:17:57,050
+<font face="Duality" size="70" color="#3f93d8">{\an7}to</font>
+
+397
+00:17:51,740 --> 00:17:55,040
+<font face="Duality" size="70" color="#3f93d8">{\an7}no</font>
+
+398
+00:17:51,790 --> 00:17:57,100
+<font face="Duality" size="70" color="#3f93d8">{\an7}fi</font>
+
+399
+00:17:51,790 --> 00:17:55,300
+<font face="Duality" size="70" color="#3f93d8">{\an7}sa</font>
+
+400
+00:17:51,840 --> 00:17:57,150
+<font face="Duality" size="70" color="#3f93d8">{\an7}nd</font>
+
+401
+00:17:51,840 --> 00:17:52,220
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">ga</font></font>
+
+402
+00:17:51,970 --> 00:17:52,450
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">shi</font></font>
+
+403
+00:17:52,200 --> 00:17:52,670
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">mo</font></font>
+
+404
+00:17:52,420 --> 00:17:52,820
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">no</font></font>
+
+405
+00:17:52,570 --> 00:17:53,110
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">wo</font></font>
+
+406
+00:17:52,860 --> 00:17:53,530
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">sa</font></font>
+
+407
+00:17:53,280 --> 00:17:53,620
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">ga</font></font>
+
+408
+00:17:53,370 --> 00:17:54,240
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">shi</font></font>
+
+409
+00:17:53,990 --> 00:17:54,600
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">ni</font></font>
+
+410
+00:17:54,350 --> 00:17:54,960
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">yu</font></font>
+
+411
+00:17:54,710 --> 00:17:55,290
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">ku</font></font>
+
+412
+00:17:55,040 --> 00:17:55,550
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">no</font></font>
+
+413
+00:17:55,300 --> 00:17:57,350
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">sa</font></font>
+
+414
+00:17:56,090 --> 00:17:58,550
+<font face="Impress BT Pace" size="82">{That will teach ya, damn fish! - OG}{That'll teach ya, damn fish! - OG}That oughta teach you, damn fish!{Z}</font>
+
+415
+00:17:56,450 --> 00:17:56,750
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">and</font></font>
+
+416
+00:17:56,500 --> 00:17:56,800
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">set</font></font>
+
+417
+00:17:56,550 --> 00:17:56,850
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">out</font></font>
+
+418
+00:17:56,600 --> 00:17:56,900
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">in</font></font>
+
+419
+00:17:56,650 --> 00:17:56,950
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">se</font></font>
+
+420
+00:17:56,700 --> 00:17:57,000
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">ar</font></font>
+
+421
+00:17:56,750 --> 00:17:57,050
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">ch</font></font>
+
+422
+00:17:56,800 --> 00:17:57,100
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">of</font></font>
+
+423
+00:17:56,850 --> 00:17:57,150
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">so</font></font>
+
+424
+00:17:56,870 --> 00:17:57,270
+<font face="Duality" size="70" color="#3f93d8">{\an7}</font>
+
+425
+00:17:56,870 --> 00:17:57,270
+<font face="Duality" size="70" color="#3f93d8">{\an7}</font>
+
+426
+00:17:56,900 --> 00:17:57,200
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">me</font></font>
+
+427
+00:17:56,920 --> 00:17:59,600
+<font face="Duality" size="70" color="#3f93d8">{\an7}A</font>
+
+428
+00:17:56,920 --> 00:17:57,360
+<font face="Duality" size="70" color="#3f93d8">{\an7}PO</font>
+
+429
+00:17:56,950 --> 00:17:57,250
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">th</font></font>
+
+430
+00:17:56,970 --> 00:17:59,650
+<font face="Duality" size="70" color="#3f93d8">{\an7}co</font>
+
+431
+00:17:56,970 --> 00:17:57,540
+<font face="Duality" size="70" color="#3f93d8">{\an7}KE</font>
+
+432
+00:17:57,000 --> 00:17:57,300
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">ing</font></font>
+
+433
+00:17:57,020 --> 00:17:59,700
+<font face="Duality" size="70" color="#3f93d8">{\an7}in</font>
+
+434
+00:17:57,020 --> 00:17:57,910
+<font face="Duality" size="70" color="#3f93d8">{\an7}TTO</font>
+
+435
+00:17:57,050 --> 00:17:57,350
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">to</font></font>
+
+436
+00:17:57,070 --> 00:17:59,750
+<font face="Duality" size="70" color="#3f93d8">{\an7}in</font>
+
+437
+00:17:57,070 --> 00:17:58,480
+<font face="Duality" size="70" color="#3f93d8">{\an7}no</font>
+
+438
+00:17:57,100 --> 00:17:57,400
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">fi</font></font>
+
+439
+00:17:57,120 --> 00:17:59,800
+<font face="Duality" size="70" color="#3f93d8">{\an7}my</font>
+
+440
+00:17:57,120 --> 00:17:59,000
+<font face="Duality" size="70" color="#3f93d8">{\an7}KO</font>
+
+441
+00:17:57,150 --> 00:17:57,450
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">nd</font></font>
+
+442
+00:17:57,170 --> 00:17:59,850
+<font face="Duality" size="70" color="#3f93d8">{\an7}po</font>
+
+443
+00:17:57,170 --> 00:17:59,280
+<font face="Duality" size="70" color="#3f93d8">{\an7}IN</font>
+
+444
+00:17:57,220 --> 00:17:59,900
+<font face="Duality" size="70" color="#3f93d8">{\an7}ck</font>
+
+445
+00:17:57,270 --> 00:17:59,850
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8"></font></font>
+
+446
+00:17:57,270 --> 00:17:59,950
+<font face="Duality" size="70" color="#3f93d8">{\an7}et,</font>
+
+447
+00:17:57,270 --> 00:17:57,610
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8"></font></font>
+
+448
+00:17:57,360 --> 00:17:57,790
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">PO</font></font>
+
+449
+00:17:57,540 --> 00:17:58,160
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">KE</font></font>
+
+450
+00:17:57,910 --> 00:17:58,730
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">TTO</font></font>
+
+451
+00:17:58,480 --> 00:17:59,250
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">no</font></font>
+
+452
+00:17:59,000 --> 00:17:59,530
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">KO</font></font>
+
+453
+00:17:59,280 --> 00:18:00,250
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">IN</font></font>
+
+454
+00:17:59,590 --> 00:17:59,990
+<font face="Duality" size="70" color="#3f93d8">{\an7}</font>
+
+455
+00:17:59,590 --> 00:17:59,990
+<font face="Duality" size="70" color="#3f93d8">{\an7}</font>
+
+456
+00:17:59,600 --> 00:17:59,900
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">A</font></font>
+
+457
+00:17:59,640 --> 00:18:02,680
+<font face="Duality" size="70" color="#3f93d8">{\an7}and</font>
+
+458
+00:17:59,640 --> 00:18:00,190
+<font face="Duality" size="70" color="#3f93d8">{\an7}So</font>
+
+459
+00:17:59,650 --> 00:17:59,950
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">co</font></font>
+
+460
+00:17:59,690 --> 00:18:02,730
+<font face="Duality" size="70" color="#3f93d8">{\an7}do</font>
+
+461
+00:17:59,690 --> 00:18:00,430
+<font face="Duality" size="70" color="#3f93d8">{\an7}re</font>
+
+462
+00:17:59,700 --> 00:18:00,000
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">in</font></font>
+
+463
+00:17:59,740 --> 00:18:02,780
+<font face="Duality" size="70" color="#3f93d8">{\an7}you</font>
+
+464
+00:17:59,740 --> 00:18:00,610
+<font face="Duality" size="70" color="#3f93d8">{\an7}to</font>
+
+465
+00:17:59,750 --> 00:18:00,050
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">in</font></font>
+
+466
+00:17:59,790 --> 00:18:02,830
+<font face="Duality" size="70" color="#3f93d8">{\an7}wa</font>
+
+467
+00:17:59,790 --> 00:18:00,720
+<font face="Duality" size="70" color="#3f93d8">{\an7}You</font>
+
+468
+00:17:59,800 --> 00:18:00,100
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">my</font></font>
+
+469
+00:17:59,840 --> 00:18:02,880
+<font face="Duality" size="70" color="#3f93d8">{\an7}nna</font>
+
+470
+00:17:59,840 --> 00:18:00,980
+<font face="Duality" size="70" color="#3f93d8">{\an7}wan</font>
+
+471
+00:17:59,850 --> 00:18:00,150
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">po</font></font>
+
+472
+00:17:59,890 --> 00:18:02,930
+<font face="Duality" size="70" color="#3f93d8">{\an7}be</font>
+
+473
+00:17:59,890 --> 00:18:01,120
+<font face="Duality" size="70" color="#3f93d8">{\an7}na</font>
+
+474
+00:17:59,900 --> 00:18:00,200
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">ck</font></font>
+
+475
+00:17:59,940 --> 00:18:02,980
+<font face="Duality" size="70" color="#3f93d8">{\an7}my</font>
+
+476
+00:17:59,940 --> 00:18:01,310
+<font face="Duality" size="70" color="#3f93d8">{\an7}be</font>
+
+477
+00:17:59,950 --> 00:18:00,250
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">et,</font></font>
+
+478
+00:17:59,990 --> 00:18:02,930
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8"></font></font>
+
+479
+00:17:59,990 --> 00:18:03,030
+<font face="Duality" size="70" color="#3f93d8">{\an7}fr</font>
+
+480
+00:17:59,990 --> 00:18:00,440
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8"></font></font>
+
+481
+00:17:59,990 --> 00:18:01,670
+<font face="Duality" size="70" color="#3f93d8">{\an7}my</font>
+
+482
+00:18:00,040 --> 00:18:03,080
+<font face="Duality" size="70" color="#3f93d8">{\an7}ie</font>
+
+483
+00:18:00,040 --> 00:18:01,970
+<font face="Duality" size="70" color="#3f93d8">{\an7}Friend?</font>
+
+484
+00:18:00,090 --> 00:18:03,130
+<font face="Duality" size="70" color="#3f93d8">{\an7}nd?</font>
+
+485
+00:18:00,190 --> 00:18:00,680
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">So</font></font>
+
+486
+00:18:00,430 --> 00:18:00,860
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">re</font></font>
+
+487
+00:18:00,610 --> 00:18:00,970
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">to</font></font>
+
+488
+00:18:00,720 --> 00:18:01,230
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">You</font></font>
+
+489
+00:18:00,980 --> 00:18:01,370
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">wan</font></font>
+
+490
+00:18:01,120 --> 00:18:01,560
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">na</font></font>
+
+491
+00:18:01,310 --> 00:18:01,920
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">be</font></font>
+
+492
+00:18:01,670 --> 00:18:02,220
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">my</font></font>
+
+493
+00:18:01,970 --> 00:18:03,430
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">Friend?</font></font>
+
+494
+00:18:02,680 --> 00:18:02,980
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">and</font></font>
+
+495
+00:18:02,730 --> 00:18:03,030
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">do</font></font>
+
+496
+00:18:02,780 --> 00:18:03,080
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">you</font></font>
+
+497
+00:18:02,830 --> 00:18:03,130
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">wa</font></font>
+
+498
+00:18:02,880 --> 00:18:03,180
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">nna</font></font>
+
+499
+00:18:02,930 --> 00:18:03,230
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">be</font></font>
+
+500
+00:18:02,980 --> 00:18:03,280
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">my</font></font>
+
+501
+00:18:03,030 --> 00:18:03,330
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">fr</font></font>
+
+502
+00:18:03,080 --> 00:18:03,380
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">ie</font></font>
+
+503
+00:18:03,100 --> 00:18:03,500
+<font face="Duality" size="70" color="#3f93d8">{\an7}</font>
+
+504
+00:18:03,130 --> 00:18:03,430
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">nd?</font></font>
+
+505
+00:18:03,150 --> 00:18:03,620
+<font face="Duality" size="70" color="#3f93d8">{\an7}We</font>
+
+506
+00:18:03,200 --> 00:18:04,160
+<font face="Duality" size="70" color="#3f93d8">{\an7}are,</font>
+
+507
+00:18:03,250 --> 00:18:05,070
+<font face="Duality" size="70" color="#3f93d8">{\an7}We</font>
+
+508
+00:18:03,300 --> 00:18:05,600
+<font face="Duality" size="70" color="#3f93d8">{\an7}are</font>
+
+509
+00:18:03,350 --> 00:18:06,100
+<font face="Duality" size="70" color="#3f93d8">{\an7}on</font>
+
+510
+00:18:03,400 --> 00:18:06,300
+<font face="Duality" size="70" color="#3f93d8">{\an7}the</font>
+
+511
+00:18:03,450 --> 00:18:06,470
+<font face="Duality" size="70" color="#3f93d8">{\an7}cruise!</font>
+
+512
+00:18:03,500 --> 00:18:03,870
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8"></font></font>
+
+513
+00:18:03,620 --> 00:18:04,410
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">We</font></font>
+
+514
+00:18:04,160 --> 00:18:05,320
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">are,</font></font>
+
+515
+00:18:05,070 --> 00:18:05,850
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">We</font></font>
+
+516
+00:18:05,240 --> 00:18:06,730
+<font face="Impress BT Pace" size="82">Alright! Let's go!</font>
+
+517
+00:18:05,600 --> 00:18:06,350
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">are</font></font>
+
+518
+00:18:06,100 --> 00:18:06,550
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">on</font></font>
+
+519
+00:18:06,300 --> 00:18:06,720
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">the</font></font>
+
+520
+00:18:06,470 --> 00:18:08,320
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">cruise!</font></font>
+
+521
+00:18:07,480 --> 00:18:09,060
+<font face="Impress BT Pace" size="82">{I'm gonna become... - OG}I'm gonna be...</font>
+
+522
+00:18:08,450 --> 00:18:08,850
+<font face="Duality" size="70" color="#3f93d8">{\an7}</font>
+
+523
+00:18:08,500 --> 00:18:09,020
+<font face="Duality" size="70" color="#3f93d8">{\an7}We</font>
+
+524
+00:18:08,550 --> 00:18:09,320
+<font face="Duality" size="70" color="#3f93d8">{\an7}are!</font>
+
+525
+00:18:08,850 --> 00:18:09,270
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8"></font></font>
+
+526
+00:18:09,020 --> 00:18:09,570
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">We</font></font>
+
+527
+00:18:09,060 --> 00:18:11,880
+<font face="Impress BT Pace" size="82">{the King of the Pirates! - OG}King of the Pirates!</font>
+
+528
+00:18:09,320 --> 00:18:09,950
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">are!</font></font>
+
+529
+00:18:11,250 --> 00:18:11,650
+<font face="Duality" size="70" color="#3f93d8">{\an7}</font>
+
+530
+00:18:11,300 --> 00:18:11,820
+<font face="Duality" size="70" color="#3f93d8">{\an7}We</font>
+
+531
+00:18:11,350 --> 00:18:12,120
+<font face="Duality" size="70" color="#3f93d8">{\an7}are!</font>
+
+532
+00:18:11,650 --> 00:18:12,070
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8"></font></font>
+
+533
+00:18:11,820 --> 00:18:12,370
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">We</font></font>
+
+534
+00:18:12,120 --> 00:18:12,750
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">are!</font></font>
+
+535
+00:18:14,150 --> 00:18:14,550
+<font face="Duality" size="70" color="#3f93d8">{\an7}</font>
+
+536
+00:18:14,200 --> 00:18:14,720
+<font face="Duality" size="70" color="#3f93d8">{\an7}We</font>
+
+537
+00:18:14,250 --> 00:18:15,020
+<font face="Duality" size="70" color="#3f93d8">{\an7}are!</font>
+
+538
+00:18:14,550 --> 00:18:14,970
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8"></font></font>
+
+539
+00:18:14,720 --> 00:18:15,270
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">We</font></font>
+
+540
+00:18:15,020 --> 00:18:15,650
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">are!</font></font>
+

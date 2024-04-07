@@ -1,0 +1,5586 @@
+1
+00:00:00,000 --> 00:00:01,980
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}</font>
+
+2
+00:00:00,000 --> 00:00:01,980
+<font size="20"></font>
+
+3
+00:00:00,420 --> 00:00:00,500
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}os</font>
+
+4
+00:00:00,500 --> 00:00:00,580
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}e</font>
+
+5
+00:00:00,580 --> 00:00:00,660
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}k</font>
+
+6
+00:00:00,660 --> 00:00:00,660
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}a</font>
+
+7
+00:00:00,660 --> 00:00:00,740
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}</font>
+
+8
+00:00:00,740 --> 00:00:00,740
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}nh</font>
+
+9
+00:00:00,740 --> 00:00:00,810
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ko</font>
+
+10
+00:00:00,810 --> 00:00:00,820
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}a</font>
+
+11
+00:00:00,820 --> 00:00:00,900
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}no</font>
+
+12
+00:00:00,900 --> 00:00:00,900
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}n</font>
+
+13
+00:00:00,900 --> 00:00:01,450
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}se</font>
+
+14
+00:00:00,920 --> 00:00:03,650
+<font face="Designosaur" size="39">It's not like we've seen</font>
+
+15
+00:00:00,940 --> 00:00:00,980
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}a</font>
+
+16
+00:00:00,980 --> 00:00:01,600
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ka</font>
+
+17
+00:00:01,020 --> 00:00:01,060
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}n</font>
+
+18
+00:00:01,060 --> 00:00:01,760
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}i</font>
+
+19
+00:00:01,100 --> 00:00:03,650
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff"></font></font>
+
+20
+00:00:01,100 --> 00:00:03,650
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ko</font></font>
+
+21
+00:00:01,100 --> 00:00:02,110
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}no</font>
+
+22
+00:00:01,180 --> 00:00:02,260
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ha</font>
+
+23
+00:00:01,260 --> 00:00:02,640
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}te</font>
+
+24
+00:00:01,280 --> 00:00:03,650
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">no</font></font>
+
+25
+00:00:01,340 --> 00:00:02,960
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}na</font>
+
+26
+00:00:01,420 --> 00:00:03,650
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}n</font>
+
+27
+00:00:01,450 --> 00:00:03,650
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">se</font></font>
+
+28
+00:00:01,500 --> 00:00:03,650
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}te</font>
+
+29
+00:00:01,600 --> 00:00:03,650
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ka</font></font>
+
+30
+00:00:01,760 --> 00:00:03,650
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">i</font></font>
+
+31
+00:00:02,110 --> 00:00:03,650
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">no</font></font>
+
+32
+00:00:02,260 --> 00:00:03,650
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ha</font></font>
+
+33
+00:00:02,640 --> 00:00:03,650
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">te</font></font>
+
+34
+00:00:02,710 --> 00:00:02,790
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}</font>
+
+35
+00:00:02,790 --> 00:00:02,870
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}k</font>
+
+36
+00:00:02,870 --> 00:00:02,880
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}on</font>
+
+37
+00:00:02,880 --> 00:00:03,650
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}</font>
+
+38
+00:00:02,950 --> 00:00:02,960
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}om</font>
+
+39
+00:00:02,960 --> 00:00:03,650
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ko</font>
+
+40
+00:00:02,960 --> 00:00:03,650
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">na</font></font>
+
+41
+00:00:03,030 --> 00:00:03,040
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}ed</font>
+
+42
+00:00:03,040 --> 00:00:03,650
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}no</font>
+
+43
+00:00:03,110 --> 00:00:03,120
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}e</font>
+
+44
+00:00:03,120 --> 00:00:03,650
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}me</font>
+
+45
+00:00:03,190 --> 00:00:03,200
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}m</font>
+
+46
+00:00:03,200 --> 00:00:04,250
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}de</font>
+
+47
+00:00:03,270 --> 00:00:03,650
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}it</font>
+
+48
+00:00:03,280 --> 00:00:04,420
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}mi</font>
+
+49
+00:00:03,280 --> 00:00:03,650
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">n</font></font>
+
+50
+00:00:03,360 --> 00:00:04,760
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ta</font>
+
+51
+00:00:03,390 --> 00:00:03,650
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}a</font>
+
+52
+00:00:03,650 --> 00:00:03,650
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}w</font>
+
+53
+00:00:03,650 --> 00:00:04,960
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}wa</font>
+
+54
+00:00:03,650 --> 00:00:03,650
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">te</font></font>
+
+55
+00:00:03,650 --> 00:00:03,650
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}a</font>
+
+56
+00:00:03,650 --> 00:00:05,550
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ke</font>
+
+57
+00:00:03,650 --> 00:00:06,920
+<font face="Designosaur" size="39">the end of the world with our own eyes.</font>
+
+58
+00:00:03,650 --> 00:00:03,650
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}k</font>
+
+59
+00:00:03,650 --> 00:00:05,550
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ja</font>
+
+60
+00:00:03,650 --> 00:00:06,790
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff"></font></font>
+
+61
+00:00:03,650 --> 00:00:06,790
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ko</font></font>
+
+62
+00:00:03,650 --> 00:00:06,280
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}i</font>
+
+63
+00:00:03,670 --> 00:00:05,550
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}na</font>
+
+64
+00:00:03,940 --> 00:00:06,790
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">k</font></font>
+
+65
+00:00:03,940 --> 00:00:06,790
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">no</font></font>
+
+66
+00:00:04,110 --> 00:00:06,790
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">on</font></font>
+
+67
+00:00:04,110 --> 00:00:06,790
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">me</font></font>
+
+68
+00:00:04,250 --> 00:00:06,790
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">om</font></font>
+
+69
+00:00:04,250 --> 00:00:06,790
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">de</font></font>
+
+70
+00:00:04,420 --> 00:00:06,790
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">ed</font></font>
+
+71
+00:00:04,420 --> 00:00:06,790
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">mi</font></font>
+
+72
+00:00:04,760 --> 00:00:06,790
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">e</font></font>
+
+73
+00:00:04,760 --> 00:00:06,790
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ta</font></font>
+
+74
+00:00:04,960 --> 00:00:06,790
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">m</font></font>
+
+75
+00:00:04,960 --> 00:00:06,790
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">wa</font></font>
+
+76
+00:00:05,300 --> 00:00:06,790
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">it</font></font>
+
+77
+00:00:05,300 --> 00:00:06,790
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ke</font></font>
+
+78
+00:00:05,550 --> 00:00:06,790
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">a</font></font>
+
+79
+00:00:05,550 --> 00:00:06,790
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ja</font></font>
+
+80
+00:00:05,900 --> 00:00:06,620
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}</font>
+
+81
+00:00:05,940 --> 00:00:06,790
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">w</font></font>
+
+82
+00:00:05,940 --> 00:00:06,790
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">na</font></font>
+
+83
+00:00:05,980 --> 00:00:06,700
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}d</font>
+
+84
+00:00:06,060 --> 00:00:06,780
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}ak</font>
+
+85
+00:00:06,140 --> 00:00:06,860
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}a</font>
+
+86
+00:00:06,220 --> 00:00:06,940
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}r</font>
+
+87
+00:00:06,280 --> 00:00:06,790
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">a</font></font>
+
+88
+00:00:06,280 --> 00:00:06,340
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">i</font></font>
+
+89
+00:00:06,340 --> 00:00:07,020
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}a</font>
+
+90
+00:00:06,380 --> 00:00:07,100
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}t</font>
+
+91
+00:00:06,460 --> 00:00:07,180
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}a</font>
+
+92
+00:00:06,540 --> 00:00:07,260
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}b</font>
+
+93
+00:00:06,580 --> 00:00:06,640
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">k</font></font>
+
+94
+00:00:06,620 --> 00:00:06,740
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}</font>
+
+95
+00:00:06,640 --> 00:00:07,340
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}id</font>
+
+96
+00:00:06,700 --> 00:00:06,810
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}da</font>
+
+97
+00:00:06,740 --> 00:00:07,420
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}a</font>
+
+98
+00:00:06,780 --> 00:00:06,890
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ka</font>
+
+99
+00:00:06,810 --> 00:00:07,500
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}t</font>
+
+100
+00:00:06,860 --> 00:00:07,450
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ra</font>
+
+101
+00:00:06,890 --> 00:00:07,580
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}su</font>
+
+102
+00:00:06,920 --> 00:00:14,160
+<font face="Designosaur" size="39">That's why we gotta cast off -</font><font size="20"> together, we can!</font>
+
+103
+00:00:06,940 --> 00:00:07,660
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}nd</font>
+
+104
+00:00:06,940 --> 00:00:07,600
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ta</font>
+
+105
+00:00:07,020 --> 00:00:07,740
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}ak</font>
+
+106
+00:00:07,020 --> 00:00:07,780
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}bi</font>
+
+107
+00:00:07,100 --> 00:00:14,160
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff"></font></font>
+
+108
+00:00:07,100 --> 00:00:14,160
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">da</font></font>
+
+109
+00:00:07,100 --> 00:00:08,100
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}da</font>
+
+110
+00:00:07,180 --> 00:00:08,270
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}tsu</font>
+
+111
+00:00:07,250 --> 00:00:14,160
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">d</font></font>
+
+112
+00:00:07,250 --> 00:00:14,160
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ka</font></font>
+
+113
+00:00:07,260 --> 00:00:08,620
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}n</font>
+
+114
+00:00:07,340 --> 00:00:08,960
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}da</font>
+
+115
+00:00:07,420 --> 00:00:09,390
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ki</font>
+
+116
+00:00:07,450 --> 00:00:14,160
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">ak</font></font>
+
+117
+00:00:07,450 --> 00:00:14,160
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ra</font></font>
+
+118
+00:00:07,500 --> 00:00:10,120
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}mi</font>
+
+119
+00:00:07,580 --> 00:00:10,390
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}to</font>
+
+120
+00:00:07,600 --> 00:00:14,160
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">a</font></font>
+
+121
+00:00:07,600 --> 00:00:14,160
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ta</font></font>
+
+122
+00:00:07,660 --> 00:00:11,710
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}we</font>
+
+123
+00:00:07,740 --> 00:00:12,920
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}can!</font>
+
+124
+00:00:07,780 --> 00:00:14,160
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">r</font></font>
+
+125
+00:00:07,780 --> 00:00:14,160
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">bi</font></font>
+
+126
+00:00:08,100 --> 00:00:14,160
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">a</font></font>
+
+127
+00:00:08,100 --> 00:00:14,160
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">da</font></font>
+
+128
+00:00:08,270 --> 00:00:14,160
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">t</font></font>
+
+129
+00:00:08,270 --> 00:00:14,160
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">tsu</font></font>
+
+130
+00:00:08,620 --> 00:00:14,160
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">a</font></font>
+
+131
+00:00:08,620 --> 00:00:14,160
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">n</font></font>
+
+132
+00:00:08,960 --> 00:00:14,160
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">b</font></font>
+
+133
+00:00:08,960 --> 00:00:14,160
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">da</font></font>
+
+134
+00:00:09,760 --> 00:00:14,160
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">id</font></font>
+
+135
+00:00:09,760 --> 00:00:14,160
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ki</font></font>
+
+136
+00:00:10,120 --> 00:00:14,160
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">a</font></font>
+
+137
+00:00:10,120 --> 00:00:14,160
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">mi</font></font>
+
+138
+00:00:10,390 --> 00:00:14,160
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">t</font></font>
+
+139
+00:00:10,390 --> 00:00:14,160
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">to</font></font>
+
+140
+00:00:11,710 --> 00:00:14,160
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">su</font></font>
+
+141
+00:00:11,710 --> 00:00:14,160
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">we</font></font>
+
+142
+00:00:12,920 --> 00:00:14,160
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">nd</font></font>
+
+143
+00:00:12,920 --> 00:00:14,160
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">can!</font></font>
+
+144
+00:00:14,160 --> 00:00:14,160
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">ak</font></font>
+
+145
+00:00:22,930 --> 00:00:23,610
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}</font>
+
+146
+00:00:22,930 --> 00:00:23,690
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}u</font>
+
+147
+00:00:22,930 --> 00:00:23,770
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}m</font>
+
+148
+00:00:23,210 --> 00:00:23,850
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}ik</font>
+
+149
+00:00:23,290 --> 00:00:23,930
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}a</font>
+
+150
+00:00:23,370 --> 00:00:24,010
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}r</font>
+
+151
+00:00:23,450 --> 00:00:24,090
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}a</font>
+
+152
+00:00:23,530 --> 00:00:24,170
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}u</font>
+
+153
+00:00:23,610 --> 00:00:24,250
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}mi</font>
+
+154
+00:00:23,610 --> 00:00:23,730
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}</font>
+
+155
+00:00:23,690 --> 00:00:23,800
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}u</font>
+
+156
+00:00:23,730 --> 00:00:24,330
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}o</font>
+
+157
+00:00:23,770 --> 00:00:24,410
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}m</font>
+
+158
+00:00:23,770 --> 00:00:23,880
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}mi</font>
+
+159
+00:00:23,800 --> 00:00:27,100
+<font face="Designosaur" size="39">Sailing from sea to sea,</font>
+
+160
+00:00:23,850 --> 00:00:23,970
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ka</font>
+
+161
+00:00:23,880 --> 00:00:24,490
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}at</font>
+
+162
+00:00:23,930 --> 00:00:24,610
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ra</font>
+
+163
+00:00:23,970 --> 00:00:24,570
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}a</font>
+
+164
+00:00:24,010 --> 00:00:24,650
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}n</font>
+
+165
+00:00:24,010 --> 00:00:24,970
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}u</font>
+
+166
+00:00:24,090 --> 00:00:26,750
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff"></font></font>
+
+167
+00:00:24,090 --> 00:00:26,750
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">u</font></font>
+
+168
+00:00:24,090 --> 00:00:25,280
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}mi</font>
+
+169
+00:00:24,170 --> 00:00:25,430
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}o</font>
+
+170
+00:00:24,240 --> 00:00:26,750
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">u</font></font>
+
+171
+00:00:24,240 --> 00:00:26,750
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">mi</font></font>
+
+172
+00:00:24,250 --> 00:00:25,580
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ma</font>
+
+173
+00:00:24,330 --> 00:00:25,700
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ta</font>
+
+174
+00:00:24,400 --> 00:00:26,750
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">m</font></font>
+
+175
+00:00:24,400 --> 00:00:26,750
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ka</font></font>
+
+176
+00:00:24,410 --> 00:00:25,910
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ni</font>
+
+177
+00:00:24,490 --> 00:00:26,070
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ka</font>
+
+178
+00:00:24,570 --> 00:00:26,230
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ke</font>
+
+179
+00:00:24,610 --> 00:00:26,750
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">ik</font></font>
+
+180
+00:00:24,610 --> 00:00:26,750
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ra</font></font>
+
+181
+00:00:24,650 --> 00:00:26,430
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}te</font>
+
+182
+00:00:24,970 --> 00:00:26,750
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">a</font></font>
+
+183
+00:00:24,970 --> 00:00:26,750
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">u</font></font>
+
+184
+00:00:25,280 --> 00:00:26,750
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">r</font></font>
+
+185
+00:00:25,280 --> 00:00:26,750
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">mi</font></font>
+
+186
+00:00:25,430 --> 00:00:26,750
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">a</font></font>
+
+187
+00:00:25,430 --> 00:00:26,750
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">o</font></font>
+
+188
+00:00:25,580 --> 00:00:26,750
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">u</font></font>
+
+189
+00:00:25,580 --> 00:00:26,750
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ma</font></font>
+
+190
+00:00:25,700 --> 00:00:26,750
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">mi</font></font>
+
+191
+00:00:25,700 --> 00:00:26,750
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ta</font></font>
+
+192
+00:00:25,910 --> 00:00:26,750
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">o</font></font>
+
+193
+00:00:25,910 --> 00:00:26,750
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ni</font></font>
+
+194
+00:00:26,070 --> 00:00:26,750
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">m</font></font>
+
+195
+00:00:26,070 --> 00:00:26,750
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ka</font></font>
+
+196
+00:00:26,230 --> 00:00:26,750
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">at</font></font>
+
+197
+00:00:26,230 --> 00:00:26,460
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ke</font></font>
+
+198
+00:00:26,460 --> 00:00:26,460
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">a</font></font>
+
+199
+00:00:26,460 --> 00:00:26,750
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">te</font></font>
+
+200
+00:00:26,750 --> 00:00:26,990
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">n</font></font>
+
+201
+00:00:28,370 --> 00:00:28,490
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}</font>
+
+202
+00:00:28,490 --> 00:00:28,570
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}d</font>
+
+203
+00:00:28,570 --> 00:00:28,650
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}a</font>
+
+204
+00:00:28,650 --> 00:00:28,730
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}re</font>
+
+205
+00:00:28,730 --> 00:00:28,810
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}mo</font>
+
+206
+00:00:28,810 --> 00:00:28,890
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}g</font>
+
+207
+00:00:28,890 --> 00:00:28,890
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}a</font>
+
+208
+00:00:28,890 --> 00:00:28,970
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}</font>
+
+209
+00:00:28,970 --> 00:00:28,970
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}w</font>
+
+210
+00:00:28,970 --> 00:00:29,040
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}da</font>
+
+211
+00:00:29,040 --> 00:00:29,050
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}a</font>
+
+212
+00:00:29,050 --> 00:00:29,660
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}re</font>
+
+213
+00:00:29,090 --> 00:00:29,130
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}r</font>
+
+214
+00:00:29,130 --> 00:00:29,810
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}mo</font>
+
+215
+00:00:29,160 --> 00:00:31,840
+<font face="Designosaur" size="39">saying it's nothing but a fairy tale.</font>
+
+216
+00:00:29,170 --> 00:00:29,210
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}at</font>
+
+217
+00:00:29,210 --> 00:00:29,980
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ga</font>
+
+218
+00:00:29,250 --> 00:00:29,290
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}t</font>
+
+219
+00:00:29,290 --> 00:00:30,310
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}wa</font>
+
+220
+00:00:29,330 --> 00:00:31,840
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff"></font></font>
+
+221
+00:00:29,330 --> 00:00:31,840
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">da</font></font>
+
+222
+00:00:29,330 --> 00:00:30,640
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ra</font>
+
+223
+00:00:29,410 --> 00:00:30,970
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}tte</font>
+
+224
+00:00:29,490 --> 00:00:31,150
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}i</font>
+
+225
+00:00:29,570 --> 00:00:31,300
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ru</font>
+
+226
+00:00:29,650 --> 00:00:31,840
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ke</font>
+
+227
+00:00:29,660 --> 00:00:31,840
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">re</font></font>
+
+228
+00:00:29,730 --> 00:00:31,840
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}do</font>
+
+229
+00:00:29,810 --> 00:00:31,840
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">mo</font></font>
+
+230
+00:00:29,980 --> 00:00:31,840
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ga</font></font>
+
+231
+00:00:30,310 --> 00:00:31,840
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">wa</font></font>
+
+232
+00:00:30,640 --> 00:00:31,840
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ra</font></font>
+
+233
+00:00:30,870 --> 00:00:30,950
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}</font>
+
+234
+00:00:30,950 --> 00:00:30,980
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}so</font>
+
+235
+00:00:30,980 --> 00:00:31,840
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">tte</font></font>
+
+236
+00:00:31,030 --> 00:00:31,040
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}u</font>
+
+237
+00:00:31,040 --> 00:00:31,840
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}</font>
+
+238
+00:00:31,110 --> 00:00:31,120
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}z</font>
+
+239
+00:00:31,120 --> 00:00:31,840
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}sou</font>
+
+240
+00:00:31,150 --> 00:00:31,840
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">i</font></font>
+
+241
+00:00:31,190 --> 00:00:31,200
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}ou</font>
+
+242
+00:00:31,200 --> 00:00:32,500
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}zo</font>
+
+243
+00:00:31,270 --> 00:00:31,280
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}t</font>
+
+244
+00:00:31,280 --> 00:00:32,700
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}u</font>
+
+245
+00:00:31,300 --> 00:00:31,840
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ru</font></font>
+
+246
+00:00:31,350 --> 00:00:31,360
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}s</font>
+
+247
+00:00:31,360 --> 00:00:33,000
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}tsu</font>
+
+248
+00:00:31,430 --> 00:00:31,440
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}u</font>
+
+249
+00:00:31,440 --> 00:00:33,380
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ka</font>
+
+250
+00:00:31,450 --> 00:00:31,840
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ke</font></font>
+
+251
+00:00:31,520 --> 00:00:33,730
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}na</font>
+
+252
+00:00:31,540 --> 00:00:31,840
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}ka</font>
+
+253
+00:00:31,590 --> 00:00:31,840
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}n</font>
+
+254
+00:00:31,840 --> 00:00:34,100
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}i</font>
+
+255
+00:00:31,840 --> 00:00:31,840
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}a</font>
+
+256
+00:00:31,840 --> 00:00:34,370
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ko</font>
+
+257
+00:00:31,840 --> 00:00:31,840
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">do</font></font>
+
+258
+00:00:31,840 --> 00:00:31,840
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}i</font>
+
+259
+00:00:31,840 --> 00:00:34,550
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}to</font>
+
+260
+00:00:31,840 --> 00:00:31,840
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}k</font>
+
+261
+00:00:31,840 --> 00:00:35,550
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ba</font>
+
+262
+00:00:31,840 --> 00:00:31,840
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}ot</font>
+
+263
+00:00:31,840 --> 00:00:36,210
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ka</font>
+
+264
+00:00:31,840 --> 00:00:38,880
+<font face="Designosaur" size="39">Truth is stranger than fiction, isn't it?</font>
+
+265
+00:00:31,840 --> 00:00:31,840
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}o</font>
+
+266
+00:00:31,840 --> 00:00:36,550
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ri</font>
+
+267
+00:00:31,840 --> 00:00:36,880
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}da</font>
+
+268
+00:00:32,150 --> 00:00:38,530
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff"></font></font>
+
+269
+00:00:32,150 --> 00:00:38,530
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">sou</font></font>
+
+270
+00:00:32,150 --> 00:00:37,210
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ro</font>
+
+271
+00:00:32,500 --> 00:00:38,530
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">so</font></font>
+
+272
+00:00:32,500 --> 00:00:38,530
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">zo</font></font>
+
+273
+00:00:32,700 --> 00:00:38,530
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">u</font></font>
+
+274
+00:00:32,700 --> 00:00:38,530
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">u</font></font>
+
+275
+00:00:33,000 --> 00:00:38,530
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">z</font></font>
+
+276
+00:00:33,000 --> 00:00:38,530
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">tsu</font></font>
+
+277
+00:00:33,380 --> 00:00:38,530
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">ou</font></font>
+
+278
+00:00:33,380 --> 00:00:38,530
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ka</font></font>
+
+279
+00:00:33,730 --> 00:00:38,530
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">t</font></font>
+
+280
+00:00:33,730 --> 00:00:38,530
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">na</font></font>
+
+281
+00:00:34,100 --> 00:00:38,530
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">s</font></font>
+
+282
+00:00:34,100 --> 00:00:38,530
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">i</font></font>
+
+283
+00:00:34,370 --> 00:00:38,530
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">u</font></font>
+
+284
+00:00:34,370 --> 00:00:38,530
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ko</font></font>
+
+285
+00:00:34,550 --> 00:00:38,530
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">ka</font></font>
+
+286
+00:00:34,550 --> 00:00:38,530
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">to</font></font>
+
+287
+00:00:35,890 --> 00:00:38,530
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">n</font></font>
+
+288
+00:00:35,890 --> 00:00:38,530
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ba</font></font>
+
+289
+00:00:36,210 --> 00:00:38,530
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">a</font></font>
+
+290
+00:00:36,210 --> 00:00:38,530
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ka</font></font>
+
+291
+00:00:36,550 --> 00:00:38,530
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">i</font></font>
+
+292
+00:00:36,550 --> 00:00:38,530
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ri</font></font>
+
+293
+00:00:36,880 --> 00:00:38,530
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">k</font></font>
+
+294
+00:00:36,880 --> 00:00:38,530
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">da</font></font>
+
+295
+00:00:37,210 --> 00:00:38,530
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">ot</font></font>
+
+296
+00:00:37,210 --> 00:00:38,530
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ro</font></font>
+
+297
+00:00:38,530 --> 00:00:38,770
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">o</font></font>
+
+298
+00:00:39,340 --> 00:00:39,820
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}</font>
+
+299
+00:00:39,450 --> 00:00:39,820
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}m</font>
+
+300
+00:00:39,530 --> 00:00:39,820
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}t</font>
+
+301
+00:00:39,820 --> 00:00:39,820
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}ie</font>
+
+302
+00:00:39,820 --> 00:00:39,820
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}m</font>
+
+303
+00:00:39,820 --> 00:00:39,820
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}in</font>
+
+304
+00:00:39,820 --> 00:00:39,820
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}</font>
+
+305
+00:00:39,820 --> 00:00:39,820
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}u</font>
+
+306
+00:00:39,820 --> 00:00:39,820
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}mi</font>
+
+307
+00:00:39,820 --> 00:00:39,820
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}f</font>
+
+308
+00:00:39,820 --> 00:00:39,820
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}te</font>
+
+309
+00:00:39,820 --> 00:00:39,820
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}u</font>
+
+310
+00:00:39,820 --> 00:00:40,560
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}mi</font>
+
+311
+00:00:39,820 --> 00:00:43,280
+<font face="Designosaur" size="39">Don't pretend you can't see it.</font>
+
+312
+00:00:39,820 --> 00:00:39,820
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}r</font>
+
+313
+00:00:40,100 --> 00:00:40,730
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}nu</font>
+
+314
+00:00:40,180 --> 00:00:40,950
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}fu</font>
+
+315
+00:00:40,220 --> 00:00:43,030
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff"></font></font>
+
+316
+00:00:40,220 --> 00:00:43,030
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">mi</font></font>
+
+317
+00:00:40,220 --> 00:00:41,390
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ri</font>
+
+318
+00:00:40,300 --> 00:00:41,730
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}su</font>
+
+319
+00:00:40,370 --> 00:00:43,030
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">m</font></font>
+
+320
+00:00:40,370 --> 00:00:43,030
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">te</font></font>
+
+321
+00:00:40,380 --> 00:00:42,050
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ru</font>
+
+322
+00:00:40,460 --> 00:00:42,390
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}na</font>
+
+323
+00:00:40,540 --> 00:00:42,550
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}yo</font>
+
+324
+00:00:40,560 --> 00:00:43,030
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">t</font></font>
+
+325
+00:00:40,560 --> 00:00:43,030
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">mi</font></font>
+
+326
+00:00:40,730 --> 00:00:43,030
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">ie</font></font>
+
+327
+00:00:40,730 --> 00:00:43,030
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">nu</font></font>
+
+328
+00:00:40,950 --> 00:00:43,030
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">m</font></font>
+
+329
+00:00:40,950 --> 00:00:43,030
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">fu</font></font>
+
+330
+00:00:41,390 --> 00:00:43,030
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">in</font></font>
+
+331
+00:00:41,390 --> 00:00:43,030
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ri</font></font>
+
+332
+00:00:41,730 --> 00:00:43,030
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">u</font></font>
+
+333
+00:00:41,730 --> 00:00:43,030
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">su</font></font>
+
+334
+00:00:42,050 --> 00:00:43,030
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">f</font></font>
+
+335
+00:00:42,050 --> 00:00:43,030
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ru</font></font>
+
+336
+00:00:42,390 --> 00:00:43,030
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">u</font></font>
+
+337
+00:00:42,390 --> 00:00:42,590
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">na</font></font>
+
+338
+00:00:42,590 --> 00:00:42,590
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">r</font></font>
+
+339
+00:00:42,590 --> 00:00:42,750
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">yo</font></font>
+
+340
+00:00:42,750 --> 00:00:43,360
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}</font>
+
+341
+00:00:42,800 --> 00:00:43,440
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}j</font>
+
+342
+00:00:42,880 --> 00:00:43,520
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}o</font>
+
+343
+00:00:42,960 --> 00:00:43,600
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}us</font>
+
+344
+00:00:43,030 --> 00:00:43,060
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">is</font></font>
+
+345
+00:00:43,060 --> 00:00:43,680
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}h</font>
+
+346
+00:00:43,120 --> 00:00:43,760
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}i</font>
+
+347
+00:00:43,200 --> 00:00:43,840
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}k</font>
+
+348
+00:00:43,280 --> 00:00:43,920
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}i</font>
+
+349
+00:00:43,360 --> 00:00:44,000
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}na</font>
+
+350
+00:00:43,360 --> 00:00:43,480
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}</font>
+
+351
+00:00:43,440 --> 00:00:43,550
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}jo</font>
+
+352
+00:00:43,480 --> 00:00:44,080
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}n</font>
+
+353
+00:00:43,520 --> 00:00:44,170
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}u</font>
+
+354
+00:00:43,550 --> 00:00:44,160
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}t</font>
+
+355
+00:00:43,600 --> 00:00:44,240
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}e</font>
+
+356
+00:00:43,600 --> 00:00:44,570
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}shi</font>
+
+357
+00:00:43,660 --> 00:00:50,330
+<font face="Designosaur" size="39">Common sense is only what the majority says it is!</font>
+
+358
+00:00:43,680 --> 00:00:44,320
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}s</font>
+
+359
+00:00:43,680 --> 00:00:44,850
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ki</font>
+
+360
+00:00:43,760 --> 00:00:44,400
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}at</font>
+
+361
+00:00:43,760 --> 00:00:45,200
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}na</font>
+
+362
+00:00:43,840 --> 00:00:49,790
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff"></font></font>
+
+363
+00:00:43,840 --> 00:00:49,790
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">jo</font></font>
+
+364
+00:00:43,840 --> 00:00:46,200
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}n</font>
+
+365
+00:00:43,920 --> 00:00:46,390
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}te</font>
+
+366
+00:00:44,000 --> 00:00:46,580
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}sa</font>
+
+367
+00:00:44,080 --> 00:00:47,660
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ta</font>
+
+368
+00:00:44,160 --> 00:00:47,660
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}su</font>
+
+369
+00:00:44,170 --> 00:00:49,790
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">j</font></font>
+
+370
+00:00:44,170 --> 00:00:49,790
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">u</font></font>
+
+371
+00:00:44,240 --> 00:00:48,870
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}u</font>
+
+372
+00:00:44,320 --> 00:00:49,050
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ke</font>
+
+373
+00:00:44,400 --> 00:00:49,210
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}tsu</font>
+
+374
+00:00:44,570 --> 00:00:49,790
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">o</font></font>
+
+375
+00:00:44,570 --> 00:00:49,790
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">shi</font></font>
+
+376
+00:00:44,850 --> 00:00:49,790
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">us</font></font>
+
+377
+00:00:44,850 --> 00:00:49,790
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ki</font></font>
+
+378
+00:00:45,200 --> 00:00:49,790
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">h</font></font>
+
+379
+00:00:45,200 --> 00:00:49,790
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">na</font></font>
+
+380
+00:00:46,200 --> 00:00:49,790
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">i</font></font>
+
+381
+00:00:46,200 --> 00:00:49,790
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">n</font></font>
+
+382
+00:00:46,390 --> 00:00:49,790
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">k</font></font>
+
+383
+00:00:46,390 --> 00:00:49,790
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">te</font></font>
+
+384
+00:00:46,580 --> 00:00:49,790
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">i</font></font>
+
+385
+00:00:46,580 --> 00:00:49,790
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">sa</font></font>
+
+386
+00:00:47,660 --> 00:00:49,790
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">na</font></font>
+
+387
+00:00:47,660 --> 00:00:49,790
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ta</font></font>
+
+388
+00:00:47,660 --> 00:00:49,790
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">n</font></font>
+
+389
+00:00:47,660 --> 00:00:49,790
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">su</font></font>
+
+390
+00:00:48,870 --> 00:00:49,790
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">t</font></font>
+
+391
+00:00:48,870 --> 00:00:49,790
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">u</font></font>
+
+392
+00:00:49,050 --> 00:00:49,790
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">e</font></font>
+
+393
+00:00:49,050 --> 00:00:49,790
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ke</font></font>
+
+394
+00:00:49,210 --> 00:00:49,790
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">s</font></font>
+
+395
+00:00:49,210 --> 00:00:50,330
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">tsu</font></font>
+
+396
+00:00:50,000 --> 00:00:50,330
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">at</font></font>
+
+397
+00:00:50,330 --> 00:00:50,330
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}</font>
+
+398
+00:00:50,780 --> 00:00:50,860
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}n</font>
+
+399
+00:00:50,860 --> 00:00:50,940
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}os</font>
+
+400
+00:00:50,940 --> 00:00:51,360
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}e</font>
+
+401
+00:00:51,020 --> 00:00:51,360
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}k</font>
+
+402
+00:00:51,100 --> 00:00:51,360
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}a</font>
+
+403
+00:00:51,100 --> 00:00:51,360
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}</font>
+
+404
+00:00:51,360 --> 00:00:51,360
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}nh</font>
+
+405
+00:00:51,360 --> 00:00:51,360
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ko</font>
+
+406
+00:00:51,360 --> 00:00:51,360
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}a</font>
+
+407
+00:00:51,360 --> 00:00:51,360
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}no</font>
+
+408
+00:00:51,360 --> 00:00:51,360
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}n</font>
+
+409
+00:00:51,360 --> 00:00:51,360
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}se</font>
+
+410
+00:00:51,360 --> 00:00:51,360
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}a</font>
+
+411
+00:00:51,360 --> 00:00:52,040
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ka</font>
+
+412
+00:00:51,360 --> 00:00:54,090
+<font face="Designosaur" size="39">It's not like we've seen</font>
+
+413
+00:00:51,360 --> 00:00:51,360
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}n</font>
+
+414
+00:00:51,360 --> 00:00:52,190
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}i</font>
+
+415
+00:00:51,360 --> 00:00:54,110
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff"></font></font>
+
+416
+00:00:51,360 --> 00:00:54,110
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ko</font></font>
+
+417
+00:00:51,360 --> 00:00:52,540
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}no</font>
+
+418
+00:00:51,620 --> 00:00:52,710
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ha</font>
+
+419
+00:00:51,700 --> 00:00:53,070
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}te</font>
+
+420
+00:00:51,720 --> 00:00:54,110
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">no</font></font>
+
+421
+00:00:51,780 --> 00:00:53,390
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}na</font>
+
+422
+00:00:51,860 --> 00:00:53,690
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}n</font>
+
+423
+00:00:51,880 --> 00:00:54,110
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">se</font></font>
+
+424
+00:00:51,940 --> 00:00:53,860
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}te</font>
+
+425
+00:00:52,040 --> 00:00:54,110
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ka</font></font>
+
+426
+00:00:52,190 --> 00:00:54,110
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">i</font></font>
+
+427
+00:00:52,540 --> 00:00:54,110
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">no</font></font>
+
+428
+00:00:52,710 --> 00:00:54,110
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ha</font></font>
+
+429
+00:00:53,070 --> 00:00:53,080
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}</font>
+
+430
+00:00:53,080 --> 00:00:54,110
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">te</font></font>
+
+431
+00:00:53,150 --> 00:00:53,230
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}k</font>
+
+432
+00:00:53,230 --> 00:00:53,240
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}on</font>
+
+433
+00:00:53,240 --> 00:00:54,110
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}</font>
+
+434
+00:00:53,310 --> 00:00:53,320
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}om</font>
+
+435
+00:00:53,320 --> 00:00:54,110
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ko</font>
+
+436
+00:00:53,390 --> 00:00:53,400
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}ed</font>
+
+437
+00:00:53,390 --> 00:00:54,390
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}no</font>
+
+438
+00:00:53,400 --> 00:00:54,110
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">na</font></font>
+
+439
+00:00:53,470 --> 00:00:53,480
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}e</font>
+
+440
+00:00:53,480 --> 00:00:54,550
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}me</font>
+
+441
+00:00:53,550 --> 00:00:53,560
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}m</font>
+
+442
+00:00:53,560 --> 00:00:54,700
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}de</font>
+
+443
+00:00:53,630 --> 00:00:53,640
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}it</font>
+
+444
+00:00:53,640 --> 00:00:54,890
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}mi</font>
+
+445
+00:00:53,690 --> 00:00:53,750
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">n</font></font>
+
+446
+00:00:53,720 --> 00:00:55,190
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ta</font>
+
+447
+00:00:53,790 --> 00:00:53,800
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}w</font>
+
+448
+00:00:53,800 --> 00:00:55,370
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}wa</font>
+
+449
+00:00:53,860 --> 00:00:53,890
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">te</font></font>
+
+450
+00:00:53,880 --> 00:00:55,690
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ke</font>
+
+451
+00:00:53,950 --> 00:00:53,960
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}k</font>
+
+452
+00:00:53,960 --> 00:00:56,020
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ja</font>
+
+453
+00:00:54,030 --> 00:00:56,390
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}na</font>
+
+454
+00:00:54,090 --> 00:00:57,510
+<font face="Designosaur" size="39">the end of the world with our own eyes.</font>
+
+455
+00:00:54,110 --> 00:00:56,800
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff"></font></font>
+
+456
+00:00:54,110 --> 00:00:56,800
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ko</font></font>
+
+457
+00:00:54,110 --> 00:00:56,800
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}i</font>
+
+458
+00:00:54,390 --> 00:00:56,800
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">k</font></font>
+
+459
+00:00:54,390 --> 00:00:56,800
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">no</font></font>
+
+460
+00:00:54,550 --> 00:00:56,800
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">on</font></font>
+
+461
+00:00:54,550 --> 00:00:56,800
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">me</font></font>
+
+462
+00:00:54,700 --> 00:00:56,800
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">om</font></font>
+
+463
+00:00:54,700 --> 00:00:56,800
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">de</font></font>
+
+464
+00:00:54,890 --> 00:00:56,800
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">ed</font></font>
+
+465
+00:00:54,890 --> 00:00:56,800
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">mi</font></font>
+
+466
+00:00:55,190 --> 00:00:56,800
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">e</font></font>
+
+467
+00:00:55,190 --> 00:00:56,800
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ta</font></font>
+
+468
+00:00:55,370 --> 00:00:56,800
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">m</font></font>
+
+469
+00:00:55,370 --> 00:00:56,800
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">wa</font></font>
+
+470
+00:00:55,690 --> 00:00:56,800
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">it</font></font>
+
+471
+00:00:55,690 --> 00:00:56,800
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ke</font></font>
+
+472
+00:00:56,020 --> 00:00:56,800
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">a</font></font>
+
+473
+00:00:56,020 --> 00:00:56,800
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ja</font></font>
+
+474
+00:00:56,390 --> 00:00:56,800
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">w</font></font>
+
+475
+00:00:56,390 --> 00:00:56,800
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">na</font></font>
+
+476
+00:00:56,420 --> 00:00:56,800
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}</font>
+
+477
+00:00:56,500 --> 00:00:56,800
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}d</font>
+
+478
+00:00:56,800 --> 00:00:56,800
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}a</font>
+
+479
+00:00:56,800 --> 00:00:56,800
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}k</font>
+
+480
+00:00:56,800 --> 00:00:56,800
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">a</font></font>
+
+481
+00:00:56,800 --> 00:00:56,800
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">i</font></font>
+
+482
+00:00:56,800 --> 00:00:57,380
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}a</font>
+
+483
+00:00:56,800 --> 00:00:57,540
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}ik</font>
+
+484
+00:00:56,800 --> 00:00:57,620
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}o</font>
+
+485
+00:00:56,820 --> 00:00:57,460
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}ra</font>
+
+486
+00:00:57,060 --> 00:00:57,700
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}u</font>
+
+487
+00:00:57,180 --> 00:00:58,100
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}z</font>
+
+488
+00:00:57,220 --> 00:00:57,340
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ka</font>
+
+489
+00:00:57,240 --> 00:00:58,100
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}e</font>
+
+490
+00:00:57,300 --> 00:00:57,420
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ra</font>
+
+491
+00:00:57,340 --> 00:00:58,100
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}am</font>
+
+492
+00:00:57,380 --> 00:00:58,100
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}i</font>
+
+493
+00:00:57,420 --> 00:00:58,100
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}ano</font>
+
+494
+00:00:57,460 --> 00:00:58,100
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}ja</font>
+
+495
+00:00:57,460 --> 00:00:58,100
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}kou</font>
+
+496
+00:00:57,510 --> 00:01:02,010
+<font face="Designosaur" size="39">So let's go, Captain I'll-Do-It-My-Way!</font>
+
+497
+00:00:57,540 --> 00:01:02,010
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff"></font></font>
+
+498
+00:00:57,540 --> 00:01:02,010
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">da</font></font>
+
+499
+00:00:57,540 --> 00:00:58,910
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ze</font>
+
+500
+00:00:57,620 --> 00:00:59,600
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}a</font>
+
+501
+00:00:57,700 --> 00:01:02,010
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">d</font></font>
+
+502
+00:00:57,700 --> 00:01:02,010
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ka</font></font>
+
+503
+00:00:57,700 --> 00:00:59,600
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ma</font>
+
+504
+00:00:57,780 --> 00:01:00,210
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}no</font>
+
+505
+00:00:58,100 --> 00:01:00,530
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ja</font>
+
+506
+00:00:58,100 --> 00:01:02,010
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">a</font></font>
+
+507
+00:00:58,100 --> 00:01:02,010
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ra</font></font>
+
+508
+00:00:58,100 --> 00:01:01,190
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}kku</font>
+
+509
+00:00:58,100 --> 00:01:01,370
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}sen</font>
+
+510
+00:00:58,100 --> 00:01:02,010
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">k</font></font>
+
+511
+00:00:58,100 --> 00:01:02,010
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">i</font></font>
+
+512
+00:00:58,100 --> 00:01:02,010
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}chou</font>
+
+513
+00:00:58,100 --> 00:01:02,010
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">a</font></font>
+
+514
+00:00:58,100 --> 00:01:02,010
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">kou</font></font>
+
+515
+00:00:58,910 --> 00:01:02,010
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">ra</font></font>
+
+516
+00:00:58,910 --> 00:01:02,010
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ze</font></font>
+
+517
+00:00:59,600 --> 00:01:02,010
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">ik</font></font>
+
+518
+00:00:59,600 --> 00:01:02,010
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">a</font></font>
+
+519
+00:00:59,870 --> 00:01:02,010
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">o</font></font>
+
+520
+00:00:59,870 --> 00:01:02,010
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ma</font></font>
+
+521
+00:01:00,210 --> 00:01:02,010
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">u</font></font>
+
+522
+00:01:00,210 --> 00:01:02,010
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">no</font></font>
+
+523
+00:01:00,530 --> 00:01:02,010
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">z</font></font>
+
+524
+00:01:00,530 --> 00:01:02,010
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ja</font></font>
+
+525
+00:01:01,190 --> 00:01:02,010
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">e</font></font>
+
+526
+00:01:01,190 --> 00:01:01,200
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}</font>
+
+527
+00:01:01,200 --> 00:01:02,010
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">kku</font></font>
+
+528
+00:01:01,270 --> 00:01:01,350
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}d</font>
+
+529
+00:01:01,350 --> 00:01:01,360
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}ek</font>
+
+530
+00:01:01,360 --> 00:01:02,010
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}</font>
+
+531
+00:01:01,370 --> 00:01:02,010
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">am</font></font>
+
+532
+00:01:01,370 --> 00:01:02,010
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">sen</font></font>
+
+533
+00:01:01,430 --> 00:01:01,440
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}i</font>
+
+534
+00:01:01,440 --> 00:01:02,010
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}de</font>
+
+535
+00:01:01,510 --> 00:01:01,520
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}ya</font>
+
+536
+00:01:01,520 --> 00:01:02,010
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ki</font>
+
+537
+00:01:01,590 --> 00:01:01,600
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}s</font>
+
+538
+00:01:01,600 --> 00:01:02,540
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ya</font>
+
+539
+00:01:01,670 --> 00:01:02,010
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}h</font>
+
+540
+00:01:01,680 --> 00:01:02,720
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}shi</font>
+
+541
+00:01:01,680 --> 00:01:02,010
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">ano</font></font>
+
+542
+00:01:01,710 --> 00:01:02,010
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">chou</font></font>
+
+543
+00:01:01,760 --> 00:01:02,870
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}na</font>
+
+544
+00:01:02,000 --> 00:01:03,720
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}to</font>
+
+545
+00:01:02,010 --> 00:01:02,010
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}i</font>
+
+546
+00:01:02,010 --> 00:01:02,010
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}n</font>
+
+547
+00:01:02,010 --> 00:01:03,210
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}i</font>
+
+548
+00:01:02,010 --> 00:01:02,010
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}ai</font>
+
+549
+00:01:02,010 --> 00:01:03,380
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ko</font>
+
+550
+00:01:02,010 --> 00:01:02,010
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">ja</font></font>
+
+551
+00:01:02,010 --> 00:01:04,770
+<font face="Designosaur" size="39">Whaddya mean, "no can do"?</font>
+
+552
+00:01:02,010 --> 00:01:02,010
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}t</font>
+
+553
+00:01:02,010 --> 00:01:04,050
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}tte</font>
+
+554
+00:01:02,010 --> 00:01:04,360
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}na</font>
+
+555
+00:01:02,010 --> 00:01:04,720
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff"></font></font>
+
+556
+00:01:02,010 --> 00:01:04,720
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">de</font></font>
+
+557
+00:01:02,010 --> 00:01:04,540
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ni</font>
+
+558
+00:01:02,370 --> 00:01:04,720
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ki</font></font>
+
+559
+00:01:02,540 --> 00:01:04,720
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ya</font></font>
+
+560
+00:01:02,720 --> 00:01:04,720
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">shi</font></font>
+
+561
+00:01:02,870 --> 00:01:04,720
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">na</font></font>
+
+562
+00:01:03,210 --> 00:01:04,720
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">i</font></font>
+
+563
+00:01:03,380 --> 00:01:04,720
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ko</font></font>
+
+564
+00:01:03,720 --> 00:01:04,720
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">to</font></font>
+
+565
+00:01:03,840 --> 00:01:03,920
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}</font>
+
+566
+00:01:03,920 --> 00:01:04,000
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}ma</font>
+
+567
+00:01:04,000 --> 00:01:04,010
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}dv</font>
+
+568
+00:01:04,010 --> 00:01:04,880
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}</font>
+
+569
+00:01:04,050 --> 00:01:04,720
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">tte</font></font>
+
+570
+00:01:04,080 --> 00:01:04,090
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}a</font>
+
+571
+00:01:04,090 --> 00:01:04,880
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ma</font>
+
+572
+00:01:04,160 --> 00:01:04,170
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}n</font>
+
+573
+00:01:04,170 --> 00:01:05,030
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}da</font>
+
+574
+00:01:04,240 --> 00:01:04,250
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}an</font>
+
+575
+00:01:04,250 --> 00:01:05,180
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}na</font>
+
+576
+00:01:04,320 --> 00:01:04,330
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}i</font>
+
+577
+00:01:04,330 --> 00:01:05,340
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ni</font>
+
+578
+00:01:04,360 --> 00:01:04,430
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">na</font></font>
+
+579
+00:01:04,410 --> 00:01:05,510
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}mo</font>
+
+580
+00:01:04,480 --> 00:01:04,490
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}oh</font>
+
+581
+00:01:04,490 --> 00:01:05,850
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ha</font>
+
+582
+00:01:04,540 --> 00:01:04,570
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ni</font></font>
+
+583
+00:01:04,570 --> 00:01:04,570
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}a</font>
+
+584
+00:01:04,570 --> 00:01:06,050
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ji</font>
+
+585
+00:01:04,640 --> 00:01:04,650
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}ji</font>
+
+586
+00:01:04,650 --> 00:01:06,340
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ma</font>
+
+587
+00:01:04,720 --> 00:01:04,730
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}m</font>
+
+588
+00:01:04,730 --> 00:01:06,690
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}tte</font>
+
+589
+00:01:04,770 --> 00:01:07,810
+<font face="Designosaur" size="39">We haven't even started yet!</font>
+
+590
+00:01:04,800 --> 00:01:07,040
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}na</font>
+
+591
+00:01:04,880 --> 00:01:07,810
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff"></font></font>
+
+592
+00:01:04,880 --> 00:01:07,810
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ma</font></font>
+
+593
+00:01:04,880 --> 00:01:07,360
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}i</font>
+
+594
+00:01:05,030 --> 00:01:07,810
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">ma</font></font>
+
+595
+00:01:05,030 --> 00:01:07,810
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">da</font></font>
+
+596
+00:01:05,180 --> 00:01:07,810
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">dv</font></font>
+
+597
+00:01:05,180 --> 00:01:07,810
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">na</font></font>
+
+598
+00:01:05,340 --> 00:01:07,810
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">a</font></font>
+
+599
+00:01:05,340 --> 00:01:07,810
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ni</font></font>
+
+600
+00:01:05,510 --> 00:01:07,810
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">n</font></font>
+
+601
+00:01:05,510 --> 00:01:07,810
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">mo</font></font>
+
+602
+00:01:05,850 --> 00:01:07,810
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">an</font></font>
+
+603
+00:01:05,850 --> 00:01:07,810
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ha</font></font>
+
+604
+00:01:06,050 --> 00:01:07,810
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">i</font></font>
+
+605
+00:01:06,050 --> 00:01:07,810
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ji</font></font>
+
+606
+00:01:06,340 --> 00:01:07,810
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">m</font></font>
+
+607
+00:01:06,340 --> 00:01:07,810
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ma</font></font>
+
+608
+00:01:06,690 --> 00:01:07,810
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">oh</font></font>
+
+609
+00:01:06,690 --> 00:01:07,810
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">tte</font></font>
+
+610
+00:01:06,930 --> 00:01:07,810
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}</font>
+
+611
+00:01:07,010 --> 00:01:07,810
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}su</font>
+
+612
+00:01:07,040 --> 00:01:07,810
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">a</font></font>
+
+613
+00:01:07,040 --> 00:01:07,810
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">na</font></font>
+
+614
+00:01:07,090 --> 00:01:07,810
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}b</font>
+
+615
+00:01:07,170 --> 00:01:07,810
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}et</font>
+
+616
+00:01:07,250 --> 00:01:07,810
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}e</font>
+
+617
+00:01:07,330 --> 00:01:07,810
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}s</font>
+
+618
+00:01:07,360 --> 00:01:07,400
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">ji</font></font>
+
+619
+00:01:07,400 --> 00:01:07,810
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">i</font></font>
+
+620
+00:01:07,450 --> 00:01:07,810
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}h</font>
+
+621
+00:01:07,490 --> 00:01:07,810
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}i</font>
+
+622
+00:01:07,810 --> 00:01:07,810
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}r</font>
+
+623
+00:01:07,810 --> 00:01:08,370
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}i</font>
+
+624
+00:01:07,810 --> 00:01:07,810
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}</font>
+
+625
+00:01:07,810 --> 00:01:08,450
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}t</font>
+
+626
+00:01:07,810 --> 00:01:07,810
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}su</font>
+
+627
+00:01:07,810 --> 00:01:07,830
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">m</font></font>
+
+628
+00:01:07,810 --> 00:01:08,400
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}be</font>
+
+629
+00:01:07,810 --> 00:01:12,550
+<font face="Designosaur" size="39">I wanna know it all!  Now, yes, we can!</font>
+
+630
+00:01:07,810 --> 00:01:08,610
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}in</font>
+
+631
+00:01:07,810 --> 00:01:08,530
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}te</font>
+
+632
+00:01:07,810 --> 00:01:08,690
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}da</font>
+
+633
+00:01:07,810 --> 00:01:08,720
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}shi</font>
+
+634
+00:01:07,810 --> 00:01:08,770
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}ima</font>
+
+635
+00:01:07,810 --> 00:01:08,900
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ri</font>
+
+636
+00:01:07,830 --> 00:01:08,530
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}a</font>
+
+637
+00:01:08,130 --> 00:01:12,550
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff"></font></font>
+
+638
+00:01:08,130 --> 00:01:12,550
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">su</font></font>
+
+639
+00:01:08,130 --> 00:01:09,180
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ta</font>
+
+640
+00:01:08,210 --> 00:01:09,380
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}i</font>
+
+641
+00:01:08,290 --> 00:01:09,820
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}n</font>
+
+642
+00:01:08,370 --> 00:01:09,820
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}da</font>
+
+643
+00:01:08,400 --> 00:01:12,550
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">be</font></font>
+
+644
+00:01:08,450 --> 00:01:10,870
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}i</font>
+
+645
+00:01:08,530 --> 00:01:12,550
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">te</font></font>
+
+646
+00:01:08,530 --> 00:01:11,380
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ma</font>
+
+647
+00:01:08,610 --> 00:01:11,380
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}yes</font>
+
+648
+00:01:08,690 --> 00:01:11,930
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}we</font>
+
+649
+00:01:08,720 --> 00:01:12,550
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">shi</font></font>
+
+650
+00:01:08,770 --> 00:01:12,550
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}can!</font>
+
+651
+00:01:08,900 --> 00:01:12,550
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ri</font></font>
+
+652
+00:01:09,180 --> 00:01:12,550
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ta</font></font>
+
+653
+00:01:09,380 --> 00:01:12,550
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">i</font></font>
+
+654
+00:01:09,820 --> 00:01:12,550
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">n</font></font>
+
+655
+00:01:09,820 --> 00:01:12,550
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">da</font></font>
+
+656
+00:01:10,870 --> 00:01:12,550
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">i</font></font>
+
+657
+00:01:11,380 --> 00:01:12,550
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ma</font></font>
+
+658
+00:01:11,380 --> 00:01:12,550
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">yes</font></font>
+
+659
+00:01:11,870 --> 00:01:11,940
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}yes</font>
+
+660
+00:01:11,940 --> 00:01:12,550
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">we</font></font>
+
+661
+00:01:11,950 --> 00:01:11,960
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}we</font>
+
+662
+00:01:11,960 --> 00:01:12,550
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}</font>
+
+663
+00:01:12,030 --> 00:01:12,040
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}ca</font>
+
+664
+00:01:12,040 --> 00:01:12,550
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}yes</font>
+
+665
+00:01:12,110 --> 00:01:12,120
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}ny</font>
+
+666
+00:01:12,120 --> 00:01:13,870
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}we</font>
+
+667
+00:01:12,190 --> 00:01:12,550
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}ouc</font>
+
+668
+00:01:12,200 --> 00:01:14,180
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}can!</font>
+
+669
+00:01:12,270 --> 00:01:12,550
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}a</font>
+
+670
+00:01:12,280 --> 00:01:15,170
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}you</font>
+
+671
+00:01:12,550 --> 00:01:12,550
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}nk</font>
+
+672
+00:01:12,550 --> 00:01:15,550
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}can!</font>
+
+673
+00:01:12,550 --> 00:01:12,550
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">can!</font></font>
+
+674
+00:01:12,550 --> 00:01:12,550
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}on</font>
+
+675
+00:01:12,550 --> 00:01:16,050
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ko</font>
+
+676
+00:01:12,550 --> 00:01:12,550
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}o</font>
+
+677
+00:01:12,550 --> 00:01:16,870
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}no</font>
+
+678
+00:01:12,550 --> 00:01:12,550
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}s</font>
+
+679
+00:01:12,550 --> 00:01:17,200
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}shu</font>
+
+680
+00:01:12,550 --> 00:01:12,550
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}h</font>
+
+681
+00:01:12,550 --> 00:01:17,510
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}n</font>
+
+682
+00:01:12,550 --> 00:01:17,870
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ka</font>
+
+683
+00:01:12,820 --> 00:01:18,720
+<font face="Designosaur" size="39">Yes, we can!  You can!  This moment...</font>
+
+684
+00:01:12,830 --> 00:01:18,720
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff"></font></font>
+
+685
+00:01:12,830 --> 00:01:18,720
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">yes</font></font>
+
+686
+00:01:12,830 --> 00:01:18,210
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}n</font>
+
+687
+00:01:13,870 --> 00:01:18,720
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">yes</font></font>
+
+688
+00:01:13,870 --> 00:01:18,720
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">we</font></font>
+
+689
+00:01:14,180 --> 00:01:18,720
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">we</font></font>
+
+690
+00:01:14,180 --> 00:01:18,720
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">can!</font></font>
+
+691
+00:01:15,170 --> 00:01:18,720
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">ca</font></font>
+
+692
+00:01:15,170 --> 00:01:18,720
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">you</font></font>
+
+693
+00:01:15,550 --> 00:01:18,720
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">ny</font></font>
+
+694
+00:01:15,550 --> 00:01:18,720
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">can!</font></font>
+
+695
+00:01:16,050 --> 00:01:18,720
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">ouc</font></font>
+
+696
+00:01:16,050 --> 00:01:18,720
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ko</font></font>
+
+697
+00:01:16,870 --> 00:01:18,720
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">a</font></font>
+
+698
+00:01:16,870 --> 00:01:18,720
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">no</font></font>
+
+699
+00:01:17,200 --> 00:01:18,720
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">nk</font></font>
+
+700
+00:01:17,200 --> 00:01:18,720
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">shu</font></font>
+
+701
+00:01:17,510 --> 00:01:18,720
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">on</font></font>
+
+702
+00:01:17,510 --> 00:01:18,720
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">n</font></font>
+
+703
+00:01:17,870 --> 00:01:18,720
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">o</font></font>
+
+704
+00:01:17,870 --> 00:01:18,250
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ka</font></font>
+
+705
+00:01:18,250 --> 00:01:18,250
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">s</font></font>
+
+706
+00:01:18,250 --> 00:01:18,720
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">n</font></font>
+
+707
+00:01:18,340 --> 00:01:18,720
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}</font>
+
+708
+00:01:18,420 --> 00:01:18,720
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}we</font>
+
+709
+00:01:18,720 --> 00:01:18,720
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}can</font>
+
+710
+00:01:18,720 --> 00:01:18,720
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}I</font>
+
+711
+00:01:18,720 --> 00:01:18,720
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">h</font></font>
+
+712
+00:01:18,720 --> 00:01:18,740
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}ca</font>
+
+713
+00:01:18,720 --> 00:01:18,720
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}</font>
+
+714
+00:01:18,720 --> 00:01:18,720
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}ko</font>
+
+715
+00:01:18,720 --> 00:01:18,720
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}we</font>
+
+716
+00:01:18,720 --> 00:01:18,720
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}n</font>
+
+717
+00:01:18,720 --> 00:01:19,490
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}can!</font>
+
+718
+00:01:18,720 --> 00:01:18,720
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}o</font>
+
+719
+00:01:18,990 --> 00:01:20,530
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}I</font>
+
+720
+00:01:19,070 --> 00:01:20,860
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}can!</font>
+
+721
+00:01:19,150 --> 00:01:21,460
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ko</font>
+
+722
+00:01:19,160 --> 00:01:24,160
+<font face="Designosaur" size="39">We can!  I can!  With this feeling of freedom...</font>
+
+723
+00:01:19,190 --> 00:01:24,160
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff"></font></font>
+
+724
+00:01:19,190 --> 00:01:24,160
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">we</font></font>
+
+725
+00:01:19,190 --> 00:01:22,190
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}no</font>
+
+726
+00:01:19,270 --> 00:01:22,730
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ka</font>
+
+727
+00:01:19,350 --> 00:01:22,730
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}i</font>
+
+728
+00:01:19,430 --> 00:01:22,730
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ka</font>
+
+729
+00:01:19,490 --> 00:01:24,160
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">we</font></font>
+
+730
+00:01:19,490 --> 00:01:24,160
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">can!</font></font>
+
+731
+00:01:19,510 --> 00:01:23,510
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}n</font>
+
+732
+00:01:20,530 --> 00:01:24,160
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">can</font></font>
+
+733
+00:01:20,530 --> 00:01:24,160
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">I</font></font>
+
+734
+00:01:20,860 --> 00:01:24,160
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">I</font></font>
+
+735
+00:01:20,860 --> 00:01:24,160
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">can!</font></font>
+
+736
+00:01:21,460 --> 00:01:24,160
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">ca</font></font>
+
+737
+00:01:21,460 --> 00:01:24,160
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ko</font></font>
+
+738
+00:01:22,190 --> 00:01:24,160
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">n</font></font>
+
+739
+00:01:22,190 --> 00:01:24,160
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">no</font></font>
+
+740
+00:01:22,730 --> 00:01:24,160
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">ko</font></font>
+
+741
+00:01:22,730 --> 00:01:24,160
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ka</font></font>
+
+742
+00:01:22,730 --> 00:01:24,160
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">n</font></font>
+
+743
+00:01:22,730 --> 00:01:24,160
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">i</font></font>
+
+744
+00:01:23,150 --> 00:01:24,160
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">o</font></font>
+
+745
+00:01:23,150 --> 00:01:24,160
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ka</font></font>
+
+746
+00:01:23,510 --> 00:01:24,160
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">k</font></font>
+
+747
+00:01:23,510 --> 00:01:24,160
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">n</font></font>
+
+748
+00:01:23,820 --> 00:01:24,160
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}</font>
+
+749
+00:01:23,890 --> 00:01:24,160
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}i</font>
+
+750
+00:01:24,160 --> 00:01:24,160
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}m</font>
+
+751
+00:01:24,160 --> 00:01:24,160
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}a</font>
+
+752
+00:01:24,160 --> 00:01:24,160
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}</font>
+
+753
+00:01:24,160 --> 00:01:24,160
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">a</font></font>
+
+754
+00:01:24,160 --> 00:01:24,160
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}im</font>
+
+755
+00:01:24,160 --> 00:01:24,160
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}i</font>
+
+756
+00:01:24,160 --> 00:01:24,160
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}a</font>
+
+757
+00:01:24,160 --> 00:01:24,870
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ma</font>
+
+758
+00:01:24,160 --> 00:01:24,160
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}oh</font>
+
+759
+00:01:24,160 --> 00:01:25,860
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}i</font>
+
+760
+00:01:24,160 --> 00:01:24,160
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}ye</font>
+
+761
+00:01:24,160 --> 00:01:26,200
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ma</font>
+
+762
+00:01:24,460 --> 00:01:26,800
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}oh</font>
+
+763
+00:01:24,490 --> 00:01:31,420
+<font face="Designosaur" size="39">Now...  Now, oh yes, we can!</font>
+
+764
+00:01:24,520 --> 00:01:31,100
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff"></font></font>
+
+765
+00:01:24,520 --> 00:01:31,100
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">i</font></font>
+
+766
+00:01:24,520 --> 00:01:27,480
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}yes</font>
+
+767
+00:01:24,600 --> 00:01:28,870
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}we</font>
+
+768
+00:01:24,680 --> 00:01:30,140
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}can!</font>
+
+769
+00:01:24,870 --> 00:01:31,100
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">i</font></font>
+
+770
+00:01:24,870 --> 00:01:31,100
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ma</font></font>
+
+771
+00:01:25,860 --> 00:01:31,100
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">m</font></font>
+
+772
+00:01:25,860 --> 00:01:31,100
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">i</font></font>
+
+773
+00:01:26,200 --> 00:01:31,100
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">a</font></font>
+
+774
+00:01:26,200 --> 00:01:31,100
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ma</font></font>
+
+775
+00:01:26,800 --> 00:01:31,100
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">im</font></font>
+
+776
+00:01:26,800 --> 00:01:31,100
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">oh</font></font>
+
+777
+00:01:27,480 --> 00:01:31,100
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">a</font></font>
+
+778
+00:01:27,480 --> 00:01:31,100
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">yes</font></font>
+
+779
+00:01:28,870 --> 00:01:31,100
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">oh</font></font>
+
+780
+00:01:28,870 --> 00:01:31,100
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">we</font></font>
+
+781
+00:01:30,140 --> 00:01:31,100
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">ye</font></font>
+
+782
+00:01:30,140 --> 00:01:31,100
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">can!</font></font>
+
+783
+00:01:31,100 --> 00:01:31,340
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">swe</font></font>
+
+784
+00:01:36,990 --> 00:01:37,380
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}</font>
+
+785
+00:01:37,110 --> 00:01:37,380
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}yes</font>
+
+786
+00:01:37,380 --> 00:01:37,380
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}we</font>
+
+787
+00:01:37,380 --> 00:01:37,380
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}can!</font>
+
+788
+00:01:37,380 --> 00:01:38,740
+<font face="Designosaur" size="39">Yes, we can!</font>
+
+789
+00:01:37,380 --> 00:01:38,440
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff"></font></font>
+
+790
+00:01:37,380 --> 00:01:38,440
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">yes</font></font>
+
+791
+00:01:37,710 --> 00:01:38,440
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">ye</font></font>
+
+792
+00:01:37,710 --> 00:01:38,440
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">we</font></font>
+
+793
+00:01:37,890 --> 00:01:38,440
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">w</font></font>
+
+794
+00:01:37,890 --> 00:01:38,440
+<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">can!</font></font>
+
+795
+00:01:38,440 --> 00:01:38,680
+<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">ca</font></font>
+
+796
+00:01:41,810 --> 00:01:44,100
+<font face="Agency FB" size="63" color="#fefefe"><b>Understood</b></font>
+
+797
+00:01:44,200 --> 00:01:45,660
+<font face="Impress BT" size="55">It's Shanks!</font>
+
+798
+00:01:45,660 --> 00:01:48,180
+<font face="Impress BT" size="55">Don't tell me you know him, Nekomamushi.</font>
+
+799
+00:01:48,180 --> 00:01:52,170
+<font face="Impress BT" size="55">Yes, I know him!
+"Red-Haired" Shanks, right?</font>
+
+800
+00:01:52,170 --> 00:01:57,210
+<font face="Impress BT" size="55">I see!
+No wonder that straw hat looks familiar!</font>
+
+801
+00:01:58,500 --> 00:02:00,160
+<font face="Impress BT" size="55">Oh, does it?!</font>
+
+802
+00:02:01,150 --> 00:02:05,100
+<font face="Impress BT" size="55">Inuarashi said that too!
+Do you all know Shanks?!</font>
+
+803
+00:02:05,500 --> 00:02:10,270
+<font face="Impress BT" size="55">Yes, because both the cat and I were once
+traveling on Roger's ship.</font>
+
+804
+00:02:14,000 --> 00:02:15,030
+<font face="Impress BT" size="55">What?!</font>
+
+805
+00:02:15,030 --> 00:02:17,860
+<font face="Impress BT" size="55">Were you guys the Pirate King's crewmembers?!</font>
+
+806
+00:02:18,550 --> 00:02:22,720
+<font face="Impress BT" size="55">Crewmembers...
+Well, you can put it that way too but...</font>
+
+807
+00:02:22,720 --> 00:02:27,370
+<font face="Impress BT" size="55">...we boarded many ships
+as Oden-sama's attendants.</font>
+
+808
+00:02:27,370 --> 00:02:30,830
+<font face="Impress BT" size="55">Even when we were traveling
+on Whitebeard's Moby Dick.</font>
+
+809
+00:02:32,990 --> 00:02:37,820
+<font face="Impress BT" size="55">And when Oden-sama was recruited by Roger,
+we were always by his side...</font>
+
+810
+00:02:37,820 --> 00:02:40,830
+<font face="Impress BT" size="55">Whoa, wait, wait! Whitebeard?!</font>
+
+811
+00:02:43,870 --> 00:02:47,850
+<font face="Impress BT" size="55">Yes. We were still young...</font>
+
+812
+00:02:47,850 --> 00:02:53,230
+<font face="Impress BT" size="55">...just like the apprentices
+such as Shanks and Buggy.</font>
+
+813
+00:02:53,230 --> 00:02:55,880
+<font face="Impress BT" size="55">Hey, wait! Stop! Stop!</font>
+
+814
+00:02:55,880 --> 00:02:59,070
+<font face="Impress BT" size="55">I'm completely lost! Um...</font>
+
+815
+00:02:59,470 --> 00:03:03,890
+<font face="Impress BT" size="55">But the two of us didn't
+go to Raftel with them.</font>
+
+816
+00:03:03,890 --> 00:03:06,540
+<font face="Impress BT" size="55">I said "Wait a minute"!</font>
+
+817
+00:03:08,500 --> 00:03:11,840
+<font face="Impress BT" size="55">Um, first, on Whitebeard's ship,</font>
+
+818
+00:03:11,840 --> 00:03:15,870
+<font face="Impress BT" size="55">there was Oden, the dog and the cat.</font>
+
+819
+00:03:11,890 --> 00:03:15,870
+<font face="impress BT" size="45"><font size="22"><font color="#ffffba"><b>O
+D
+E
+N</b></font></font></font>
+
+820
+00:03:15,870 --> 00:03:21,510
+<font face="Impress BT" size="55">And then Oden was recruited by Roger
+and you three switched to Roger's ship.</font>
+
+821
+00:03:21,510 --> 00:03:27,390
+<font face="Impress BT" size="55">Yeah, I remember!
+We were having so much fun at that time!</font>
+
+822
+00:03:32,410 --> 00:03:37,060
+<font face="Impress BT" size="55">Oh, the species, geographical features, and climates
+that I'd never seen!</font>
+
+823
+00:03:37,060 --> 00:03:40,080
+<font face="Impress BT" size="55">The sea of clouds in the sky!</font>
+
+824
+00:03:44,110 --> 00:03:48,070
+<font face="Impress BT" size="55">The island that floats undersea!
+The sunlight!</font>
+
+825
+00:03:48,070 --> 00:03:52,110
+<font face="Impress BT" size="55">Every day, I was very excited!</font>
+
+826
+00:03:52,110 --> 00:03:55,140
+<font face="Impress BT" size="55">Those good old adventurous days!</font>
+
+827
+00:04:00,540 --> 00:04:03,610
+<font face="Impress BT" size="55">You two were trying to kill each other earlier,
+weren't you?</font>
+
+828
+00:04:03,610 --> 00:04:08,060
+<font face="Impress BT" size="55">Then, Kin'emon, were you guys traveling
+on Whitebeard's ship too?</font>
+
+829
+00:04:08,060 --> 00:04:10,850
+<font face="Impress BT" size="55">No, we stayed in the Wano Country
+the whole time.</font>
+
+830
+00:04:10,850 --> 00:04:14,730
+<font face="Impress BT" size="55">Instead, we were trying
+desperately to stop Oden-sama</font>
+
+831
+00:04:15,090 --> 00:04:17,110
+<font face="Impress BT" size="55">from getting on board a pirate ship!</font>
+
+832
+00:04:17,610 --> 00:04:22,440
+<font face="Impress BT" size="55">In the closed-off nation,
+even leaving the country is a crime.</font>
+
+833
+00:04:22,440 --> 00:04:26,630
+<font face="Impress BT" size="55">On the other hand, Oden-sama was a heretic</font>
+
+834
+00:04:26,630 --> 00:04:30,410
+<font face="Impress BT" size="55">who had doubts about the law of the country.</font>
+
+835
+00:04:30,410 --> 00:04:34,610
+<font face="Impress BT" size="55">We became acquainted with
+Whitebeard, Roger and the</font>
+
+836
+00:04:34,610 --> 00:04:38,640
+<font face="Impress BT" size="55">others when they landed on the Wano Country.</font>
+
+837
+00:04:38,640 --> 00:04:42,300
+<font face="Impress BT" size="55">They were loyal to others
+and we didn't think they were particularly bad people.</font>
+
+838
+00:04:42,300 --> 00:04:48,690
+<font face="Impress BT" size="55">But I'd never heard of a daimyo
+getting aboard a pirate ship so as his retainer...</font>
+
+839
+00:04:50,690 --> 00:04:55,190
+<font face="Impress BT" size="55">So anyway, you all know Shanks!
+And Rayleigh as well?!</font>
+
+840
+00:04:55,190 --> 00:04:57,380
+<font face="Impress BT" size="55">Yes, of course!</font>
+
+841
+00:04:57,380 --> 00:05:00,300
+<font face="Impress BT" size="55">If you got on board Roger's ship,</font>
+
+842
+00:05:00,300 --> 00:05:05,900
+<font face="Impress BT" size="55">it must've been the Oro Jackson which was
+built by my shipwright teacher Tom-san!</font>
+
+843
+00:05:07,320 --> 00:05:10,780
+<font face="Impress BT" size="55">What?!
+Are you the shipwright Tom's pupil?!</font>
+
+844
+00:05:10,780 --> 00:05:15,770
+<font face="Impress BT" size="55">Um, can I go next?
+Then, I bet you know Crocus the ship doctor...</font>
+
+845
+00:05:15,770 --> 00:05:16,820
+<font face="Impress BT" size="55">Wait, Brook.</font>
+
+846
+00:05:16,820 --> 00:05:21,820
+<font face="Impress BT" size="55">Sorry to interrupt you.
+I gotta check something with them.</font>
+
+847
+00:05:30,760 --> 00:05:36,810
+<font face="Impress BT" size="55">You said the four Road Poneglyphs will
+show us the way to Raftel, right?</font>
+
+848
+00:05:36,810 --> 00:05:40,520
+<font face="Impress BT" size="55">I'm starting to worry about the route.</font>
+
+849
+00:05:40,520 --> 00:05:41,800
+<font face="Impress BT" size="55">Look.</font>
+
+850
+00:05:43,760 --> 00:05:45,570
+<font face="Impress BT" size="55">The needles on the Log Pose!</font>
+
+851
+00:05:45,570 --> 00:05:51,370
+<font face="Impress BT" size="55">Normally, we choose our next destination
+looking at where these three needles point</font>
+
+852
+00:05:51,370 --> 00:05:54,620
+<font face="Impress BT" size="55">but we're not tracking them now.
+Is it okay?!</font>
+
+853
+00:05:58,340 --> 00:06:04,000
+<font face="Impress BT" size="55">We met Tra-guy-kun
+and came to Zou following the Vivre Card by chance,</font>
+
+854
+00:06:04,000 --> 00:06:09,970
+<font face="Impress BT" size="55">and found the Road Poneglyph
+which points the location of Raftel by by coincidence.</font>
+
+855
+00:06:09,970 --> 00:06:14,140
+<font face="Impress BT" size="55">But according to Crocus-san
+at the Twin Capes,</font>
+
+856
+00:06:14,140 --> 00:06:19,190
+<font face="Impress BT" size="55">if you track logs,
+every route will come to one in the end.</font>
+
+857
+00:06:19,190 --> 00:06:25,320
+<font face="Impress BT" size="55">I'd always imagined that's Raftel.</font>
+
+858
+00:06:26,320 --> 00:06:31,350
+<font face="Impress BT" size="55">Oh, Crocus!
+I haven't seen him for a long time!</font>
+
+859
+00:06:31,350 --> 00:06:33,390
+<font face="Impress BT" size="55">How is he doing?!</font>
+
+860
+00:06:33,390 --> 00:06:37,040
+<font face="Impress BT" size="55">He was fine!
+But that was two years ago!</font>
+
+861
+00:06:39,430 --> 00:06:42,350
+<font face="Impress BT" size="55">You mean the old man who was with Laboon,
+right?</font>
+
+862
+00:06:42,350 --> 00:06:48,540
+<font face="Impress BT" size="55">Crocus the ship doctor! He-gara was looking for
+some pirate group back in those days.</font>
+
+863
+00:06:48,540 --> 00:06:51,970
+<font face="Impress BT" size="55">Oh, that was my group -
+the whole crew is dead!</font>
+
+864
+00:06:51,970 --> 00:06:53,520
+<font face="Impress BT" size="55">What?!</font>
+
+865
+00:06:53,520 --> 00:06:57,060
+<font face="Impress BT" size="55">Hey! Listen!
+I'm talking about something important!</font>
+
+866
+00:06:57,060 --> 00:07:00,310
+<font face="Impress BT" size="55">Yes, I understand.</font>
+
+867
+00:07:00,310 --> 00:07:04,560
+<font face="Impress BT" size="55">If you're interested where the logs will lead you,
+go see for yourself.</font>
+
+868
+00:07:04,560 --> 00:07:08,200
+<font face="Impress BT" size="55">There is definitely a route on which
+all of those three needles point</font>
+
+869
+00:07:08,200 --> 00:07:12,030
+<font face="Impress BT" size="55">in the same direction -
+towards one specific place.</font>
+
+870
+00:07:17,520 --> 00:07:21,860
+<font face="Impress BT" size="55">However, you-gara people have
+already left on a journey</font>
+
+871
+00:07:21,860 --> 00:07:25,190
+<font face="Impress BT" size="55">which lies beyond that point.</font>
+
+872
+00:07:26,770 --> 00:07:28,300
+<font face="Impress BT" size="55">What? What do you mean?</font>
+
+873
+00:07:29,650 --> 00:07:35,560
+<font face="Impress BT" size="55">You're supposed to find out about something
+for the first time at the end of the route.</font>
+
+874
+00:07:36,550 --> 00:07:40,850
+<font face="Impress BT" size="55">Find out the truth about
+the Poneglyphs and the ancient script.</font>
+
+875
+00:07:43,530 --> 00:07:46,560
+<font face="Impress BT" size="55">Find out about the civilization</font>
+
+876
+00:07:46,560 --> 00:07:51,550
+<font face="Impress BT" size="55">that created those and the existence
+of the hidden last island Raftel!</font>
+
+877
+00:07:56,430 --> 00:08:01,590
+<font face="Impress BT" size="55">When Roger got there,
+he had to do everything all over again.</font>
+
+878
+00:08:05,070 --> 00:08:10,700
+<font face="Impress BT" size="55">Crocus was also part of the Pirate King's crew.
+He is one of those who know everything.</font>
+
+879
+00:08:11,310 --> 00:08:14,720
+<font face="Impress BT" size="55">He wouldn't tell a lie
+unless he doesn't like you-gara guys.</font>
+
+880
+00:08:23,920 --> 00:08:25,890
+<font face="Impress BT" size="55">I got it!</font>
+
+881
+00:08:27,910 --> 00:08:33,960
+<font face="Impress BT" size="55">I didn't need to worry.
+We weren't wandering off of the route.</font>
+
+882
+00:08:33,960 --> 00:08:38,530
+<font face="Impress BT" size="55">I was just confused by the glimpses of the truth
+we hadn't yet discovered.</font>
+
+883
+00:08:38,530 --> 00:08:42,120
+<font face="Impress BT" size="55">The logs weren't lying!</font>
+
+884
+00:08:42,120 --> 00:08:46,750
+<font face="Impress BT" size="55">Are you a navigator?
+You're very dependable.</font>
+
+885
+00:08:47,400 --> 00:08:51,210
+<font face="Impress BT" size="55">Don't worry! You're on the right track.</font>
+
+886
+00:08:51,210 --> 00:08:53,390
+<font face="Impress BT" size="55">Just keep going!</font>
+
+887
+00:08:53,390 --> 00:08:54,620
+<font face="Impress BT" size="55">Uh-huh!</font>
+
+888
+00:08:54,620 --> 00:08:57,650
+<font face="Impress BT" size="55">Hey, hey! I don't know what
+you guys are talking about</font>
+
+889
+00:08:57,650 --> 00:09:01,600
+<font face="Impress BT" size="55">but don't you think our navigator's amazing?!</font>
+
+890
+00:09:01,600 --> 00:09:05,590
+<font face="Impress BT" size="55">Am I dependable? Yes, I'm sure I am!</font>
+
+891
+00:09:05,590 --> 00:09:08,640
+<font face="Impress BT" size="55">Yeah! The navigator of the next Pirate King!</font>
+
+892
+00:09:08,640 --> 00:09:10,520
+<font face="Impress BT" size="55">How cool is that!</font>
+
+893
+00:09:12,530 --> 00:09:14,640
+<font face="Impress BT" size="55">Don't hit me! That hurts!</font>
+
+894
+00:09:17,600 --> 00:09:19,590
+<font face="Impress BT" size="55">Luffy...</font>
+
+895
+00:09:19,590 --> 00:09:23,330
+<font face="Impress BT" size="55">It seems you-gara guys have been having fun
+all this time.</font>
+
+896
+00:09:28,370 --> 00:09:32,700
+<font face="Impress BT" size="55">Anyway, you guys are tied
+to so many legends and</font>
+
+897
+00:09:32,700 --> 00:09:35,720
+<font face="Impress BT" size="55">I feel dizzy like when I met Rayleigh.</font>
+
+898
+00:09:35,720 --> 00:09:38,700
+<font face="Impress BT" size="55">I met Roger and the others too</font>
+
+899
+00:09:38,700 --> 00:09:42,300
+<font face="Impress BT" size="55">but I don't remember clearly
+because I was so young.</font>
+
+900
+00:09:42,300 --> 00:09:44,300
+<font face="Impress BT" size="55">Oh, so you don't remember clearly...</font>
+
+901
+00:09:44,300 --> 00:09:48,160
+<font face="Impress BT" size="55">I mean, no way! Roger died
+more than two decades ago!</font>
+
+902
+00:09:48,160 --> 00:09:49,650
+<font face="Impress BT" size="55">Who are you talking about?!</font>
+
+903
+00:09:51,890 --> 00:09:55,150
+<font face="Impress BT" size="55">So much happened on Oden-sama's journey.</font>
+
+904
+00:09:55,150 --> 00:09:57,860
+<font face="Impress BT" size="55">I'll tell you all about it sometime.</font>
+
+905
+00:09:58,560 --> 00:10:04,340
+<font face="Impress BT" size="55">But for now, we have so many things to do
+before fighting Kaidou!</font>
+
+906
+00:10:04,340 --> 00:10:07,110
+<font face="Impress BT" size="55">We need to prepare.</font>
+
+907
+00:10:07,110 --> 00:10:10,170
+<font face="Impress BT" size="55">Like I told you before, we're
+trying to recruit samurai</font>
+
+908
+00:10:10,170 --> 00:10:13,920
+<font face="Impress BT" size="55">who will fight with us
+in the Wano Country now!</font>
+
+909
+00:10:13,920 --> 00:10:18,180
+<font face="Impress BT" size="55">In the meantime, we've got
+someone we need to see!</font>
+
+910
+00:10:18,180 --> 00:10:21,700
+<font face="Impress BT" size="55">It's always good to have more reinforcements.</font>
+
+911
+00:10:21,700 --> 00:10:22,490
+<font face="Impress BT" size="55">Who is it?</font>
+
+912
+00:10:23,570 --> 00:10:27,390
+<font face="Impress BT" size="55">He is the former 1st division commander of
+the Whitebeard Pirates...</font>
+
+913
+00:10:34,800 --> 00:10:38,100
+<font face="Impress BT" size="55">Marco the Phoenix!</font>
+
+914
+00:10:43,570 --> 00:10:44,610
+<font face="Impress BT" size="55">Marco?</font>
+
+915
+00:10:44,610 --> 00:10:48,120
+<font face="Impress BT" size="55">--I didn't expect to hear that name here.
+--Marco... Marco...</font>
+
+916
+00:10:48,120 --> 00:10:52,790
+<font face="Impress BT" size="55">Oh! So you guys are friendly with him!
+That's good to know!</font>
+
+917
+00:10:53,860 --> 00:10:58,380
+<font face="Impress BT" size="55">If he can back us up,
+that's going to be a tremendous help!</font>
+
+918
+00:10:59,270 --> 00:11:04,220
+<font face="Impress BT" size="55">No but wait a minute.
+In the event a year ago, they...</font>
+
+919
+00:11:04,620 --> 00:11:06,830
+<font face="Impress BT" size="55">Well, don't expect too much.</font>
+
+920
+00:11:06,830 --> 00:11:09,520
+<font face="Impress BT" size="55">Even if we can find him,
+there's only a little hope.</font>
+
+921
+00:11:09,520 --> 00:11:13,850
+<font face="Impress BT" size="55">Marco... Marco...
+I'm sure I know him...</font>
+
+922
+00:11:13,850 --> 00:11:18,840
+<font face="Impress BT" size="55">You must've met him
+in the Paramount War at Marineford!</font>
+
+923
+00:11:18,840 --> 00:11:20,330
+<font face="Impress BT" size="55">Marco... Who was it?</font>
+
+924
+00:11:20,330 --> 00:11:24,580
+<font face="Impress BT" size="55">They say he ate a very
+rare type of Devil Fruit!</font>
+
+925
+00:11:24,580 --> 00:11:26,620
+<font face="Impress BT" size="55">What? Rare?</font>
+
+926
+00:11:27,560 --> 00:11:29,790
+<font face="Impress BT" size="55">He looks like a pineapple.</font>
+
+927
+00:11:32,710 --> 00:11:33,780
+<font face="Impress BT" size="55">Oh, that guy!</font>
+
+928
+00:11:33,780 --> 00:11:35,340
+<font face="Impress BT" size="55">It was a major clash between the</font>
+
+929
+00:11:35,340 --> 00:11:37,900
+<font face="Impress BT" size="55">remnants of the Whitebeard
+Pirates led by Marco</font>
+
+930
+00:11:37,900 --> 00:11:40,670
+<font face="Impress BT" size="55">and the Blackbeard Pirates!</font>
+
+931
+00:11:41,800 --> 00:11:44,780
+<font face="Impress BT" size="55">It's been a year since
+the so-called Grudge War,</font>
+
+932
+00:11:44,780 --> 00:11:49,390
+<font face="Impress BT" size="55">but we haven't heard about what happened to
+the commanders yet.</font>
+
+933
+00:11:49,790 --> 00:11:55,750
+<font face="Impress BT" size="55">If he's alive,
+I think I know where he would be.</font>
+
+934
+00:11:55,750 --> 00:11:59,230
+<font face="Impress BT" size="55">Whoa-whoa-whoa!
+Did they fight against Blackbeard?!</font>
+
+935
+00:12:00,540 --> 00:12:01,200
+<font face="Impress BT" size="55">They did.</font>
+
+936
+00:12:03,350 --> 00:12:07,620
+<font face="Impress BT" size="55">Both sides had reinforcements.
+It was quite a large-scale battle.</font>
+
+937
+00:12:18,700 --> 00:12:22,720
+<font face="Impress BT" size="55">And Marco and the others
+suffered a crushing defeat.</font>
+
+938
+00:12:23,460 --> 00:12:29,060
+<font face="Impress BT" size="55">Blackbeard came to be recognized
+as one of the Four Emperors after the war.</font>
+
+939
+00:12:29,060 --> 00:12:32,600
+<font face="Impress BT" size="55">I didn't know that.
+Damn, Blackbeard!</font>
+
+940
+00:12:32,600 --> 00:12:35,660
+<font face="Impress BT" size="55">That was a major incident!</font>
+
+941
+00:12:35,660 --> 00:12:37,980
+<font face="Impress BT" size="55">You really have no idea about
+what happened.</font>
+
+942
+00:12:37,980 --> 00:12:40,240
+<font face="Impress BT" size="55">Jinbe told me.</font>
+
+943
+00:12:40,960 --> 00:12:42,740
+<font face="Impress BT" size="55">In the Paramount War,</font>
+
+944
+00:12:42,740 --> 00:12:48,270
+<font face="Impress BT" size="55">after I passed out,
+the Whitebeard Pirates saved my life.</font>
+
+945
+00:12:55,750 --> 00:12:59,500
+<font face="Impress BT" size="55"><i>The war is not over yet!</i></font>
+
+946
+00:13:00,450 --> 00:13:03,880
+<font face="Impress BT" size="55"><i>Take Ace's brother with you, Jinbe!</i></font>
+
+947
+00:13:03,880 --> 00:13:07,440
+<font face="Impress BT" size="55">I wanna see him again and thank him.</font>
+
+948
+00:13:07,440 --> 00:13:14,430
+<font face="Impress BT" size="55">So just like Kin'emon,
+we need time to prepare too.</font>
+
+949
+00:13:14,430 --> 00:13:17,940
+<font face="Impress BT" size="55">Okay, got it!
+Then, let's split up for now!</font>
+
+950
+00:13:17,940 --> 00:13:23,630
+<font face="Impress BT" size="55">We will round up allies
+and plot a strategy in the Wano Country.</font>
+
+951
+00:13:23,630 --> 00:13:25,630
+<font face="Impress BT" size="55">Are you gonna be okay there?</font>
+
+952
+00:13:25,630 --> 00:13:27,700
+<font face="Impress BT" size="55">I thought you guys are being
+targeted by the shogun.</font>
+
+953
+00:13:28,800 --> 00:13:32,910
+<font face="Impress BT" size="55">But we're worried about our comrades there.</font>
+
+954
+00:13:32,910 --> 00:13:37,470
+<font face="Impress BT" size="55">If you come on our submarine,
+you'll be safe while traveling.</font>
+
+955
+00:13:37,470 --> 00:13:39,080
+<font face="Impress BT" size="55">And...</font>
+
+956
+00:13:40,890 --> 00:13:44,840
+<font face="Impress BT" size="55">...if you know a place to hide
+on the island, you'll be alright.</font>
+
+957
+00:13:44,840 --> 00:13:48,920
+<font face="Impress BT" size="55">I'll go look for Marco with my subordinates.</font>
+
+958
+00:13:48,920 --> 00:13:51,970
+<font face="Impress BT" size="55">If Kin'emon and the others
+are headed there first,</font>
+
+959
+00:13:52,970 --> 00:13:55,200
+<font face="Impress BT" size="55">we'd better meet up in the Wano Country.</font>
+
+960
+00:13:55,200 --> 00:13:58,100
+<font face="Impress BT" size="55">Let's make Kin'emon's Vivre Card.</font>
+
+961
+00:13:58,100 --> 00:14:00,080
+<font face="Impress BT" size="55">Uh-huh, understood.</font>
+
+962
+00:14:00,080 --> 00:14:02,610
+<font face="Impress BT" size="55">There he is! Raizo-dono!</font>
+
+963
+00:14:02,610 --> 00:14:04,310
+<font face="Impress BT" size="55">Good to see you again!</font>
+
+964
+00:14:04,950 --> 00:14:06,320
+<font face="Impress BT" size="55">What?</font>
+
+965
+00:14:06,320 --> 00:14:08,910
+<font face="Impress BT" size="55">I'm glad that you're okay!</font>
+
+966
+00:14:10,610 --> 00:14:13,310
+<font face="Impress BT" size="55">Raizo-san!</font>
+
+967
+00:14:16,240 --> 00:14:17,870
+<font face="Impress BT" size="55">Y-You guys...?</font>
+
+968
+00:14:20,160 --> 00:14:21,900
+<font face="Impress BT" size="55">Let's have a celebratory banquet.</font>
+
+969
+00:14:21,900 --> 00:14:23,750
+<font face="Impress BT" size="55">It's ready!</font>
+
+970
+00:14:25,710 --> 00:14:29,680
+<font face="Impress BT" size="55">A celebratory banquet?
+What are we celebrating?!</font>
+
+971
+00:14:29,680 --> 00:14:32,230
+<font face="Impress BT" size="55">Raizo-san's safety and...</font>
+
+972
+00:14:34,180 --> 00:14:37,280
+<font face="Impress BT" size="55">The reconciliation of the two kings and...</font>
+
+973
+00:14:38,270 --> 00:14:41,900
+<font face="Impress BT" size="55">The Kozuki Clan for reuniting safely!</font>
+
+974
+00:14:42,400 --> 00:14:43,400
+<font face="Impress BT" size="55">Oh my!</font>
+
+975
+00:14:44,610 --> 00:14:48,270
+<font face="Impress BT" size="55">You damn Minks!</font>
+
+976
+00:14:49,260 --> 00:14:51,530
+<font face="Impress BT" size="55">Sorry for locking you up!</font>
+
+977
+00:14:51,530 --> 00:14:54,950
+<font face="Impress BT" size="55">We wanted to save you-gara
+from Jack and the others!</font>
+
+978
+00:14:54,950 --> 00:14:56,330
+<font face="Impress BT" size="55">Raizo-san!</font>
+
+979
+00:14:56,330 --> 00:14:59,000
+<font face="Impress BT" size="55">We tied up your hands - did we hurt you?</font>
+
+980
+00:14:59,000 --> 00:15:00,300
+<font face="Impress BT" size="55">Raizo-san!</font>
+
+981
+00:15:06,670 --> 00:15:08,420
+<font face="Impress BT" size="55">Ninpo!</font>
+
+982
+00:15:09,840 --> 00:15:12,450
+<font face="Impress BT" size="55">I-love-you Technique!</font>
+
+983
+00:15:16,640 --> 00:15:18,420
+<font face="Impress BT" size="55">Raizo-dono!</font>
+
+984
+00:15:18,420 --> 00:15:20,410
+<font face="Impress BT" size="55">Raizo-dono!</font>
+
+985
+00:15:20,410 --> 00:15:23,060
+<font face="Impress BT" size="55">Nin! Nin! Nin! Nin!</font>
+
+986
+00:15:23,060 --> 00:15:26,070
+<font face="Impress BT" size="55">All right! Let's have a banquet!</font>
+
+987
+00:15:29,530 --> 00:15:34,740
+<font face="Impress BT" size="55">Banquet! Banquet! Banquet! Banquet! Banquet!</font>
+
+988
+00:15:34,740 --> 00:15:36,400
+<font face="Impress BT" size="55">Banquet! Banquet!</font>
+
+989
+00:15:36,400 --> 00:15:37,580
+<font face="Impress BT" size="55">Wait, Luffy!</font>
+
+990
+00:15:38,760 --> 00:15:40,790
+<font face="Impress BT" size="55">We've already had a banquet!</font>
+
+991
+00:15:40,790 --> 00:15:44,710
+<font face="Impress BT" size="55">Let's get going!
+It's gonna be too late to save Sanji-kun!</font>
+
+992
+00:15:44,710 --> 00:15:46,780
+<font face="Impress BT" size="55">What?! Are you coming?!</font>
+
+993
+00:15:46,780 --> 00:15:51,590
+<font face="Impress BT" size="55">Of course, I'm coming with you!
+I feel responsible.</font>
+
+994
+00:15:51,590 --> 00:15:54,500
+<font face="Impress BT" size="55">Besides, do you think you can travel the sea</font>
+
+995
+00:15:54,500 --> 00:15:58,010
+<font face="Impress BT" size="55">of the New World without a navigator?</font>
+
+996
+00:15:59,750 --> 00:16:03,980
+<font face="Impress BT" size="55">I'm coming too! Pekoms is heavily injured!</font>
+
+997
+00:16:05,720 --> 00:16:06,560
+<font face="Impress BT" size="55">Plus,</font>
+
+998
+00:16:08,770 --> 00:16:13,760
+<font face="Impress BT" size="55">who is going to play music
+when you guys feel down?</font>
+
+999
+00:16:13,760 --> 00:16:22,000
+<font face="Designosaur" size="45" color="#feffe9">{\an8}Let's go and meet Master Nekomamushi</font>
+
+1000
+00:16:20,690 --> 00:16:22,000
+<font face="Impress BT" size="55">Who needs that?</font>
+
+1001
+00:16:22,000 --> 00:16:25,730
+<font face="Impress BT" size="55">Hey! Don't exclude me!</font>
+
+1002
+00:16:25,730 --> 00:16:29,760
+<font face="Impress BT" size="55">We both allowed them to take Sanji-san!</font>
+
+1003
+00:16:29,760 --> 00:16:33,000
+<font face="Impress BT" size="55">Kin'emon, do you mind if I take them with me?</font>
+
+1004
+00:16:33,000 --> 00:16:36,760
+<font face="Impress BT" size="55">You don't need my permission!
+They're your crew!</font>
+
+1005
+00:16:36,760 --> 00:16:41,520
+<font face="Impress BT" size="55">And no one can stop someone
+who is trying to save his friend!</font>
+
+1006
+00:16:41,520 --> 00:16:45,490
+<font face="Impress BT" size="55">I wish I could come along!</font>
+
+1007
+00:16:45,490 --> 00:16:47,770
+<font face="Impress BT" size="55">I'm in debt to Sanji-dono!</font>
+
+1008
+00:16:47,770 --> 00:16:49,610
+<font face="Impress BT" size="55">I'm sorry!</font>
+
+1009
+00:16:49,610 --> 00:16:53,760
+<font face="Impress BT" size="55">Now it's getting hard to sneak in.</font>
+
+1010
+00:16:54,530 --> 00:16:58,290
+<font face="Impress BT" size="55">Get out of there as soon as
+you screw up the wedding!</font>
+
+1011
+00:16:58,290 --> 00:17:02,040
+<font face="Impress BT" size="55">We're gonna go along with Kin'emon
+so you take care of Sanji!</font>
+
+1012
+00:17:02,040 --> 00:17:03,000
+<font face="Impress BT" size="55">Uh-huh!</font>
+
+1013
+00:17:03,000 --> 00:17:03,970
+<font face="Impress BT" size="55">Count on us!</font>
+
+1014
+00:17:03,970 --> 00:17:05,210
+<font face="Impress BT" size="55">Oh, Luffy.</font>
+
+1015
+00:17:05,210 --> 00:17:10,710
+<font face="Impress BT" size="55">In case you find a Poneglyph,
+can you take a rubbing for me?</font>
+
+1016
+00:17:10,710 --> 00:17:11,700
+<font face="Impress BT" size="55">Okay!</font>
+
+1017
+00:17:11,700 --> 00:17:12,880
+<font face="Impress BT" size="55">So light-hearted!</font>
+
+1018
+00:17:13,240 --> 00:17:18,300
+<font face="Impress BT" size="55">I'll do research on the Poneglyph that Kaidou has
+in the Wano Country too.</font>
+
+1019
+00:17:18,300 --> 00:17:18,850
+<font face="Impress BT" size="55">Great!</font>
+
+1020
+00:17:18,850 --> 00:17:22,100
+<font face="Impress BT" size="55">Alright! Is that all for now?</font>
+
+1021
+00:17:29,840 --> 00:17:31,320
+<font face="Impress BT" size="55">Hm? What's wrong?</font>
+
+1022
+00:17:32,820 --> 00:17:33,850
+<font face="Impress BT" size="55">What is it?!</font>
+
+1023
+00:17:35,840 --> 00:17:36,840
+<font face="Impress BT" size="55">Is that...</font>
+
+1024
+00:17:38,880 --> 00:17:40,410
+<font face="Impress BT" size="55">What?! What?!</font>
+
+1025
+00:17:57,070 --> 00:17:58,180
+<font face="Impress BT" size="55">The whole island is shaking!</font>
+
+1026
+00:18:03,200 --> 00:18:05,560
+<font face="Impress BT" size="55">Zunesha is crying out!</font>
+
+1027
+00:18:05,560 --> 00:18:06,960
+<font face="Impress BT" size="55">What's going on?!</font>
+
+1028
+00:18:06,960 --> 00:18:08,060
+<font face="Impress BT" size="55">Who's Zunesha?!</font>
+
+1029
+00:18:08,060 --> 00:18:10,610
+<font face="Impress BT" size="55">Huh? You're standing on it!</font>
+
+1030
+00:18:10,610 --> 00:18:13,070
+<font face="Impress BT" size="55">Oh! It's the elephant's name!</font>
+
+1031
+00:18:13,070 --> 00:18:15,820
+<font face="Impress BT" size="55">It's a big quake!
+It's never happened before!</font>
+
+1032
+00:18:27,620 --> 00:18:31,670
+<font face="Impress BT" size="55">Who is it?! Whose voice is that?!</font>
+
+1033
+00:18:46,610 --> 00:18:48,940
+<font face="Impress BT" size="55">Run! It's gonna collapse!</font>
+
+1034
+00:18:50,240 --> 00:18:52,590
+<font face="Impress BT" size="55">Strong Right!</font>
+
+1035
+00:18:53,240 --> 00:18:55,580
+<font face="Impress BT" size="55">Get away from the building!</font>
+
+1036
+00:18:58,580 --> 00:19:01,740
+<font face="Impress BT" size="55">--Hold onto the tree!
+--Okay!</font>
+
+1037
+00:19:03,810 --> 00:19:05,530
+<font face="Impress BT" size="55">This way!</font>
+
+1038
+00:19:08,550 --> 00:19:09,590
+<font face="Impress BT" size="55">Hurry up now!</font>
+
+1039
+00:19:09,590 --> 00:19:11,120
+<font face="Impress BT" size="55">Thank you!</font>
+
+1040
+00:19:12,030 --> 00:19:14,610
+<font face="Impress BT" size="55">Who is it?! Who's talking?!</font>
+
+1041
+00:19:22,430 --> 00:19:24,560
+<font face="Impress BT" size="55">My bone's gonna break, break, break!</font>
+
+1042
+00:19:24,560 --> 00:19:29,350
+<font face="Impress BT" size="55">My bones go crack, crack, crack, crack!</font>
+
+1043
+00:19:29,350 --> 00:19:32,900
+<font face="Impress BT" size="55">Momonosuke-sama! Are you hurt?!</font>
+
+1044
+00:19:36,730 --> 00:19:39,860
+<font face="Impress BT" size="55">What's happening to Zunesha?!</font>
+
+1045
+00:19:48,610 --> 00:19:51,290
+<font face="Impress BT" size="55">If you're there...</font>
+
+1046
+00:19:52,600 --> 00:19:54,290
+<font face="Impress BT" size="55">Wh-Who is it?!</font>
+
+1047
+00:19:55,560 --> 00:19:58,130
+<font face="Impress BT" size="55">--I hear the voice again!
+--Momonosuke-sama!</font>
+
+1048
+00:19:59,130 --> 00:20:00,580
+<font face="Impress BT" size="55">Luffy, what's wrong?!</font>
+
+1049
+00:20:00,580 --> 00:20:03,200
+<font face="Impress BT" size="55">"What's wrong"?!
+You hear it too, right?!</font>
+
+1050
+00:20:03,200 --> 00:20:04,510
+<font face="Impress BT" size="55">Huh?! Hear what?!</font>
+
+1051
+00:20:04,510 --> 00:20:07,510
+<font face="Impress BT" size="55">--No way!
+--Can he-gara hear it too?!</font>
+
+1052
+00:20:07,510 --> 00:20:10,750
+<font face="Impress BT" size="55">Hurry up!</font>
+
+1053
+00:20:10,750 --> 00:20:13,040
+<font face="Impress BT" size="55">Who the hell are you?!</font>
+
+1054
+00:20:13,040 --> 00:20:16,770
+<font face="Impress BT" size="55">It's the loudest ever!</font>
+
+1055
+00:20:16,770 --> 00:20:18,700
+<font face="Impress BT" size="55">Fire!</font>
+
+1056
+00:20:29,260 --> 00:20:30,330
+<font face="Impress BT" size="55">It's starting to work!</font>
+
+1057
+00:20:32,140 --> 00:20:33,920
+<font face="Impress BT" size="55">No wonder.</font>
+
+1058
+00:20:34,700 --> 00:20:38,880
+<font face="Impress BT" size="55">Normal elephants are panicked
+by just one bee.</font>
+
+1059
+00:20:38,880 --> 00:20:42,380
+<font face="Impress BT" size="55">Take a good look at its body.</font>
+
+1060
+00:20:42,380 --> 00:20:48,600
+<font face="Impress BT" size="55">If it's really been living for a millennium,
+its skin must've gotten weak!</font>
+
+1061
+00:20:54,600 --> 00:21:00,020
+<font face="Impress BT" size="55">Is it a living legend?
+No! It's just an old animal!</font>
+
+1062
+00:21:00,020 --> 00:21:02,900
+<font face="Impress BT" size="55">Concentrate fire on its left foreleg!</font>
+
+1063
+00:21:07,160 --> 00:21:08,740
+<font face="Impress BT" size="55">More volleys!</font>
+
+1064
+00:21:22,470 --> 00:21:24,310
+<font face="Impress BT" size="55">Keep shooting!</font>
+
+1065
+00:21:24,310 --> 00:21:27,000
+<font face="Impress BT" size="55">If we can make it bend its knees
+and it brings its face closer,</font>
+
+1066
+00:21:27,000 --> 00:21:29,640
+<font face="Impress BT" size="55">we can finish it off as we like!</font>
+
+1067
+00:21:35,230 --> 00:21:38,800
+<font face="Impress BT" size="55">I'd like to gouge its eyes out
+and cut out its tongue!</font>
+
+1068
+00:21:38,800 --> 00:21:42,190
+<font face="Impress BT" size="55">Maybe we can cut its stomach up from within!</font>
+
+1069
+00:21:46,880 --> 00:21:48,910
+<font face="Impress BT" size="55">Hurry!</font>
+
+1070
+00:21:49,410 --> 00:21:51,580
+<font face="Impress BT" size="55">Give me an order!</font>
+
+1071
+00:21:53,960 --> 00:21:56,300
+<font face="Impress BT" size="55">If you are there!</font>
+
+1072
+00:21:56,300 --> 00:21:59,100
+<font face="Impress BT" size="55">Give you an order to do what?!</font>
+
+1073
+00:21:59,100 --> 00:22:02,340
+<font face="Impress BT" size="55">Answer me! Who are you?!</font>
+
+1074
+00:22:23,480 --> 00:22:25,000
+<font face="Impress BT" size="55">We can't hear anything!</font>
+
+1075
+00:22:25,600 --> 00:22:27,360
+<font face="Impress BT" size="55">I can only hear his voice!</font>
+
+1076
+00:22:27,760 --> 00:22:31,740
+<font face="Impress BT" size="55">He's not listening to me!</font>
+
+1077
+00:22:35,390 --> 00:22:37,000
+<font face="Impress BT" size="55">What do you mean?!</font>
+
+1078
+00:22:37,000 --> 00:22:39,480
+<font face="Impress BT" size="55">What is going on?</font>
+
+1079
+00:22:39,480 --> 00:22:41,960
+<font face="Impress BT" size="55">Gol D. Roger...</font>
+
+1080
+00:22:41,960 --> 00:22:44,200
+<font face="Impress BT" size="55">And Oden-sama as well.</font>
+
+1081
+00:22:44,200 --> 00:22:46,920
+<font face="Impress BT" size="55">I heard they experienced the same thing.</font>
+
+1082
+00:22:46,920 --> 00:22:51,660
+<font face="Impress BT" size="55">They heard a loud voice, but they couldn't get it to respond.</font>
+
+1083
+00:22:51,660 --> 00:22:55,600
+<font face="Impress BT" size="55">Momonosuke-sama! Momonosuke-sama!</font>
+
+1084
+00:22:55,600 --> 00:22:57,650
+<font face="Impress BT" size="55">Momonosuke-sama!</font>
+
+1085
+00:23:10,040 --> 00:23:13,060
+<font face="Impress BT" size="55">What is this?</font>
+
+1086
+00:23:16,040 --> 00:23:21,350
+<font face="Impress BT" size="55">My head! My head... h-hurts!</font>
+
+1087
+00:23:26,100 --> 00:23:27,590
+<font face="Impress BT" size="55">This is...!</font>
+
+1088
+00:23:31,580 --> 00:23:32,950
+<font face="Impress BT" size="55">It's Jack!</font>
+
+1089
+00:23:35,510 --> 00:23:36,800
+<font face="Impress BT" size="55">Jack is...</font>
+
+1090
+00:23:36,800 --> 00:23:39,680
+<font face="Impress BT" size="55">Jack is attacking the elephant!</font>
+
+1091
+00:23:41,480 --> 00:23:45,920
+<font face="Impress BT" size="55">There are five powerful-looking ships at nine o'clock!</font>
+
+1092
+00:23:45,920 --> 00:23:48,000
+<font face="Impress BT" size="55">Zunesha is under attack?!</font>
+
+1093
+00:23:48,000 --> 00:23:50,240
+<font face="Impress BT" size="55">As I thought, Jack wasn't dead.</font>
+
+1094
+00:23:50,640 --> 00:23:53,510
+<font face="Impress BT" size="55">Momo! How do you know that?!</font>
+
+1095
+00:23:53,510 --> 00:23:56,800
+<font face="Impress BT" size="55">I don't know... I just saw it!</font>
+
+1096
+00:23:56,800 --> 00:23:57,830
+<font face="Impress BT" size="55">You saw?</font>
+
+1097
+00:23:58,510 --> 00:24:04,500
+<font face="Impress BT" size="55">It... It came to my mind...</font>
+
+1098
+00:24:04,500 --> 00:24:06,790
+<font face="Impress BT" size="55">I'm scared!</font>
+
+1099
+00:24:07,480 --> 00:24:09,460
+<font face="Impress BT" size="55">Send out the ships!</font>
+
+1100
+00:24:09,460 --> 00:24:12,090
+<font face="Impress BT" size="55">Return fire against Jack on the water!</font>
+
+1101
+00:24:12,090 --> 00:24:13,990
+<font face="Impress BT" size="55">Okay!</font>
+
+1102
+00:24:21,200 --> 00:24:23,730
+<font face="Impress BT" size="55">This is painful!</font>
+
+1103
+00:24:26,220 --> 00:24:29,190
+<font face="Impress BT" size="55">If I collapse,</font>
+
+1104
+00:24:31,150 --> 00:24:34,160
+<font face="Impress BT" size="55">it would put all of you in danger!</font>
+
+1105
+00:24:53,320 --> 00:24:55,260
+<font face="Impress BT" size="55">The one behind the voice is...</font>
+
+1106
+00:24:56,430 --> 00:24:58,350
+<font face="Impress BT" size="55">...this...</font>
+
+1107
+00:24:59,050 --> 00:25:00,720
+<font face="Impress BT" size="55">...elephant!</font>
+
+1108
+00:25:03,370 --> 00:25:04,850
+<font face="Impress BT" size="55">You mean Zunesha?!</font>
+
+1109
+00:25:04,850 --> 00:25:07,810
+<font face="Impress BT" size="55">Momonosuke-sama! What's going on?!</font>
+
+1110
+00:25:09,200 --> 00:25:09,820
+<font face="Impress BT" size="55">Again!</font>
+
+1111
+00:25:14,760 --> 00:25:19,740
+<font face="Impress BT" size="55">A long time ago, I...</font>
+
+1112
+00:25:20,790 --> 00:25:26,420
+<font face="Impress BT" size="55">A long time ago, the elephant committed a crime...</font>
+
+1113
+00:25:27,020 --> 00:25:33,730
+<font face="Impress BT" size="55">And now... all he is allowed... to do is... walk.</font>
+
+1114
+00:25:33,730 --> 00:25:38,050
+<font face="Impress BT" size="55">He has been... obeying that order.</font>
+
+1115
+00:25:43,310 --> 00:25:44,270
+<font face="Impress BT" size="55">Thus...</font>
+
+1116
+00:25:56,830 --> 00:25:59,450
+<font face="Impress BT" size="55">Shoot it up! Blow it away!</font>
+
+1117
+00:26:01,200 --> 00:26:07,460
+<font face="Impress BT" size="55">Thus, give me permission for once!</font>
+
+1118
+00:26:16,140 --> 00:26:19,300
+<font face="Impress BT" size="55">That worked! It's gonna collapse!</font>
+
+1119
+00:26:32,760 --> 00:26:35,010
+<font face="Impress BT" size="55">Order me!</font>
+
+1120
+00:26:35,980 --> 00:26:37,320
+<font face="Impress BT" size="55">To fight!</font>
+
+1121
+00:26:38,600 --> 00:26:40,340
+<font face="Impress BT" size="55">Momo!</font>
+
+1122
+00:26:40,340 --> 00:26:45,070
+<font face="Impress BT" size="55">You tell him! I have a feeling that your voice will reach him!</font>
+
+1123
+00:26:45,070 --> 00:26:46,040
+<font face="Impress BT" size="55">But...</font>
+
+1124
+00:26:46,440 --> 00:26:50,250
+<font face="Impress BT" size="55">If they bring down the elephant, we'll all end up in the sea!</font>
+
+1125
+00:26:50,250 --> 00:26:53,080
+<font face="Impress BT" size="55">But how loud should I be...</font>
+
+1126
+00:26:53,080 --> 00:26:56,060
+<font face="Impress BT" size="55">Just shout it out! Or the elephant will die!</font>
+
+1127
+00:27:09,040 --> 00:27:10,770
+<font face="Impress BT" size="55">A little more to go!</font>
+
+1128
+00:27:16,660 --> 00:27:21,690
+<font face="Impress BT" size="55">Don't give up, elephant! You can't fall down!</font>
+
+1129
+00:27:22,680 --> 00:27:24,630
+<font face="Impress BT" size="55">Make Jack...</font>
+
+1130
+00:27:25,130 --> 00:27:34,140
+<font face="Impress BT" size="55">Make Jack go away!!</font>
+
+1131
+00:27:38,920 --> 00:27:40,880
+<font face="Impress BT" size="55">Understood!</font>
+
+1132
+00:28:13,370 --> 00:28:14,630
+<font face="Impress BT" size="55">Trunk!</font>
+
+1133
+00:28:24,080 --> 00:28:28,100
+<font face="Impress BT" size="55">Jack-sama, our ship has been thrown into the air!</font>
+
+1134
+00:29:16,560 --> 00:29:17,850
+<font face="Impress BT" size="55">Oh...</font>
+
+1135
+00:29:17,850 --> 00:29:21,480
+<font face="Impress BT" size="55">Oh no-saru!</font>
+
+1136
+00:29:55,190 --> 00:29:57,180
+<font face="Impress BT" size="55">It quieted down.</font>
+
+1137
+00:29:57,180 --> 00:29:58,810
+<font face="Impress BT" size="55">What happened?!</font>
+
+1138
+00:29:58,810 --> 00:30:04,530
+<font face="Impress BT" size="55">I don't know. I don't see anything or hear the voice now.</font>
+
+1139
+00:30:09,410 --> 00:30:13,540
+<font face="Impress BT" size="55">Oh, really?! So Zunesha used his own trunk?</font>
+
+1140
+00:30:14,930 --> 00:30:16,750
+<font face="Impress BT" size="55">That's right-saru! With a single blow!</font>
+
+1141
+00:30:16,750 --> 00:30:22,500
+<font face="Impress BT" size="55">I can't believe it. I'd never thought Zunesha had a mind of his own.</font>
+
+1142
+00:30:22,500 --> 00:30:26,470
+<font face="Impress BT" size="55">Furthermore, we can even communicate with him.</font>
+
+1143
+00:30:26,470 --> 00:30:31,420
+<font face="Impress BT" size="55">Did Oden-sama know about Momonosuke-sama's ability?</font>
+
+1144
+00:30:31,420 --> 00:30:33,130
+<font face="Impress BT" size="55">Hey!</font>
+
+1145
+00:30:33,700 --> 00:30:36,690
+<font face="Impress BT" size="55">What's wrong? You guys still look serious.</font>
+
+1146
+00:30:36,690 --> 00:30:39,980
+<font face="Impress BT" size="55">We're stunned at this sudden occurrence.</font>
+
+1147
+00:30:40,650 --> 00:30:44,940
+<font face="Impress BT" size="55">First, we gotta find out how Jack was able to get here.</font>
+
+1148
+00:30:44,940 --> 00:30:47,900
+<font face="Impress BT" size="55">Otherwise, this place will no longer be safe.</font>
+
+1149
+00:30:47,900 --> 00:30:53,990
+<font face="Impress BT" size="55">I see. Well, good luck with that.
+It'd be cool if this elephant becomes our ally.</font>
+
+1150
+00:30:53,990 --> 00:30:56,870
+<font face="Impress BT" size="55">That's easy for you to say.</font>
+
+1151
+00:30:56,870 --> 00:31:02,080
+<font face="Impress BT" size="55">Now, we're gonna go, so can we have lots of food?!</font>
+
+1152
+00:31:07,980 --> 00:31:12,000
+<font face="Impress BT" size="55">Ring, ring, ring... Ring, ring, ring...</font>
+
+1153
+00:31:12,990 --> 00:31:15,060
+<font face="Impress BT" size="55">Ring, ring, ring...</font>
+
+1154
+00:31:15,770 --> 00:31:20,020
+<font face="Impress BT" size="55">Ring, ring, ring... Ring, ring, ring...</font>
+
+1155
+00:31:20,980 --> 00:31:22,010
+<font face="Impress BT" size="55">Clank.</font>
+
+1156
+00:31:23,420 --> 00:31:25,190
+<font face="Impress BT" size="55">What do you want?</font>
+
+1157
+00:31:27,530 --> 00:31:31,240
+<font face="Impress BT" size="55">They say that communication with Jack has been suddenly lost!</font>
+
+1158
+00:31:32,140 --> 00:31:34,150
+<font face="Impress BT" size="55">Kaidou-san!</font>
+
+1159
+00:31:55,810 --> 00:32:01,000
+<font face="Impress BT" size="55">The medical knowledge of the now-named Sakura Kingdom
+and the pharmaceutical knowledge of the Birdie Kingdom.</font>
+
+1160
+00:32:01,000 --> 00:32:02,980
+<font face="Impress BT" size="55">It's really incredible!</font>
+
+1161
+00:32:02,980 --> 00:32:05,490
+<font face="Impress BT" size="55">The bleeding has stopped.</font>
+
+1162
+00:32:05,490 --> 00:32:07,500
+<font face="Impress BT" size="55">You did great!</font>
+
+1163
+00:32:07,500 --> 00:32:11,320
+<font face="Impress BT" size="55">I prepared more than enough medicine,
+so you'll be okay!</font>
+
+1164
+00:32:11,320 --> 00:32:13,510
+<font face="Impress BT" size="55">Only Dr. Chopper could've done it!</font>
+
+1165
+00:32:13,510 --> 00:32:16,160
+<font face="Impress BT" size="55">It's really amazing!</font>
+
+1166
+00:32:16,160 --> 00:32:18,990
+<font face="Impress BT" size="55">S-Such compliments...</font>
+
+1167
+00:32:18,990 --> 00:32:22,530
+<font face="Impress BT" size="55">...don't make me happy,
+you fools!</font>
+
+1168
+00:32:24,590 --> 00:32:27,480
+<font face="Impress BT" size="55">Like you taught us,</font>
+
+1169
+00:32:27,480 --> 00:32:32,300
+<font face="Impress BT" size="55">we'll try to remove the bandages on a regular basis
+to see how the wound is.</font>
+
+1170
+00:32:32,300 --> 00:32:37,460
+<font face="Impress BT" size="55">Good.
+But even just changing the bandages is painstaking.</font>
+
+1171
+00:32:37,460 --> 00:32:40,020
+<font face="Impress BT" size="55">We'll be careful.</font>
+
+1172
+00:32:40,020 --> 00:32:42,250
+<font face="Impress BT" size="55">Yeah! Leave it to us!</font>
+
+1173
+00:32:42,250 --> 00:32:47,610
+<font face="Impress BT" size="55">Zunesha is our millennium-old land!</font>
+
+1174
+00:32:49,200 --> 00:32:56,660
+<font face="Impress BT" size="55">We might've gotten too comfortable and forgotten about it
+because it's always been there since we were born.</font>
+
+1175
+00:32:56,660 --> 00:33:01,160
+<font face="Impress BT" size="55">Today, we were reminded.</font>
+
+1176
+00:33:01,160 --> 00:33:10,210
+<font face="Impress BT" size="55">We were reminded that we're always kept alive
+by this great lifeform.</font>
+
+1177
+00:33:11,560 --> 00:33:16,510
+<font face="Impress BT" size="55">And it will come to an end one day.</font>
+
+1178
+00:33:16,510 --> 00:33:22,440
+<font face="Impress BT" size="55">If Zunesha, our land, has free will,</font>
+
+1179
+00:33:22,440 --> 00:33:25,560
+<font face="Impress BT" size="55">I want to ask him this now.</font>
+
+1180
+00:33:27,110 --> 00:33:36,610
+<font face="Impress BT" size="55">"You have been walking for a thousand years.
+Where are you heading?"</font>
+
+1181
+00:33:39,910 --> 00:33:44,680
+<font face="impress BT" size="45">Mokomo Dukedom, Kurau City</font>
+
+1182
+00:33:41,590 --> 00:33:45,600
+<font face="Impress BT" size="55">You want to stay? Here in Zou?</font>
+
+1183
+00:33:45,600 --> 00:33:46,500
+<font face="Impress BT" size="55">Uh-huh.</font>
+
+1184
+00:33:46,800 --> 00:33:48,580
+<font face="Impress BT" size="55">What are you going to do here?</font>
+
+1185
+00:33:48,580 --> 00:33:54,670
+<font face="Impress BT" size="55">I actually don't know what to do but...</font>
+
+1186
+00:33:55,330 --> 00:33:57,430
+<font face="Impress BT" size="55"><i>Understood!</i></font>
+
+1187
+00:33:58,400 --> 00:34:03,020
+<font face="Impress BT" size="55">If it's possible,
+I want to talk with him once again!</font>
+
+1188
+00:34:03,820 --> 00:34:07,020
+<font face="Impress BT" size="55">With Zunesha!</font>
+
+1189
+00:34:07,020 --> 00:34:12,020
+<font face="Impress BT" size="55">With the one who has been living for a millennium!</font>
+
+1190
+00:34:12,020 --> 00:34:16,450
+<font face="Impress BT" size="55">Why could he hear my voice?</font>
+
+1191
+00:34:17,230 --> 00:34:22,080
+<font face="Impress BT" size="55">Maybe he knows something about the Kozuki Clan!</font>
+
+1192
+00:34:22,080 --> 00:34:25,830
+<font face="Impress BT" size="55">--What?
+--Momonosuke-sama!</font>
+
+1193
+00:34:26,930 --> 00:34:31,290
+<font face="Impress BT" size="55">I understand but there are people waiting for us
+in the Wano Country...</font>
+
+1194
+00:34:32,770 --> 00:34:34,340
+<font face="Impress BT" size="55">That's all right, Kin'emon.</font>
+
+1195
+00:34:35,540 --> 00:34:41,600
+<font face="Impress BT" size="55">I've been thinking I still have to
+protect this country from the threat of Kaidou.</font>
+
+1196
+00:34:41,600 --> 00:34:48,850
+<font face="Impress BT" size="55">We don't know yet how Jack could make it here twice
+so we mustn't let down our guard.</font>
+
+1197
+00:34:51,440 --> 00:34:55,820
+<font face="Impress BT" size="55">We can't all get into the Wano Country
+at once anyway.</font>
+
+1198
+00:34:55,820 --> 00:34:59,600
+<font face="Impress BT" size="55">I think I'll stay here for a while.</font>
+
+1199
+00:34:59,600 --> 00:35:02,950
+<font face="Impress BT" size="55">I'll bring Momonosuke-sama with me later.</font>
+
+1200
+00:35:02,950 --> 00:35:03,890
+<font face="Impress BT" size="55">Understood.</font>
+
+1201
+00:35:03,890 --> 00:35:07,930
+<font face="Impress BT" size="55">Nekomamushi made my Vivre Card earlier.</font>
+
+1202
+00:35:07,930 --> 00:35:10,120
+<font face="Impress BT" size="55">Give this to everyone.</font>
+
+1203
+00:35:10,120 --> 00:35:14,040
+<font face="Impress BT" size="55">Now, let's split up into four groups.</font>
+
+1204
+00:35:14,060 --> 00:35:19,230
+<font face="impress BT" size="45">Search for Marco</font>
+
+1205
+00:35:14,060 --> 00:35:19,230
+<font face="impress BT" size="45">Wano Country</font>
+
+1206
+00:35:14,060 --> 00:35:19,230
+<font face="impress BT" size="45">Zou</font>
+
+1207
+00:35:14,060 --> 00:35:19,230
+<font face="impress BT" size="45">Whole Cake Island</font>
+
+1208
+00:35:14,060 --> 00:35:19,230
+<font face="impress BT" size="45">Team Nekomamushi</font>
+
+1209
+00:35:14,060 --> 00:35:19,230
+<font face="impress BT" size="45">Team Kin'emon</font>
+
+1210
+00:35:14,060 --> 00:35:19,230
+<font face="impress BT" size="45">Team Inuarashi</font>
+
+1211
+00:35:14,060 --> 00:35:19,230
+<font face="impress BT" size="45">Team Luffy</font>
+
+1212
+00:35:19,220 --> 00:35:23,410
+<font face="Impress BT" size="55">You can get there by following the Vivre Card,</font>
+
+1213
+00:35:23,410 --> 00:35:26,360
+<font face="Impress BT" size="55">but the problem is how we communicate.</font>
+
+1214
+00:35:26,360 --> 00:35:30,400
+<font face="Impress BT" size="55">In other countries, they use a snail to...</font>
+
+1215
+00:35:30,400 --> 00:35:33,940
+<font face="Impress BT" size="55">I mean, it's this big and if you speak into it,
+someone at a distance will...</font>
+
+1216
+00:35:33,940 --> 00:35:36,940
+<font face="Impress BT" size="55">--Oh, you mean the Transponder Snail.
+--Oh, that.</font>
+
+1217
+00:35:36,940 --> 00:35:41,160
+<font face="Impress BT" size="55">But in this country,
+we're not accustomed to using them.</font>
+
+1218
+00:35:41,160 --> 00:35:44,990
+<font face="Impress BT" size="55">If you want a Transponder Snail,
+I saw a wild one in the forest.</font>
+
+1219
+00:35:47,000 --> 00:35:50,900
+<font face="Impress BT" size="55">If you want one, I can set it up for you.
+It's easy.</font>
+
+1220
+00:35:50,900 --> 00:35:51,460
+<font face="Impress BT" size="55">What??</font>
+
+1221
+00:35:51,490 --> 00:35:54,080
+<font face="impress BT" size="45">Whale Forest</font>
+
+1222
+00:35:51,950 --> 00:35:54,080
+<font face="Impress BT" size="55">Hey!</font>
+
+1223
+00:35:54,130 --> 00:35:56,440
+<font face="impress BT" size="45">The outskirts of the Guardians' dwelling</font>
+
+1224
+00:35:54,570 --> 00:35:56,880
+<font face="Impress BT" size="55">Hey!</font>
+
+1225
+00:35:58,350 --> 00:36:02,270
+<font face="Impress BT" size="55">Pekomamushi's house is collapsed!</font>
+
+1226
+00:36:02,270 --> 00:36:03,840
+<font face="Impress BT" size="55">Hey, Pekomamushi!</font>
+
+1227
+00:36:04,130 --> 00:36:07,100
+<font face="Impress BT" size="55">Are you okay?! Answer me!</font>
+
+1228
+00:36:07,590 --> 00:36:09,900
+<font face="Impress BT" size="55">Pekomamushi! Where are you?!</font>
+
+1229
+00:36:09,900 --> 00:36:11,360
+<font face="Impress BT" size="55">I'm here! Grr!</font>
+
+1230
+00:36:11,360 --> 00:36:12,800
+<font face="Impress BT" size="55">Where are you?!</font>
+
+1231
+00:36:12,800 --> 00:36:14,330
+<font face="Impress BT" size="55">Look down!</font>
+
+1232
+00:36:16,760 --> 00:36:18,860
+<font face="Impress BT" size="55">A turtle?!</font>
+
+1233
+00:36:18,860 --> 00:36:21,530
+<font face="Impress BT" size="55">Step back!</font>
+
+1234
+00:36:25,160 --> 00:36:29,170
+<font face="Impress BT" size="55">How can I get a good rest?! Grr!</font>
+
+1235
+00:36:29,170 --> 00:36:32,080
+<font face="Impress BT" size="55">So you're Turtle-Mamushi!</font>
+
+1236
+00:36:32,080 --> 00:36:38,460
+<font face="Impress BT" size="55">Okay, so not only do you not remember my name,
+but you also forgot that I'm a lion! Grr!</font>
+
+1237
+00:36:38,460 --> 00:36:43,000
+<font face="Impress BT" size="55">Of course, I could survive!
+I ate the Turtle Fruit!</font>
+
+1238
+00:36:43,000 --> 00:36:46,300
+<font face="Impress BT" size="55">And my shell is as hard as a diamond!</font>
+
+1239
+00:36:46,300 --> 00:36:48,500
+<font face="Impress BT" size="55">Why aren't you listening?!</font>
+
+1240
+00:36:48,500 --> 00:36:52,180
+<font face="Impress BT" size="55">Chopper said he'll take responsibility
+for treating you.</font>
+
+1241
+00:36:52,180 --> 00:36:57,940
+<font face="Impress BT" size="55">I see! You're not gonna
+respond to the diamond part? Grr!</font>
+
+1242
+00:36:57,940 --> 00:36:59,540
+<font face="Impress BT" size="55">Ow, ow, ow!</font>
+
+1243
+00:36:59,540 --> 00:37:02,990
+<font face="Impress BT" size="55">But I appreciate his care.</font>
+
+1244
+00:37:02,990 --> 00:37:06,320
+<font face="Impress BT" size="55">I owe you guys a lot.</font>
+
+1245
+00:37:06,320 --> 00:37:08,950
+<font face="Impress BT" size="55">What?</font>
+
+1246
+00:37:08,950 --> 00:37:11,500
+<font face="Impress BT" size="55">What?!!</font>
+
+1247
+00:37:11,500 --> 00:37:14,530
+<font face="Impress BT" size="55">So let's go see Big Mom!</font>
+
+1248
+00:37:14,530 --> 00:37:17,170
+<font face="Impress BT" size="55">What?!</font>
+
+1249
+00:37:17,170 --> 00:37:19,300
+<font face="Impress BT" size="55">Wait, you bastard!</font>
+
+1250
+00:37:19,300 --> 00:37:24,470
+<font face="Impress BT" size="55">Don't you get it? I'm fatally injured now!</font>
+
+1251
+00:37:26,930 --> 00:37:31,200
+<font face="Impress BT" size="55">Hey! I'm injured! You've got to stop...</font>
+
+1252
+00:37:33,980 --> 00:37:37,690
+<font face="Impress BT" size="55">It's insane! I can't believe this!</font>
+
+1253
+00:37:37,690 --> 00:37:42,070
+<font face="Impress BT" size="55">You're the worst person to have debts to!</font>
+
+1254
+00:37:42,100 --> 00:37:43,770
+<font face="impress BT" size="45">Guardians' Residential
+District</font>
+
+1255
+00:37:45,220 --> 00:37:46,560
+<font face="Impress BT" size="55">Master.</font>
+
+1256
+00:37:47,650 --> 00:37:48,880
+<font face="Impress BT" size="55">Pedro.</font>
+
+1257
+00:37:48,880 --> 00:37:50,990
+<font face="Impress BT" size="55">Sanji saved this country.</font>
+
+1258
+00:37:54,510 --> 00:37:57,120
+<font face="Impress BT" size="55">And he was kidnapped in this country.</font>
+
+1259
+00:37:57,120 --> 00:38:00,880
+<font face="Impress BT" size="55">Even though the team has to be small,
+we will fail in our duty...</font>
+
+1260
+00:38:00,880 --> 00:38:06,050
+<font face="Impress BT" size="55">...if no one from the Mink Tribe other than Pekoms
+accompanies them.</font>
+
+1261
+00:38:06,050 --> 00:38:10,300
+<font face="Impress BT" size="55">You-gara, do you want to go along with Luffy?</font>
+
+1262
+00:38:10,600 --> 00:38:11,530
+<font face="Impress BT" size="55">I do!</font>
+
+1263
+00:38:11,530 --> 00:38:14,180
+<font face="Impress BT" size="55">Don't try to get the jump on the rest, Pedro!</font>
+
+1264
+00:38:14,180 --> 00:38:16,870
+<font face="Impress BT" size="55">That is a role that...</font>
+
+1265
+00:38:20,520 --> 00:38:25,070
+<font face="Impress BT" size="55">...we the Three Inuarashi Musketeers are
+prepared to take on!</font>
+
+1266
+00:38:25,070 --> 00:38:27,530
+<font face="Impress BT" size="55">Back off, Shishilian!</font>
+
+1267
+00:38:27,530 --> 00:38:31,940
+<font face="Impress BT" size="55">A noisy guy like you is the least suitable for the job!</font>
+
+1268
+00:38:33,570 --> 00:38:36,290
+<font face="Impress BT" size="55">I'm not noisy!</font>
+
+1269
+00:38:36,290 --> 00:38:41,040
+<font face="Impress BT" size="55">Let me go!
+I was with the Straw Hats the whole time!</font>
+
+1270
+00:38:41,040 --> 00:38:44,340
+<font face="Impress BT" size="55">Let me go too as an assistant to Dr. Chopper!</font>
+
+1271
+00:38:44,340 --> 00:38:45,850
+<font face="Impress BT" size="55">Wanda! Tristan!</font>
+
+1272
+00:38:45,850 --> 00:38:49,890
+<font face="Impress BT" size="55">We befriended Luffy after we fought him,
+Pedro-san!</font>
+
+1273
+00:38:49,890 --> 00:38:51,720
+<font face="Impress BT" size="55">BB! Roddy!</font>
+
+1274
+00:38:53,620 --> 00:38:56,610
+<font face="Impress BT" size="55">Nami likes to sleep on my stomach!</font>
+
+1275
+00:38:56,610 --> 00:38:58,770
+<font face="Impress BT" size="55">That won't do them any good, Pastor Yomo!</font>
+
+1276
+00:38:58,770 --> 00:39:02,870
+<font face="Impress BT" size="55">I wanna chew on Baron Corpse's bones forever!</font>
+
+1277
+00:39:02,870 --> 00:39:04,890
+<font face="Impress BT" size="55">--Me too!
+--Me too!</font>
+
+1278
+00:39:04,890 --> 00:39:08,320
+<font face="Impress BT" size="55">That's just your own goal! Shut up, dogs!</font>
+
+1279
+00:39:08,320 --> 00:39:11,370
+<font face="Impress BT" size="55">I understand how you all feel!</font>
+
+1280
+00:39:11,370 --> 00:39:13,600
+<font face="Impress BT" size="55">But you have to...</font>
+
+1281
+00:39:13,600 --> 00:39:15,620
+<font face="Impress BT" size="55">...let Pedro handle it!</font>
+
+1282
+00:39:19,720 --> 00:39:21,960
+<font face="Impress BT" size="55">Why, Master?!</font>
+
+1283
+00:39:21,960 --> 00:39:24,150
+<font face="Impress BT" size="55">Because Pekoms will be there.</font>
+
+1284
+00:39:27,980 --> 00:39:32,550
+<font face="Impress BT" size="55">Only Pedro can get him-gara under control!</font>
+
+1285
+00:39:37,720 --> 00:39:40,740
+<font face="Impress BT" size="55">Something is going on over there.</font>
+
+1286
+00:39:41,850 --> 00:39:45,820
+<font face="Impress BT" size="55">I called the last one "perfect" but...</font>
+
+1287
+00:39:45,820 --> 00:39:50,150
+<font face="Impress BT" size="55">...the new one surpasses that easily!</font>
+
+1288
+00:39:50,150 --> 00:39:53,410
+<font face="Impress BT" size="55">I incorporated
+the growth capability of Pop Green</font>
+
+1289
+00:39:53,410 --> 00:39:57,490
+<font face="Impress BT" size="55">and got Franky's help
+for the surface treatment.</font>
+
+1290
+00:39:57,490 --> 00:40:01,830
+<font face="Impress BT" size="55">It's not too much to say
+that it's the greatest invention of the century...</font>
+
+1291
+00:40:04,330 --> 00:40:05,750
+<font face="Impress BT" size="55">You listening, Nami?!</font>
+
+1292
+00:40:05,750 --> 00:40:07,960
+<font face="Impress BT" size="55">If I squeeze here...</font>
+
+1293
+00:40:17,790 --> 00:40:18,850
+<font face="Impress BT" size="55">That was close!</font>
+
+1294
+00:40:21,270 --> 00:40:23,290
+<font face="Impress BT" size="55">It's a little too long, Usopp!</font>
+
+1295
+00:40:23,290 --> 00:40:29,150
+<font face="Impress BT" size="55">Listen to my instruction! You extended it too far!
+You need some practice!</font>
+
+1296
+00:40:29,150 --> 00:40:35,620
+<font face="Impress BT" size="55">That's a new Climate Baton which you can extend
+as you like with slight variations in handling!</font>
+
+1297
+00:40:37,690 --> 00:40:39,670
+<font face="Impress BT" size="55">I see!</font>
+
+1298
+00:40:40,740 --> 00:40:45,380
+<font face="Impress BT" size="55">I incorporated all the gadgets from Weatheria
+that I got from you at Sabaody.</font>
+
+1299
+00:40:48,150 --> 00:40:49,850
+<font face="Impress BT" size="55">But just one thing...</font>
+
+1300
+00:40:51,800 --> 00:40:54,580
+<font face="Impress BT" size="55">You said to me at Sabaody...</font>
+
+1301
+00:41:00,310 --> 00:41:02,460
+<font face="Impress BT" size="55"><i>It's like a magic wand!</i></font>
+
+1302
+00:41:02,460 --> 00:41:05,020
+<font face="Impress BT" size="55">I didn't understand what it meant.</font>
+
+1303
+00:41:05,020 --> 00:41:08,300
+<font face="Impress BT" size="55">It fits to my hand! It's easy to twirl!</font>
+
+1304
+00:41:08,300 --> 00:41:11,410
+<font face="Impress BT" size="55">--So it's up to you to decide.
+--This is great, Usopp!</font>
+
+1305
+00:41:11,410 --> 00:41:15,110
+<font face="Impress BT" size="55">Wh-Wh-Wh...
+What an advanced ninjutsu that is!</font>
+
+1306
+00:41:16,400 --> 00:41:17,650
+<font face="Impress BT" size="55">It's nice!</font>
+
+1307
+00:41:17,650 --> 00:41:21,100
+<font face="Impress BT" size="55">This sure is the culmination of
+Weatheria's science of weather!</font>
+
+1308
+00:41:21,100 --> 00:41:24,620
+<font face="Impress BT" size="55">The Sorcerer's Climate Baton that I wanted!</font>
+
+1309
+00:41:24,620 --> 00:41:26,590
+<font face="Impress BT" size="55">Thanks, Usopp!</font>
+
+1310
+00:41:26,590 --> 00:41:28,000
+<font face="Impress BT" size="55">Don't mention it!</font>
+
+1311
+00:41:28,250 --> 00:41:30,340
+<font face="Impress BT" size="55">Now, about the cost...</font>
+
+1312
+00:41:31,230 --> 00:41:32,970
+<font face="Impress BT" size="55">Mirage Tempo!</font>
+
+1313
+00:41:32,970 --> 00:41:35,060
+<font face="Impress BT" size="55">Don't try to run!</font>
+
+1314
+00:41:36,360 --> 00:41:37,660
+<font face="impress BT" size="45">The main gate of Zou</font>
+
+1315
+00:41:39,220 --> 00:41:42,240
+<font face="Impress BT" size="55">In the end, it's the six of us.</font>
+
+1316
+00:41:42,810 --> 00:41:44,700
+<font face="Impress BT" size="55">It's nice to have you, Peropero!</font>
+
+1317
+00:41:44,700 --> 00:41:46,660
+<font face="Impress BT" size="55">It's Pedro. I won't bother you.</font>
+
+1318
+00:41:47,230 --> 00:41:51,110
+<font face="Impress BT" size="55">Wh-Why's Big Bro Pedro coming, Grr?</font>
+
+1319
+00:41:51,110 --> 00:41:55,070
+<font face="Impress BT" size="55">I'll come along as someone who's known you-gara well
+for a long time.</font>
+
+1320
+00:41:55,070 --> 00:41:57,550
+<font face="Impress BT" size="55">What do you mean by that?! Grr!</font>
+
+1321
+00:41:57,550 --> 00:42:00,820
+<font face="Impress BT" size="55">Nami! Take care!</font>
+
+1322
+00:42:00,820 --> 00:42:04,220
+<font face="Impress BT" size="55">Thanks! You too, Wanda!</font>
+
+1323
+00:42:05,860 --> 00:42:08,750
+<font face="Impress BT" size="55">Take care, Dr. Chopper.</font>
+
+1324
+00:42:15,220 --> 00:42:17,800
+<font face="Impress BT" size="55">Listen. We know him.</font>
+
+1325
+00:42:17,800 --> 00:42:22,500
+<font face="Impress BT" size="55">He could be dancing around like that
+being happy about his marriage.</font>
+
+1326
+00:42:22,500 --> 00:42:23,560
+<font face="Impress BT" size="55">No way!</font>
+
+1327
+00:42:23,560 --> 00:42:25,600
+<font face="Impress BT" size="55">But I can't deny it!</font>
+
+1328
+00:42:25,600 --> 00:42:28,440
+<font face="Impress BT" size="55">Well, it's gonna be okay!</font>
+
+1329
+00:42:28,440 --> 00:42:32,820
+<font face="Impress BT" size="55">Alright, Luffy-dono!
+We'll be waiting for you in the Wano Country!</font>
+
+1330
+00:42:32,820 --> 00:42:34,660
+<font face="Impress BT" size="55">Good luck, Luffy!</font>
+
+1331
+00:42:36,400 --> 00:42:37,900
+<font face="Impress BT" size="55">Take care!</font>
+
+1332
+00:42:39,740 --> 00:42:42,050
+<font face="Impress BT" size="55">Let us know if something happens.</font>
+
+1333
+00:42:42,050 --> 00:42:45,800
+<font face="Impress BT" size="55">I'll make a weapon to destroy Kaidou!</font>
+
+1334
+00:42:45,800 --> 00:42:50,000
+<font face="Impress BT" size="55">I'll round up the samurai in the Wano Country!</font>
+
+1335
+00:42:50,000 --> 00:42:53,670
+<font face="Impress BT" size="55">Now, I'll help you descend from the elephant.</font>
+
+1336
+00:42:53,670 --> 00:42:56,260
+<font face="Impress BT" size="55">That's okay, Kanjurou!</font>
+
+1337
+00:43:03,700 --> 00:43:05,310
+<font face="Impress BT" size="55">Bye!</font>
+
+1338
+00:43:06,200 --> 00:43:08,390
+<font face="Impress BT" size="55">Ya-hoo!</font>
+
+1339
+00:43:25,240 --> 00:43:27,620
+<font face="Impress BT" size="55">Leave Sanji in our hands!</font>
+
+1340
+00:43:27,620 --> 00:43:30,170
+<font face="Impress BT" size="55">What?!</font>
+
+1341
+00:43:30,170 --> 00:43:32,520
+<font face="Impress BT" size="55">See you in the Wano Country!</font>
+
+1342
+00:43:32,520 --> 00:43:35,160
+<font face="Impress BT" size="55">--Okay!
+--Don't get caught by Big Mom!</font>
+
+1343
+00:43:35,160 --> 00:43:37,630
+<font face="Impress BT" size="55">She's the emperor of the sea!</font>
+
+1344
+00:43:37,630 --> 00:43:39,770
+<font face="Impress BT" size="55">Yeah! See you!</font>
+
+1345
+00:43:46,510 --> 00:43:49,500
+<font face="Impress BT" size="56"><i>{\an8}Thus, the Sanji retrieval team led by Luffy...</i></font>
+
+1346
+00:43:49,500 --> 00:43:56,150
+<font face="Impress BT" size="56"><i>{\an8}...sets out for the Whole Cake Island
+where Emperor Big Mom, who Luffy picked a fight with, waits.</i></font>
+
+1347
+00:43:57,500 --> 00:44:02,610
+<font face="Impress BT" size="56"><i>{\an8}Meanwhile, at the desert kingdom Alabasta
+in the Grand Line...</i></font>
+
+1348
+00:44:03,300 --> 00:44:05,160
+<font face="Impress BT" size="55">Father-sama, hurry up!</font>
+
+1349
+00:44:05,160 --> 00:44:08,700
+<font face="Impress BT" size="55">Wait, Vivi.
+Why are you in such a good mood?</font>
+
+1350
+00:44:19,640 --> 00:44:23,930
+<font face="Impress BT" size="55">Because it's been a while
+since I went out to sea!</font>
+
+1351
+00:44:29,010 --> 00:44:34,200
+<font face="FOT-Greco Std B" size="34">{\an7}Editing:
+ Galaxy 9000
+
+Subtitling:
+ Galaxy 9000,
+Datenshi,
+Sewil
+
+Quality Assurance:
+ Mr Luffy,
+Galaxy 9000,
+Feeso
+
+Soundtracking:
+ Halee
+
+Infoboxes
+and Titlecard:
+ Datenshi
+
+Translation:
+Crunchyroll</font>
+

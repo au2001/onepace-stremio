@@ -4,9 +4,9 @@
       "infoHash": "30e6fcae8a70ef9d12e9dda2afa514b99bf402d6",
       "subtitles": [
         {
-          "id": "[One Pace][409-411] Enies Lobby 16 [1080p].ass",
+          "id": "EN_16_en",
           "lang": "en",
-          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B409-411%5D%20Enies%20Lobby%2016%20%5B1080p%5D.ass"
+          "url": "https://onepace.arl.sh/static/EN_16_en.srt"
         }
       ]
     }

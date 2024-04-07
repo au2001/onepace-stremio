@@ -4,14 +4,14 @@
       "infoHash": "02819eb325abf0147963479bd7320590d6c641de",
       "subtitles": [
         {
-          "id": "[One Pace][42,22] Gaimon 01 [1080p] Italian.ass",
+          "id": "GA_1_it",
           "lang": "it",
-          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B42,22%5D%20Gaimon%2001%20%5B1080p%5D%20Italian.ass"
+          "url": "https://onepace.arl.sh/static/GA_1_it.srt"
         },
         {
-          "id": "[One Pace][42,22] Gaimon 01 [1080p].ass",
+          "id": "GA_1_en",
           "lang": "en",
-          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B42,22%5D%20Gaimon%2001%20%5B1080p%5D.ass"
+          "url": "https://onepace.arl.sh/static/GA_1_en.srt"
         }
       ]
     }

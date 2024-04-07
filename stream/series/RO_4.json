@@ -5,19 +5,19 @@
       "fileIdx": 3,
       "subtitles": [
         {
-          "id": "[One Pace][5-7] Romance Dawn 04 [1080p] Deutsch.ass",
+          "id": "RO_4_de",
           "lang": "de",
-          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B5-7%5D%20Romance%20Dawn%2004%20%5B1080p%5D%20Deutsch.ass"
+          "url": "https://onepace.arl.sh/static/RO_4_de.srt"
         },
         {
-          "id": "[One Pace][5-7] Romance Dawn 04 [1080p] Portugues.ass",
+          "id": "RO_4_pt",
           "lang": "pt",
-          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B5-7%5D%20Romance%20Dawn%2004%20%5B1080p%5D%20Portugues.ass"
+          "url": "https://onepace.arl.sh/static/RO_4_pt.srt"
         },
         {
-          "id": "[One Pace][5-7] Romance Dawn 04 [1080p].ass",
+          "id": "RO_4_en",
           "lang": "en",
-          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B5-7%5D%20Romance%20Dawn%2004%20%5B1080p%5D.ass"
+          "url": "https://onepace.arl.sh/static/RO_4_en.srt"
         }
       ]
     }

@@ -4,9 +4,9 @@
       "infoHash": "f9fd0d2e8447d92505d9a3d9c9e60d47105d9720",
       "subtitles": [
         {
-          "id": "[One Pace][403-404] Enies Lobby 13 [720p].ass",
+          "id": "EN_13_en",
           "lang": "en",
-          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B403-404%5D%20Enies%20Lobby%2013%20%5B720p%5D.ass"
+          "url": "https://onepace.arl.sh/static/EN_13_en.srt"
         }
       ]
     }

@@ -5,24 +5,24 @@
       "fileIdx": 1,
       "subtitles": [
         {
-          "id": "[One Pace][2] Romance Dawn 02 [1080p] Deutsch.ass",
+          "id": "RO_2_de",
           "lang": "de",
-          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B2%5D%20Romance%20Dawn%2002%20%5B1080p%5D%20Deutsch.ass"
+          "url": "https://onepace.arl.sh/static/RO_2_de.srt"
         },
         {
-          "id": "[One Pace][2] Romance Dawn 02 [1080p] Italian.ass",
+          "id": "RO_2_it",
           "lang": "it",
-          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B2%5D%20Romance%20Dawn%2002%20%5B1080p%5D%20Italian.ass"
+          "url": "https://onepace.arl.sh/static/RO_2_it.srt"
         },
         {
-          "id": "[One Pace][2] Romance Dawn 02 [1080p] Portugues.ass",
+          "id": "RO_2_pt",
           "lang": "pt",
-          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B2%5D%20Romance%20Dawn%2002%20%5B1080p%5D%20Portugues.ass"
+          "url": "https://onepace.arl.sh/static/RO_2_pt.srt"
         },
         {
-          "id": "[One Pace][2] Romance Dawn 02 [1080p].ass",
+          "id": "RO_2_en",
           "lang": "en",
-          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B2%5D%20Romance%20Dawn%2002%20%5B1080p%5D.ass"
+          "url": "https://onepace.arl.sh/static/RO_2_en.srt"
         }
       ]
     }

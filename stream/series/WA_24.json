@@ -4,14 +4,9 @@
       "infoHash": "1806979f06ae1560485ef48bd1983d42aa5b5696",
       "subtitles": [
         {
-          "id": "[One Pace][944-945] Wano 24 [1080p].ass",
+          "id": "WA_24_en",
           "lang": "en",
-          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B944-945%5D%20Wano%2024%20%5B1080p%5D.ass"
-        },
-        {
-          "id": "[One Pace][945] Wano 24 [1080p].ass",
-          "lang": "en",
-          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B945%5D%20Wano%2024%20%5B1080p%5D.ass"
+          "url": "https://onepace.arl.sh/static/WA_24_en.srt"
         }
       ]
     }

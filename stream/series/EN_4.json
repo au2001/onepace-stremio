@@ -4,9 +4,9 @@
       "infoHash": "a99c9e4ea0fa627f135d3bc19da96338f4bb540e",
       "subtitles": [
         {
-          "id": "[One Pace][381-382] Enies Lobby 04 [720p].ass",
+          "id": "EN_4_en",
           "lang": "en",
-          "url": "https:/raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/main/Release/Final%20Subs/%5BOne%20Pace%5D%5B381-382%5D%20Enies%20Lobby%2004%20%5B720p%5D.ass"
+          "url": "https://onepace.arl.sh/static/EN_4_en.srt"
         }
       ]
     }

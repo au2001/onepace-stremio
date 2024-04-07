@@ -1,0 +1,2141 @@
+1
+00:00:00,000 --> 00:00:09,990
+<font face="Impress BT Pace" size="40">Your media player does not support the subtitle format used in this episode.
+Subtitles will likely not function properly.
+Please use one of the recommended video players, preferably mpv:
+https://mpv.io</font>
+
+2
+00:00:01,730 --> 00:00:03,730
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Video Editing</font></b></font>
+
+3
+00:00:01,730 --> 00:00:03,730
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Video Editing</b></font>
+
+4
+00:00:01,730 --> 00:00:03,730
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Feeso</font></b></font>
+
+5
+00:00:01,730 --> 00:00:03,730
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Feeso</b></font>
+
+6
+00:00:03,730 --> 00:00:05,730
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Timing</font></b></font>
+
+7
+00:00:03,730 --> 00:00:05,730
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Timing</b></font>
+
+8
+00:00:03,730 --> 00:00:05,730
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">KaitouYahiko</font></b></font>
+
+9
+00:00:03,730 --> 00:00:05,730
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}KaitouYahiko</b></font>
+
+10
+00:00:03,730 --> 00:00:05,730
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Typesetting</font></b></font>
+
+11
+00:00:03,730 --> 00:00:05,730
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Typesetting</b></font>
+
+12
+00:00:03,730 --> 00:00:05,730
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000"></font></b></font>
+
+13
+00:00:03,730 --> 00:00:05,730
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}</b></font>
+
+14
+00:00:05,730 --> 00:00:09,730
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Quality Control</font></b></font>
+
+15
+00:00:05,730 --> 00:00:09,730
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Quality Control</b></font>
+
+16
+00:00:05,730 --> 00:00:09,730
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Galaxy 9000
+Pepperjack
+Sewil
+TheFVGuy
+Zenef</font></b></font>
+
+17
+00:00:05,730 --> 00:00:09,730
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Galaxy 9000
+Pepperjack
+Sewil
+TheFVGuy
+Zenef</b></font>
+
+18
+00:00:09,730 --> 00:00:11,730
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Soundtracking</font></b></font>
+
+19
+00:00:09,730 --> 00:00:11,730
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Soundtracking</b></font>
+
+20
+00:00:09,730 --> 00:00:11,730
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Halee</font></b></font>
+
+21
+00:00:09,730 --> 00:00:11,730
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Halee</b></font>
+
+22
+00:00:11,730 --> 00:00:13,730
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Graphics</font></b></font>
+
+23
+00:00:11,730 --> 00:00:13,730
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Graphics</b></font>
+
+24
+00:00:11,730 --> 00:00:13,730
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Datenshi</font></b></font>
+
+25
+00:00:11,730 --> 00:00:13,730
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Datenshi</b></font>
+
+26
+00:00:13,730 --> 00:00:15,730
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Karaoke</font></b></font>
+
+27
+00:00:13,730 --> 00:00:15,730
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Karaoke</b></font>
+
+28
+00:00:13,730 --> 00:00:15,730
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">KaitouYahiko</font></b></font>
+
+29
+00:00:13,730 --> 00:00:15,730
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}KaitouYahiko</b></font>
+
+30
+00:00:15,730 --> 00:00:17,730
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Subtitle Editing</font></b></font>
+
+31
+00:00:15,730 --> 00:00:17,730
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Subtitle Editing</b></font>
+
+32
+00:00:15,730 --> 00:00:17,730
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Feeso</font></b></font>
+
+33
+00:00:15,730 --> 00:00:17,730
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Feeso</b></font>
+
+34
+00:00:17,730 --> 00:00:19,730
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Translation</font></b></font>
+
+35
+00:00:17,730 --> 00:00:19,730
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Translation</b></font>
+
+36
+00:00:17,730 --> 00:00:19,730
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Funimation
+Gaijin</font></b></font>
+
+37
+00:00:17,730 --> 00:00:19,730
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Funimation
+Gaijin</b></font>
+
+38
+00:00:19,730 --> 00:00:22,730
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Raws</font></b></font>
+
+39
+00:00:19,730 --> 00:00:22,730
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Raws</b></font>
+
+40
+00:00:19,730 --> 00:00:22,730
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">df68</font></b></font>
+
+41
+00:00:19,730 --> 00:00:22,730
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}df68</b></font>
+
+42
+00:01:50,010 --> 00:02:00,010
+<font face="Impress BT Pace" size="40">Your media player does not support the subtitle format used in this episode.
+Subtitles will likely not function properly.
+Please use one of the recommended video players, preferably mpv:
+https://mpv.io</font>
+
+43
+00:01:50,330 --> 00:01:57,260
+<font face="M+ 1c" size="42" color="#fefefe"><b>The Town of Beginnings and Endings</b></font>
+
+44
+00:01:57,090 --> 00:01:58,970
+<font face="Impress BT Pace" size="36">You raised your price again?!</font>
+
+45
+00:02:00,640 --> 00:02:03,930
+<font face="Impress BT Pace" size="36">{Don't you think your place charges a bit much?! - OG}{You're charging too much! - Ohms}Aren't you charging a bit too much?{Z}</font>
+
+46
+00:02:05,730 --> 00:02:08,640
+<font face="Impress BT Pace" size="36">Raise it again and I'll stop buying it!{OG}{Raise it again and I'll
+cancel my subscription! - Ohms}</font>
+
+47
+00:02:13,770 --> 00:02:16,310
+<font face="Impress BT Pace" size="36">What's the big deal?
+It's just a paper or two.</font>
+
+48
+00:02:16,310 --> 00:02:18,900
+<font face="Impress BT Pace" size="36">{Not when you're buying it everyday! - OG}{It builds up when you
+get it everyday! - Ohms}It's a big deal when you're
+buying it every day!{Z}</font>
+
+49
+00:02:19,340 --> 00:02:25,050
+<font face="Impress BT Pace" size="36">{There's no need for you to save up money to buy your village back from Arlong now, you know. - OG}{You don't need to save up to buy your village from Arlong anymore, remember? - Ohms}You know you don't need to save up now
+that Arlong's gone from your village, right?{Z}</font>
+
+50
+00:02:25,050 --> 00:02:27,350
+<font face="Impress BT Pace" size="36">{Or to be so obsessive about money. - OG}{There's no need to be stingy. - Ohms}You can stop obsessing
+over money, too.{Z}</font>
+
+51
+00:02:27,350 --> 00:02:28,590
+<font face="Impress BT Pace" size="36">{You're so dumb! - OG}Show's what <i>you</i> know!{Z}</font>
+
+52
+00:02:28,590 --> 00:02:33,610
+<font face="Impress BT Pace" size="36">{Now that everything's over,
+I'm going to earn money for [/i1]me[/i0] now! - OG}{Now that's over, I can finally
+earn money for myself! - Ohms}Now that everything's over,
+I can save up for myself!{Z}</font>
+
+53
+00:02:34,170 --> 00:02:38,050
+<font face="Impress BT Pace" size="36">I don't wanna be some poor
+pirate who can't even dress up!{OG}{I'm not gonna be a poor
+pirate who can't even dress up! - Ohms}</font>
+
+54
+00:02:38,050 --> 00:02:40,230
+<font face="Impress BT Pace" size="36">{Whoa, calm down! - OG}{Hey, simmer down! - Ohms}Hey, easy there!{Z}</font>
+
+55
+00:02:40,230 --> 00:02:43,350
+<font face="Impress BT Pace" size="36">{I'm in the middle of developing
+my special Tabasco Star! - OG}{I'm trying to concentrate on
+developing my special Tabasco Star! - Ohms}I'm trying to make my
+special Tabasco Star!{Z}</font>
+
+56
+00:02:46,650 --> 00:02:49,520
+<font face="Impress BT Pace" size="36">An eyeful of this
+will make any bad guy–</font>
+
+57
+00:02:54,200 --> 00:02:56,870
+<font face="Impress BT Pace" size="36">C'mon! Just one!</font>
+
+58
+00:02:54,200 --> 00:02:58,110
+<font face="Impress BT Pace" size="36" color="#d6d6d6">{\an8}Water! Water! Water!</font>
+
+59
+00:02:56,870 --> 00:02:58,110
+<font face="Impress BT Pace" size="36">No!</font>
+
+60
+00:02:58,110 --> 00:03:00,800
+<font face="Impress BT Pace" size="36">This is Nami{-san}'s tangerine orchard!</font>
+
+61
+00:03:00,800 --> 00:03:03,870
+<font face="Impress BT Pace" size="36">I won't let anyone lay a finger on it!</font>
+
+62
+00:03:03,870 --> 00:03:06,910
+<font face="Impress BT Pace" size="36">{Nami-san!
+Your love security is infallible! - OG}Nami! Nothing will get past
+my loving protection!{Ohms}</font>
+
+63
+00:03:06,910 --> 00:03:09,080
+<font face="Impress BT Pace" size="36">Yeah. Thanks, Sanji{-kun}.</font>
+
+64
+00:03:09,520 --> 00:03:13,170
+<font face="Impress BT Pace" size="36">{Ol' Sanji's letting himself be used... - OG}She's got him wrapped
+around her finger...{Ohms}</font>
+
+65
+00:03:15,290 --> 00:03:19,300
+<font face="Impress BT Pace" size="36">C'mon! Just one tangerine!</font>
+
+66
+00:03:19,300 --> 00:03:20,710
+<font face="Impress BT Pace" size="36">{You're such a cheapskate, Sanji! - OG}{You're so mean, Sanji! - Ohms}Cheapskate Sanji.{Z}</font>
+
+67
+00:03:20,710 --> 00:03:22,190
+<font face="Impress BT Pace" size="36">{No! - OG}I said no!{Ohms}</font>
+
+68
+00:03:23,310 --> 00:03:26,260
+<font face="Impress BT Pace" size="36">{Well, oh, well! I'm happy now, anyways! - OG}{Well, whatever! I'm in
+too good a mood to fight! - Ohms}Oh, well! I'm pretty happy anyway!{Z}</font>
+
+69
+00:03:28,750 --> 00:03:33,210
+<font face="Impress BT Pace" size="36">{The world sure is a turbulent place.
+Another coup in Villa... - OG}{The world sure is chaotic
+these days. Another coup in Villa... - Ohms}The world's always so chaotic.
+Another coup in Villa...{Z}</font>
+
+70
+00:03:35,730 --> 00:03:37,150
+<font face="Impress BT Pace" size="36">A flyer?</font>
+
+71
+00:03:54,420 --> 00:03:58,460
+<font face="Roboto" size="44"><b><font size="30">Marine HQ
+<font size="25">Operated by the
+World Government</font></font></b></font>
+
+72
+00:04:09,330 --> 00:04:15,560
+<font face="Impress BT Pace" size="36">{So, at the very least, they're now
+too much for our branches to handle? - OG}{So, they're too much for
+local branches to handle? - Ohms}So, at the very least, they've become
+too much for our branches to handle?{Z}</font>
+
+73
+00:04:16,060 --> 00:04:17,150
+<font face="Impress BT Pace" size="36">{Yes. - OG}Correct.{Ohms}</font>
+
+74
+00:04:17,150 --> 00:04:19,410
+<font face="Impress BT Pace" size="36">{Even before forming his pirate group, - OG}{Before forming his pirate crew, - Ohms}Even before he had a crew,{Z}</font>
+
+75
+00:04:19,410 --> 00:04:23,460
+<font face="Impress BT Pace" size="36">{he defeated Marine Branch Captain Axe-Hand Morgan, - OG}{he bested Captain Axe-Hand Morgan,- Ohms}he took down a Marine branch
+captain—Axe-Hand Morgan—{Z}</font>
+
+76
+00:04:23,460 --> 00:04:26,700
+<font face="Impress BT Pace" size="36">{and he's showed no signs of slowing down since. - OG}and he's shown no signs
+of slowing since.{Ohms}</font>
+
+77
+00:04:27,370 --> 00:04:29,870
+<font face="Impress BT Pace" size="36">Buggy the Clown: 15 million.</font>
+
+78
+00:04:29,870 --> 00:04:33,300
+<font face="Impress BT Pace" size="36">Pirate Fleet Commodore Don Krieg: 17 million.{OG}{Pirate Commodore
+Don Krieg. 17 million. - Ohms}</font>
+
+79
+00:04:33,300 --> 00:04:37,040
+<font face="Impress BT Pace" size="36">Fishman Pirate,
+Saw-Tooth Arlong: 20 million.{OG}{Sawtooth Arlong of the
+Fishman Pirates. 20 million. - Ohms}</font>
+
+80
+00:04:37,130 --> 00:04:46,010
+<font face="Roboto" size="44"><b><font size="30">Commander Brannew
+<font size="25">Marine Headquarters</font></font></b></font>
+
+81
+00:04:37,450 --> 00:04:41,690
+<font face="Impress BT Pace" size="36">{\an8}{These major pirates have all crossed
+the big 10-million-belly mark - OG}{The average bounty in the East Blue
+is 3 million belly, but these - Ohms}The average bounty in
+the East Blue is 3 million belly,{Z}</font>
+
+82
+00:04:41,690 --> 00:04:47,010
+<font face="Impress BT Pace" size="36">{in the East Blue, where the average
+bounty is 3 million belly... but they've all been taken down. - OG}{notorious pirates, worth more than
+10 million each, were taken down! - Ohms}{\an8}but these major pirates—each worth
+more than 10 million—were taken down!{Z}</font>
+
+83
+00:04:48,290 --> 00:04:52,680
+<font face="Impress BT Pace" size="36">{30 million Berries as a starting
+bounty is globally unprecedented, - OG}{30 million as a starting
+bounty is unprecedented, - Ohms}It's globally unprecedented for
+a bounty to start at thirty million belly,{Z}</font>
+
+84
+00:04:52,680 --> 00:04:55,350
+<font face="Impress BT Pace" size="36">{but it is not an excessively high amount. - OG}{but we believe it's necessary. - Ohms}but it's not so excessive
+an amount, either.{Z}</font>
+
+85
+00:04:55,350 --> 00:04:57,970
+<font face="Impress BT Pace" size="36">{It may be best to nip such
+seeds of villainy early on, - OG}{We must nip this evil in the bud now, - Ohms}Seeds of villainy
+must be nipped in the bud,{Z}</font>
+
+86
+00:04:57,970 --> 00:05:00,820
+<font face="Impress BT Pace" size="36">{before they have a chance to get out of hand. - OG}{before it gets out of hand! - Ohms}before they have a chance
+to blossom out of control.{Z}</font>
+
+87
+00:05:03,170 --> 00:05:05,030
+<font face="Impress BT Pace" size="36">Absolutely.{OG}{Agreed. - Ohms}</font>
+
+88
+00:05:07,470 --> 00:05:09,660
+<font face="Impress BT Pace" size="36">We're wanted criminals now!{OG}{We're wanted criminals! - Ohms}</font>
+
+89
+00:05:10,150 --> 00:05:12,450
+<font face="Impress BT Pace" size="36">{It says I'm 30 million belly! - OG}It says I'm worth 30 million belly!{Ohms}</font>
+
+90
+00:05:13,990 --> 00:05:18,380
+<font face="Impress BT Pace" size="36">Look! I'm gonna be seen around
+the world! Girls might fall for me!</font>
+
+91
+00:05:18,380 --> 00:05:21,710
+<font face="Impress BT Pace" size="36">{What?! They put Long-nose in but left me out?! - OG}What?! They included
+Long Nose but left me out?!{Ohms}</font>
+
+92
+00:05:23,130 --> 00:05:26,090
+<font face="Impress BT Pace" size="36">{Where are you?!
+I don't see you anywhere! - OG}{Where are you?! I don't see you! - Ohms}Where are you?!
+I don't see you at all!{Z}</font>
+
+93
+00:05:26,090 --> 00:05:27,560
+<font face="Impress BT Pace" size="36">{See! - OG}Right there!{Z}</font>
+
+94
+00:05:28,870 --> 00:05:32,130
+<font face="Impress BT Pace" size="36">{It's just the back of your head.
+That's nothing to brag about. - OG}It's just the back of your head.
+It's nothing to brag about.{Ohms}</font>
+
+95
+00:05:32,130 --> 00:05:33,810
+<font face="Impress BT Pace" size="36">Don't be so glum!{OG}{Don't be so sour! - Ohms}</font>
+
+96
+00:05:33,810 --> 00:05:37,310
+<font face="Impress BT Pace" size="36">{You can get on these without being
+captain if you get more important! - OG}{If you're a big enough threat, you can get one of these without being a captain. - Ohms}If you turn enough heads, you'll get
+one even without being a captain.{Z}</font>
+
+97
+00:05:37,310 --> 00:05:38,330
+<font face="Impress BT Pace" size="36">Seriously?!{OG}{Really?! - Ohms}</font>
+
+98
+00:05:38,330 --> 00:05:40,520
+<font face="Impress BT Pace" size="36">{Just keep on tryin' hard! - OG}{Just keep tryin'! - Ohms}Well, just keep trying!{Z}</font>
+
+99
+00:05:42,770 --> 00:05:46,280
+<font face="Impress BT Pace" size="36">{Let's rush into the Grand Line, men! - OG}{Let's head for the Grand Line, men! - Ohms}Let's hurry and get to
+the Grand Line, you guys!{Z}</font>
+
+100
+00:05:46,280 --> 00:05:51,400
+<font face="Impress BT Pace" size="36">{Yet again, you guys don't understand
+the seriousness of the situation! - OG}Yet again, you guys are
+missing how serious this is!{Ohms}</font>
+
+101
+00:05:51,400 --> 00:05:54,750
+<font face="Impress BT Pace" size="36">{This means our lives are in danger now! - OG}All of our lives are in danger now!{Ohms}</font>
+
+102
+00:05:55,510 --> 00:06:00,420
+<font face="Impress BT Pace" size="36">This is no time to be taking it easy
+and relaxing in the East Blue...{OG}{Although, this is no time to be
+taking it easy in the East Blue... - Ohms}</font>
+
+103
+00:06:03,930 --> 00:06:06,140
+<font face="Impress BT Pace" size="36">Thirty million belly...</font>
+
+104
+00:06:06,140 --> 00:06:08,790
+<font face="Impress BT Pace" size="36">{At that amount, I bet
+Headquarters will take action, - OG}{Marine Headquarters is sure to take
+action with a number that high... - Ohms}Marine HQ is sure to act
+on a number that high...{Z}</font>
+
+105
+00:06:08,790 --> 00:06:11,680
+<font face="Impress BT Pace" size="36">{and strong bounty hunters won't leave us alone... - OG}and we'll be swarmed with
+strong bounty hunters.{Ohms}</font>
+
+106
+00:06:12,650 --> 00:06:15,690
+<font face="Impress BT Pace" size="36">{They're gonna be on a completely
+different level than everyone so far! - OG}{This'll be beyond what
+we've faced before. - Ohms}They'll be a bigger challenge
+than anyone we've faced!{Z}</font>
+
+107
+00:06:19,770 --> 00:06:21,610
+<font face="Impress BT Pace" size="36">Miss!{OG}{Mistress! - Ohms}</font>
+
+108
+00:06:24,130 --> 00:06:25,860
+<font face="Impress BT Pace" size="36">Miss Kaya!{OG}{Mistress Kaya! - Ohms}</font>
+
+109
+00:06:26,830 --> 00:06:27,950
+<font face="Impress BT Pace" size="36">Miss!{OG}{Mistress! - Ohms}</font>
+
+110
+00:06:27,950 --> 00:06:29,860
+<font face="Impress BT Pace" size="36">What's wrong, Merry?!</font>
+
+111
+00:06:29,860 --> 00:06:31,740
+<font face="Impress BT Pace" size="36">Have a look at this!{OG}{Take a look at... this! - Ohms}</font>
+
+112
+00:06:33,190 --> 00:06:34,540
+<font face="Impress BT Pace" size="36">Usopp{-san}!</font>
+
+113
+00:06:35,700 --> 00:06:39,810
+<font face="Impress BT Pace" size="36">That's definitely Usopp{-san}
+facing the other way!</font>
+
+114
+00:06:39,810 --> 00:06:42,460
+<font face="Impress BT Pace" size="36">Now that you mention it, you're right...</font>
+
+115
+00:06:47,810 --> 00:06:48,880
+<font face="Impress BT Pace" size="36">Finally!</font>
+
+116
+00:06:48,880 --> 00:06:52,930
+<font face="Impress BT Pace" size="36">{Luffy-san! You've finally set foot into your dream! - OG}Luffy! You've taken the first step
+toward your dream!{Ohms}</font>
+
+117
+00:06:53,910 --> 00:06:57,890
+<font face="Impress BT Pace" size="36"><i>I'm Luffy. The man who's
+gonna be King of the Pirates!{RD03 @27:22}</i></font>
+
+118
+00:07:01,270 --> 00:07:04,230
+<font face="Impress BT Pace" size="36"><i>See ya!{RD4 @17:12}</i></font>
+
+119
+00:07:04,230 --> 00:07:09,700
+<font face="Impress BT Pace" size="36">But the next time we meet,
+we may be enemies!{OG}{But the next time we meet,
+we'll be on opposite sides! - Ohms}</font>
+
+120
+00:07:43,290 --> 00:07:47,430
+<font face="Impress BT Pace" size="36">{We're finally nearing the Grand Line... - OG}We're finally approaching
+the Grand Line.{Ohms}</font>
+
+121
+00:07:47,430 --> 00:07:51,240
+<font face="Impress BT Pace" size="36">{There's a famous city on this island... Loguetown. - OG}There's a famous settlement
+on this island... Loguetown.{Ohms}</font>
+
+122
+00:07:51,240 --> 00:07:53,200
+<font face="Impress BT Pace" size="36">Loguetown?</font>
+
+123
+00:07:53,200 --> 00:07:56,190
+<font face="Impress BT Pace" size="36">{Also known as the city of the beginning and the end... - OG}It's known as the Town of
+Beginnings and Endings.{Ohms}</font>
+
+124
+00:07:56,770 --> 00:07:58,830
+<font face="Impress BT Pace" size="36">{I'm pretty sure I've heard that before. - OG}Its reputation precedes itself.{Ohms}</font>
+
+125
+00:08:00,270 --> 00:08:05,790
+<font face="Impress BT Pace" size="36">{It's the town where Gold Roger,
+the old King of the Pirates, was born... and executed. - OG}Gold Roger, the King of the Pirates,
+was born and executed in that town.{Ohms}</font>
+
+126
+00:08:09,570 --> 00:08:11,830
+<font face="Impress BT Pace" size="36">The town where the King
+of the Pirates died...{OG}{The town where the Pirate King died. - Ohms}</font>
+
+127
+00:08:13,670 --> 00:08:14,760
+<font face="Impress BT Pace" size="36">Wanna go?{OG}{Wanna check it out? - Ohms}</font>
+
+128
+00:08:14,760 --> 00:08:17,290
+<font face="Impress BT Pace" size="36">{Yeah! I wanna see it! - OG}Yeah! I have to see it!{Ohms}</font>
+
+129
+00:08:17,290 --> 00:08:19,680
+<font face="Impress BT Pace" size="36">{I wanna see the town where
+the man who got the One Piece— - OG}The man who got the One Piece—{Ohms}</font>
+
+130
+00:08:19,680 --> 00:08:22,480
+<font face="Impress BT Pace" size="36">{everything this world has to offer— - OG}everything the world has to offer—{Ohms}</font>
+
+131
+00:08:22,480 --> 00:08:25,450
+<font face="Impress BT Pace" size="36">{was born and then died! - OG}{was born and executed there! - Ohms}was born and then died there!{Z}</font>
+
+132
+00:08:37,370 --> 00:08:40,780
+<font face="Impress BT Pace" size="36">{Everyone who wants to run away, do so now! - OG}Anyone who wants to flee
+should do so now!{Ohms}</font>
+
+133
+00:08:40,790 --> 00:08:42,710
+<font face="Impress BT Pace" size="36">This bastion of peace will not</font>
+
+134
+00:08:42,710 --> 00:08:45,500
+<font face="Impress BT Pace" size="36">{tolerate any weakness in this pirate age! - OG}tolerate any weakness
+during this age of piracy!{Ohms}</font>
+
+135
+00:08:46,310 --> 00:08:50,780
+<font face="Impress BT Pace" size="36">{The public's weakness and feebleness
+is not a sin! We have justice! - OG}{The people that fall prey
+to villains need us! We are justice! - Ohms}The weak and the feeble are not
+to blame! They will have justice!{Z}</font>
+
+136
+00:08:50,780 --> 00:08:53,050
+<font face="Impress BT Pace" size="36">{If there is tenacious evil on the seas, - OG}{No matter what kind
+of evil roams the seas, - Ohms}If evil persists upon the seas,{Z}</font>
+
+137
+00:08:53,050 --> 00:08:58,190
+<font face="Impress BT Pace" size="36">{then we, the Marines, must drive
+it away with utmost force! - OG}{we Marines must be prepared
+to fend it off without mercy! - Ohms}then we Marines must drive it
+away with the utmost of force!{Z}</font>
+
+138
+00:08:58,970 --> 00:09:01,520
+<font face="Impress BT Pace" size="36">In the name of absolute justice!</font>
+
+139
+00:09:01,520 --> 00:09:07,270
+<font face="Impress BT Pace" size="25"><i>{\an8}"Justice"</i></font>
+
+140
+00:09:03,780 --> 00:09:05,090
+<font face="Impress BT Pace" size="36">– Yes, sir!
+– Yes, sir!</font>
+
+141
+00:09:07,290 --> 00:09:11,360
+<font face="Impress BT Pace" size="36">Wow! What a huge town!</font>
+
+142
+00:09:11,980 --> 00:09:16,430
+<font face="Impress BT Pace" size="36">The place used to be full of pirates
+on their way to the Grand Line.{OG}{Pirates used to stop here
+on their way to the Grand Line. - Ohms}</font>
+
+143
+00:09:16,430 --> 00:09:18,740
+<font face="Impress BT Pace" size="36">{It has everything you could ever need! - OG}So it has everything you could need!{Ohms}</font>
+
+144
+00:09:18,740 --> 00:09:22,170
+<font face="Impress BT Pace" size="36">{Alright! I'm gonna go get equipment - OG}{Alright! I'm gonna get some gear - Ohms}Alright! Our next adventure
+is going to be a big one,{Z}</font>
+
+145
+00:09:22,170 --> 00:09:24,290
+<font face="Impress BT Pace" size="36">{for our upcoming great adventure! - OG}{for our next great adventure! - Ohms}so I'll need get us some equipment.{Z}</font>
+
+146
+00:09:24,630 --> 00:09:27,280
+<font face="Impress BT Pace" size="36">Looks like I can get some
+good ingredients here.{OG}{Looks like I can stock up
+on fresh ingredients. - Ohms}</font>
+
+147
+00:09:27,280 --> 00:09:28,920
+<font face="Impress BT Pace" size="36">Good women, too!{OG}{Fresh women, too! - Ohms}</font>
+
+148
+00:09:28,920 --> 00:09:31,030
+<font face="Impress BT Pace" size="36">{I got something I wanna buy, too. - OG}There's something I wanna buy, too.{Ohms}{WP02 @10:55}</font>
+
+149
+00:09:31,030 --> 00:09:33,180
+<font face="Impress BT Pace" size="36">Oh? How are you gonna do that?</font>
+
+150
+00:09:33,180 --> 00:09:35,510
+<font face="Impress BT Pace" size="36">You're flat broke, as I recall!{OG}{Aren't you broke?! - Ohms}</font>
+
+151
+00:09:35,510 --> 00:09:38,390
+<font face="Impress BT Pace" size="36">{Alright! I'm gonna check out the execution platform! - OG}Alright! I'm gonna check
+out the execution platform!{Ohms}</font>
+
+152
+00:09:38,390 --> 00:09:38,890
+<font face="Impress BT Pace" size="36">– Huh?
+– Huh?</font>
+
+153
+00:09:39,370 --> 00:09:43,010
+<font face="Impress BT Pace" size="36">I'm gonna see where
+the King of the Pirates was executed!{OG}{I'm gonna see where the
+Pirate King was executed! - Ohms}</font>
+
+154
+00:09:43,010 --> 00:09:46,410
+<font face="Impress BT Pace" size="36">{Hey, wait! We still haven't decided where to meet up at! - OG}Hey, wait! We haven't decided
+where we're meeting up yet!{Ohms}</font>
+
+155
+00:09:47,070 --> 00:09:49,650
+<font face="Impress BT Pace" size="36">Man, that guy...</font>
+
+156
+00:09:51,970 --> 00:09:55,490
+<font face="Impress BT Pace" size="36">The King of the Pirates was
+born here and died here!</font>
+
+157
+00:09:55,490 --> 00:09:58,450
+<font face="Impress BT Pace" size="36">{He might've even walked down this very street! - OG}He might have walked
+down this very street!{Ohms}</font>
+
+158
+00:09:58,770 --> 00:10:00,490
+<font face="Impress BT Pace" size="36">Yahoo!</font>
+
+159
+00:10:00,490 --> 00:10:04,450
+<font face="Impress BT Pace" size="36">Damn, these are expensive!
+Too expensive!</font>
+
+160
+00:10:04,450 --> 00:10:06,370
+<font face="Impress BT Pace" size="36"><i>Lend you money?</i></font>
+
+161
+00:10:06,370 --> 00:10:07,730
+<font face="Impress BT Pace" size="36"><i>{Sure! - OG}No problem!{Ohms}</i></font>
+
+162
+00:10:07,730 --> 00:10:11,790
+<font face="Impress BT Pace" size="36"><i>{But including interest, you'll hafta
+pay me 300% of what you borrow! - OG}{Just remember, you'll
+hafta pay me 300% interest! - Ohms}But after interest, you'll owe me
+300 percent of what I lend you!{Z}{WP02 @10:56}</i></font>
+
+163
+00:10:11,790 --> 00:10:15,010
+<font face="Impress BT Pace" size="36">{I can't afford to borrow any more from that girl... - OG}{I can't borrow any more
+from that woman. - Ohms}I can't afford to borrow
+any more from her...{Z}</font>
+
+164
+00:10:15,010 --> 00:10:18,200
+<font face="Impress BT Pace" size="36">{But I can't go into the Grand Line
+stuck with just one sword... - OG}but I can't enter the Grand Line
+with just one sword...{Ohms}</font>
+
+165
+00:10:18,200 --> 00:10:20,430
+<font face="Impress BT Pace" size="36">What do I do?</font>
+
+166
+00:10:18,910 --> 00:10:20,430
+<font face="Impress BT Pace" size="36" color="#d6d6d6">{"Monster"?! How rude! - OG}{"Monster"?! That's quite rude! - Ohms}"Monster"?! Now, that's just rude!{Z}</font>
+
+167
+00:10:20,430 --> 00:10:20,980
+<font face="Impress BT Pace" size="36">Huh?</font>
+
+168
+00:10:21,510 --> 00:10:23,270
+<font face="Impress BT Pace" size="36">{Aww, shut up! - OG}Shut it!{Ohms}</font>
+
+169
+00:10:23,270 --> 00:10:27,240
+<font face="Impress BT Pace" size="36">{Our boss is behind bars all thanks to him! - OG}Our boss is behind
+bars because of him!{Ohms}</font>
+
+170
+00:10:27,240 --> 00:10:28,530
+<font face="Impress BT Pace" size="36">{Have you still not learned your lesson?! - OG}{You should have
+taken that as a lesson! - Ohms}Then learn from his mistake.{Z}</font>
+
+171
+00:10:28,530 --> 00:10:29,940
+<font face="Impress BT Pace" size="36">{Nope! - OG}{No way! - Ohms}That's rich!{Z}</font>
+
+172
+00:10:29,940 --> 00:10:32,290
+<font face="Impress BT Pace" size="36">We ain't happy with things as they are!{OG}{We ain't satisfied leaving things be! - Ohms}</font>
+
+173
+00:10:32,290 --> 00:10:36,400
+<font face="Impress BT Pace" size="36">{We're gonna bring your corpse to him to see! - OG}{We're gonna drag
+your corpse to him as payback! - Ohms}We're gonna let him see
+your corpse when we drag it to him!{Z}</font>
+
+174
+00:10:36,400 --> 00:10:38,950
+<font face="Impress BT Pace" size="36">Very well. I will fight you.</font>
+
+175
+00:10:38,950 --> 00:10:39,940
+<font face="Impress BT Pace" size="36">{[/i1]You[/i0] will, girlie?! - OG}Will you now, girlie?!{Ohms}</font>
+
+176
+00:10:39,940 --> 00:10:41,740
+<font face="Impress BT Pace" size="36">Don't make us laugh!</font>
+
+177
+00:10:41,740 --> 00:10:44,200
+<font face="Impress BT Pace" size="36">What can a girl possibly do?!</font>
+
+178
+00:10:44,200 --> 00:10:44,780
+<font face="Impress BT Pace" size="36">Die!</font>
+
+179
+00:10:44,780 --> 00:10:46,240
+<font face="Impress BT Pace" size="36">Yeah!</font>
+
+180
+00:11:04,830 --> 00:11:06,060
+<font face="Impress BT Pace" size="36">She did it!</font>
+
+181
+00:11:06,060 --> 00:11:08,370
+<font face="Impress BT Pace" size="36">{You're strong, lady! - OG}{That's one strong lady! - Ohms}You're one tough lady!{Z}</font>
+
+182
+00:11:08,370 --> 00:11:09,870
+<font face="Impress BT Pace" size="36">You're amazing!</font>
+
+183
+00:11:13,400 --> 00:11:16,030
+<font face="Impress BT Pace" size="36" color="#d6d6d6">{\an8}I can't tell if she's strong or weak!{OG}{I can't tell if she's strong or lucky! - Ohms}</font>
+
+184
+00:11:14,050 --> 00:11:18,360
+<font face="Impress BT Pace" size="36">{Glasses! Glasses! Glasses! - OG}{My glasses! Where are my glasses! - Ohms}Glasses... Glasses... Glasses...
+Where are my glasses...?{Z}</font>
+
+185
+00:11:18,360 --> 00:11:19,670
+<font face="Impress BT Pace" size="36">{Glasses... - OG}My glasses...{Ohms}</font>
+
+186
+00:11:19,670 --> 00:11:21,230
+<font face="Impress BT Pace" size="36">{Hey. Are these them? - OG}Hey. You looking for these?{Ohms}</font>
+
+187
+00:11:23,620 --> 00:11:25,450
+<font face="Impress BT Pace" size="36">{S-Sorry to bother you! - OG}S-Sorry for the trouble!{Ohms}</font>
+
+188
+00:11:27,410 --> 00:11:28,930
+<font face="Impress BT Pace" size="36">Thank you!</font>
+
+189
+00:11:30,730 --> 00:11:31,270
+<font face="Impress BT Pace" size="36">How's this?</font>
+
+190
+00:11:31,270 --> 00:11:33,630
+<font face="Impress BT Pace" size="36">Oh! You look wonderful, miss!</font>
+
+191
+00:11:34,130 --> 00:11:34,640
+<font face="Impress BT Pace" size="36">How's this?</font>
+
+192
+00:11:34,640 --> 00:11:36,880
+<font face="Impress BT Pace" size="36">{You look so elegant, Miss! - OG}It's so elegant, miss!{Ohms}</font>
+
+193
+00:11:36,880 --> 00:11:37,400
+<font face="Impress BT Pace" size="36">{How's this? - OG}And this?{Ohms}</font>
+
+194
+00:11:37,400 --> 00:11:39,000
+<font face="Impress BT Pace" size="36">Elemental, miss!</font>
+
+195
+00:11:39,000 --> 00:11:39,500
+<font face="Impress BT Pace" size="36">{How's this? - OG}This one?{Ohms}</font>
+
+196
+00:11:39,500 --> 00:11:40,760
+<font face="Impress BT Pace" size="36">Electrical!{OG}{Electrifying! - Ohms}</font>
+
+197
+00:11:40,760 --> 00:11:41,160
+<font face="Impress BT Pace" size="36">{How's this? - OG}{How's this one? - Ohms}This?{Z}</font>
+
+198
+00:11:41,160 --> 00:11:42,340
+<font face="Impress BT Pace" size="36">Elegy!{OG}{Elegiac! - Ohms}</font>
+
+199
+00:11:42,850 --> 00:11:45,470
+<font face="Impress BT Pace" size="36">Will you be purchasing all of these?</font>
+
+200
+00:11:45,470 --> 00:11:46,430
+<font face="Impress BT Pace" size="36">{No, I don't want 'em. - OG}Nah, I don't want 'em.{Ohms}</font>
+
+201
+00:11:46,430 --> 00:11:48,450
+<font face="Impress BT Pace" size="36">{I want something that's rougher. - OG}{They're too extravagant for my taste. - Ohms}I want something a bit more rugged.{Z}</font>
+
+202
+00:11:49,100 --> 00:11:50,810
+<font face="Impress BT Pace" size="36">{ - OG}Come again!</font>
+
+203
+00:11:51,140 --> 00:11:54,100
+<font face="Impress BT Pace" size="36">Oh! A top-quality aperitif!</font>
+
+204
+00:11:54,100 --> 00:11:57,610
+<font face="Impress BT Pace" size="36">Oh! Two Poinderine
+champagne-like beauties!{OG}{Oh! Two champagne-like
+bubbly beauties! - Ohms}{Poinderine could be a made-up region in the world of One Piece that produces high-quality champagne, akin to the wines served on the Baratie}</font>
+
+205
+00:11:57,950 --> 00:12:01,730
+<font face="Impress BT Pace" size="36">The whole town is brimming with
+the finest ingredients around!{OG}{The whole town's like a buffet! - Ohms}</font>
+
+206
+00:12:01,730 --> 00:12:05,660
+<font face="Impress BT Pace" size="36">{Damn, I can't decide what to go after first! - OG}Damn, I can't decide
+what to go for first!{Ohms}</font>
+
+207
+00:12:07,770 --> 00:12:10,290
+<font face="Impress BT Pace" size="36">I just found the main dish!{OG}{I think I just found the main dish! - Ohms}</font>
+
+208
+00:12:10,290 --> 00:12:12,540
+<font face="Impress BT Pace" size="25"><i>{\an8}"Love-Love Pirates"</i></font>
+
+209
+00:12:12,850 --> 00:12:15,170
+<font face="Impress BT Pace" size="36">Awesome! What is this place?!</font>
+
+210
+00:12:15,170 --> 00:12:17,710
+<font face="Impress BT Pace" size="36">Everything here is a collector's dream!{OG}{It's like a collector's dream! - Ohms}</font>
+
+211
+00:12:17,710 --> 00:12:19,130
+<font face="Impress BT Pace" size="36">Welcome!</font>
+
+212
+00:12:19,580 --> 00:12:25,090
+<font face="Impress BT Pace" size="36">Everything here once belonged to pirates
+who returned alive from the Grand Line!{OG}{Everything here once belonged to famous pirates who returned alive from the Grand Line! - Ohms}</font>
+
+213
+00:12:25,560 --> 00:12:28,100
+<font face="Impress BT Pace" size="36">{They are especially valuable goods. - OG}{They are incredibly valuable. - Ohms}These goods are especially valuable.{Z}</font>
+
+214
+00:12:28,100 --> 00:12:32,560
+<font face="Impress BT Pace" size="36">{Then these are all items that went
+on adventures in the Grand Line?! - OG}{All these items were used during
+adventures on the Grand Line?! - Ohms}Then all these items were used
+during adventures in the Grand Line?!{Z}</font>
+
+215
+00:12:32,560 --> 00:12:34,690
+<font face="Impress BT Pace" size="36">That's absolutely correct!{OG}{That's correct! - Ohms}</font>
+
+216
+00:12:34,690 --> 00:12:38,750
+<font face="Impress BT Pace" size="36">We only do business with
+warriors of the sea here,{OG}{We only do business with
+the bravest sea warriors here, - Ohms}</font>
+
+217
+00:12:38,750 --> 00:12:42,610
+<font face="Impress BT Pace" size="36">{so we warmly welcome
+gentlemen such as yourself! - OG}{so it'll be a pleasure to serve
+a gentleman such as yourself! - Ohms}so it'll be my personal pleasure to
+serve a gentleman such as yourself!{Z}</font>
+
+218
+00:12:43,100 --> 00:12:47,910
+<font face="Impress BT Pace" size="36">What do you say? This was
+the favorite gun of <i>the</i> Gold Roger!{OG}{What do you say? This was
+Gold Roger's favorite gun! - Ohms}</font>
+
+219
+00:12:47,910 --> 00:12:50,610
+<font face="Impress BT Pace" size="36">{What?! Gold Roger's?! - OG}What?! <i>The</i> Gold Roger?!{Z}</font>
+
+220
+00:12:50,610 --> 00:12:51,610
+<font face="Impress BT Pace" size="36">Yes!</font>
+
+221
+00:12:52,630 --> 00:12:55,030
+<font face="Impress BT Pace" size="36">How about it, sir?{OG}{Are you interested, sir? - Ohms}</font>
+
+222
+00:12:55,030 --> 00:12:56,290
+<font face="Impress BT Pace" size="36">Sh-Show me more!{OG}{Sh-Show me everything! - Ohms}</font>
+
+223
+00:12:56,710 --> 00:12:58,420
+<font face="Impress BT Pace" size="36">Thanks! Come again!{OG}{My pleasure! - Ohms}</font>
+
+224
+00:13:01,610 --> 00:13:04,050
+<font face="Impress BT Pace" size="36">{Where exactly are we going?! - OG}Where are we going exactly?!{Ohms}</font>
+
+225
+00:13:04,490 --> 00:13:07,550
+<font face="Impress BT Pace" size="36">You broke my glasses.</font>
+
+226
+00:13:08,270 --> 00:13:11,470
+<font face="Impress BT Pace" size="36">I told you. I'll pay
+you back... somehow.</font>
+
+227
+00:13:12,260 --> 00:13:14,900
+<font face="Impress BT Pace" size="36">{You don't look like you would have any money! - OG}You don't look like
+you have any money!{Ohms}</font>
+
+228
+00:13:14,900 --> 00:13:16,770
+<font face="Impress BT Pace" size="36">Something about you just seems off!</font>
+
+229
+00:13:16,770 --> 00:13:19,800
+<font face="Impress BT Pace" size="36">T-True, I don't have any money, but...{OG}{T-True, I don't have any now, but... - Ohms}</font>
+
+230
+00:13:19,800 --> 00:13:21,540
+<font face="Impress BT Pace" size="36">Those wrinkles between your eyes!{OG}{Those shadows under your eyes! - Ohms}</font>
+
+231
+00:13:21,540 --> 00:13:23,990
+<font face="Impress BT Pace" size="36">{That look of having eaten nothing for days! - OG}You look like you
+haven't eaten for days!{Ohms}</font>
+
+232
+00:13:24,550 --> 00:13:27,200
+<font face="Impress BT Pace" size="36">{Do you have a sick mother?! - OG}Is your mother sick?!{Ohms}</font>
+
+233
+00:13:27,200 --> 00:13:31,660
+<font face="Impress BT Pace" size="36">{Did your wife run out on you and
+leave you with five babies to nurse?! - OG}{Or maybe your wife ran out leaving
+you to raise all five kids alone?! - Ohms}Did your wife run out on you, leaving
+you to raise five kids on your own?!{Z}</font>
+
+234
+00:13:31,660 --> 00:13:33,330
+<font face="Impress BT Pace" size="36">{L-Look, you! - OG}L-Listen, you!{Ohms}</font>
+
+235
+00:13:33,330 --> 00:13:36,120
+<font face="Impress BT Pace" size="36">{I won't ask for details!
+Just come with me! - OG}I don't need the details!
+Just come with me!{Ohms}</font>
+
+236
+00:13:41,050 --> 00:13:43,460
+<font face="Impress BT Pace" size="36">Th-The Marines?</font>
+
+237
+00:13:45,490 --> 00:13:46,260
+<font face="Impress BT Pace" size="36">Here.</font>
+
+238
+00:13:47,070 --> 00:13:51,140
+<font face="Impress BT Pace" size="36">If you work for the Marines, you'll
+never need to worry about money!</font>
+
+239
+00:13:51,140 --> 00:13:54,220
+<font face="Impress BT Pace" size="36">Screw that! Why should
+I work for the Marines?!{OG}{Screw that! Why would
+I wanna be a Marine?! - Ohms}</font>
+
+240
+00:13:54,610 --> 00:13:58,410
+<font face="Impress BT Pace" size="36">{You're just going to run off?!
+You're insulting a person's kindness! - OG}You're just going to take off?!
+I'm trying to do you a favor here!{Ohms}</font>
+
+241
+00:13:59,070 --> 00:14:00,310
+<font face="Impress BT Pace" size="36">Look, you...!</font>
+
+242
+00:14:00,890 --> 00:14:03,130
+<font face="Impress BT Pace" size="36">Sergeant Major! It's time for training!</font>
+
+243
+00:14:03,130 --> 00:14:05,440
+<font face="Impress BT Pace" size="36">Bye! Please work hard, okay?{OG}{Later! Please work hard, okay? - Ohms}</font>
+
+244
+00:14:05,440 --> 00:14:07,200
+<font face="Impress BT Pace" size="36">Sergeant Major?!</font>
+
+245
+00:14:08,890 --> 00:14:11,490
+<font face="Impress BT Pace" size="36">Damn it! I'm getting nowhere like this!</font>
+
+246
+00:14:16,990 --> 00:14:18,960
+<font face="Impress BT Pace" size="36">{Guess even three brushes is best! - OG}{Even three-mop style is the best! - Ohms}Looks like three-mop style is best!{Z}</font>
+
+247
+00:14:22,920 --> 00:14:24,130
+<font face="Impress BT Pace" size="36">Let me try again!</font>
+
+248
+00:14:31,350 --> 00:14:32,890
+<font face="Impress BT Pace" size="36">You! What are you doing here?!</font>
+
+249
+00:14:33,850 --> 00:14:36,670
+<font face="Impress BT Pace" size="36">{I knew it! You [/i1]are[/i0] Pirate Hunter Zoro! - OG}I knew it! You're Pirate Hunter Zoro!{Ohms}</font>
+
+250
+00:14:36,670 --> 00:14:38,850
+<font face="Impress BT Pace" size="36">Why the hell are <i>you</i>
+in here cleaning?!{OG}{Why the heck are you cleaning? - Ohms}</font>
+
+251
+00:14:38,850 --> 00:14:43,270
+<font face="Impress BT Pace" size="36">{Intel has it you've teamed up
+with Monkey D. Luffy's crew! - OG}Intel says you've joined
+Monkey D. Luffy's crew!{Ohms}</font>
+
+252
+00:14:43,270 --> 00:14:44,690
+<font face="Impress BT Pace" size="36">You're under arrest!</font>
+
+253
+00:14:50,950 --> 00:14:54,450
+<font face="Impress BT Pace" size="36">Well... now what?</font>
+
+254
+00:14:57,210 --> 00:14:58,750
+<font face="Impress BT Pace" size="36">What happened here?!</font>
+
+255
+00:15:00,390 --> 00:15:03,710
+<font face="Impress BT Pace" size="36">{It seems someone attacked them!
+There's no trace of whoever did it! - OG}It seems someone attacked them!
+There's no trace of the assailant!{Ohms}</font>
+
+256
+00:15:08,270 --> 00:15:09,550
+<font face="Impress BT Pace" size="36">"For your glasses."</font>
+
+257
+00:15:14,390 --> 00:15:16,920
+<font face="Impress BT Pace" size="36">Man, that freaked me out...</font>
+
+258
+00:15:16,920 --> 00:15:19,610
+<font face="Impress BT Pace" size="36">Dammit! She looks
+way too much like Kuina!</font>
+
+259
+00:15:19,610 --> 00:15:22,550
+<font face="Impress BT Pace" size="36">{Not to mention she's a swordsman, of all things... - OG}Not to mention
+she's a swordsman, too...{Ohms}</font>
+
+260
+00:15:22,550 --> 00:15:26,150
+<font face="Impress BT Pace" size="36">{The world sure is a big place.
+But I doubt I'll ever see her again. - OG}{Anything's possible I guess,
+but I doubt I'll ever see her again. - Ohms}The world sure is a big place,
+but I doubt I'll ever see her again.{Z}</font>
+
+261
+00:15:34,230 --> 00:15:35,490
+<font face="Impress BT Pace" size="36">I'd like some swords.</font>
+
+262
+00:15:36,530 --> 00:15:40,860
+<font face="Impress BT Pace" size="36">{\an8}{Yes, yes! Welcome!
+Have a look at anything you'd like! - OG}{Yes, yes! Welcome!
+Examine anything that catches your eye! - Ohms}Ah, yes! Welcome!
+Browse to your heart's content!{Z}</font>
+
+263
+00:15:36,870 --> 00:15:43,500
+<font face="Roboto" size="44"><b><font size="30">Ipponmatsu
+<font size="25">Weapons Merchant</font></font></b></font>
+
+264
+00:15:40,860 --> 00:15:43,500
+<font face="Impress BT Pace" size="36">{\an8}{Our shop's been in business
+for 200 years, you see! - OG}{Our shop's been
+in business for 200 years! - Ohms}Our shop's been in business
+for 200 years now!{Z}</font>
+
+265
+00:15:44,990 --> 00:15:48,590
+<font face="Impress BT Pace" size="36">{I got 100,000 belly. Sell me two swords. - OG}I have 100,000 belly.
+Sell me two swords.{Ohms}</font>
+
+266
+00:15:48,610 --> 00:15:51,410
+<font face="Impress BT Pace" size="36">{Eh? Two swords for 100,000 belly? - OG}{Eh? Two for 100,000? - Ohms}What...? Two swords
+for 100,000 belly?{Z}</font>
+
+267
+00:15:51,410 --> 00:15:54,470
+<font face="Impress BT Pace" size="36">{Damn, he has no money. - OG}Damn, he's a bum.{Ohms}</font>
+
+268
+00:15:56,090 --> 00:15:58,930
+<font face="Impress BT Pace" size="36">{50,000 a sword'll only
+get you some dull blades. - OG}Fifty grand a sword will only
+buy you some dull blades.{Z}</font>
+
+269
+00:15:59,340 --> 00:16:02,440
+<font face="Impress BT Pace" size="36">{I'll make do with whatever.
+I just don't got any money. - OG}I'll make do with whatever.
+I just can't afford anything else.{Ohms}</font>
+
+270
+00:16:02,870 --> 00:16:06,830
+<font face="Impress BT Pace" size="36">You'll make do with whatever?
+Hmph! What an amateur!{OG}{You'll make do with whatever?
+Hmph! What a novice! - Ohms}</font>
+
+271
+00:16:08,130 --> 00:16:11,190
+<font face="Impress BT Pace" size="36">That sword on his waist!
+Could it be...?!</font>
+
+272
+00:16:11,190 --> 00:16:17,930
+<font face="Impress BT Pace" size="36">O-Oh, h-h-hold on. L-L-Lemme
+see that sword of y-y-yours!{OG}{H-Hey there. L-Lemme see
+that sword of y-y-yours! - Ohms}</font>
+
+273
+00:16:17,930 --> 00:16:19,950
+<font face="Impress BT Pace" size="36">{What're you all fidgety for?! - OG}{Why're you stammering like that?! - Ohms}What's got you all agitated?!{Z}</font>
+
+274
+00:16:19,950 --> 00:16:21,330
+<font face="Impress BT Pace" size="36">J-Just let me see it!{OG}{J-Just let me see! - Ohms}</font>
+
+275
+00:16:21,330 --> 00:16:23,160
+<font face="Impress BT Pace" size="36">Weirdo.</font>
+
+276
+00:16:24,870 --> 00:16:27,040
+<font face="Impress BT Pace" size="36">{Th-This really is it! - OG}I-It's the real thing!{Z}</font>
+
+277
+00:16:28,830 --> 00:16:31,790
+<font face="Impress BT Pace" size="36">C-Calm down! This is your chance!{OG}{C-Calm down! This is a big chance! - Ohms}</font>
+
+278
+00:16:31,790 --> 00:16:35,430
+<font face="Impress BT Pace" size="36">{An absolute amateur waltzed
+right in here with a legendary sword! - OG}{An absolute novice just waltzed
+in with a named blade! - Ohms}An absolute amateur just waltzed
+right in here with a named blade!{Z}</font>
+
+279
+00:16:35,430 --> 00:16:37,720
+<font face="Impress BT Pace" size="36">{You need to act cool! - OG}You need to play it cool!{Ohms}</font>
+
+280
+00:16:38,390 --> 00:16:41,390
+<font face="Impress BT Pace" size="36">{Wow, that's not a bad sword! - OG}{Say, this isn't a bad sword! - Ohms}Wow, this is a nice sword
+you've got here!{Z}</font>
+
+281
+00:16:41,390 --> 00:16:45,030
+<font face="Impress BT Pace" size="36">{What do you say?
+I'll buy this from you for 200,000 belly. - OG}{What do you say? I'll take it
+off you for 200,000 belly. - Ohms}What do you say? I can take it off
+your hands for 200,000 belly.{Z}</font>
+
+282
+00:16:45,030 --> 00:16:48,330
+<font face="Impress BT Pace" size="36">{Then you'll have 300,000 belly total! - OG}{Then you'll have 300,000 total! - Ohms}That'll net you a total
+of 300,000 belly!{Z}</font>
+
+283
+00:16:48,330 --> 00:16:51,740
+<font face="Impress BT Pace" size="36">{You could get three good
+swords at 100,000 apiece! - OG}{You could get three nice blades
+at 100,000 apiece! - Ohms}You'll be able to buy three
+decent blades at 100,000 apiece.{Z}</font>
+
+284
+00:16:52,090 --> 00:16:54,150
+<font face="Impress BT Pace" size="36">Huh?! What're you talking about?!</font>
+
+285
+00:16:54,150 --> 00:16:59,160
+<font face="Impress BT Pace" size="36">{A-Alright! I-I can make it 250,000! No, 300,000! - OG}{A-Alright! I-I'll make it
+250,000! No, 300,000! - Ohms}Oh, alright! I-I'll make it
+250,000... No! 300,000!{Z}</font>
+
+286
+00:17:00,530 --> 00:17:02,040
+<font face="Impress BT Pace" size="36">{500,000? - OG}Then, 500,000...?{Z}</font>
+
+287
+00:17:02,040 --> 00:17:05,000
+<font face="Impress BT Pace" size="36">Look. Raise the price all
+you want, this sword isn't–</font>
+
+288
+00:17:05,000 --> 00:17:08,840
+<font face="Impress BT Pace" size="36">Alright, then! I'll buy it
+from you for 650,000 belly!</font>
+
+289
+00:17:09,830 --> 00:17:14,220
+<font face="Impress BT Pace" size="36">{Fine, you damn professional!
+How does 800,000 belly sound?! - OG}{Fine, you damn haggler!
+How does 800,000 belly sound?! - Ohms}I get it! You're a pro!
+How does 800,000 belly sound?!{Z}</font>
+
+290
+00:17:14,220 --> 00:17:15,900
+<font face="Impress BT Pace" size="36">Hello!</font>
+
+291
+00:17:15,900 --> 00:17:18,300
+<font face="Impress BT Pace" size="36">Did you finish polishing my Shigure?{OG}{Did you finish polishing Shigure? - Ohms}</font>
+
+292
+00:17:20,310 --> 00:17:22,470
+<font face="Impress BT Pace" size="36">Thank goodness! You're all right!</font>
+
+293
+00:17:22,470 --> 00:17:27,010
+<font face="Impress BT Pace" size="36">Someone went on a rampage
+at the Marine outpost earlier.</font>
+
+294
+00:17:27,010 --> 00:17:29,770
+<font face="Impress BT Pace" size="36">{You were gone too, so I was worried! - OG}{You were missing, so I was worried! - Ohms}You went missing, so I was worried!{Z}</font>
+
+295
+00:17:29,770 --> 00:17:33,030
+<font face="Impress BT Pace" size="36">{She's a royal-class dimwit... - OG}How dense can she be?{Ohms}</font>
+
+296
+00:17:30,790 --> 00:17:33,030
+<font face="Impress BT Pace" size="36" color="#d6d6d6">Thank goodness! What a relief...{OG}{Thank goodness! That's such a relief. - Ohms}</font>
+
+297
+00:17:33,030 --> 00:17:35,950
+<font face="Impress BT Pace" size="36">But the fact that you're
+here, safe and sound...{OG}{But the fact you're safe and sound... - Ohms}</font>
+
+298
+00:17:35,950 --> 00:17:39,990
+<font face="Impress BT Pace" size="36">{means you actually scoffed
+at my kindness and ran off! - OG}{means that you must've left
+earlier, abandoning my kind offer! - Ohms}means you must have scoffed
+at my kind offer and ran off!{Z}</font>
+
+299
+00:17:40,530 --> 00:17:42,530
+<font face="Impress BT Pace" size="36">{Here's your money back. - OG}Here, take your money back.{Ohms}</font>
+
+300
+00:17:42,530 --> 00:17:45,540
+<font face="Impress BT Pace" size="36">{I can't accept money from
+someone who's heartless. - OG}I can't accept money
+from someone that cold.{Ohms}</font>
+
+301
+00:17:45,540 --> 00:17:48,450
+<font face="Impress BT Pace" size="36">{Besides, I bought some new glasses! - OG}Besides, I already bought
+some new glasses!{Ohms}</font>
+
+302
+00:17:51,170 --> 00:17:53,760
+<font face="Impress BT Pace" size="36">{Is this sword the Wado Ichimonji?! - OG}{Isn't that katana[/i1]the[/i0]Wado Ichimonji? - Ohms}Don't tell me this sword
+is <i>the</i> Wado Ichimonji!{Z}</font>
+
+303
+00:17:54,950 --> 00:17:56,720
+<font face="Impress BT Pace" size="36">{It [/i1]is[/i0] the Wado Ichimonji! - OG}{It really is Wado Ichimonji! - Ohms}It <i>has</i> to be the Wado Ichimonji!{Z}</font>
+
+304
+00:17:57,100 --> 00:17:58,300
+<font face="Impress BT Pace" size="36">Wado...?</font>
+
+305
+00:17:59,230 --> 00:18:01,050
+<font face="Impress BT Pace" size="36">Don't say it! Don't say it!</font>
+
+306
+00:18:02,970 --> 00:18:05,050
+<font face="Impress BT Pace" size="36">{What a beautiful straight temper line! - OG}{What a beautiful temper line! - Ohms}A beautiful straight temper line!{Z}</font>
+
+307
+00:18:05,050 --> 00:18:07,730
+<font face="Impress BT Pace" size="36">{I believe it's one of the 21 [/i1]O-Wazamono[/i0] swords! - OG}{It's one of the twenty-one
+excellent[/i1]wazamono[/i]blades! - Ohms}I believe it's one of the
+twenty-one great grade swords!{Z}</font>
+
+308
+00:18:09,570 --> 00:18:14,960
+<font face="Impress BT Pace" size="36">See! Look at this! It's worth
+no less than 10 million belly!</font>
+
+309
+00:18:14,960 --> 00:18:17,490
+<font face="Impress BT Pace" size="36">{But what are[/i1]you[/i0]doing
+with such a legendary sword? - OG}But how did <i>you</i> come
+across a named blade?{Z}</font>
+
+310
+00:18:17,490 --> 00:18:20,680
+<font face="Impress BT Pace" size="36">{Curse you! 
+You just [/i1]had[/i0] to blurt it all out! - OG}{Damn you! You had to go
+and run your mouth! - Ohms}Dammit! You just <i>had</i> to go
+and run your mouth!{Z}</font>
+
+311
+00:18:20,680 --> 00:18:23,170
+<font face="Impress BT Pace" size="36">{I'm suing for obstruction of business! - OG}{I should sue for
+obstruction of business! - Ohms}I'll sue for obstruction of business!{Z}</font>
+
+312
+00:18:23,170 --> 00:18:24,990
+<font face="Impress BT Pace" size="36">O-Obstruction of business?</font>
+
+313
+00:18:24,990 --> 00:18:27,960
+<font face="Impress BT Pace" size="36">I'm sorry! Did I say something wrong?</font>
+
+314
+00:18:28,950 --> 00:18:31,340
+<font face="Impress BT Pace" size="36">You're here for Shigure, right?!</font>
+
+315
+00:18:31,340 --> 00:18:33,880
+<font face="Impress BT Pace" size="36">I'm done polishing it!
+Take it and get the hell out!</font>
+
+316
+00:18:37,340 --> 00:18:39,850
+<font face="Impress BT Pace" size="36">Why did you run straight into those?!</font>
+
+317
+00:18:39,850 --> 00:18:41,300
+<font face="Impress BT Pace" size="36">I-I'm sorry.</font>
+
+318
+00:18:42,170 --> 00:18:44,550
+<font face="Impress BT Pace" size="36">{That dumb girl saved you! - OG}That klutz saved you!{Ohms}</font>
+
+319
+00:18:44,550 --> 00:18:47,940
+<font face="Impress BT Pace" size="36">{It's true, that sword's so legendary it'd be a waste for a guy - OG}{It's a shame that a clueless guy like you is running around - Ohms}Really though, a named blade
+is wasted on a guy who{Z}</font>
+
+320
+00:18:47,940 --> 00:18:49,980
+<font face="Impress BT Pace" size="36">{who doesn't know its value to walk around with it. - OG}{with a named blade without realizing its value. - Ohms}wields it without knowing its value.{Z}</font>
+
+321
+00:18:50,560 --> 00:18:53,930
+<font face="Impress BT Pace" size="36">All the swords in that barrel
+are 50,000 belly apiece!</font>
+
+322
+00:18:53,930 --> 00:18:55,950
+<font face="Impress BT Pace" size="36">{Just take whatever two you want! - OG}Just pick whatever two you want!{Ohms}</font>
+
+323
+00:18:56,570 --> 00:18:58,440
+<font face="Impress BT Pace" size="36">What's he so mad about?</font>
+
+324
+00:18:58,770 --> 00:19:02,950
+<font face="Impress BT Pace" size="36">{You must really like swords,
+carrying three of them around! - OG}You must really like swords
+to want to carry three of them!{Ohms}</font>
+
+325
+00:19:02,950 --> 00:19:05,160
+<font face="Impress BT Pace" size="36">{That's almost like this one
+bounty hunter out there! - OG}It reminds me of that
+one bounty hunter!{Ohms}</font>
+
+326
+00:19:05,160 --> 00:19:06,970
+<font face="Impress BT Pace" size="36">{Bounty hunter, huh? - OG}A bounty hunter?{Ohms}</font>
+
+327
+00:19:06,970 --> 00:19:09,570
+<font face="Impress BT Pace" size="36">{He's famous! His name is Roronoa! - OG}{He's infamous! His name is Roronoa! - Ohms}He's very well-known.
+His name is Roronoa.{Z}</font>
+
+328
+00:19:09,570 --> 00:19:10,870
+<font face="Impress BT Pace" size="36">{I hear the name a lot. - OG}I hear that name a lot.{Z}</font>
+
+329
+00:19:11,220 --> 00:19:15,150
+<font face="Impress BT Pace" size="36">{Yes. He's a famous swordsman
+all throughout the East Blue... - OG}{Right. He's a swordsman renowned
+all throughout the East Blue... - Ohms}Yes, he's known all
+throughout the East Blue...{Z}</font>
+
+330
+00:19:15,150 --> 00:19:16,450
+<font face="Impress BT Pace" size="36">{but he's a notorious person! - OG}{but he's a ruthless brute! - Ohms}but he's a demon!{Z}</font>
+
+331
+00:19:16,450 --> 00:19:20,630
+<font face="Impress BT Pace" size="36">{Using swords as bounty-hunting
+tools is unforgivable! - OG}{Using swordsmanship for something
+as petty as bounty-hunting?! - Ohms}Using swords to hunt
+bounties is unforgivable!{Z}</font>
+
+332
+00:19:20,630 --> 00:19:23,410
+<font face="Impress BT Pace" size="36">{Why is evil so strong in this era? - OG}{Why're the forces of evil
+so strong in this era? - Ohms}Why has evil grown strong in this era?{Z}</font>
+
+333
+00:19:23,950 --> 00:19:27,850
+<font face="Impress BT Pace" size="36">All the famous sword masters
+are pirates or bounty hunters...</font>
+
+334
+00:19:28,510 --> 00:19:31,690
+<font face="Impress BT Pace" size="36">{And almost all of the world's
+legendary swords are in their hands. - OG}{And almost all of the world's
+named blades are in their hands. - Ohms}And they possess the majority
+of the world's named blades.{Z}</font>
+
+335
+00:19:31,690 --> 00:19:33,480
+<font face="Impress BT Pace" size="36">It's a real shame...</font>
+
+336
+00:19:35,870 --> 00:19:39,000
+<font face="Impress BT Pace" size="36">{I dunno, maybe everyone has
+their own circumstances and stuff? - OG}{I dunno. Everyone has
+their own circumstances, right? - Ohms}Well, everyone has their own
+set of circumstances, right?{Z}</font>
+
+337
+00:19:39,000 --> 00:19:42,160
+<font face="Impress BT Pace" size="36">{All jobs need to keep up
+with the times somehow. - OG}{You have to do
+what you can to survive. - Ohms}Every profession has to
+keep up with the times somehow...{Z}</font>
+
+338
+00:19:42,160 --> 00:19:45,070
+<font face="Impress BT Pace" size="36">In any case, with my Shigure,{OG}{Well, with Shigure in my hands, - Ohms}</font>
+
+339
+00:19:45,070 --> 00:19:47,830
+<font face="Impress BT Pace" size="36">{I'm going to polish my skills as a swordsman - OG}I'm going to hone my swordsmanship{Ohms}</font>
+
+340
+00:19:47,830 --> 00:19:52,050
+<font face="Impress BT Pace" size="36">{and someday gather all the legendary swords that are in the hands of criminals throughout the world! - OG}and someday I'll retrieve all the named
+blades from the criminals of the world!{Ohms}</font>
+
+341
+00:19:52,770 --> 00:19:57,020
+<font face="Impress BT Pace" size="36">{The 12 Top O-Wazamonos, the 21 O-Wazamonos, - OG}{The twelve supreme[/i1]wazamonos[/i0],
+the twenty-one excellent[/i1]wazamonos[/i0], - Ohms}The twelve supreme grade swords,
+the twenty-one great grade swords,{Z}</font>
+
+342
+00:19:57,020 --> 00:20:00,130
+<font face="Impress BT Pace" size="36">{and the 50 Ryo-Wazamonos... I'll risk my life for them! - OG}{and the fifty great[/i1]wazamonos[/i0]. I'll risk my life for them! - Ohms}and the fifty fine grade swords...
+I'll risk my life for them!{Z}</font>
+
+343
+00:20:00,990 --> 00:20:03,180
+<font face="Impress BT Pace" size="36">You gonna take <i>this</i> sword, too?{OG}{You gonna take this[/i1]katana[/i0], too? - Ohms}{LT03 @24:10}</font>
+
+344
+00:20:03,180 --> 00:20:04,840
+<font face="Impress BT Pace" size="36">The Wado Ichimonji, was it?{OG}{Wado Ichimonji, was it? - Ohms}</font>
+
+345
+00:20:07,570 --> 00:20:10,810
+<font face="Impress BT Pace" size="36">{No, it's not that I want legendary swords... - OG}{No, it's not like I want
+named blades out of greed. - Ohms}That is... It's not that I want
+the named blades for myself.{Z}</font>
+
+346
+00:20:11,690 --> 00:20:14,770
+<font face="Impress BT Pace" size="36">{I'm just saying I don't like
+them being in criminals' hands! - OG}I'm just saying I don't want
+criminals to wield them!{Ohms}</font>
+
+347
+00:20:19,470 --> 00:20:20,650
+<font face="Impress BT Pace" size="36">This sword...</font>
+
+348
+00:20:21,750 --> 00:20:23,110
+<font face="Impress BT Pace" size="36">That sword! I think it's...</font>
+
+349
+00:20:25,610 --> 00:20:28,170
+<font face="Impress BT Pace" size="36">I thought so! Kitetsu III!</font>
+
+350
+00:20:28,170 --> 00:20:29,540
+<font face="Impress BT Pace" size="36">It's the Kitetsu III!{OG}{It's Kitetsu III! - Ohms}</font>
+
+351
+00:20:29,540 --> 00:20:33,000
+<font face="Impress BT Pace" size="36">{Its predecessor, the Kitetsu II,
+is an O-Wazamono sword, - OG}{Its predecessor, Kitetsu II,
+is an excellent[/i1]wazamono[/i0], - Ohms}Its predecessor, the Kitetsu II,
+is a great grade sword,{Z}</font>
+
+352
+00:20:33,000 --> 00:20:36,450
+<font face="Impress BT Pace" size="36">{and the Kitetsu I before that is
+listed as a Top O-Wazamono sword! - OG}{and Kitetsu I before that
+is listed as a supreme[/i1]wazamono[/i0]! - Ohms}and the Kitetsu I before that is
+listed as a supreme grade sword!{Z}</font>
+
+353
+00:20:37,810 --> 00:20:41,240
+<font face="Impress BT Pace" size="36">{Mister! Is this sword really 50,000 belly?! - OG}Mister! Is this sword
+really only 50,000 belly?!{Ohms}</font>
+
+354
+00:20:41,240 --> 00:20:42,420
+<font face="Impress BT Pace" size="36">Y-Yeah...</font>
+
+355
+00:20:42,890 --> 00:20:46,140
+<font face="Impress BT Pace" size="36">{Incredible! It's a rescpectable Wazamono, you know! - OG}{Incredible! It's a great
+[/i1]wazamono[/i0], you know! - Ohms}Incredible! The grade of this
+sword is very respectable!{Z}</font>
+
+356
+00:20:46,140 --> 00:20:48,300
+<font face="Impress BT Pace" size="36">{That one! You [/i1]have[/i0] to choose that one! - OG}That one! You <i>have</i> to buy that one!{Ohms}</font>
+
+357
+00:20:49,690 --> 00:20:51,810
+<font face="Impress BT Pace" size="36">It normally goes for one million belly!</font>
+
+358
+00:20:51,810 --> 00:20:54,340
+<font face="Impress BT Pace" size="36">{You absolutely [/i1]have[/i0] to choose it! - OG}It's an absolute no-brainer!{Ohms}</font>
+
+359
+00:20:54,340 --> 00:20:56,150
+<font face="Impress BT Pace" size="36">N-No! I can't sell it!</font>
+
+360
+00:20:56,580 --> 00:21:01,040
+<font face="Impress BT Pace" size="36">{Yeah! Selling this for 50,000 belly is clearly strange! - OG}{That's right! Selling this for
+50,000 belly is clearly a mistake! - Ohms}Well, sure! Selling this for 50,000
+belly would be extremely odd!{Z}</font>
+
+361
+00:21:01,040 --> 00:21:02,070
+<font face="Impress BT Pace" size="36">{No, that's not what I mean! - OG}No, that's not it...!{Z}</font>
+
+362
+00:21:12,070 --> 00:21:13,450
+<font face="Impress BT Pace" size="36">A cursed sword, huh?{OG}{It's cursed... - Ohms}</font>
+
+363
+00:21:15,070 --> 00:21:16,170
+<font face="Impress BT Pace" size="36">You knew?!</font>
+
+364
+00:21:17,670 --> 00:21:19,920
+<font face="Impress BT Pace" size="36">No. I can just tell.{OG}{No. I can tell. - Ohms}</font>
+
+365
+00:21:19,920 --> 00:21:21,930
+<font face="Impress BT Pace" size="36">{Starting with the very first one, - OG}From their first incarnation,{Ohms}</font>
+
+366
+00:21:21,930 --> 00:21:26,950
+<font face="Impress BT Pace" size="36">{all the [/i1]Kitetsu[/i0] have been superior swords, but every last one is cursed! - OG}every Kitetsu has been outstanding,
+but each of them carries a curse!{Ohms}</font>
+
+367
+00:21:28,250 --> 00:21:29,980
+<font face="Impress BT Pace" size="36">Many famous master swordsmen</font>
+
+368
+00:21:29,980 --> 00:21:33,310
+<font face="Impress BT Pace" size="36">have met tragic deaths after
+taking up Kitetsu swords.{OG}{have met tragic deaths after
+taking up a Kitetsu[/i1]katana[/i0]. - Ohms}</font>
+
+369
+00:21:33,310 --> 00:21:37,490
+<font face="Impress BT Pace" size="36">{These days, there ain't a single person who uses a [/i1]Kitetsu[/i0]. - OG}{These days, there ain't a single
+person who'd use a Kitetsu. - Ohms}Nowadays, you won't find a single
+person willing to use a Kitetsu{Z}</font>
+
+370
+00:21:37,490 --> 00:21:41,710
+<font face="Impress BT Pace" size="36">{Because you'll leave this world
+even if you use them unknowingly! - OG}{Because they'll end your life
+before you know it! - Ohms}because they'll take you from this world
+even if you use one unknowingly!{Z}</font>
+
+371
+00:21:41,710 --> 00:21:46,780
+<font face="Impress BT Pace" size="36">{Even I wanna get rid of that thing,
+but I'm afraid it'll curse me... - OG}I just wanna get rid of the thing,
+but I'm afraid it'll curse me...{Ohms}</font>
+
+372
+00:21:46,780 --> 00:21:50,020
+<font face="Impress BT Pace" size="36">I-I'm sorry! I had no idea it was
+such a terrifying sword!</font>
+
+373
+00:21:50,020 --> 00:21:51,970
+<font face="Impress BT Pace" size="36">I should've minded my own business!</font>
+
+374
+00:21:54,530 --> 00:21:56,750
+<font face="Impress BT Pace" size="36">I like it! I'll take it!{OG}{It's perfect! I'll take it! - Ohms}</font>
+
+375
+00:21:57,770 --> 00:21:59,910
+<font face="Impress BT Pace" size="36">{A-Are you a fool?! I can't sell it! - OG}A-Are you a moron?! I can't sell it!{Ohms}</font>
+
+376
+00:21:59,910 --> 00:22:03,710
+<font face="Impress BT Pace" size="36">If you die because of it,
+then it'd be like I killed you myself!{OG}{If you die because of it,
+it'd be like I killed you myself! - Ohms}</font>
+
+377
+00:22:03,710 --> 00:22:07,030
+<font face="Impress BT Pace" size="36">{[/i1]You're[/i0] the fool!
+Just sell the stupid thing off! - OG}<i>You're</i> the moron! Just get the sale!{Ohms}</font>
+
+378
+00:22:07,030 --> 00:22:08,580
+<font face="Impress BT Pace" size="36">Honey!</font>
+
+379
+00:22:08,580 --> 00:22:10,010
+<font face="Impress BT Pace" size="36">Then let's do this.{OG}{Let's test it out. - Ohms}</font>
+
+380
+00:22:10,710 --> 00:22:13,470
+<font face="Impress BT Pace" size="36">{My luck, and this thing's curse... - OG}My luck, or this thing's curse?{Ohms}</font>
+
+381
+00:22:14,090 --> 00:22:16,510
+<font face="Impress BT Pace" size="36">{Let's see which one's stronger. - OG}We'll find out which is stronger.{Ohms}</font>
+
+382
+00:22:20,610 --> 00:22:21,520
+<font face="Impress BT Pace" size="36">{You can't be serious! - OG}You can't...!{Z}</font>
+
+383
+00:22:23,520 --> 00:22:27,200
+<font face="Impress BT Pace" size="36">{Stop! Its sharpness is the real deal!
+It'll take your whole arm off! - OG}Stop! It's sharp enough
+to take your arm off!{Ohms}</font>
+
+384
+00:22:45,670 --> 00:22:46,880
+<font face="Impress BT Pace" size="36">I'll take it.</font>
+
+385
+00:22:52,330 --> 00:22:54,350
+<font face="Impress BT Pace" size="36">{Hey. Could you choose me another one? - OG}Hey. Could you pick
+another one for me?{Ohms}</font>
+
+386
+00:22:56,290 --> 00:22:56,930
+<font face="Impress BT Pace" size="36">S-Sure...</font>
+
+387
+00:22:56,930 --> 00:22:58,480
+<font face="Impress BT Pace" size="36">H-Hold it!</font>
+
+388
+00:23:06,810 --> 00:23:09,030
+<font face="Impress BT Pace" size="36">{The make is black lacquer... - OG}{This blade has an uneven finish... - Ohms}With a black lacquered sheath...{Z}</font>
+
+389
+00:23:09,950 --> 00:23:11,910
+<font face="Impress BT Pace" size="36">{and the blade's temper pattern uneven! - OG}{and a black lacquered sheath! - Ohms}and its blade's uneven
+temper pattern...{Z}</font>
+
+390
+00:23:14,250 --> 00:23:16,620
+<font face="Impress BT Pace" size="36">{The Ryo-Wazamono "Yubashiri"! - OG}{The great[/i1]wazamono[/i]Yubashiri! - Ohms}The fine grade sword Yubashiri!{Z}</font>
+
+391
+00:23:16,620 --> 00:23:21,370
+<font face="Impress BT Pace" size="36">{My shop may not be much,
+but this is the finest sword I have! - OG}My shop may not be much,
+but this is the finest sword I own!{Ohms}</font>
+
+392
+00:23:21,770 --> 00:23:24,840
+<font face="Impress BT Pace" size="36">{I can't buy that. I already told you, I got no money. - OG}I can't afford it. I already
+told you, I got no money.{Ohms}</font>
+
+393
+00:23:24,840 --> 00:23:28,920
+<font face="Impress BT Pace" size="36">Forget the money. And I don't
+need any for the Kitetsu, either.</font>
+
+394
+00:23:28,920 --> 00:23:31,450
+<font face="Impress BT Pace" size="36">I'm sorry for trying
+to cheat you earlier.</font>
+
+395
+00:23:32,030 --> 00:23:34,230
+<font face="Impress BT Pace" size="36">{It's been a while since I've seen a good swordsman's eyes. - OG}{It's been a while since I've looked into
+the eyes of a true swordsman. - Ohms}I've not seen the eyes of
+a good swordsman in ages.{Z}</font>
+
+396
+00:23:34,230 --> 00:23:36,220
+<font face="Impress BT Pace" size="36">They say the sword
+chooses the owner.{OG}{They say a sword chooses
+its wielder anyway. - Ohms}</font>
+
+397
+00:23:36,220 --> 00:23:38,800
+<font face="Impress BT Pace" size="36">{I pray for your good fortune! - OG}I'll be praying for your good fortune!{Ohms}</font>
+
+398
+00:23:47,430 --> 00:23:50,190
+<font face="Impress BT Pace" size="36">{I definitely feel more relaxed with three swords. - OG}I definitely feel more
+at ease with three swords.{Ohms}</font>
+
+399
+00:23:50,560 --> 00:23:51,900
+<font face="Impress BT Pace" size="36">Oh, what's this?</font>
+
+400
+00:23:51,900 --> 00:23:55,510
+<font face="Impress BT Pace" size="36">{I can't believe a big skinflint like
+you gave the family treasure away! - OG}{I can't believe a miser like you
+gave a treasure like that away! - Ohms}Hard to believe a miser like you
+gave away the family treasure.{Z}</font>
+
+401
+00:23:55,510 --> 00:23:58,410
+<font face="Impress BT Pace" size="36">{What's wrong with one man
+entrusting a dream to another?! - OG}{What's wrong with a man
+entrusting his dreams to another?! - Ohms}Can't a man entrust
+another with his dream?{Z}</font>
+
+402
+00:23:59,700 --> 00:24:01,770
+<font face="Impress BT Pace" size="36">{Now take out the damn trash! - OG}{Just take out the damn trash! - Ohms}And I dream of you
+taking out the trash!{Z}</font>
+
+403
+00:24:01,770 --> 00:24:02,920
+<font face="Impress BT Pace" size="36">Y-Yes, ma'am!</font>
+
+404
+00:24:02,920 --> 00:24:06,380
+<font face="Impress BT Pace" size="36">{I was so frightened... that I still can't stand up... - OG}{I was so frightened...
+I still can't stand up... - Ohms}It scared me so much
+that I still can't stand up...{Z}</font>
+
+405
+00:24:14,260 --> 00:24:15,710
+<font face="Impress BT Pace" size="36">What's that?</font>
+
+406
+00:24:18,010 --> 00:24:18,940
+<font face="Impress BT Pace" size="36">Lemme see.</font>
+
+407
+00:24:27,450 --> 00:24:29,780
+<font face="Impress BT Pace" size="36">{Hawk-Eye! Why the hell are [/i1]you[/i0] here?! - OG}Hawk Eye! What're you doing here?!{Ohms}</font>
+
+408
+00:24:30,310 --> 00:24:33,710
+<font face="Impress BT Pace" size="36">{Calm down. I have no business with you. - OG}Calm down. I have
+no qualms with you.{Ohms}</font>
+
+409
+00:24:33,710 --> 00:24:35,780
+<font face="Impress BT Pace" size="36">{Where is your leader? - OG}Where is your boss?{Ohms}</font>
+
+410
+00:24:37,770 --> 00:24:42,080
+<font face="Impress BT Pace" size="36">{Camping on an island like this...
+What a carefree man. - OG}{Camping out on an island
+like this... How carefree. - Ohms}Camping out on an island like this...
+What a carefree man.{Z}</font>
+
+411
+00:24:44,510 --> 00:24:48,380
+<font face="Impress BT Pace" size="36">B-B-Boss!</font>
+
+412
+00:24:58,010 --> 00:25:01,060
+<font face="Impress BT Pace" size="36">{H-H-Hawk-Eye! - OG}I-I-It's Hawk Eye!{Ohms}</font>
+
+413
+00:25:05,560 --> 00:25:09,450
+<font face="Impress BT Pace" size="36">{Hey there, Hawk-Eye.
+What a rare visitor... - OG}Hey there, Hawk Eye.
+This is unexpected...{Ohms}</font>
+
+414
+00:25:10,230 --> 00:25:14,530
+<font face="Impress BT Pace" size="36">{I'm not feelin' so good at the moment...
+Have you come to fight me? - OG}{You caught me at a bad time...
+Have you come here to challenge me? - Ohms}I'm not feeling my best right now...
+Have you come looking to fight?{Z}</font>
+
+415
+00:25:15,730 --> 00:25:18,230
+<font face="Impress BT Pace" size="36">{I don't have any intention
+of settling things with you - OG}{I have no intention of settling our duel; - Ohms}I have no intention of
+settling our grievances...{Z}</font>
+
+416
+00:25:18,230 --> 00:25:20,490
+<font face="Impress BT Pace" size="36">{now that you've lost your left arm. - OG}now that you're missing your left arm.{Ohms}</font>
+
+417
+00:25:22,210 --> 00:25:24,860
+<font face="Impress BT Pace" size="36">{I found an interesting pirate, - OG}I encountered an interesting pirate...{Ohms}</font>
+
+418
+00:25:24,860 --> 00:25:27,880
+<font face="Impress BT Pace" size="36">and was suddenly reminded
+of a story you used to tell.{OG}{he reminded me of
+a story you told me once. - Ohms}</font>
+
+419
+00:25:29,070 --> 00:25:33,300
+<font face="Impress BT Pace" size="36">A story about an interesting boy
+from a certain small village...{OG}{It was about a boy
+from some small village. - Ohms}</font>
+
+420
+00:25:34,260 --> 00:25:35,050
+<font face="Impress BT Pace" size="36">You don't mean...!</font>
+
+421
+00:25:42,410 --> 00:25:44,730
+<font face="Impress BT Pace" size="36">So you've made it, Luffy!</font>
+
+422
+00:25:46,560 --> 00:25:49,440
+<font face="Roboto" size="44"><b><font size="25">Captain "Red-Haired" Shanks
+Red Hair Pirates</font></b></font>
+
+423
+00:25:47,430 --> 00:25:49,440
+<font face="Impress BT Pace" size="36">In that case, Hawk Eye...</font>
+
+424
+00:25:52,210 --> 00:25:55,550
+<font face="Impress BT Pace" size="36">I can't just let you leave now.{OG}{I can't just let you leave. - Ohms}</font>
+
+425
+00:26:01,330 --> 00:26:03,190
+<font face="Impress BT Pace" size="36">That so, Hawk Eye?!{OG}{Isn't that right, Hawk Eye?! - Ohms}</font>
+
+426
+00:26:03,190 --> 00:26:07,250
+<font face="Impress BT Pace" size="36">Okay! Drink up! Drink up!
+Today's a celebration!{OG}{Right! Now drink up!
+It's time to celebrate! - Ohms}</font>
+
+427
+00:26:07,890 --> 00:26:09,380
+<font face="Impress BT Pace" size="36">{I thought you had a hangover? - OG}Did you not have a hangover?{Z}</font>
+
+428
+00:26:09,380 --> 00:26:11,870
+<font face="Impress BT Pace" size="36">Don't sweat it! It's a celebratory drink!{OG}{Don't sweat it! There's always
+room to make a toast! - Ohms}</font>
+
+429
+00:26:11,870 --> 00:26:13,360
+<font face="Impress BT Pace" size="36">C'mon, now! C'mon, now!</font>
+
+430
+00:26:13,360 --> 00:26:16,930
+<font face="Impress BT Pace" size="36">{Just drink it straight down! - OG}Just gulp it straight down!{Ohms}</font>
+
+431
+00:26:18,570 --> 00:26:21,050
+<font face="Impress BT Pace" size="36">{I like ya!
+Let's drink! Let's drink! - OG}{That's the way! Let's drink!
+Down the hatch! - Ohms}You ain't half bad!
+Let's drink! Let's drink!{Z}</font>
+
+432
+00:26:21,050 --> 00:26:22,100
+<font face="Impress BT Pace" size="36">Yeah!</font>
+
+433
+00:26:22,100 --> 00:26:23,350
+<font face="Impress BT Pace" size="36">But, wait! Boss!</font>
+
+434
+00:26:23,350 --> 00:26:26,900
+<font face="Impress BT Pace" size="36">{You said you felt sick 'cause you drank too much! - OG}You said you felt sick 'cause
+you drank too much before!{Ohms}</font>
+
+435
+00:26:26,900 --> 00:26:30,460
+<font face="Impress BT Pace" size="36">{You idiot! I can't [/i1]not[/i0] drink on a joyous day like today! - OG}You dolt! How could I <i>not</i> drink
+on a joyous day like today!{Ohms}</font>
+
+436
+00:26:30,460 --> 00:26:31,840
+<font face="Impress BT Pace" size="36">{The sun is still high. - OG}The sun's still up.{Ohms}</font>
+
+437
+00:26:31,840 --> 00:26:33,570
+<font face="Impress BT Pace" size="36">Don't sweat it!</font>
+
+438
+00:26:34,290 --> 00:26:35,990
+<font face="Impress BT Pace" size="36">{Let's party hard! - OG}{Let's party! - Ohms}Let's throw a party!{Z}</font>
+
+439
+00:26:40,990 --> 00:26:44,020
+<font face="Impress BT Pace" size="36">Hey! Luffy's a wanted man now!</font>
+
+440
+00:26:44,020 --> 00:26:45,870
+<font face="Impress BT Pace" size="36">Good for him!</font>
+
+441
+00:26:45,870 --> 00:26:48,950
+<font face="Impress BT Pace" size="36">{Who knows, maybe a great pirate
+will've come from this village! - OG}{This village might become known for
+being the home of a famous pirate! - Ohms}Y'know, this village might just
+produce a great pirate!{Z}</font>
+
+442
+00:26:48,950 --> 00:26:50,420
+<font face="Impress BT Pace" size="36">That'd be great!</font>
+
+443
+00:26:50,420 --> 00:26:53,270
+<font face="Impress BT Pace" size="36">{Quiet, you fools! - OG}{Quiet, you miscreants! - Ohms}Quiet, you knuckleheads!{Z}</font>
+
+444
+00:26:53,270 --> 00:26:54,090
+<font face="Impress BT Pace" size="36">{Mayor! - OG}Mr. Mayor!{Z}</font>
+
+445
+00:26:54,590 --> 00:26:58,050
+<font face="Impress BT Pace" size="36">What's so good about a criminal
+coming from our village?!{OG}{What's so good about a criminal
+hailing from our village?! - Ohms}</font>
+
+446
+00:26:58,050 --> 00:27:00,010
+<font face="Impress BT Pace" size="36">A toast!</font>
+
+447
+00:27:01,970 --> 00:27:05,010
+<font face="Impress BT Pace" size="36">Honestly! Every last one of them...!</font>
+
+448
+00:27:07,030 --> 00:27:10,140
+<font face="Impress BT Pace" size="36">{Look, Mayor! Luffy looks so happy! - OG}Come on, Mayor!
+Luffy looks so happy here!{Ohms}</font>
+
+449
+00:27:10,480 --> 00:27:12,770
+<font face="Impress BT Pace" size="36">A pirate's a pirate!</font>
+
+450
+00:27:14,690 --> 00:27:17,320
+<font face="Impress BT Pace" size="36"><i>I'm gonna be King of the Pirates!</i></font>
+
+451
+00:27:17,730 --> 00:27:22,950
+<font face="Impress BT Pace" size="36">{But it [/i1]is[/i0] his dream. Are you worried? - OG}Sure, but it's his dream.
+Does that worry you?{Ohms}</font>
+
+452
+00:27:24,530 --> 00:27:27,780
+<font face="Impress BT Pace" size="36">{Dreams... Fate... - OG}His dream... or fate?{Ohms}</font>
+
