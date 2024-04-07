@@ -21,8 +21,12 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
+      - name: Checkout subtitles repo
+        uses: actions/checkout@v4
         with:
-          submodules: true
+          repository: one-pace/one-pace-public-subtitles
+          path: scripts/subtitles
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
