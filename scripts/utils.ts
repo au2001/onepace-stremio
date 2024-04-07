@@ -88,7 +88,11 @@ export const saveVideo = (arc: Arc, newVideo: Video, video?: Video) => {
       updated = true;
     }
 
-    if (updated) {
+    if (
+      updated &&
+      newVideo.released !== undefined &&
+      video.released !== undefined
+    ) {
       console.log(
         `Update: ${arc.invariant_title} episode ${video.episode} "${video.title}" metadata changed.`,
       );
