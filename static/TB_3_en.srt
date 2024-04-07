@@ -20,7 +20,7 @@
 
 6
 00:00:23,480 --> 00:00:29,020
-<font face="Impress BT" size="34">{\an1}Translation & initial timing
+<font face="Impress BT" size="34">Translation & initial timing
 <font size="40">Vegapunk Fansubs</font></font>
 
 7
@@ -33,7 +33,7 @@
 
 9
 00:00:29,400 --> 00:00:34,510
-<font face="Impress BT" size="34">{\an1}Timing
+<font face="Impress BT" size="34">Timing
 <font size="40">Galaxy 9000</font></font>
 
 10
@@ -42,7 +42,7 @@
 
 11
 00:00:35,580 --> 00:00:40,740
-<font face="Impress BT" size="34">{\an1}Quality checking
+<font face="Impress BT" size="34">Quality checking
 <font size="40">Sewil
 Galaxy 9000
 Halee</font></font>
@@ -53,12 +53,12 @@ Halee</font></font>
 
 13
 00:00:40,910 --> 00:00:44,130
-<font face="Impress BT" size="34">{\an1}Soundtracking
+<font face="Impress BT" size="34">Soundtracking
 <font size="40">Halee</font></font>
 
 14
 00:00:44,290 --> 00:00:47,500
-<font face="Impress BT" size="34">{\an1}Editing
+<font face="Impress BT" size="34">Editing
 <font size="40">Sewil</font></font>
 
 15
@@ -75,7 +75,7 @@ Halee</font></font>
 
 18
 00:00:57,220 --> 00:01:01,500
-<font face="Impress BT" size="34">{\an1}Raw providing
+<font face="Impress BT" size="34">Raw providing
 <font size="40">SOFCJ-Raws</font></font>
 
 19
@@ -156,7 +156,7 @@ Halee</font></font>
 
 38
 00:02:29,930 --> 00:02:36,950
-<font face="impress bt" size="63" color="#fefefe"><b>{\an5}The Invisible Man and
+<font face="impress bt" size="63" color="#fefefe"><b>The Invisible Man and
 the Secret of the Mansion!</b></font>
 
 39
@@ -450,7 +450,7 @@ Doctor Hogback</font>
 
 111
 00:05:47,190 --> 00:05:51,360
-<font face="Impress BT" size="55">We were attacked by zombies in the graveyard, and we ran here! {Maybe like this: "We were attacked by zombies in the graveyard and ran here!"}</font>
+<font face="Impress BT" size="55">We were attacked by zombies in the graveyard, and we ran here! </font>
 
 112
 00:05:51,360 --> 00:05:52,770
@@ -730,7 +730,7 @@ Doctor Hogback</font>
 
 181
 00:09:34,850 --> 00:09:36,390
-<font face="Impress BT" size="55">I don't like that forest, nor the graves! {The line is too long for the sub, but how about "I don't like neither the forest, nor the graves!". Also, I believe Chopper is saying something like "Neither the forest nor the graves!", so we could use that too as continuation of the previous line.}</font>
+<font face="Impress BT" size="55">I don't like that forest, nor the graves! </font>
 
 182
 00:09:36,700 --> 00:09:38,940
@@ -999,7 +999,7 @@ Luffy and the Others</font>
 
 248
 00:12:39,740 --> 00:12:41,810
-<font face="Impress BT" size="55">You can even share some of my bento! {Zoro share Luffy's bento with Luffy? -_-} {Also, it should probably be "You can even share some of my bento!", with the respective changes}</font>
+<font face="Impress BT" size="55">You can even share some of my bento!  </font>
 
 249
 00:12:48,420 --> 00:12:50,770
@@ -1219,7 +1219,7 @@ Luffy and the Others</font>
 
 303
 00:15:29,020 --> 00:15:30,940
-<font face="Impress BT" size="55">I was looking for a bride. {you need to readd him saying hogback's name}{}{}{}</font>
+<font face="Impress BT" size="55">I was looking for a bride. </font>
 
 304
 00:15:31,470 --> 00:15:34,620
@@ -2133,7 +2133,7 @@ mysterious underground dwellers!</font>
 
 531
 00:28:13,750 --> 00:28:16,090
-<font face="Impress BT" size="55">This week's me is just completely worthless. {Should it really remain "This week's me", instead of "This week I'm"?}</font>
+<font face="Impress BT" size="55">This week's me is just completely worthless. </font>
 
 532
 00:28:16,090 --> 00:28:18,120
@@ -2513,7 +2513,7 @@ mysterious underground dwellers!</font>
 
 626
 00:33:38,100 --> 00:33:40,710
-<font face="Impress BT" size="55">It's true! You're missing your shadow too, old man? {Can reorder the sentence to "Old man, you're missing your shadow too?"}</font>
+<font face="Impress BT" size="55">It's true! You're missing your shadow too, old man? </font>
 
 627
 00:33:40,710 --> 00:33:42,980

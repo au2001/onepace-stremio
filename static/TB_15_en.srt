@@ -20,7 +20,7 @@
 
 6
 00:00:23,420 --> 00:00:28,940
-<font face="Times New Roman" size="34">{\an1}Translation & initial syncing
+<font face="Times New Roman" size="34">Translation & initial syncing
 <font size="40">Vegapunk Fansubs</font></font>
 
 7
@@ -33,7 +33,7 @@
 
 9
 00:00:29,360 --> 00:00:34,480
-<font face="Times New Roman" size="34">{\an1}Syncing
+<font face="Times New Roman" size="34">Syncing
 <font size="40">Galaxy 9000
 
 </font>Sync-checking
@@ -45,7 +45,7 @@
 
 11
 00:00:35,560 --> 00:00:40,690
-<font face="Times New Roman" size="34">{\an1}Quality-checking
+<font face="Times New Roman" size="34">Quality-checking
 <font size="40">Sewil
 Galaxy 9000
 Feeso</font></font>
@@ -56,12 +56,12 @@ Feeso</font></font>
 
 13
 00:00:40,900 --> 00:00:44,070
-<font face="Times New Roman" size="34">{\an1}Video editing
+<font face="Times New Roman" size="34">Video editing
 <font size="40">Sewil</font></font>
 
 14
 00:00:44,240 --> 00:00:47,440
-<font face="Times New Roman" size="34">{\an1}Soundtracking
+<font face="Times New Roman" size="34">Soundtracking
 <font size="40">Halee</font></font>
 
 15
@@ -74,7 +74,7 @@ Feeso</font></font>
 
 17
 00:00:52,980 --> 00:00:56,820
-<font face="Times New Roman" size="34">{\an1}Raw provider
+<font face="Times New Roman" size="34">Raw provider
 <font size="40">SOFCJ-Raws</font></font>
 
 18
@@ -159,7 +159,7 @@ Feeso</font></font>
 
 38
 00:02:29,880 --> 00:02:32,930
-<font face="impress bt" size="63" color="#fefefe"><b>{\an5}Clash!
+<font face="impress bt" size="63" color="#fefefe"><b>Clash!
 The Titanic Battle Against Zombie 900!</b></font>
 
 39
@@ -1208,7 +1208,7 @@ The Titanic Battle Against Zombie 900!</b></font>
 
 300
 00:16:06,110 --> 00:16:07,980
-<font face="Impress BT" size="38"><i>{\an8}Air Army</i></font>
+<font face="Impress BT" size="38"><i>Air Army</i></font>
 
 301
 00:16:09,260 --> 00:16:11,820
@@ -1224,7 +1224,7 @@ The Titanic Battle Against Zombie 900!</b></font>
 
 304
 00:16:21,990 --> 00:16:23,560
-<font face="Impress BT" size="38"><i>{\an8}One Hundred Flowers</i></font>
+<font face="Impress BT" size="38"><i>One Hundred Flowers</i></font>
 
 305
 00:16:27,840 --> 00:16:29,070

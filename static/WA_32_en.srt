@@ -7,12 +7,12 @@ https://mpv.io</font>
 
 2
 00:00:00,020 --> 00:00:05,860
-<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><b><font size="45">{\an8}Navy Headquarters
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><b><font size="45">Navy Headquarters
 New World</font></b></font></font>
 
 3
 00:00:00,020 --> 00:00:05,860
-<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><b><font size="45">{\an8}Navy Headquarters
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><b><font size="45">Navy Headquarters
 New World</font></b></font></font>
 
 4
@@ -21,19 +21,17 @@ New World</font></b></font></font>
 
 5
 00:00:15,750 --> 00:00:19,620
-<font face="Impress BT Pace" size="82">{The abolition of the Seven Warlords of the Sea
-was what you all really wanted...-OG}Abolishing the Seven Warlords
-was what you all wanted.{WF}</font>
+<font face="Impress BT Pace" size="82">Abolishing the Seven Warlords
+was what you all wanted.</font>
 
 6
 00:00:20,000 --> 00:00:24,840
-<font face="Impress BT Pace" size="82">{I was against it,
-but the leaders' decision can't be reversed.-OG}I was against it, but we must abide
-by the sovereigns' decision.{WF+Gaijin}</font>
+<font face="Impress BT Pace" size="82">I was against it, but we must abide
+by the sovereigns' decision.</font>
 
 7
 00:00:24,840 --> 00:00:28,550
-<font face="Impress BT Pace" size="82">{Dammit, how can everyone be so naive?!-OG}Dammit! How can they all be so naive?!{PP}</font>
+<font face="Impress BT Pace" size="82">Dammit! How can they all be so naive?!</font>
 
 8
 00:00:28,550 --> 00:00:31,180
@@ -41,7 +39,7 @@ by the sovereigns' decision.{WF+Gaijin}</font>
 
 9
 00:00:31,180 --> 00:00:34,350
-<font face="Impress BT Pace" size="82">{And there's no escaping it?-OG}And there's no other way?{PP}</font>
+<font face="Impress BT Pace" size="82">And there's no other way?</font>
 
 10
 00:00:36,560 --> 00:00:42,020
@@ -50,9 +48,8 @@ you've never been one of them...</font>
 
 11
 00:00:42,020 --> 00:00:47,530
-<font face="Impress BT Pace" size="82">{The world where innocent weak people
-get ignored is worthless!-OG}A world where the weak and innocent
-are disregarded is worthless!{WF}</font>
+<font face="Impress BT Pace" size="82">A world where the weak and innocent
+are disregarded is worthless!</font>
 
 12
 00:00:49,700 --> 00:00:52,160
@@ -68,25 +65,22 @@ are disregarded is worthless!{WF}</font>
 
 15
 00:01:09,590 --> 00:01:15,010
-<font face="Impress BT Pace" size="82">{Let's believe in the SSG,
-the Navy's Special Science Group.-OG}Let's have faith in the SSG,
-the Navy's Special Science Group.{PP}</font>
+<font face="Impress BT Pace" size="82">Let's have faith in the SSG,
+the Navy's Special Science Group.</font>
 
 16
 00:01:17,390 --> 00:01:21,440
-<font face="Impress BT Pace" size="82">{The balance of power in the world
-is about to change drastically!-OG}The world's balance of power
-is about to shift drastically!{Z+PJ}</font>
+<font face="Impress BT Pace" size="82">The world's balance of power
+is about to shift drastically!</font>
 
 17
 00:01:23,270 --> 00:01:26,020
-<font face="Impress BT Pace" size="82">{Just how it'll change is unknown!-OG}But we don't know <i>how</i> it'll change!{WF}</font>
+<font face="Impress BT Pace" size="82">But we don't know <i>how</i> it'll change!</font>
 
 18
 00:01:27,530 --> 00:01:31,780
-<font face="Impress BT Pace" size="82">{I heard that Kaido and Big Mom
-will team up in Wano...-OG}Word is that Kaido and Big Mom
-are forming an alliance in Wano!{WF+PP}</font>
+<font face="Impress BT Pace" size="82">Word is that Kaido and Big Mom
+are forming an alliance in Wano!</font>
 
 19
 00:01:32,660 --> 00:01:33,990
@@ -166,7 +160,7 @@ are forming an alliance in Wano!{WF+PP}</font>
 
 38
 00:01:36,740 --> 00:01:39,160
-<font face="Impress BT Pace" size="82">{Does it mean the return of Rocks?!-OG}Could it mean the return of the Rocks?!{AR+WF}</font>
+<font face="Impress BT Pace" size="82">Could it mean the return of the Rocks?!</font>
 
 39
 00:01:36,740 --> 00:01:36,780
@@ -242,7 +236,7 @@ are forming an alliance in Wano!{WF+PP}</font>
 
 57
 00:01:46,250 --> 00:01:50,130
-<font face="Impress BT Pace" size="82">{Don't speak of it like it's legend or something!-OG}Don't speak of it like it's just some legend!{Z+PJ}</font>
+<font face="Impress BT Pace" size="82">Don't speak of it like it's just some legend!</font>
 
 58
 00:01:50,130 --> 00:01:52,090
@@ -250,14 +244,12 @@ are forming an alliance in Wano!{WF+PP}</font>
 
 59
 00:01:53,970 --> 00:01:59,560
-<font face="Impress BT Pace" size="82">{and a disaster that menaces us
-despite how busy we are at the moment!-OG}and it's a disaster that menaces us
-despite how preoccupied we are!{WF+Z+PJ}</font>
+<font face="Impress BT Pace" size="82">and it's a disaster that menaces us
+despite how preoccupied we are!</font>
 
 60
 00:02:01,560 --> 00:02:04,560
-<font face="Impress BT Pace" size="82">{What?! Two Emperors of the Sea
-joined forces?!-OG}What?! Two Emperors joined forces?!{rangicus}</font>
+<font face="Impress BT Pace" size="82">What?! Two Emperors joined forces?!</font>
 
 61
 00:02:05,770 --> 00:02:06,610
@@ -265,27 +257,25 @@ joined forces?!-OG}What?! Two Emperors joined forces?!{rangicus}</font>
 
 62
 00:02:06,610 --> 00:02:08,360
-<font face="Impress BT Pace" size="82">{Of all times, now?!-OG}Now of all times?!{WF}</font>
+<font face="Impress BT Pace" size="82">Now of all times?!</font>
 
 63
 00:02:08,690 --> 00:02:12,860
-<font face="Impress BT Pace" size="82">{To be precise, we got information
-that they'll team up in the days ahead...-OG}More accurately, intelligence indicates
-they'll team up in the coming days.{WF+PP+Z}</font>
+<font face="Impress BT Pace" size="82">More accurately, intelligence indicates
+they'll team up in the coming days.</font>
 
 64
 00:02:13,320 --> 00:02:19,080
-<font face="Impress BT Pace" size="82">{They haven't done any harm so far and we don't know their purpose
-or how to deal with it yet.-OG}They haven't done any harm so far and we don't know
-their objective or how to deal with it yet.{rangicus}</font>
+<font face="Impress BT Pace" size="82">They haven't done any harm so far and we don't know
+their objective or how to deal with it yet.</font>
 
 65
 00:02:19,700 --> 00:02:23,210
-<font face="Impress BT Pace" size="82">{The only thing that connects those two...-OG}The only thing that connects those two is...{PP}</font>
+<font face="Impress BT Pace" size="82">The only thing that connects those two is...</font>
 
 66
 00:02:23,210 --> 00:02:25,830
-<font face="Impress BT Pace" size="82">{is the legendary Rocks Pirates.-OG}the legendary Rocks Pirates.{PP}</font>
+<font face="Impress BT Pace" size="82">the legendary Rocks Pirates.</font>
 
 67
 00:02:27,290 --> 00:02:30,800
@@ -299,12 +289,12 @@ each other for a long time...</font>
 
 69
 00:02:36,010 --> 00:02:40,350
-<font face="Impress BT Pace" size="82">{I didn't expect such a thing would happen.-OG}I never expected such a thing
-would ever happen.{WF}</font>
+<font face="Impress BT Pace" size="82">I never expected such a thing
+would ever happen.</font>
 
 70
 00:02:40,350 --> 00:02:43,430
-<font face="Impress BT Pace" size="82">{Sengoku-san, what are the Rocks Pirates?-OG}Sengoku, who are the Rocks Pirates?{Z}</font>
+<font face="Impress BT Pace" size="82">Sengoku, who are the Rocks Pirates?</font>
 
 71
 00:02:43,430 --> 00:02:45,100
@@ -316,21 +306,18 @@ would ever happen.{WF}</font>
 
 73
 00:02:49,940 --> 00:02:55,820
-<font face="Impress BT Pace" size="82">{The Rocks Pirates were a gang of
-unique characters who gathered together...-OG}The Rocks Pirates was a crew
-of personalities who gathered together...{PP}</font>
+<font face="Impress BT Pace" size="82">The Rocks Pirates was a crew
+of personalities who gathered together...</font>
 
 74
 00:02:55,820 --> 00:03:02,160
-<font face="Impress BT Pace" size="82">{around just one money-making scheme
-on the Pirate Island of Hachinosu ages ago.-OG}for a money-making scheme
-on Pirate Island, Hachinosu, ages ago.{PP}</font>
+<font face="Impress BT Pace" size="82">for a money-making scheme
+on Pirate Island, Hachinosu, ages ago.</font>
 
 75
 00:03:06,710 --> 00:03:11,630
-<font face="Impress BT Pace" size="82">{They were all so violent, they even battled
-to the death on board their own ship.-OG}They were all so violent, they would
-even battle to the death on board their own ship.{PP}</font>
+<font face="Impress BT Pace" size="82">They were all so violent, they would
+even battle to the death on board their own ship.</font>
 
 76
 00:03:14,380 --> 00:03:17,890
@@ -338,7 +325,7 @@ even battle to the death on board their own ship.{PP}</font>
 
 77
 00:03:20,140 --> 00:03:22,180
-<font face="Impress BT Pace" size="82">{Whitebeard in his younger days!-OG}A young Whitebeard!{WF}</font>
+<font face="Impress BT Pace" size="82">A young Whitebeard!</font>
 
 78
 00:03:25,140 --> 00:03:26,480
@@ -350,13 +337,12 @@ even battle to the death on board their own ship.{PP}</font>
 
 80
 00:03:32,000 --> 00:03:33,000
-<font face="Impress BT Pace" size="82" color="#d6d6d6">Really?{PJ}</font>
+<font face="Impress BT Pace" size="82" color="#d6d6d6">Really?</font>
 
 81
 00:03:33,820 --> 00:03:39,280
-<font face="Impress BT Pace" size="82">{Those three used to be on board
-the same pirate ship.-OG}Those three used to serve
-aboard the same pirate ship.{Z}</font>
+<font face="Impress BT Pace" size="82">Those three used to serve
+aboard the same pirate ship.</font>
 
 82
 00:03:41,370 --> 00:03:43,240
@@ -373,20 +359,18 @@ aboard the same pirate ship.{Z}</font>
 
 85
 00:03:46,790 --> 00:03:51,840
-<font face="Impress BT Pace" size="82">{There are other pirates from the Rocks Pirates,
-who later became infamous.-OG}Others from the Rocks Pirates
-became infamous as well.{Z}</font>
+<font face="Impress BT Pace" size="82">Others from the Rocks Pirates
+became infamous as well.</font>
 
 86
 00:03:52,460 --> 00:03:57,970
-<font face="Impress BT Pace" size="82">{Shiki the Golden Lion who used to be a big name and even vied for supremacy in the New World.-OG}Shiki the Golden Lion, a big name
-who vied for dominance in the New World.{WF+PP}</font>
+<font face="Impress BT Pace" size="82">Shiki the Golden Lion, a big name
+who vied for dominance in the New World.</font>
 
 87
 00:03:57,970 --> 00:04:01,640
-<font face="Impress BT Pace" size="82">{There were still others like Silver Axe,
-Captain John, and Wang Zhi...-OG}There were also others like Silver Axe,
-Captain John, and Wang Zhi...{PP}</font>
+<font face="Impress BT Pace" size="82">There were also others like Silver Axe,
+Captain John, and Wang Zhi...</font>
 
 88
 00:04:01,640 --> 00:04:03,010
@@ -398,13 +382,12 @@ Captain John, and Wang Zhi...{PP}</font>
 
 90
 00:04:06,520 --> 00:04:08,940
-<font face="Impress BT Pace" size="82">{Why was such a pirate group lost to history?-OG}How was such a pirate group lost to history?{PJ}</font>
+<font face="Impress BT Pace" size="82">How was such a pirate group lost to history?</font>
 
 91
 00:04:09,560 --> 00:04:14,650
-<font face="Impress BT Pace" size="82">{One of the reasons is that
-they disliked each other so much,-OG}Firstly, they hated each other so much that they
- took no pride in publicizing their exploits.{WF+Z}</font>
+<font face="Impress BT Pace" size="82">Firstly, they hated each other so much that they
+ took no pride in publicizing their exploits.</font>
 
 92
 00:04:14,980 --> 00:04:16,150
@@ -412,26 +395,22 @@ they disliked each other so much,-OG}Firstly, they hated each other so much that
 
 93
 00:04:16,740 --> 00:04:20,450
-<font face="Impress BT Pace" size="82">{Captain Rocks had the ambition
-to become the king of the world...-OG}Captain Rocks wanted to become
-the king of the world.{WF}</font>
+<font face="Impress BT Pace" size="82">Captain Rocks wanted to become
+the king of the world.</font>
 
 94
 00:04:30,170 --> 00:04:35,090
-<font face="Impress BT Pace" size="82">{So they showed their teeth at the World
-Government as if they were a terrorist group,-OG}They began a campaign of savage
-provocation against the World Government.{Poppy}</font>
+<font face="Impress BT Pace" size="82">They began a campaign of savage
+provocation against the World Government.</font>
 
 95
 00:04:35,960 --> 00:04:40,130
-<font face="Impress BT Pace" size="82">{and the government has been
-covering up incidents since.-OG}Their terrorist acts
-too violent to suppress,{Poppy}</font>
+<font face="Impress BT Pace" size="82">Their terrorist acts
+too violent to suppress,</font>
 
 96
 00:04:41,050 --> 00:04:47,270
-<font face="Impress BT Pace" size="82">{But everyone knew how threatening
-they were at that time...-OG}the world came to fear their very name.{Poppy+Gaijin}</font>
+<font face="Impress BT Pace" size="82">the world came to fear their very name.</font>
 
 97
 00:04:47,680 --> 00:04:53,230
@@ -440,31 +419,28 @@ at God Valley thirty-eight years ago.</font>
 
 98
 00:04:53,520 --> 00:05:02,410
-<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><b><font size="60">{\an2}<font color="#f6f6f6">38 Years Ago</font></font></b></font></font>
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><b><font size="60"><font color="#f6f6f6">38 Years Ago</font></font></b></font></font>
 
 99
 00:04:53,520 --> 00:05:02,410
-<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><b><font size="60">{\an2}<font color="#f6f6f6">38 Years Ago</font></font></b></font></font>
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><b><font size="60"><font color="#f6f6f6">38 Years Ago</font></font></b></font></font>
 
 100
 00:04:54,110 --> 00:04:59,360
-<font face="Impress BT Pace" size="82">{\an8}{It was reported on the news that
-the world's strongest Rocks Pirates...-OG}The news reported that the Rocks Pirates,
-known as the world's strongest pirate crew...{PP}</font>
+<font face="Impress BT Pace" size="82">The news reported that the Rocks Pirates,
+known as the world's strongest pirate crew...</font>
 
 101
 00:04:59,360 --> 00:05:01,360
-<font face="Impress BT Pace" size="82">{\an8}{were annihilated on that island...-OG}were annihilated on that island.{PP}</font>
+<font face="Impress BT Pace" size="82">were annihilated on that island.</font>
 
 102
 00:05:36,520 --> 00:05:40,400
-<font face="Impress BT Pace" size="82">{No one could stop
-the advancement of the evil,-OG}That unstoppable force of evil was defeated...{WF}</font>
+<font face="Impress BT Pace" size="82">That unstoppable force of evil was defeated...</font>
 
 103
 00:05:40,400 --> 00:05:43,910
-<font face="Impress BT Pace" size="82">{but Navy Headquarters'
-Vice Admiral Garp was able to!-OG}by Navy Headquarters' Vice Admiral Garp!{WF}</font>
+<font face="Impress BT Pace" size="82">by Navy Headquarters' Vice Admiral Garp!</font>
 
 104
 00:05:47,030 --> 00:05:49,790
@@ -472,21 +448,18 @@ Vice Admiral Garp was able to!-OG}by Navy Headquarters' Vice Admiral Garp!{WF}</
 
 105
 00:05:49,790 --> 00:05:53,210
-<font face="Impress BT Pace" size="82">{and people started calling him
-the hero of the Navy.-OG}and people began calling him
-the Hero of the Navy.{WF}</font>
+<font face="Impress BT Pace" size="82">and people began calling him
+the Hero of the Navy.</font>
 
 106
 00:05:55,750 --> 00:06:00,760
-<font face="Impress BT Pace" size="82">{So that's the beginning of
-Vice Admiral Garp's many tales of heroism!-OG}So that's how Vice Admiral Garp
-began his many acts of heroism!{Z}</font>
+<font face="Impress BT Pace" size="82">So that's how Vice Admiral Garp
+began his many acts of heroism!</font>
 
 107
 00:06:04,260 --> 00:06:08,430
-<font face="Impress BT Pace" size="82">{There are countless tales of heroism
-involving Vice Admiral Garp,-OG}There are countless tales of valor
-involving Vice Admiral Garp,{WF}</font>
+<font face="Impress BT Pace" size="82">There are countless tales of valor
+involving Vice Admiral Garp,</font>
 
 108
 00:06:08,430 --> 00:06:14,270
@@ -507,7 +480,7 @@ yet another great episode like that!</font>
 
 112
 00:06:27,490 --> 00:06:31,250
-<font face="Impress BT Pace" size="82">{But he often refuses to talk about it.-OG}But he generally refuses to discuss it.{WF}</font>
+<font face="Impress BT Pace" size="82">But he generally refuses to discuss it.</font>
 
 113
 00:06:31,250 --> 00:06:32,960
@@ -519,14 +492,12 @@ yet another great episode like that!</font>
 
 115
 00:06:38,130 --> 00:06:43,010
-<font face="Impress BT Pace" size="82">{One of the reasons he doesn't share
-was never reported in the papers.-OG}One reason was kept out of the newspapers,{Gaijin+PP+WF}</font>
+<font face="Impress BT Pace" size="82">One reason was kept out of the newspapers,</font>
 
 116
 00:06:43,010 --> 00:06:46,970
-<font face="Impress BT Pace" size="82">{It was necessary to work alongside
-a pirate to fight that battle.-OG}but Garp had no choice but to join forces
-with a pirate in that fight.{Gaijin}</font>
+<font face="Impress BT Pace" size="82">but Garp had no choice but to join forces
+with a pirate in that fight.</font>
 
 117
 00:06:47,680 --> 00:06:48,760
@@ -534,9 +505,8 @@ with a pirate in that fight.{Gaijin}</font>
 
 118
 00:06:49,510 --> 00:06:53,770
-<font face="Impress BT Pace" size="82">{The other reason is he happened
-to save the Celestial Dragons.-OG}He also happened to save
-some Celestial Dragons.{Gaijin}</font>
+<font face="Impress BT Pace" size="82">He also happened to save
+some Celestial Dragons.</font>
 
 119
 00:06:55,020 --> 00:06:58,150
@@ -544,39 +514,34 @@ some Celestial Dragons.{Gaijin}</font>
 
 120
 00:07:01,940 --> 00:07:06,240
-<font face="Impress BT Pace" size="82">{Well, it's a marine's duty
-to protect the Celestial Dragons.-OG}Well, it <i>is</i> a marine's duty
-to protect Celestial Dragons.{Z}</font>
+<font face="Impress BT Pace" size="82">Well, it <i>is</i> a marine's duty
+to protect Celestial Dragons.</font>
 
 121
 00:07:06,240 --> 00:07:07,530
-<font face="Impress BT Pace" size="82">{What's wrong with that?!-OG}What's the issue here?{WF}</font>
+<font face="Impress BT Pace" size="82">What's the issue here?</font>
 
 122
 00:07:08,490 --> 00:07:12,080
-<font face="Impress BT Pace" size="82">{Garp's moral compass tells him
-that it's not his duty.-OG}Garp is morally opposed to fulfilling that duty.{WF}</font>
+<font face="Impress BT Pace" size="82">Garp is morally opposed to fulfilling that duty.</font>
 
 123
 00:07:12,500 --> 00:07:16,750
-<font face="Impress BT Pace" size="82">{One of the reasons that Garp refuses
-to become the admiral is...-OG}One of the reasons Garp refuses
-to become an admiral...{WF+Z}</font>
+<font face="Impress BT Pace" size="82">One of the reasons Garp refuses
+to become an admiral...</font>
 
 124
 00:07:16,750 --> 00:07:20,460
-<font face="Impress BT Pace" size="82">{because admirals are
-the Celestial Dragons' direct subordinates.-OG}is that they are the direct
-subordinates of the Celestial Dragons.{WF+Z}</font>
+<font face="Impress BT Pace" size="82">is that they are the direct
+subordinates of the Celestial Dragons.</font>
 
 125
 00:07:21,050 --> 00:07:23,970
-<font face="Impress BT Pace" size="82">{He openly shows disrespect for them,-OG}Despite openly showing contempt for them,{WF+PP}</font>
+<font face="Impress BT Pace" size="82">Despite openly showing contempt for them,</font>
 
 126
 00:07:23,970 --> 00:07:26,260
-<font face="Impress BT Pace" size="82">{but he is spared because of
-his achievements and popularity.-OG}he is saved by his feats and popularity.{WF+PP}</font>
+<font face="Impress BT Pace" size="82">he is saved by his feats and popularity.</font>
 
 127
 00:07:26,840 --> 00:07:28,840
@@ -878,7 +843,7 @@ the Rocks Pirates!</font>
 
 201
 00:07:47,360 --> 00:07:48,660
-<font face="Impress BT Pace" size="82">{Worked together with...-OG}He teamed up with...{PJ}</font>
+<font face="Impress BT Pace" size="82">He teamed up with...</font>
 
 202
 00:07:48,660 --> 00:07:49,700
@@ -886,16 +851,15 @@ the Rocks Pirates!</font>
 
 203
 00:07:49,700 --> 00:07:51,030
-<font face="Impress BT Pace" size="82">{...and fought?!-OG}...to fight?!{PJ}</font>
+<font face="Impress BT Pace" size="82">...to fight?!</font>
 
 204
 00:07:51,030 --> 00:07:54,450
-<font face="Impress BT Pace" size="82">{The Celestial Dragons and Roger and Rocks?!-OG}The Celestial Dragons, Roger, <i>and</i> Rocks?!{rangicus}</font>
+<font face="Impress BT Pace" size="82">The Celestial Dragons, Roger, <i>and</i> Rocks?!</font>
 
 205
 00:07:54,450 --> 00:07:56,710
-<font face="Impress BT Pace" size="82">{I can't believe they were all
-at the same place at the same time!-OG}They were all there at the same time?!{PP+Z}</font>
+<font face="Impress BT Pace" size="82">They were all there at the same time?!</font>
 
 206
 00:07:56,710 --> 00:07:59,830
@@ -903,7 +867,7 @@ at the same place at the same time!-OG}They were all there at the same time?!{PP
 
 207
 00:07:59,830 --> 00:08:02,710
-<font face="Impress BT Pace" size="82">{I've never heard of God Valley!-OG}I've never even <i>heard</i> of God Valley!{WF}</font>
+<font face="Impress BT Pace" size="82">I've never even <i>heard</i> of God Valley!</font>
 
 208
 00:08:03,630 --> 00:08:05,210
@@ -911,7 +875,7 @@ at the same place at the same time!-OG}They were all there at the same time?!{PP
 
 209
 00:08:07,010 --> 00:08:09,430
-<font face="Impress BT Pace" size="82">{The name, God Valley...-OG}The place called God Valley...{PP}</font>
+<font face="Impress BT Pace" size="82">The place called God Valley...</font>
 
 210
 00:08:10,510 --> 00:08:13,810
@@ -928,41 +892,36 @@ wanted to hide disappeared...</font>
 
 213
 00:08:29,990 --> 00:08:33,660
-<font face="Impress BT Pace" size="82">{Do you still wanna know about the island?-OG}Do you <i>still</i> want to hear about it?{WF}</font>
+<font face="Impress BT Pace" size="82">Do you <i>still</i> want to hear about it?</font>
 
 214
 00:08:34,540 --> 00:08:39,290
-<font face="Impress BT Pace" size="82">{Once, the ambitious Rocks tried
-to become the king of the world,-OG}Rocks was so zealous in his goal
-to become king of the world{WF}</font>
+<font face="Impress BT Pace" size="82">Rocks was so zealous in his goal
+to become king of the world</font>
 
 215
 00:08:39,290 --> 00:08:42,040
-<font face="Impress BT Pace" size="82">{but broke one too many taboos,-OG}that he broke one too many taboos,{WF}</font>
+<font face="Impress BT Pace" size="82">that he broke one too many taboos,</font>
 
 216
 00:08:42,040 --> 00:08:45,760
-<font face="Impress BT Pace" size="82">{so information regarding him
-is no longer available.-OG}so information regarding him
-no longer remains.{WF}</font>
+<font face="Impress BT Pace" size="82">so information regarding him
+no longer remains.</font>
 
 217
 00:08:46,630 --> 00:08:52,140
-<font face="Impress BT Pace" size="82">{He is only remembered by
-some Navy soldiers of our generation.-OG}He is remembered only by a handful
-of Navy marines from my generation.{Z}</font>
+<font face="Impress BT Pace" size="82">He is remembered only by a handful
+of Navy marines from my generation.</font>
 
 218
 00:08:52,550 --> 00:08:59,100
-<font face="Impress BT Pace" size="82">{Even it was a long time ago, I can't believe
-there was a man who led three pirates-OG}Even if it was a long time ago, I can't imagine
-one man leading three future emperors!{WF+Z}</font>
+<font face="Impress BT Pace" size="82">Even if it was a long time ago, I can't imagine
+one man leading three future emperors!</font>
 
 219
 00:08:59,480 --> 00:09:05,110
-<font face="Impress BT Pace" size="82">{For Roger, maybe Rocks was
-his first and strongest enemy...-OG}Rocks might have been
-Roger's first, and strongest, foe.{WF}</font>
+<font face="Impress BT Pace" size="82">Rocks might have been
+Roger's first, and strongest, foe.</font>
 
 220
 00:09:05,110 --> 00:09:08,820
@@ -971,17 +930,16 @@ had something in common.</font>
 
 221
 00:09:10,320 --> 00:09:14,620
-<font face="Impress BT Pace" size="82">{Rocks' full name is Rocks D. Xebec.-OG}Rocks' full name was Rocks D. Xebec.{WF}</font>
+<font face="Impress BT Pace" size="82">Rocks' full name was Rocks D. Xebec.</font>
 
 222
 00:09:15,280 --> 00:09:17,500
-<font face="Impress BT Pace" size="82">{Even though he has already died,-OG}He’s already passed on,{Gaijin}</font>
+<font face="Impress BT Pace" size="82">He’s already passed on,</font>
 
 223
 00:09:17,500 --> 00:09:22,830
-<font face="Impress BT Pace" size="82">{he was one of those pirates
-who have the name "D."!-OG}but he was among those pirates
-who bear the name “D.”!{Gaijin}</font>
+<font face="Impress BT Pace" size="82">but he was among those pirates
+who bear the name “D.”!</font>
 
 224
 00:09:38,010 --> 00:09:38,050
@@ -1559,9 +1517,8 @@ from thirty-eight years ago.</font>
 
 367
 00:09:49,360 --> 00:09:55,620
-<font face="Impress BT Pace" size="82">{If they really team up, we're about
-to see the world's worst pirate group.-OG}If this alliance is true, we're about to see
-the world's most dangerous group of pirates.{WF+PP+Z}</font>
+<font face="Impress BT Pace" size="82">If this alliance is true, we're about to see
+the world's most dangerous group of pirates.</font>
 
 368
 00:09:55,620 --> 00:09:59,500
@@ -1569,17 +1526,16 @@ the world's most dangerous group of pirates.{WF+PP+Z}</font>
 
 369
 00:09:59,500 --> 00:10:01,000
-<font face="Impress BT Pace" size="82">{Right, yeah,-OG}Ah, yes.{WF}</font>
+<font face="Impress BT Pace" size="82">Ah, yes.</font>
 
 370
 00:10:01,000 --> 00:10:06,920
-<font face="Impress BT Pace" size="82">{We have to decide new bounties for those
-who were stripped of their title of Warlord, too.-OG}We also have to determine new bounties for those
-who were stripped of their status as warlord.{WF+PP}</font>
+<font face="Impress BT Pace" size="82">We also have to determine new bounties for those
+who were stripped of their status as warlord.</font>
 
 371
 00:10:06,920 --> 00:10:11,130
-<font face="Impress BT Pace" size="82">{Let's go over all of their numbers.-OG}Let's review all of their numbers.{PP}</font>
+<font face="Impress BT Pace" size="82">Let's review all of their numbers.</font>
 
 372
 00:10:21,100 --> 00:10:22,980
@@ -1587,26 +1543,23 @@ who were stripped of their status as warlord.{WF+PP}</font>
 
 373
 00:10:22,980 --> 00:10:26,900
-<font face="Impress BT Pace" size="82">{who started to be called
-an Emperor of the Sea about a year ago...-OG}who started to be called
-an Emperor about a year ago...{rangicus}</font>
+<font face="Impress BT Pace" size="82">who started to be called
+an Emperor about a year ago...</font>
 
 374
 00:10:27,730 --> 00:10:32,820
-<font face="Impress BT Pace" size="82">{He recruited some powerful subordinates when he raided Impel Down two years ago,-OG}He recruited powerful subordinates
-during the raid on Impel Down two years ago,{PP+PJ}</font>
+<font face="Impress BT Pace" size="82">He recruited powerful subordinates
+during the raid on Impel Down two years ago,</font>
 
 375
 00:10:32,820 --> 00:10:36,490
-<font face="Impress BT Pace" size="82">{and now has gained control over
-the Pirate Island of Hachinosu.-OG}and now has gained control over
-Pirate Island, Hachinosu.{WF}</font>
+<font face="Impress BT Pace" size="82">and now has gained control over
+Pirate Island, Hachinosu.</font>
 
 376
 00:10:36,490 --> 00:10:41,540
-<font face="Impress BT Pace" size="82">{He's still extending his influence
-taking Whitebeard's place!-OG}<font color="#ffffff">He's still extending his influence,
-filling Whitebeard's void!{WF}</font></font>
+<font face="Impress BT Pace" size="82"><font color="#ffffff">He's still extending his influence,
+filling Whitebeard's void!</font></font>
 
 377
 00:10:43,080 --> 00:10:46,000
@@ -1626,9 +1579,8 @@ filling Whitebeard's void!{WF}</font></font>
 
 381
 00:10:58,510 --> 00:11:01,390
-<font face="Impress BT Pace" size="82">{he has only been called
-an Emperor of the Sea for six years...-OG}he has only been called
-an emperor for six years...{rangicus}</font>
+<font face="Impress BT Pace" size="82">he has only been called
+an emperor for six years...</font>
 
 382
 00:11:02,470 --> 00:11:08,230
@@ -1653,9 +1605,8 @@ and deeply trusted by his subordinates...</font>
 
 387
 00:11:15,780 --> 00:11:22,290
-<font face="Impress BT Pace" size="82"><font color="#ffffff">{and his undefeatable group has a high average
-bounty and the best balance of any groups...-OG}and with a high average bounty, his undefeated crew
-is the most well-rounded of them all.{PP}</font></font>
+<font face="Impress BT Pace" size="82"><font color="#ffffff">and with a high average bounty, his undefeated crew
+is the most well-rounded of them all.</font></font>
 
 388
 00:11:23,450 --> 00:11:26,620
@@ -1671,17 +1622,16 @@ is the most well-rounded of them all.{PP}</font></font>
 
 391
 00:11:36,260 --> 00:11:37,300
-<font face="Impress BT Pace" size="82">{Next is...-OG}Next...{WF}</font>
+<font face="Impress BT Pace" size="82">Next...</font>
 
 392
 00:11:38,300 --> 00:11:43,140
-<font face="Impress BT Pace" size="82">{She's a natural-born monster
-who allegedly destroyed the village of Elbaf-OG}As a child, this natural-born
-monster laid waste...{WF}</font>
+<font face="Impress BT Pace" size="82">As a child, this natural-born
+monster laid waste...</font>
 
 393
 00:11:43,140 --> 00:11:46,020
-<font face="Impress BT Pace" size="82">{when she was little...-OG}to a village of giants in Elbaf!{WF}</font>
+<font face="Impress BT Pace" size="82">to a village of giants in Elbaf!</font>
 
 394
 00:11:46,020 --> 00:11:48,560
@@ -1710,8 +1660,8 @@ this autocratic queen built Totto Land,</font>
 
 400
 00:12:12,710 --> 00:12:16,970
-<font face="Impress BT Pace" size="82">{And in the old Rocks Pirates,-OG}Lastly, during his time
-with the old Rocks Pirates,{Z}</font>
+<font face="Impress BT Pace" size="82">Lastly, during his time
+with the old Rocks Pirates,</font>
 
 401
 00:12:17,970 --> 00:12:21,140
@@ -1719,14 +1669,12 @@ with the old Rocks Pirates,{Z}</font>
 
 402
 00:12:22,760 --> 00:12:29,270
-<font face="Impress BT Pace" size="82">{But thereafter, he earned the respect of
-vicious pirates by his strength alone,-OG}But thereafter, he earned the respect of
-vicious pirates through strength alone,{PP}</font>
+<font face="Impress BT Pace" size="82">But thereafter, he earned the respect of
+vicious pirates through strength alone,</font>
 
 403
 00:12:29,270 --> 00:12:33,020
-<font face="Impress BT Pace" size="82"><font color="#ffffff">{and ended up being called
-an Emperor of the Sea!-OG}and attained the title of emperor!{PP+rangicus}</font></font>
+<font face="Impress BT Pace" size="82"><font color="#ffffff">and attained the title of emperor!</font></font>
 
 404
 00:12:34,150 --> 00:12:36,990
@@ -1750,9 +1698,8 @@ an Emperor of the Sea!-OG}and attained the title of emperor!{PP+rangicus}</font>
 
 409
 00:12:51,210 --> 00:12:57,170
-<font face="Impress BT Pace" size="82">{we can't deploy the Seven Warlords
-to fight these Four Emperors anymore!-OG}we can't deploy the Seven Warlords
-to fight the Four Emperors anymore!{Z}</font>
+<font face="Impress BT Pace" size="82">we can't deploy the Seven Warlords
+to fight the Four Emperors anymore!</font>
 
 410
 00:13:01,760 --> 00:13:05,760
@@ -1761,9 +1708,8 @@ was correct or not...</font>
 
 411
 00:13:06,180 --> 00:13:11,230
-<font face="Impress BT Pace" size="82">{It's up to how well SSG,
-the Navy's Special Science Group, performs.-OG}is up to how well SSG,
-the Navy's Special Science Group, performs.{PP}</font>
+<font face="Impress BT Pace" size="82">is up to how well SSG,
+the Navy's Special Science Group, performs.</font>
 
 412
 00:13:11,650 --> 00:13:14,610
@@ -1809,14 +1755,12 @@ alliance is formed,</font>
 
 422
 00:13:57,980 --> 00:14:02,280
-<font face="Impress BT Pace" size="82">{the sum of their bounties
-will surely top those numbers!-OG}the sum of their bounties
-will easily top those numbers!{WF}</font>
+<font face="Impress BT Pace" size="82">the sum of their bounties
+will easily top those numbers!</font>
 
 423
 00:14:05,660 --> 00:14:08,910
-<font face="Impress BT Pace" size="82">{But now in Wano which isn't
-affiliated with the government–-OG}Right now, in the unaffiliated Wano Country–{WF+PP}</font>
+<font face="Impress BT Pace" size="82">Right now, in the unaffiliated Wano Country–</font>
 
 424
 00:14:11,040 --> 00:14:13,290
@@ -1828,37 +1772,35 @@ affiliated with the government–-OG}Right now, in the unaffiliated Wano Country
 
 426
 00:14:17,880 --> 00:14:23,180
-<font face="Impress BT Pace" size="82">{We have no resources to put towards it,-OG}We don't have any resources
-available to send on its behalf,{Z}</font>
+<font face="Impress BT Pace" size="82">We don't have any resources
+available to send on its behalf,</font>
 
 427
 00:14:23,180 --> 00:14:25,010
-<font face="Impress BT Pace" size="82">Sengoku{-san}!</font>
+<font face="Impress BT Pace" size="82">Sengoku!</font>
 
 428
 00:14:32,020 --> 00:14:35,560
-<font face="Impress BT Pace" size="82">{Of course, I wasn't intending to get involved...-OG}Of course, I wasn't
-intending on getting involved...{Z}</font>
+<font face="Impress BT Pace" size="82">Of course, I wasn't
+intending on getting involved...</font>
 
 429
 00:14:36,020 --> 00:14:40,730
-<font face="Impress BT Pace" size="82">{I was just conveying my knowledge
-as an old soldier to young soldiers.-OG}I was just providing these young marines
-with the knowledge of a veteran.{WF+Z}</font>
+<font face="Impress BT Pace" size="82">I was just providing these young marines
+with the knowledge of a veteran.</font>
 
 430
 00:14:45,700 --> 00:14:48,990
-<font face="Impress BT Pace" size="82">{Even pirates have relationships.-OG}Pirates share histories as well.{Gaijin+AR}</font>
+<font face="Impress BT Pace" size="82">Pirates share histories as well.</font>
 
 431
 00:14:48,990 --> 00:14:52,000
-<font face="Impress BT Pace" size="82">{They have purposes for their actions.-OG}Those relationships influence their actions.{Gaijin}</font>
+<font face="Impress BT Pace" size="82">Those relationships influence their actions.</font>
 
 432
 00:14:52,000 --> 00:14:55,120
-<font face="Impress BT Pace" size="82">{You can't see what'll come next
-if you don't know history.-OG}We can't predict their movements
-if we ignore their pasts.{Gaijin+AR}</font>
+<font face="Impress BT Pace" size="82">We can't predict their movements
+if we ignore their pasts.</font>
 
 433
 00:14:55,830 --> 00:14:57,210
@@ -1880,21 +1822,18 @@ a commander on Whitebeard's ship...</font>
 
 437
 00:15:14,350 --> 00:15:21,190
-<font face="Impress BT Pace" size="82">{Oden was later headhunted by Roger
-and accompanied him on his last journey...-OG}Oden was later recruited by Roger
-and accompanied him on his final voyage.{WF}</font>
+<font face="Impress BT Pace" size="82">Oden was later recruited by Roger
+and accompanied him on his final voyage.</font>
 
 438
 00:15:21,690 --> 00:15:25,200
-<font face="Impress BT Pace" size="82">{There's no way that Oden has something
-to do with what's happening...-OG}I can't imagine Oden has anything
-to do with this mess...{WF}</font>
+<font face="Impress BT Pace" size="82">I can't imagine Oden has anything
+to do with this mess...</font>
 
 439
 00:15:31,200 --> 00:15:36,670
-<font face="Impress BT Pace" size="82">{But why do those big-time pirates
-who disturb the world...-OG}but why do all these big-time pirates
-who disrupt the world...{WF}</font>
+<font face="Impress BT Pace" size="82">but why do all these big-time pirates
+who disrupt the world...</font>
 
 440
 00:15:36,670 --> 00:15:41,880
@@ -1902,7 +1841,7 @@ who disrupt the world...{WF}</font>
 
 441
 00:15:42,590 --> 00:15:47,130
-<font face="Impress BT Pace" size="82">{I think it's too much of a coincidence...-OG}I think it's too much to be a coincidence...{WF}</font>
+<font face="Impress BT Pace" size="82">I think it's too much to be a coincidence...</font>
 
 442
 00:15:47,970 --> 00:15:48,970
@@ -1910,7 +1849,7 @@ who disrupt the world...{WF}</font>
 
 443
 00:16:16,620 --> 00:16:22,500
-<font face="FOT-Greco Std DB Strp" size="55"><b>{\an7}Video Editing:
+<font face="FOT-Greco Std DB Strp" size="55"><b>Video Editing:
  Gigglebot
 
 Timing:
@@ -1936,7 +1875,7 @@ Graphics:
 
 444
 00:16:16,620 --> 00:16:22,500
-<font face="FOT-Greco Std DB Strp" size="55"><b>{\an7}
+<font face="FOT-Greco Std DB Strp" size="55"><b>
 
 Subtitle Editing:
 AphantasticRabbit

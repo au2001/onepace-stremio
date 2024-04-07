@@ -1,16 +1,16 @@
 1
 00:00:02,410 --> 00:00:04,200
-<font face="FOT-Greco Std B" size="34">{\an1}<font size="25">Editor</font></font>
+<font face="FOT-Greco Std B" size="34"><font size="25">Editor</font></font>
 Sewil
 
 2
 00:00:04,200 --> 00:00:06,180
-<font face="FOT-Greco Std B" size="34">{\an1}<font size="25">Timer</font></font>
+<font face="FOT-Greco Std B" size="34"><font size="25">Timer</font></font>
 Sewil
 
 3
 00:00:06,180 --> 00:00:08,520
-<font face="FOT-Greco Std B" size="34">{\an1}<font size="25">Quality checker</font></font>
+<font face="FOT-Greco Std B" size="34"><font size="25">Quality checker</font></font>
 Grug, Pepperjack
 
 4
@@ -207,7 +207,7 @@ Grug, Pepperjack
 
 52
 00:03:47,660 --> 00:03:50,090
-<font face="Impress BT" size="55">{\an8}A monster? A Devil Fruit user?</font>
+<font face="Impress BT" size="55">A monster? A Devil Fruit user?</font>
 
 53
 00:03:55,910 --> 00:03:57,830
@@ -824,7 +824,7 @@ Level 4 is as easy as throwing up!</font>
 
 206
 00:15:02,850 --> 00:15:04,490
-<font face="Impress BT" size="55">Break. Out. {I don't think I understand the reason for the tlc here. It makes sense as is.}</font>
+<font face="Impress BT" size="55">Break. Out. </font>
 
 207
 00:15:04,490 --> 00:15:07,160
@@ -1030,7 +1030,7 @@ Demon Guards are gathered here!</font>
 
 257
 00:18:28,720 --> 00:18:30,740
-<font face="Impress BT" size="55">{\an8}It sure is hot down here!</font>
+<font face="Impress BT" size="55">It sure is hot down here!</font>
 
 258
 00:18:30,970 --> 00:18:32,880
@@ -1343,15 +1343,15 @@ Straw Hat Luffy and your gang!</font>
 
 335
 00:23:03,810 --> 00:23:06,030
-<font face="Impress BT" size="55">{\an8}The air is so hot, even my lungs feel hot!</font>
+<font face="Impress BT" size="55">The air is so hot, even my lungs feel hot!</font>
 
 336
 00:23:06,030 --> 00:23:08,490
-<font face="Impress BT" size="55">{\an8}Hurry up! We've gotta hurry and get out of here!</font>
+<font face="Impress BT" size="55">Hurry up! We've gotta hurry and get out of here!</font>
 
 337
 00:23:08,570 --> 00:23:10,180
-<font face="Impress BT" size="55">{\an8}Which way should we go?</font>
+<font face="Impress BT" size="55">Which way should we go?</font>
 
 338
 00:23:11,990 --> 00:23:14,710

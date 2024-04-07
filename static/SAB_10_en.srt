@@ -12,12 +12,12 @@
 
 4
 00:00:31,890 --> 00:00:37,270
-<font face="FOT-Greco Std B" size="34">{\an4}Translation
+<font face="FOT-Greco Std B" size="34">Translation
 Yibis</font>
 
 5
 00:00:31,890 --> 00:00:37,270
-<font face="FOT-Greco Std B" size="34">{\an4}Soundtracking
+<font face="FOT-Greco Std B" size="34">Soundtracking
 Halee</font>
 
 6
@@ -26,23 +26,23 @@ Halee</font>
 
 7
 00:00:37,380 --> 00:00:42,140
-<font face="FOT-Greco Std B" size="34">{\an4}Editing
+<font face="FOT-Greco Std B" size="34">Editing
 Feeso</font>
 
 8
 00:00:37,380 --> 00:00:42,140
-<font face="FOT-Greco Std B" size="34">{\an4}Infoboxes
+<font face="FOT-Greco Std B" size="34">Infoboxes
 BernieCrane</font>
 
 9
 00:00:37,380 --> 00:00:42,140
-<font face="FOT-Greco Std B" size="34">{\an4}Formatting
+<font face="FOT-Greco Std B" size="34">Formatting
 Sewil
 Datenshi</font>
 
 10
 00:00:37,380 --> 00:00:42,140
-<font face="FOT-Greco Std B" size="34">{\an4}Edit-checking
+<font face="FOT-Greco Std B" size="34">Edit-checking
 Galaxy 9000</font>
 
 11
@@ -147,7 +147,7 @@ Galaxy 9000</font>
 
 36
 00:02:53,990 --> 00:02:54,810
-<font face="Impress BT" size="38"><i>{\an8}Mutton</i></font>
+<font face="Impress BT" size="38"><i>Mutton</i></font>
 
 37
 00:02:54,990 --> 00:02:55,850
@@ -726,7 +726,7 @@ Grove 12</font>
 
 176
 00:16:45,830 --> 00:16:47,340
-<font face="Impress BT" size="38"><i>{\an8}Eighty Flower</i></font>
+<font face="Impress BT" size="38"><i>Eighty Flower</i></font>
 
 177
 00:16:47,760 --> 00:16:48,900
@@ -734,7 +734,7 @@ Grove 12</font>
 
 178
 00:16:47,760 --> 00:16:48,900
-<font face="Impress BT" size="38"><i>{\an8}Four Hands</i></font>
+<font face="Impress BT" size="38"><i>Four Hands</i></font>
 
 179
 00:16:50,180 --> 00:16:50,840
@@ -794,7 +794,7 @@ Grove 12</font>
 
 193
 00:18:01,980 --> 00:18:04,220
-<font face="Impress BT" size="38"><i>{\an8}Flambé Shot</i></font>
+<font face="Impress BT" size="38"><i>Flambé Shot</i></font>
 
 194
 00:18:10,460 --> 00:18:13,140
@@ -1472,7 +1472,7 @@ it'd be safer for us to run away right now!</font>
 
 359
 00:28:56,620 --> 00:28:58,140
-<font face="Impress BT" size="38"><i>{\an8}Twenty Flower</i></font>
+<font face="Impress BT" size="38"><i>Twenty Flower</i></font>
 
 360
 00:29:03,160 --> 00:29:05,320
