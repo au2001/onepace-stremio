@@ -1,7 +1,8 @@
 import fs from "fs/promises";
 import path from "path";
-import { Subtitle } from "./types";
-import { Arc, Episode } from "./generated/graphql";
+import ffmpeg from "fluent-ffmpeg";
+import { Subtitle, Video } from "./types";
+import { Arc } from "./generated/graphql";
 
 const LANG_CODES = {
   Deutsch: "de",
@@ -9,33 +10,51 @@ const LANG_CODES = {
   Italian: "it",
   Portugues: "pt",
 };
-const BASE_URL =
-  "https://raw.githubusercontent.com/one-pace/one-pace-public-subtitles/main/";
-const PATH = "./main/Release/Final Subs";
+const LOCAL_DIR = path.join(__dirname, "./subtitles/main/Release/Final Subs");
+const PUBLIC_URL = "https://onepace.arl.sh/";
 
 let cache: Promise<string[]> | undefined = undefined;
-export const listFiles = async (): Promise<string[]> =>
-  await (cache ??= fs.readdir(path.join(__dirname, "./subtitles/", PATH)));
+const listFiles = async (): Promise<string[]> =>
+  await (cache ??= fs.readdir(LOCAL_DIR));
 
-export const getSubtitles = async (arc: Arc, episode: Episode) => {
-  const filter = ` ${arc.invariant_title} ${episode.part.toString().padStart(2, "0")} `;
-
-  return (await listFiles()).flatMap<Subtitle>((file) => {
-    if (!file.includes(filter) || !file.endsWith(".ass")) return [];
-
-    const lang = file.match(/] ([^\[\]]+)\.ass$/)?.[1] ?? "English";
-    if (!(lang in LANG_CODES)) {
-      throw new Error(
-        `Unknown subtitle language ${lang} for ${arc.invariant_title} ${episode.part}`,
-      );
-    }
-
-    const url = path.join(BASE_URL, encodeURI(PATH), encodeURI(file));
-
-    return {
-      id: file,
-      lang: LANG_CODES[lang as keyof typeof LANG_CODES],
-      url: url,
-    };
+const convert = async (input: string, output: string) =>
+  await new Promise((resolve, reject) => {
+    ffmpeg()
+      .input(path.join(LOCAL_DIR, input))
+      .output(path.join(__dirname, "..", output))
+      .on("error", reject)
+      .on("end", resolve)
+      .run();
   });
+
+export const getSubtitles = async (arc: Arc, video: Video) => {
+  const filter = ` ${arc.invariant_title} ${video.episode.toString().padStart(2, "0")} `;
+  const langs = new Set<string>();
+
+  let subtitles: Subtitle[] = [];
+
+  for (const input of await listFiles()) {
+    if (!input.endsWith(".ass") || !input.includes(filter)) continue;
+
+    const langName = input.match(/] ([^\[\]]+)\.ass$/)?.[1] ?? "English";
+    if (!(langName in LANG_CODES))
+      throw new Error(`Unknown subtitle language ${langName} for ${video.id}`);
+
+    const lang = LANG_CODES[langName as keyof typeof LANG_CODES];
+    if (langs.has(lang)) continue;
+    langs.add(lang);
+
+    const id = `${video.id}_${lang}`;
+    const output = path.join("./static/", `${id}.srt`);
+
+    await convert(input, output);
+
+    subtitles.push({
+      id,
+      lang,
+      url: new URL(output, PUBLIC_URL).toString(),
+    });
+  }
+
+  return subtitles;
 };

@@ -117,7 +117,7 @@ export const getVideo = async (
     const stream: Stream = {
       infoHash,
       fileIdx,
-      subtitles: await getSubtitles(arc, episode),
+      subtitles: await getSubtitles(arc, video),
     };
 
     return [video, stream];

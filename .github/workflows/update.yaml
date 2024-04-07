@@ -30,6 +30,9 @@ jobs:
           cache: npm
           node-version: lts/*
 
+      - name: Setup FFmpeg
+        uses: federicocarboni/setup-ffmpeg@v3
+
       - name: Install dependencies
         run: npm ci
 
