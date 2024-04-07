@@ -44,7 +44,7 @@ jobs:
         id: scrape
         run: |
           echo "message<<EOF" >> "$GITHUB_OUTPUT"
-          npm run --silent scrape >> "$GITHUB_OUTPUT"
+          npm run --silent scrape | sed 's/$/<br>/g' >> "$GITHUB_OUTPUT"
           echo "EOF" >> "$GITHUB_OUTPUT"
 
       - name: Commit changes
