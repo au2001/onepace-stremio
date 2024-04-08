@@ -5,11 +5,18 @@ import { Subtitle, Video } from "./types";
 import { Arc } from "./generated/graphql";
 
 const LANG_CODES = {
-  Deutsch: "de",
-  English: "en",
-  Italian: "it",
-  Portugues: "pt",
+  Arabic: "ara",
+  Deutsch: "ger",
+  German: "ger",
+  English: "eng",
+  French: "fre",
+  Italian: "ita",
+  Japanese: "jpn",
+  Portugues: "por",
+  Portuguese: "por",
+  Spanish: "spa",
 };
+
 const LOCAL_DIR = path.join(__dirname, "./subtitles/main/Release/Final Subs");
 const PUBLIC_URL = "https://onepace.arl.sh/";
 

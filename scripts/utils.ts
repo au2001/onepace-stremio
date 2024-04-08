@@ -146,6 +146,14 @@ export const saveStream = async (
         (lang) => !newSubtitles.has(lang),
       );
       if (removedSubtitles.length !== 0) {
+        await Promise.all(removedSubtitles.map(async (lang) => {
+          try {
+            await fs.unlink(`static/${video.id}_${lang}.srt`);
+          } catch (e: any) {
+            if (!("code" in e) || e.code !== "ENOENT") throw e;
+          }
+        }));
+
         console.error(
           `${video.id} subtitles removed in ${removedSubtitles.join(", ")}`,
         );
