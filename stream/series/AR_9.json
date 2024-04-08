@@ -5,9 +5,9 @@
       "fileIdx": 8,
       "subtitles": [
         {
-          "id": "AR_9_en",
-          "lang": "en",
-          "url": "https://onepace.arl.sh/static/AR_9_en.srt"
+          "id": "AR_9_eng",
+          "lang": "eng",
+          "url": "https://onepace.arl.sh/static/AR_9_eng.srt"
         }
       ]
     }

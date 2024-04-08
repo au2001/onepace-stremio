@@ -5,19 +5,19 @@
       "fileIdx": 1,
       "subtitles": [
         {
-          "id": "OR_3_de",
-          "lang": "de",
-          "url": "https://onepace.arl.sh/static/OR_3_de.srt"
+          "id": "OR_3_ger",
+          "lang": "ger",
+          "url": "https://onepace.arl.sh/static/OR_3_ger.srt"
         },
         {
-          "id": "OR_3_pt",
-          "lang": "pt",
-          "url": "https://onepace.arl.sh/static/OR_3_pt.srt"
+          "id": "OR_3_por",
+          "lang": "por",
+          "url": "https://onepace.arl.sh/static/OR_3_por.srt"
         },
         {
-          "id": "OR_3_en",
-          "lang": "en",
-          "url": "https://onepace.arl.sh/static/OR_3_en.srt"
+          "id": "OR_3_eng",
+          "lang": "eng",
+          "url": "https://onepace.arl.sh/static/OR_3_eng.srt"
         }
       ]
     }

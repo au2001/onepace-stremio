@@ -5,9 +5,9 @@
       "fileIdx": 9,
       "subtitles": [
         {
-          "id": "PH_10_en",
-          "lang": "en",
-          "url": "https://onepace.arl.sh/static/PH_10_en.srt"
+          "id": "PH_10_eng",
+          "lang": "eng",
+          "url": "https://onepace.arl.sh/static/PH_10_eng.srt"
         }
       ]
     }

@@ -5,9 +5,9 @@
       "fileIdx": 1,
       "subtitles": [
         {
-          "id": "PEN_2_en",
-          "lang": "en",
-          "url": "https://onepace.arl.sh/static/PEN_2_en.srt"
+          "id": "PEN_2_eng",
+          "lang": "eng",
+          "url": "https://onepace.arl.sh/static/PEN_2_eng.srt"
         }
       ]
     }

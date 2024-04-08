@@ -5,14 +5,14 @@
       "fileIdx": 1,
       "subtitles": [
         {
-          "id": "SY_2_de",
-          "lang": "de",
-          "url": "https://onepace.arl.sh/static/SY_2_de.srt"
+          "id": "SY_2_ger",
+          "lang": "ger",
+          "url": "https://onepace.arl.sh/static/SY_2_ger.srt"
         },
         {
-          "id": "SY_2_en",
-          "lang": "en",
-          "url": "https://onepace.arl.sh/static/SY_2_en.srt"
+          "id": "SY_2_eng",
+          "lang": "eng",
+          "url": "https://onepace.arl.sh/static/SY_2_eng.srt"
         }
       ]
     }

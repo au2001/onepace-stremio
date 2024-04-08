@@ -5,9 +5,9 @@
       "fileIdx": 3,
       "subtitles": [
         {
-          "id": "LR_4_en",
-          "lang": "en",
-          "url": "https://onepace.arl.sh/static/LR_4_en.srt"
+          "id": "LR_4_eng",
+          "lang": "eng",
+          "url": "https://onepace.arl.sh/static/LR_4_eng.srt"
         }
       ]
     }

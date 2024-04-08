@@ -4,9 +4,9 @@
       "infoHash": "86fbff72e60cf50f347b9c30308c64f966e664a5",
       "subtitles": [
         {
-          "id": "EN_1_en",
-          "lang": "en",
-          "url": "https://onepace.arl.sh/static/EN_1_en.srt"
+          "id": "EN_1_eng",
+          "lang": "eng",
+          "url": "https://onepace.arl.sh/static/EN_1_eng.srt"
         }
       ]
     }

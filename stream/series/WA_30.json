@@ -4,9 +4,9 @@
       "infoHash": "e8cca1f69b748d85fd6a5f3eba2701ef6220cfb8",
       "subtitles": [
         {
-          "id": "WA_30_en",
-          "lang": "en",
-          "url": "https://onepace.arl.sh/static/WA_30_en.srt"
+          "id": "WA_30_eng",
+          "lang": "eng",
+          "url": "https://onepace.arl.sh/static/WA_30_eng.srt"
         }
       ]
     }

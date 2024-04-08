@@ -4,19 +4,19 @@
       "infoHash": "a80390cd2b04c68811c6b139929dd5ac512a403c",
       "subtitles": [
         {
-          "id": "BA_3_de",
-          "lang": "de",
-          "url": "https://onepace.arl.sh/static/BA_3_de.srt"
+          "id": "BA_3_ger",
+          "lang": "ger",
+          "url": "https://onepace.arl.sh/static/BA_3_ger.srt"
         },
         {
-          "id": "BA_3_en",
-          "lang": "en",
-          "url": "https://onepace.arl.sh/static/BA_3_en.srt"
+          "id": "BA_3_eng",
+          "lang": "eng",
+          "url": "https://onepace.arl.sh/static/BA_3_eng.srt"
         },
         {
-          "id": "BA_3_it",
-          "lang": "it",
-          "url": "https://onepace.arl.sh/static/BA_3_it.srt"
+          "id": "BA_3_ita",
+          "lang": "ita",
+          "url": "https://onepace.arl.sh/static/BA_3_ita.srt"
         }
       ]
     }

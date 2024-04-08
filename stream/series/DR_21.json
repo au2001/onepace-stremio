@@ -5,9 +5,9 @@
       "fileIdx": 20,
       "subtitles": [
         {
-          "id": "DR_21_en",
-          "lang": "en",
-          "url": "https://onepace.arl.sh/static/DR_21_en.srt"
+          "id": "DR_21_eng",
+          "lang": "eng",
+          "url": "https://onepace.arl.sh/static/DR_21_eng.srt"
         }
       ]
     }

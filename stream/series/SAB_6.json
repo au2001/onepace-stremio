@@ -5,9 +5,9 @@
       "fileIdx": 5,
       "subtitles": [
         {
-          "id": "SAB_6_en",
-          "lang": "en",
-          "url": "https://onepace.arl.sh/static/SAB_6_en.srt"
+          "id": "SAB_6_eng",
+          "lang": "eng",
+          "url": "https://onepace.arl.sh/static/SAB_6_eng.srt"
         }
       ]
     }

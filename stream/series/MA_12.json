@@ -5,9 +5,9 @@
       "fileIdx": 11,
       "subtitles": [
         {
-          "id": "MA_12_en",
-          "lang": "en",
-          "url": "https://onepace.arl.sh/static/MA_12_en.srt"
+          "id": "MA_12_eng",
+          "lang": "eng",
+          "url": "https://onepace.arl.sh/static/MA_12_eng.srt"
         }
       ]
     }

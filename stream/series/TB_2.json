@@ -5,9 +5,9 @@
       "fileIdx": 1,
       "subtitles": [
         {
-          "id": "TB_2_en",
-          "lang": "en",
-          "url": "https://onepace.arl.sh/static/TB_2_en.srt"
+          "id": "TB_2_eng",
+          "lang": "eng",
+          "url": "https://onepace.arl.sh/static/TB_2_eng.srt"
         }
       ]
     }
