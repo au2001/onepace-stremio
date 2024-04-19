@@ -646,7 +646,7 @@
         "episode": 16,
         "id": "AL_16",
         "title": "Unreleased",
-        "thumbnail": "https://onepace.net/images/episodes/cover-arabasta-16.webp"
+        "thumbnail": "https://onepace.net/images/unreleased-placeholder-16x9.jpg"
       },
       {
         "season": 14,
@@ -3922,6 +3922,14 @@
         "thumbnail": "https://onepace.net/images/episodes/cover-egghead-05.webp",
         "overview": "Lilith takes the Sunny and its remaining crew to the laboratory in the clouds, where a new threat lurking within its corridors attacks unexpectedly. As the battle ensues, Vegapunk's satellites look on with excitement.",
         "released": "2024-03-22T00:00:00.000Z"
+      },
+      {
+        "season": 36,
+        "episode": 6,
+        "id": "EH_6",
+        "title": "The Will of Ohara",
+        "thumbnail": "https://onepace.net/images/episodes/cover-egghead-06.webp",
+        "released": "2024-04-19T00:00:00.000Z"
       }
     ]
   }
