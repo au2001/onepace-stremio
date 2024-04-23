@@ -2,7 +2,13 @@
   "streams": [
     {
       "infoHash": "2b45ebd651777a757b1e8d35660b4d96a0ee4021",
-      "subtitles": []
+      "subtitles": [
+        {
+          "id": "SK_11_eng",
+          "lang": "eng",
+          "url": "https://onepace.arl.sh/static/SK_11_eng.srt"
+        }
+      ]
     }
   ]
 }
