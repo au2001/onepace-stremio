@@ -7,63 +7,63 @@ https://mpv.io</font>
 
 2
 00:00:01,730 --> 00:00:03,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Video Editing</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Video Editing</font></b></font>
 
 3
 00:00:01,730 --> 00:00:03,730
-<font face="FOT-Greco Std B Strp" size="22"><b>Video Editing</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Video Editing</b></font>
 
 4
 00:00:01,730 --> 00:00:03,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Feeso</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Feeso</font></b></font>
 
 5
 00:00:01,730 --> 00:00:03,730
-<font face="FOT-Greco Std B Strp" size="22"><b>Feeso</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Feeso</b></font>
 
 6
 00:00:03,730 --> 00:00:05,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Timing</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Timing</font></b></font>
 
 7
 00:00:03,730 --> 00:00:05,730
-<font face="FOT-Greco Std B Strp" size="22"><b>Timing</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Timing</b></font>
 
 8
 00:00:03,730 --> 00:00:05,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Lance</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Lance</font></b></font>
 
 9
 00:00:03,730 --> 00:00:05,730
-<font face="FOT-Greco Std B Strp" size="22"><b>Lance</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Lance</b></font>
 
 10
 00:00:03,730 --> 00:00:05,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Typesetting</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Typesetting</font></b></font>
 
 11
 00:00:03,730 --> 00:00:05,730
-<font face="FOT-Greco Std B Strp" size="22"><b>Typesetting</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Typesetting</b></font>
 
 12
 00:00:03,730 --> 00:00:05,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000"></font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000"></font></b></font>
 
 13
 00:00:03,730 --> 00:00:05,730
-<font face="FOT-Greco Std B Strp" size="22"><b></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}</b></font>
 
 14
 00:00:05,730 --> 00:00:09,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Quality Control</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Quality Control</font></b></font>
 
 15
 00:00:05,730 --> 00:00:09,730
-<font face="FOT-Greco Std B Strp" size="22"><b>Quality Control</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Quality Control</b></font>
 
 16
 00:00:05,730 --> 00:00:09,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Galaxy 9000
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Galaxy 9000
 Grug
 Mr. Luffy
 Pepperjack
@@ -71,7 +71,7 @@ Zenef</font></b></font>
 
 17
 00:00:05,730 --> 00:00:09,730
-<font face="FOT-Greco Std B Strp" size="22"><b>Galaxy 9000
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Galaxy 9000
 Grug
 Mr. Luffy
 Pepperjack
@@ -79,99 +79,99 @@ Zenef</b></font>
 
 18
 00:00:09,730 --> 00:00:11,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Soundtracking</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Soundtracking</font></b></font>
 
 19
 00:00:09,730 --> 00:00:11,730
-<font face="FOT-Greco Std B Strp" size="22"><b>Soundtracking</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Soundtracking</b></font>
 
 20
 00:00:09,730 --> 00:00:11,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Halee</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Halee</font></b></font>
 
 21
 00:00:09,730 --> 00:00:11,730
-<font face="FOT-Greco Std B Strp" size="22"><b>Halee</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Halee</b></font>
 
 22
 00:00:11,730 --> 00:00:13,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Graphics</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Graphics</font></b></font>
 
 23
 00:00:11,730 --> 00:00:13,730
-<font face="FOT-Greco Std B Strp" size="22"><b>Graphics</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Graphics</b></font>
 
 24
 00:00:11,730 --> 00:00:13,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Datenshi</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Datenshi</font></b></font>
 
 25
 00:00:11,730 --> 00:00:13,730
-<font face="FOT-Greco Std B Strp" size="22"><b>Datenshi</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Datenshi</b></font>
 
 26
 00:00:13,730 --> 00:00:15,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Karaoke</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Karaoke</font></b></font>
 
 27
 00:00:13,730 --> 00:00:15,730
-<font face="FOT-Greco Std B Strp" size="22"><b>Karaoke</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Karaoke</b></font>
 
 28
 00:00:13,730 --> 00:00:15,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">KaitouYahiko</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">KaitouYahiko</font></b></font>
 
 29
 00:00:13,730 --> 00:00:15,730
-<font face="FOT-Greco Std B Strp" size="22"><b>KaitouYahiko</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}KaitouYahiko</b></font>
 
 30
 00:00:15,730 --> 00:00:17,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Subtitle Editing</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Subtitle Editing</font></b></font>
 
 31
 00:00:15,730 --> 00:00:17,730
-<font face="FOT-Greco Std B Strp" size="22"><b>Subtitle Editing</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Subtitle Editing</b></font>
 
 32
 00:00:15,730 --> 00:00:17,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000"></font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000"></font></b></font>
 
 33
 00:00:15,730 --> 00:00:17,730
-<font face="FOT-Greco Std B Strp" size="22"><b></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}</b></font>
 
 34
 00:00:17,730 --> 00:00:19,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Translation</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Translation</font></b></font>
 
 35
 00:00:17,730 --> 00:00:19,730
-<font face="FOT-Greco Std B Strp" size="22"><b>Translation</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Translation</b></font>
 
 36
 00:00:17,730 --> 00:00:19,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Funimation</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Funimation</font></b></font>
 
 37
 00:00:17,730 --> 00:00:19,730
-<font face="FOT-Greco Std B Strp" size="22"><b>Funimation</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Funimation</b></font>
 
 38
 00:00:19,730 --> 00:00:22,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Raws</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Raws</font></b></font>
 
 39
 00:00:19,730 --> 00:00:22,730
-<font face="FOT-Greco Std B Strp" size="22"><b>Raws</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Raws</b></font>
 
 40
 00:00:19,730 --> 00:00:22,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">df68</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">df68</font></b></font>
 
 41
 00:00:19,730 --> 00:00:22,730
-<font face="FOT-Greco Std B Strp" size="22"><b>df68</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}df68</b></font>
 
 42
 00:01:50,010 --> 00:02:00,010
@@ -196,7 +196,7 @@ the blood of a pirate!</i></font>
 
 46
 00:02:13,330 --> 00:02:15,990
-<font face="Impress BT Pace" size="36"><i>Stop, Usopp!</i></font>
+<font face="Impress BT Pace" size="36"><i>Stop, Usopp{-san}!</i></font>
 
 47
 00:02:39,720 --> 00:02:41,580
@@ -269,7 +269,7 @@ so he could get your fortune...</font>
 
 64
 00:03:48,290 --> 00:03:53,080
-<font face="Impress BT Pace" size="36">Then... what Usopp
+<font face="Impress BT Pace" size="36">Then... what Usopp{-san}
 said yesterday was...</font>
 
 65
@@ -289,11 +289,11 @@ even tried to hear him out!</font>
 68
 00:04:09,890 --> 00:04:13,520
 <font face="Impress BT Pace" size="36"><i>You gotta run, Kaya!
-They're gonna kill you!</i></font>
+They're gonna kill you!{SV02 @13:32}</i></font>
 
 69
 00:04:15,280 --> 00:04:17,360
-<font face="Impress BT Pace" size="36"><i>But you gotta escape for now!</i></font>
+<font face="Impress BT Pace" size="36"><i>But you gotta escape for now!{SV02 @15:30}</i></font>
 
 70
 00:04:19,700 --> 00:04:25,210
@@ -438,7 +438,7 @@ right about our captain yesterday!</font>
 
 102
 00:06:21,770 --> 00:06:23,530
-<font face="Impress BT Pace" size="36">It's Miss Kaya!</font>
+<font face="Impress BT Pace" size="36">{It's Kaya-san!}It's Miss Kaya!</font>
 
 103
 00:06:23,530 --> 00:06:24,920
@@ -450,7 +450,8 @@ right about our captain yesterday!</font>
 
 105
 00:06:39,970 --> 00:06:43,140
-<font face="Impress BT Pace" size="36">Miss Kaya, walking outside
+<font face="Impress BT Pace" size="36">{Kaya-san, walking outside
+all by herself...}Miss Kaya, walking outside
 all by herself...</font>
 
 106
@@ -1379,7 +1380,7 @@ afford to lose this fight...</font>
 
 323
 00:23:39,190 --> 00:23:41,310
-<font face="Impress BT Pace" size="36">Not even Captain Jango and Buchi...</font>
+<font face="Impress BT Pace" size="36">Not even Captain Jango and Buchi{-san}...</font>
 
 324
 00:23:41,310 --> 00:23:45,110
@@ -1424,7 +1425,7 @@ everyone to die now.</font>
 
 334
 00:25:24,810 --> 00:25:27,110
-<font face="Impress BT Pace" size="36">Usopp! Are you okay?!</font>
+<font face="Impress BT Pace" size="36">Usopp{-san}! Are you okay?!</font>
 
 335
 00:25:27,110 --> 00:25:30,030
@@ -1432,7 +1433,7 @@ everyone to die now.</font>
 
 336
 00:25:30,030 --> 00:25:32,600
-<font face="Impress BT Pace" size="36">I'm so sorry, Usopp...</font>
+<font face="Impress BT Pace" size="36">I'm so sorry, Usopp{-san}...</font>
 
 337
 00:25:32,600 --> 00:25:38,090
@@ -1730,7 +1731,7 @@ known as Captain Kuro?!</font>
 
 405
 00:30:40,920 --> 00:30:42,650
-<font face="Impress BT Pace" size="36">Usopp!</font>
+<font face="Impress BT Pace" size="36">Usopp{-san}!</font>
 
 406
 00:30:42,650 --> 00:30:47,400

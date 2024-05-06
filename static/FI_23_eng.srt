@@ -219,7 +219,7 @@ between two Admirals escalated...</font>
 
 53
 00:05:44,120 --> 00:05:47,260
-<font face="Impress BT" size="55">The loser would no longer be around to complain. </font>
+<font face="Impress BT" size="55">The loser would no longer be around to complain. {He doesn't outright say that the loser will be unable to complain because he's dead, but it's very heavily implied.}</font>
 
 54
 00:05:47,260 --> 00:05:52,230
@@ -246,7 +246,7 @@ Sakazuki is the new Fleet Admiral of the Navy!</font>
 
 59
 00:06:13,860 --> 00:06:16,100
-<font face="Impress BT" size="55"><i>You're mine! </i></font>
+<font face="Impress BT" size="55"><i>You're mine! {Copy-paste from 487}</i></font>
 
 60
 00:06:23,470 --> 00:06:24,880
@@ -336,7 +336,7 @@ or what he's planning.</font>
 
 81
 00:07:33,480 --> 00:07:36,170
-<font face="Impress BT" size="55"><i>Long time no see, Straw Hat! </i></font>
+<font face="Impress BT" size="55"><i>Long time no see, Straw Hat! {End copy-paste from 446}</i></font>
 
 82
 00:07:37,750 --> 00:07:41,790
@@ -743,7 +743,7 @@ and tie him up here?!</font>
 
 179
 00:13:37,110 --> 00:13:41,680
-<font face="Impress BT" size="55">Am I drunk?  My joints hurt...</font>
+<font face="Impress BT" size="55">Am I drunk?  My joints hurt...{ Btwb: Placed an ellipsis here since it does sound like he trails off. }</font>
 
 180
 00:13:44,300 --> 00:13:46,290
@@ -1273,7 +1273,7 @@ I am a soft-boiled member of our pirate crew.</font>
 
 306
 00:21:35,660 --> 00:21:40,160
-<font face="Impress BT" size="38"><i>Tamago: Egg</i></font>
+<font face="Impress BT" size="38"><i>{\an8}Tamago: Egg</i></font>
 
 307
 00:21:40,160 --> 00:21:41,700
@@ -1746,7 +1746,7 @@ has piqued my interest.</font>
 
 420
 00:30:36,830 --> 00:30:39,290
-<font face="Impress BT" size="55">I'll remember you. </font>
+<font face="Impress BT" size="55">I'll remember you. { tlc: It's because I remember you. }</font>
 
 421
 00:30:39,670 --> 00:30:42,850

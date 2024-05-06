@@ -28,7 +28,7 @@
 
 8
 00:00:23,750 --> 00:00:28,070
-<font face="Times New Roman" size="34">Translation & initial timing
+<font face="Times New Roman" size="34">{\an1}Translation & initial timing
 Yibis</font>
 
 9
@@ -37,7 +37,7 @@ Yibis</font>
 
 10
 00:00:28,160 --> 00:00:32,160
-<font face="Times New Roman" size="34">Timing
+<font face="Times New Roman" size="34">{\an1}Timing
 Halee</font>
 
 11
@@ -46,7 +46,7 @@ Halee</font>
 
 12
 00:00:34,660 --> 00:00:37,600
-<font face="Times New Roman" size="34">Quality-checking
+<font face="Times New Roman" size="34">{\an1}Quality-checking
 Sewil
 Galaxy 9000
 Halee</font>
@@ -57,7 +57,7 @@ Halee</font>
 
 14
 00:00:39,020 --> 00:00:42,640
-<font face="Times New Roman" size="34">Soundtracking
+<font face="Times New Roman" size="34">{\an1}Soundtracking
 Halee</font>
 
 15
@@ -66,12 +66,12 @@ Halee</font>
 
 16
 00:00:45,870 --> 00:00:48,560
-<font face="Times New Roman" size="34">Video editing
+<font face="Times New Roman" size="34">{\an1}Video editing
 Sewil</font>
 
 17
 00:00:45,870 --> 00:00:48,560
-<font face="Times New Roman" size="34">Raw provider
+<font face="Times New Roman" size="34">{\an1}Raw provider
 GS-Raws</font>
 
 18
@@ -233,7 +233,7 @@ the Dwarves</font>
 
 56
 00:03:41,300 --> 00:03:44,840
-<font face="Impress BT" size="55">I'm a rupture man who ate the Pamu Pamu Fruit.</font>
+<font face="Impress BT" size="55">I'm a rupture man who ate the Pamu Pamu Fruit.{rupture? puncture? I'M SO CONFUSED! -Kae}</font>
 
 57
 00:03:47,770 --> 00:03:51,580
@@ -361,11 +361,11 @@ the Dwarves</font>
 
 88
 00:05:26,970 --> 00:05:30,040
-<font face="Impress BT" size="55">You, traitorous woman...</font>
+<font face="Impress BT" size="55">You, traitorous woman...{I did some very liberal editing to make up for the discrepancy between the length of the text and the length of the audio. I hope it is acceptable. -Kae}{Xemnas: Translation wise I don't see any problem with this, it still conveys the same meaning.}</font>
 
 89
 00:05:32,880 --> 00:05:34,180
-<font face="Impress BT" size="55">must die! </font>
+<font face="Impress BT" size="55">must die! {Literally "I will never forgive traitors," but that sounds kinda weak in English. -Starfish}</font>
 
 90
 00:05:34,180 --> 00:05:35,850
@@ -688,7 +688,7 @@ Our alliance is broken.</font>
 
 169
 00:10:35,220 --> 00:10:36,980
-<font face="Impress BT" size="55">I'm counting on you, Usoland. </font>
+<font face="Impress BT" size="55">I'm counting on you, Usoland. {Halee: Infobox at 10:37.}</font>
 
 170
 00:10:37,420 --> 00:10:41,890
@@ -713,7 +713,7 @@ Remains of the Officers' Tower</font></font>
 
 175
 00:10:55,670 --> 00:10:59,470
-<font face="Impress BT" size="55">They just keep getting back up. </font>
+<font face="Impress BT" size="55">They just keep getting back up. {Xemnas: I wanted to go with "These guys just don't know when to quit." but I thought that kind of phrasing might be out of character for him, what do you guys think?}{I agree. He seems kind of slow. I don't see him rolling off witty lines. -Kae}</font>
 
 176
 00:11:05,240 --> 00:11:08,510
@@ -761,7 +761,7 @@ Remains of the Officers' Tower</font></font>
 
 187
 00:11:39,040 --> 00:11:43,680
-<font face="Impress BT" size="55"><i>Don't worry! If anything goes wrong, I'll save you! </i></font>
+<font face="Impress BT" size="55"><i>Don't worry! If anything goes wrong, I'll save you! {copy past from 671}</i></font>
 
 188
 00:11:44,420 --> 00:11:46,180
@@ -785,7 +785,7 @@ Remains of the Officers' Tower</font></font>
 
 193
 00:11:55,030 --> 00:11:58,430
-<font face="Impress BT" size="55">Usopp, where are you? </font>
+<font face="Impress BT" size="55">Usopp, where are you? {Xemnas: She says "where... where are you?" but I felt the first "where" is unnecessary since it's not a pause but the whole Japanese repeat a word for a stronger effect thing.}</font>
 
 194
 00:11:58,430 --> 00:12:03,620
@@ -798,7 +798,7 @@ Remains of the Officers' Tower</font></font>
 
 196
 00:12:06,740 --> 00:12:08,570
-<font face="Impress BT" size="55">I must live on. </font>
+<font face="Impress BT" size="55">I must live on. {Xemnas: He sounds like a total ass here. Very disappointing Usopp.}{yup.}{ Yet another reason he's my least favorite crewmember. }</font>
 
 197
 00:12:08,570 --> 00:12:11,180
@@ -934,7 +934,7 @@ Remains of the Officers' Tower</font></font>
 
 230
 00:13:54,780 --> 00:14:00,790
-<font face="Impress BT" size="55"><i>Usoland... Usoland... Usoland... </i></font>
+<font face="Impress BT" size="55"><i>Usoland... Usoland... Usoland... </i>{Just leave this line up until they finish.}</font>
 
 231
 00:13:56,150 --> 00:13:57,320
@@ -1103,7 +1103,7 @@ Remains of the Officers' Tower</font></font>
 
 272
 00:16:56,230 --> 00:16:59,240
-<font face="Impress BT" size="55"><i>I'm Noland's descendant! </i></font>
+<font face="Impress BT" size="55"><i>I'm Noland's descendant! {Xemnas: I searched through the scipts and script search and couldn't find this line, so I'm gonna assume it's a new flashback.}</i></font>
 
 273
 00:16:59,240 --> 00:17:01,870
@@ -1380,7 +1380,7 @@ you'll regret it.</font>
 
 341
 00:22:05,770 --> 00:22:08,540
-<font face="Impress BT" size="55">It's been reported that you were on the first floor, young master.</font>
+<font face="Impress BT" size="55">{\an8}It's been reported that you were on the first floor, young master.</font>
 
 342
 00:22:05,800 --> 00:22:09,010
@@ -1636,7 +1636,7 @@ in the Colosseum</font>
 
 403
 00:26:10,410 --> 00:26:12,820
-<font face="Impress BT" size="55">win a thousand battles straight!</font>
+<font face="Impress BT" size="55">win a thousand battles straight!{ The last guy won a 1000 battles gay. }</font>
 
 404
 00:26:12,820 --> 00:26:14,420

@@ -751,7 +751,7 @@ has fallen from Straw Hat's hand!</font>
 
 186
 00:12:17,110 --> 00:12:22,090
-<font face="Impress BT" size="38"><i>Sail: Fox</i></font>
+<font face="Impress BT" size="38"><i>{\an8}Sail: Fox</i></font>
 
 187
 00:12:18,270 --> 00:12:19,130

@@ -12,12 +12,12 @@
 
 4
 00:00:31,890 --> 00:00:37,270
-<font face="FOT-Greco Std B" size="34">Translation
+<font face="FOT-Greco Std B" size="34">{\an4}Translation
 Yibis</font>
 
 5
 00:00:31,890 --> 00:00:37,270
-<font face="FOT-Greco Std B" size="34">Soundtracking
+<font face="FOT-Greco Std B" size="34">{\an4}Soundtracking
 Halee</font>
 
 6
@@ -26,23 +26,23 @@ Halee</font>
 
 7
 00:00:37,380 --> 00:00:42,140
-<font face="FOT-Greco Std B" size="34">Editing
+<font face="FOT-Greco Std B" size="34">{\an4}Editing
 Feeso</font>
 
 8
 00:00:37,380 --> 00:00:42,140
-<font face="FOT-Greco Std B" size="34">Infoboxes
+<font face="FOT-Greco Std B" size="34">{\an4}Infoboxes
 BernieCrane</font>
 
 9
 00:00:37,380 --> 00:00:42,140
-<font face="FOT-Greco Std B" size="34">Formatting
+<font face="FOT-Greco Std B" size="34">{\an4}Formatting
 Sewil
 Datenshi</font>
 
 10
 00:00:37,380 --> 00:00:42,140
-<font face="FOT-Greco Std B" size="34">Edit-checking
+<font face="FOT-Greco Std B" size="34">{\an4}Edit-checking
 Galaxy 9000</font>
 
 11
@@ -579,7 +579,7 @@ Galaxy 9000</font>
 
 144
 00:08:37,230 --> 00:08:38,820
-<font face="Impress BT" size="38"><i>Nine flowers</i></font>
+<font face="Impress BT" size="38"><i>{\an8}Nine flowers</i></font>
 
 145
 00:08:39,920 --> 00:08:40,520

@@ -12,7 +12,7 @@
 
 4
 00:00:29,990 --> 00:00:34,600
-<font face="Impress BT" size="34">Translation & initial timing
+<font face="Impress BT" size="34">{\an1}Translation & initial timing
 <font size="40">VS</font></font>
 
 5
@@ -21,7 +21,7 @@
 
 6
 00:00:34,910 --> 00:00:38,750
-<font face="Impress BT" size="34">Timing
+<font face="Impress BT" size="34">{\an1}Timing
 <font size="40">Galaxy 9000
 
 </font>Time-checking
@@ -29,7 +29,7 @@
 
 7
 00:00:38,800 --> 00:00:43,740
-<font face="Impress BT" size="34">Quality-checking
+<font face="Impress BT" size="34">{\an1}Quality-checking
 <font size="40">Sewil
 Galaxy 9000
 Halee</font></font>
@@ -44,7 +44,7 @@ Halee</font></font>
 
 10
 00:00:50,780 --> 00:00:54,150
-<font face="Impress BT" size="34">Soundtracking
+<font face="Impress BT" size="34">{\an1}Soundtracking
 <font size="40">Halee</font></font>
 
 11
@@ -53,12 +53,12 @@ Halee</font></font>
 
 12
 00:00:54,320 --> 00:00:58,020
-<font face="Impress BT" size="34">Video editing
+<font face="Impress BT" size="34">{\an1}Video editing
 <font size="40">Sewil</font></font>
 
 13
 00:00:54,320 --> 00:00:58,020
-<font face="Impress BT" size="34">Raw provider
+<font face="Impress BT" size="34">{\an1}Raw provider
 <font size="40">SOFCJ-Raws</font></font>
 
 14
@@ -127,7 +127,7 @@ Halee</font></font>
 
 30
 00:02:29,860 --> 00:02:38,490
-<font face="impress bt" size="63" color="#fefefe"><b>Brook's Promise!
+<font face="impress bt" size="63" color="#fefefe"><b>{\an5}Brook's Promise!
 The Eighth Member</b></font>
 
 31
@@ -415,99 +415,99 @@ You've got yourself a bounty!</font>
 
 101
 00:08:29,230 --> 00:08:33,690
-<font face="Kozuka Mincho Pr6N H" size="60">Going to deliver Binks' sake</font>
+<font face="Kozuka Mincho Pr6N H" size="60">{\an8}Going to deliver Binks' sake</font>
 
 102
 00:08:33,690 --> 00:08:38,090
-<font face="Kozuka Mincho Pr6N H" size="60">Following the sea breeze, riding on the waves</font>
+<font face="Kozuka Mincho Pr6N H" size="60">{\an8}Following the sea breeze, riding on the waves</font>
 
 103
 00:08:38,090 --> 00:08:42,360
-<font face="Kozuka Mincho Pr6N H" size="60">Far across the salty deeps, the merry evening sun</font>
+<font face="Kozuka Mincho Pr6N H" size="60">{\an8}Far across the salty deeps, the merry evening sun</font>
 
 104
 00:08:42,360 --> 00:08:46,730
-<font face="Kozuka Mincho Pr6N H" size="60">Painting circles in the sky, birds singing along</font>
+<font face="Kozuka Mincho Pr6N H" size="60">{\an8}Painting circles in the sky, birds singing along</font>
 
 105
 00:08:46,730 --> 00:08:50,930
-<font face="Kozuka Mincho Pr6N H" size="60">Farewell to the harbour, to my old hometown</font>
+<font face="Kozuka Mincho Pr6N H" size="60">{\an8}Farewell to the harbour, to my old hometown</font>
 
 106
 00:08:50,930 --> 00:08:55,280
-<font face="Kozuka Mincho Pr6N H" size="60">Let's all sing out with a DON, as the ship sets sail</font>
+<font face="Kozuka Mincho Pr6N H" size="60">{\an8}Let's all sing out with a DON, as the ship sets sail</font>
 
 107
 00:08:55,280 --> 00:08:59,540
-<font face="Kozuka Mincho Pr6N H" size="60">Waves of gold and silver dissolve to salty spray</font>
+<font face="Kozuka Mincho Pr6N H" size="60">{\an8}Waves of gold and silver dissolve to salty spray</font>
 
 108
 00:08:59,540 --> 00:09:03,920
-<font face="Kozuka Mincho Pr6N H" size="60">As we all set sail to the ends of the sea</font>
+<font face="Kozuka Mincho Pr6N H" size="60">{\an8}As we all set sail to the ends of the sea</font>
 
 109
 00:09:12,460 --> 00:09:16,680
-<font face="Kozuka Mincho Pr6N H" size="60">Going to deliver Binks' sake</font>
+<font face="Kozuka Mincho Pr6N H" size="60">{\an8}Going to deliver Binks' sake</font>
 
 110
 00:09:16,680 --> 00:09:20,930
-<font face="Kozuka Mincho Pr6N H" size="60">We are pirates, slicing through the seas</font>
+<font face="Kozuka Mincho Pr6N H" size="60">{\an8}We are pirates, slicing through the seas</font>
 
 111
 00:09:20,930 --> 00:09:25,240
-<font face="Kozuka Mincho Pr6N H" size="60">The waves our pillows, the ship our roost</font>
+<font face="Kozuka Mincho Pr6N H" size="60">{\an8}The waves our pillows, the ship our roost</font>
 
 112
 00:09:25,240 --> 00:09:29,520
-<font face="Kozuka Mincho Pr6N H" size="60">Flying the proud skull on our flags and sails</font>
+<font face="Kozuka Mincho Pr6N H" size="60">{\an8}Flying the proud skull on our flags and sails</font>
 
 113
 00:09:29,520 --> 00:09:33,580
-<font face="Kozuka Mincho Pr6N H" size="60">Now comes a storm through the far-off sky</font>
+<font face="Kozuka Mincho Pr6N H" size="60">{\an8}Now comes a storm through the far-off sky</font>
 
 114
 00:09:33,580 --> 00:09:38,000
-<font face="Kozuka Mincho Pr6N H" size="60">Now the waves are dancing, beat upon the drums</font>
+<font face="Kozuka Mincho Pr6N H" size="60">{\an8}Now the waves are dancing, beat upon the drums</font>
 
 115
 00:09:38,000 --> 00:09:42,240
-<font face="Kozuka Mincho Pr6N H" size="60">If you lose your nerve, this breath could be your last</font>
+<font face="Kozuka Mincho Pr6N H" size="60">{\an8}If you lose your nerve, this breath could be your last</font>
 
 116
 00:09:42,240 --> 00:09:46,760
-<font face="Kozuka Mincho Pr6N H" size="60">But if you just hold on, the morning sun will rise</font>
+<font face="Kozuka Mincho Pr6N H" size="60">{\an8}But if you just hold on, the morning sun will rise</font>
 
 117
 00:10:03,840 --> 00:10:08,150
-<font face="Kozuka Mincho Pr6N H" size="60">Going to deliver Binks' sake</font>
+<font face="Kozuka Mincho Pr6N H" size="60">{\an8}Going to deliver Binks' sake</font>
 
 118
 00:10:08,150 --> 00:10:12,320
-<font face="Kozuka Mincho Pr6N H" size="60">Today, and tomorrow, our dreams through the night</font>
+<font face="Kozuka Mincho Pr6N H" size="60">{\an8}Today, and tomorrow, our dreams through the night</font>
 
 119
 00:10:12,320 --> 00:10:16,670
-<font face="Kozuka Mincho Pr6N H" size="60">Waving our goodbyes, we'll never meet again</font>
+<font face="Kozuka Mincho Pr6N H" size="60">{\an8}Waving our goodbyes, we'll never meet again</font>
 
 120
 00:10:16,670 --> 00:10:20,740
-<font face="Kozuka Mincho Pr6N H" size="60">But don't look so down; for at night the moon will rise</font>
+<font face="Kozuka Mincho Pr6N H" size="60">{\an8}But don't look so down; for at night the moon will rise</font>
 
 121
 00:10:20,740 --> 00:10:25,140
-<font face="Kozuka Mincho Pr6N H" size="60">Going to deliver Binks' sake</font>
+<font face="Kozuka Mincho Pr6N H" size="60">{\an8}Going to deliver Binks' sake</font>
 
 122
 00:10:25,140 --> 00:10:29,470
-<font face="Kozuka Mincho Pr6N H" size="60">Let's all sing out with a DON, a song of the waves</font>
+<font face="Kozuka Mincho Pr6N H" size="60">{\an8}Let's all sing out with a DON, a song of the waves</font>
 
 123
 00:10:29,470 --> 00:10:33,700
-<font face="Kozuka Mincho Pr6N H" size="60">Doesn't matter who you are, someday you'll just be bones</font>
+<font face="Kozuka Mincho Pr6N H" size="60">{\an8}Doesn't matter who you are, someday you'll just be bones</font>
 
 124
 00:10:33,700 --> 00:10:37,850
-<font face="Kozuka Mincho Pr6N H" size="60">Never-ending, ever-wandering, our funny traveling tale</font>
+<font face="Kozuka Mincho Pr6N H" size="60">{\an8}Never-ending, ever-wandering, our funny traveling tale</font>
 
 125
 00:11:05,640 --> 00:11:09,750

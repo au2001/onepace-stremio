@@ -20,12 +20,12 @@
 
 6
 00:00:24,220 --> 00:00:27,470
-<font face="Times New Roman" size="34">Translation & initial syncing
+<font face="Times New Roman" size="34">{\an1}Translation & initial syncing
 <font size="40">Yibis Fansubs</font></font>
 
 7
 00:00:27,640 --> 00:00:30,730
-<font face="Times New Roman" size="34">Syncing
+<font face="Times New Roman" size="34">{\an1}Syncing
 <font size="40">Galaxy 9000
 
 </font>Sync-checking
@@ -37,12 +37,12 @@
 
 9
 00:00:31,170 --> 00:00:34,350
-<font face="Times New Roman" size="34">Quality-checking
+<font face="Times New Roman" size="34">{\an1}Quality-checking
 <font size="40">Sewil and Galaxy 9000</font></font>
 
 10
 00:00:34,870 --> 00:00:38,420
-<font face="Times New Roman" size="34">Soundtracking
+<font face="Times New Roman" size="34">{\an1}Soundtracking
 <font size="40">Halee</font></font>
 
 11
@@ -51,7 +51,7 @@
 
 12
 00:00:41,420 --> 00:00:43,690
-<font face="Times New Roman" size="34">Video editing
+<font face="Times New Roman" size="34">{\an1}Video editing
 <font size="40">Sewil</font></font>
 
 13
@@ -168,7 +168,7 @@
 
 41
 00:02:29,970 --> 00:02:35,730
-<font face="impress bt" size="63" color="#fefefe"><b>Luffy and Law's All-out Attack!
+<font face="impress bt" size="63" color="#fefefe"><b>{\an5}Luffy and Law's All-out Attack!
 The Takeover of the New Era!</b></font>
 
 42
@@ -710,7 +710,7 @@ would be completely obliterated.</font>
 
 171
 00:11:43,060 --> 00:11:44,990
-<font face="Impress BT" size="55">Damn, what the hell do you think you're doing? </font>
+<font face="Impress BT" size="55">Damn, what the hell do you think you're doing? {Xemnas: He says digijo instead of jikushou so it's a mispronunciation on Caesars part, dunno if you guys wanna put it as a mispronunciation in English or not so I'll just leave it.}</font>
 
 172
 00:11:48,010 --> 00:11:51,610
@@ -768,7 +768,7 @@ you'll anger by harming me!</font>
 
 185
 00:12:53,350 --> 00:12:54,700
-<font face="Impress BT" size="55"><i>There it is! </i></font>
+<font face="Impress BT" size="55"><i>There it is! {I split this into two lines because the first sentence is said by both of them whereas the second sentence is just spoken by one of them. -Starfish}</i></font>
 
 186
 00:12:54,700 --> 00:12:56,720
@@ -811,7 +811,7 @@ No one can withstand his Color of Arms!</font>
 195
 00:13:36,190 --> 00:13:40,710
 <font face="Impress BT" size="55"><i>Shinokuni, a deadly gas
-that petrifies people and leeches their life,</i></font>
+that petrifies people and leeches their life,{Excuse me, wouldn't placing a period at the end of this line make it a sentence-fragment? Which, when last I checked, was generally regarded as something to be avoided? -Starfish}</i></font>
 
 196
 00:13:41,610 --> 00:13:45,680
@@ -839,7 +839,7 @@ that petrifies people and leeches their life,</i></font>
 
 202
 00:14:01,690 --> 00:14:05,520
-<font face="Impress BT" size="55">Don't worry, there's nothing wrong with you.  It's just an aftereffect from the sedative. </font>
+<font face="Impress BT" size="55">Don't worry, there's nothing wrong with you.  It's just an aftereffect from the sedative. {Tsuvian: Reduced because TTR was too long}</font>
 
 203
 00:14:06,700 --> 00:14:11,110
@@ -858,7 +858,7 @@ Momonosuke.</i></font>
 
 206
 00:14:20,600 --> 00:14:24,260
-<font face="Impress BT" size="55">What a terrible mistake I have made, Momonosuke! </font>
+<font face="Impress BT" size="55">What a terrible mistake I have made, Momonosuke! {Added "I have made" here because otherwise it looks like he's scolding Momonosuke for making a mistake, when what he's actually getting at is "Momonosuke turned into a dragon. I just killed a dragon! IT MIGHT HAVE BEEN HIM! D:"}</font>
 
 207
 00:14:24,260 --> 00:14:29,030
@@ -875,7 +875,7 @@ Momonosuke transformed into a small dragon?</i></font>
 
 210
 00:14:37,820 --> 00:14:40,360
-<font face="Impress BT" size="55">I have done something unforgivable! </font>
+<font face="Impress BT" size="55">I have done something unforgivable! {Xemnas: He actually said "I have done something that cannot be taken back", but I went with this translation.}</font>
 
 211
 00:14:40,360 --> 00:14:43,330
@@ -1055,7 +1055,7 @@ while you think of your next move.</font>
 254
 00:18:32,030 --> 00:18:35,460
 <font face="Impress BT" size="55">It must have traumatized you.
-There's no way you could ever forget...</font>
+There's no way you could ever forget...{Been traumatized you? Really? -Starfish}</font>
 
 255
 00:18:35,770 --> 00:18:38,310

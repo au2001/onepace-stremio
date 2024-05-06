@@ -498,7 +498,7 @@ Lock!</font>
 
 125
 00:07:51,280 --> 00:07:54,750
-<font face="Impress BT" size="55">It is the guardian of the stairs, the Sphinx!</font>
+<font face="Impress BT" size="55">{\an8}It is the guardian of the stairs, the Sphinx!</font>
 
 126
 00:07:53,940 --> 00:07:57,080
@@ -550,7 +550,7 @@ Lock!</font>
 
 138
 00:08:29,400 --> 00:08:30,490
-<font face="Impress BT" size="38"><i>Ikemen: Handsome man</i></font>
+<font face="Impress BT" size="38"><i>{\an8}Ikemen: Handsome man</i></font>
 
 139
 00:08:32,000 --> 00:08:33,020
@@ -1283,7 +1283,7 @@ are remains of a prisoner who dried up.</font>
 
 320
 00:21:03,550 --> 00:21:05,810
-<font face="Impress BT" size="38"><i>Saru-desu: I'm a monkey.</i></font>
+<font face="Impress BT" size="38"><i>{\an8}Saru-desu: I'm a monkey.</i></font>
 
 321
 00:21:03,550 --> 00:21:05,810
@@ -1328,11 +1328,11 @@ Saldeath</font>
 
 331
 00:21:23,390 --> 00:21:25,510
-<font face="Impress BT" size="55">It's no use holding out.</font>
+<font face="Impress BT" size="55">{\an8}It's no use holding out.</font>
 
 332
 00:21:25,710 --> 00:21:30,790
-<font face="Impress BT" size="55">There's no place to get away in this isolated underwater prison!</font>
+<font face="Impress BT" size="55">{\an8}There's no place to get away in this isolated underwater prison!</font>
 
 333
 00:21:32,280 --> 00:21:35,370
@@ -1707,11 +1707,11 @@ Security Chief</font>
 
 425
 00:27:27,360 --> 00:27:31,120
-<font face="Impress BT" size="55">After being breached by an intruder taking Navy help,</font>
+<font face="Impress BT" size="55">{\an8}After being breached by an intruder taking Navy help,</font>
 
 426
 00:27:31,120 --> 00:27:35,000
-<font face="Impress BT" size="55">would only further disgrace Impel Down's name!</font>
+<font face="Impress BT" size="55">{\an8}would only further disgrace Impel Down's name!</font>
 
 427
 00:27:36,270 --> 00:27:39,100
@@ -2264,19 +2264,19 @@ How can you stand it, Warden?</font>
 
 564
 00:38:08,110 --> 00:38:11,630
-<font face="Impress BT" size="55"><i>Let's see how Mr. 2 Bon Clay's power works!</i></font>
+<font face="Impress BT" size="55">{\an8}<i>Let's see how Mr. 2 Bon Clay's power works!</i></font>
 
 565
 00:38:11,630 --> 00:38:13,730
-<font face="Impress BT" size="55"><i>He ate the Clone Fruit and turned into a Clone Man.</i></font>
+<font face="Impress BT" size="55">{\an8}<i>He ate the Clone Fruit and turned into a Clone Man.</i></font>
 
 566
 00:38:13,730 --> 00:38:18,670
-<font face="Impress BT" size="55"><i>He can turn into anyone whose face has been touched by his right hand.</i></font>
+<font face="Impress BT" size="55">{\an8}<i>He can turn into anyone whose face has been touched by his right hand.</i></font>
 
 567
 00:38:18,670 --> 00:38:23,380
-<font face="Impress BT" size="55"><i>He turned into Zoro because he touched him before.</i></font>
+<font face="Impress BT" size="55">{\an8}<i>He turned into Zoro because he touched him before.</i></font>
 
 568
 00:38:26,450 --> 00:38:29,370

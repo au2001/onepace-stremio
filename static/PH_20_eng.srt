@@ -20,12 +20,12 @@
 
 6
 00:00:24,050 --> 00:00:27,320
-<font face="Times New Roman" size="34">Translation & initial syncing
+<font face="Times New Roman" size="34">{\an1}Translation & initial syncing
 <font size="40">Yibis Fansubs</font></font>
 
 7
 00:00:27,480 --> 00:00:30,580
-<font face="Times New Roman" size="34">Syncing
+<font face="Times New Roman" size="34">{\an1}Syncing
 <font size="40">Galaxy 9000
 
 </font>Sync-checking
@@ -37,14 +37,14 @@
 
 9
 00:00:31,020 --> 00:00:34,180
-<font face="Times New Roman" size="34">Quality-checking
+<font face="Times New Roman" size="34">{\an1}Quality-checking
 <font size="40">Sewil
 Galaxy 9000
 Feeso</font></font>
 
 10
 00:00:34,690 --> 00:00:38,280
-<font face="Times New Roman" size="34">Soundtracking
+<font face="Times New Roman" size="34">{\an1}Soundtracking
 <font size="40">Halee</font></font>
 
 11
@@ -53,18 +53,18 @@ Feeso</font></font>
 
 12
 00:00:41,270 --> 00:00:43,520
-<font face="Times New Roman" size="34">Video editing
+<font face="Times New Roman" size="34">{\an1}Video editing
 <font size="40">Sewil</font></font>
 
 13
 00:00:43,570 --> 00:00:45,790
-<font face="Times New Roman" size="34">Raw provider
+<font face="Times New Roman" size="34">{\an1}Raw provider
 <font size="40">SOFCJ-Raws (Opening),
 Crunchyroll</font></font>
 
 14
 00:00:45,840 --> 00:00:48,080
-<font face="Times New Roman" size="34">"They're Enemies" artist
+<font face="Times New Roman" size="34">{\an1}"They're Enemies" artist
 <font size="40">folkrack.deviantart.com</font></font>
 
 15
@@ -181,7 +181,7 @@ Crunchyroll</font></font>
 
 43
 00:02:29,760 --> 00:02:38,600
-<font face="impress bt" size="63" color="#fefefe"><b>Die for Me!
+<font face="impress bt" size="63" color="#fefefe"><b>{\an5}Die for Me!
 The Dangerous Man Makes His Move!</b></font>
 
 44
@@ -389,7 +389,7 @@ must be carried out immediately -dasuyan!</font>
 
 94
 00:06:02,140 --> 00:06:03,760
-<font face="Impress BT" size="55">Hurry up, Chopper!  Brook!</font>
+<font face="Impress BT" size="55">{\an8}Hurry up, Chopper!  Brook!</font>
 
 95
 00:06:03,760 --> 00:06:05,570
@@ -405,7 +405,7 @@ must be carried out immediately -dasuyan!</font>
 
 98
 00:06:09,910 --> 00:06:12,800
-<font face="Impress BT" size="55">Hurry!  Just 50 more meters!</font>
+<font face="Impress BT" size="55">{\an8}Hurry!  Just 50 more meters!</font>
 
 99
 00:06:10,070 --> 00:06:15,100
@@ -413,7 +413,7 @@ must be carried out immediately -dasuyan!</font>
 
 100
 00:06:12,800 --> 00:06:15,450
-<font face="Impress BT" size="55">The gate's about to close!  You have to slip through!</font>
+<font face="Impress BT" size="55">{\an8}The gate's about to close!  You have to slip through!</font>
 
 101
 00:06:15,450 --> 00:06:16,490
@@ -628,7 +628,7 @@ to the one that destroyed the island four years ago.</font>
 
 153
 00:09:34,850 --> 00:09:39,750
-<font face="Impress BT" size="55">Why do you need this weapon when you're a weapon woman? </font>
+<font face="Impress BT" size="55">Why do you need this weapon when you're a weapon woman? {Xemnas has a "your/you're" disease}{I noticed this as well. -E9}</font>
 
 154
 00:09:39,750 --> 00:09:42,180
@@ -693,7 +693,7 @@ and I don't protect the peace of the seas!</font>
 
 169
 00:10:38,470 --> 00:10:39,850
-<font face="Impress BT" size="55">This is so fast! </font>
+<font face="Impress BT" size="55">This is so fast! {Starfish: Funny how THAT's the first line of this episode, which is anything but.}</font>
 
 170
 00:10:43,220 --> 00:10:44,890
@@ -701,7 +701,7 @@ and I don't protect the peace of the seas!</font>
 
 171
 00:10:44,890 --> 00:10:46,490
-<font face="Impress BT" size="55">Fath- </font>
+<font face="Impress BT" size="55">Fath- {Xemnas: He kinda doesn't say the whole word}</font>
 
 172
 00:10:46,490 --> 00:10:49,510
@@ -721,7 +721,7 @@ and I don't protect the peace of the seas!</font>
 
 176
 00:11:08,450 --> 00:11:10,720
-<font face="Impress BT" size="55">Farewell, young master. </font>
+<font face="Impress BT" size="55">Farewell, young master. {copy paste from 619}</font>
 
 177
 00:11:13,410 --> 00:11:16,090
@@ -729,7 +729,7 @@ and I don't protect the peace of the seas!</font>
 
 178
 00:11:17,480 --> 00:11:22,060
-<font face="Impress BT" size="55">who will become the Pirate King.</font>
+<font face="Impress BT" size="55">who will become the Pirate King.{end copy paste from 619}</font>
 
 179
 00:11:34,800 --> 00:11:36,400
@@ -777,7 +777,7 @@ and I don't protect the peace of the seas!</font>
 
 190
 00:12:19,400 --> 00:12:22,390
-<font face="Impress BT" size="55"><i>I want your heart! </i></font>
+<font face="Impress BT" size="55"><i>I want your heart! {copy and paste from 601}</i></font>
 
 191
 00:12:24,130 --> 00:12:26,870
@@ -789,11 +789,11 @@ and I don't protect the peace of the seas!</font>
 
 193
 00:12:39,570 --> 00:12:45,140
-<font face="Impress BT" size="55"><i>The heart of Smoker.  Vice Admiral of Navy Unit G-5. </i></font>
+<font face="Impress BT" size="55"><i>The heart of Smoker.  Vice Admiral of Navy Unit G-5. {copy paste from 591}</i></font>
 
 194
 00:12:45,140 --> 00:12:49,280
-<font face="Impress BT" size="55"><i>What a thoughtful present, Law. </i></font>
+<font face="Impress BT" size="55"><i>What a thoughtful present, Law. {End copy paste}</i></font>
 
 195
 00:12:51,020 --> 00:12:57,360
@@ -833,7 +833,7 @@ and I don't protect the peace of the seas!</font>
 
 204
 00:13:29,090 --> 00:13:30,790
-<font face="Impress BT" size="55">If it collapses, we'll be buried alive. </font>
+<font face="Impress BT" size="55">If it collapses, we'll be buried alive. {Tenses, guys. -E9}</font>
 
 205
 00:13:30,790 --> 00:13:32,760
@@ -845,11 +845,11 @@ and I don't protect the peace of the seas!</font>
 
 207
 00:13:37,690 --> 00:13:38,860
-<font face="Impress BT" size="55">The rubble's blocking the path!</font>
+<font face="Impress BT" size="55">The rubble's blocking the path!{Starfish: Okay seriously, I'm starting to feel like Xemnas has a period-addiction. A comment about their only way out of a collapsing building rapidly filling with poison gas MORE than justifies an exclamation-point, I dare say.}</font>
 
 208
 00:13:38,860 --> 00:13:39,920
-<font face="Impress BT" size="55">Where are the brakes? </font>
+<font face="Impress BT" size="55">Where are the brakes? {I seriously felt some Water 7 Nastalgia at this part. -E9}</font>
 
 209
 00:13:53,540 --> 00:13:56,150
@@ -861,7 +861,7 @@ and I don't protect the peace of the seas!</font>
 
 211
 00:13:58,400 --> 00:13:59,380
-<font face="Impress BT" size="55">Even though he <i>is</i> our enemy. </font>
+<font face="Impress BT" size="55">Even though he <i>is</i> our enemy. {I'm not sure if you guys use italics, but I used it here. Also, I'm not sure if the statement of this marine meant something else, but I changed it to make more sense. Is he was saying he'd want him as a friend and not an enemy, or is he simply saying that he wouldn't want him as an enemy? Feel free to change it back if it's contradictory in any way, but you might want to make the statement a bit more clear. -E9}</font>
 
 212
 00:14:01,770 --> 00:14:04,360
@@ -897,7 +897,7 @@ and I don't protect the peace of the seas!</font>
 
 220
 00:14:33,440 --> 00:14:36,020
-<font face="Impress BT" size="55">Young master! </font>
+<font face="Impress BT" size="55">Young master! {BAAAAKAAAA!!!}</font>
 
 221
 00:14:37,460 --> 00:14:39,220
@@ -930,7 +930,7 @@ and I don't protect the peace of the seas!</font>
 
 228
 00:15:03,610 --> 00:15:08,990
-<font face="Impress BT" size="55">A-An iron security guard is in our way!</font>
+<font face="Impress BT" size="55">{\an8}A-An iron security guard is in our way!</font>
 
 229
 00:15:05,070 --> 00:15:10,040
@@ -1059,7 +1059,7 @@ of the pirate ship that will one day control these seas.</font>
 
 260
 00:17:38,450 --> 00:17:40,820
-<font face="Impress BT" size="55">I don't know who you're working for,</font>
+<font face="Impress BT" size="55">I don't know who you're working for,{Read the comment below}</font>
 
 261
 00:17:40,820 --> 00:17:43,570
@@ -1083,7 +1083,7 @@ of the pirate ship that will one day control these seas.</font>
 
 266
 00:17:55,800 --> 00:17:59,190
-<font face="Impress BT" size="55">we'll be taking Caesar, by any means necessary. </font>
+<font face="Impress BT" size="55">we'll be taking Caesar, by any means necessary. {Ellipses don't require a capital after them, regardless of the sentence being split between two people (even though that's not a normal circumstance). I will eventually hammer proper grammar into you all! Also, two clauses require a comma between them. E9}</font>
 
 267
 00:17:59,640 --> 00:18:03,060
@@ -1091,7 +1091,7 @@ of the pirate ship that will one day control these seas.</font>
 
 268
 00:18:03,060 --> 00:18:05,800
-<font face="Impress BT" size="55">is Caesar, huh?! </font>
+<font face="Impress BT" size="55">is Caesar, huh?! {Starfish: I took the liberty of splitting this into two lines to emphasize the pause and to further underline how to Franky this blindingly obvious fact is apparently a shocking reveal.}</font>
 
 269
 00:18:05,800 --> 00:18:07,510
@@ -1155,7 +1155,7 @@ of the pirate ship that will one day control these seas.</font>
 
 284
 00:18:56,900 --> 00:19:01,420
-<font face="Impress BT" size="55">Joker was saving the Seat of Hearts for you!</font>
+<font face="Impress BT" size="55">Joker was saving the Seat of Hearts for you!{Starfish: It'll make sense later.}</font>
 
 285
 00:19:01,420 --> 00:19:02,300
@@ -1195,7 +1195,7 @@ of the pirate ship that will one day control these seas.</font>
 
 294
 00:19:31,020 --> 00:19:32,770
-<font face="Impress BT" size="55">Alright, leave it to me! </font>
+<font face="Impress BT" size="55">Alright, leave it to me! {Missing TL...}</font>
 
 295
 00:19:32,770 --> 00:19:34,990
@@ -1215,7 +1215,7 @@ of the pirate ship that will one day control these seas.</font>
 
 299
 00:19:41,320 --> 00:19:46,240
-<font face="Impress BT" size="55">Don't underestimate our sniper just because his nose is long. </font>
+<font face="Impress BT" size="55">Don't underestimate our sniper just because his nose is long. {Zoro's right. It's like Ussop has a built in ironsight--seems advantagous to me. E9}</font>
 
 300
 00:19:46,240 --> 00:19:47,680
@@ -1344,7 +1344,7 @@ I wish you'd put a bit more faith in us.</font>
 
 331
 00:21:27,660 --> 00:21:29,250
-<font face="Impress BT" size="55">It's weather science! </font>
+<font face="Impress BT" size="55">It's weather science! {Sev: It's a really really REALLY long story as to why I changed this.}</font>
 
 332
 00:21:29,880 --> 00:21:31,470
@@ -1428,7 +1428,7 @@ I wish you'd put a bit more faith in us.</font>
 
 352
 00:22:38,060 --> 00:22:39,140
-<font face="Impress BT" size="55">What is this? </font>
+<font face="Impress BT" size="55">What is this? {Missing TL. WHAT THE SHYT ARE YOU DOING XEMNAS!?!?!?}</font>
 
 353
 00:22:40,620 --> 00:22:42,160

@@ -20,7 +20,7 @@
 
 6
 00:00:23,480 --> 00:00:29,020
-<font face="Times New Roman" size="34">Translation & initial syncing
+<font face="Times New Roman" size="34">{\an1}Translation & initial syncing
 <font size="40">Vegapunk Fansubs</font></font>
 
 7
@@ -33,7 +33,7 @@
 
 9
 00:00:29,390 --> 00:00:34,560
-<font face="Times New Roman" size="34">Syncing
+<font face="Times New Roman" size="34">{\an1}Syncing
 <font size="40">Galaxy 9000
 
 </font>Sync-checking
@@ -45,7 +45,7 @@
 
 11
 00:00:35,630 --> 00:00:40,790
-<font face="Times New Roman" size="34">Quality-checking
+<font face="Times New Roman" size="34">{\an1}Quality-checking
 <font size="40">Sewil
 Galaxy 9000
 Feeso</font></font>
@@ -56,12 +56,12 @@ Feeso</font></font>
 
 13
 00:00:40,970 --> 00:00:44,120
-<font face="Times New Roman" size="34">Video editing
+<font face="Times New Roman" size="34">{\an1}Video editing
 <font size="40">Sewil</font></font>
 
 14
 00:00:44,290 --> 00:00:47,500
-<font face="Times New Roman" size="34">Soundtracking
+<font face="Times New Roman" size="34">{\an1}Soundtracking
 <font size="40">Halee</font></font>
 
 15
@@ -74,7 +74,7 @@ Feeso</font></font>
 
 17
 00:00:53,050 --> 00:00:56,890
-<font face="Times New Roman" size="34">Raw provider
+<font face="Times New Roman" size="34">{\an1}Raw provider
 <font size="40">SOFCJ-Raws</font></font>
 
 18
@@ -159,7 +159,7 @@ Feeso</font></font>
 
 38
 00:02:30,460 --> 00:02:39,230
-<font face="impress bt" size="63" color="#fefefe"><b>Show Yourselves, Straw Hat Pirates!
+<font face="impress bt" size="63" color="#fefefe"><b>{\an5}Show Yourselves, Straw Hat Pirates!
 The Crew's Hopeless Counterattack!</b></font>
 
 39
@@ -252,7 +252,7 @@ The Crew's Hopeless Counterattack!</b></font>
 
 61
 00:03:49,860 --> 00:03:51,140
-<font face="Impress BT" size="38"><i>Twelve Flowers</i></font>
+<font face="Impress BT" size="38"><i>{\an8}Twelve Flowers</i></font>
 
 62
 00:03:56,000 --> 00:03:57,150
@@ -308,7 +308,7 @@ The Crew's Hopeless Counterattack!</b></font>
 
 75
 00:04:36,340 --> 00:04:37,720
-<font face="Impress BT" size="38"><i>Leg Flower</i></font>
+<font face="Impress BT" size="38"><i>{\an8}Leg Flower</i></font>
 
 76
 00:04:36,340 --> 00:04:37,720
@@ -356,7 +356,7 @@ The Crew's Hopeless Counterattack!</b></font>
 
 87
 00:05:12,570 --> 00:05:14,670
-<font face="Impress BT" size="55">It's much bigger than a giant.</font>
+<font face="Impress BT" size="55">{\an8}It's much bigger than a giant.</font>
 
 88
 00:05:16,030 --> 00:05:17,680
@@ -604,11 +604,11 @@ The Crew's Hopeless Counterattack!</b></font>
 
 149
 00:08:42,540 --> 00:08:43,620
-<font face="Impress BT" size="55">W-W-Wait a minute!</font>
+<font face="Impress BT" size="55">{\an8}W-W-Wait a minute!</font>
 
 150
 00:08:43,620 --> 00:08:44,300
-<font face="Impress BT" size="55">W-What's going on?!</font>
+<font face="Impress BT" size="55">{\an8}W-What's going on?!</font>
 
 151
 00:08:45,060 --> 00:08:48,140
@@ -1104,7 +1104,7 @@ The Crew's Hopeless Counterattack!</b></font>
 
 274
 00:15:42,750 --> 00:15:45,240
-<font face="Impress BT" size="38"><i>Fried Neck</i></font>
+<font face="Impress BT" size="38"><i>{\an8}Fried Neck</i></font>
 
 275
 00:15:52,060 --> 00:15:53,360
@@ -1236,7 +1236,7 @@ The Crew's Hopeless Counterattack!</b></font>
 
 307
 00:17:50,880 --> 00:17:52,180
-<font face="Impress BT" size="38"><i>One Hundred Flowers</i></font>
+<font face="Impress BT" size="38"><i>{\an8}One Hundred Flowers</i></font>
 
 308
 00:17:52,180 --> 00:17:52,980

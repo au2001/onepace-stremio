@@ -97,7 +97,7 @@ the legendary Pirate King Gold Roger.</i></font>
 
 25
 00:04:18,920 --> 00:04:21,140
-<font face="Impress BT" size="38"><i>Manjuu: A rotund Japanese pastry</i></font>
+<font face="Impress BT" size="38"><i>{\an8}Manjuu: A rotund Japanese pastry</i></font>
 
 26
 00:04:21,710 --> 00:04:23,550
@@ -118,7 +118,7 @@ with the shockwave from your fall!</font>
 
 30
 00:04:35,360 --> 00:04:38,030
-<font face="Impress BT" size="55">for the shockwave that hit Nami-san! </font>
+<font face="Impress BT" size="55">for the shockwave that hit Nami-san! {...Say, does anyone else think this is an exceptionally petty grudge he's holding? "YOU FELL NEAR NAMI AND KNOCKED HER OVER, YOU ARE SO GOING TO DIE!!!!!!!"}</font>
 
 31
 00:04:44,350 --> 00:04:45,120
@@ -126,7 +126,7 @@ with the shockwave from your fall!</font>
 
 32
 00:04:47,700 --> 00:04:50,810
-<font face="Impress BT" size="55"><i>Beware of the shockwave, Nami-san! </i></font>
+<font face="Impress BT" size="55"><i>Beware of the shockwave, Nami-san! { def: they're saying shockwave way too much.  maybe just "Look out" or something similar here? }</i></font>
 
 33
 00:04:52,830 --> 00:04:56,520
@@ -154,7 +154,7 @@ with the shockwave from your fall!</font>
 
 39
 00:05:17,070 --> 00:05:19,780
-<font face="Impress BT" size="55">Call me an enchantress instead! </font>
+<font face="Impress BT" size="55">Call me an enchantress instead! { def: originally "Magician-chan" }</font>
 
 40
 00:05:24,490 --> 00:05:28,870
@@ -166,7 +166,7 @@ with the shockwave from your fall!</font>
 
 42
 00:05:34,190 --> 00:05:35,870
-<font face="Impress BT" size="38"><i>Thundercloud Rod</i></font>
+<font face="Impress BT" size="38"><i>{\an8}Thundercloud Rod</i></font>
 
 43
 00:05:46,050 --> 00:05:48,430
@@ -484,7 +484,7 @@ I do have a backbone!</font>
 
 120
 00:10:05,820 --> 00:10:08,020
-<font face="Impress BT" size="38"><i>Horn Cannon: Eleven</i></font>
+<font face="Impress BT" size="38"><i>{\an8}Horn Cannon: Eleven</i></font>
 
 121
 00:10:08,850 --> 00:10:12,280
@@ -500,7 +500,7 @@ I do have a backbone!</font>
 
 124
 00:10:27,630 --> 00:10:29,650
-<font face="Impress BT" size="38"><i>Skull Bomb-Grass</i></font>
+<font face="Impress BT" size="38"><i>{\an8}Skull Bomb-Grass</i></font>
 
 125
 00:10:36,330 --> 00:10:38,340
@@ -508,7 +508,7 @@ I do have a backbone!</font>
 
 126
 00:10:38,670 --> 00:10:42,330
-<font face="Impress BT" size="55">We fought against enemies who dug holes back in Alabasta!  </font>
+<font face="Impress BT" size="55">We fought against enemies who dug holes back in Alabasta! { def: my attempt at fade sux0r } {Swashy: Removed 'already' and the comma b/w 'holes' and 'back'.}</font>
 
 127
 00:10:44,470 --> 00:10:47,080
@@ -598,7 +598,7 @@ He even attacked defenseless citizens!</font>
 148
 00:12:11,140 --> 00:12:15,770
 <font face="Impress BT" size="55">Madame Shyarly.
-What will happen to Fishman Island? </font>
+What will happen to Fishman Island? { def: more importantly, what happened to your chin? }</font>
 
 149
 00:12:15,770 --> 00:12:17,640
@@ -1073,7 +1073,7 @@ make him change the ship's course!</font>
 
 264
 00:20:45,970 --> 00:20:47,340
-<font face="Impress BT" size="38"><i>Sea drum</i></font>
+<font face="Impress BT" size="38"><i>{\an8}Sea drum</i></font>
 
 265
 00:20:52,700 --> 00:20:54,120
@@ -1240,7 +1240,7 @@ means that I'm still inexperienced.  I'll admit that.</font>
 
 305
 00:23:43,180 --> 00:23:47,690
-<font face="Impress BT" size="55">What drove you to do something so terrible, Hody?!</font>
+<font face="Impress BT" size="55">What drove you to do something so terrible, Hody?!{lit. cruel}</font>
 
 306
 00:23:50,190 --> 00:23:51,200
@@ -1348,48 +1348,48 @@ a loved one or a dear friend of yours?</font>
 331
 00:26:14,840 --> 00:26:17,340
 <font face="Impress BT" size="55"><i>Is there something you want on the deck?
-Then I'll get there first. </i></font>
+Then I'll get there first. {First part from ep 559, 21:04.86, second half was not in previous ep}</i></font>
 
 332
 00:26:17,340 --> 00:26:18,640
-<font face="Impress BT" size="55"><i>Hody!</i></font>
+<font face="Impress BT" size="55"><i>Hody!{idnetical line}</i></font>
 
 333
 00:26:19,130 --> 00:26:20,770
-<font face="Impress BT" size="55"><i>Follow him!</i></font>
+<font face="Impress BT" size="55"><i>Follow him!{Abbreviated line from 559}</i></font>
 
 334
 00:26:20,770 --> 00:26:23,080
-<font face="Impress BT" size="55"><i>No.  Wait, Straw Hat.</i></font>
+<font face="Impress BT" size="55"><i>No.  Wait, Straw Hat.{identical line}</i></font>
 
 335
 00:26:23,080 --> 00:26:25,380
-<font face="Impress BT" size="55"><i>Why do we have to wait?!</i></font>
+<font face="Impress BT" size="55"><i>Why do we have to wait?!{Different line from 559, but means almost the same thing}</i></font>
 
 336
 00:26:25,380 --> 00:26:28,220
-<font face="Impress BT" size="55"><i>You should have learned by now.</i></font>
+<font face="Impress BT" size="55"><i>You should have learned by now.{Identical line}</i></font>
 
 337
 00:26:28,220 --> 00:26:33,140
 <font face="Impress BT" size="55"><i>Fighting in the water is
-devastatingly favorable for a fishman like Hody.</i></font>
+devastatingly favorable for a fishman like Hody.{Identical line}</i></font>
 
 338
 00:26:33,140 --> 00:26:34,260
-<font face="Impress BT" size="55"><i>If we keep going...</i></font>
+<font face="Impress BT" size="55"><i>If we keep going...{identical line}</i></font>
 
 339
 00:26:34,260 --> 00:26:36,160
-<font face="Impress BT" size="55"><i>So what'll we do?!</i></font>
+<font face="Impress BT" size="55"><i>So what'll we do?!{identical line}</i></font>
 
 340
 00:26:36,160 --> 00:26:37,430
-<font face="Impress BT" size="55"><i>I have a plan.</i></font>
+<font face="Impress BT" size="55"><i>I have a plan.{identical line, and last from previous episode}</i></font>
 
 341
 00:26:39,240 --> 00:26:42,160
-<font face="Impress BT" size="55"><i>Hey! Where're you going, Bro-hoshi!</i></font>
+<font face="Impress BT" size="55"><i>Hey! Where're you going, Bro-hoshi!{New dialogue starts with this line}</i></font>
 
 342
 00:26:45,550 --> 00:26:47,120
@@ -1610,5 +1610,5 @@ Just hurry up and give the air to me!</font>
 
 394
 00:35:13,250 --> 00:35:15,590
-<font face="Impress BT" size="38"><i>Color of Arms: Vulcanization</i></font>
+<font face="Impress BT" size="38"><i>{\an8}Color of Arms: Vulcanization</i></font>
 

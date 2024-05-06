@@ -20,12 +20,12 @@
 
 6
 00:00:24,220 --> 00:00:27,490
-<font face="Times New Roman" size="34">Translation
+<font face="Times New Roman" size="34">{\an1}Translation
 <font size="40">Hattori</font></font>
 
 7
 00:00:27,630 --> 00:00:30,760
-<font face="Times New Roman" size="34">Initial timing
+<font face="Times New Roman" size="34">{\an1}Initial timing
 <font size="40">Hattori</font></font>
 
 8
@@ -34,12 +34,12 @@
 
 9
 00:00:31,190 --> 00:00:34,350
-<font face="Times New Roman" size="34">Timing
+<font face="Times New Roman" size="34">{\an1}Timing
 <font size="40">Galaxy 9000</font></font>
 
 10
 00:00:34,860 --> 00:00:38,430
-<font face="Times New Roman" size="34">Quality checking
+<font face="Times New Roman" size="34">{\an1}Quality checking
 <font size="40">Sewil</font></font>
 
 11
@@ -48,12 +48,12 @@
 
 12
 00:00:41,430 --> 00:00:43,680
-<font face="Times New Roman" size="34">Soundtracking
+<font face="Times New Roman" size="34">{\an1}Soundtracking
 <font size="40">MaideV and Halee</font></font>
 
 13
 00:00:43,730 --> 00:00:45,960
-<font face="Times New Roman" size="34">Raw providing
+<font face="Times New Roman" size="34">{\an1}Raw providing
 <font size="40">OPC-Raws</font></font>
 
 14
@@ -62,7 +62,7 @@
 
 15
 00:00:46,000 --> 00:00:48,220
-<font face="Times New Roman" size="34">Editing
+<font face="Times New Roman" size="34">{\an1}Editing
 <font size="40">Sewil</font></font>
 
 16
@@ -175,7 +175,7 @@
 
 43
 00:02:30,070 --> 00:02:38,760
-<font face="impress bt" size="63" color="#fefefe"><b>The Counterattack Begins!</b></font>
+<font face="impress bt" size="63" color="#fefefe"><b>{\an5}The Counterattack Begins!</b></font>
 
 44
 00:02:42,400 --> 00:02:46,350
@@ -220,11 +220,11 @@ Bounty: 470 million belly</font>
 
 54
 00:03:24,760 --> 00:03:26,870
-<font face="Impress BT" size="55">It's pointless to keep watching.</font>
+<font face="Impress BT" size="55">{\an8}It's pointless to keep watching.</font>
 
 55
 00:03:26,870 --> 00:03:32,300
-<font face="Impress BT" size="55">Besides, it's not like you to play arms dealer is it, Killer?</font>
+<font face="Impress BT" size="55">{\an8}Besides, it's not like you to play arms dealer is it, Killer?</font>
 
 56
 00:03:30,090 --> 00:03:32,300
@@ -289,7 +289,7 @@ Bounty: 200 million belly</font>
 
 71
 00:04:22,830 --> 00:04:27,160
-<font face="Impress BT" size="55">I was just making sure you didn't have any snipers! </font>
+<font face="Impress BT" size="55">{\an8}I was just making sure you didn't have any snipers! {Hattori: I LOL'D}</font>
 
 72
 00:04:26,090 --> 00:04:31,600
@@ -298,7 +298,7 @@ Bounty: 350 million belly</font>
 
 73
 00:04:27,160 --> 00:04:31,600
-<font face="Impress BT" size="55">You'd do the same if an enemy invited you.</font>
+<font face="Impress BT" size="55">{\an8}You'd do the same if an enemy invited you.</font>
 
 74
 00:04:31,600 --> 00:04:37,220
@@ -347,7 +347,7 @@ Bounty: 320 million belly</font>
 
 85
 00:05:13,690 --> 00:05:17,200
-<font face="Impress BT" size="55">Can't you guys at least discuss it!?</font>
+<font face="Impress BT" size="55">Can't you guys at least discuss it!?{Sewil is lame}{Yes}{Yes}{Yes}</font>
 
 86
 00:05:18,140 --> 00:05:19,670
@@ -595,7 +595,7 @@ Bounty: 320 million belly</font>
 
 147
 00:09:45,870 --> 00:09:48,430
-<font face="Impress BT" size="55">It's not like that chain link stuff is made outta Sea Stone. </font>
+<font face="Impress BT" size="55">It's not like that chain link stuff is made outta Sea Stone. {Hattori: eh? Franky is damn high or I am? :/ }</font>
 
 148
 00:09:50,160 --> 00:09:52,240

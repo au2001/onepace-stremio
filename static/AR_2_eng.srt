@@ -1,46 +1,46 @@
 1
 00:00:00,730 --> 00:00:02,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Video Editing</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Video Editing</font></b></font>
 
 2
 00:00:00,730 --> 00:00:02,730
-<font face="FOT-Greco Std B Strp" size="22"><b>Video Editing</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Video Editing</b></font>
 
 3
 00:00:00,730 --> 00:00:02,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Gigglebot</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Gigglebot</font></b></font>
 
 4
 00:00:00,730 --> 00:00:02,730
-<font face="FOT-Greco Std B Strp" size="22"><b>Gigglebot</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Gigglebot</b></font>
 
 5
 00:00:02,730 --> 00:00:04,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Timing</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Timing</font></b></font>
 
 6
 00:00:02,730 --> 00:00:04,730
-<font face="FOT-Greco Std B Strp" size="22"><b>Timing</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Timing</b></font>
 
 7
 00:00:02,730 --> 00:00:04,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Galaxy 9000</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Galaxy 9000</font></b></font>
 
 8
 00:00:02,730 --> 00:00:04,730
-<font face="FOT-Greco Std B Strp" size="22"><b>Galaxy 9000</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Galaxy 9000</b></font>
 
 9
 00:00:04,730 --> 00:00:07,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Quality Control</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Quality Control</font></b></font>
 
 10
 00:00:04,730 --> 00:00:07,730
-<font face="FOT-Greco Std B Strp" size="22"><b>Quality Control</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Quality Control</b></font>
 
 11
 00:00:04,730 --> 00:00:07,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">DolphinWeabu
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">DolphinWeabu
 danpmss
 Feeso
 Galaxy 9000
@@ -49,7 +49,7 @@ Pepperjack</font></b></font>
 
 12
 00:00:04,730 --> 00:00:07,730
-<font face="FOT-Greco Std B Strp" size="22"><b>DolphinWeabu
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}DolphinWeabu
 danpmss
 Feeso
 Galaxy 9000
@@ -58,103 +58,103 @@ Pepperjack</b></font>
 
 13
 00:00:07,730 --> 00:00:09,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Soundtracking</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Soundtracking</font></b></font>
 
 14
 00:00:07,730 --> 00:00:09,730
-<font face="FOT-Greco Std B Strp" size="22"><b>Soundtracking</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Soundtracking</b></font>
 
 15
 00:00:07,730 --> 00:00:09,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Halee</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Halee</font></b></font>
 
 16
 00:00:07,730 --> 00:00:09,730
-<font face="FOT-Greco Std B Strp" size="22"><b>Halee</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Halee</b></font>
 
 17
 00:00:09,730 --> 00:00:11,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Graphics</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Graphics</font></b></font>
 
 18
 00:00:09,730 --> 00:00:11,730
-<font face="FOT-Greco Std B Strp" size="22"><b>Graphics</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Graphics</b></font>
 
 19
 00:00:09,730 --> 00:00:11,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Datenshi</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Datenshi</font></b></font>
 
 20
 00:00:09,730 --> 00:00:11,730
-<font face="FOT-Greco Std B Strp" size="22"><b>Datenshi</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Datenshi</b></font>
 
 21
 00:00:11,730 --> 00:00:13,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Karaoke</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Karaoke</font></b></font>
 
 22
 00:00:11,730 --> 00:00:13,730
-<font face="FOT-Greco Std B Strp" size="22"><b>Karaoke</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Karaoke</b></font>
 
 23
 00:00:11,730 --> 00:00:13,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">KaitouYahiko</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">KaitouYahiko</font></b></font>
 
 24
 00:00:11,730 --> 00:00:13,730
-<font face="FOT-Greco Std B Strp" size="22"><b>KaitouYahiko</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}KaitouYahiko</b></font>
 
 25
 00:00:13,730 --> 00:00:15,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Subtitle Editing</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Subtitle Editing</font></b></font>
 
 26
 00:00:13,730 --> 00:00:15,730
-<font face="FOT-Greco Std B Strp" size="22"><b>Subtitle Editing</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Subtitle Editing</b></font>
 
 27
 00:00:13,730 --> 00:00:15,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Zenef</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Zenef</font></b></font>
 
 28
 00:00:13,730 --> 00:00:15,730
-<font face="FOT-Greco Std B Strp" size="22"><b>Zenef</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Zenef</b></font>
 
 29
 00:00:15,730 --> 00:00:17,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Translation</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Translation</font></b></font>
 
 30
 00:00:15,730 --> 00:00:17,730
-<font face="FOT-Greco Std B Strp" size="22"><b>Translation</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Translation</b></font>
 
 31
 00:00:15,730 --> 00:00:17,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">danpmss
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">danpmss
 Funimation
 Gaijin</font></b></font>
 
 32
 00:00:15,730 --> 00:00:17,730
-<font face="FOT-Greco Std B Strp" size="22"><b>danpmss
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}danpmss
 Funimation
 Gaijin</b></font>
 
 33
 00:00:17,730 --> 00:00:19,200
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Raws</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Raws</font></b></font>
 
 34
 00:00:17,730 --> 00:00:19,200
-<font face="FOT-Greco Std B Strp" size="22"><b>Raws</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Raws</b></font>
 
 35
 00:00:17,730 --> 00:00:19,200
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">df68</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">df68</font></b></font>
 
 36
 00:00:17,730 --> 00:00:19,200
-<font face="FOT-Greco Std B Strp" size="22"><b>df68</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}df68</b></font>
 
 37
 00:01:50,380 --> 00:01:54,120
@@ -179,7 +179,7 @@ from the very start.</font>
 
 42
 00:02:07,360 --> 00:02:10,100
-<font face="Impress BT Pace" size="37">So she fooled you completely!</font>
+<font face="Impress BT Pace" size="37">{So you had them completely fooled! - OG}So she fooled you completely!{arch: he's talking to Zoro}</font>
 
 43
 00:02:10,430 --> 00:02:14,800
@@ -308,7 +308,7 @@ What should we do with him?</font>
 
 71
 00:04:21,860 --> 00:04:24,620
-<font face="Impress BT Pace" size="37">Arlong! Arlong!</font>
+<font face="Impress BT Pace" size="37">Arlong{-san}! Arlong{-san}!</font>
 
 72
 00:04:25,530 --> 00:04:27,530
@@ -356,7 +356,7 @@ of mine they found.</font>
 
 82
 00:05:10,850 --> 00:05:13,120
-<font face="Impress BT Pace" size="37">Gen!</font>
+<font face="Impress BT Pace" size="37">Gen{-san}!</font>
 
 83
 00:05:13,120 --> 00:05:14,540
@@ -405,7 +405,7 @@ H-He's not human!</font>
 
 93
 00:05:55,960 --> 00:05:56,790
-<font face="Impress BT Pace" size="37" color="#d6d6d6">Makes sense.</font>
+<font face="Impress BT Pace" size="37" color="#d6d6d6">{Oh, yeah.}Makes sense.</font>
 
 94
 00:05:56,790 --> 00:06:00,100
@@ -518,12 +518,13 @@ Before Arlong comes back.</font>
 
 118
 00:07:56,700 --> 00:07:57,740
-<font face="Impress BT Pace" size="37">Gen!</font>
+<font face="Impress BT Pace" size="37">Gen{-san}!</font>
 
 119
 00:07:59,920 --> 00:08:02,870
-<font face="Impress BT Pace" size="37">The possession of weapons
-is a clear act of rebellion!</font>
+<font face="Impress BT Pace" size="37">{The possession of weapons
+is a clear sign of rebellion! - OG}The possession of weapons
+is a clear act of rebellion!{arch}</font>
 
 120
 00:08:02,870 --> 00:08:05,560
@@ -564,7 +565,7 @@ rebel now, of all times?!</font>
 
 128
 00:08:33,740 --> 00:08:35,990
-<font face="Impress BT Pace" size="37">Take your hands off Gen!</font>
+<font face="Impress BT Pace" size="37">Take your hands off Gen{-san}!</font>
 
 129
 00:08:38,050 --> 00:08:39,290
@@ -572,12 +573,12 @@ rebel now, of all times?!</font>
 
 130
 00:08:39,290 --> 00:08:41,960
-<font face="Impress BT Pace" size="37">It's not like he
-used any of the weapons!</font>
+<font face="Impress BT Pace" size="37">{It's not like he used any weapons!}It's not like he
+used any of the weapons!{arch}</font>
 
 131
 00:08:41,960 --> 00:08:45,120
-<font face="Impress BT Pace" size="37">Stop this! Let Gen go!</font>
+<font face="Impress BT Pace" size="37">Stop this! Let Gen{-san} go!</font>
 
 132
 00:08:45,120 --> 00:08:50,050
@@ -623,7 +624,7 @@ the patient fight! To live!</font>
 
 141
 00:09:24,270 --> 00:09:26,670
-<font face="Impress BT Pace" size="37">– Gen!
+<font face="Impress BT Pace" size="37">– Gen{-san}!
 – But...</font>
 
 142
@@ -638,12 +639,12 @@ Even for puny insects like you!</font>
 
 144
 00:09:37,510 --> 00:09:38,510
-<font face="Impress BT Pace" size="37">Gen!</font>
+<font face="Impress BT Pace" size="37">Gen{-san}!</font>
 
 145
 00:09:39,880 --> 00:09:44,100
-<font face="Impress BT Pace" size="37">By their very nature,
-some lifeforms are inferior to others!</font>
+<font face="Impress BT Pace" size="37">{Not all living things are born equal! - OG}By their very nature,
+some lifeforms are inferior to others!{arch: or "superior". OG is close but sounds like he's trying to argue against some statement, while he's really saying "all living things are born unequal" ... if that were to work in English.}</font>
 
 146
 00:09:45,890 --> 00:09:46,770
@@ -655,11 +656,11 @@ some lifeforms are inferior to others!</font>
 
 148
 00:09:47,990 --> 00:09:51,390
-<font face="Impress BT Pace" size="37">Don't... touch them!</font>
+<font face="Impress BT Pace" size="37">{Don't do anything! - OG}Don't... touch them!{arch: or "attack them", "lay a hand on them", etc.}</font>
 
 149
 00:09:51,390 --> 00:09:53,860
-<font face="Impress BT Pace" size="37">But, Gen!</font>
+<font face="Impress BT Pace" size="37">But, Gen{-san}!</font>
 
 150
 00:09:54,830 --> 00:10:00,660
@@ -723,8 +724,8 @@ calls me Demon King Usopp,</font>
 
 164
 00:10:42,410 --> 00:10:44,790
-<font face="Impress BT Pace" size="37">I'll give you one last
-chance to run away!</font>
+<font face="Impress BT Pace" size="37">{If you run away now, I'll forgive you!}I'll give you one last
+chance to run away!{arch: OG is close to being literal, but it's more "I'll let you off" / "I'll let you run away" than "forgive"}</font>
 
 165
 00:10:44,790 --> 00:10:46,160
@@ -732,7 +733,7 @@ chance to run away!</font>
 
 166
 00:10:46,160 --> 00:10:48,050
-<font face="Impress BT Pace" size="37">Arlong! That's him!</font>
+<font face="Impress BT Pace" size="37">Arlong{-san}! That's him!</font>
 
 167
 00:10:48,050 --> 00:10:50,300
@@ -762,7 +763,7 @@ the Exploding Star had no effect!</font>
 
 173
 00:11:14,610 --> 00:11:16,450
-<font face="Impress BT Pace" size="37">Arlong! Wait!</font>
+<font face="Impress BT Pace" size="37">Arlong{-san}! Wait!</font>
 
 174
 00:11:16,450 --> 00:11:20,570
@@ -826,8 +827,9 @@ Who does he take us for?!</font>
 
 188
 00:12:00,960 --> 00:12:05,200
-<font face="Impress BT Pace" size="37">We'll be back another day.
-You got out alive for now!</font>
+<font face="Impress BT Pace" size="37">{We'll be back another day.
+Looks like you're spared for now!}We'll be back another day.
+You got out alive for now!{arch: want to stress that their life was danger. Lit. it's "You narrowly escaped death"}</font>
 
 189
 00:12:11,270 --> 00:12:14,770
@@ -856,8 +858,8 @@ You're not at fault here!</font>
 
 195
 00:12:42,000 --> 00:12:46,490
-<font face="Impress BT Pace" size="37">Who here thinks the Unbelievable Usopp's
-death would be a great waste of talent?</font>
+<font face="Impress BT Pace" size="37">{Who thinks [Usopp-sama]the Unbelievable Usopp is too important to die yet?! - OG}Who here thinks the Unbelievable Usopp's
+death would be a great waste of talent?{arch: hope the q2 is alright since it's 4:3.}</font>
 
 196
 00:12:46,490 --> 00:12:47,700
@@ -1066,7 +1068,7 @@ I'm a ravishing octopus fishman!</font>
 
 244
 00:16:42,320 --> 00:16:44,530
-<font face="Impress BT Pace" size="37">Arlong's not here right now, is he?</font>
+<font face="Impress BT Pace" size="37">Arlong{-san}'s not here right now, is he?</font>
 
 245
 00:16:44,530 --> 00:16:46,190
@@ -1079,12 +1081,13 @@ outsider running all over the place.</font>
 
 247
 00:16:51,700 --> 00:16:54,300
-<font face="Impress BT Pace" size="37">Another one is already locked up here</font>
+<font face="Impress BT Pace" size="37">{He locked up his friend here - OG}Another one is already locked up here{arch}</font>
 
 248
 00:16:54,300 --> 00:16:57,660
-<font face="Impress BT Pace" size="37">and Arlong went to Cocoyashi Village
-to get this other guy.</font>
+<font face="Impress BT Pace" size="37">{and went to Cocoyashi Village
+to get this other guy. - OG}and Arlong went to Cocoyashi Village
+to get this other guy.{arch}</font>
 
 249
 00:16:57,660 --> 00:16:59,770
@@ -1177,7 +1180,7 @@ Big Bro Luffy!</font>
 
 270
 00:18:23,400 --> 00:18:25,410
-<font face="Impress BT Pace" size="37">Need another one, huh?!</font>
+<font face="Impress BT Pace" size="37">{Another one, huh?! - OG}Need another one, huh?!{arch: he means another punch, so I'm making that clearer}</font>
 
 271
 00:18:24,750 --> 00:18:25,410
@@ -1238,7 +1241,7 @@ He's gonna sink the boat!</font>
 
 284
 00:19:24,780 --> 00:19:27,160
-<font face="Impress BT Pace" size="37">All right! Back to eating!</font>
+<font face="Impress BT Pace" size="37">{All right! Back to food!}All right! Back to eating!{arch: or maybe "Back to the food" (this here is lit. though), but just "Back to food" sounds too shortened even for Luffy}</font>
 
 285
 00:19:27,160 --> 00:19:29,100
@@ -1254,7 +1257,7 @@ He's gonna sink the boat!</font>
 
 288
 00:19:36,730 --> 00:19:39,560
-<font face="Impress BT Pace" size="37">Arlong should be here.</font>
+<font face="Impress BT Pace" size="37">Arlong{-san} should be here.</font>
 
 289
 00:19:39,560 --> 00:19:40,690
@@ -1316,8 +1319,9 @@ asking my name again for?</font>
 
 303
 00:20:34,830 --> 00:20:39,130
-<font face="Impress BT Pace" size="37">The Pirate Hunter?!
-Did he come for my bounty?!</font>
+<font face="Impress BT Pace" size="37">{The Pirate Hunter?!
+Did he come to collect my head?! - OG}The Pirate Hunter?!
+Did he come for my bounty?!{arch}</font>
 
 304
 00:20:41,400 --> 00:20:45,800
@@ -1333,12 +1337,13 @@ Did he come for my bounty?!</font>
 
 307
 00:20:48,260 --> 00:20:52,800
-<font face="Impress BT Pace" size="37">That belly band guy we
-caught was Roronoa.</font>
+<font face="Impress BT Pace" size="37">{That haramaki guy we 
+caught was Roronoa. - OG}That belly band guy we
+caught was Roronoa.{arch}</font>
 
 308
 00:20:57,980 --> 00:21:01,150
-<font face="Impress BT Pace" size="37">I caught him, Arlong!</font>
+<font face="Impress BT Pace" size="37">I caught him, Arlong{-san}!</font>
 
 309
 00:21:01,150 --> 00:21:03,780
@@ -1354,8 +1359,9 @@ caught was Roronoa.</font>
 
 312
 00:21:12,030 --> 00:21:17,790
-<font face="Impress BT Pace" size="37">Catching this scum isn't nearly
-enough to satisfy my hunger!</font>
+<font face="Impress BT Pace" size="37">{Catching this scum isn't
+enough to satisfy my hunger!}Catching this scum isn't nearly
+enough to satisfy my hunger!{arch}</font>
 
 313
 00:21:18,670 --> 00:21:21,940
@@ -1384,7 +1390,7 @@ anything to do with Zoro!</font>
 318
 00:21:48,570 --> 00:21:52,740
 <font face="Impress BT Pace" size="37">Enough of your blatant lies.
-You stood up to Arlong, too.</font>
+You stood up to Arlong{-san}, too.</font>
 
 319
 00:21:52,740 --> 00:21:55,330
@@ -1439,7 +1445,7 @@ someone let him escape.</font>
 
 330
 00:22:31,950 --> 00:22:35,890
-<font face="Impress BT Pace" size="37">Arlong. Does this
+<font face="Impress BT Pace" size="37">Arlong{-san}. Does this
 sound plausible to you?</font>
 
 331
@@ -1557,7 +1563,7 @@ are Roronoa Zoro and his group!</font>
 
 357
 00:24:16,890 --> 00:24:19,810
-<font face="Impress BT Pace" size="37">Not after he's defied Arlong.</font>
+<font face="Impress BT Pace" size="37">Not after he's defied Arlong{-san}.</font>
 
 358
 00:24:19,810 --> 00:24:21,140
@@ -1591,7 +1597,7 @@ and I agreed to soon!</font>
 365
 00:24:36,950 --> 00:24:40,890
 <font face="Impress BT Pace" size="37">You agreed eight years ago to buy
-Cocoyashi Village from Arlong</font>
+Cocoyashi Village from Arlong{-san}</font>
 
 366
 00:24:40,890 --> 00:24:43,160

@@ -1,84 +1,84 @@
 1
 00:00:01,730 --> 00:00:03,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Video Editing</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Video Editing</font></b></font>
 
 2
 00:00:01,730 --> 00:00:03,730
-<font face="FOT-Greco Std B Strp" size="22"><b>Video Editing</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Video Editing</b></font>
 
 3
 00:00:01,730 --> 00:00:03,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Gigglebot</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Gigglebot</font></b></font>
 
 4
 00:00:01,730 --> 00:00:03,730
-<font face="FOT-Greco Std B Strp" size="22"><b>Gigglebot</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Gigglebot</b></font>
 
 5
 00:00:03,730 --> 00:00:05,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Timing</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Timing</font></b></font>
 
 6
 00:00:03,730 --> 00:00:05,730
-<font face="FOT-Greco Std B Strp" size="22"><b>Timing</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Timing</b></font>
 
 7
 00:00:03,730 --> 00:00:05,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">PhosCity</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">PhosCity</font></b></font>
 
 8
 00:00:03,730 --> 00:00:05,730
-<font face="FOT-Greco Std B Strp" size="22"><b>PhosCity</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}PhosCity</b></font>
 
 9
 00:00:05,730 --> 00:00:09,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Quality Control</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Quality Control</font></b></font>
 
 10
 00:00:05,730 --> 00:00:09,730
-<font face="FOT-Greco Std B Strp" size="22"><b>Quality Control</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Quality Control</b></font>
 
 11
 00:00:05,730 --> 00:00:09,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Galaxy 9000
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Galaxy 9000
 Pepperjack</font></b></font>
 
 12
 00:00:05,730 --> 00:00:09,730
-<font face="FOT-Greco Std B Strp" size="22"><b>Galaxy 9000
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Galaxy 9000
 Pepperjack</b></font>
 
 13
 00:00:09,730 --> 00:00:11,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Soundtracking</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Soundtracking</font></b></font>
 
 14
 00:00:09,730 --> 00:00:11,730
-<font face="FOT-Greco Std B Strp" size="22"><b>Soundtracking</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Soundtracking</b></font>
 
 15
 00:00:09,730 --> 00:00:11,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Halee</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Halee</font></b></font>
 
 16
 00:00:09,730 --> 00:00:11,730
-<font face="FOT-Greco Std B Strp" size="22"><b>Halee</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Halee</b></font>
 
 17
 00:00:11,730 --> 00:00:13,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Graphics</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Graphics</font></b></font>
 
 18
 00:00:11,730 --> 00:00:13,730
-<font face="FOT-Greco Std B Strp" size="22"><b>Graphics</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Graphics</b></font>
 
 19
 00:00:11,730 --> 00:00:13,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Datenshi</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Datenshi</font></b></font>
 
 20
 00:00:11,730 --> 00:00:13,730
-<font face="FOT-Greco Std B Strp" size="22"><b>Datenshi</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Datenshi</b></font>
 
 21
 00:00:12,900 --> 00:00:14,630
@@ -86,19 +86,19 @@ Pepperjack</b></font>
 
 22
 00:00:13,730 --> 00:00:15,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Karaoke</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Karaoke</font></b></font>
 
 23
 00:00:13,730 --> 00:00:15,730
-<font face="FOT-Greco Std B Strp" size="22"><b>Karaoke</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Karaoke</b></font>
 
 24
 00:00:13,730 --> 00:00:15,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">KaitouYahiko</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">KaitouYahiko</font></b></font>
 
 25
 00:00:13,730 --> 00:00:15,730
-<font face="FOT-Greco Std B Strp" size="22"><b>KaitouYahiko</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}KaitouYahiko</b></font>
 
 26
 00:00:14,630 --> 00:00:17,540
@@ -106,19 +106,19 @@ Pepperjack</b></font>
 
 27
 00:00:15,730 --> 00:00:17,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Subtitle Editing</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Subtitle Editing</font></b></font>
 
 28
 00:00:15,730 --> 00:00:17,730
-<font face="FOT-Greco Std B Strp" size="22"><b>Subtitle Editing</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Subtitle Editing</b></font>
 
 29
 00:00:15,730 --> 00:00:17,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Zenef</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Zenef</font></b></font>
 
 30
 00:00:15,730 --> 00:00:17,730
-<font face="FOT-Greco Std B Strp" size="22"><b>Zenef</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Zenef</b></font>
 
 31
 00:00:17,540 --> 00:00:20,370
@@ -126,39 +126,39 @@ Pepperjack</b></font>
 
 32
 00:00:17,730 --> 00:00:19,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Translation</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Translation</font></b></font>
 
 33
 00:00:17,730 --> 00:00:19,730
-<font face="FOT-Greco Std B Strp" size="22"><b>Translation</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Translation</b></font>
 
 34
 00:00:17,730 --> 00:00:19,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">danpmss
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">danpmss
 FUNimation
 Gaijin</font></b></font>
 
 35
 00:00:17,730 --> 00:00:19,730
-<font face="FOT-Greco Std B Strp" size="22"><b>danpmss
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}danpmss
 FUNimation
 Gaijin</b></font>
 
 36
 00:00:19,730 --> 00:00:22,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Raws</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Raws</font></b></font>
 
 37
 00:00:19,730 --> 00:00:22,730
-<font face="FOT-Greco Std B Strp" size="22"><b>Raws</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Raws</b></font>
 
 38
 00:00:19,730 --> 00:00:22,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Neo-Raws</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Neo-Raws</font></b></font>
 
 39
 00:00:19,730 --> 00:00:22,730
-<font face="FOT-Greco Std B Strp" size="22"><b>Neo-Raws</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Neo-Raws</b></font>
 
 40
 00:00:20,370 --> 00:00:23,480
@@ -178,11 +178,11 @@ Gaijin</b></font>
 
 44
 00:02:08,500 --> 00:02:10,440
-<font face="Impress BT" size="37">Huh? A-Are you okay?</font>
+<font face="Impress BT" size="37">{Huh? Wh-What's wrong?}Huh? A-Are you okay?</font>
 
 45
 00:02:12,600 --> 00:02:15,900
-<font face="Impress BT" size="37">Whoa. They're so huge!</font>
+<font face="Impress BT" size="37">{Oh boy... What a huge duel!}{Whoa... They are so huge!}Whoa. They're so huge!</font>
 
 46
 00:03:08,160 --> 00:03:10,210
@@ -191,25 +191,31 @@ with his helmet!</font>
 
 47
 00:03:10,210 --> 00:03:13,670
-<font face="Impress BT" size="37">If he was off by even a hair, 
+<font face="Impress BT" size="37">{If he was off by even an inch, 
+he would've died instantly!}If he was off by even a hair, 
 he would've died instantly!</font>
 
 48
 00:03:30,100 --> 00:03:32,390
-<font face="Impress BT" size="37">What a fight!</font>
+<font face="Impress BT" size="37">What a fight{...}!</font>
 
 49
 00:03:32,390 --> 00:03:38,530
-<font face="Impress BT" size="37">Each attack is meant 
+<font face="Impress BT" size="37">{Each of their attacks is a lethal blow
+aimed at the opponent's vital point!}{Each attack is a lethal blow aimed
+toward each other's vital points!}Each attack is meant 
 to be a killing blow!</font>
 
 50
 00:03:38,530 --> 00:03:43,950
-<font face="Impress BT" size="37">And their duel has lasted 100 years?</font>
+<font face="Impress BT" size="37">{Those two have continued this duel 
+to the death for 100 years?}And their duel {to the death
+}has lasted 100 years?</font>
 
 51
 00:03:45,030 --> 00:03:49,620
-<font face="Impress BT" size="37">But that's good news for us.
+<font face="Impress BT" size="37">{But this is good... We can use 
+this opportunity to get out of here.}{But that's good, this is our chance to run away. Let's go!}But that's good news for us.
 Now we can escape. Let's go!</font>
 
 52
@@ -218,11 +224,11 @@ Now we can escape. Let's go!</font>
 
 53
 00:04:03,880 --> 00:04:05,260
-<font face="Impress BT" size="37">Incredible.</font>
+<font face="Impress BT" size="37">Incredible{...}.</font>
 
 54
 00:04:07,050 --> 00:04:09,140
-<font face="Impress BT" size="37"><i>Reason?</i></font>
+<font face="Impress BT" size="37"><i>Reason?{Flashback to Little Garden 01 @timestamp 28:21}</i></font>
 
 55
 00:04:09,140 --> 00:04:10,890
@@ -230,59 +236,66 @@ Now we can escape. Let's go!</font>
 
 56
 00:04:17,690 --> 00:04:21,400
-<font face="Impress BT" size="37">Even without a reason, they put 
+<font face="Impress BT" size="37">Even without a reason, {they're fighting so seriously...}they put 
 their heart and soul into fighting.</font>
 
 57
 00:04:22,240 --> 00:04:25,070
-<font face="Impress BT" size="37">I know! How annoying, right?</font>
+<font face="Impress BT" size="37">{This fight sure is a bother.}{They can't be serious with this fight.}I know! How annoying, right?</font>
 
 58
 00:04:25,070 --> 00:04:26,120
-<font face="Impress BT" size="37">You don't get it!</font>
+<font face="Impress BT" size="37">{You idiot!}You don't get it!</font>
 
 59
 00:04:26,120 --> 00:04:29,830
-<font face="Impress BT" size="37">This is what a battle
+<font face="Impress BT" size="37">{This is what people mean 
+by a real battle between men!}{This is nothing short of
+a true battle between men!}This is what a battle
 between real men is all about!</font>
 
 60
 00:04:31,040 --> 00:04:32,200
-<font face="Impress BT" size="37">Meaning?</font>
+<font face="Impress BT" size="37">{What's that about?}Meaning?</font>
 
 61
 00:04:33,040 --> 00:04:39,960
-<font face="Impress BT" size="37">To use an analogy, they each 
+<font face="Impress BT" size="37">{To use an analogy, each of them fly 
+a warrior's flag in their chest.}To use an analogy, they each 
 fly a warrior's flag in their hearts,</font>
 
 62
 00:04:39,960 --> 00:04:43,840
-<font face="Impress BT" size="37">and those flags are more 
+<font face="Impress BT" size="37">{This flag is even more 
+important than their life.}and those flags are more 
 important to them than life itself.</font>
 
 63
 00:04:44,680 --> 00:04:46,930
-<font face="Impress BT" size="37">They would never 
+<font face="Impress BT" size="37">{In no way do they want it
+to be destroyed by others.}They would never 
 let them be torn down.</font>
 
 64
 00:04:46,930 --> 00:04:51,470
-<font face="Impress BT" size="37">And so, to protect these flags,
+<font face="Impress BT" size="37">{That's why they've continued to take 
+on each other for 100 long years!}And so, to protect these flags,
 they've fought for 100 years!</font>
 
 65
 00:04:54,730 --> 00:04:57,480
-<font face="Impress BT" size="37">Now do you get it? 
+<font face="Impress BT" size="37">{Do you get it? 
+This is unmistakably...}Now do you get it? 
 This is, without a doubt,</font>
 
 66
 00:04:57,480 --> 00:05:01,280
-<font face="Impress BT" size="37">an honorable battle
+<font face="Impress BT" size="37">{a proud duel between warriors!}an honorable battle
  between true warriors!</font>
 
 67
 00:05:03,320 --> 00:05:06,950
-<font face="Impress BT" size="37">Whatever. Stuff like that 
+<font face="Impress BT" size="37">Whatever{...}. Stuff like that 
 doesn't interest me.</font>
 
 68
@@ -295,16 +308,17 @@ doesn't interest me.</font>
 
 70
 00:05:12,200 --> 00:05:18,170
-<font face="Impress BT" size="37">They embody exactly what I want: 
+<font face="Impress BT" size="37">{This is exactly what my goal is...}{This sums up my goal exactly}They embody exactly what I want: 
 to be a brave warrior of the sea!</font>
 
 71
 00:05:18,170 --> 00:05:22,130
-<font face="Impress BT" size="37">I wanna be as honorable as them!</font>
+<font face="Impress BT" size="37">{I wanna be a proud man like them!}{To become a man of honor,
+just like them!}I wanna be as honorable as them!</font>
 
 72
 00:05:28,470 --> 00:05:32,510
-<font face="Impress BT" size="37">Huh? So you wanna become a giant?</font>
+<font face="Impress BT" size="37">{I see... So you wanna be a giant.}Huh{…}? So you wanna become a giant?</font>
 
 73
 00:05:33,310 --> 00:05:36,690
@@ -313,12 +327,14 @@ Were you even listening to me?!</font>
 
 74
 00:05:36,690 --> 00:05:39,610
-<font face="Impress BT" size="37">Hey, weren't you gonna
+<font face="Impress BT" size="37">{There! Don't you have to 
+watch them over there?}Hey, weren't you gonna
 watch those guys?</font>
 
 75
 00:05:45,240 --> 00:05:48,320
-<font face="Impress BT" size="37">If there's a village
+<font face="Impress BT" size="37">{If there's a village with 
+warriors like them in it,}If there's a village
 full of warriors like them,</font>
 
 76
@@ -327,7 +343,8 @@ full of warriors like them,</font>
 
 77
 00:06:05,210 --> 00:06:11,220
-<font face="Impress BT" size="37">We both long for home, 
+<font face="Impress BT" size="37">{We're both getting homesick, 
+aren't we, Dorry?}We both long for home, 
 don't we, Dorry?</font>
 
 78
@@ -337,65 +354,70 @@ and go back to Elbaf, Brogy.</font>
 
 79
 00:06:34,950 --> 00:06:38,500
-<font face="Impress BT" size="37">73,466 duels.</font>
+<font face="Impress BT" size="37">73,466 duels{...}.</font>
 
 80
 00:06:38,500 --> 00:06:43,500
-<font face="Impress BT" size="37">73,466 draws.</font>
+<font face="Impress BT" size="37">73,466 draws{...}.</font>
 
 81
 00:07:13,200 --> 00:07:16,540
-<font face="Impress BT" size="37">Hey, you overgrown lizard.
+<font face="Impress BT" size="37">{Hey, big lizard. 
+You're in our way.}Hey, you overgrown lizard.
 Out of our way.</font>
 
 82
 00:07:18,750 --> 00:07:20,500
-<font face="Impress BT" size="37"> Leave it to me.</font>
+<font face="Impress BT" size="37">{Let me take care of it.} Leave it to me.</font>
 
 83
 00:07:23,000 --> 00:07:24,960
-<font face="Impress BT" size="37">Ten Thousand Kilo Press!</font>
+<font face="Impress BT" size="37">{10,000}Ten Thousand Kilo Press!</font>
 
 84
 00:07:38,100 --> 00:07:40,810
-<font face="Impress BT" size="37">Greetings, Mr. 5. </font>
+<font face="Impress BT" size="37">{Oh hello}Greetings, Mr. 5. {Dan: Just giving emphasis to his sophisticated way of talking, differently}</font>
 
 85
 00:07:42,600 --> 00:07:44,480
-<font face="Impress BT" size="37">Nice ability you've got there,</font>
+<font face="Impress BT" size="37">{What an extravagant 
+power you have,}Nice ability you've got there,</font>
 
 86
 00:07:44,480 --> 00:07:47,320
-<font face="Impress BT" size="37">building an instant cottage 
+<font face="Impress BT" size="37">{building an improvised 
+house in a jungle.}building an instant cottage 
 in the jungle.</font>
 
 87
 00:07:47,320 --> 00:07:50,440
-<font face="Impress BT" size="37">Let's be clear, though.
+<font face="Impress BT" size="37">{Let me tell you something, though. 
+This mission is still ours.}Let's be clear, though.
 This mission is still ours.</font>
 
 88
 00:07:50,440 --> 00:07:52,990
-<font face="Impress BT" size="37">We'd appreciate you staying out of it.</font>
+<font face="Impress BT" size="37">{I don't want you to meddle in it.}{I would like you to keep your hands out of it.}We'd appreciate you staying out of it.</font>
 
 89
 00:07:52,990 --> 00:07:55,780
-<font face="Impress BT" size="37">We won't make
+<font face="Impress BT" size="37">{We'll never goof up}{We won't screw up like that again.}We won't make
 the same mistake twice.</font>
 
 90
 00:07:55,780 --> 00:07:57,280
-<font face="Impress BT" size="37">– “Mistake”?
+<font face="Impress BT" size="37">– {Goof up}{"Screw up"?}“Mistake”?
 – Hm?!</font>
 
 91
 00:07:57,280 --> 00:08:04,120
-<font face="Impress BT" size="37">That's incorrect. You two are weak, 
+<font face="Impress BT" size="37">That's {not it}incorrect. You two are weak, 
 Mr. 5 and Miss Valentine.</font>
 
 92
 00:08:06,710 --> 00:08:11,050
-<font face="Impress BT" size="37">Well, don't pout about it.
+<font face="Impress BT" size="37">{Well, don't look so stern. 
+Look at this.}Well, don't pout about it.
 Take a good look at this.</font>
 
 93
@@ -414,7 +436,7 @@ and Brogy the Red Ogre,</font>
 
 96
 00:08:26,810 --> 00:08:29,110
-<font face="Impress BT" size="37">There are old tales about them.</font>
+<font face="Impress BT" size="37">{I've heard of them in an old tale.}There are old tales about them.</font>
 
 97
 00:08:29,110 --> 00:08:31,690
@@ -423,27 +445,30 @@ from 100 years ago!</font>
 
 98
 00:08:31,690 --> 00:08:36,950
-<font face="Impress BT" size="37">And now they reside here
+<font face="Impress BT" size="37">{Yeah, but those guys 
+now live on this island.}{But now, those guys live here,
+ this island we find ourselves on.}And now they reside here
 on this very island.</font>
 
 99
 00:08:36,950 --> 00:08:40,830
-<font face="Impress BT" size="37">Their bounty remains at
-one hundred million belly per head.</font>
+<font face="Impress BT" size="37">Their bounty {then was}remains at
+{100}one hundred million belly per head.</font>
 
 100
 00:08:40,830 --> 00:08:43,580
-<font face="Impress BT" size="37">Two hundred million belly
+<font face="Impress BT" size="37">{200}{Two-hundred-million-belly}Two hundred million belly
 for the two of them.</font>
 
 101
 00:08:43,580 --> 00:08:48,340
-<font face="Impress BT" size="37">Two-hundred-million-belly bounties?! 
+<font face="Impress BT" size="37">{200}Two-hundred-million-belly bounties?! 
 But they're giants.</font>
 
 102
 00:08:48,340 --> 00:08:54,800
-<font face="Impress BT" size="37">Only the most superb minds 
+<font face="Impress BT" size="37">{Superb criminals execute their
+crimes by using their superb brains.}Only the most superb minds 
 execute the most superb crimes.</font>
 
 103
@@ -453,18 +478,20 @@ is follow my instructions.</font>
 
 104
 00:08:58,390 --> 00:09:04,100
-<font face="Impress BT" size="37">With a little ingenuity, 
+<font face="Impress BT" size="37">{If we give it a little thought, 
+we can cut through any mountain.}With a little ingenuity, 
 we can even cut through mountains.</font>
 
 105
 00:09:26,330 --> 00:09:29,460
-<font face="Impress BT" size="37">Dorry! I got us some booze,
+<font face="Impress BT" size="37">{Dorry! Actually, I got alcohol 
+from my guests.}Dorry! I got us some booze,
 courtesy of our guests.</font>
 
 106
 00:09:29,460 --> 00:09:34,920
 <font face="Impress BT" size="37">Great! It's been a while 
-since my last drink. I'd love some.</font>
+since {I had a drink. Give me some.}my last drink. I'd love some.</font>
 
 107
 00:09:42,310 --> 00:09:46,480
@@ -473,7 +500,8 @@ are your friends, huh?</font>
 
 108
 00:09:46,480 --> 00:09:49,690
-<font face="Impress BT" size="37">I saw a long-nosed man
+<font face="Impress BT" size="37">I saw a long-nosed man{ with 
+a long nose}
 and a woman.</font>
 
 109
@@ -482,8 +510,8 @@ and a woman.</font>
 
 110
 00:09:51,270 --> 00:09:54,360
-<font face="Impress BT" size="37">How funny! They said 
-they weren't gonna leave the ship.</font>
+<font face="Impress BT" size="37">{Hah}How funny! They said 
+they {wouldn't get off the ship,}weren't gonna leave the ship.</font>
 
 111
 00:09:54,360 --> 00:09:56,150
@@ -491,7 +519,7 @@ they weren't gonna leave the ship.</font>
 
 112
 00:09:56,150 --> 00:10:00,780
-<font face="Impress BT" size="37">Then, in a way, you could also say 
+<font face="Impress BT" size="37">{Then you could also say that}Then, in a way, you could also say 
 that I got this alcohol from you.</font>
 
 113
@@ -500,31 +528,34 @@ that I got this alcohol from you.</font>
 
 114
 00:10:07,410 --> 00:10:11,040
-<font face="Impress BT" size="37">is it true the log takes
+<font face="Impress BT" size="37">{does it really take a year 
+for the log to be stored?}is it true the log takes
 an entire year to register?</font>
 
 115
 00:10:11,040 --> 00:10:16,760
-<font face="Impress BT" size="37">Why, didn't you notice 
+<font face="Impress BT" size="37">{Didn't}Why, didn't you notice 
 the human skulls lying around?</font>
 
 116
 00:10:17,590 --> 00:10:22,800
-<font face="Impress BT" size="37">Most people who come to this island
+<font face="Impress BT" size="37">{Those who come to this island die 
+before the log is stored in most cases.}Most people who come to this island
 die before their log is ready.</font>
 
 117
 00:10:22,800 --> 00:10:25,720
-<font face="Impress BT" size="37">Some are eaten by dinosaurs.</font>
+<font face="Impress BT" size="37">Some {get}are eaten by dinosaurs.</font>
 
 118
 00:10:25,720 --> 00:10:27,560
-<font face="Impress BT" size="37">Others starve or 
+<font face="Impress BT" size="37">{Some suffer from the heat and starvation.}Others starve or 
 succumb to the heat.</font>
 
 119
 00:10:27,560 --> 00:10:32,690
-<font face="Impress BT" size="37">Still, others attack us, 
+<font face="Impress BT" size="37">{Some others are killed because 
+they attack us. They all die...}Still, others attack us, 
 and we in turn kill them. They all die.</font>
 
 120
@@ -534,21 +565,22 @@ is too long for humans.</font>
 
 121
 00:10:40,360 --> 00:10:44,450
-<font face="Impress BT" size="37">Then what can we do? 
+<font face="Impress BT" size="37">{What're we gonna do?}Then what can we do? 
 Even if we could survive for a year,</font>
 
 122
 00:10:44,450 --> 00:10:48,580
-<font face="Impress BT" size="37">if that much time passes, who knows what will become of my country?</font>
+<font face="Impress BT" size="37">{if that much time passes, I don't know what will happen to my country by then.}if that much time passes, who knows what will become of my country?</font>
 
 123
 00:10:49,210 --> 00:10:52,920
-<font face="Impress BT" size="37">Yeah, it'd start to get pretty boring
+<font face="Impress BT" size="37">{Yeah. I'd get bored, too, 
+if we stay here for a year.}Yeah, it'd start to get pretty boring
 if we stayed an entire year.</font>
 
 124
 00:10:52,920 --> 00:10:55,380
-<font face="Impress BT" size="37">Isn't there a better way, old guy? </font>
+<font face="Impress BT" size="37">Isn't there a {good}better way, old guy? {Dan: "Good" would be a fine translation, but the dialogue is going more along the lines of "isn't there a better way to do this thing that is actually good?"}</font>
 
 125
 00:10:55,380 --> 00:10:56,710
@@ -561,12 +593,13 @@ but it's to our hometown, Elbaf.</font>
 
 127
 00:11:02,430 --> 00:11:07,680
-<font face="Impress BT" size="37">You could even say we're
+<font face="Impress BT" size="37">{In other words, we're fighting 
+for this eternal pose.}You could even say we're
 fighting for this eternal pose.</font>
 
 128
 00:11:07,680 --> 00:11:10,140
-<font face="Impress BT" size="37">Do you want to try 
+<font face="Impress BT" size="37">Do you {wanna}want to try 
 taking it by force?</font>
 
 129
@@ -581,7 +614,7 @@ after this one. Right?</font>
 
 131
 00:11:17,780 --> 00:11:18,820
-<font face="Impress BT" size="37">Yes.</font>
+<font face="Impress BT" size="37">Yes{...}.</font>
 
 132
 00:11:19,610 --> 00:11:23,820
@@ -594,12 +627,13 @@ there's no point in moving forward.</font>
 
 134
 00:11:25,780 --> 00:11:28,790
-<font face="Impress BT" size="37">Then why don't you take a chance 
+<font face="Impress BT" size="37">{Then why don't you 
+move forward randomly?}Then why don't you take a chance 
 and sail ahead anyway?</font>
 
 135
 00:11:29,500 --> 00:11:33,130
-<font face="Impress BT" size="37">If luck is on your side,
+<font face="Impress BT" size="37">{If ]you're lucky, you'll get there.}If luck is on your side,
 you'll reach your destination.</font>
 
 136
@@ -608,15 +642,15 @@ you'll reach your destination.</font>
 
 137
 00:11:43,720 --> 00:11:46,430
-<font face="Impress BT" size="37">Who knows? We might just make it.</font>
+<font face="Impress BT" size="37">{We may actually get there, huh?}Who knows? We might just make it.</font>
 
 138
 00:11:49,730 --> 00:11:50,980
-<font face="Impress BT" size="37">You know, long ago,</font>
+<font face="Impress BT" size="37">{Come to think of it, long ago,}You know, long ago,</font>
 
 139
 00:11:50,980 --> 00:11:54,400
-<font face="Impress BT" size="37">there was someone who left before the log was ready.</font>
+<font face="Impress BT" size="37">there was someone who left before the log was {stored}ready.</font>
 
 140
 00:11:54,560 --> 00:11:55,980
@@ -650,7 +684,8 @@ What's that?</font>
 
 147
 00:12:28,100 --> 00:12:32,770
-<font face="Impress BT" size="37">I'm talking about <i>you<font size="8"> </font></i></font>! I wanna
+<font face="Impress BT" size="37">{I'm talking about you guys. 
+I wanna be like you guys someday!}I'm talking about <i>you<font size="8"> </font></i></font>! I wanna
 be just like you two someday.
 
 148
@@ -672,31 +707,32 @@ just like the warriors of Elbaf!</font>
 
 152
 00:12:48,410 --> 00:12:49,370
-<font face="Impress BT" size="37">So, that's it!</font>
+<font face="Impress BT" size="37">{I see!}So, that's it!</font>
 
 153
 00:12:50,200 --> 00:12:54,080
-<font face="Impress BT" size="37">We live so much longer
+<font face="Impress BT" size="37">{Especially since our life span 
+is longer than you humans',}We live so much longer
 than you humans,</font>
 
 154
 00:12:54,080 --> 00:12:56,830
-<font face="Impress BT" size="37">so we often think upon
+<font face="Impress BT" size="37">{we think about how we die.}so we often think upon
 how we will die.</font>
 
 155
 00:12:56,830 --> 00:13:02,550
-<font face="Impress BT" size="37">Your assets, your life...
+<font face="Impress BT" size="37">{Your assets, life... Everything will eventually cease to exist.}Your assets, your life...
 All will eventually cease to exist.</font>
 
 156
 00:13:02,550 --> 00:13:07,800
-<font face="Impress BT" size="37">But if we die as warriors of Elbaf 
-with our pride intact,</font>
+<font face="Impress BT" size="37">But if we {could}die {as a warrior}as warriors of Elbaf 
+{without destroying our pride,}with our pride intact,</font>
 
 157
 00:13:07,800 --> 00:13:10,010
-<font face="Impress BT" size="37"><i>that</i> would be an honorable death.</font>
+<font face="Impress BT" size="37"><i>{that would be dying with honor.}that</i> would be an honorable death.</font>
 
 158
 00:13:10,680 --> 00:13:15,480
@@ -705,12 +741,13 @@ that is passed on in the land of Elbaf.</font>
 
 159
 00:13:16,810 --> 00:13:20,440
-<font face="Impress BT" size="37">So, pride is your treasure? 
-That's so cool!</font>
+<font face="Impress BT" size="37">So, pride is your treasure{...}? 
+That's so cool{...}!</font>
 
 160
 00:13:20,440 --> 00:13:24,860
-<font face="Impress BT" size="37">I've decided! From now on,
+<font face="Impress BT" size="37">{I've just decided… 
+that I'll call you master from now on!}I've decided! From now on,
 I will call you master!</font>
 
 161
@@ -727,11 +764,12 @@ I will call you master!</font>
 
 164
 00:13:49,510 --> 00:13:51,640
-<font face="Impress BT" size="37">Why did his drink explode?</font>
+<font face="Impress BT" size="37">Why did {the alcohol}his drink explode?</font>
 
 165
 00:13:51,640 --> 00:13:55,600
-<font face="Impress BT" size="37">That alcohol came 
+<font face="Impress BT" size="37">{That was the alcohol we 
+had on our ship, right?!}That alcohol came 
 from our ship, didn't it?!</font>
 
 166
@@ -741,25 +779,26 @@ from our ship, didn't it?!</font>
 167
 00:13:59,730 --> 00:14:02,820
 <font face="Impress BT" size="37">That other giant must have 
-laced it with an explosive.</font>
+{laid the explosive!}laced it with an explosive.</font>
 
 168
 00:14:03,530 --> 00:14:05,650
-<font face="Impress BT" size="37">Were we even watching
+<font face="Impress BT" size="37">{What the hell were you watching?!}Were we even watching
 the same thing?!</font>
 
 169
 00:14:05,650 --> 00:14:08,450
-<font face="Impress BT" size="37">After 100 years of fighting, 
-they'd never do something like this!</font>
+<font face="Impress BT" size="37">{They've been fighting for 100 years! 
+No way they'd do something like this!}After 100 years of fighting, 
+{it couldn't have been them}they'd never do something like this!</font>
 
 170
 00:14:10,410 --> 00:14:12,620
-<font face="Impress BT" size="37">Then who in the world…?</font>
+<font face="Impress BT" size="37">{Then who on earth...}Then who in the world…?</font>
 
 171
 00:14:15,160 --> 00:14:17,250
-<font face="Impress BT" size="37">You bastards did.</font>
+<font face="Impress BT" size="37">You bastards did{...}.</font>
 
 172
 00:14:19,290 --> 00:14:21,960
@@ -767,25 +806,27 @@ they'd never do something like this!</font>
 
 173
 00:14:22,670 --> 00:14:28,050
-<font face="Impress BT" size="37">We are proud warriors 
-that hail from Elbaf.</font>
+<font face="Impress BT" size="37">{We're}We are proud warriors 
+{of Elbaf}that hail from Elbaf.</font>
 
 174
 00:14:28,050 --> 00:14:32,140
-<font face="Impress BT" size="37">Other than you,
+<font face="Impress BT" size="37">{Who else besides you 
+should I be suspicious of?}Other than you,
 who else is there to suspect?</font>
 
 175
 00:14:33,850 --> 00:14:35,180
-<font face="Impress BT" size="37">We need to run!</font>
+<font face="Impress BT" size="37">{Let's get out of here for now!}We need to run!</font>
 
 176
 00:14:35,180 --> 00:14:37,310
-<font face="Impress BT" size="37">Talking to him won't be of any use!</font>
+<font face="Impress BT" size="37">{It's probably no use 
+saying anything to him!}Talking to him won't be of any use!</font>
 
 177
 00:14:37,310 --> 00:14:39,310
-<font face="Impress BT" size="37">Probably just as useless to run.</font>
+<font face="Impress BT" size="37">{It's probably no use even if we run.}Probably just as useless to run.</font>
 
 178
 00:14:40,100 --> 00:14:41,770
@@ -793,12 +834,14 @@ who else is there to suspect?</font>
 
 179
 00:14:42,520 --> 00:14:45,650
-<font face="Impress BT" size="37">You can't mean… 
+<font face="Impress BT" size="37">{Don't tell me! 
+Are you going to fight?}You can't mean… 
 You plan on fighting him?</font>
 
 180
 00:14:48,860 --> 00:14:53,070
-<font face="Impress BT" size="37">Sorry ‘bout this, old guy,
+<font face="Impress BT" size="37">{I feel bad to do this to the old guy, 
+but I'll quiet him down.}Sorry ‘bout this, old guy,
 but I need to shut you up.</font>
 
 181
@@ -811,22 +854,23 @@ but I need to shut you up.</font>
 
 183
 00:15:01,880 --> 00:15:03,790
-<font face="Impress BT" size="37">We're in the dark about this too!</font>
+<font face="Impress BT" size="37">{We really don't know anything about it!}We're in the dark about this too!</font>
 
 184
 00:15:03,790 --> 00:15:06,800
-<font face="Impress BT" size="37">We're clueless about the explosion!
+<font face="Impress BT" size="37">{Anything about the alcohol that exploded! So please don't fight!}We're clueless about the explosion!
 Please don't fight!</font>
 
 185
 00:15:06,800 --> 00:15:11,340
-<font face="Impress BT" size="37">You need to stay put! Your insides 
+<font face="Impress BT" size="37">{You have to stay calm! Your insides 
+are in bad shape right now!}You need to stay put! Your insides 
 are in bad shape right now!</font>
 
 186
 00:15:12,470 --> 00:15:17,890
 <font face="Impress BT" size="37">How dare you... 
-do something so detestable!</font>
+{do something so insolent}do something so detestable!</font>
 
 187
 00:15:28,320 --> 00:15:30,990
@@ -851,11 +895,11 @@ do something so detestable!</font>
 192
 00:16:35,300 --> 00:16:41,220
 <font face="Impress BT" size="37">So he has... 
-the powers of a devil fruit.</font>
+the powers of a devil fruit{...}.</font>
 
 193
 00:16:41,220 --> 00:16:45,850
-<font face="Impress BT" size="37">I underestimated... him.</font>
+<font face="Impress BT" size="37">I underestimated... him{...}.</font>
 
 194
 00:17:07,170 --> 00:17:09,790
@@ -867,23 +911,23 @@ the powers of a devil fruit.</font>
 
 196
 00:17:12,800 --> 00:17:15,090
-<font face="Impress BT" size="37">I think he's okay.</font>
+<font face="Impress BT" size="37">{He's probably okay.}I think{…} he's okay.</font>
 
 197
 00:17:15,720 --> 00:17:17,390
-<font face="Impress BT" size="37">You made the right call.</font>
+<font face="Impress BT" size="37">{This is actually good.}You made the right call.</font>
 
 198
 00:17:17,390 --> 00:17:19,050
-<font face="Impress BT" size="37">He might not have calmed down.</font>
+<font face="Impress BT" size="37">{Otherwise he wouldn't have calmed down.}He might not have calmed down.</font>
 
 199
 00:17:20,430 --> 00:17:22,310
-<font face="Impress BT" size="37">I'm really ticked off!</font>
+<font face="Impress BT" size="37">{I'm angry!}I'm really ticked off!</font>
 
 200
 00:17:22,310 --> 00:17:23,770
-<font face="Impress BT" size="37">Huh?</font>
+<font face="Impress BT" size="37">{What?}Huh?</font>
 
 201
 00:17:23,770 --> 00:17:26,480
@@ -891,58 +935,64 @@ the powers of a devil fruit.</font>
 
 202
 00:17:26,480 --> 00:17:29,150
-<font face="Impress BT" size="37">that explosion isn't what the 
+<font face="Impress BT" size="37">{this alcohol explosion isn't 
+the act of the other giant,}that explosion isn't what the 
 other giant would do,</font>
 
 203
 00:17:29,150 --> 00:17:32,980
 <font face="Impress BT" size="37">and <i>my</i> friends would never do 
-a stupid thing like that!</font>
+a stupid thing like {this}that!</font>
 
 204
 00:17:32,980 --> 00:17:35,450
-<font face="Impress BT" size="37">Then who could have...?</font>
+<font face="Impress BT" size="37">{Then who on earth...}Then who could have...?</font>
 
 205
 00:17:35,450 --> 00:17:38,700
-<font face="Impress BT" size="37">There's someone else 
-on this island.</font>
+<font face="Impress BT" size="37">There's someone else{...} 
+on this island{...}.</font>
 
 206
 00:17:46,830 --> 00:17:53,210
-<font face="Impress BT" size="37">In essence, mental anguish 
-sways the outcomes of conflicts.</font>
+<font face="Impress BT" size="37">{Games}{Outcomes are heavily influenced 
+by}{people's state of mind}In essence, mental anguish 
+sways the outcomes of conflicts{ how shaken one's mind is}{...}.</font>
 
 207
 00:17:53,210 --> 00:17:55,970
-<font face="Impress BT" size="37">Confusion has set in,</font>
+<font face="Impress BT" size="37">{They are confused right now,}{...}Confusion has set in,</font>
 
 208
 00:17:55,970 --> 00:18:01,430
-<font face="Impress BT" size="37">all thanks to a mysterious bomb
-served by an invisible foe.</font>
+<font face="Impress BT" size="37">{by the cryptic bomb service 
+from an invisible enemy...}all thanks to a mysterious bomb
+served by an invisible foe{…}.</font>
 
 209
 00:18:01,430 --> 00:18:06,060
-<font face="Impress BT" size="37">Now, regarding our first target,
-Dorry the Blue Ogre,</font>
+<font face="Impress BT" size="37">{First,}Now, {about}regarding our first target,
+Dorry the Blue Ogre{…},</font>
 
 210
 00:18:06,060 --> 00:18:08,600
-<font face="Impress BT" size="37">finishing him off was unlikely,</font>
+<font face="Impress BT" size="37">{I knew it was 
+impossible to finish him,}finishing him off was unlikely,</font>
 
 211
 00:18:08,600 --> 00:18:12,770
-<font face="Impress BT" size="37">but the damage his stomach received must have been considerable.</font>
+<font face="Impress BT" size="37">but the damage his stomach received{he received in his stomach still must've} must have been considerable{quite large}.</font>
 
 212
 00:18:12,770 --> 00:18:19,700
-<font face="Impress BT" size="37">So, let us enjoy our tea 
+<font face="Impress BT" size="37">{Now we can drink some tea 
+and wait for the next duel to start...}So, let us enjoy our tea 
 and await the start of the next duel.</font>
 
 213
 00:18:19,700 --> 00:18:24,490
-<font face="Impress BT" size="37">And, what, we let the other giant
+<font face="Impress BT" size="37">{So we'll let the other giant take 
+care of the injured giant, huh?}And, what, we let the other giant
 finish off the injured one?</font>
 
 214
@@ -956,55 +1006,63 @@ way of doing things.</font>
 
 216
 00:18:29,170 --> 00:18:34,130
-<font face="Impress BT" size="37">That's because these warrior types
+<font face="Impress BT" size="37">{These warrior types act just like wild boars, after all.}That's because these warrior types
 act exactly like wild boars.</font>
 
 217
 00:18:34,130 --> 00:18:39,430
-<font face="Impress BT" size="37">If we avoid a direct confrontation,
-we can fight with minimal risk.</font>
+<font face="Impress BT" size="37">{We don't have to fight seriously when
+they're only good at going head-on.}If we avoid a direct confrontation,
+we can fight with {minimized}minimal risk.</font>
 
 218
 00:18:39,430 --> 00:18:42,220
-<font face="Impress BT" size="37">After all, we are no match
+<font face="Impress BT" size="37">{since even if we 
+can't match their power.}After all, we are no match
 for their raw strength,</font>
 
 219
 00:18:42,220 --> 00:18:45,720
-<font face="Impress BT" size="37">but our brain power 
+<font face="Impress BT" size="37">{we have brains 
+that can make up for it.}but our brain power 
 more than compensates for it.</font>
 
 220
 00:18:59,150 --> 00:19:04,660
-<font face="Impress BT" size="37">Seriously! Can't you get it 
+<font face="Impress BT" size="37">{Geez... Get it yourself, 
+Miss Golden Week.}Seriously! Can't you get it 
 on your own, Miss Golden Week?</font>
 
 221
 00:19:04,660 --> 00:19:08,040
-<font face="Impress BT" size="37">Out of curiosity, what's the plan
+<font face="Impress BT" size="37">{By the way, what're we going to do}Out of curiosity, what's the plan
 with the Straw Hat gang?</font>
 
 222
 00:19:08,040 --> 00:19:14,340
-<font face="Impress BT" size="37">Straw Hat...? Oh, the small-timers
+<font face="Impress BT" size="37">{Straw Hat? Oh yeah, the small fries
+that found out the boss' secret...}Straw Hat...? Oh, the small-timers
 who discovered the boss's secret.</font>
 
 223
 00:19:14,340 --> 00:19:18,550
-<font face="Impress BT" size="37">We will lure them out one by one,
+<font face="Impress BT" size="37">{Well, we can just lure them out one 
+by one starting with whoever is convenient}{Well, we can lure them out starting with whoever is more convenient,}We will lure them out one by one,
 starting with the easiest among them,</font>
 
 224
 00:19:18,550 --> 00:19:22,140
-<font face="Impress BT" size="37">right to my service set.</font>
+<font face="Impress BT" size="37">{towards my service set...}right to my service set.</font>
 
 225
 00:19:23,050 --> 00:19:27,850
-<font face="Impress BT" size="37">My motto: Wicked deeds are best served with a dash of foul play.</font>
+<font face="Impress BT" size="37">{My motto is 
+”improvise big crimes”…}My motto: Wicked deeds are best served with a dash of foul play.</font>
 
 226
 00:19:29,270 --> 00:19:33,860
-<font face="Impress BT" size="37">There are countless ways to defeat
+<font face="Impress BT" size="37">{There're many ways to defeat 
+enemies without actually fighting.}There are countless ways to defeat
 your enemies without lifting a finger.</font>
 
 227
@@ -1013,7 +1071,7 @@ your enemies without lifting a finger.</font>
 
 228
 00:19:36,190 --> 00:19:37,730
-<font face="Impress BT" size="37">Hey. Me too.</font>
+<font face="Impress BT" size="37">{Hey, me too.}Hey. Me too.</font>
 
 229
 00:19:37,730 --> 00:19:41,030
@@ -1026,11 +1084,12 @@ Take time to savor it!</font>
 
 231
 00:19:45,450 --> 00:19:48,080
-<font face="Impress BT" size="37">That mountain... Isn't it...?</font>
+<font face="Impress BT" size="37">{That mountain is..., 
+if I'm not mistaken...}That mountain... Isn't it...?</font>
 
 232
 00:19:53,880 --> 00:19:55,920
-<font face="Impress BT" size="37">There's the signal.</font>
+<font face="Impress BT" size="37">There's the signal{...}.</font>
 
 233
 00:19:55,920 --> 00:19:58,920
@@ -1048,8 +1107,8 @@ in the same condition!</font>
 
 236
 00:20:13,730 --> 00:20:19,150
-<font face="Impress BT" size="37">Making excuses during a fight to
-the death would disgrace my name!</font>
+<font face="Impress BT" size="37">Making excuses during a {merciless }fight to
+the death would {spoil}disgrace my name!</font>
 
 237
 00:20:29,580 --> 00:20:30,910
@@ -1071,11 +1130,11 @@ push yourself too hard!</font>
 
 241
 00:20:39,210 --> 00:20:42,510
-<font face="Impress BT" size="37">I, warrior Dorry, am here.</font>
+<font face="Impress BT" size="37">I, warrior Dorry, am here{...}.</font>
 
 242
 00:20:42,510 --> 00:20:44,590
-<font face="Impress BT" size="37">At the very least,</font>
+<font face="Impress BT" size="37">At the very least{...},</font>
 
 243
 00:20:44,590 --> 00:20:48,100

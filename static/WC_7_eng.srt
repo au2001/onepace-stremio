@@ -30,50 +30,50 @@ Totto Land</font></font>
 
 8
 00:00:54,140 --> 00:00:57,720
-<font face="FOT-Greco Std DB Strp" size="39"><font color="#000000">Team One Pace</font></font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}<font color="#000000">Team One Pace</font></font>
 
 9
 00:00:54,140 --> 00:00:57,720
-<font face="FOT-Greco Std DB Strp" size="39">Team One Pace</font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}Team One Pace</font>
 
 10
 00:00:54,140 --> 00:00:57,720
-<font face="FOT-Greco Std DB Strp" size="39">Team One Pace</font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}Team One Pace</font>
 
 11
 00:01:00,770 --> 00:01:03,480
-<font face="FOT-Greco Std DB Strp" size="39"><font color="#000000">Video Editing</font></font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}<font color="#000000">Video Editing</font></font>
 
 12
 00:01:00,770 --> 00:01:03,480
-<font face="FOT-Greco Std DB Strp" size="39">Video Editing</font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}Video Editing</font>
 
 13
 00:01:00,770 --> 00:01:03,480
-<font face="FOT-Greco Std DB Strp" size="39"><font color="#000000">Feeso
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}<font color="#000000">Feeso
 Galaxy 9000</font></font>
 
 14
 00:01:00,770 --> 00:01:03,480
-<font face="FOT-Greco Std DB Strp" size="39">Feeso
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}Feeso
 Galaxy 9000</font>
 
 15
 00:01:00,770 --> 00:01:03,480
-<font face="FOT-Greco Std DB Strp" size="39">Feeso
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}Feeso
 Galaxy 9000</font>
 
 16
 00:01:26,260 --> 00:01:29,630
-<font face="FOT-Greco Std DB Strp" size="39"><font color="#000000">Quality Control</font></font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}<font color="#000000">Quality Control</font></font>
 
 17
 00:01:26,260 --> 00:01:29,630
-<font face="FOT-Greco Std DB Strp" size="39">Quality Control</font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}Quality Control</font>
 
 18
 00:01:26,260 --> 00:01:29,630
-<font face="FOT-Greco Std DB Strp" size="39"><font color="#000000">Feeso
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}<font color="#000000">Feeso
 Galaxy 9000
 Grug
 Pepperjack
@@ -81,7 +81,7 @@ Zenef</font></font>
 
 19
 00:01:26,260 --> 00:01:29,630
-<font face="FOT-Greco Std DB Strp" size="39">Feeso
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}Feeso
 Galaxy 9000
 Grug
 Pepperjack
@@ -89,7 +89,7 @@ Zenef</font>
 
 20
 00:01:26,260 --> 00:01:29,630
-<font face="FOT-Greco Std DB Strp" size="39">Feeso
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}Feeso
 Galaxy 9000
 Grug
 Pepperjack
@@ -97,145 +97,145 @@ Zenef</font>
 
 21
 00:01:29,630 --> 00:01:33,880
-<font face="FOT-Greco Std DB Strp" size="39"><font color="#000000">Soundtracking</font></font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}<font color="#000000">Soundtracking</font></font>
 
 22
 00:01:29,630 --> 00:01:33,880
-<font face="FOT-Greco Std DB Strp" size="39">Soundtracking</font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}Soundtracking</font>
 
 23
 00:01:29,630 --> 00:01:33,880
-<font face="FOT-Greco Std DB Strp" size="39">Soundtracking</font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}Soundtracking</font>
 
 24
 00:01:29,630 --> 00:01:33,880
-<font face="FOT-Greco Std DB Strp" size="39"><font color="#000000">Halee</font></font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}<font color="#000000">Halee</font></font>
 
 25
 00:01:29,630 --> 00:01:33,880
-<font face="FOT-Greco Std DB Strp" size="39">Halee</font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}Halee</font>
 
 26
 00:01:29,630 --> 00:01:33,880
-<font face="FOT-Greco Std DB Strp" size="39">Halee</font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}Halee</font>
 
 27
 00:01:33,880 --> 00:01:36,890
-<font face="FOT-Greco Std DB Strp" size="39"><font color="#000000">Timing</font></font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}<font color="#000000">Timing</font></font>
 
 28
 00:01:33,880 --> 00:01:36,890
-<font face="FOT-Greco Std DB Strp" size="39">Timing</font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}Timing</font>
 
 29
 00:01:33,880 --> 00:01:36,890
-<font face="FOT-Greco Std DB Strp" size="39"><font color="#000000">KaitouYahiko
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}<font color="#000000">KaitouYahiko
 Zenef</font></font>
 
 30
 00:01:33,880 --> 00:01:36,890
-<font face="FOT-Greco Std DB Strp" size="39">KaitouYahiko
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}KaitouYahiko
 Zenef</font>
 
 31
 00:01:33,880 --> 00:01:36,890
-<font face="FOT-Greco Std DB Strp" size="39">KaitouYahiko
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}KaitouYahiko
 Zenef</font>
 
 32
 00:01:36,890 --> 00:01:39,150
-<font face="FOT-Greco Std DB Strp" size="39"><font color="#000000">Karaoke</font></font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}<font color="#000000">Karaoke</font></font>
 
 33
 00:01:36,890 --> 00:01:39,150
-<font face="FOT-Greco Std DB Strp" size="39">Karaoke</font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}Karaoke</font>
 
 34
 00:01:36,890 --> 00:01:39,150
-<font face="FOT-Greco Std DB Strp" size="39"><font color="#000000">KaitouYahiko</font></font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}<font color="#000000">KaitouYahiko</font></font>
 
 35
 00:01:36,890 --> 00:01:39,150
-<font face="FOT-Greco Std DB Strp" size="39">KaitouYahiko</font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}KaitouYahiko</font>
 
 36
 00:01:36,890 --> 00:01:39,150
-<font face="FOT-Greco Std DB Strp" size="39">KaitouYahiko</font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}KaitouYahiko</font>
 
 37
 00:01:39,150 --> 00:01:41,680
-<font face="FOT-Greco Std DB Strp" size="39"><font color="#000000">Graphics</font></font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}<font color="#000000">Graphics</font></font>
 
 38
 00:01:39,150 --> 00:01:41,680
-<font face="FOT-Greco Std DB Strp" size="39">Graphics</font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}Graphics</font>
 
 39
 00:01:39,150 --> 00:01:41,680
-<font face="FOT-Greco Std DB Strp" size="39"><font color="#000000">Datenshi</font></font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}<font color="#000000">Datenshi</font></font>
 
 40
 00:01:39,150 --> 00:01:41,680
-<font face="FOT-Greco Std DB Strp" size="39">Datenshi</font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}Datenshi</font>
 
 41
 00:01:39,150 --> 00:01:41,680
-<font face="FOT-Greco Std DB Strp" size="39">Datenshi</font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}Datenshi</font>
 
 42
 00:01:41,770 --> 00:01:44,390
-<font face="FOT-Greco Std DB Strp" size="39"><font color="#000000">Subtitle Editing</font></font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}<font color="#000000">Subtitle Editing</font></font>
 
 43
 00:01:41,770 --> 00:01:44,390
-<font face="FOT-Greco Std DB Strp" size="39">Subtitle Editing</font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}Subtitle Editing</font>
 
 44
 00:01:41,770 --> 00:01:44,390
-<font face="FOT-Greco Std DB Strp" size="39"><font color="#000000">Feeso
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}<font color="#000000">Feeso
 Zenef</font></font>
 
 45
 00:01:41,770 --> 00:01:44,390
-<font face="FOT-Greco Std DB Strp" size="39">Feeso
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}Feeso
 Zenef</font>
 
 46
 00:01:41,770 --> 00:01:44,390
-<font face="FOT-Greco Std DB Strp" size="39">Feeso
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}Feeso
 Zenef</font>
 
 47
 00:02:20,580 --> 00:02:22,690
-<font face="FOT-Greco Std DB Strp" size="39"></font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}{Credit Here}</font>
 
 48
 00:02:24,160 --> 00:02:26,860
-<font face="FOT-Greco Std DB Strp" size="39"></font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}{Credit Here}</font>
 
 49
 00:02:26,990 --> 00:02:31,480
-<font face="FOT-Greco Std DB Strp" size="39"><font color="#000000">Translation</font></font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}<font color="#000000">Translation</font></font>
 
 50
 00:02:26,990 --> 00:02:31,480
-<font face="FOT-Greco Std DB Strp" size="39">Translation</font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}Translation</font>
 
 51
 00:02:26,990 --> 00:02:31,480
-<font face="FOT-Greco Std DB Strp" size="39">Translation</font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}Translation</font>
 
 52
 00:02:26,990 --> 00:02:31,480
-<font face="FOT-Greco Std DB Strp" size="39"><font color="#000000">Crunchyroll</font></font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}<font color="#000000">Crunchyroll</font></font>
 
 53
 00:02:26,990 --> 00:02:31,480
-<font face="FOT-Greco Std DB Strp" size="39">Crunchyroll</font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}Crunchyroll</font>
 
 54
 00:02:26,990 --> 00:02:31,480
-<font face="FOT-Greco Std DB Strp" size="39">Crunchyroll</font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}Crunchyroll</font>
 
 55
 00:02:35,790 --> 00:02:38,220
@@ -407,7 +407,7 @@ a giant woman... and attacked us...</font>
 95
 00:04:35,570 --> 00:04:41,300
 <font face="Impress BT" size="55">A cute rabbit and a pretty girl...
-How nice...</font>
+How nice...{Same line from the end of WCI 06}</font>
 
 96
 00:04:41,300 --> 00:04:44,960
@@ -1127,7 +1127,7 @@ I want to congratulate her!</font>
 
 265
 00:18:39,040 --> 00:18:42,200
-<font face="Impress BT" size="55"><i>One of my beloved older sisters</i></font>
+<font face="Impress BT" size="55"><i>One of my beloved older sisters{Flashback to WCI 03 @timestamp 18:53}</i></font>
 
 266
 00:18:42,200 --> 00:18:46,000
@@ -1223,11 +1223,11 @@ It'll definitely be useful one day!</i></font>
 
 288
 00:20:10,230 --> 00:20:14,100
-<font face="Impress BT" size="55"></font>
+<font face="Impress BT" size="55">{Crane!}</font>
 
 289
 00:20:19,720 --> 00:20:22,450
-<font face="Impress BT" size="55"></font>
+<font face="Impress BT" size="55">{Crane!}</font>
 
 290
 00:20:22,450 --> 00:20:25,040
@@ -1236,7 +1236,7 @@ It's the rabbit and the crane!</font>
 
 291
 00:20:25,040 --> 00:20:26,410
-<font face="Impress BT" size="55">They're... flying!</font>
+<font face="Impress BT" size="55">{It's}They're... flying!</font>
 
 292
 00:20:31,820 --> 00:20:34,940
@@ -1260,7 +1260,7 @@ It's the rabbit and the crane!</font>
 
 297
 00:21:37,400 --> 00:21:39,480
-<font face="Impress BT" size="55"></font>
+<font face="Impress BT" size="55">{Crane...}</font>
 
 298
 00:21:47,200 --> 00:21:52,740

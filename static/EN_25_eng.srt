@@ -20,7 +20,7 @@
 
 6
 00:00:10,610 --> 00:00:12,900
-<font face="Impress BT" size="55">Oh? He’s not up here?</font>
+<font face="Impress BT" size="55">Oh? {He isn't here}He’s not up here?</font>
 
 7
 00:00:13,890 --> 00:00:15,110
@@ -44,15 +44,15 @@
 
 12
 00:00:24,040 --> 00:00:27,380
-<font face="Impress BT" size="55">O-Oh, I couldn’t possibly show my face now.</font>
+<font face="Impress BT" size="55">{O-Oh, this isn't good. Without thinking, I...}O-Oh, I couldn’t possibly show my face now.</font>
 
 13
 00:00:27,380 --> 00:00:30,670
-<font face="Impress BT" size="55">I mean it! Come out already!</font>
+<font face="Impress BT" size="55">{That's enough}I mean it! Come out already!</font>
 
 14
 00:00:31,710 --> 00:00:34,060
-<font face="Impress BT" size="55">If you don't come out,
+<font face="Impress BT" size="55">If you don't{} come out,
 I'm gonna beat the crap outta you!</font>
 
 15
@@ -67,7 +67,7 @@ I can't find him anywhere!</font>
 17
 00:00:40,990 --> 00:00:45,440
 <font face="Impress BT" size="55">D-Don't worry.
-He departed on a small boat, just before we did.</font>
+{He went back ahead of us on a small boat earlier.}He departed on a small boat, just before we did.</font>
 
 18
 00:00:45,440 --> 00:00:47,050
@@ -79,11 +79,12 @@ He departed on a small boat, just before we did.</font>
 
 20
 00:00:48,440 --> 00:00:51,400
-<font face="Impress BT" size="55">But this ship actually belongs to him now.</font>
+<font face="Impress BT" size="55">But this ship actually belongs to him now.{..}</font>
 
 21
 00:00:51,400 --> 00:00:56,110
-<font face="Impress BT" size="55">How the hell do they not recognize that he’s Usopp?</font>
+<font face="Impress BT" size="55">{Just what is it they need in 
+order to recognize Usopp?}How the hell do they not recognize that he’s Usopp?</font>
 
 22
 00:00:59,110 --> 00:01:00,990
@@ -95,7 +96,7 @@ He departed on a small boat, just before we did.</font>
 
 24
 00:01:07,640 --> 00:01:10,300
-<font face="Impress BT" size="55">It’s as we thought.
+<font face="Impress BT" size="55">{As we suspected, I can't find anyone anywhere on this ship.}It’s as we thought.
 There isn’t anyone anywhere on this ship.</font>
 
 25
@@ -104,15 +105,16 @@ There isn’t anyone anywhere on this ship.</font>
 
 26
 00:01:12,340 --> 00:01:15,000
-<font face="Impress BT" size="55">I wonder who could’ve sailed this ship to us.</font>
+<font face="Impress BT" size="55">{I wonder who on earth sailed this ship to us...}I wonder who could’ve sailed this ship to us.</font>
 
 27
 00:01:15,000 --> 00:01:19,860
-<font face="Impress BT" size="55">But we all heard the same voice calling out to us.</font>
+<font face="Impress BT" size="55">{But we definitely heard that 
+voice calling out to us.}But we all heard the same voice calling out to us.</font>
 
 28
 00:01:19,860 --> 00:01:21,480
-<font face="Impress BT" size="55">You did?</font>
+<font face="Impress BT" size="55">{Is that right?}You did?</font>
 
 29
 00:01:21,480 --> 00:01:24,140
@@ -120,7 +122,8 @@ There isn’t anyone anywhere on this ship.</font>
 
 30
 00:01:24,140 --> 00:01:28,860
-<font face="Impress BT" size="55">Like I’ve been saying,
+<font face="Impress BT" size="55">{Like I said all this time... 
+it was the Merry's voice!}Like I’ve been saying,
 it was the Merry's voice!</font>
 
 31
@@ -133,19 +136,19 @@ it was the Merry's voice!</font>
 
 33
 00:01:36,500 --> 00:01:39,200
-<font face="Impress BT" size="55">You idiot. There's no way a ship could talk.</font>
+<font face="Impress BT" size="55">You idiot. There's no way a ship {w}could talk.</font>
 
 34
 00:01:39,800 --> 00:01:44,160
-<font face="Impress BT" size="55">I kinda felt that way at first,</font>
+<font face="Impress BT" size="55">{I kinda felt that way too, though...}I kinda felt that way at first,</font>
 
 35
 00:01:45,110 --> 00:01:49,880
-<font face="Impress BT" size="55">but something like that should be impossible, right?</font>
+<font face="Impress BT" size="55">{But there's no way something like that... could happen, huh?}but something like that should be impossible, right?</font>
 
 36
 00:01:59,820 --> 00:02:01,220
-<font face="Impress BT" size="55">There’s a ship heading toward us!</font>
+<font face="Impress BT" size="55">{I see a ship coming towards us!}There’s a ship heading toward us!</font>
 
 37
 00:02:01,810 --> 00:02:03,270
@@ -165,7 +168,7 @@ it was the Merry's voice!</font>
 
 41
 00:02:10,580 --> 00:02:12,820
-<font face="Impress BT" size="55">A Galley-La Company ship?</font>
+<font face="Impress BT" size="55">{The Galley-La Company's ship...}A Galley-La Company ship?</font>
 
 42
 00:02:12,820 --> 00:02:14,160
@@ -173,7 +176,7 @@ it was the Merry's voice!</font>
 
 43
 00:02:14,160 --> 00:02:16,780
-<font face="Impress BT" size="55">They rushed out in the middle of Aqua Laguna
+<font face="Impress BT" size="55">{They rushed out in Aqua Laguna and still made it okay! I can't believe it!}They rushed out in the middle of Aqua Laguna
 and still made it okay! I can't believe it!</font>
 
 44
@@ -182,15 +185,15 @@ and still made it okay! I can't believe it!</font>
 
 45
 00:02:22,780 --> 00:02:25,870
-<font face="Impress BT" size="55">Ahoy, Iceboss!</font>
+<font face="Impress BT" size="55">Ahoy{!}, Ice{ pops}boss!</font>
 
 46
 00:02:25,870 --> 00:02:27,510
-<font face="Impress BT" size="55">Stupid-burg.</font>
+<font face="Impress BT" size="55">Stupid-burg.{..}</font>
 
 47
 00:02:29,990 --> 00:02:31,580
-<font face="Impress BT" size="55">Nico Robin.</font>
+<font face="Impress BT" size="55">Nico Robin.{..}</font>
 
 48
 00:02:37,270 --> 00:02:39,010
@@ -202,7 +205,7 @@ and still made it okay! I can't believe it!</font>
 
 50
 00:02:48,250 --> 00:02:51,750
-<font face="Impress BT" size="55">and really got everything back.</font>
+<font face="Impress BT" size="55">and {they }really {took}got everything back.</font>
 
 51
 00:03:06,500 --> 00:03:07,500
@@ -210,7 +213,7 @@ and still made it okay! I can't believe it!</font>
 
 52
 00:03:09,960 --> 00:03:11,790
-<font face="Impress BT" size="55">Look! Their ship!</font>
+<font face="Impress BT" size="55">Look! Their ship{ is...}!</font>
 
 53
 00:03:12,390 --> 00:03:14,630
@@ -219,7 +222,7 @@ What happened all of a sudden?!</font>
 
 54
 00:03:14,630 --> 00:03:18,260
-<font face="Impress BT" size="55">All of a sudden? Isn't it only natural?</font>
+<font face="Impress BT" size="55">All of a sudden? Isn't {this just}it only natural?</font>
 
 55
 00:03:18,260 --> 00:03:19,720
@@ -227,24 +230,24 @@ What happened all of a sudden?!</font>
 
 56
 00:03:20,260 --> 00:03:24,190
-<font face="Impress BT" size="55">The Merry was declared unfit for the seas.</font>
+<font face="Impress BT" size="55">{It was declared that Merry could no longer sail.}The Merry was declared unfit for the seas.</font>
 
 57
 00:03:24,190 --> 00:03:25,140
-<font face="Impress BT" size="55">But!</font>
+<font face="Impress BT" size="55">But{...}!</font>
 
 58
 00:03:26,930 --> 00:03:28,850
-<font face="Impress BT" size="55">Merry!</font>
+<font face="Impress BT" size="55">{The }Merry{ is...}!</font>
 
 59
 00:03:33,800 --> 00:03:37,650
-<font face="Impress BT" size="55">Boss! This is bad! Merry is in trouble!
-You gotta do something!</font>
+<font face="Impress BT" size="55">{Pops}Boss! This is bad! Merry is in trouble!
+{Please}You gotta do something!</font>
 
 60
 00:03:37,650 --> 00:03:40,950
-<font face="Impress BT" size="55">You guys, this is great timing!
+<font face="Impress BT" size="55">{You guys... This is good timing! You guys're all shipwrights, right?!}You guys, this is great timing!
 You're all shipwrights, right?!</font>
 
 61
@@ -253,7 +256,7 @@ You're all shipwrights, right?!</font>
 
 62
 00:03:43,450 --> 00:03:46,120
-<font face="Impress BT" size="55">She's our friend and has traveled with us for so long!</font>
+<font face="Impress BT" size="55">{She's our friend who has been traveling with us all this time!}She's our friend and has traveled with us for so long!</font>
 
 63
 00:03:46,120 --> 00:03:49,450
@@ -261,15 +264,15 @@ You're all shipwrights, right?!</font>
 
 64
 00:03:49,450 --> 00:03:51,870
-<font face="Impress BT" size="55">So please, boss!</font>
+<font face="Impress BT" size="55">So please, {pops}boss!</font>
 
 65
 00:03:54,080 --> 00:03:55,750
-<font face="Impress BT" size="55">Then allow her...</font>
+<font face="Impress BT" size="55">{Then let her...}Then allow her...</font>
 
 66
 00:03:58,110 --> 00:03:59,670
-<font face="Impress BT" size="55">to rest now.</font>
+<font face="Impress BT" size="55">{}to rest now.</font>
 
 67
 00:04:03,500 --> 00:04:06,650
@@ -277,7 +280,7 @@ You're all shipwrights, right?!</font>
 
 68
 00:04:15,740 --> 00:04:17,570
-<font face="Impress BT" size="55"><i>What's that sound?</i></font>
+<font face="Impress BT" size="55"><i>What's {this}that sound?</i></font>
 
 69
 00:04:22,000 --> 00:04:24,360
@@ -285,15 +288,15 @@ You're all shipwrights, right?!</font>
 
 70
 00:04:28,180 --> 00:04:31,470
-<font face="Impress BT" size="55"><i>Isn't this the Straw Hats' ship?</i></font>
+<font face="Impress BT" size="55"><i>Isn't this{...} the Straw Hats' ship?</i></font>
 
 71
 00:04:33,880 --> 00:04:37,380
-<font face="Impress BT" size="55"><i>The damage from Aqua Laguna left her in bad shape.</i></font>
+<font face="Impress BT" size="55"><i>{The damage must've been caused by Aqua Laguna. It's in a terrible state.}The damage from Aqua Laguna left her in bad shape.</i></font>
 
 72
 00:04:40,790 --> 00:04:42,880
-<font face="Impress BT" size="55"><i>No, she was like this before the storm.</i></font>
+<font face="Impress BT" size="55"><i>{Well, I guess it's beyond just damage...}No, she was like this before the storm.</i></font>
 
 73
 00:04:44,450 --> 00:04:45,840
@@ -313,7 +316,7 @@ You're all shipwrights, right?!</font>
 
 77
 00:05:26,270 --> 00:05:28,510
-<font face="Impress BT" size="55"><i>There's no hope left for this ship.</i></font>
+<font face="Impress BT" size="55"><i>There's no hope left for this ship.{..}</i></font>
 
 78
 00:05:29,800 --> 00:05:32,180
@@ -334,7 +337,7 @@ Another big wave is coming!</i></font>
 
 82
 00:06:10,390 --> 00:06:12,050
-<font face="Impress BT" size="55"><i>The storm hasn’t let up yet!</i></font>
+<font face="Impress BT" size="55"><i>{The sea is still stormy!}The storm hasn’t let up yet!</i></font>
 
 83
 00:06:12,740 --> 00:06:14,310
@@ -346,32 +349,33 @@ Another big wave is coming!</i></font>
 
 85
 00:06:15,690 --> 00:06:18,360
-<font face="Impress BT" size="55"><i>Then we can't let you go out there all by yourself!</i></font>
+<font face="Impress BT" size="55"><i>{We can't let you go out there all by yourself!}Then we can't let you go out there all by yourself!</i></font>
 
 86
 00:06:20,000 --> 00:06:23,540
-<font face="Impress BT" size="55">I'm witnessing a miracle right now:</font>
+<font face="Impress BT" size="55">I'm {watching}witnessing a miracle right now{...}:</font>
 
 87
 00:06:24,380 --> 00:06:28,950
-<font face="Impress BT" size="55">The miracle of a ship 
+<font face="Impress BT" size="55">{A miracle of a ship that has long passed its limits...}The miracle of a ship 
 that has long passed its limits.</font>
 
 88
 00:06:31,410 --> 00:06:33,450
-<font face="Impress BT" size="55">In all my years as a shipwright,</font>
+<font face="Impress BT" size="55">{I've been a shipwright for many years,}In all my years as a shipwright,</font>
 
 89
 00:06:34,470 --> 00:06:37,730
-<font face="Impress BT" size="55">I've never seen a pirate ship this remarkable.</font>
+<font face="Impress BT" size="55">{but I've never seen 
+a pirate ship this incredible.}I've never seen a pirate ship this remarkable.</font>
 
 90
 00:06:39,290 --> 00:06:41,490
-<font face="Impress BT" size="55">She's lived a splendid life.</font>
+<font face="Impress BT" size="55">{It's lived a splendid life.}She's lived a splendid life.</font>
 
 91
 00:06:49,420 --> 00:06:51,970
-<font face="Impress BT" size="55"><i>Everyone, let’s go back!</i></font>
+<font face="Impress BT" size="55"><i>{Let's go back, everyone!}Everyone, let’s go back!</i></font>
 
 92
 00:06:55,140 --> 00:06:57,910
@@ -387,11 +391,11 @@ that has long passed its limits.</font>
 
 95
 00:07:21,200 --> 00:07:22,580
-<font face="Impress BT" size="55">I get it.</font>
+<font face="Impress BT" size="55">{Okay...}I get it.</font>
 
 96
 00:08:20,760 --> 00:08:24,060
-<font face="Impress BT" size="55">Well then, are you guys ready?</font>
+<font face="Impress BT" size="55">{Well, then... are you guys ready?}Well then, are you guys ready?</font>
 
 97
 00:08:24,060 --> 00:08:25,380
@@ -403,15 +407,15 @@ that has long passed its limits.</font>
 
 99
 00:08:32,780 --> 00:08:36,900
-<font face="Impress BT" size="55">Merry, the seabed is dark and lonesome,</font>
+<font face="Impress BT" size="55">{Merry... the seabed is dark and lonesome,}Merry, the seabed is dark and lonesome,</font>
 
 100
 00:08:36,900 --> 00:08:39,200
-<font face="Impress BT" size="55">so we’ll see you off to the very end.</font>
+<font face="Impress BT" size="55">{so we'll watch you to the end.}so we’ll see you off to the very end.</font>
 
 101
 00:08:43,000 --> 00:08:46,000
-<font face="Impress BT" size="55">Maybe it's for the best that Usopp isn't here.</font>
+<font face="Impress BT" size="55">Maybe it{ was good}'s for the best that Usopp {was}isn't here.</font>
 
 102
 00:08:46,000 --> 00:08:49,880
@@ -419,7 +423,7 @@ that has long passed its limits.</font>
 
 103
 00:08:50,260 --> 00:08:52,000
-<font face="Impress BT" size="55">Any thoughts?</font>
+<font face="Impress BT" size="55">{What do you think?}Any thoughts?</font>
 
 104
 00:08:52,000 --> 00:08:53,840
@@ -432,20 +436,21 @@ This is a man's parting.</font>
 
 106
 00:08:58,060 --> 00:09:00,390
-<font face="Impress BT" size="55">I mustn’t shed a single tear.</font>
+<font face="Impress BT" size="55">{Not even a single tear should be shed.}I mustn’t shed a single tear.</font>
 
 107
 00:09:05,600 --> 00:09:08,770
-<font face="Impress BT" size="55">So he, too, is prepared.</font>
+<font face="Impress BT" size="55">{He, too... is prepared.}So he, too, is prepared.</font>
 
 108
 00:09:39,150 --> 00:09:44,390
-<font face="Impress BT" size="55">You carried us for so long.
+<font face="Impress BT" size="55">{Thank you for carrying us for 
+such a long time, Merry.}You carried us for so long.
 Thank you, Merry.</font>
 
 109
 00:09:56,920 --> 00:09:57,990
-<font face="Impress BT" size="55">Snow!</font>
+<font face="Impress BT" size="55">Snow{...}!</font>
 
 110
 00:10:09,690 --> 00:10:10,990
@@ -453,7 +458,7 @@ Thank you, Merry.</font>
 
 111
 00:10:09,880 --> 00:10:19,020
-<font face="FOT-Greco Std B" size="39"><i>We spent every day covered in mud until the sun set</i></font>
+<font face="FOT-Greco Std B" size="39">{\an8}<i>{Every day we'd play covered in mud until the sun set}We spent every day covered in mud until the sun set</i></font>
 
 112
 00:10:10,990 --> 00:10:12,630
@@ -466,7 +471,7 @@ the Going Merry, is complete!</i></font>
 
 114
 00:10:19,120 --> 00:10:28,220
-<font face="FOT-Greco Std B" size="39"><i>It's hard to leave behind those innocent days</i></font>
+<font face="FOT-Greco Std B" size="39">{\an8}<i>{It's hard to abandon those innocent days we spent}It's hard to leave behind those innocent days</i></font>
 
 115
 00:10:21,390 --> 00:10:24,800
@@ -474,25 +479,27 @@ the Going Merry, is complete!</i></font>
 
 116
 00:10:29,010 --> 00:10:38,520
-<font face="FOT-Greco Std B" size="39"><i>I'm a dreamer because that's who I am</i></font>
+<font face="FOT-Greco Std B" size="39">{\an8}<i>{Even if I'm a dreamer, I'm still me}I'm a dreamer because that's who I am</i></font>
 
 117
 00:10:34,340 --> 00:10:36,960
-<font face="Impress BT" size="55"><i>Look at this!
+<font face="Impress BT" size="55"><i>{Look at this! 
+The Merry got damaged quite a bit!}Look at this!
 The Merry took quite a bit of damage!</i></font>
 
 118
 00:10:36,960 --> 00:10:39,240
-<font face="Impress BT" size="55"><i>When operating a ship with sails,
+<font face="Impress BT" size="55"><i>{When navigating a sailboat, 
+everyone has to participate!}When operating a ship with sails,
 everyone needs to do their part!</i></font>
 
 119
 00:10:38,670 --> 00:10:47,140
-<font face="FOT-Greco Std B" size="39"><i>I don't need to fit in like a piece of a jigsaw puzzle</i></font>
+<font face="FOT-Greco Std B" size="39">{\an8}<i>{So things don't all have to fit together like a jigsaw puzzle}I don't need to fit in like a piece of a jigsaw puzzle</i></font>
 
 120
 00:10:39,240 --> 00:10:41,000
-<font face="Impress BT" size="55"><i>You need to remember that!</i></font>
+<font face="Impress BT" size="55"><i>{Learn it appropriately!}You need to remember that!</i></font>
 
 121
 00:10:41,000 --> 00:10:42,000
@@ -500,11 +507,11 @@ everyone needs to do their part!</i></font>
 
 122
 00:10:42,000 --> 00:10:43,370
-<font face="Impress BT" size="55"><i>Ih'm shorree.</i></font>
+<font face="Impress BT" size="55"><i>{I'm sorry.}Ih'm shorree.</i></font>
 
 123
 00:10:44,670 --> 00:10:47,430
-<font face="Impress BT" size="55"><i>What are you up to?</i></font>
+<font face="Impress BT" size="55"><i>{What are you doing?!}What are you up to?</i></font>
 
 124
 00:10:47,430 --> 00:10:49,520
@@ -512,11 +519,11 @@ everyone needs to do their part!</i></font>
 
 125
 00:10:47,760 --> 00:10:57,040
-<font face="FOT-Greco Std B" size="39"><i>Just as someone's "Yes" could be a "No" to you,</i></font>
+<font face="FOT-Greco Std B" size="39">{\an8}<i>Just as someone's "Yes" could be a "No" to you,</i></font>
 
 126
 00:10:49,520 --> 00:10:51,250
-<font face="Impress BT" size="55"><i>They sure don't fly too good!</i></font>
+<font face="Impress BT" size="55"><i>They sure don't fly{} too good!</i></font>
 
 127
 00:10:51,250 --> 00:10:53,960
@@ -528,20 +535,20 @@ everyone needs to do their part!</i></font>
 
 129
 00:10:57,040 --> 00:11:07,160
-<font face="FOT-Greco Std B" size="39"><i>You should always be free</i></font>
+<font face="FOT-Greco Std B" size="39">{\an8}<i>{you'll surely always be free}You should always be free</i></font>
 
 130
 00:10:59,920 --> 00:11:03,640
-<font face="Impress BT" size="55"><i>Whoa! I really hit it on my first try!</i></font>
+<font face="Impress BT" size="55"><i>Whoa{...}! I really hit it on my first try!</i></font>
 
 131
 00:11:07,160 --> 00:11:17,290
-<font face="FOT-Greco Std B" size="39"><i>If the puzzle is missing a piece
+<font face="FOT-Greco Std B" size="39">{\an8}<i>{Even if tomorrow a wind passes through and breaks the puzzle}If the puzzle is missing a piece
 when the wind passes through tomorrow,</i></font>
 
 132
 00:11:17,290 --> 00:11:26,180
-<font face="FOT-Greco Std B" size="39"><i>no one would blame you for that</i></font>
+<font face="FOT-Greco Std B" size="39">{\an8}<i>{N}no one would blame you for that</i></font>
 
 133
 00:11:17,390 --> 00:11:20,780
@@ -549,52 +556,53 @@ when the wind passes through tomorrow,</i></font>
 
 134
 00:11:21,700 --> 00:11:24,780
-<font face="Impress BT" size="55"><i>The entrance to the Grand Line
+<font face="Impress BT" size="55"><i>{The entrance to the Grand Line 
+lies ahead of that light.}The entrance to the Grand Line
 lies just beyond that light.</i></font>
 
 135
 00:11:26,180 --> 00:11:29,120
-<font face="Impress BT" size="55"><i>To find the All Blue!</i></font>
+<font face="Impress BT" size="55"><i>{In order t}To find the All Blue!</i></font>
 
 136
 00:11:26,180 --> 00:11:31,790
-<font face="FOT-Greco Std B" size="39"><i>We knew we weren't wrong</i></font>
+<font face="FOT-Greco Std B" size="39">{\an8}<i>{We had a dream that day}We knew we weren't wrong</i></font>
 
 137
 00:11:30,190 --> 00:11:31,960
-<font face="Impress BT" size="55"><i>To be king of the pirates!</i></font>
+<font face="Impress BT" size="55"><i>{In order t}To be king of the pirates!</i></font>
 
 138
 00:11:31,790 --> 00:11:36,410
-<font face="FOT-Greco Std B" size="39"><i>For the dreams we had before</i></font>
+<font face="FOT-Greco Std B" size="39">{\an8}<i>{Our belief in ourselves}For the dreams we had before</i></font>
 
 139
 00:11:33,000 --> 00:11:34,790
-<font face="Impress BT" size="55"><i>To become the greatest swordsman!</i></font>
+<font face="Impress BT" size="55"><i>{In order t}To become the greatest swordsman!</i></font>
 
 140
 00:11:35,900 --> 00:11:38,550
-<font face="Impress BT" size="55"><i>To draw a world map!</i></font>
+<font face="Impress BT" size="55"><i>{In order t}To draw a world map!</i></font>
 
 141
 00:11:36,410 --> 00:11:45,660
-<font face="FOT-Greco Std B" size="39"><i>That helps us cross a wildly surging ocean</i></font>
+<font face="FOT-Greco Std B" size="39">{\an8}<i>{makes us able to cross the wildly surging ocean}That helps us cross a wildly surging ocean</i></font>
 
 142
 00:11:39,000 --> 00:11:43,260
-<font face="Impress BT" size="55"><i>T-To become a brave warrior of the sea!</i></font>
+<font face="Impress BT" size="55"><i>{In order t}T-To become a brave warrior of the sea!</i></font>
 
 143
 00:11:45,330 --> 00:11:48,660
-<font face="Impress BT" size="55"><i>On to the Grand Line!</i></font>
+<font face="Impress BT" size="55"><i>{We're going...}On to the Grand Line!{!}</i></font>
 
 144
 00:11:45,660 --> 00:11:55,160
-<font face="FOT-Greco Std B" size="39"><i>We know the pain that's in your heart,</i></font>
+<font face="FOT-Greco Std B" size="39">{\an8}<i>{We know the pain that you hold in your heart, so...}We know the pain that's in your heart,</i></font>
 
 145
 00:11:55,160 --> 00:12:05,040
-<font face="FOT-Greco Std B" size="39"><i>so even if you were to get off this ship
+<font face="FOT-Greco Std B" size="39">{\an8}<i>{If you ever depart this ship and live in a different world}so even if you were to get off this ship
 and find yourself on the other side,</i></font>
 
 146
@@ -607,7 +615,7 @@ and find yourself on the other side,</i></font>
 
 148
 00:12:05,040 --> 00:12:14,950
-<font face="FOT-Greco Std B" size="39"><i>you'll surely smile in the end.</i></font>
+<font face="FOT-Greco Std B" size="39">{\an8}<i>{In the end, we can all surely smile}you'll surely smile in the end.</i></font>
 
 149
 00:12:17,950 --> 00:12:20,550
@@ -619,16 +627,16 @@ and find yourself on the other side,</i></font>
 
 151
 00:12:24,760 --> 00:12:27,410
-<font face="Impress BT" size="55"><i>Keep going!</i></font>
+<font face="Impress BT" size="55"><i>{Go}Keep going!</i></font>
 
 152
 00:12:50,990 --> 00:12:52,500
-<font face="Impress BT" size="55"><i>We're flying right out of it!</i></font>
+<font face="Impress BT" size="55"><i>We're flying{} right out of it!</i></font>
 
 153
 00:12:53,250 --> 00:12:57,910
 <font face="Impress BT" size="55"><i>Don't look back!
-We're keeping on straight ahead!</i></font>
+We're {going}keeping on straight ahead!</i></font>
 
 154
 00:13:05,490 --> 00:13:07,590
@@ -645,7 +653,7 @@ and no place to call home.</i></font>
 
 157
 00:13:13,420 --> 00:13:16,920
-<font face="Impress BT" size="55"><i>Oh, I see. Then I guess we have no choice.</i></font>
+<font face="Impress BT" size="55"><i>Oh, I see.{..} Then I guess we have no choice.{..}</i></font>
 
 158
 00:13:16,920 --> 00:13:17,500
@@ -653,7 +661,7 @@ and no place to call home.</i></font>
 
 159
 00:13:17,250 --> 00:13:26,950
-<font face="FOT-Greco Std B" size="39"><i>We still have our dreams</i></font>
+<font face="FOT-Greco Std B" size="39">{\an8}<i>{We continue to dream even today}We still have our dreams</i></font>
 
 160
 00:13:17,500 --> 00:13:18,480
@@ -673,31 +681,31 @@ and no place to call home.</i></font>
 
 164
 00:13:26,950 --> 00:13:37,160
-<font face="FOT-Greco Std B" size="39"><i>And the memories given to us</i></font>
+<font face="FOT-Greco Std B" size="39">{\an8}<i>{Carrying the feelings you entrusted with us as well}And the memories given to us</i></font>
 
 165
 00:13:32,120 --> 00:13:35,410
-<font face="Impress BT" size="55"><i>It's Sky Island!</i></font>
+<font face="Impress BT" size="55"><i>It's {a }Sky Island!</i></font>
 
 166
 00:13:37,160 --> 00:13:46,200
-<font face="FOT-Greco Std B" size="39"><i>Today, we continue fighting the pain as we cross these rough seas</i></font>
+<font face="FOT-Greco Std B" size="39">{\an8}<i>{We once again cross these rough seas and fight the pain}Today, we continue fighting the pain as we cross these rough seas</i></font>
 
 167
 00:13:46,200 --> 00:13:54,410
-<font face="FOT-Greco Std B" size="39"><i>So that our promises won't become lies</i></font>
+<font face="FOT-Greco Std B" size="39">{\an8}<i>{So that our promise won't become a lie}So that our promises won't become lies</i></font>
 
 168
 00:13:54,410 --> 00:14:05,370
-<font face="FOT-Greco Std B" size="39"><i>And someday, to you who departed our ship to live on the other side,</i></font>
+<font face="FOT-Greco Std B" size="39">{\an8}<i>{And someday, to you who departed our ship and live in a different world,}And someday, to you who departed our ship to live on the other side,</i></font>
 
 169
 00:14:05,370 --> 00:14:16,080
-<font face="FOT-Greco Std B" size="39"><i>we'll deliver a completed puzzle</i></font>
+<font face="FOT-Greco Std B" size="39">{\an8}<i>{we'll deliver the completed puzzle}we'll deliver a completed puzzle</i></font>
 
 170
 00:14:57,440 --> 00:14:58,520
-<font face="Impress BT" size="55">I'm sorry;</font>
+<font face="Impress BT" size="55">I'm sorry{...};</font>
 
 171
 00:15:06,360 --> 00:15:09,760
@@ -705,11 +713,12 @@ and no place to call home.</i></font>
 
 172
 00:15:12,180 --> 00:15:13,720
-<font face="Impress BT" size="55">I'm sorry;</font>
+<font face="Impress BT" size="55">I'm sorry{...};</font>
 
 173
 00:15:13,720 --> 00:15:16,600
-<font face="Impress BT" size="55">I wanted to share adventures with you forever.</font>
+<font face="Impress BT" size="55">{I wanted to continue going on 
+adventures with you forever.}I wanted to share adventures with you forever.</font>
 
 174
 00:15:16,600 --> 00:15:19,690
@@ -717,7 +726,7 @@ and no place to call home.</i></font>
 
 175
 00:15:20,710 --> 00:15:21,960
-<font face="Impress BT" size="55">A voice!</font>
+<font face="Impress BT" size="55">A voice{...}!</font>
 
 176
 00:15:25,160 --> 00:15:26,180
@@ -725,33 +734,35 @@ and no place to call home.</i></font>
 
 177
 00:15:26,180 --> 00:15:30,200
-<font face="Impress BT" size="55">We’re the ones who need to apologize, Merry!</font>
+<font face="Impress BT" size="55">{It's us who have to apologize, Merry!}We’re the ones who need to apologize, Merry!</font>
 
 178
 00:15:31,080 --> 00:15:33,770
-<font face="Impress BT" size="55">I'm not good at steering,</font>
+<font face="Impress BT" size="55">I'm not good at steering{...},</font>
 
 179
 00:15:33,770 --> 00:15:36,200
-<font face="Impress BT" size="55">so I sometimes ran you into icebergs.</font>
+<font face="Impress BT" size="55">{so I ran you into icebergs at times...}so I sometimes ran you into icebergs.</font>
 
 180
 00:15:36,200 --> 00:15:39,340
-<font face="Impress BT" size="55">I also once ripped your sails!</font>
+<font face="Impress BT" size="55">{There was a time I tore the sails, too.}I also once ripped your sails!</font>
 
 181
 00:15:41,270 --> 00:15:46,790
-<font face="Impress BT" size="55">Zoro and Sanji act stupid together,
+<font face="Impress BT" size="55">{Zoro and Sanji are stupid, 
+so they broke all sorts of things!}Zoro and Sanji act stupid together,
 so they broke all sorts of things!</font>
 
 182
 00:15:46,800 --> 00:15:51,480
-<font face="Impress BT" size="55">Usopp would fix you each time,
+<font face="Impress BT" size="55">{Usopp would fix them each time, 
+but he isn't good at it!}Usopp would fix you each time,
 but he wasn’t very good at it!</font>
 
 183
 00:15:52,510 --> 00:15:54,700
-<font face="Impress BT" size="55">So we’re the ones who need to apologize!</font>
+<font face="Impress BT" size="55">{So it's us who have to...}So we’re the ones who need to apologize!</font>
 
 184
 00:16:01,580 --> 00:16:04,560
@@ -759,7 +770,8 @@ but he wasn’t very good at it!</font>
 
 185
 00:16:08,700 --> 00:16:13,600
-<font face="Impress BT" size="55">Thank you so very much
+<font face="Impress BT" size="55">{Thank you very much... 
+for taking good care of me all this time.}Thank you so very much
 for taking good care of me all this time.</font>
 
 186
@@ -776,7 +788,7 @@ for taking good care of me all this time.</font>
 
 189
 00:16:42,100 --> 00:16:45,150
-<font face="FOT-Greco Std B" size="28">Editing:
+<font face="FOT-Greco Std B" size="28">{\an7}Editing:
  Galaxy 9000
 
 Timing:

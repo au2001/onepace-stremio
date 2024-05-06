@@ -45,7 +45,7 @@ and our lives!</font>
 
 12
 00:03:11,280 --> 00:03:15,130
-<font face="Impress BT" size="55"><i>Master is the kind-hearted god of salvation.</i></font>
+<font face="Impress BT" size="55"><i>Master is the kind-hearted god of salvation.{cp from 591, which is slight rewording of 589}</i></font>
 
 13
 00:03:15,670 --> 00:03:19,920
@@ -423,7 +423,7 @@ if he didn't even notice the cliff.</font>
 
 104
 00:09:01,120 --> 00:09:02,700
-<font face="Impress BT" size="38"><i>Color of Arms - Hardening</i></font>
+<font face="Impress BT" size="38"><i>{\an8}Color of Arms - Hardening</i></font>
 
 105
 00:09:19,040 --> 00:09:20,270
@@ -453,7 +453,7 @@ every bullet back at your enemy with double power!</font>
 
 111
 00:09:46,200 --> 00:09:47,850
-<font face="Impress BT" size="38"><i>Gun Salute</i></font>
+<font face="Impress BT" size="38"><i>{\an8}Gun Salute</i></font>
 
 112
 00:09:53,400 --> 00:09:54,310
@@ -718,7 +718,7 @@ we should eventually be able to create an opportunity.</font>
 
 175
 00:16:24,890 --> 00:16:29,430
-<font face="Roboto" size="39"><b>Straw Hat Pirates' Temporary Shelter</b></font>
+<font face="Roboto" size="39"><b>Straw Hat Pirates' Temporary Shelter{lit. evacuation point--not temporary}</b></font>
 
 176
 00:16:27,770 --> 00:16:29,430

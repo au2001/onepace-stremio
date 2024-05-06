@@ -1,74 +1,74 @@
 1
 00:00:00,180 --> 00:00:03,180
-<font face="FOT-Greco Std B Strp" size="42"><b><font color="#000000">Schnitt</font></b></font>
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}<font color="#000000">Schnitt</font></b></font>
 
 2
 00:00:00,180 --> 00:00:03,180
-<font face="FOT-Greco Std B Strp" size="42"><b>Schnitt</b></font>
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}Schnitt</b></font>
 
 3
 00:00:00,180 --> 00:00:03,180
-<font face="FOT-Greco Std B Strp" size="42"><b><font color="#000000">Galaxy 9000</font></b></font>
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}<font color="#000000">Galaxy 9000</font></b></font>
 
 4
 00:00:00,180 --> 00:00:03,180
-<font face="FOT-Greco Std B Strp" size="42"><b>Galaxy 9000</b></font>
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}Galaxy 9000</b></font>
 
 5
 00:00:01,310 --> 00:00:04,530
-<font face="Impress BT Pace" size="82"><i>Reichtum, Macht und Ruhm.</i></font>
+<font face="Impress BT Pace" size="82"><i>{\an8}Reichtum, Macht und Ruhm.</i></font>
 
 6
 00:00:03,180 --> 00:00:06,180
-<font face="FOT-Greco Std B Strp" size="42"><b><font color="#000000">Grafiken</font></b></font>
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}<font color="#000000">Grafiken</font></b></font>
 
 7
 00:00:03,180 --> 00:00:06,180
-<font face="FOT-Greco Std B Strp" size="42"><b>Grafiken</b></font>
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}Grafiken</b></font>
 
 8
 00:00:03,180 --> 00:00:06,180
-<font face="FOT-Greco Std B Strp" size="42"><b><font color="#000000">Datenshi</font></b></font>
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}<font color="#000000">Datenshi</font></b></font>
 
 9
 00:00:03,180 --> 00:00:06,180
-<font face="FOT-Greco Std B Strp" size="42"><b>Datenshi</b></font>
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}Datenshi</b></font>
 
 10
 00:00:05,490 --> 00:00:08,130
-<font face="Impress BT Pace" size="82"><i>Der Mann, der sich dies alles erkämpft hatte...</i></font>
+<font face="Impress BT Pace" size="82"><i>{\an8}Der Mann, der sich dies alles erkämpft hatte...</i></font>
 
 11
 00:00:06,180 --> 00:00:09,180
-<font face="FOT-Greco Std B Strp" size="42"><b><font color="#000000">Vertonung</font></b></font>
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}<font color="#000000">Vertonung</font></b></font>
 
 12
 00:00:06,180 --> 00:00:09,180
-<font face="FOT-Greco Std B Strp" size="42"><b>Vertonung</b></font>
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}Vertonung</b></font>
 
 13
 00:00:06,180 --> 00:00:09,180
-<font face="FOT-Greco Std B Strp" size="42"><b><font color="#000000">Halee</font></b></font>
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}<font color="#000000">Halee</font></b></font>
 
 14
 00:00:06,180 --> 00:00:09,180
-<font face="FOT-Greco Std B Strp" size="42"><b>Halee</b></font>
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}Halee</b></font>
 
 15
 00:00:08,130 --> 00:00:10,900
-<font face="Impress BT Pace" size="82"><i>war Gold Roger, der König der Piraten.</i></font>
+<font face="Impress BT Pace" size="82"><i>{\an8}war Gold Roger, der König der Piraten.</i></font>
 
 16
 00:00:09,180 --> 00:00:12,180
-<font face="FOT-Greco Std B Strp" size="42"><b><font color="#000000">Qualitätskontrolle</font></b></font>
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}<font color="#000000">Qualitätskontrolle</font></b></font>
 
 17
 00:00:09,180 --> 00:00:12,180
-<font face="FOT-Greco Std B Strp" size="42"><b>Qualitätskontrolle</b></font>
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}Qualitätskontrolle</b></font>
 
 18
 00:00:09,180 --> 00:00:12,180
-<font face="FOT-Greco Std B Strp" size="42"><b><font color="#000000">JT-421
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}<font color="#000000">JT-421
 Pepperjack
 TheFVGuy
 vô danh
@@ -77,7 +77,7 @@ arch1t3cht</font></b></font>
 
 19
 00:00:09,180 --> 00:00:12,180
-<font face="FOT-Greco Std B Strp" size="42"><b>JT-421
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}JT-421
 Pepperjack
 TheFVGuy
 vô danh
@@ -86,42 +86,42 @@ arch1t3cht</b></font>
 
 20
 00:00:10,900 --> 00:00:17,370
-<font face="Impress BT Pace" size="82"><i>Während seiner Hinrichtung
+<font face="Impress BT Pace" size="82"><i>{\an8}Während seiner Hinrichtung
 waren seine letzten Worte...</i></font>
 
 21
 00:00:12,180 --> 00:00:14,680
-<font face="FOT-Greco Std B Strp" size="42"><b><font color="#000000">Timing</font></b></font>
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}<font color="#000000">Timing</font></b></font>
 
 22
 00:00:12,180 --> 00:00:14,680
-<font face="FOT-Greco Std B Strp" size="42"><b>Timing</b></font>
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}Timing</b></font>
 
 23
 00:00:12,180 --> 00:00:14,680
-<font face="FOT-Greco Std B Strp" size="42"><b><font color="#000000">PhosCity
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}<font color="#000000">PhosCity
 Floa</font></b></font>
 
 24
 00:00:12,180 --> 00:00:14,680
-<font face="FOT-Greco Std B Strp" size="42"><b>PhosCity
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}PhosCity
 Floa</b></font>
 
 25
 00:00:14,680 --> 00:00:17,680
-<font face="FOT-Greco Std B Strp" size="42"><b><font color="#000000">Karaoke</font></b></font>
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}<font color="#000000">Karaoke</font></b></font>
 
 26
 00:00:14,680 --> 00:00:17,680
-<font face="FOT-Greco Std B Strp" size="42"><b>Karaoke</b></font>
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}Karaoke</b></font>
 
 27
 00:00:14,680 --> 00:00:17,680
-<font face="FOT-Greco Std B Strp" size="42"><b><font color="#000000">KaitouYahiko</font></b></font>
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}<font color="#000000">KaitouYahiko</font></b></font>
 
 28
 00:00:14,680 --> 00:00:17,680
-<font face="FOT-Greco Std B Strp" size="42"><b>KaitouYahiko</b></font>
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}KaitouYahiko</b></font>
 
 29
 00:00:17,370 --> 00:00:23,310
@@ -130,39 +130,39 @@ Den könnt ihr haben. Sucht ihn doch!</font>
 
 30
 00:00:17,680 --> 00:00:20,680
-<font face="FOT-Greco Std B Strp" size="42"><b><font color="#000000">Untertitel Editing</font></b></font>
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}<font color="#000000">Untertitel Editing</font></b></font>
 
 31
 00:00:17,680 --> 00:00:20,680
-<font face="FOT-Greco Std B Strp" size="42"><b>Untertitel Editing</b></font>
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}Untertitel Editing</b></font>
 
 32
 00:00:17,680 --> 00:00:20,680
-<font face="FOT-Greco Std B Strp" size="42"><b><font color="#000000">Floa
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}<font color="#000000">Floa
 arch1t3cht</font></b></font>
 
 33
 00:00:17,680 --> 00:00:20,680
-<font face="FOT-Greco Std B Strp" size="42"><b>Floa
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}Floa
 arch1t3cht</b></font>
 
 34
 00:00:20,680 --> 00:00:23,680
-<font face="FOT-Greco Std B Strp" size="42"><b><font color="#000000">Übersetzung</font></b></font>
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}<font color="#000000">Übersetzung</font></b></font>
 
 35
 00:00:20,680 --> 00:00:23,680
-<font face="FOT-Greco Std B Strp" size="42"><b>Übersetzung</b></font>
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}Übersetzung</b></font>
 
 36
 00:00:20,680 --> 00:00:23,680
-<font face="FOT-Greco Std B Strp" size="42"><b><font color="#000000">Crunchyroll
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}<font color="#000000">Crunchyroll
 akamizu
 arch1t3cht</font></b></font>
 
 37
 00:00:20,680 --> 00:00:23,680
-<font face="FOT-Greco Std B Strp" size="42"><b>Crunchyroll
+<font face="FOT-Greco Std B Strp" size="42"><b>{\an1}Crunchyroll
 akamizu
 arch1t3cht</b></font>
 
@@ -173,12 +173,12 @@ größten Schatz der Welt versteckt!</font>
 
 39
 00:00:26,330 --> 00:00:31,340
-<font face="Impress BT Pace" size="82"><i>Dieser Schatz ist das One Piece. 
+<font face="Impress BT Pace" size="82"><i>{\an8}Dieser Schatz ist das One Piece. 
 Und er liegt irgendwo auf der Grand Line!</i></font>
 
 40
 00:00:31,930 --> 00:00:35,290
-<font face="Impress BT Pace" size="82"><i>Damit brauch das große Piratenzeitalter an.</i></font>
+<font face="Impress BT Pace" size="82"><i>{\an8}Damit brauch das große Piratenzeitalter an.</i></font>
 
 41
 00:00:37,930 --> 00:00:42,180
@@ -191,76 +191,79 @@ Und er liegt irgendwo auf der Grand Line!</i></font>
 43
 00:00:51,650 --> 00:00:54,740
 <font face="Impress BT Pace" size="82">Hey, Luffy!
-Was hast du nun schon wieder vor?!</font>
+{What are you trying to do}Was hast du nun schon wieder vor?!</font>
 
 44
 00:00:56,570 --> 00:01:02,040
-<font face="Kakumin Web" size="56"><b><font color="#000000">Monkey D. Luffy
+<font face="Kakumin Web" size="56"><b><font color="#000000">Monkey D. Luffy{A }
 Ein Dorfjunge</font></b></font>
 
 45
 00:00:56,570 --> 00:01:02,040
-<font face="Kakumin Web" size="56"><b>Monkey D. Luffy
+<font face="Kakumin Web" size="56"><b>Monkey D. Luffy{A }
 Ein Dorfjunge</b></font>
 
 46
 00:00:56,900 --> 00:01:02,040
-<font face="Impress BT Pace" size="82">Mir reicht’s jetzt endgültig! Ich zeig euch,
-dass ihr mich ernst nehmen müsst!</font>
+<font face="Impress BT Pace" size="82">{I'm really serious! I'm so pissed! 
+I'm gonna prove it to you!}Mir reicht’s jetzt endgültig! Ich zeig euch,
+dass ihr mich ernst nehmen müsst!{Monkey Detlef Luffy. You're welcome!}</font>
 
 47
 00:01:04,080 --> 00:01:07,880
-<font face="Impress BT Pace" size="82">Na los, mach schon!
+<font face="Impress BT Pace" size="82">{Yeah, do it! I don't know 
+what you're gonna do though!}Na los, mach schon!
 Was auch immer du vor hast!</font>
 
 48
 00:01:10,380 --> 00:01:12,000
-<font face="Impress BT Pace" size="82">Aua!</font>
+<font face="Impress BT Pace" size="82">Aua!{!}</font>
 
 49
 00:01:12,000 --> 00:01:14,380
-<font face="Impress BT Pace" size="82">Du Idiot! Warum hast du das gemacht?!</font>
+<font face="Impress BT Pace" size="82">Du Idiot! {What are you doing}Warum hast du das gemacht?!</font>
 
 50
 00:01:14,380 --> 00:01:16,970
-<font face="Impress BT Pace" size="82">Leute! Lasst uns anstoßen!</font>
+<font face="Impress BT Pace" size="82">{Cheers, guys!}Leute! Lasst uns anstoßen!</font>
 
 51
 00:01:17,790 --> 00:01:22,560
 <font face="Impress BT Pace" size="82">Auf Luffys Mumm und auf
-unsere großartige Reise!</font>
+{our great journey}unsere großartige Reise!</font>
 
 52
 00:01:23,400 --> 00:01:25,440
-<font face="Impress BT Pace" size="82">Uh, das hat kein bisschen weh getan! </font>
+<font face="Impress BT Pace" size="82">{Oh}Uh, das hat kein bisschen weh getan! {at all one bit!}</font>
 
 53
 00:01:25,440 --> 00:01:27,860
-<font face="Impress BT Pace" size="82">Lügner.
+<font face="Impress BT Pace" size="82">{That's a lie. Don't do such a stupid thing.Liar. You can’t pull dumb stunts like that.}Lügner.
 Du solltest nicht solche Sachen abziehen.</font>
 
 54
 00:01:27,860 --> 00:01:28,940
-<font face="Impress BT Pace" size="82">Ich lüge nicht!</font>
+<font face="Impress BT Pace" size="82">{It's not a lie! I'm not lying!}Ich lüge nicht!</font>
 
 55
 00:01:28,940 --> 00:01:31,770
-<font face="Impress BT Pace" size="82">Ich hab keine Angst davor,
+<font face="Impress BT Pace" size="82">{I'm not scared of getting hurt!}Ich hab keine Angst davor,
  verletzt zu werden!</font>
 
 56
 00:01:31,770 --> 00:01:35,950
-<font face="Impress BT Pace" size="82">Nehmt mich mit!
+<font face="Impress BT Pace" size="82">{TakeSo, take me on your next voyage!
+I wanna be a pirate too!}Nehmt mich mit!
  Ich will auch Pirat werden!</font>
 
 57
 00:01:37,520 --> 00:01:39,950
-<font face="Impress BT Pace" size="82">Als würde aus dir irgendwann
+<font face="Impress BT Pace" size="82">{As if you could ever be a pirate Like you'd ever make it as a pirate!}Als würde aus dir irgendwann
 einmal ein Pirat werden.</font>
 
 58
 00:01:39,950 --> 00:01:43,580
-<font face="Impress BT Pace" size="82">Was soll man mit einem Piraten, der wie ein Anker sinkt?</font>
+<font face="Impress BT Pace" size="82">{It's a fatal flaw for a pirate to be an anchor!}Was soll man mit einem Piraten, der wie ein Anker sinkt?</font>
 
 59
 00:01:40,200 --> 00:01:43,580
@@ -274,151 +277,164 @@ Piratenkapitän</b></font>
 
 61
 00:01:43,580 --> 00:01:46,520
-<font face="Impress BT Pace" size="82">Solange ich nicht über Board gehe,
+<font face="Impress BT Pace" size="82">{I'll be okay as long as 
+I don't fall out of the ship!Well, if I don't fall overboard, I'll be fine!}Solange ich nicht über Board gehe,
 komme ich klar!</font>
 
 62
 00:01:46,520 --> 00:01:48,710
-<font face="Impress BT Pace" size="82">Und außerdem bin ich ein klasse Kämpfer!</font>
+<font face="Impress BT Pace" size="82">{And I'm good at fighting tooAnd besides, I'm a good fighter!}Und außerdem bin ich ein klasse Kämpfer!</font>
 
 63
 00:01:48,710 --> 00:01:53,460
-<font face="Impress BT Pace" size="82">Ich habe trainiert.
+<font face="Impress BT Pace" size="82">{I'm well-trained so my 
+punches are like pistols!I've been training, so now my punch is like a pistol!}Ich habe trainiert.
 Mein Schlag ist jetzt wie eine Pistole!</font>
 
 64
 00:01:53,460 --> 00:01:56,200
-<font face="Impress BT Pace" size="82">Eine Pistole? Wirklich?</font>
+<font face="Impress BT Pace" size="82">{PistolsA pistol? Oh, rReally?}Eine Pistole? Wirklich?</font>
 
 65
 00:01:56,200 --> 00:01:57,800
-<font face="Impress BT Pace" size="82">Was willst du?!</font>
+<font face="Impress BT Pace" size="82">{What's thatS meanWanna say that again?!}Was willst du?!</font>
 
 66
 00:01:57,800 --> 00:01:59,180
-<font face="Impress BT Pace" size="82">Luffy!</font>
+<font face="Impress BT Pace" size="82">{Luffy!}Luffy!</font>
 
 67
 00:01:59,180 --> 00:02:01,720
-<font face="Impress BT Pace" size="82">Warum bist du so mies drauf?</font>
+<font face="Impress BT Pace" size="82">{You're in such a bad mood!What's eating you?}Warum bist du so mies drauf?</font>
 
 68
 00:02:01,720 --> 00:02:04,140
-<font face="Impress BT Pace" size="82">Mach dich locker!</font>
+<font face="Impress BT Pace" size="82">{Have fun at whatever you're doing!You gotta loosen up!}Mach dich locker!</font>
 
 69
 00:02:04,140 --> 00:02:06,930
-<font face="Impress BT Pace" size="82">Ja! Pirat zu sein heißt Spaß zu haben!</font>
+<font face="Impress BT Pace" size="82">{YesYeah! Being a pirate is (fun)about having fun!}Ja! Pirat zu sein heißt Spaß zu haben!</font>
 
 70
 00:02:06,930 --> 00:02:09,100
-<font face="Impress BT Pace" size="82">Die See ist grenzenlos!</font>
+<font face="Impress BT Pace" size="82">{The sea is (broad and vast)boundless!}Die See ist grenzenlos!</font>
 
 71
 00:02:09,100 --> 00:02:11,560
-<font face="Impress BT Pace" size="82">Es gibt unzählige Inseln zu entdecken!</font>
+<font face="Impress BT Pace" size="82">{We're traveling various islandsThere are tons of islands to explore!}Es gibt unzählige Inseln zu entdecken!</font>
 
 72
 00:02:11,560 --> 00:02:13,190
-<font face="Impress BT Pace" size="82">Und das Beste ist, dass wir frei sind.</font>
+<font face="Impress BT Pace" size="82">{Above all, we're free!It's all about freedom!}Und das Beste ist, dass wir frei sind.</font>
 
 73
 00:02:14,650 --> 00:02:18,030
-<font face="Impress BT Pace" size="82">Leute, hört auf,
+<font face="Impress BT Pace" size="82">Leute, {don't teach him such silly stuffstop filling his head with crazy ideas.}hört auf,
 ihn auf dumme Ideen zu bringen.</font>
 
 74
 00:02:18,030 --> 00:02:20,030
-<font face="Impress BT Pace" size="82">Aber es stimmt doch!</font>
+<font face="Impress BT Pace" size="82">{But it's all true! Right?!}Aber es stimmt doch!</font>
 
 75
 00:02:20,030 --> 00:02:23,450
-<font face="Impress BT Pace" size="82">Komm schon Boss. Warum nehmen
-wir ihn nicht irgendwann mal mit? </font>
+<font face="Impress BT Pace" size="82">{C'mon, Boss,C'mon, Boss!}Komm schon Boss.{w}{Why not} Warum nehmen
+wir ihn nicht irgendwann mal mit?{take him on just one voyage}{let him tag along sometime?} {Gaijin, is he saying "Boss" or something else here?}</font>
 
 76
 00:02:23,450 --> 00:02:25,780
-<font face="Impress BT Pace" size="82">Ich bin dafür.</font>
+<font face="Impress BT Pace" size="82">{I think so too.}{I'd second that}Ich bin dafür.</font>
 
 77
 00:02:25,780 --> 00:02:28,250
-<font face="Impress BT Pace" size="82">Klar, wenn einer von euch dafür hier bleibt.</font>
+<font face="Impress BT Pace" size="82">{Then, somebody, trade places with him.}{Sure, but one of you’ll have to stay behind.}Klar, wenn einer von euch dafür hier bleibt.</font>
 
 78
 00:02:28,250 --> 00:02:31,360
-<font face="Impress BT Pace" size="82">War nett, Kleiner! Und hoch die Gläser!</font>
+<font face="Impress BT Pace" size="82">{Okay, we're done talking}{Good chat, kid! Let's drink! }{Gaijin, in the Japanese, do they say "Let's drink!" twice?}War nett, Kleiner! Und hoch die Gläser!</font>
 
 79
 00:02:31,360 --> 00:02:32,960
-<font face="Impress BT Pace" size="82">Wart ihr nicht auf meiner Seite?!</font>
+<font face="Impress BT Pace" size="82">{Didn't you side with me?!}{Weren't you on my side?!}Wart ihr nicht auf meiner Seite?!</font>
 
 80
 00:02:32,960 --> 00:02:38,930
-<font face="Impress BT Pace" size="82">Du bist einfach zu jung, Kleiner! Vielleicht
+<font face="Impress BT Pace" size="82">{In short, you're too much of a kid.
+I'll consider it when you're 10 years older!}{You're just too young, kid.
+Maybe in ten years I'll give you a chance.}Du bist einfach zu jung, Kleiner! Vielleicht
 gebe ich dir in 10 Jahren mal eine Chance.</font>
 
 81
 00:02:38,930 --> 00:02:41,680
-<font face="Impress BT Pace" size="82">Komm schon, Shanks! Ich bin kein Kind mehr!</font>
+<font face="Impress BT Pace" size="82">{Stupid Shanks! I'm not a kid!}{C'mon, Shanks! I'm not a little kid!}Komm schon, Shanks! Ich bin kein Kind mehr!</font>
 
 82
 00:02:41,680 --> 00:02:44,300
-<font face="Impress BT Pace" size="82">Alles gut. Beruhig’ dich und trink einen Saft.</font>
+<font face="Impress BT Pace" size="82">{Now, now. Don't get so mad.
+Have some juice!}{Hey now. Simmer down and have some juice.}Alles gut. Beruhig’ dich und trink einen Saft.</font>
 
 83
 00:02:44,300 --> 00:02:46,360
-<font face="Impress BT Pace" size="82">Oh! Danke!</font>
+<font face="Impress BT Pace" size="82">{Wow}Oh! {Thanks!}Danke!</font>
 
 84
 00:02:47,560 --> 00:02:51,480
-<font face="Impress BT Pace" size="82"><i></i>– Sag ich doch! <i>Immer</i> noch ein Kind!
+<font face="Impress BT Pace" size="82">{– See}{,}{!}{y}{You}<i>{are}</i>{just a kid!}{ Ha!}{–}{That wasn't fair}{That's a dirty trick, Shanks!}– Sag ich doch! <i>Immer</i> noch ein Kind!
 – Das war ein fieser Trick, Shanks!</font>
 
 85
 00:02:52,480 --> 00:02:54,500
-<font face="Impress BT Pace" size="82">Mir reicht’s!</font>
+<font face="Impress BT Pace" size="82">{I'm tired now!}{I'm so sick of this!}{Zenef&Feeso: Nap time?}Mir reicht’s!</font>
 
 86
 00:02:54,500 --> 00:02:58,220
-<font face="Impress BT Pace" size="82">Luffy, versuch zu verstehen,
+<font face="Impress BT Pace" size="82">{Luffy, you gotta try 
+to understand how Boss feels.}{Luffy, try to understand 
+where the boss is coming from.}Luffy, versuch zu verstehen,
 worum es Shanks geht.</font>
 
 87
 00:02:58,220 --> 00:02:58,990
-<font face="Impress BT Pace" size="82">Vizekapitain!</font>
+<font face="Impress BT Pace" size="82">{First mate!}Vizekapitain!</font>
 
 88
 00:02:59,920 --> 00:03:03,420
-<font face="Impress BT Pace" size="82">Er ist der Anführer
+<font face="Impress BT Pace" size="82">{There's no denying that he's 
+the head of a pirate group.}{He's the head of a pirate crew, you see?}Er ist der Anführer
 einer Piratenbande, verstehst du?</font>
 
 89
 00:03:03,420 --> 00:03:07,370
-<font face="Impress BT Pace" size="82">Er weiß besser als jeder andere,
+<font face="Impress BT Pace" size="82">{He knows how tough and dangerous
+being a pirate is more than anybody.}{He knows the challenges and risks 
+that come with being a pirate.}Er weiß besser als jeder andere,
 wie gefährlich und hart es ist ein Pirat zu sein</font>
 
 90
 00:03:07,370 --> 00:03:11,920
-<font face="Impress BT Pace" size="82">Verstehst du’s?
-Er will nicht deinen Traum zerstören.</font>
+<font face="Impress BT Pace" size="82">{You get it? }Verstehst du’s?
+{It's not like 
+he wants to break your spirit.}{He's not trying to crush your dream.}Er will nicht deinen Traum zerstören.</font>
 
 91
 00:03:11,920 --> 00:03:16,630
-<font face="Impress BT Pace" size="82"> <i></i>Nein, ich verstehe es <i>nicht</i>!
+<font face="Impress BT Pace" size="82">{No, I don't!
+Shanks is just making fun of me!}{No, I} <i>{don't}</i>{ get it! }Nein, ich verstehe es <i>nicht</i>!
 Shanks macht sich nur lustig über mich!</font>
 
 92
 00:03:16,630 --> 00:03:18,630
-<font face="Impress BT Pace" size="82">– Anker!
+<font face="Impress BT Pace" size="82">– {Anchor!
+– See?!]}Anker!
 – Siehst du?!</font>
 
 93
 00:03:18,630 --> 00:03:20,990
-<font face="Impress BT Pace" size="82">Du scheinst dich wie immer gut zu unterhalten.</font>
+<font face="Impress BT Pace" size="82">{I }{guess}{see you're having fun as usual.}Du scheinst dich wie immer gut zu unterhalten.</font>
 
 94
 00:03:20,990 --> 00:03:24,800
-<font face="Impress BT Pace" size="82">Ich liebe es einfach, den Kleinen zu ärgern.</font>
+<font face="Impress BT Pace" size="82">{Yeah, I like teasing him.}{Yeah, I love teasing this kid.}Ich liebe es einfach, den Kleinen zu ärgern.</font>
 
 95
 00:03:24,800 --> 00:03:27,810
@@ -426,16 +442,19 @@ Shanks macht sich nur lustig über mich!</font>
 
 96
 00:03:27,810 --> 00:03:30,390
-<font face="Impress BT Pace" size="82">Ja! Schreib’s auf meinen Schatz an.</font>
+<font face="Impress BT Pace" size="82">{Uh-huh}Ja! Schreib’s auf meinen Schatz an.</font>
 
 97
 00:03:30,390 --> 00:03:34,470
-<font face="Impress BT Pace" size="82">Auf den Schatz anschreiben?
+<font face="Impress BT Pace" size="82">{The treasure tab again?
+That's fraud, you know?}Auf den Schatz anschreiben?
 Klingt nach Beschiss.</font>
 
 98
 00:03:34,470 --> 00:03:39,070
-<font face="Impress BT Pace" size="82">Ist es nicht! Ich zahl es ihr zurück, sobald
+<font face="Impress BT Pace" size="82">{No, it's not! Once I become a pirate 
+and find a treasure, I'll pay for it!}Ist es nicht!{I'm gonna become a pirate,
+find lots of treasure, and pay her back!} Ich zahl es ihr zurück, sobald
 ich als Pirat einen Schatz gefunden habe!</font>
 
 99
@@ -470,12 +489,12 @@ und Richtung Norden segeln.</font>
 
 106
 00:04:02,510 --> 00:04:05,390
-<font face="Impress BT Pace" size="82">Dann werde ich schwimmen lernen,
+<font face="Impress BT Pace" size="82">{I'll practice swimming while you're here!}Dann werde ich schwimmen lernen,
 bevor du weg bist.</font>
 
 107
 00:04:05,390 --> 00:04:08,310
-<font face="Impress BT Pace" size="82">Klar. Tu dir keinen Zwang an.</font>
+<font face="Impress BT Pace" size="82">{That's good}Klar. Tu dir keinen Zwang an.</font>
 
 108
 00:04:13,080 --> 00:04:14,850
@@ -483,7 +502,8 @@ bevor du weg bist.</font>
 
 109
 00:04:14,850 --> 00:04:19,400
-<font face="Impress BT Pace" size="82">Das sind also die Piraten. Sieht mir
+<font face="Impress BT Pace" size="82">{So these are "pirates."
+Look pretty damn dumb.\i1}Das sind also die Piraten. Sieht mir
 nach einem ziemlich traurigen Haufen aus.</font>
 
 110
@@ -597,26 +617,27 @@ findest du <i>das hier</i> etwas befriedigender.</font>
 
 134
 00:06:32,490 --> 00:06:34,990
-<font face="Impress BT Pace" size="82">Findet ihr das lustig?!</font>
+<font face="Impress BT Pace" size="82">{Why are you laughing}Findet ihr das lustig?!</font>
 
 135
 00:06:34,990 --> 00:06:39,010
-<font face="Impress BT Pace" size="82">Das war erbärmlich!
+<font face="Impress BT Pace" size="82">{That was so uncool}Das war erbärmlich!
 Warum hast du dich nicht gewehrt?</font>
 
 136
 00:06:39,010 --> 00:06:44,090
-<font face="Impress BT Pace" size="82">Ihr seid keine Piraten und ihr seid keine
+<font face="Impress BT Pace" size="82">{You're not men - or pirates -
+if you laugh after something like that!}Ihr seid keine Piraten und ihr seid keine
 Männer, wenn ihr nach so was lacht!</font>
 
 137
 00:06:45,420 --> 00:06:50,720
-<font face="Impress BT Pace" size="82">Ich versteh’ dich ja, Luffy, aber er hat
+<font face="Impress BT Pace" size="82">{I can understand how you feel}Ich versteh’ dich ja, Luffy, aber er hat
 nur ein bisschen Schnaps verschüttet.</font>
 
 138
 00:06:50,720 --> 00:06:53,130
-<font face="Impress BT Pace" size="82">Über so was lohnt es sich nicht,
+<font face="Impress BT Pace" size="82">{It's nothing worth getting mad over.}Über so was lohnt es sich nicht,
 sich so aufzuregen.</font>
 
 139
@@ -651,7 +672,8 @@ Feigling wie ihr werden.</font>
 
 146
 00:07:17,040 --> 00:07:21,210
-<font face="Impress BT Pace" size="82">Luffy, hast du etwa so
+<font face="Impress BT Pace" size="82">{Luffy, don't tell me you ate 
+a fruit like this!}Luffy, hast du etwa so
 eine Frucht hier gegessen??</font>
 
 147
@@ -660,8 +682,8 @@ eine Frucht hier gegessen??</font>
 
 148
 00:07:23,790 --> 00:07:26,810
-<font face="Impress BT Pace" size="82">Das war die Gum-Gum-Frucht! 
-Sie ist ein seltener Schatz der See...</font>
+<font face="Impress BT Pace" size="82">{The Rubber Rubber Fruit is}Das war die Gum-Gum-Frucht! 
+{a hidden treasure of the sea}Sie ist ein seltener Schatz der See{}...</font>
 
 149
 00:07:26,810 --> 00:07:28,300
@@ -773,12 +795,12 @@ Bring uns was zum Saufen!</font>
 
 174
 00:08:51,840 --> 00:08:54,130
-<font face="Impress BT Pace" size="82">– Lass mich los! Verdammt!
-– Komischen Körper hast du da... </font>
+<font face="Impress BT Pace" size="82">– Lass mich los! {Let go! Damn}Verdammt!
+– {What an interesting body...}Komischen Körper hast du da... {Needs to be retimed with secondary style}</font>
 
 175
 00:08:56,260 --> 00:08:57,430
-<font face="Impress BT Pace" size="82">Entschuldige dich!</font>
+<font face="Impress BT Pace" size="82">{Say you're sorry for that}Entschuldige dich!</font>
 
 176
 00:08:57,430 --> 00:08:59,890
@@ -787,7 +809,7 @@ Bring uns was zum Saufen!</font>
 
 177
 00:09:03,270 --> 00:09:06,020
-<font face="Impress BT Pace" size="82">Verdammt! Dafür wirst du bezahlen!</font>
+<font face="Impress BT Pace" size="82">{Damn}Verdammt! {I'm gonna make you}Dafür wirst du bezahlen!</font>
 
 178
 00:09:06,020 --> 00:09:09,070
@@ -812,15 +834,16 @@ Nimm deinen Fuß runter von mir!</font>
 
 183
 00:09:22,620 --> 00:09:24,790
-<font face="Impress BT Pace" size="82">Lasst den Jungen in Frieden!</font>
+<font face="Impress BT Pace" size="82">{Let the boy go!}{Let that child alone!}Lasst den Jungen in Frieden!</font>
 
 184
 00:09:25,700 --> 00:09:26,670
-<font face="Impress BT Pace" size="82">Ich bitte Sie!</font>
+<font face="Impress BT Pace" size="82">{Please!}Ich bitte Sie!</font>
 
 185
 00:09:27,510 --> 00:09:31,550
-<font face="Impress BT Pace" size="82">Ich habe nicht vor Sie zu bekämpfen,
+<font face="Impress BT Pace" size="82">{I don't intend to fight with you!
+If you allow it, I'll even pay you!}Ich habe nicht vor Sie zu bekämpfen,
 aber ich kann Sie bezahlen.</font>
 
 186
@@ -851,11 +874,11 @@ Immerhin hat er mich verärgert.</font>
 
 192
 00:09:52,980 --> 00:09:57,150
-<font face="Impress BT Pace" size="82">Ihr habt angefangen! Ihr Bergaffen!</font>
+<font face="Impress BT Pace" size="82">{You're the bad guys!}Ihr habt angefangen! Ihr Bergaffen!</font>
 
 193
 00:09:57,860 --> 00:10:01,620
-<font face="Impress BT Pace" size="82">Lassen wir das Verkaufen.
+<font face="Impress BT Pace" size="82">{We're not gonna sell him.}Lassen wir das Verkaufen.
 Bringen wir ihn einfach um.</font>
 
 194
@@ -874,7 +897,7 @@ Bringen wir ihn einfach um.</font>
 197
 00:10:19,680 --> 00:10:22,930
 <font face="Impress BT Pace" size="82">– Das sind doch die Bergräuber von neulich.
-– Kapitän!</font>
+– Kapitän{-san}!</font>
 
 198
 00:10:22,930 --> 00:10:24,180
@@ -910,8 +933,8 @@ Bring mich nicht dazu, abzudrücken.</font>
 
 205
 00:10:52,370 --> 00:10:55,900
-<font face="Impress BT Pace" size="82">Da du deine Pistole auf mich richtest,
-bist du also bereit, dein Leben zu riskieren?</font>
+<font face="Impress BT Pace" size="82">{Now that}Da du deine Pistole auf mich richtest,
+{put your life on the line.}bist du also bereit, dein Leben zu riskieren?</font>
 
 206
 00:10:55,900 --> 00:10:57,630
@@ -942,7 +965,7 @@ Heiligen oder so zu tun?</font>
 
 212
 00:11:25,590 --> 00:11:29,000
-<font face="Impress BT Pace" size="82">Vor euch stehen Piraten!</font>
+<font face="Impress BT Pace" size="82">{You're looking at pirates!}Vor euch stehen Piraten!</font>
 
 213
 00:11:29,000 --> 00:11:32,460
@@ -967,11 +990,11 @@ getränkt oder mit Essensresten bedeckt bin.</font>
 
 218
 00:11:44,480 --> 00:11:47,140
-<font face="Impress BT Pace" size="82">Es ist mir egal aus welchem Grund...</font>
+<font face="Impress BT Pace" size="82">{No matter what the reason,}Es ist mir egal aus welchem Grund...</font>
 
 219
 00:11:47,140 --> 00:11:51,440
-<font face="Impress BT Pace" size="82">niemand verletzt einen Freund von mir!</font>
+<font face="Impress BT Pace" size="82">{anyone who hurts my friends has to pay!}niemand verletzt einen Freund von mir!</font>
 
 220
 00:11:52,440 --> 00:11:53,980
@@ -979,7 +1002,7 @@ getränkt oder mit Essensresten bedeckt bin.</font>
 
 221
 00:11:55,290 --> 00:11:56,820
-<font face="Impress BT Pace" size="82">Niemand, huh?!</font>
+<font face="Impress BT Pace" size="82">{Has to pay, huh?!}Niemand, huh?!</font>
 
 222
 00:11:56,820 --> 00:11:59,940
@@ -1003,7 +1026,8 @@ getränkt oder mit Essensresten bedeckt bin.</font>
 
 227
 00:12:23,500 --> 00:12:27,260
-<font face="Impress BT Pace" size="82">Du solltest besser ein Kampfschiff mitbringen,
+<font face="Impress BT Pace" size="82">{If you wanna fight us,
+then go drag a warship here or something.}Du solltest besser ein Kampfschiff mitbringen,
 wenn du uns herausfordern willst.</font>
 
 228
@@ -1016,20 +1040,20 @@ wenn du uns herausfordern willst.</font>
 
 230
 00:12:31,520 --> 00:12:35,230
-<font face="Impress BT Pace" size="82">Warte! Der Kleine hat<i> uns</i> angegriffen!</font>
+<font face="Impress BT Pace" size="82">{Hold on}Warte! Der Kleine hat<i> uns</i> angegriffen!</font>
 
 231
 00:12:35,230 --> 00:12:37,610
-<font face="Impress BT Pace" size="82">Ist auf dich nicht ein Kopfgeld ausgesetzt?</font>
+<font face="Impress BT Pace" size="82">{You're a wanted man anyway.}Ist auf dich nicht ein Kopfgeld ausgesetzt?</font>
 
 232
 00:12:40,170 --> 00:12:41,200
-<font face="Impress BT Pace" size="82">Eine Rauchwolke!  </font>
+<font face="Impress BT Pace" size="82">Eine Rauchwolke! {Rin, smoke screen or smoke bomb?} {It's Smokescreen.}</font>
 
 233
 00:12:41,200 --> 00:12:44,030
 <font face="Impress BT Pace" size="82">– Du kommst mit mir, Göre!
-– Lass mich los! Lass mich los!</font>
+– {Let go! Let go!}Lass mich los! Lass mich los!</font>
 
 234
 00:12:46,200 --> 00:12:47,070
@@ -1071,7 +1095,8 @@ Es wird nicht lange dauern, sie zu finden.</font>
 
 243
 00:13:10,810 --> 00:13:17,420
-<font face="Impress BT Pace" size="82">Keinen einzelnen Schlag konnte ich diesen
+<font face="Impress BT Pace" size="82">{Those guys are scum, but I couldn't 
+even hit them once!}Keinen einzelnen Schlag konnte ich diesen
 Mistkerlen verpassen! Verdammt! Verdammt!</font>
 
 244
@@ -1085,12 +1110,13 @@ von diesen Piraten gesehen?</i></font>
 
 246
 00:13:24,900 --> 00:13:27,900
-<font face="Impress BT Pace" size="82"><i>Lass es! Hör’ auf, Shanks und
+<font face="Impress BT Pace" size="82"><i>{Stop it}Lass es! {Stop making fun 
+of}Hör’ auf, Shanks und
 seine Leute zu verarschen!</i></font>
 
 247
 00:13:27,900 --> 00:13:28,990
-<font face="Impress BT Pace" size="82"><i>Beruhige dich Luffy!</i></font>
+<font face="Impress BT Pace" size="82"><i>{Stop, Luffy!}Beruhige dich Luffy!</i></font>
 
 248
 00:13:30,450 --> 00:13:33,910
@@ -1098,7 +1124,7 @@ seine Leute zu verarschen!</i></font>
 
 249
 00:13:41,310 --> 00:13:42,610
-<font face="Impress BT Pace" size="82">Dummes Kind.</font>
+<font face="Impress BT Pace" size="82">{Silly brat.}Dummes Kind.</font>
 
 250
 00:13:48,470 --> 00:13:49,640
@@ -1148,30 +1174,32 @@ Du bist doch ein Mann, oder?</font>
 
 261
 00:15:12,200 --> 00:15:15,140
-<font face="Impress BT Pace" size="82">Es ist nur ein Arm. Keine große Sache.</font>
+<font face="Impress BT Pace" size="82">Es ist nur ein Arm. Keine große Sache.{Tis but a flesh wound!}</font>
 
 262
 00:15:15,900 --> 00:15:17,760
 <font face="Impress BT Pace" size="82">Ich bin einfach froh,
-dass du nicht verletzt bist. </font>
+dass du nicht verletzt bist. {Zenef&Feeso: "not hurt" referring back to his speech earlier}</font>
 
 263
 00:15:27,900 --> 00:15:31,490
-<font face="Impress BT Pace" size="82"><i>Luffy hat schlussendlich verstanden,
+<font face="Impress BT Pace" size="82"><i>{\an8}Luffy {learned the reason that}hat schlussendlich {why}verstanden,
 warum Shanks ihn nie mitgenommen hatte.</i></font>
 
 264
 00:15:31,490 --> 00:15:34,800
-<font face="Impress BT Pace" size="82"><i>Die See ist rauh, und er ist schwach.</i></font>
+<font face="Impress BT Pace" size="82"><i>{\an8}{the harshness of the sea,
+his powerlessness,}Die See ist rauh, und er ist schwach.</i></font>
 
 265
 00:15:34,800 --> 00:15:38,850
-<font face="Impress BT Pace" size="82"><i>Aber vor allem hat er verstanden,
-wie großartig dieser Mann ist.</i></font>
+<font face="Impress BT Pace" size="82"><i>{\an8}{and most}Aber vor allem hat er verstanden,
+{the man named Shanks' greatness.}wie großartig dieser Mann ist.</i></font>
 
 266
 00:15:38,850 --> 00:15:43,420
-<font face="Impress BT Pace" size="82"><i>Er wünschte sich, eines Tages
+<font face="Impress BT Pace" size="82"><i>{\an8}{He truly thought that he wanted to
+become a man like him someday.}Er wünschte sich, eines Tages
 so wie er zu werden.</i></font>
 
 267
@@ -1185,7 +1213,7 @@ aber nun müssen wir uns verabschieden.</font>
 
 269
 00:15:54,010 --> 00:15:58,000
-<font face="Impress BT Pace" size="82">Okay. Diesmal werde ich dich
+<font face="Impress BT Pace" size="82">{Yeah, I won't ask you to take me anymore.}Okay. Diesmal werde ich dich
 nicht bitten, mich mitzunehmen.</font>
 
 270
@@ -1198,7 +1226,7 @@ nicht bitten, mich mitzunehmen.</font>
 
 272
 00:16:04,300 --> 00:16:06,770
-<font face="Impress BT Pace" size="82">Aus dir wird nie ein richtiger Pirat!</font>
+<font face="Impress BT Pace" size="82">{You'll never be a pirate!}Aus dir wird nie ein richtiger Pirat!</font>
 
 273
 00:16:06,770 --> 00:16:08,000
@@ -1206,7 +1234,8 @@ nicht bitten, mich mitzunehmen.</font>
 
 274
 00:16:08,000 --> 00:16:12,020
-<font face="Impress BT Pace" size="82">Irgendwann habe ich eine Crew,
+<font face="Impress BT Pace" size="82">{Someday, I'm gonna gather 
+a crew every bit as good as yours,}Irgendwann habe ich eine Crew,
 die besser ist als deine!</font>
 
 275
@@ -1236,7 +1265,8 @@ größten Schatz der Welt!</font>
 
 281
 00:16:42,850 --> 00:16:47,810
-<font face="Impress BT Pace" size="82">Bring ihn mir eines Tages zurück,
+<font face="Impress BT Pace" size="82">{Come bring it back to me someday!
+Once you've become a great pirate!}Bring ihn mir eines Tages zurück,
 wenn aus dir ein großer Pirat geworden bist.</font>
 
 282
@@ -1245,7 +1275,7 @@ wenn aus dir ein großer Pirat geworden bist.</font>
 
 283
 00:16:52,690 --> 00:16:56,620
-<font face="Impress BT Pace" size="82">Ja. Er erinnert mich an mich selbst.</font>
+<font face="Impress BT Pace" size="82">{Yeah, he's so much like the kid I used to be.}Ja. Er erinnert mich an mich selbst.</font>
 
 284
 00:16:57,460 --> 00:16:59,660
@@ -1253,8 +1283,9 @@ wenn aus dir ein großer Pirat geworden bist.</font>
 
 285
 00:17:01,010 --> 00:17:06,500
-<font face="Impress BT Pace" size="82"><i>Luffys Reise beginnt zehn Jahre später
-von genau demselben Hafen. </i></font>
+<font face="Impress BT Pace" size="82"><i>{\an8}{Then a decade later, the boy's 
+adventure started at the same port.}Luffys Reise beginnt zehn Jahre später
+von genau demselben Hafen. {TheFVguy: use "voyage" to reference Luffy's insistence on going on voyage with Shanks}</i></font>
 
 286
 00:17:08,670 --> 00:17:11,760
@@ -1266,15 +1297,16 @@ von genau demselben Hafen. </i></font>
 
 288
 00:17:11,760 --> 00:17:14,500
-<font face="Impress BT Pace" size="82">Nun Bürgermeister. Jetzt ist er wirklich weg.</font>
+<font face="Impress BT Pace" size="82">{He's finally leaving, Mayor.}Nun Bürgermeister. Jetzt ist er wirklich weg.</font>
 
 289
 00:17:14,500 --> 00:17:17,970
-<font face="Impress BT Pace" size="82">Ein Pirat! Eine Schade für unser Dorf!</font>
+<font face="Impress BT Pace" size="82">{It's a dishonor to the village 
+to become a pirate!}Ein Pirat! Eine Schade für unser Dorf!</font>
 
 290
 00:17:18,600 --> 00:17:21,560
-<font face="Impress BT Pace" size="82">Was für ein schöner Tag, um loszusegeln!</font>
+<font face="Impress BT Pace" size="82">{What a nice day for setting sail!}Was für ein schöner Tag, um loszusegeln!</font>
 
 291
 00:17:27,440 --> 00:17:28,860
@@ -1282,12 +1314,13 @@ von genau demselben Hafen. </i></font>
 
 292
 00:17:30,400 --> 00:17:34,150
-<font face="Impress BT Pace" size="82">Sieh mal an, der Uferkönig.
+<font face="Impress BT Pace" size="82">{Here comes our local Sea Monster}Sieh mal an, der Uferkönig.
 Du weißt nicht, mit wem du dich hier anlegst.</font>
 
 293
 00:17:34,150 --> 00:17:37,030
-<font face="Impress BT Pace" size="82">Diese Technik habe ich
+<font face="Impress BT Pace" size="82">{Look at this technique
+I've been training for 10 years!}Diese Technik habe ich
 zehn Jahre lang perfektioniert.</font>
 
 294
@@ -1300,978 +1333,978 @@ zehn Jahre lang perfektioniert.</font>
 
 296
 00:17:45,580 --> 00:17:46,030
-<font face="Duality" size="70" color="#3f93d8"></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}</font>
 
 297
 00:17:45,580 --> 00:17:46,030
-<font face="Duality" size="70" color="#3f93d8"></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}</font>
 
 298
 00:17:45,630 --> 00:17:46,030
-<font face="Duality" size="70" color="#3f93d8"></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}</font>
 
 299
 00:17:45,630 --> 00:17:46,030
-<font face="Duality" size="70" color="#3f93d8"></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}</font>
 
 300
 00:17:45,680 --> 00:17:50,770
-<font face="Duality" size="70" color="#3f93d8">Wir</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}Wir</font>
 
 301
 00:17:45,680 --> 00:17:46,110
-<font face="Duality" size="70" color="#3f93d8">A</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}A</font>
 
 302
 00:17:45,730 --> 00:17:50,820
-<font face="Duality" size="70" color="#3f93d8">fol</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}fol</font>
 
 303
 00:17:45,730 --> 00:17:46,200
-<font face="Duality" size="70" color="#3f93d8">ri</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}ri</font>
 
 304
 00:17:45,780 --> 00:17:50,870
-<font face="Duality" size="70" color="#3f93d8">gen</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}gen</font>
 
 305
 00:17:45,780 --> 00:17:46,290
-<font face="Duality" size="70" color="#3f93d8">tta</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}tta</font>
 
 306
 00:17:45,830 --> 00:17:50,920
-<font face="Duality" size="70" color="#3f93d8">al</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}al</font>
 
 307
 00:17:45,830 --> 00:17:46,480
-<font face="Duality" size="70" color="#3f93d8">ke</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}ke</font>
 
 308
 00:17:45,880 --> 00:17:50,970
-<font face="Duality" size="70" color="#3f93d8">le</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}le</font>
 
 309
 00:17:45,880 --> 00:17:46,680
-<font face="Duality" size="70" color="#3f93d8">no</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}no</font>
 
 310
 00:17:45,930 --> 00:17:51,020
-<font face="Duality" size="70" color="#3f93d8">un</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}un</font>
 
 311
 00:17:45,930 --> 00:17:47,200
-<font face="Duality" size="70" color="#3f93d8">yu</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}yu</font>
 
 312
 00:17:45,980 --> 00:17:51,070
-<font face="Duality" size="70" color="#3f93d8">se</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}se</font>
 
 313
 00:17:45,980 --> 00:17:47,540
-<font face="Duality" size="70" color="#3f93d8">me</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}me</font>
 
 314
 00:17:46,030 --> 00:17:46,280
-<font face="Duality" size="70" color="#3f93d8"><font color="#3f93d8"></font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8"></font></font>
 
 315
 00:17:46,030 --> 00:17:51,020
-<font face="Duality" size="70" color="#3f93d8"><font color="#3f93d8"></font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8"></font></font>
 
 316
 00:17:46,030 --> 00:17:51,120
-<font face="Duality" size="70" color="#3f93d8">ren</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}ren</font>
 
 317
 00:17:46,030 --> 00:17:46,280
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8"></font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8"></font></font>
 
 318
 00:17:46,030 --> 00:17:46,360
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8"></font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8"></font></font>
 
 319
 00:17:46,030 --> 00:17:47,740
-<font face="Duality" size="70" color="#3f93d8">wo</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}wo</font>
 
 320
 00:17:46,080 --> 00:17:51,170
-<font face="Duality" size="70" color="#3f93d8">Träu</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}Träu</font>
 
 321
 00:17:46,080 --> 00:17:48,700
-<font face="Duality" size="70" color="#3f93d8"></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}</font>
 
 322
 00:17:46,110 --> 00:17:46,450
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8">A</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">A</font></font>
 
 323
 00:17:46,130 --> 00:17:51,220
-<font face="Duality" size="70" color="#3f93d8">men.</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}men.</font>
 
 324
 00:17:46,130 --> 00:17:49,010
-<font face="Duality" size="70" color="#3f93d8">ka</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}ka</font>
 
 325
 00:17:46,180 --> 00:17:49,150
-<font face="Duality" size="70" color="#3f93d8">ki</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}ki</font>
 
 326
 00:17:46,200 --> 00:17:46,540
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8">ri</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">ri</font></font>
 
 327
 00:17:46,230 --> 00:17:49,340
-<font face="Duality" size="70" color="#3f93d8">a</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}a</font>
 
 328
 00:17:46,280 --> 00:17:49,620
-<font face="Duality" size="70" color="#3f93d8">tsu</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}tsu</font>
 
 329
 00:17:46,290 --> 00:17:46,730
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8">tta</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">tta</font></font>
 
 330
 00:17:46,330 --> 00:17:49,840
-<font face="Duality" size="70" color="#3f93d8">me</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}me</font>
 
 331
 00:17:46,480 --> 00:17:46,930
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8">ke</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">ke</font></font>
 
 332
 00:17:46,680 --> 00:17:47,450
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8">no</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">no</font></font>
 
 333
 00:17:47,200 --> 00:17:47,790
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8">yu</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">yu</font></font>
 
 334
 00:17:47,540 --> 00:17:47,990
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8">me</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">me</font></font>
 
 335
 00:17:47,740 --> 00:17:48,950
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8">wo</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">wo</font></font>
 
 336
 00:17:48,700 --> 00:17:49,260
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8"></font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8"></font></font>
 
 337
 00:17:49,010 --> 00:17:49,400
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8">ka</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">ka</font></font>
 
 338
 00:17:49,150 --> 00:17:49,590
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8">ki</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">ki</font></font>
 
 339
 00:17:49,340 --> 00:17:49,870
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8">a</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">a</font></font>
 
 340
 00:17:49,620 --> 00:17:50,090
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8">tsu</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">tsu</font></font>
 
 341
 00:17:49,840 --> 00:17:51,520
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8">me</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">me</font></font>
 
 342
 00:17:50,770 --> 00:17:51,070
-<font face="Duality" size="70" color="#3f93d8"><font color="#3f93d8">Wir</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">Wir</font></font>
 
 343
 00:17:50,820 --> 00:17:51,120
-<font face="Duality" size="70" color="#3f93d8"><font color="#3f93d8">fol</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">fol</font></font>
 
 344
 00:17:50,870 --> 00:17:51,170
-<font face="Duality" size="70" color="#3f93d8"><font color="#3f93d8">gen</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">gen</font></font>
 
 345
 00:17:50,920 --> 00:17:51,220
-<font face="Duality" size="70" color="#3f93d8"><font color="#3f93d8">al</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">al</font></font>
 
 346
 00:17:50,970 --> 00:17:51,270
-<font face="Duality" size="70" color="#3f93d8"><font color="#3f93d8">le</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">le</font></font>
 
 347
 00:17:51,020 --> 00:17:51,320
-<font face="Duality" size="70" color="#3f93d8"><font color="#3f93d8">un</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">un</font></font>
 
 348
 00:17:51,040 --> 00:17:51,490
-<font face="Duality" size="70" color="#3f93d8"></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}</font>
 
 349
 00:17:51,040 --> 00:17:51,490
-<font face="Duality" size="70" color="#3f93d8"></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}</font>
 
 350
 00:17:51,070 --> 00:17:51,370
-<font face="Duality" size="70" color="#3f93d8"><font color="#3f93d8">se</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">se</font></font>
 
 351
 00:17:51,090 --> 00:17:51,490
-<font face="Duality" size="70" color="#3f93d8"></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}</font>
 
 352
 00:17:51,090 --> 00:17:51,490
-<font face="Duality" size="70" color="#3f93d8"></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}</font>
 
 353
 00:17:51,120 --> 00:17:51,420
-<font face="Duality" size="70" color="#3f93d8"><font color="#3f93d8">ren</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">ren</font></font>
 
 354
 00:17:51,140 --> 00:17:56,550
-<font face="Duality" size="70" color="#3f93d8">und</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}und</font>
 
 355
 00:17:51,140 --> 00:17:51,620
-<font face="Duality" size="70" color="#3f93d8">Sa</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}Sa</font>
 
 356
 00:17:51,170 --> 00:17:51,470
-<font face="Duality" size="70" color="#3f93d8"><font color="#3f93d8">Träu</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">Träu</font></font>
 
 357
 00:17:51,190 --> 00:17:56,600
-<font face="Duality" size="70" color="#3f93d8">zie</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}zie</font>
 
 358
 00:17:51,190 --> 00:17:51,840
-<font face="Duality" size="70" color="#3f93d8">ga</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}ga</font>
 
 359
 00:17:51,220 --> 00:17:51,520
-<font face="Duality" size="70" color="#3f93d8"><font color="#3f93d8">men.</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">men.</font></font>
 
 360
 00:17:51,240 --> 00:17:56,650
-<font face="Duality" size="70" color="#3f93d8">hen</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}hen</font>
 
 361
 00:17:51,240 --> 00:17:51,970
-<font face="Duality" size="70" color="#3f93d8">shi</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}shi</font>
 
 362
 00:17:51,290 --> 00:17:56,700
-<font face="Duality" size="70" color="#3f93d8">hi</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}hi</font>
 
 363
 00:17:51,290 --> 00:17:52,200
-<font face="Duality" size="70" color="#3f93d8">mo</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}mo</font>
 
 364
 00:17:51,340 --> 00:17:56,750
-<font face="Duality" size="70" color="#3f93d8">naus,</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}naus,</font>
 
 365
 00:17:51,340 --> 00:17:52,420
-<font face="Duality" size="70" color="#3f93d8">no</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}no</font>
 
 366
 00:17:51,390 --> 00:17:56,800
-<font face="Duality" size="70" color="#3f93d8">um</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}um</font>
 
 367
 00:17:51,390 --> 00:17:52,570
-<font face="Duality" size="70" color="#3f93d8">wo</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}wo</font>
 
 368
 00:17:51,440 --> 00:17:56,850
-<font face="Duality" size="70" color="#3f93d8">auf</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}auf</font>
 
 369
 00:17:51,440 --> 00:17:52,860
-<font face="Duality" size="70" color="#3f93d8">sa</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}sa</font>
 
 370
 00:17:51,490 --> 00:17:51,740
-<font face="Duality" size="70" color="#3f93d8"><font color="#3f93d8"></font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8"></font></font>
 
 371
 00:17:51,490 --> 00:17:56,800
-<font face="Duality" size="70" color="#3f93d8"><font color="#3f93d8"></font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8"></font></font>
 
 372
 00:17:51,490 --> 00:17:56,900
-<font face="Duality" size="70" color="#3f93d8">Schatz</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}Schatz</font>
 
 373
 00:17:51,490 --> 00:17:51,740
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8"></font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8"></font></font>
 
 374
 00:17:51,490 --> 00:17:51,870
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8"></font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8"></font></font>
 
 375
 00:17:51,490 --> 00:17:53,280
-<font face="Duality" size="70" color="#3f93d8">ga</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}ga</font>
 
 376
 00:17:51,540 --> 00:17:56,950
-<font face="Duality" size="70" color="#3f93d8">su</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}su</font>
 
 377
 00:17:51,540 --> 00:17:53,370
-<font face="Duality" size="70" color="#3f93d8">shi</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}shi</font>
 
 378
 00:17:51,590 --> 00:17:57,000
-<font face="Duality" size="70" color="#3f93d8">che</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}che</font>
 
 379
 00:17:51,590 --> 00:17:53,990
-<font face="Duality" size="70" color="#3f93d8">ni</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}ni</font>
 
 380
 00:17:51,620 --> 00:17:52,090
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8">Sa</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">Sa</font></font>
 
 381
 00:17:51,640 --> 00:17:57,050
-<font face="Duality" size="70" color="#3f93d8">zu</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}zu</font>
 
 382
 00:17:51,640 --> 00:17:54,350
-<font face="Duality" size="70" color="#3f93d8">yu</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}yu</font>
 
 383
 00:17:51,690 --> 00:17:57,100
-<font face="Duality" size="70" color="#3f93d8">ge</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}ge</font>
 
 384
 00:17:51,690 --> 00:17:54,710
-<font face="Duality" size="70" color="#3f93d8">ku</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}ku</font>
 
 385
 00:17:51,740 --> 00:17:57,150
-<font face="Duality" size="70" color="#3f93d8">hen:</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}hen:</font>
 
 386
 00:17:51,740 --> 00:17:55,040
-<font face="Duality" size="70" color="#3f93d8">no</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}no</font>
 
 387
 00:17:51,790 --> 00:17:55,300
-<font face="Duality" size="70" color="#3f93d8">sa</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}sa</font>
 
 388
 00:17:51,840 --> 00:17:52,220
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8">ga</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">ga</font></font>
 
 389
 00:17:51,970 --> 00:17:52,450
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8">shi</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">shi</font></font>
 
 390
 00:17:52,200 --> 00:17:52,670
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8">mo</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">mo</font></font>
 
 391
 00:17:52,420 --> 00:17:52,820
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8">no</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">no</font></font>
 
 392
 00:17:52,570 --> 00:17:53,110
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8">wo</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">wo</font></font>
 
 393
 00:17:52,860 --> 00:17:53,530
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8">sa</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">sa</font></font>
 
 394
 00:17:53,280 --> 00:17:53,620
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8">ga</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">ga</font></font>
 
 395
 00:17:53,370 --> 00:17:54,240
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8">shi</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">shi</font></font>
 
 396
 00:17:53,990 --> 00:17:54,600
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8">ni</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">ni</font></font>
 
 397
 00:17:54,350 --> 00:17:54,960
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8">yu</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">yu</font></font>
 
 398
 00:17:54,710 --> 00:17:55,290
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8">ku</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">ku</font></font>
 
 399
 00:17:55,040 --> 00:17:55,550
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8">no</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">no</font></font>
 
 400
 00:17:55,300 --> 00:17:57,350
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8">sa</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">sa</font></font>
 
 401
 00:17:56,090 --> 00:17:58,550
-<font face="Impress BT Pace" size="82">Das wird dir ’ne Lehre sein,
-du verdammter Fisch!</font>
+<font face="Impress BT Pace" size="82">{That will}Das wird dir ’ne Lehre sein,
+{stupid}du verdammter Fisch!</font>
 
 402
 00:17:56,550 --> 00:17:56,850
-<font face="Duality" size="70" color="#3f93d8"><font color="#3f93d8">und</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">und</font></font>
 
 403
 00:17:56,600 --> 00:17:56,900
-<font face="Duality" size="70" color="#3f93d8"><font color="#3f93d8">zie</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">zie</font></font>
 
 404
 00:17:56,650 --> 00:17:56,950
-<font face="Duality" size="70" color="#3f93d8"><font color="#3f93d8">hen</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">hen</font></font>
 
 405
 00:17:56,700 --> 00:17:57,000
-<font face="Duality" size="70" color="#3f93d8"><font color="#3f93d8">hi</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">hi</font></font>
 
 406
 00:17:56,750 --> 00:17:57,050
-<font face="Duality" size="70" color="#3f93d8"><font color="#3f93d8">naus,</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">naus,</font></font>
 
 407
 00:17:56,800 --> 00:17:57,100
-<font face="Duality" size="70" color="#3f93d8"><font color="#3f93d8">um</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">um</font></font>
 
 408
 00:17:56,820 --> 00:17:57,270
-<font face="Duality" size="70" color="#3f93d8"></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}</font>
 
 409
 00:17:56,820 --> 00:17:57,270
-<font face="Duality" size="70" color="#3f93d8"></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}</font>
 
 410
 00:17:56,850 --> 00:17:57,150
-<font face="Duality" size="70" color="#3f93d8"><font color="#3f93d8">auf</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">auf</font></font>
 
 411
 00:17:56,870 --> 00:17:57,270
-<font face="Duality" size="70" color="#3f93d8"></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}</font>
 
 412
 00:17:56,870 --> 00:17:57,270
-<font face="Duality" size="70" color="#3f93d8"></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}</font>
 
 413
 00:17:56,900 --> 00:17:57,200
-<font face="Duality" size="70" color="#3f93d8"><font color="#3f93d8">Schatz</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">Schatz</font></font>
 
 414
 00:17:56,920 --> 00:17:59,500
-<font face="Duality" size="70" color="#3f93d8">Willst</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}Willst</font>
 
 415
 00:17:56,920 --> 00:17:57,360
-<font face="Duality" size="70" color="#3f93d8">PO</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}PO</font>
 
 416
 00:17:56,950 --> 00:17:57,250
-<font face="Duality" size="70" color="#3f93d8"><font color="#3f93d8">su</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">su</font></font>
 
 417
 00:17:56,970 --> 00:17:59,550
-<font face="Duality" size="70" color="#3f93d8">du</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}du</font>
 
 418
 00:17:56,970 --> 00:17:57,540
-<font face="Duality" size="70" color="#3f93d8">KE</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}KE</font>
 
 419
 00:17:57,000 --> 00:17:57,300
-<font face="Duality" size="70" color="#3f93d8"><font color="#3f93d8">che</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">che</font></font>
 
 420
 00:17:57,020 --> 00:17:59,600
-<font face="Duality" size="70" color="#3f93d8">die</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}die</font>
 
 421
 00:17:57,020 --> 00:17:57,910
-<font face="Duality" size="70" color="#3f93d8">TTO</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}TTO</font>
 
 422
 00:17:57,050 --> 00:17:57,350
-<font face="Duality" size="70" color="#3f93d8"><font color="#3f93d8">zu</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">zu</font></font>
 
 423
 00:17:57,070 --> 00:17:59,650
-<font face="Duality" size="70" color="#3f93d8">Mün</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}Mün</font>
 
 424
 00:17:57,070 --> 00:17:58,480
-<font face="Duality" size="70" color="#3f93d8">no</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}no</font>
 
 425
 00:17:57,100 --> 00:17:57,400
-<font face="Duality" size="70" color="#3f93d8"><font color="#3f93d8">ge</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">ge</font></font>
 
 426
 00:17:57,120 --> 00:17:59,700
-<font face="Duality" size="70" color="#3f93d8">ze</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}ze</font>
 
 427
 00:17:57,120 --> 00:17:59,000
-<font face="Duality" size="70" color="#3f93d8">KO</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}KO</font>
 
 428
 00:17:57,150 --> 00:17:57,450
-<font face="Duality" size="70" color="#3f93d8"><font color="#3f93d8">hen:</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">hen:</font></font>
 
 429
 00:17:57,170 --> 00:17:59,750
-<font face="Duality" size="70" color="#3f93d8">aus</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}aus</font>
 
 430
 00:17:57,170 --> 00:17:59,280
-<font face="Duality" size="70" color="#3f93d8">IN</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}IN</font>
 
 431
 00:17:57,220 --> 00:17:59,800
-<font face="Duality" size="70" color="#3f93d8">mei</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}mei</font>
 
 432
 00:17:57,270 --> 00:17:57,520
-<font face="Duality" size="70" color="#3f93d8"><font color="#3f93d8"></font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8"></font></font>
 
 433
 00:17:57,270 --> 00:17:59,750
-<font face="Duality" size="70" color="#3f93d8"><font color="#3f93d8"></font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8"></font></font>
 
 434
 00:17:57,270 --> 00:17:59,850
-<font face="Duality" size="70" color="#3f93d8">ner</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}ner</font>
 
 435
 00:17:57,270 --> 00:17:57,520
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8"></font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8"></font></font>
 
 436
 00:17:57,270 --> 00:17:57,610
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8"></font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8"></font></font>
 
 437
 00:17:57,320 --> 00:17:59,900
-<font face="Duality" size="70" color="#3f93d8">Ta</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}Ta</font>
 
 438
 00:17:57,360 --> 00:17:57,790
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8">PO</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">PO</font></font>
 
 439
 00:17:57,370 --> 00:17:59,950
-<font face="Duality" size="70" color="#3f93d8">sche</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}sche</font>
 
 440
 00:17:57,540 --> 00:17:58,160
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8">KE</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">KE</font></font>
 
 441
 00:17:57,910 --> 00:17:58,730
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8">TTO</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">TTO</font></font>
 
 442
 00:17:58,480 --> 00:17:59,250
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8">no</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">no</font></font>
 
 443
 00:17:59,000 --> 00:17:59,530
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8">KO</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">KO</font></font>
 
 444
 00:17:59,280 --> 00:18:00,250
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8">IN</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">IN</font></font>
 
 445
 00:17:59,500 --> 00:17:59,800
-<font face="Duality" size="70" color="#3f93d8"><font color="#3f93d8">Willst</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">Willst</font></font>
 
 446
 00:17:59,540 --> 00:17:59,990
-<font face="Duality" size="70" color="#3f93d8"></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}</font>
 
 447
 00:17:59,540 --> 00:17:59,990
-<font face="Duality" size="70" color="#3f93d8"></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}</font>
 
 448
 00:17:59,550 --> 00:17:59,850
-<font face="Duality" size="70" color="#3f93d8"><font color="#3f93d8">du</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">du</font></font>
 
 449
 00:17:59,590 --> 00:17:59,990
-<font face="Duality" size="70" color="#3f93d8"></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}</font>
 
 450
 00:17:59,590 --> 00:17:59,990
-<font face="Duality" size="70" color="#3f93d8"></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}</font>
 
 451
 00:17:59,600 --> 00:17:59,900
-<font face="Duality" size="70" color="#3f93d8"><font color="#3f93d8">die</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">die</font></font>
 
 452
 00:17:59,640 --> 00:18:02,830
-<font face="Duality" size="70" color="#3f93d8">o</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}o</font>
 
 453
 00:17:59,640 --> 00:18:00,190
-<font face="Duality" size="70" color="#3f93d8">So</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}So</font>
 
 454
 00:17:59,650 --> 00:17:59,950
-<font face="Duality" size="70" color="#3f93d8"><font color="#3f93d8">Mün</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">Mün</font></font>
 
 455
 00:17:59,690 --> 00:18:02,880
-<font face="Duality" size="70" color="#3f93d8">der</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}der</font>
 
 456
 00:17:59,690 --> 00:18:00,430
-<font face="Duality" size="70" color="#3f93d8">re</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}re</font>
 
 457
 00:17:59,700 --> 00:18:00,000
-<font face="Duality" size="70" color="#3f93d8"><font color="#3f93d8">ze</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">ze</font></font>
 
 458
 00:17:59,740 --> 00:18:02,930
-<font face="Duality" size="70" color="#3f93d8">lie</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}lie</font>
 
 459
 00:17:59,740 --> 00:18:00,610
-<font face="Duality" size="70" color="#3f93d8">to</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}to</font>
 
 460
 00:17:59,750 --> 00:18:00,050
-<font face="Duality" size="70" color="#3f93d8"><font color="#3f93d8">aus</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">aus</font></font>
 
 461
 00:17:59,790 --> 00:18:02,980
-<font face="Duality" size="70" color="#3f93d8">ber</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}ber</font>
 
 462
 00:17:59,790 --> 00:18:00,720
-<font face="Duality" size="70" color="#3f93d8">You</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}You</font>
 
 463
 00:17:59,800 --> 00:18:00,100
-<font face="Duality" size="70" color="#3f93d8"><font color="#3f93d8">mei</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">mei</font></font>
 
 464
 00:17:59,840 --> 00:18:03,030
-<font face="Duality" size="70" color="#3f93d8">mein</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}mein</font>
 
 465
 00:17:59,840 --> 00:18:00,980
-<font face="Duality" size="70" color="#3f93d8">wan</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}wan</font>
 
 466
 00:17:59,850 --> 00:18:00,150
-<font face="Duality" size="70" color="#3f93d8"><font color="#3f93d8">ner</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">ner</font></font>
 
 467
 00:17:59,890 --> 00:18:03,080
-<font face="Duality" size="70" color="#3f93d8">Freund</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}Freund</font>
 
 468
 00:17:59,890 --> 00:18:01,120
-<font face="Duality" size="70" color="#3f93d8">na</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}na</font>
 
 469
 00:17:59,900 --> 00:18:00,200
-<font face="Duality" size="70" color="#3f93d8"><font color="#3f93d8">Ta</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">Ta</font></font>
 
 470
 00:17:59,940 --> 00:18:03,130
-<font face="Duality" size="70" color="#3f93d8">sein?</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}sein?</font>
 
 471
 00:17:59,940 --> 00:18:01,310
-<font face="Duality" size="70" color="#3f93d8">be</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}be</font>
 
 472
 00:17:59,950 --> 00:18:00,250
-<font face="Duality" size="70" color="#3f93d8"><font color="#3f93d8">sche</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">sche</font></font>
 
 473
 00:17:59,990 --> 00:18:00,240
-<font face="Duality" size="70" color="#3f93d8"><font color="#3f93d8"></font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8"></font></font>
 
 474
 00:17:59,990 --> 00:18:03,080
-<font face="Duality" size="70" color="#3f93d8"><font color="#3f93d8"></font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8"></font></font>
 
 475
 00:17:59,990 --> 00:18:00,240
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8"></font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8"></font></font>
 
 476
 00:17:59,990 --> 00:18:00,440
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8"></font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8"></font></font>
 
 477
 00:17:59,990 --> 00:18:01,670
-<font face="Duality" size="70" color="#3f93d8">my</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}my</font>
 
 478
 00:18:00,040 --> 00:18:01,970
-<font face="Duality" size="70" color="#3f93d8">Friend?</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}Friend?</font>
 
 479
 00:18:00,190 --> 00:18:00,680
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8">So</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">So</font></font>
 
 480
 00:18:00,430 --> 00:18:00,860
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8">re</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">re</font></font>
 
 481
 00:18:00,610 --> 00:18:00,970
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8">to</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">to</font></font>
 
 482
 00:18:00,720 --> 00:18:01,230
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8">You</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">You</font></font>
 
 483
 00:18:00,980 --> 00:18:01,370
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8">wan</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">wan</font></font>
 
 484
 00:18:01,120 --> 00:18:01,560
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8">na</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">na</font></font>
 
 485
 00:18:01,310 --> 00:18:01,920
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8">be</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">be</font></font>
 
 486
 00:18:01,670 --> 00:18:02,220
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8">my</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">my</font></font>
 
 487
 00:18:01,970 --> 00:18:03,430
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8">Friend?</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">Friend?</font></font>
 
 488
 00:18:02,830 --> 00:18:03,130
-<font face="Duality" size="70" color="#3f93d8"><font color="#3f93d8">o</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">o</font></font>
 
 489
 00:18:02,880 --> 00:18:03,180
-<font face="Duality" size="70" color="#3f93d8"><font color="#3f93d8">der</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">der</font></font>
 
 490
 00:18:02,930 --> 00:18:03,230
-<font face="Duality" size="70" color="#3f93d8"><font color="#3f93d8">lie</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">lie</font></font>
 
 491
 00:18:02,980 --> 00:18:03,280
-<font face="Duality" size="70" color="#3f93d8"><font color="#3f93d8">ber</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">ber</font></font>
 
 492
 00:18:03,030 --> 00:18:03,330
-<font face="Duality" size="70" color="#3f93d8"><font color="#3f93d8">mein</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">mein</font></font>
 
 493
 00:18:03,050 --> 00:18:03,500
-<font face="Duality" size="70" color="#3f93d8"></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}</font>
 
 494
 00:18:03,080 --> 00:18:03,380
-<font face="Duality" size="70" color="#3f93d8"><font color="#3f93d8">Freund</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">Freund</font></font>
 
 495
 00:18:03,100 --> 00:18:03,500
-<font face="Duality" size="70" color="#3f93d8"></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}</font>
 
 496
 00:18:03,130 --> 00:18:03,430
-<font face="Duality" size="70" color="#3f93d8"><font color="#3f93d8">sein?</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#3f93d8">sein?</font></font>
 
 497
 00:18:03,150 --> 00:18:03,620
-<font face="Duality" size="70" color="#3f93d8">We</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}We</font>
 
 498
 00:18:03,200 --> 00:18:04,160
-<font face="Duality" size="70" color="#3f93d8">are,</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}are,</font>
 
 499
 00:18:03,250 --> 00:18:05,070
-<font face="Duality" size="70" color="#3f93d8">We</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}We</font>
 
 500
 00:18:03,300 --> 00:18:05,600
-<font face="Duality" size="70" color="#3f93d8">are</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}are</font>
 
 501
 00:18:03,350 --> 00:18:06,100
-<font face="Duality" size="70" color="#3f93d8">on</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}on</font>
 
 502
 00:18:03,400 --> 00:18:06,300
-<font face="Duality" size="70" color="#3f93d8">the</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}the</font>
 
 503
 00:18:03,450 --> 00:18:06,470
-<font face="Duality" size="70" color="#3f93d8">cruise!</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}cruise!</font>
 
 504
 00:18:03,500 --> 00:18:03,750
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8"></font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8"></font></font>
 
 505
 00:18:03,500 --> 00:18:03,870
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8"></font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8"></font></font>
 
 506
 00:18:03,620 --> 00:18:04,410
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8">We</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">We</font></font>
 
 507
 00:18:04,160 --> 00:18:05,320
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8">are,</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">are,</font></font>
 
 508
 00:18:05,070 --> 00:18:05,850
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8">We</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">We</font></font>
 
 509
 00:18:05,240 --> 00:18:06,730
-<font face="Impress BT Pace" size="82">Alles klar! Auf geht’s!</font>
+<font face="Impress BT Pace" size="82">{Alright}Alles klar! Auf geht’s!</font>
 
 510
 00:18:05,600 --> 00:18:06,350
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8">are</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">are</font></font>
 
 511
 00:18:06,100 --> 00:18:06,550
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8">on</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">on</font></font>
 
 512
 00:18:06,300 --> 00:18:06,720
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8">the</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">the</font></font>
 
 513
 00:18:06,470 --> 00:18:08,320
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8">cruise!</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">cruise!</font></font>
 
 514
 00:18:07,480 --> 00:18:09,060
-<font face="Impress BT Pace" size="82">Ich werde...</font>
+<font face="Impress BT Pace" size="82">Ich werde{come}...</font>
 
 515
 00:18:08,400 --> 00:18:08,850
-<font face="Duality" size="70" color="#3f93d8"></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}</font>
 
 516
 00:18:08,450 --> 00:18:08,850
-<font face="Duality" size="70" color="#3f93d8"></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}</font>
 
 517
 00:18:08,500 --> 00:18:09,020
-<font face="Duality" size="70" color="#3f93d8">We</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}We</font>
 
 518
 00:18:08,550 --> 00:18:09,320
-<font face="Duality" size="70" color="#3f93d8">are!</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}are!</font>
 
 519
 00:18:08,850 --> 00:18:09,100
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8"></font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8"></font></font>
 
 520
 00:18:08,850 --> 00:18:09,270
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8"></font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8"></font></font>
 
 521
 00:18:09,020 --> 00:18:09,570
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8">We</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">We</font></font>
 
 522
 00:18:09,060 --> 00:18:11,880
-<font face="Impress BT Pace" size="82">König der Piraten!</font>
+<font face="Impress BT Pace" size="82">{the }König der Piraten!</font>
 
 523
 00:18:09,320 --> 00:18:09,950
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8">are!</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">are!</font></font>
 
 524
 00:18:11,200 --> 00:18:11,650
-<font face="Duality" size="70" color="#3f93d8"></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}</font>
 
 525
 00:18:11,250 --> 00:18:11,650
-<font face="Duality" size="70" color="#3f93d8"></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}</font>
 
 526
 00:18:11,300 --> 00:18:11,820
-<font face="Duality" size="70" color="#3f93d8">We</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}We</font>
 
 527
 00:18:11,350 --> 00:18:12,120
-<font face="Duality" size="70" color="#3f93d8">are!</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}are!</font>
 
 528
 00:18:11,650 --> 00:18:11,900
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8"></font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8"></font></font>
 
 529
 00:18:11,650 --> 00:18:12,070
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8"></font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8"></font></font>
 
 530
 00:18:11,820 --> 00:18:12,370
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8">We</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">We</font></font>
 
 531
 00:18:12,120 --> 00:18:12,750
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8">are!</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">are!</font></font>
 
 532
 00:18:14,100 --> 00:18:14,550
-<font face="Duality" size="70" color="#3f93d8"></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}</font>
 
 533
 00:18:14,150 --> 00:18:14,550
-<font face="Duality" size="70" color="#3f93d8"></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}</font>
 
 534
 00:18:14,200 --> 00:18:14,720
-<font face="Duality" size="70" color="#3f93d8">We</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}We</font>
 
 535
 00:18:14,250 --> 00:18:15,020
-<font face="Duality" size="70" color="#3f93d8">are!</font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}are!</font>
 
 536
 00:18:14,550 --> 00:18:14,800
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8"></font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8"></font></font>
 
 537
 00:18:14,550 --> 00:18:14,970
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8"></font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8"></font></font>
 
 538
 00:18:14,720 --> 00:18:15,270
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8">We</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">We</font></font>
 
 539
 00:18:15,020 --> 00:18:15,650
-<font face="Duality" size="70" color="#3f93d8"><font color="#a1d4f8">are!</font></font>
+<font face="Duality" size="70" color="#3f93d8">{\an7}<font color="#a1d4f8">are!</font></font>
 
