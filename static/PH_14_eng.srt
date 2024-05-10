@@ -20,12 +20,12 @@
 
 6
 00:00:24,220 --> 00:00:27,460
-<font face="Times New Roman" size="34">Translation & initial syncing
+<font face="Times New Roman" size="34">{\an1}Translation & initial syncing
 <font size="40">Kousei Fansubs</font></font>
 
 7
 00:00:27,620 --> 00:00:30,710
-<font face="Times New Roman" size="34">Syncing
+<font face="Times New Roman" size="34">{\an1}Syncing
 <font size="40">Galaxy 9000
 
 </font>Sync-checking
@@ -37,12 +37,12 @@
 
 9
 00:00:31,190 --> 00:00:34,320
-<font face="Times New Roman" size="34">Quality-checking
+<font face="Times New Roman" size="34">{\an1}Quality-checking
 <font size="40">Sewil</font></font>
 
 10
 00:00:34,860 --> 00:00:38,440
-<font face="Times New Roman" size="34">Soundtracking
+<font face="Times New Roman" size="34">{\an1}Soundtracking
 <font size="40">Halee</font></font>
 
 11
@@ -51,12 +51,12 @@
 
 12
 00:00:41,410 --> 00:00:43,680
-<font face="Times New Roman" size="34">Video editing
+<font face="Times New Roman" size="34">{\an1}Video editing
 <font size="40">Sewil</font></font>
 
 13
 00:00:43,730 --> 00:00:45,960
-<font face="Times New Roman" size="34">Title card artist
+<font face="Times New Roman" size="34">{\an1}Title card artist
 <font size="40">lucas2265</font></font>
 
 14
@@ -173,7 +173,7 @@
 
 42
 00:02:29,970 --> 00:02:35,660
-<font face="impress bt" size="63" color="#fefefe"><b>The Mastermind in the Shadows and the
+<font face="impress bt" size="63" color="#fefefe"><b>{\an5}The Mastermind in the Shadows and the
 Battle Between Gas and Rubber!</b></font>
 
 43
@@ -394,11 +394,11 @@ Battle Between Gas and Rubber!</b></font>
 
 97
 00:06:55,790 --> 00:06:58,130
-<font face="Impress BT" size="55">Hurry up! The gate is closing!</font>
+<font face="Impress BT" size="55">{\an8}Hurry up! The gate is closing!</font>
 
 98
 00:06:58,130 --> 00:06:59,650
-<font face="Impress BT" size="55">Run!</font>
+<font face="Impress BT" size="55">{\an8}Run!</font>
 
 99
 00:06:59,650 --> 00:07:01,750
@@ -530,7 +530,7 @@ Battle Between Gas and Rubber!</b></font>
 
 131
 00:09:37,040 --> 00:09:39,020
-<font face="Impress BT" size="55">That little bastard!</font>
+<font face="Impress BT" size="55">{\an8}That little bastard!</font>
 
 132
 00:09:40,560 --> 00:09:45,160
@@ -550,7 +550,7 @@ Battle Between Gas and Rubber!</b></font>
 
 136
 00:09:57,780 --> 00:10:00,810
-<font face="Impress BT" size="55">I repeat! The traitor, Trafalgar Law has...</font>
+<font face="Impress BT" size="55">{\an8}I repeat! The traitor, Trafalgar Law has...</font>
 
 137
 00:10:00,810 --> 00:10:03,430
@@ -690,11 +690,11 @@ Battle Between Gas and Rubber!</b></font>
 
 171
 00:11:41,170 --> 00:11:43,820
-<font face="Impress BT" size="55">That's what I figured!</font>
+<font face="Impress BT" size="55">{\an8}That's what I figured!</font>
 
 172
 00:11:45,180 --> 00:11:48,640
-<font face="Impress BT" size="55">I thought of him as my brother.</font>
+<font face="Impress BT" size="55">{\an8}I thought of him as my brother.</font>
 
 173
 00:11:46,600 --> 00:11:52,290
@@ -703,7 +703,7 @@ Donquixote Doflamingo (Black Market Broker: Joker)</font>
 
 174
 00:11:48,640 --> 00:11:52,290
-<font face="Impress BT" size="55">I watched over him carefully as he grew up.</font>
+<font face="Impress BT" size="55">{\an8}I watched over him carefully as he grew up.</font>
 
 175
 00:11:52,800 --> 00:11:54,240
@@ -920,7 +920,7 @@ Donquixote Doflamingo (Black Market Broker: Joker)</font>
 
 228
 00:15:47,260 --> 00:15:50,300
-<font face="Impress BT" size="55">Even bones have nutrition, you know!</font>
+<font face="Impress BT" size="55">Even bones have nutrition, you know!{Hattori: Does Robin break the fourth wall for a few frames there!? :D }{Sewil: Not everybody hates Brook you know.}</font>
 
 229
 00:15:50,300 --> 00:15:51,860
@@ -1052,7 +1052,7 @@ Donquixote Doflamingo (Black Market Broker: Joker)</font>
 
 261
 00:17:22,240 --> 00:17:24,130
-<font face="Impress BT" size="38"><i>Gavotte Forward Leap</i></font>
+<font face="Impress BT" size="38"><i>{\an8}Gavotte Forward Leap</i></font>
 
 262
 00:17:24,940 --> 00:17:26,300

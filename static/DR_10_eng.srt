@@ -28,7 +28,7 @@
 
 8
 00:00:23,750 --> 00:00:28,070
-<font face="Times New Roman" size="34">Translation & initial timing
+<font face="Times New Roman" size="34">{\an1}Translation & initial timing
 <font size="40">Tsuki
 Yibis (Opening)</font></font>
 
@@ -38,7 +38,7 @@ Yibis (Opening)</font></font>
 
 10
 00:00:28,150 --> 00:00:32,160
-<font face="Times New Roman" size="34">Timing
+<font face="Times New Roman" size="34">{\an1}Timing
 <font size="40">Galaxy 9000
 
 </font>Time-checking
@@ -50,14 +50,14 @@ Yibis (Opening)</font></font>
 
 12
 00:00:34,660 --> 00:00:37,600
-<font face="Times New Roman" size="34">Quality-checking
+<font face="Times New Roman" size="34">{\an1}Quality-checking
 <font size="40">Sewil
 Galaxy 9000
 Halee</font></font>
 
 13
 00:00:39,030 --> 00:00:42,630
-<font face="Times New Roman" size="34">Soundtracking
+<font face="Times New Roman" size="34">{\an1}Soundtracking
 <font size="40">Halee</font></font>
 
 14
@@ -70,7 +70,7 @@ Halee</font></font>
 
 16
 00:00:45,500 --> 00:00:48,170
-<font face="Times New Roman" size="34">Video editing
+<font face="Times New Roman" size="34">{\an1}Video editing
 <font size="40">Sewil</font></font>
 
 17
@@ -87,7 +87,7 @@ Halee</font></font>
 
 20
 00:01:00,420 --> 00:01:04,520
-<font face="Times New Roman" size="34">Raw provider
+<font face="Times New Roman" size="34">{\an1}Raw provider
 <font size="40">Crunchyroll</font></font>
 
 21
@@ -188,7 +188,7 @@ Halee</font></font>
 
 45
 00:02:30,030 --> 00:02:38,610
-<font face="impress bt" size="63" color="#fefefe"><b>The Tontatta Rebellion and
+<font face="impress bt" size="63" color="#fefefe"><b>{\an5}The Tontatta Rebellion and
 the C Block Finale!</b></font>
 
 46
@@ -227,7 +227,7 @@ Tontatta Airline</font>
 
 54
 00:03:03,930 --> 00:03:08,050
-<font face="Impress BT" size="55">This is Yellow Kabu 43. Ready to takeoff!</font>
+<font face="Impress BT" size="55">{\an8}This is Yellow Kabu 43. Ready to takeoff!</font>
 
 55
 00:03:04,710 --> 00:03:09,620
@@ -236,11 +236,11 @@ Tontatta Airline</font>
 
 56
 00:03:08,050 --> 00:03:11,540
-<font face="Impress BT" size="55"><i>43, cleared for takeoff.</i></font>
+<font face="Impress BT" size="55">{\an8}<i>43, cleared for takeoff.</i></font>
 
 57
 00:03:13,900 --> 00:03:17,040
-<font face="Impress BT" size="55">Pink Bee Squad, ready to go!</font>
+<font face="Impress BT" size="55">{\an8}Pink Bee Squad, ready to go!</font>
 
 58
 00:03:14,120 --> 00:03:18,840
@@ -249,7 +249,7 @@ Tontatta Airline</font>
 
 59
 00:03:17,040 --> 00:03:18,840
-<font face="Impress BT" size="55"><i>Pink Bee, roger that.</i></font>
+<font face="Impress BT" size="55">{\an8}<i>Pink Bee, roger that.</i></font>
 
 60
 00:03:19,120 --> 00:03:22,050
@@ -619,7 +619,7 @@ Nami and the others are in danger!</font>
 
 150
 00:08:02,690 --> 00:08:04,760
-<font face="Impress BT" size="55">It's no use!</font>
+<font face="Impress BT" size="55">{\an8}It's no use!</font>
 
 151
 00:08:05,310 --> 00:08:08,700
@@ -870,7 +870,7 @@ Sanji and Kin'emon</font>
 
 212
 00:12:11,070 --> 00:12:13,050
-<font face="Impress BT" size="55">Why're you cheering with the others?!</font>
+<font face="Impress BT" size="55">Why're you cheering with the others?!{How can he be talking here... lol. Fix needed}</font>
 
 213
 00:12:13,050 --> 00:12:17,010

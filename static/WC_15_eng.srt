@@ -48,7 +48,7 @@ splattered with blood, Mama will be furious,</font>
 
 12
 00:01:05,580 --> 00:01:08,950
-<font face="Impress BT" size="55">It fires bullets called candy jackets.</font>
+<font face="Impress BT" size="55">It fires bullets {known as "Candy Jackets".}called candy jackets.</font>
 
 13
 00:01:08,950 --> 00:01:13,880
@@ -231,194 +231,194 @@ don't you think?!</font>
 
 56
 00:05:22,340 --> 00:05:27,410
-<font face="FOT-Greco Std DB Strp" size="39"><font color="#000000">Video Editing</font></font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}<font color="#000000">Video Editing</font></font>
 
 57
 00:05:22,340 --> 00:05:27,410
-<font face="FOT-Greco Std DB Strp" size="39">Video Editing</font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}Video Editing</font>
 
 58
 00:05:22,340 --> 00:05:27,410
-<font face="FOT-Greco Std DB Strp" size="39"><font color="#000000">Feeso
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}<font color="#000000">Feeso
 Galaxy 9000</font></font>
 
 59
 00:05:22,340 --> 00:05:27,410
-<font face="FOT-Greco Std DB Strp" size="39">Feeso
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}Feeso
 Galaxy 9000</font>
 
 60
 00:05:22,340 --> 00:05:27,410
-<font face="FOT-Greco Std DB Strp" size="39">Feeso
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}Feeso
 Galaxy 9000</font>
 
 61
 00:05:48,440 --> 00:05:51,470
-<font face="FOT-Greco Std DB Strp" size="39"><font color="#000000">Quality Control</font></font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}<font color="#000000">Quality Control</font></font>
 
 62
 00:05:48,440 --> 00:05:51,470
-<font face="FOT-Greco Std DB Strp" size="39">Quality Control</font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}Quality Control</font>
 
 63
 00:05:48,450 --> 00:05:51,450
-<font face="FOT-Greco Std DB Strp" size="39"><font color="#000000">Feeso
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}<font color="#000000">Feeso
 Grug
 Zenef</font></font>
 
 64
 00:05:48,450 --> 00:05:51,450
-<font face="FOT-Greco Std DB Strp" size="39">Feeso
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}Feeso
 Grug
 Zenef</font>
 
 65
 00:05:48,450 --> 00:05:51,450
-<font face="FOT-Greco Std DB Strp" size="39">Feeso
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}Feeso
 Grug
 Zenef</font>
 
 66
 00:05:48,450 --> 00:05:51,450
-<font face="FOT-Greco Std DB Strp" size="39"><font color="#000000">Galaxy 9000
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}<font color="#000000">Galaxy 9000
 Pepperjack</font></font>
 
 67
 00:05:48,450 --> 00:05:51,450
-<font face="FOT-Greco Std DB Strp" size="39">Galaxy 9000
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}Galaxy 9000
 Pepperjack</font>
 
 68
 00:05:48,450 --> 00:05:51,450
-<font face="FOT-Greco Std DB Strp" size="39">Galaxy 9000
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}Galaxy 9000
 Pepperjack</font>
 
 69
 00:05:51,820 --> 00:05:55,270
-<font face="FOT-Greco Std DB Strp" size="39"><font color="#000000">Timing</font></font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}<font color="#000000">Timing</font></font>
 
 70
 00:05:51,820 --> 00:05:55,270
-<font face="FOT-Greco Std DB Strp" size="39">Timing</font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}Timing</font>
 
 71
 00:05:51,820 --> 00:05:55,270
-<font face="FOT-Greco Std DB Strp" size="39"><font color="#000000">Halee</font></font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}<font color="#000000">Halee</font></font>
 
 72
 00:05:51,820 --> 00:05:55,270
-<font face="FOT-Greco Std DB Strp" size="39">Halee</font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}Halee</font>
 
 73
 00:05:51,820 --> 00:05:55,270
-<font face="FOT-Greco Std DB Strp" size="39">Halee</font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}Halee</font>
 
 74
 00:05:55,360 --> 00:05:57,810
-<font face="FOT-Greco Std DB Strp" size="39"><font color="#000000">Karaoke</font></font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}<font color="#000000">Karaoke</font></font>
 
 75
 00:05:55,360 --> 00:05:57,810
-<font face="FOT-Greco Std DB Strp" size="39">Karaoke</font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}Karaoke</font>
 
 76
 00:05:55,360 --> 00:05:57,810
-<font face="FOT-Greco Std DB Strp" size="39"><font color="#000000">KaitouYahiko</font></font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}<font color="#000000">KaitouYahiko</font></font>
 
 77
 00:05:55,360 --> 00:05:57,810
-<font face="FOT-Greco Std DB Strp" size="39">KaitouYahiko</font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}KaitouYahiko</font>
 
 78
 00:05:55,360 --> 00:05:57,810
-<font face="FOT-Greco Std DB Strp" size="39">KaitouYahiko</font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}KaitouYahiko</font>
 
 79
 00:06:13,250 --> 00:06:19,710
-<font face="FOT-Greco Std DB Strp" size="39"><font color="#000000">Soundtracking</font></font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}<font color="#000000">Soundtracking</font></font>
 
 80
 00:06:13,250 --> 00:06:19,710
-<font face="FOT-Greco Std DB Strp" size="39">Soundtracking</font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}Soundtracking</font>
 
 81
 00:06:13,250 --> 00:06:19,710
-<font face="FOT-Greco Std DB Strp" size="39">Soundtracking</font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}Soundtracking</font>
 
 82
 00:06:13,250 --> 00:06:19,710
-<font face="FOT-Greco Std DB Strp" size="39"><font color="#000000">Halee</font></font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}<font color="#000000">Halee</font></font>
 
 83
 00:06:13,250 --> 00:06:19,710
-<font face="FOT-Greco Std DB Strp" size="39">Halee</font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}Halee</font>
 
 84
 00:06:13,250 --> 00:06:19,710
-<font face="FOT-Greco Std DB Strp" size="39">Halee</font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}Halee</font>
 
 85
 00:06:25,640 --> 00:06:29,590
-<font face="FOT-Greco Std DB Strp" size="39"><font color="#000000">Graphics</font></font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}<font color="#000000">Graphics</font></font>
 
 86
 00:06:25,640 --> 00:06:29,590
-<font face="FOT-Greco Std DB Strp" size="39">Graphics</font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}Graphics</font>
 
 87
 00:06:25,640 --> 00:06:29,590
-<font face="FOT-Greco Std DB Strp" size="39"><font color="#000000">Datenshi</font></font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}<font color="#000000">Datenshi</font></font>
 
 88
 00:06:25,640 --> 00:06:29,590
-<font face="FOT-Greco Std DB Strp" size="39">Datenshi</font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}Datenshi</font>
 
 89
 00:06:25,640 --> 00:06:29,590
-<font face="FOT-Greco Std DB Strp" size="39">Datenshi</font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}Datenshi</font>
 
 90
 00:06:29,850 --> 00:06:33,010
-<font face="FOT-Greco Std DB Strp" size="39"><font color="#000000">Subtitle Editing</font></font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}<font color="#000000">Subtitle Editing</font></font>
 
 91
 00:06:29,850 --> 00:06:33,010
-<font face="FOT-Greco Std DB Strp" size="39">Subtitle Editing</font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}Subtitle Editing</font>
 
 92
 00:06:29,850 --> 00:06:33,010
-<font face="FOT-Greco Std DB Strp" size="39"><font color="#000000">Feeso
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}<font color="#000000">Feeso
 Zenef</font></font>
 
 93
 00:06:29,850 --> 00:06:33,010
-<font face="FOT-Greco Std DB Strp" size="39">Feeso
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}Feeso
 Zenef</font>
 
 94
 00:06:29,850 --> 00:06:33,010
-<font face="FOT-Greco Std DB Strp" size="39">Feeso
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}Feeso
 Zenef</font>
 
 95
 00:06:52,180 --> 00:06:56,470
-<font face="FOT-Greco Std DB Strp" size="39"><font color="#000000">Translation</font></font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}<font color="#000000">Translation</font></font>
 
 96
 00:06:52,180 --> 00:06:56,470
-<font face="FOT-Greco Std DB Strp" size="39">Translation</font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}Translation</font>
 
 97
 00:06:52,180 --> 00:06:56,470
-<font face="FOT-Greco Std DB Strp" size="39"><font color="#000000">Crunchyroll</font></font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}<font color="#000000">Crunchyroll</font></font>
 
 98
 00:06:52,180 --> 00:06:56,470
-<font face="FOT-Greco Std DB Strp" size="39">Crunchyroll</font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}Crunchyroll</font>
 
 99
 00:06:52,180 --> 00:06:56,470
-<font face="FOT-Greco Std DB Strp" size="39">Crunchyroll</font>
+<font face="FOT-Greco Std DB Strp" size="39">{\an7}Crunchyroll</font>
 
 100
 00:06:56,600 --> 00:07:04,150
@@ -1266,7 +1266,7 @@ from the Prisoner Library!</font>
 
 298
 00:21:01,470 --> 00:21:03,480
-<font face="Impress BT" size="55" color="#d6d6d6">What's going on?!</font>
+<font face="Impress BT" size="55" color="#d6d6d6">{\an8}What's going on?!</font>
 
 299
 00:21:02,880 --> 00:21:04,430
@@ -1315,7 +1315,7 @@ that I wanna eat something.</font>
 309
 00:21:38,510 --> 00:21:43,690
 <font face="Impress BT" size="55"><i>I won't eat anything
-other than what you cook!</i></font>
+other than what you cook!{Flashback to WCI 11 @timestamp 25:26}</i></font>
 
 310
 00:21:43,690 --> 00:21:47,710
@@ -1805,7 +1805,7 @@ and mistreated you accordingly.</i></font>
 
 423
 00:30:24,910 --> 00:30:27,720
-<font face="Impress BT" size="55"><i>Never cook again!</i></font>
+<font face="Impress BT" size="55"><i>Never cook again!{Flashback to Whole Cake Island 9 @timestamp 29:33}</i></font>
 
 424
 00:30:27,720 --> 00:30:31,380
@@ -1888,11 +1888,13 @@ and passed through the first floor already!</font>
 
 443
 00:31:49,080 --> 00:31:53,090
-<font face="Roboto" size="39"><font size="55"><font color="#000000">Treasure Repository Entryway</font></font></font>
+<font face="Roboto" size="39"><font size="55"><font color="#000000">{In Front of the Door
+to the Treasure Repository}Treasure Repository Entryway</font></font></font>
 
 444
 00:31:49,080 --> 00:31:53,090
-<font face="Roboto" size="39"><font size="55">Treasure Repository Entryway</font></font>
+<font face="Roboto" size="39"><font size="55">{In Front of the Door
+to the Treasure Repository}Treasure Repository Entryway</font></font>
 
 445
 00:31:50,370 --> 00:31:53,090
@@ -2065,7 +2067,7 @@ threatening to take that seafaring restaurant hostage,</font>
 
 485
 00:34:10,680 --> 00:34:11,980
-<font face="Impress BT" size="55">and they'll be dead tomorrow.</font>
+<font face="Impress BT" size="55">and they'll be dead tomorrow{, anyways}.</font>
 
 486
 00:34:12,520 --> 00:34:17,110

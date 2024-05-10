@@ -353,7 +353,7 @@ of your Fishman Karate!</font>
 
 83
 00:04:44,350 --> 00:04:45,810
-<font face="Impress BT" size="38"><i>Eight Flowers</i></font>
+<font face="Impress BT" size="38"><i>{\an8}Eight Flowers</i></font>
 
 84
 00:04:47,470 --> 00:04:48,120

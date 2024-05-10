@@ -20,12 +20,12 @@
 
 6
 00:00:24,140 --> 00:00:27,400
-<font face="Times New Roman" size="34">Translation & initial syncing
+<font face="Times New Roman" size="34">{\an1}Translation & initial syncing
 <font size="40">Yibis Fansubs</font></font>
 
 7
 00:00:27,610 --> 00:00:30,690
-<font face="Times New Roman" size="34">Syncing
+<font face="Times New Roman" size="34">{\an1}Syncing
 <font size="40">Galaxy 9000
 
 </font>Sync-checking
@@ -37,12 +37,12 @@
 
 9
 00:00:31,160 --> 00:00:34,270
-<font face="Times New Roman" size="34">Quality-checking
+<font face="Times New Roman" size="34">{\an1}Quality-checking
 <font size="40">Sewil</font></font>
 
 10
 00:00:34,820 --> 00:00:38,390
-<font face="Times New Roman" size="34">Soundtracking
+<font face="Times New Roman" size="34">{\an1}Soundtracking
 <font size="40">Halee</font></font>
 
 11
@@ -51,7 +51,7 @@
 
 12
 00:00:41,420 --> 00:00:43,620
-<font face="Times New Roman" size="34">Video editing
+<font face="Times New Roman" size="34">{\an1}Video editing
 <font size="40">Sewil</font></font>
 
 13
@@ -168,12 +168,12 @@
 
 41
 00:02:29,820 --> 00:02:36,000
-<font face="impress bt" size="63" color="#fefefe"><b>The Dragon Named Momonosuke and
+<font face="impress bt" size="63" color="#fefefe"><b>{\an5}The Dragon Named Momonosuke and
 the Menacing Snow Fruit User!</b></font>
 
 42
 00:02:37,910 --> 00:02:39,440
-<font face="Impress BT" size="55">Momonosuke?</font>
+<font face="Impress BT" size="55">{\an8}Momonosuke?</font>
 
 43
 00:02:38,790 --> 00:02:43,440
@@ -181,7 +181,7 @@ the Menacing Snow Fruit User!</b></font>
 
 44
 00:02:39,440 --> 00:02:41,550
-<font face="Impress BT" size="55">That would be my name.</font>
+<font face="Impress BT" size="55">{\an8}That would be my name.</font>
 
 45
 00:02:43,430 --> 00:02:46,090
@@ -214,7 +214,7 @@ You have probably mistaken me for another person.</font>
 
 52
 00:03:02,880 --> 00:03:05,010
-<font face="Impress BT" size="55">Restrain yourself!</font>
+<font face="Impress BT" size="55">{\an8}Restrain yourself!</font>
 
 53
 00:03:03,380 --> 00:03:06,520
@@ -263,7 +263,7 @@ would cause a warrior's stomach to growl.</font>
 
 64
 00:03:42,930 --> 00:03:46,900
-<font face="Impress BT" size="55">I'm Luffy, the man who's gonna be the Pirate King. </font>
+<font face="Impress BT" size="55">I'm Luffy, the man who's gonna be the Pirate King. { def: i assume this is a little more formal than his usual catch phrase }{Starfish: Nope. He says it exactly the same way he always does.}</font>
 
 65
 00:03:46,900 --> 00:03:50,130
@@ -276,7 +276,7 @@ would cause a warrior's stomach to growl.</font>
 67
 00:03:53,030 --> 00:03:56,900
 <font face="Impress BT" size="55">A pirate would be bigger
-and weigh at least 300 kg. </font>
+and weigh at least 300 kg. {I actually had to do a bit of research to convert the weight}</font>
 
 68
 00:03:56,900 --> 00:04:00,210
@@ -288,7 +288,7 @@ and weigh at least 300 kg. </font>
 
 70
 00:04:03,250 --> 00:04:04,180
-<font face="Impress BT" size="55">How do-</font> 
+<font face="Impress BT" size="55">How do-</font> { def: manga has Luff calling him an eel here, which is necessary for the next line to make sense }
 
 71
 00:04:04,180 --> 00:04:05,500
@@ -370,7 +370,7 @@ or what has happened to me.</font>
 
 90
 00:05:29,220 --> 00:05:30,570
-<font face="Impress BT" size="55"><i>Here are some snacks. </i></font>
+<font face="Impress BT" size="55"><i>Here are some snacks. { 8:21, 15:56 }</i></font>
 
 91
 00:05:30,570 --> 00:05:33,050
@@ -429,7 +429,7 @@ There is something that I need to do.</i></font>
 
 104
 00:06:38,160 --> 00:06:42,810
-<font face="Impress BT" size="55"><i>It must be hard, but it's the same for all the kids here. </i></font>
+<font face="Impress BT" size="55"><i>It must be hard, but it's the same for all the kids here. { 10:53, 15:59 }</i></font>
 
 105
 00:06:44,560 --> 00:06:48,970
@@ -488,7 +488,7 @@ Let's go, Momonosuke-kun!</i></font>
 
 118
 00:07:45,430 --> 00:07:47,030
-<font face="Impress BT" size="55"><i>What's going on?</i></font>
+<font face="Impress BT" size="55"><i>What's going on?{ deftl: Where's it going? }</i></font>
 
 119
 00:07:47,030 --> 00:07:50,160
@@ -690,7 +690,7 @@ but I fell down here whilst hiding in a trash can.</font>
 167
 00:11:05,900 --> 00:11:10,820
 <font face="Impress BT" size="55">Hey Brook, tell us if you find
-those Sea Stone handcuffs that Robin wants. </font>
+those Sea Stone handcuffs that Robin wants. { def: shackles }{Starfish: They're both the same thing, aren't they? So by all means, if you think "shackles" sounds better then I have no objections.}</font>
 
 168
 00:11:10,820 --> 00:11:16,080
@@ -711,7 +711,7 @@ on your sorcery, Sir Corpse!</font>
 
 172
 00:11:32,540 --> 00:11:37,090
-<font face="Impress BT" size="55">Everyone, this way to the kids in the Biscuits Room! </font>
+<font face="Impress BT" size="55">Everyone, this way to the kids in the Biscuits Room! {Welp, there goes the quality xD -Fadeout4}</font>
 
 173
 00:11:39,590 --> 00:11:41,720
@@ -748,7 +748,7 @@ I run into the Snow ability?!</font>
 
 181
 00:12:01,500 --> 00:12:05,510
-<font face="Impress BT" size="55">Stop, everyone!  You can't eat that candy! </font>
+<font face="Impress BT" size="55">Stop, everyone!  You can't eat that candy! {WELP, THERE REALLY GOES THE QUALITY! -Fadeout4}</font>
 
 182
 00:12:05,510 --> 00:12:07,320
@@ -776,7 +776,7 @@ I run into the Snow ability?!</font>
 
 188
 00:12:22,580 --> 00:12:24,180
-<font face="Impress BT" size="55">Don't interfere.</font>
+<font face="Impress BT" size="55">Don't interfere.{Starfish: OH NO!  MONET JUST STABBED ROBIN'S HAIR!!!}</font>
 
 189
 00:12:25,290 --> 00:12:25,970
@@ -800,7 +800,7 @@ I run into the Snow ability?!</font>
 
 194
 00:12:47,930 --> 00:12:50,430
-<font face="Impress BT" size="55">I'm okay, it's just a scratch.</font>
+<font face="Impress BT" size="55">I'm okay, it's just a scratch.{ Btwb: Scratch, piercing, whatever. }{Sev: TIS BUT A SCRATCH}</font>
 
 195
 00:12:50,430 --> 00:12:52,700
@@ -883,7 +883,7 @@ I'm happy to be working with you.</i></font>
 
 214
 00:14:00,880 --> 00:14:07,110
-<font face="Impress BT" size="55"><i>I once lost my only son to this disease.</i></font>
+<font face="Impress BT" size="55"><i>I once lost my only son to this disease.{ Btwb: There's only one disease? }</i></font>
 
 215
 00:14:07,110 --> 00:14:11,570
@@ -1037,11 +1037,11 @@ Why are you coming over here?!</font>
 
 252
 00:16:32,320 --> 00:16:33,200
-<font face="Impress BT" size="55">The exit!</font>
+<font face="Impress BT" size="55">The exit!{ Btwb: The "Huh?" was said a while before she says "The exit!", so I just removed it. Someone else can time it back in, if so desired. }</font>
 
 253
 00:16:33,200 --> 00:16:34,240
-<font face="Impress BT" size="55">Oh no!</font>
+<font face="Impress BT" size="55">Oh no!{Starfish: "Dammit" doesn't strike me as the sort of thing Robin would say.}</font>
 
 254
 00:16:37,330 --> 00:16:38,370
@@ -1077,7 +1077,7 @@ Why are you coming over here?!</font>
 
 262
 00:16:57,570 --> 00:16:58,830
-<font face="Impress BT" size="38"><i>Four Flowers</i></font>
+<font face="Impress BT" size="38"><i>{\an8}Four Flowers</i></font>
 
 263
 00:16:59,580 --> 00:17:00,600
@@ -1085,7 +1085,7 @@ Why are you coming over here?!</font>
 
 264
 00:17:06,920 --> 00:17:07,420
-<font face="Impress BT" size="55">Nami! </font>
+<font face="Impress BT" size="55">Nami! {This line is super short but it goes from the end of a scene to the start of the next D: -Fadeout4}</font>
 
 265
 00:17:09,670 --> 00:17:11,400
@@ -1101,7 +1101,7 @@ Why are you coming over here?!</font>
 
 268
 00:17:18,860 --> 00:17:23,950
-<font face="Impress BT" size="55">and my mission is to protect Caesar and his experiment.</font>
+<font face="Impress BT" size="55">and my mission is to protect Caesar and his experiment.{ Btwb: Just one of his experiments? }</font>
 
 269
 00:17:24,360 --> 00:17:27,640
@@ -1149,7 +1149,7 @@ Why are you coming over here?!</font>
 
 280
 00:17:58,110 --> 00:18:03,270
-<font face="Impress BT" size="55">And here you are, trying to rob us, their guardians, of the very thing that matters the most to us.</font>
+<font face="Impress BT" size="55">And here you are, trying to rob us, their guardians, of the very thing that matters the most to us.{Starfish: She literally refers to them as "treasures".}</font>
 
 281
 00:18:05,360 --> 00:18:07,260
@@ -1209,7 +1209,7 @@ Why are you coming over here?!</font>
 
 295
 00:18:47,660 --> 00:18:50,170
-<font face="Impress BT" size="55">Let's go through that door back there!</font>
+<font face="Impress BT" size="55">Let's go through that door back there!{ Btwb: Sounds like Sanji, so I changed the actor. }</font>
 
 296
 00:18:50,170 --> 00:18:54,140
@@ -1245,7 +1245,7 @@ Why are you coming over here?!</font>
 
 304
 00:19:17,150 --> 00:19:21,110
-<font face="Impress BT" size="55">They should all slip on the snow, hit their heads and die.</font>
+<font face="Impress BT" size="55">They should all slip on the snow, hit their heads and die.{ Btwb: Not a technically correct sentence, but I'll let it slide since it sounds like something Zoro would say. }</font>
 
 305
 00:19:22,790 --> 00:19:25,890
@@ -1261,7 +1261,7 @@ Why are you coming over here?!</font>
 
 308
 00:19:31,780 --> 00:19:33,870
-<font face="Impress BT" size="55">Alright, let's go, you g...</font>
+<font face="Impress BT" size="55">Alright, let's go, you g...{ Btwb: Added the ellipsis since it sounds like he started trailing off. }</font>
 
 309
 00:19:34,540 --> 00:19:37,800
@@ -1269,11 +1269,11 @@ Why are you coming over here?!</font>
 
 310
 00:19:37,800 --> 00:19:39,740
-<font face="Impress BT" size="55">Seriously?!</font>
+<font face="Impress BT" size="55">Seriously?!{These 2 sentences are said by two different people at the same time.}</font>
 
 311
 00:19:37,800 --> 00:19:39,740
-<font face="Impress BT" size="55" color="#d6d6d6">She's so cute! </font>
+<font face="Impress BT" size="55" color="#d6d6d6">She's so cute! {These 2 sentences are said by two different people at the same time.}</font>
 
 312
 00:19:39,740 --> 00:19:43,370
@@ -1289,7 +1289,7 @@ Why are you coming over here?!</font>
 
 315
 00:19:50,620 --> 00:19:52,130
-<font face="Impress BT" size="55">It's a Harpy!</font>
+<font face="Impress BT" size="55">It's a Harpy!{ Btwb: Not sure if should be capitalized... }</font>
 
 316
 00:19:53,270 --> 00:19:54,940
@@ -1309,7 +1309,7 @@ Why are you coming over here?!</font>
 
 320
 00:20:02,410 --> 00:20:06,060
-<font face="Impress BT" size="55">Why are you weak to compliments?!</font>
+<font face="Impress BT" size="55">Why are you weak to compliments?!{Starfish: Despite being the one who wrote this, I do not like this phrasing. Plz do something about it.}</font>
 
 321
 00:20:06,060 --> 00:20:09,290

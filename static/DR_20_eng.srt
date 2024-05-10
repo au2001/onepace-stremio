@@ -28,7 +28,7 @@
 
 8
 00:00:23,750 --> 00:00:28,070
-<font face="Times New Roman" size="34">Translation & initial timing
+<font face="Times New Roman" size="34">{\an1}Translation & initial timing
 <font size="40">Yibis</font></font>
 
 9
@@ -37,7 +37,7 @@
 
 10
 00:00:28,160 --> 00:00:32,160
-<font face="Times New Roman" size="34">Timing
+<font face="Times New Roman" size="34">{\an1}Timing
 <font size="40">Sewil</font></font>
 
 11
@@ -46,7 +46,7 @@
 
 12
 00:00:34,660 --> 00:00:37,600
-<font face="Times New Roman" size="34">Quality-checking
+<font face="Times New Roman" size="34">{\an1}Quality-checking
 <font size="40">Sewil
 Galaxy 9000
 Halee</font></font>
@@ -57,7 +57,7 @@ Halee</font></font>
 
 14
 00:00:39,020 --> 00:00:42,640
-<font face="Times New Roman" size="34">Soundtracking
+<font face="Times New Roman" size="34">{\an1}Soundtracking
 <font size="40">Halee</font></font>
 
 15
@@ -66,11 +66,11 @@ Halee</font></font>
 
 16
 00:00:45,870 --> 00:00:48,560
-<font face="Times New Roman" size="34">Video editing         <font size="40">Sewil</font></font>
+<font face="Times New Roman" size="34">{\an1}Video editing         <font size="40">Sewil</font></font>
 
 17
 00:00:45,870 --> 00:00:48,560
-<font face="Times New Roman" size="34">Raw provider      <font size="40">GS-Raws</font></font>
+<font face="Times New Roman" size="34">{\an1}Raw provider      <font size="40">GS-Raws</font></font>
 
 18
 00:00:51,200 --> 00:00:56,050
@@ -124,7 +124,7 @@ Officers' Tower</font>
 
 30
 00:01:39,360 --> 00:01:45,650
-<font face="Impress BT" size="55">With this fake grape made from tatababasco, we'll knock Sugar unconscious.</font>
+<font face="Impress BT" size="55">With this fake grape made from tatababasco, we'll knock Sugar unconscious.{Yeah, I omitted the "world's spiciest"-thing here... But seriously, this line is entirely unnecessary anyway being that it's just repeating info}</font>
 
 31
 00:01:55,690 --> 00:01:59,730
@@ -184,11 +184,11 @@ Officers' Tower</font>
 
 45
 00:02:42,470 --> 00:02:43,410
-<font face="Impress BT" size="55">Wait, Leo!</font>
+<font face="Impress BT" size="55">Wait, Leo!{Isis: changed the style to thoughts, since I don't think she said that outloud and it's the same as all those previous lines were. checked the manga and confirmed it was a thought}</font>
 
 46
 00:02:45,890 --> 00:02:47,380
-<font face="Impress BT" size="55">Robiland?</font>
+<font face="Impress BT" size="55">Robiland?{Isis: same as the previous line}</font>
 
 47
 00:02:47,380 --> 00:02:50,350
@@ -355,7 +355,7 @@ have to make the most of the five hundred we have.</font>
 
 87
 00:05:41,460 --> 00:05:44,590
-<font face="Impress BT" size="55">How can they believe such a blatant lie? </font>
+<font face="Impress BT" size="55">How can they believe such a blatant lie? {Swashy: This seems to be a thought and not use the Main style.}</font>
 
 88
 00:05:45,640 --> 00:05:48,660
@@ -363,7 +363,7 @@ have to make the most of the five hundred we have.</font>
 
 89
 00:05:48,660 --> 00:05:54,160
-<font face="Impress BT" size="55">I'm sorry. But if you'd just charged in like that, you would have been killed. </font>
+<font face="Impress BT" size="55">I'm sorry. But if you'd just charged in like that, you would have been killed. {2x you'd -Fadeout4}</font>
 
 90
 00:05:55,160 --> 00:05:56,690
@@ -371,11 +371,11 @@ have to make the most of the five hundred we have.</font>
 
 91
 00:05:59,100 --> 00:06:03,500
-<font face="Impress BT" size="55">He hit it perfectly between the eyes, despite its size. </font>
+<font face="Impress BT" size="55">He hit it perfectly between the eyes, despite its size. {Swashy-B: Changed the "He'd". Should just be "He".}</font>
 
 92
 00:06:03,500 --> 00:06:07,350
-<font face="Impress BT" size="55">Trébol's dynamic visual acuity is exceptional.  </font>
+<font face="Impress BT" size="55">Trébol's dynamic visual acuity{lol taking the translation Google Translate gave me and using it verbatim -Starfish} is exceptional. {Swashy: Kinda goes with Robin's intellect. I'm in favor of keeping this or changing it to 'acuteness'.} {How about "spacial awareness"? -Fadeout4}</font>
 
 93
 00:06:07,920 --> 00:06:12,640
@@ -403,7 +403,7 @@ have to make the most of the five hundred we have.</font>
 
 99
 00:06:39,060 --> 00:06:44,180
-<font face="Impress BT" size="55">There's a commotion in port four from Captain Eves' crew.  </font>
+<font face="Impress BT" size="55">There's a commotion in port four from Captain Eves' crew. {Xemnas: Since this is a trading port I felt this was more appropriate. Although it may need some rewording.} {Swashy-B: This was the best I can do. I think it sounds better}</font>
 
 100
 00:06:44,660 --> 00:06:48,650
@@ -480,7 +480,7 @@ if they're not scared of Joker's name.</font>
 
 118
 00:07:52,360 --> 00:07:53,290
-<font face="Impress BT" size="55">Port four. </font>
+<font face="Impress BT" size="55">Port four. {Xemnas: Since this is a trading port I felt this was more appropriate. Although it may need some rewording.}</font>
 
 119
 00:07:53,650 --> 00:07:56,820
@@ -606,7 +606,7 @@ you're underestimating me...</font>
 
 149
 00:09:51,200 --> 00:09:54,410
-<font face="Impress BT" size="55">Have we all been forgotten?! </font>
+<font face="Impress BT" size="55">Have we all been forgotten?! {Uh, haven't they said that EVERYONE forgets the people who turn into toys? In that case, what's with all this "we"-stuff? You shouldn't even be aware that there WERE others charging alongside you just now. -Starfish}</font>
 
 150
 00:09:54,410 --> 00:09:55,760
@@ -686,7 +686,7 @@ you're underestimating me...</font>
 
 169
 00:11:00,060 --> 00:11:02,640
-<font face="Impress BT" size="55">Hey, hey, you! </font>
+<font face="Impress BT" size="55">Hey, hey, you! {Swashy-B: So I put a comma here because it's correct but it just doesn't look right. Someone double check this please.}</font>
 
 170
 00:11:03,290 --> 00:11:04,940
@@ -727,7 +727,7 @@ Just, a bunch of bees that were in the cargo.</font>
 
 179
 00:11:36,620 --> 00:11:42,050
-<font face="Impress BT" size="55">She disappeared! Hey! Hey!</font>
+<font face="Impress BT" size="55">She disappeared! Hey! Hey!{OH FOR THE LOVE OF ALL THAT IS GOOD IN THIS WORLD, *SHUT THE FUCK UP*. -Starfish}</font>
 
 180
 00:11:42,620 --> 00:11:45,040
@@ -763,11 +763,11 @@ Just, a bunch of bees that were in the cargo.</font>
 
 188
 00:12:07,820 --> 00:12:09,740
-<font face="Impress BT" size="55">Sticky Chain! </font>
+<font face="Impress BT" size="55">Sticky Chain! {TL note? -Fadeout4}</font>
 
 189
 00:12:16,410 --> 00:12:18,130
-<font face="Impress BT" size="55">Sticky Stick...</font>
+<font face="Impress BT" size="55">Sticky Stick...{should this be "sticky stick" or "sticky sticky"? -Kae}{Xemnas: I prefer" Sticky stick".}</font>
 
 190
 00:12:23,710 --> 00:12:25,550
@@ -1089,7 +1089,7 @@ in Dressrosa.</font>
 
 269
 00:18:13,160 --> 00:18:16,640
-<font face="Impress BT" size="55">Everyone knows that statue is a lie.</font>
+<font face="Impress BT" size="55">Everyone knows that statue is a lie.{Is the "bronze"-part really necessary here? I mean yeah, it is in the Japanese line, but is that really such an essential detail that taking it out would hurt the story? No, I think not. -Starfish}</font>
 
 270
 00:18:16,640 --> 00:18:20,980
@@ -1106,7 +1106,7 @@ can succeed and get out of here.</font>
 
 273
 00:18:29,980 --> 00:18:35,290
-<font face="Impress BT" size="55">I'll take a chance on today's tournament!</font>
+<font face="Impress BT" size="55">I'll take a chance on today's tournament!{Copy pasted from 657, changed slightly since there's more context}</font>
 
 274
 00:18:35,290 --> 00:18:36,690
@@ -1114,7 +1114,7 @@ can succeed and get out of here.</font>
 
 275
 00:18:37,150 --> 00:18:40,100
-<font face="Impress BT" size="55">You can't possibly win. </font>
+<font face="Impress BT" size="55">You can't possibly win. {Copy Paste from 657}</font>
 
 276
 00:18:40,100 --> 00:18:43,710
@@ -1166,7 +1166,7 @@ can succeed and get out of here.</font>
 
 288
 00:19:19,810 --> 00:19:21,560
-<font face="Impress BT" size="55">You're right.  </font>
+<font face="Impress BT" size="55">You're right. {if somebody wants to split this, that would be cool. -Kae} {Split by Donfong}</font>
 
 289
 00:19:23,410 --> 00:19:24,610
@@ -1274,7 +1274,7 @@ can succeed and get out of here.</font>
 
 315
 00:21:11,920 --> 00:21:15,220
-<font face="Impress BT" size="55"><i>I'll go get us something to eat. </i></font>
+<font face="Impress BT" size="55"><i>I'll go get us something to eat. {Copy paste from ep 651}</i></font>
 
 316
 00:21:17,250 --> 00:21:22,660
@@ -1282,11 +1282,11 @@ can succeed and get out of here.</font>
 
 317
 00:21:24,480 --> 00:21:26,350
-<font face="Impress BT" size="55"><i>I'm sorry, </i></font>
+<font face="Impress BT" size="55"><i>I'm sorry, {copy paste from 651}</i></font>
 
 318
 00:21:26,350 --> 00:21:30,440
-<font face="Impress BT" size="55"><i>I couldn't protect your mother! </i></font>
+<font face="Impress BT" size="55"><i>I couldn't protect your mother! {end copy paste}</i></font>
 
 319
 00:21:33,840 --> 00:21:36,640

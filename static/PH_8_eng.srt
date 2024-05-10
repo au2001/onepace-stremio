@@ -75,11 +75,11 @@ was just an ambush, didn't you?</font>
 
 19
 00:03:25,650 --> 00:03:32,320
-<font face="Impress BT" size="55"><i>Hey!  Samurai-san!  Where are you?</i></font>
+<font face="Impress BT" size="55"><i>Hey!  Samurai-san!  Where are you?{begin cp591}</i></font>
 
 20
 00:03:32,320 --> 00:03:33,900
-<font face="Impress BT" size="55"><i>Don't you dare hurt Nami's beautiful body!</i></font>
+<font face="Impress BT" size="55"><i>Don't you dare hurt Nami's beautiful body!{secondary line}</i></font>
 
 21
 00:03:34,550 --> 00:03:38,130
@@ -91,7 +91,7 @@ was just an ambush, didn't you?</font>
 
 23
 00:03:41,090 --> 00:03:43,730
-<font face="Impress BT" size="55"><i>Th-This is...</i></font>
+<font face="Impress BT" size="55"><i>Th-This is...{end cp591, continue flashback}</i></font>
 
 24
 00:03:44,820 --> 00:03:49,420
@@ -233,7 +233,7 @@ of you third-rate weaklings there are.</i></font>
 
 57
 00:06:49,970 --> 00:06:52,050
-<font face="Impress BT" size="55"><i>Get up, you idiots!</i></font>
+<font face="Impress BT" size="55"><i>Get up, you idiots!{end flashback}</i></font>
 
 58
 00:06:58,850 --> 00:07:01,750

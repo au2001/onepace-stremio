@@ -20,7 +20,7 @@
 
 6
 00:00:23,450 --> 00:00:28,970
-<font face="Times New Roman" size="34">Translation & initial timing
+<font face="Times New Roman" size="34">{\an1}Translation & initial timing
 <font size="40">Vegapunk Fansubs</font></font>
 
 7
@@ -33,7 +33,7 @@
 
 9
 00:00:29,390 --> 00:00:34,530
-<font face="Times New Roman" size="34">Timing
+<font face="Times New Roman" size="34">{\an1}Timing
 <font size="40">Galaxy 9000
 
 </font>Time-checking
@@ -45,7 +45,7 @@
 
 11
 00:00:35,600 --> 00:00:40,720
-<font face="Times New Roman" size="34">Quality-checking
+<font face="Times New Roman" size="34">{\an1}Quality-checking
 <font size="40">Sewil
 Galaxy 9000
 Feeso</font></font>
@@ -56,12 +56,12 @@ Feeso</font></font>
 
 13
 00:00:40,940 --> 00:00:44,110
-<font face="Times New Roman" size="34">Video editing
+<font face="Times New Roman" size="34">{\an1}Video editing
 <font size="40">Sewil</font></font>
 
 14
 00:00:44,270 --> 00:00:47,470
-<font face="Times New Roman" size="34">Soundtracking
+<font face="Times New Roman" size="34">{\an1}Soundtracking
 <font size="40">Halee</font></font>
 
 15
@@ -74,7 +74,7 @@ Feeso</font></font>
 
 17
 00:00:53,010 --> 00:00:56,850
-<font face="Times New Roman" size="34">Raw provider
+<font face="Times New Roman" size="34">{\an1}Raw provider
 <font size="40">SOFCJ-Raws</font></font>
 
 18
@@ -159,7 +159,7 @@ Feeso</font></font>
 
 38
 00:02:29,900 --> 00:02:33,830
-<font face="impress bt" size="63" color="#fefefe"><b>Combination of Brains and Brawn!
+<font face="impress bt" size="63" color="#fefefe"><b>{\an5}Combination of Brains and Brawn!
 Oars and Moriah vs. the Straw Hats!</b></font>
 
 39
@@ -360,7 +360,7 @@ Oars and Moriah vs. the Straw Hats!</b></font>
 
 88
 00:05:41,540 --> 00:05:42,840
-<font face="Impress BT" size="38"><i>Twenty Flowers</i></font>
+<font face="Impress BT" size="38"><i>{\an8}Twenty Flowers</i></font>
 
 89
 00:05:46,970 --> 00:05:48,710
@@ -384,7 +384,7 @@ Oars and Moriah vs. the Straw Hats!</b></font>
 
 94
 00:06:02,010 --> 00:06:05,040
-<font face="Impress BT" size="38"><i>Kuwagata: stag beetle</i></font>
+<font face="Impress BT" size="38"><i>{\an8}Kuwagata: stag beetle</i></font>
 
 95
 00:06:08,160 --> 00:06:09,750
@@ -1552,7 +1552,7 @@ Oars and Moriah vs. the Straw Hats!</b></font>
 
 386
 00:21:16,320 --> 00:21:18,000
-<font face="Impress BT" size="38"><i>Bon Avant: Leap Forward</i></font>
+<font face="Impress BT" size="38"><i>{\an8}Bon Avant: Leap Forward</i></font>
 
 387
 00:21:19,190 --> 00:21:20,170
@@ -1692,7 +1692,7 @@ Oars and Moriah vs. the Straw Hats!</b></font>
 
 421
 00:22:55,580 --> 00:22:57,070
-<font face="Impress BT" size="38"><i>Eighty Flower</i></font>
+<font face="Impress BT" size="38"><i>{\an8}Eighty Flower</i></font>
 
 422
 00:22:57,650 --> 00:22:58,920
@@ -1700,7 +1700,7 @@ Oars and Moriah vs. the Straw Hats!</b></font>
 
 423
 00:22:57,650 --> 00:22:58,920
-<font face="Impress BT" size="38"><i>Four Hands</i></font>
+<font face="Impress BT" size="38"><i>{\an8}Four Hands</i></font>
 
 424
 00:23:05,030 --> 00:23:07,310

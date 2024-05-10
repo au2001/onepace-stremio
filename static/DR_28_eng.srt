@@ -960,7 +960,7 @@ Princess Mansherry must be in there!</font>
 
 235
 00:15:41,380 --> 00:15:42,900
-<font face="Impress BT" size="56"><i>Franky Ear.</i></font>
+<font face="Impress BT" size="56"><i>{\an8}Franky Ear.</i></font>
 
 236
 00:15:41,400 --> 00:15:42,900
@@ -968,7 +968,7 @@ Princess Mansherry must be in there!</font>
 
 237
 00:15:42,900 --> 00:15:45,810
-<font face="Impress BT" size="56"><i>Franky was born with good hearing.</i></font>
+<font face="Impress BT" size="56"><i>{\an8}Franky was born with good hearing.</i></font>
 
 238
 00:15:46,660 --> 00:15:49,940
@@ -1574,7 +1574,7 @@ Search every nook and cranny.</font>
 
 385
 00:25:39,150 --> 00:25:40,680
-<font face="Impress BT" size="26">Editing: Galaxy 9000
+<font face="Impress BT" size="26">{\an1}Editing: Galaxy 9000
 Timing: Datenshi
 QC: Mr Luffy,
 Sewil

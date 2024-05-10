@@ -20,7 +20,7 @@
 
 6
 00:00:23,480 --> 00:00:29,000
-<font face="Times New Roman" size="34">Translation & initial timing
+<font face="Times New Roman" size="34">{\an1}Translation & initial timing
 <font size="40">Vegapunk Fansubs</font></font>
 
 7
@@ -33,7 +33,7 @@
 
 9
 00:00:29,400 --> 00:00:34,550
-<font face="Times New Roman" size="34">Timing
+<font face="Times New Roman" size="34">{\an1}Timing
 <font size="40">Galaxy 9000</font></font>
 
 10
@@ -42,7 +42,7 @@
 
 11
 00:00:35,610 --> 00:00:40,740
-<font face="Times New Roman" size="34">Quality checking
+<font face="Times New Roman" size="34">{\an1}Quality checking
 <font size="40">Sewil</font></font>
 
 12
@@ -51,12 +51,12 @@
 
 13
 00:00:40,950 --> 00:00:44,120
-<font face="Times New Roman" size="34">Editing
+<font face="Times New Roman" size="34">{\an1}Editing
 <font size="40">Sewil</font></font>
 
 14
 00:00:44,290 --> 00:00:47,500
-<font face="Times New Roman" size="34">Soundtracking
+<font face="Times New Roman" size="34">{\an1}Soundtracking
 <font size="40">Halee</font></font>
 
 15
@@ -149,7 +149,7 @@
 
 37
 00:02:29,870 --> 00:02:38,620
-<font face="impress bt" size="63" color="#fefefe"><b>Perona's Wonder Garden and
+<font face="impress bt" size="63" color="#fefefe"><b>{\an5}Perona's Wonder Garden and
 the Charge of the General Zombies!</b></font>
 
 38
@@ -1222,7 +1222,7 @@ the Charge of the General Zombies!</b></font>
 
 305
 00:16:06,880 --> 00:16:08,190
-<font face="Impress BT" size="38"><i>Eleven flowers</i></font>
+<font face="Impress BT" size="38"><i>{\an8}Eleven flowers</i></font>
 
 306
 00:16:10,090 --> 00:16:10,710

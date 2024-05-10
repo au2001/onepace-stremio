@@ -20,7 +20,7 @@
 
 6
 00:00:23,480 --> 00:00:29,020
-<font face="Impress BT" size="34">Translation & initial timing
+<font face="Impress BT" size="34">{\an1}Translation & initial timing
 <font size="40">Vegapunk Fansubs</font></font>
 
 7
@@ -33,7 +33,7 @@
 
 9
 00:00:29,400 --> 00:00:34,530
-<font face="Impress BT" size="34">Timing
+<font face="Impress BT" size="34">{\an1}Timing
 <font size="40">Galaxy 9000</font></font>
 
 10
@@ -42,7 +42,7 @@
 
 11
 00:00:35,610 --> 00:00:40,740
-<font face="Impress BT" size="34">Quality-checking
+<font face="Impress BT" size="34">{\an1}Quality-checking
 <font size="40">Sewil
 Galaxy 9000
 Halee</font></font>
@@ -53,12 +53,12 @@ Halee</font></font>
 
 13
 00:00:40,910 --> 00:00:44,120
-<font face="Impress BT" size="34">Editing
+<font face="Impress BT" size="34">{\an1}Editing
 <font size="40">Sewil</font></font>
 
 14
 00:00:44,290 --> 00:00:47,460
-<font face="Impress BT" size="34">Soundtracking
+<font face="Impress BT" size="34">{\an1}Soundtracking
 <font size="40">Halee</font></font>
 
 15
@@ -151,7 +151,7 @@ Halee</font></font>
 
 37
 00:02:29,930 --> 00:02:38,500
-<font face="impress bt" size="63" color="#fefefe"><b>General Zombie Night!
+<font face="impress bt" size="63" color="#fefefe"><b>{\an5}General Zombie Night!
 Thriller Bark's Mysterious Four</b></font>
 
 38
@@ -377,7 +377,7 @@ Usopp's Team</font>
 
 93
 00:05:52,480 --> 00:05:55,510
-<font face="Impress BT" size="38"><i>Fried noodles</i></font>
+<font face="Impress BT" size="38"><i>{\an8}Fried noodles</i></font>
 
 94
 00:05:55,480 --> 00:05:56,030
@@ -389,7 +389,7 @@ Usopp's Team</font>
 
 96
 00:05:56,030 --> 00:05:57,220
-<font face="Impress BT" size="38"><i>Breaded pork on rice</i></font>
+<font face="Impress BT" size="38"><i>{\an8}Breaded pork on rice</i></font>
 
 97
 00:05:57,220 --> 00:06:00,450
@@ -566,7 +566,7 @@ Wasn't that Brook just now?!</font>
 
 140
 00:08:26,810 --> 00:08:33,240
-<font face="Impress BT" size="55">The other guests lost on this island will have their guard down... the night attack begins... </font>
+<font face="Impress BT" size="55">The other guests lost on this island will have their guard down... the night attack begins... {maybe move this line to graveyard}</font>
 
 141
 00:08:38,000 --> 00:08:40,830
@@ -650,11 +650,11 @@ Wasn't that Brook just now?!</font>
 
 161
 00:09:57,850 --> 00:09:59,750
-<font face="Impress BT" size="55">Shut up, Kumashi! </font>
+<font face="Impress BT" size="55">Shut up, Kumashi! {Gotta change everywhere the name to "Bearsy", or whatever one we're choosing for him.}</font>
 
 162
 00:09:59,750 --> 00:10:05,210
-<font face="Impress BT" size="55">What's with that look?! I hate it when you do that! </font>
+<font face="Impress BT" size="55">What's with that look?! I hate it when you do that! {She doesn't ask, but in English you'd probably put a question mark on the 1st phrase.}</font>
 
 163
 00:10:05,210 --> 00:10:07,300
@@ -819,7 +819,7 @@ General</font>
 
 203
 00:12:25,860 --> 00:12:35,380
-<font face="Impress BT" size="55">No matter how many times you go down, just get back up quickly and crush them with fear of the undead!</font>
+<font face="Impress BT" size="55">{\an8}No matter how many times you go down, just get back up quickly and crush them with fear of the undead!</font>
 
 204
 00:12:28,790 --> 00:12:31,750
@@ -1155,7 +1155,7 @@ Wano Country in the New World.</font>
 
 286
 00:18:27,410 --> 00:18:28,340
-<font face="Impress BT" size="38"><i>Rice</i></font>
+<font face="Impress BT" size="38"><i>{\an8}Rice</i></font>
 
 287
 00:18:28,340 --> 00:18:31,370
@@ -1371,7 +1371,7 @@ Wano Country in the New World.</font>
 
 340
 00:22:17,760 --> 00:22:20,220
-<font face="Impress BT" size="43">屋敷を囲めェ～</font>
+<font face="Impress BT" size="43">{\an8}屋敷を囲めェ～</font>
 
 341
 00:22:20,220 --> 00:22:22,970
@@ -1379,7 +1379,7 @@ Wano Country in the New World.</font>
 
 342
 00:22:20,220 --> 00:22:22,970
-<font face="Impress BT" size="43">レッツフィエスタナイッッ</font>
+<font face="Impress BT" size="43">{\an8}レッツフィエスタナイッッ</font>
 
 343
 00:22:22,970 --> 00:22:28,460
@@ -1387,7 +1387,7 @@ Wano Country in the New World.</font>
 
 344
 00:22:22,970 --> 00:22:28,460
-<font face="Impress BT" size="43">海賊達は一人たりとも逃がさない</font>
+<font face="Impress BT" size="43">{\an8}海賊達は一人たりとも逃がさない</font>
 
 345
 00:22:28,460 --> 00:22:30,860
@@ -1395,7 +1395,7 @@ Wano Country in the New World.</font>
 
 346
 00:22:28,460 --> 00:22:30,860
-<font face="Impress BT" size="43">エッビッバァリィ～ゾンビナイッ</font>
+<font face="Impress BT" size="43">{\an8}エッビッバァリィ～ゾンビナイッ</font>
 
 347
 00:22:30,860 --> 00:22:33,530
@@ -1403,7 +1403,7 @@ Wano Country in the New World.</font>
 
 348
 00:22:30,860 --> 00:22:33,530
-<font face="Impress BT" size="43">ラウンド andラウンandターンandダーイ</font>
+<font face="Impress BT" size="43">{\an8}ラウンド andラウンandターンandダーイ</font>
 
 349
 00:22:33,530 --> 00:22:37,650
@@ -1411,7 +1411,7 @@ Wano Country in the New World.</font>
 
 350
 00:22:33,530 --> 00:22:37,650
-<font face="Impress BT" size="43">ゾンビナーイッ！！！</font>
+<font face="Impress BT" size="43">{\an8}ゾンビナーイッ！！！</font>
 
 351
 00:22:52,050 --> 00:22:59,050
@@ -1443,5 +1443,5 @@ Wano Country in the New World.</font>
 
 358
 00:23:48,340 --> 00:23:51,450
-<font face="Impress BT" size="55">You horrifying General Zombies! </font>
+<font face="Impress BT" size="55">You horrifying General Zombies! {non-canon line. use music and keep absalom's mouth shut!}</font>
 

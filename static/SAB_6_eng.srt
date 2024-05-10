@@ -12,12 +12,12 @@
 
 4
 00:00:31,890 --> 00:00:37,270
-<font face="FOT-Greco Std B" size="34">Translation
+<font face="FOT-Greco Std B" size="34">{\an4}Translation
 Yibis</font>
 
 5
 00:00:31,890 --> 00:00:37,270
-<font face="FOT-Greco Std B" size="34">Soundtracking
+<font face="FOT-Greco Std B" size="34">{\an4}Soundtracking
 Halee</font>
 
 6
@@ -26,22 +26,22 @@ Halee</font>
 
 7
 00:00:37,380 --> 00:00:42,140
-<font face="FOT-Greco Std B" size="34">Editing
+<font face="FOT-Greco Std B" size="34">{\an4}Editing
 Sewil</font>
 
 8
 00:00:37,380 --> 00:00:42,140
-<font face="FOT-Greco Std B" size="34">Infoboxes
+<font face="FOT-Greco Std B" size="34">{\an4}Infoboxes
 Sewil</font>
 
 9
 00:00:37,380 --> 00:00:42,140
-<font face="FOT-Greco Std B" size="34">Timing
+<font face="FOT-Greco Std B" size="34">{\an4}Timing
 Datenshi</font>
 
 10
 00:00:37,380 --> 00:00:42,140
-<font face="FOT-Greco Std B" size="34">Edit-checking
+<font face="FOT-Greco Std B" size="34">{\an4}Edit-checking
 Galaxy 9000</font>
 
 11
@@ -98,7 +98,7 @@ Galaxy 9000</font>
 
 24
 00:02:07,080 --> 00:02:13,780
-<font face="Agency FB" size="63" color="#fefefe"><b>The Auction House Incident</b></font>
+<font face="Agency FB" size="63" color="#fefefe"><b>{\an5}The Auction House Incident</b></font>
 
 25
 00:02:07,340 --> 00:02:10,080
@@ -290,7 +290,7 @@ Human Auction Site</font>
 
 67
 00:04:57,230 --> 00:04:59,390
-<font face="Impress BT" size="38"><i>Note: Human trade</i></font>
+<font face="Impress BT" size="38"><i>{\an8}Note: Human trade</i></font>
 
 68
 00:05:00,640 --> 00:05:01,930

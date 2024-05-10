@@ -28,7 +28,7 @@
 
 8
 00:00:23,750 --> 00:00:28,070
-<font face="Impress BT" size="34">Translation & initial timing
+<font face="Impress BT" size="34">{\an1}Translation & initial timing
 <font size="40">Yibis</font></font>
 
 9
@@ -37,7 +37,7 @@
 
 10
 00:00:28,150 --> 00:00:32,160
-<font face="Impress BT" size="34">Timing
+<font face="Impress BT" size="34">{\an1}Timing
 <font size="40">Galaxy 9000
 
 </font>Time-checking
@@ -49,14 +49,14 @@
 
 12
 00:00:34,660 --> 00:00:37,600
-<font face="Impress BT" size="34">Quality-checking
+<font face="Impress BT" size="34">{\an1}Quality-checking
 <font size="40">Sewil
 Galaxy 9000
 Halee</font></font>
 
 13
 00:00:39,030 --> 00:00:42,630
-<font face="Impress BT" size="34">Soundtracking
+<font face="Impress BT" size="34">{\an1}Soundtracking
 <font size="40">Halee</font></font>
 
 14
@@ -69,7 +69,7 @@ Halee</font></font>
 
 16
 00:00:45,500 --> 00:00:48,170
-<font face="Impress BT" size="34">Video editing
+<font face="Impress BT" size="34">{\an1}Video editing
 <font size="40">Sewil</font></font>
 
 17
@@ -86,7 +86,7 @@ Halee</font></font>
 
 20
 00:01:00,420 --> 00:01:04,520
-<font face="Impress BT" size="34">Raw provider
+<font face="Impress BT" size="34">{\an1}Raw provider
 <font size="40">Crunchyroll</font></font>
 
 21
@@ -171,7 +171,7 @@ Halee</font></font>
 
 41
 00:02:30,030 --> 00:02:38,620
-<font face="impress bt" size="63" color="#fefefe"><b>A Sad Past!
+<font face="impress bt" size="63" color="#fefefe"><b>{\an5}A Sad Past!
 Rebecca and Soldier-san</b></font>
 
 42
@@ -213,7 +213,7 @@ due to the massive damage done to the arena,</font>
 50
 00:03:35,010 --> 00:03:39,450
 <font face="Impress BT" size="55">we will postpone the start of Block D
-for fifteen minutes! </font>
+for fifteen minutes! { def: yeah, 15 minutes should take care of that }{Xemnas: Magic?}</font>
 
 51
 00:03:39,450 --> 00:03:41,600
@@ -266,7 +266,7 @@ for fifteen minutes! </font>
 63
 00:04:18,100 --> 00:04:21,970
 <font face="Impress BT" size="55">Wasn't he that pirate who <i>failed</i>
-to save his brother at Marineford?</font>
+to save his brother at Marineford?{Yeah they say "choujou sensou", which we have always translated as "the great war" here... but over time I have grown to not particularly like that translation at all so I prefer to just say Marineford personally. They both get the point across anyway. -Starfish}</font>
 
 64
 00:04:23,700 --> 00:04:28,150
@@ -274,11 +274,11 @@ to save his brother at Marineford?</font>
 
 65
 00:04:31,840 --> 00:04:35,200
-<font face="Impress BT" size="55">W-W-Whad're you doin'?!  Cut i' out! </font>
+<font face="Impress BT" size="55">W-W-Whad're you doin'?!  Cut i' out! {Note that due to being kinda flattened by a barrier he's having some trouble enunciating clearly. Hence the "doin'". If possible, plz add some more indicators of this. -Starfish}{ def: changing t to d represents it well but makes a bit tough to read.  just went with i' instead of it }</font>
 
 66
 00:04:35,200 --> 00:04:38,770
-<font face="Impress BT" size="55">I am a noble from the Kingdom of Biggschots! </font>
+<font face="Impress BT" size="55">I am a noble from the Kingdom of Biggschots! {Yeah I just copied FUNi's translation of the place here. It's originally "Doereena Oukoku" which translates to something like "Super-Great Kingdom". -Starfish}</font>
 
 67
 00:04:40,400 --> 00:04:41,490
@@ -328,7 +328,7 @@ where the Pirate King Roger himself died!</font>
 
 78
 00:05:32,640 --> 00:05:35,300
-<font face="Impress BT" size="55">And in that moment, the heavens...</font>
+<font face="Impress BT" size="55">And in that moment, the heavens...{Xemnas: Never knew Dragon lived in the heavens. No wonder no one can find him.}</font>
 
 79
 00:05:38,220 --> 00:05:42,970
@@ -519,7 +519,7 @@ Gramps has something he wants to say to you.</font>
 124
 00:08:53,560 --> 00:08:56,660
 <font face="Impress BT" size="55">I wanted to show my gratitude
-for putting my head back to normal... </font>
+for putting my head back to normal... {kind of guessing on what's thoughts and what's not here -Fadey}</font>
 
 125
 00:08:56,660 --> 00:09:00,650
@@ -600,7 +600,7 @@ my grandchildren's Happou Navy serve you.</font>
 
 144
 00:10:10,500 --> 00:10:13,010
-<font face="Impress BT" size="55"><i>Long time no see, Straw Hat!  </i></font>
+<font face="Impress BT" size="55"><i>Long time no see, Straw Hat! {can some of this... be cut?} {no}</i></font>
 
 145
 00:10:13,680 --> 00:10:19,630
@@ -624,7 +624,7 @@ my grandchildren's Happou Navy serve you.</font>
 
 150
 00:10:34,380 --> 00:10:38,580
-<font face="Impress BT" size="55">That's right.  It's been a while, hasn't it? </font>
+<font face="Impress BT" size="55">That's right.  It's been a while, hasn't it? { def: if he says the same thing as the flashback then we should keep the line the same }</font>
 
 151
 00:10:40,450 --> 00:10:44,540
@@ -642,7 +642,7 @@ It's going to be great!</font>
 
 154
 00:10:57,540 --> 00:11:01,680
-<font face="Impress BT" size="55">I mean, he did refuse the offer last time! </font>
+<font face="Impress BT" size="55">I mean, he did refuse the offer last time! {Halee: How about replacing it with "I mean, he did refuse the offer last time!"}</font>
 
 155
 00:11:06,340 --> 00:11:11,420
@@ -752,7 +752,7 @@ Rebecca</font>
 
 181
 00:13:03,890 --> 00:13:07,320
-<font face="Impress BT" size="55"><i>Mother, I'm hungry.</i></font>
+<font face="Impress BT" size="55"><i>Mother, I'm hungry.{Xemnas: I don't think a child would use the word famished.}</i></font>
 
 182
 00:13:08,070 --> 00:13:12,440
@@ -830,15 +830,15 @@ to the person who bought me lunch.</font>
 
 200
 00:14:45,500 --> 00:14:47,750
-<font face="Impress BT" size="55">It doesn't matter.  I'm not dead. </font>
+<font face="Impress BT" size="55">It doesn't matter.  I'm not dead. {Xemnas: Nuance and all.}</font>
 
 201
 00:14:48,390 --> 00:14:51,600
-<font face="Impress BT" size="55">Besides, you weren't really trying to kill me. </font>
+<font face="Impress BT" size="55">Besides, you weren't really trying to kill me. { def: you weren't really trying to kill me }{Xemnas: Definitely prefer your suggestion.}</font>
 
 202
 00:14:51,600 --> 00:14:52,480
-<font face="Impress BT" size="55">Ow... </font>
+<font face="Impress BT" size="55">Ow... { def: This hurts. }</font>
 
 203
 00:14:53,480 --> 00:14:56,420
@@ -852,7 +852,7 @@ between you two, Rebecca.</font>
 205
 00:15:01,180 --> 00:15:07,490
 <font face="Impress BT" size="55">If we'd been able to take out one of the big shots here,
-at least we would've had a little hope.</font>
+at least we would've had a little hope.{Halee: I think "If we'd been able to take out one of the big shots here, at least we would've had a little hope." sounds better.}</font>
 
 206
 00:15:08,440 --> 00:15:09,220
@@ -877,7 +877,7 @@ until we're killed for the amusement of the audience.</font>
 
 211
 00:15:23,180 --> 00:15:26,750
-<font face="Impress BT" size="55">All because we showed some slight resistance toward the Doflamingo Family. </font>
+<font face="Impress BT" size="55">All because we showed some slight resistance toward the Doflamingo Family. { def: we didn't support the Doflamingo Family with enough enthusiasm }</font>
 
 212
 00:15:29,110 --> 00:15:34,130
@@ -903,7 +903,7 @@ colosseum battles weren't fought to the death.</font>
 
 217
 00:15:57,500 --> 00:16:03,410
-<font face="Impress BT" size="55">But under his rule, the country has become sharply divided between light and shadow.</font>
+<font face="Impress BT" size="55">But under his rule, the country has become sharply divided between light and shadow.{Xemnas: Spelling fix}</font>
 
 218
 00:16:10,380 --> 00:16:11,350
@@ -911,7 +911,7 @@ colosseum battles weren't fought to the death.</font>
 
 219
 00:16:12,740 --> 00:16:17,930
-<font face="Impress BT" size="55">will win the tournament today, whatever it takes... </font>
+<font face="Impress BT" size="55">will win the tournament today, whatever it takes... {Quality... POWER UUUUPP}</font>
 
 220
 00:16:19,460 --> 00:16:23,890
@@ -921,7 +921,7 @@ to kill Doflamingo!</font>
 221
 00:16:28,900 --> 00:16:35,140
 <font face="Impress BT" size="55">Today, Soldier-san's army
-is going to challenge Doflamingo... </font>
+is going to challenge Doflamingo... {Her waist is smaller than Nami's here... seriously, she looks like a concentration camp victim O_O}{Xemnas: Well considering she's a prisoner, and I doubt she gets much money if any at all, I don't think she's fed properly.}</font>
 
 222
 00:16:38,900 --> 00:16:41,960
@@ -981,7 +981,7 @@ is going to challenge Doflamingo... </font>
 
 236
 00:17:44,540 --> 00:17:47,940
-<font face="Impress BT" size="55">I met a guy like that at the entrance to the colosseum.</font>
+<font face="Impress BT" size="55">I met a guy like that at the entrance to the colosseum.{The following line doesn't really make sense if he outright says "Oh yeah, I met THAT SPECIFIC GUY". The Japanese line literally just means "someone like that" anyway. -Starfish}</font>
 
 237
 00:17:47,940 --> 00:17:50,180
@@ -1039,7 +1039,7 @@ Soldier-san's has been there to raise me.</font>
 
 250
 00:18:41,270 --> 00:18:43,990
-<font face="Impress BT" size="55">Hmm, so that toy... </font>
+<font face="Impress BT" size="55">Hmm, so that toy... {Let's get a famous Sewil "flash" of the Soldier here}</font>
 
 251
 00:18:45,520 --> 00:18:47,280
@@ -1047,7 +1047,7 @@ Soldier-san's has been there to raise me.</font>
 
 252
 00:18:47,280 --> 00:18:48,940
-<font face="Impress BT" size="55">The broken ring has been replaced!</font>
+<font face="Impress BT" size="55">The broken ring has been replaced!{He specifically says that they've REPLACED it, not repaired the one that was already there. -Starfish}</font>
 
 253
 00:18:49,460 --> 00:18:52,030
@@ -1064,11 +1064,11 @@ Soldier-san's has been there to raise me.</font>
 256
 00:19:00,430 --> 00:19:03,470
 <font face="Impress BT" size="55">Sorry. You spent all the money you had on these,
-so I don't want it to go to waste.</font>
+so I don't want it to go to waste.{This could perhaps stand some trimming down... I just thought the previous translation was a bit confusing so I thought I'd clarify it a bit. -Starfish}</font>
 
 257
 00:19:04,110 --> 00:19:06,570
-<font face="Impress BT" size="55">They're still good though, even though they've been on the ground!</font>
+<font face="Impress BT" size="55">They're still good though, even though they've been on the ground!{Yeah... I still wouldn't eat that personally though. Ah well, you're the one who's gonna have a terrible stomachache later. -Starfish}</font>
 
 258
 00:19:09,360 --> 00:19:12,560
@@ -1088,11 +1088,11 @@ so I don't want it to go to waste.</font>
 
 262
 00:19:25,080 --> 00:19:27,110
-<font face="Impress BT" size="55"><i>Mother!</i></font>
+<font face="Impress BT" size="55"><i>Mother!{It was "Mother" and not "Mommy" last episode... Plus as Xemnas points out in the following line, Rebecca does speak in a very formal tone. -Starfish}</i></font>
 
 263
 00:19:27,500 --> 00:19:30,300
-<font face="Impress BT" size="55">Mother, look at all the flowers I picked. </font>
+<font face="Impress BT" size="55">Mother, look at all the flowers I picked. {Xemnas: Both Rebecca and Scarlett speak quite formally}</font>
 
 264
 00:19:30,300 --> 00:19:31,920
@@ -1156,7 +1156,7 @@ so I don't want it to go to waste.</font>
 
 279
 00:21:09,120 --> 00:21:12,480
-<font face="Impress BT" size="55">I know. We haven't had anything to eat for two days.</font>
+<font face="Impress BT" size="55">I know. We haven't had anything to eat for two days.{ def: this line may be from a previous episode }{Indeed it is. The previous and next lines too. They were from 650. So I have replaced them with the lines from 650[timed][editad][TLCed][qced].ass. -Starfish}</font>
 
 280
 00:21:12,960 --> 00:21:16,680
@@ -1198,11 +1198,11 @@ that you were waiting with an empty stomach.</font>
 
 289
 00:21:58,260 --> 00:22:01,580
-<font face="Impress BT" size="55"><i>Mother, I'm hungry. </i></font>
+<font face="Impress BT" size="55"><i>Mother, I'm hungry. {Copy paste from this ep.}</i></font>
 
 290
 00:22:03,700 --> 00:22:05,440
-<font face="Impress BT" size="55"><i>I'll go get us something to eat. </i></font>
+<font face="Impress BT" size="55"><i>I'll go get us something to eat. {end copy past from this ep}</i></font>
 
 291
 00:22:20,950 --> 00:22:22,860
@@ -1222,7 +1222,7 @@ that you were waiting with an empty stomach.</font>
 
 295
 00:22:43,190 --> 00:22:48,210
-<font face="Impress BT" size="55">Your mother was a very important person.</font>
+<font face="Impress BT" size="55">Your mother was a very important person.{Isis: is it important or noble?}</font>
 
 296
 00:22:49,520 --> 00:22:53,780
@@ -1251,7 +1251,7 @@ they're trying to catch you as well.</font>
 
 302
 00:23:30,940 --> 00:23:35,600
-<font face="Impress BT" size="55">You couldn't protect my mother. I hate you!</font>
+<font face="Impress BT" size="55">You couldn't protect my mother. I hate you!{Unless there is a very good reason for using third person in reference to the specific character being addressed... We probably should stay away from using third person in reference to the specific character being addressed. -Starfish}</font>
 
 303
 00:23:37,170 --> 00:23:40,650
@@ -1288,11 +1288,11 @@ in town and at your house.</font>
 
 311
 00:24:00,380 --> 00:24:06,790
-<font face="Impress BT" size="55">For hundreds of years, the Riku royal family has brought suffering upon this poor country! </font>
+<font face="Impress BT" size="55">For hundreds of years, the Riku royal family has brought suffering upon this poor country!{ manga: For hundreds of years, the Riku Royal Family have brought nothing but suffering to this poor kingdom! } {Halee: In theory we could remove the comma, unless the "For hundreds of years" is to be emphasized.}</font>
 
 312
 00:24:06,790 --> 00:24:12,680
-<font face="Impress BT" size="55">And finally, they've tried to steal what little money their subjects had, just to satisfy their own greed! </font>
+<font face="Impress BT" size="55">And finally, they've tried to steal what little money their subjects had, just to satisfy their own greed! { manga: In the end, they even had the gall to steal from their own subjects out of greed! }</font>
 
 313
 00:24:12,680 --> 00:24:16,120
@@ -1332,7 +1332,7 @@ in town and at your house.</font>
 
 322
 00:25:17,750 --> 00:25:22,600
-<font face="Impress BT" size="55">and he will always watch over you.</font>
+<font face="Impress BT" size="55">and he will always watch over you.{Exact same phrasing as in the last episode (though he wasn't singing it there... despite the manga clearly indicating that he was supposed to be), so I copy-pasted the translation from there. -Starfish}</font>
 
 323
 00:25:23,470 --> 00:25:25,090
@@ -1340,7 +1340,7 @@ in town and at your house.</font>
 
 324
 00:25:25,680 --> 00:25:29,370
-<font face="Impress BT" size="55">Though I can't feel anything with this tin body of mine. </font>
+<font face="Impress BT" size="55">Though I can't feel anything with this tin body of mine. { def: brick?  any chance of tin? }{Tin indeed. -Starfish}</font>
 
 325
 00:25:34,320 --> 00:25:35,280
@@ -1447,7 +1447,7 @@ so we'll probably get a good price for her.</font>
 
 350
 00:28:03,670 --> 00:28:04,740
-<font face="Impress BT" size="55">I'll break you! </font>
+<font face="Impress BT" size="55">I'll break you! { def: ...in half! }</font>
 
 351
 00:28:08,780 --> 00:28:10,030
@@ -1573,7 +1573,7 @@ if something happens to me?</font>
 381
 00:30:19,000 --> 00:30:23,750
 <font face="Impress BT" size="55">But Rebecca's grandfather
-is hated by the entire country.</font>
+is hated by the entire country.{Isis: haterd or grudge sound stronger to me}</font>
 
 382
 00:30:23,750 --> 00:30:25,900

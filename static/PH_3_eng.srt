@@ -66,7 +66,7 @@ we'll be taking a huge detour.</font>
 
 17
 00:03:13,360 --> 00:03:15,160
-<font face="Impress BT" size="38"><i>Fan Grass</i></font>
+<font face="Impress BT" size="38"><i>{\an8}Fan Grass</i></font>
 
 18
 00:03:16,420 --> 00:03:17,800
@@ -217,7 +217,7 @@ on the island causes the wind to blow.</font>
 
 54
 00:04:53,700 --> 00:04:57,120
-<font face="Impress BT" size="55"><i>It's freezing... Is that you, boss? </i></font>
+<font face="Impress BT" size="55"><i>It's freezing... Is that you, boss? {Copy-paste from 579. Man, they sure don't get tired of flashing back to this conversation, do they?}</i></font>
 
 55
 00:04:57,120 --> 00:05:02,390
@@ -324,7 +324,7 @@ there was a river behind the ice, Smokey?!</font>
 80
 00:06:48,080 --> 00:06:51,880
 <font face="Impress BT" size="55">We should be asking,
-was the ice blocking this current natural...</font>
+was the ice blocking this current natural...{ Btwb: "floes" is not a very common word, for me at least. Also, they looked more like ice bergs or masses of ice instead of detached sheets, which is what floes are, according to what I looked up. }</font>
 
 81
 00:06:51,880 --> 00:06:54,880
@@ -366,7 +366,7 @@ on this island, in this gas cloud?!</font>
 90
 00:07:21,450 --> 00:07:24,710
 <font face="Impress BT" size="55">If you've got time to laugh, 
-then you've got time to clear the next ice wall!</font>
+then you've got time to clear the next ice wall!{ Btwb: Note in case we stick with "floe". }</font>
 
 91
 00:07:30,310 --> 00:07:31,540
@@ -509,7 +509,7 @@ The one who destroyed the door to the room!</font>
 125
 00:09:40,130 --> 00:09:44,640
 <font face="Impress BT" size="55">In that case, let's remove your masks
-so we can breathe the poison gas together!</font>
+so we can breathe the poison gas together!{ Btwb: Sanji's all about sharing! }</font>
 
 126
 00:09:44,640 --> 00:09:45,510
@@ -517,7 +517,7 @@ so we can breathe the poison gas together!</font>
 
 127
 00:09:45,940 --> 00:09:48,600
-<font face="Impress BT" size="55">Don't be so anxious. </font>
+<font face="Impress BT" size="55">Don't be so anxious. { def: anxious? }</font>
 
 128
 00:09:58,650 --> 00:10:00,270
@@ -529,7 +529,7 @@ so we can breathe the poison gas together!</font>
 
 130
 00:10:01,780 --> 00:10:03,530
-<font face="Impress BT" size="55">Don't fire the gas bullets! </font>
+<font face="Impress BT" size="55">Don't fire the gas bullets! { def: way too late now, but shouldn't it be gas grenades? }{ Btwb: Mangarule has grenades, mangahere says shots, but they all work, really. }</font>
 
 131
 00:10:05,410 --> 00:10:06,950
@@ -545,7 +545,7 @@ so we can breathe the poison gas together!</font>
 
 134
 00:10:18,370 --> 00:10:20,690
-<font face="Impress BT" size="55">This is unlike any man I have faced before! </font>
+<font face="Impress BT" size="55">This is unlike any man I have faced before! { def: intentionally not using gender neutral language for this guy }{ Btwb: Good call. Chauvinistic samurai is chauvinistic. }</font>
 
 135
 00:10:20,690 --> 00:10:23,170
@@ -557,7 +557,7 @@ so we can breathe the poison gas together!</font>
 
 137
 00:10:24,550 --> 00:10:26,970
-<font face="Impress BT" size="55">Seriously, what are you talking about?</font>
+<font face="Impress BT" size="55">Seriously, what are you talking about?{ Btwb: Looked up "what are you on about?", urban dictionary was the first hit. I don't find Franky to be quite that urban, but mostly I don't think our audiance would think this as normal. Also, I wouldn't be saying "again" if I first asked what he was doing and then went to ask what he means. }</font>
 
 138
 00:10:26,970 --> 00:10:30,970
@@ -671,7 +671,7 @@ so how is he able to attack so accurately?!</font>
 
 165
 00:13:04,390 --> 00:13:05,850
-<font face="Impress BT" size="38"><i>Two-Sword Style </i></font>
+<font face="Impress BT" size="38"><i>{\an8}Two-Sword Style { tlc: Did we always use hyphens for this? }{ def: we've been horribly inconsistent with sword styles, it's hyphenated about half the time. i don't really have a preference, if no one else has a preference i'll prolly drop it }</i></font>
 
 166
 00:13:07,390 --> 00:13:10,460
@@ -708,7 +708,7 @@ so how is he able to attack so accurately?!</font>
 174
 00:13:45,870 --> 00:13:49,680
 <font face="Impress BT" size="55">and at the moment, the warship
-is using its cannons to destroy the ice walls,</font>
+is using its cannons to destroy the ice walls,{ Btwb: floes }</font>
 
 175
 00:13:49,680 --> 00:13:51,510
@@ -725,7 +725,7 @@ to land on this island?</font>
 
 178
 00:14:02,640 --> 00:14:06,000
-<font face="Impress BT" size="55">Did they get tipped off in some way? </font>
+<font face="Impress BT" size="55">Did they get tipped off in some way? {Literally "Do they have some sort of conviction?"... Rather vague, really, so I may have misinterpreted it.}{ def: went with a reinterpretation of the manga's line: "Do they have some kind of knowledge of what lies ahead?" }</font>
 
 179
 00:14:06,000 --> 00:14:07,890
@@ -766,7 +766,7 @@ that are docked at the main entrance!</font>
 
 188
 00:14:31,670 --> 00:14:35,250
-<font face="Impress BT" size="55">Don't be absurd!  There's no way I could go out there! </font>
+<font face="Impress BT" size="55">Don't be absurd!  There's no way I could go out there! { def: maybe "leave this place"? }</font>
 
 189
 00:14:35,700 --> 00:14:39,010
@@ -866,7 +866,7 @@ We are the Navy!</font>
 
 212
 00:16:17,970 --> 00:16:19,370
-<font face="Impress BT" size="55">White Hunter? </font>
+<font face="Impress BT" size="55">White Hunter? {So previously I've translated Law's whole thing with appending "-ya" to the end of people's names as him ending it with "-er"... This obviously does not work here, so... SPEECH-QUIRK IGNORED FOR THE TIME BEING.}</font>
 
 213
 00:16:20,750 --> 00:16:22,670
@@ -898,7 +898,7 @@ We are the Navy!</font>
 
 220
 00:16:38,570 --> 00:16:42,480
-<font face="Impress BT" size="55">he is one of the Government-authorized pirates... the Seven Warlords of the Sea!</font>
+<font face="Impress BT" size="55">he is one of the Government-authorized pirates... the Seven Warlords of the Sea!{ Btwb: Either needs to be possessive (Government's authorized) or needs to be hypenated (government-authorized). }</font>
 
 221
 00:16:46,050 --> 00:16:48,440
@@ -1457,7 +1457,7 @@ Let's go after them!</font>
 
 355
 00:23:56,160 --> 00:23:59,000
-<font face="Impress BT" size="55"><i>Hello?  My name is Monkey D. Luffy! </i></font>
+<font face="Impress BT" size="55"><i>Hello?  My name is Monkey D. Luffy! {Copy-paste from 579}</i></font>
 
 356
 00:23:59,000 --> 00:24:01,030
@@ -1497,7 +1497,7 @@ Let's go after them!</font>
 
 365
 00:24:20,900 --> 00:24:23,520
-<font face="Impress BT" size="55"><i>Somebody please save me, I don't care who. </i></font>
+<font face="Impress BT" size="55"><i>Somebody please save me, I don't care who. {This one line is from 580's recap.}</i></font>
 
 366
 00:24:23,520 --> 00:24:25,120
@@ -1505,7 +1505,7 @@ Let's go after them!</font>
 
 367
 00:24:25,120 --> 00:24:27,340
-<font face="Impress BT" size="55"><i>Punk Hazard! </i></font>
+<font face="Impress BT" size="55"><i>Punk Hazard! {End copy-paste from 579}</i></font>
 
 368
 00:24:30,170 --> 00:24:33,900
@@ -1523,7 +1523,7 @@ this call was sent from this island.</font>
 
 371
 00:24:45,400 --> 00:24:48,110
-<font face="Impress BT" size="55"><i>Gomu Gomu no... </i></font>
+<font face="Impress BT" size="55"><i>Gomu Gomu no... {Not bothering with copy-pasting here because it's all just attack-names and one generic remark anyway.}</i></font>
 
 372
 00:24:48,110 --> 00:24:49,610
@@ -1560,7 +1560,7 @@ with the Celestial Dragons from the Roswald House,</font>
 
 380
 00:25:14,320 --> 00:25:16,430
-<font face="Impress BT" size="55"><i>Bring Straw-Hatter over here! </i></font>
+<font face="Impress BT" size="55"><i>Bring Straw-Hatter over here! {Copy-paste from 487}</i></font>
 
 381
 00:25:16,430 --> 00:25:19,140

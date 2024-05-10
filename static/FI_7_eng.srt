@@ -94,7 +94,7 @@ I'll wait, so hurry and make up your mind!</font>
 
 24
 00:03:16,860 --> 00:03:26,300
-<font face="Agency FB" size="63" color="#fefefe"><b>The Shirahoshi Kidnapping Incident and The Curse of the Mato Mato!</b></font>
+<font face="Agency FB" size="63" color="#fefefe"><b>{\an5}The Shirahoshi Kidnapping Incident and The Curse of the Mato Mato!</b></font>
 
 25
 00:03:21,030 --> 00:03:24,330
@@ -341,7 +341,7 @@ the New World with such a simple Pose.</font>
 
 84
 00:06:21,480 --> 00:06:26,610
-<font face="Impress BT" size="55" color="#d6d6d6">Akkamanbo!  Yay!  Yay!</font>
+<font face="Impress BT" size="55" color="#d6d6d6">{\an8}Akkamanbo!  Yay!  Yay!</font>
 
 85
 00:06:22,340 --> 00:06:24,460
@@ -357,7 +357,7 @@ the New World with such a simple Pose.</font>
 
 88
 00:06:27,990 --> 00:06:29,780
-<font face="Impress BT" size="55">Hello, who is this? </font>
+<font face="Impress BT" size="55">Hello, who is this? { def: maybe we should have a style for voice from speaker }</font>
 
 89
 00:06:31,160 --> 00:06:32,240
@@ -1474,7 +1474,7 @@ even though I used to be a member of Arlong's crew!</font>
 
 360
 00:23:34,970 --> 00:23:38,310
-<font face="Impress BT" size="55"><i>The three of you are my friends! </i></font>
+<font face="Impress BT" size="55"><i>The three of you are my friends! {Copy-paste from 394.}</i></font>
 
 361
 00:23:39,080 --> 00:23:42,570
@@ -1687,7 +1687,7 @@ your insidious stalker crush...</font>
 
 412
 00:26:58,720 --> 00:27:03,760
-<font face="Impress BT" size="55" color="#d6d6d6"><i><font size="40">Cunning!  Cunning!</font></i></font>
+<font face="Impress BT" size="55" color="#d6d6d6"><i>{\an8}<font size="40">Cunning!  Cunning!</font></i></font>
 
 413
 00:27:01,020 --> 00:27:03,760
@@ -2135,6 +2135,6 @@ being outside for the first time in ten years?</font>
 
 522
 00:34:08,260 --> 00:34:13,560
-<font face="Agency FB" size="63" color="#fefefe"><b>The Beginning of the Vengeful Plan!
+<font face="Agency FB" size="63" color="#fefefe"><b>{\an5}The Beginning of the Vengeful Plan!
 Zoro vs. Hody!</b></font>
 

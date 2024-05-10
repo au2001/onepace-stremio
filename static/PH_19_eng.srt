@@ -20,12 +20,12 @@
 
 6
 00:00:24,190 --> 00:00:27,470
-<font face="Times New Roman" size="34">Translation & initial syncing
+<font face="Times New Roman" size="34">{\an1}Translation & initial syncing
 <font size="40">Yibis Fansubs</font></font>
 
 7
 00:00:27,620 --> 00:00:30,740
-<font face="Times New Roman" size="34">Syncing
+<font face="Times New Roman" size="34">{\an1}Syncing
 <font size="40">Galaxy 9000
 
 </font>Sync-checking
@@ -37,14 +37,14 @@
 
 9
 00:00:31,190 --> 00:00:34,310
-<font face="Times New Roman" size="34">Quality-checking
+<font face="Times New Roman" size="34">{\an1}Quality-checking
 <font size="40">Sewil
 Galaxy 9000
 Feeso</font></font>
 
 10
 00:00:34,860 --> 00:00:38,420
-<font face="Times New Roman" size="34">Soundtracking
+<font face="Times New Roman" size="34">{\an1}Soundtracking
 <font size="40">Halee</font></font>
 
 11
@@ -53,12 +53,12 @@ Feeso</font></font>
 
 12
 00:00:41,440 --> 00:00:43,690
-<font face="Times New Roman" size="34">Video editing
+<font face="Times New Roman" size="34">{\an1}Video editing
 <font size="40">Sewil</font></font>
 
 13
 00:00:43,740 --> 00:00:45,920
-<font face="Times New Roman" size="34">Raw provider
+<font face="Times New Roman" size="34">{\an1}Raw provider
 <font size="40">SOFCJ-Raws</font></font>
 
 14
@@ -175,7 +175,7 @@ Feeso</font></font>
 
 42
 00:02:29,940 --> 00:02:33,830
-<font face="impress bt" size="63" color="#fefefe"><b>The Strongest Grizzly Magnum and the Assassins from Dressrosa!</b></font>
+<font face="impress bt" size="63" color="#fefefe"><b>{\an5}The Strongest Grizzly Magnum and the Assassins from Dressrosa!</b></font>
 
 43
 00:02:33,830 --> 00:02:38,500
@@ -274,11 +274,11 @@ permission to carry Tashigi-chan?!</font>
 
 66
 00:03:39,330 --> 00:03:40,820
-<font face="Impress BT" size="55">The ceiling is collapsing!</font>
+<font face="Impress BT" size="55">{\an8}The ceiling is collapsing!</font>
 
 67
 00:03:41,150 --> 00:03:43,970
-<font face="Impress BT" size="55">Chopperer!  This place is too dangerous!</font>
+<font face="Impress BT" size="55">{\an8}Chopperer!  This place is too dangerous!</font>
 
 68
 00:03:43,970 --> 00:03:47,170
@@ -811,7 +811,7 @@ no matter what the cost!</font>
 
 198
 00:12:23,120 --> 00:12:24,860
-<font face="Impress BT" size="55">What's going on?</font>
+<font face="Impress BT" size="55">{\an8}What's going on?</font>
 
 199
 00:12:25,960 --> 00:12:28,480
@@ -835,7 +835,7 @@ no matter what the cost!</font>
 
 204
 00:12:39,210 --> 00:12:41,310
-<font face="Impress BT" size="55">Let Jack know about this.  </font>
+<font face="Impress BT" size="55">Let Jack know about this. {Xemnas: Who the hell is Jack.} {Sewil: Unknown character obviously}</font>
 
 205
 00:12:41,310 --> 00:12:43,940
@@ -868,7 +868,7 @@ This isn't just a problem for the underground.</font>
 
 212
 00:13:03,050 --> 00:13:04,660
-<font face="Impress BT" size="55">Is that Usopp's voice?</font>
+<font face="Impress BT" size="55">Is that Usopp's voice?{I'm definitely hearing a questioning tone here. So... QUESTION-MARK!!! -Starfish}</font>
 
 213
 00:13:04,660 --> 00:13:07,970
@@ -880,7 +880,7 @@ This isn't just a problem for the underground.</font>
 
 215
 00:13:10,670 --> 00:13:13,700
-<font face="Impress BT" size="55">I have to seal off Building R before the gas gets in.</font>
+<font face="Impress BT" size="55">{\an8}I have to seal off Building R before the gas gets in.</font>
 
 216
 00:13:10,740 --> 00:13:13,700
@@ -908,7 +908,7 @@ This isn't just a problem for the underground.</font>
 
 222
 00:13:26,330 --> 00:13:28,850
-<font face="Impress BT" size="55">Kin'emon-san was hit by the deadly gas!</font>
+<font face="Impress BT" size="55">Kin'emon-san was hit by the deadly gas!{He doesn't use the name "Land of Death" here. Actually, does Brook even KNOW that's what it's called? -Starfish}</font>
 
 223
 00:13:28,850 --> 00:13:31,070
@@ -955,7 +955,7 @@ could that dragon that we recently cut down be...</i></font>
 
 233
 00:14:12,830 --> 00:14:15,880
-<font face="Impress BT" size="55"><i>The deadly gas has already come this far! </i></font>
+<font face="Impress BT" size="55"><i>The deadly gas has already come this far! { def: did we really word it like this?  i'm sure i remember editing this }</i></font>
 
 234
 00:14:16,250 --> 00:14:20,570
@@ -971,7 +971,7 @@ could that dragon that we recently cut down be...</i></font>
 
 237
 00:14:26,390 --> 00:14:28,680
-<font face="Impress BT" size="55">And that is what happened. </font>
+<font face="Impress BT" size="55">And that is what happened. { def: wait, you skipped how you got his corpse.  you know, the only part we didn't already know }</font>
 
 238
 00:14:29,010 --> 00:14:30,480
@@ -1011,7 +1011,7 @@ could that dragon that we recently cut down be...</i></font>
 
 247
 00:14:46,360 --> 00:14:49,170
-<font face="Impress BT" size="55">It is the children!</font>
+<font face="Impress BT" size="55">It is the children!{Trying too hard to not use abbreviations? Maybe. Anyway, THAT IS HOW IT IS NOW WRITTEN. -Starfish}</font>
 
 248
 00:14:50,020 --> 00:14:51,300
@@ -1043,7 +1043,7 @@ could that dragon that we recently cut down be...</i></font>
 
 255
 00:15:11,310 --> 00:15:14,790
-<font face="Impress BT" size="55">Do you think they'll make it in time, after treating the girl?</font>
+<font face="Impress BT" size="55">Do you think they'll make it in time, after treating the girl?{I would just like to point out. That Robin's tendency to take ridiculously long pauses in her sentences. Is really obnoxious. -Starfish}</font>
 
 256
 00:15:21,240 --> 00:15:24,800
@@ -1071,7 +1071,7 @@ could that dragon that we recently cut down be...</i></font>
 
 262
 00:15:41,070 --> 00:15:43,000
-<font face="Impress BT" size="55">Traf, Smoke-man! </font>
+<font face="Impress BT" size="55">Traf, Smoke-man! {Xemnas: I think this was how we translated their nicknames.}{I've honestly lost track of which translation of "Kemurin" we're going with by now... But I *THINK* this is right. -Starfish}</font>
 
 263
 00:15:43,000 --> 00:15:44,390
@@ -1159,7 +1159,7 @@ could that dragon that we recently cut down be...</i></font>
 
 284
 00:16:46,140 --> 00:16:48,900
-<font face="Impress BT" size="55">When this mission is finished, so is he.</font>
+<font face="Impress BT" size="55">{\an8}When this mission is finished, so is he.</font>
 
 285
 00:16:46,360 --> 00:16:52,360
@@ -1168,11 +1168,11 @@ Servant/Assassin, Baby 5</font>
 
 286
 00:16:48,900 --> 00:16:52,360
-<font face="Impress BT" size="55">I'll finish him off when I get back.</font>
+<font face="Impress BT" size="55">{\an8}I'll finish him off when I get back.</font>
 
 287
 00:16:50,140 --> 00:16:52,360
-<font face="impress bt" size="45">Weapon Fruit,
+<font face="impress bt" size="45">{\an6}Weapon Fruit,
 weaponized-body human</font>
 
 288
@@ -1198,7 +1198,7 @@ that I've promised to marry, along with eight towns!</font>
 
 293
 00:17:15,190 --> 00:17:17,260
-<font face="Impress BT" size="55">That's how the young master shows his love.</font>
+<font face="Impress BT" size="55">{\an8}That's how the young master shows his love.</font>
 
 294
 00:17:16,490 --> 00:17:25,160
@@ -1207,15 +1207,15 @@ Combatant, Buffalo</font>
 
 295
 00:17:17,260 --> 00:17:21,770
-<font face="Impress BT" size="55">The young master thinks of you like a little sister.</font>
+<font face="Impress BT" size="55">{\an8}The young master thinks of you like a little sister.</font>
 
 296
 00:17:19,270 --> 00:17:25,160
-<font face="impress bt" size="45">Spin Fruit, rotating human</font>
+<font face="impress bt" size="45">{\an4}Spin Fruit, rotating human</font>
 
 297
 00:17:21,770 --> 00:17:25,160
-<font face="Impress BT" size="55">That's why he destroys those towns.</font>
+<font face="Impress BT" size="55">{\an8}That's why he destroys those towns.</font>
 
 298
 00:17:26,480 --> 00:17:30,140

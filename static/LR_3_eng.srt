@@ -1529,7 +1529,7 @@ third-rate ingredients like you guys</font>
 
 367
 00:21:49,480 --> 00:21:51,120
-<font face="Impress BT" size="38"><i>Third Rate</i></font>
+<font face="Impress BT" size="38"><i>{\an8}Third Rate</i></font>
 
 368
 00:21:51,120 --> 00:21:51,920
@@ -1541,7 +1541,7 @@ third-rate ingredients like you guys</font>
 
 370
 00:21:51,920 --> 00:21:52,920
-<font face="Impress BT" size="38"><i>Mincemeat</i></font>
+<font face="Impress BT" size="38"><i>{\an8}Mincemeat</i></font>
 
 371
 00:22:07,510 --> 00:22:09,470
@@ -1549,7 +1549,7 @@ third-rate ingredients like you guys</font>
 
 372
 00:22:07,510 --> 00:22:09,470
-<font face="Impress BT" size="38"><i>Mixed Vegetables</i></font>
+<font face="Impress BT" size="38"><i>{\an8}Mixed Vegetables</i></font>
 
 373
 00:22:09,470 --> 00:22:11,260
@@ -1690,7 +1690,7 @@ in front of the lone Big Pan?!</font>
 
 406
 00:24:47,560 --> 00:24:51,700
-<font face="Impress BT" size="38"><i>Air Force Power Shoot</i></font>
+<font face="Impress BT" size="38"><i>{\an8}Air Force Power Shoot</i></font>
 
 407
 00:24:55,470 --> 00:24:57,580
