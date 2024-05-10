@@ -28,7 +28,7 @@
 
 8
 00:00:23,750 --> 00:00:28,070
-<font face="Times New Roman" size="34">{\an1}Translation & initial timing
+<font face="Times New Roman" size="34">Translation & initial timing
 Yibis</font>
 
 9
@@ -37,7 +37,7 @@ Yibis</font>
 
 10
 00:00:28,160 --> 00:00:32,160
-<font face="Times New Roman" size="34">{\an1}Timing
+<font face="Times New Roman" size="34">Timing
 Halee</font>
 
 11
@@ -46,7 +46,7 @@ Halee</font>
 
 12
 00:00:34,660 --> 00:00:37,600
-<font face="Times New Roman" size="34">{\an1}Quality-checking
+<font face="Times New Roman" size="34">Quality-checking
 Sewil
 Galaxy 9000
 Halee</font>
@@ -57,7 +57,7 @@ Halee</font>
 
 14
 00:00:39,020 --> 00:00:42,640
-<font face="Times New Roman" size="34">{\an1}Soundtracking
+<font face="Times New Roman" size="34">Soundtracking
 Halee</font>
 
 15
@@ -66,12 +66,12 @@ Halee</font>
 
 16
 00:00:45,870 --> 00:00:48,560
-<font face="Times New Roman" size="34">{\an1}Video editing
+<font face="Times New Roman" size="34">Video editing
 Sewil</font>
 
 17
 00:00:45,870 --> 00:00:48,560
-<font face="Times New Roman" size="34">{\an1}Raw provider
+<font face="Times New Roman" size="34">Raw provider
 GS-Raws</font>
 
 18
@@ -234,7 +234,7 @@ Kyros (25 years old)</font>
 
 57
 00:03:22,510 --> 00:03:26,820
-<font face="Impress BT" size="55">{\an8}You may have the rest of the country fooled, but not me!</font>
+<font face="Impress BT" size="55">You may have the rest of the country fooled, but not me!</font>
 
 58
 00:03:25,480 --> 00:03:34,430
@@ -247,7 +247,7 @@ Scarlett (Fifteen years old)</font>
 
 60
 00:03:28,950 --> 00:03:34,430
-<font face="Impress BT" size="55">Stay away from us! Do you understand?{ So much text over text. Changed "me and my sister" to just "us" so it would be one line. -Btwb }</font>
+<font face="Impress BT" size="55">Stay away from us! Do you understand?</font>
 
 61
 00:03:35,430 --> 00:03:38,600
@@ -428,7 +428,7 @@ Viola (Ten years old)</font>
 
 105
 00:06:29,760 --> 00:06:33,710
-<font face="Impress BT" size="55">I'll be with you. I'll always watch over you! {I actually flipped the order of sentences around here, but seeing how he uses the phrasing "itsudemo kimi no soba ni iru" here, which (despite actually meaning "I will always be beside you") has been previously translated as "...will always watch over you", I wanted to maintain consistency and such. So note Xemnas, this is entirely intentional. Do not change. -Starfish}</font>
+<font face="Impress BT" size="55">I'll be with you. I'll always watch over you! </font>
 
 106
 00:06:36,180 --> 00:06:37,980
@@ -464,11 +464,11 @@ Viola (Ten years old)</font>
 
 114
 00:07:08,170 --> 00:07:10,810
-<font face="Impress BT" size="55">The royal palace... it's burning. {Copy-paste from 651}{ I know this has been seen before, but it seems weird to have two Flashback styled lines while the rest of the line in the same scene are Main. -Btwb }</font>
+<font face="Impress BT" size="55">The royal palace... it's burning. </font>
 
 115
 00:07:11,540 --> 00:07:14,080
-<font face="Impress BT" size="55">What's happening to this country? {End copy-paste from 651}</font>
+<font face="Impress BT" size="55">What's happening to this country? </font>
 
 116
 00:07:14,080 --> 00:07:15,880
@@ -514,7 +514,7 @@ this country and the king, pirate?!</font>
 
 126
 00:07:52,990 --> 00:07:57,590
-<font face="Impress BT" size="55">Take this Sea Stone chain off me! I'm not a Devil Fruit user. {I wanna know who in that room could have fastened the chains -Kae}</font>
+<font face="Impress BT" size="55">Take this Sea Stone chain off me! I'm not a Devil Fruit user. </font>
 
 127
 00:07:57,590 --> 00:08:01,560
@@ -598,7 +598,7 @@ this country and the king, pirate?!</font>
 
 147
 00:09:55,640 --> 00:09:57,580
-<font face="Impress BT" size="55">Scarlett? {Yeah seriously, what are the odds that she would just happen to get shot RIGHT IN FRONT OF HIM? -Starfish} {stfu already - Sewil}</font>
+<font face="Impress BT" size="55">Scarlett?  </font>
 
 148
 00:10:01,080 --> 00:10:03,220
@@ -728,7 +728,7 @@ I can't even feel your fading warmth!</font>
 
 179
 00:12:38,840 --> 00:12:42,970
-<font face="Impress BT" size="55">Unacceptable! So it was just someone impersonating the young master? {His own fault for not seeing through the terrible disguise xD}</font>
+<font face="Impress BT" size="55">Unacceptable! So it was just someone impersonating the young master? </font>
 
 180
 00:12:43,480 --> 00:12:46,100
@@ -830,7 +830,7 @@ The entire place could collapse!</font>
 
 204
 00:14:21,270 --> 00:14:24,710
-<font face="Impress BT" size="55"><i>Mother, I'm hungry.{Copy-paste from 651}{ I had seen this error posted in the chat, so why was it still here? -Btwb }</i></font>
+<font face="Impress BT" size="55"><i>Mother, I'm hungry.</i></font>
 
 205
 00:14:24,710 --> 00:14:26,610
@@ -838,11 +838,11 @@ The entire place could collapse!</font>
 
 206
 00:14:27,310 --> 00:14:28,350
-<font face="Impress BT" size="55"><i>Okay.{End copy-paste from 651}</i></font>
+<font face="Impress BT" size="55"><i>Okay.</i></font>
 
 207
 00:14:29,610 --> 00:14:33,250
-<font face="Impress BT" size="55">I'm so frustrated, I can't even move! {So wait, she's face-to-face with her mother's killer, who is rubbing that fact right in her face... And she responds by breaking down crying and being paralyzed with... frustration? Damn Rebecca, you SUCK. -Starfish}</font>
+<font face="Impress BT" size="55">I'm so frustrated, I can't even move! </font>
 
 208
 00:14:33,350 --> 00:14:36,020
@@ -974,7 +974,7 @@ The entire place could collapse!</font>
 
 240
 00:16:59,800 --> 00:17:01,100
-<font face="Impress BT" size="55">I'm back to normal! {I don't know if I should be impressed that they actually animated her transformation without cheaping out... or be rolling my eyes at the fact that OF COURSE they had to specifically focus the camera on her butt and boobs at the end. -Starfish}{I went with rolling my eyes -Kae}</font>
+<font face="Impress BT" size="55">I'm back to normal! </font>
 
 241
 00:17:15,450 --> 00:17:16,850
@@ -982,7 +982,7 @@ The entire place could collapse!</font>
 
 242
 00:17:17,480 --> 00:17:20,220
-<font face="Impress BT" size="55">It keeps getting bigger!{that's what she said}</font>
+<font face="Impress BT" size="55">It keeps getting bigger!</font>
 
 243
 00:17:22,590 --> 00:17:26,990
@@ -1030,7 +1030,7 @@ The entire place could collapse!</font>
 
 254
 00:17:56,090 --> 00:17:57,620
-<font face="Impress BT" size="55">Wait! {Thank goodness he got his arm back there... -Starfish}</font>
+<font face="Impress BT" size="55">Wait! </font>
 
 255
 00:18:06,900 --> 00:18:11,270
@@ -1062,7 +1062,7 @@ The entire place could collapse!</font>
 
 262
 00:18:26,650 --> 00:18:29,050
-<font face="Impress BT" size="55">Are you kidding me?!{I can just feel the unspoken "are you FUCKING kidding me?!" in there. -kae}</font>
+<font face="Impress BT" size="55">Are you kidding me?!</font>
 
 263
 00:18:29,050 --> 00:18:33,000
@@ -1126,7 +1126,7 @@ The entire place could collapse!</font>
 
 278
 00:19:19,160 --> 00:19:22,040
-<font face="Impress BT" size="55"><i>So hard-boiled!{gag}</i></font>
+<font face="Impress BT" size="55"><i>So hard-boiled!</i></font>
 
 279
 00:19:23,710 --> 00:19:25,740
@@ -1226,7 +1226,7 @@ The entire place could collapse!</font>
 
 303
 00:20:45,320 --> 00:20:46,920
-<font face="Impress BT" size="55">I'm back! {Oh my god, it says "Not Onepoco" on the back of his shirt. That is so stupid it's amazing.}</font>
+<font face="Impress BT" size="55">I'm back! </font>
 
 304
 00:20:46,920 --> 00:20:47,760
@@ -1234,7 +1234,7 @@ The entire place could collapse!</font>
 
 305
 00:20:48,460 --> 00:20:50,480
-<font face="Impress BT" size="55">Papa! You're not Onepoco!{I find it jarring that we use Daddy when he's clearly saying Papa... but I guess if we used "Daddy" before, then we're stuck with it. -Fadeout4}{I'm actually not sure why we're using "Daddy" here, either. That's kinda weird. care to explain, oh tl/tlc? -Kae}{Xemnas: Translation wise there's no specific reason to go with "Daddy" over "Papa" and after checking in his past appearance the child didn't use the word "papa" so we don't have a precedence to follow in this instance and thus I also agree with the use of "Papa".}</font>
+<font face="Impress BT" size="55">Papa! You're not Onepoco!</font>
 
 306
 00:20:50,480 --> 00:20:52,160
@@ -1242,7 +1242,7 @@ The entire place could collapse!</font>
 
 307
 00:20:52,160 --> 00:20:53,460
-<font face="Impress BT" size="55">Papa!{Xemnas: See line 209}</font>
+<font face="Impress BT" size="55">Papa!</font>
 
 308
 00:20:54,030 --> 00:20:58,800
@@ -1334,7 +1334,7 @@ The entire place could collapse!</font>
 
 330
 00:22:33,800 --> 00:22:36,000
-<font face="Impress BT" size="55">Kill Doflamingo!{Does this guy have rabies? O_O}</font>
+<font face="Impress BT" size="55">Kill Doflamingo!</font>
 
 331
 00:22:37,400 --> 00:22:39,170
@@ -1466,7 +1466,7 @@ The entire place could collapse!</font>
 
 363
 00:25:51,800 --> 00:25:56,330
-<font face="Impress BT" size="55">I've come to restore the true Dressrosa!{did he really just die as cleanly and unceremoniously as that? if so, I'm just so incredibly pleased. that's awesome. -Kae}</font>
+<font face="Impress BT" size="55">I've come to restore the true Dressrosa!</font>
 
 364
 00:26:07,110 --> 00:26:08,210
@@ -1546,7 +1546,7 @@ The entire place could collapse!</font>
 
 383
 00:27:00,660 --> 00:27:02,370
-<font face="Impress BT" size="55">I ain't your babysitter. {Cecil: Barto is so cool!}</font>
+<font face="Impress BT" size="55">I ain't your babysitter. </font>
 
 384
 00:27:02,370 --> 00:27:03,900
@@ -1562,11 +1562,11 @@ The entire place could collapse!</font>
 
 387
 00:27:11,310 --> 00:27:15,780
-<font face="Impress BT" size="55">That seems to have been this country's secret, Rebecca.{"That" presumably being the whole collective amnesia-deal. -Starfish}</font>
+<font face="Impress BT" size="55">That seems to have been this country's secret, Rebecca.</font>
 
 388
 00:27:18,920 --> 00:27:22,290
-<font face="Impress BT" size="55">Everything has a core. {Cecil: He means heart/centre/secret/weak spot I assume?}</font>
+<font face="Impress BT" size="55">Everything has a core. </font>
 
 389
 00:27:23,090 --> 00:27:24,520
@@ -1622,7 +1622,7 @@ The entire place could collapse!</font>
 
 402
 00:28:30,620 --> 00:28:31,560
-<font face="Impress BT" size="55">Oh.{Is it just me or is there something... off... about her face in this scene? -Starfish}</font>
+<font face="Impress BT" size="55">Oh.</font>
 
 403
 00:28:32,460 --> 00:28:34,760

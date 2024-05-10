@@ -296,7 +296,7 @@ Crunchyroll</b></font>
 
 70
 00:01:27,640 --> 00:01:32,880
-<font face="Duality" size="72" color="#378fdc">do </font>
+<font face="Duality" size="72" color="#378fdc">do</font>
 
 71
 00:01:27,640 --> 00:01:28,110
@@ -316,19 +316,19 @@ Crunchyroll</b></font>
 
 75
 00:01:27,740 --> 00:01:32,980
-<font face="Duality" size="72" color="#378fdc">dos </font>
+<font face="Duality" size="72" color="#378fdc">dos</font>
 
 76
 00:01:27,740 --> 00:01:28,390
-<font face="Duality" size="72" color="#378fdc">ke </font>
+<font face="Duality" size="72" color="#378fdc">ke</font>
 
 77
 00:01:27,790 --> 00:01:33,030
-<font face="Duality" size="72" color="#378fdc">os </font>
+<font face="Duality" size="72" color="#378fdc">os</font>
 
 78
 00:01:27,790 --> 00:01:28,590
-<font face="Duality" size="72" color="#378fdc">no </font>
+<font face="Duality" size="72" color="#378fdc">no</font>
 
 79
 00:01:27,840 --> 00:01:33,080
@@ -340,11 +340,11 @@ Crunchyroll</b></font>
 
 81
 00:01:27,890 --> 00:01:33,130
-<font face="Duality" size="72" color="#378fdc">sos </font>
+<font face="Duality" size="72" color="#378fdc">sos</font>
 
 82
 00:01:27,890 --> 00:01:29,450
-<font face="Duality" size="72" color="#378fdc">me </font>
+<font face="Duality" size="72" color="#378fdc">me</font>
 
 83
 00:01:27,940 --> 00:01:28,190
@@ -376,7 +376,7 @@ Crunchyroll</b></font>
 
 90
 00:01:27,990 --> 00:01:30,610
-<font face="Duality" size="72" color="#378fdc"> </font>
+<font face="Duality" size="72" color="#378fdc"></font>
 
 91
 00:01:28,020 --> 00:01:28,360
@@ -396,7 +396,7 @@ Crunchyroll</b></font>
 
 95
 00:01:28,090 --> 00:01:31,060
-<font face="Duality" size="72" color="#378fdc">ki </font>
+<font face="Duality" size="72" color="#378fdc">ki</font>
 
 96
 00:01:28,110 --> 00:01:28,450
@@ -420,11 +420,11 @@ Crunchyroll</b></font>
 
 101
 00:01:28,390 --> 00:01:28,840
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ke </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ke</font></font>
 
 102
 00:01:28,590 --> 00:01:29,360
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">no </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">no</font></font>
 
 103
 00:01:29,110 --> 00:01:29,700
@@ -432,7 +432,7 @@ Crunchyroll</b></font>
 
 104
 00:01:29,450 --> 00:01:29,900
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">me </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">me</font></font>
 
 105
 00:01:29,650 --> 00:01:30,860
@@ -440,7 +440,7 @@ Crunchyroll</b></font>
 
 106
 00:01:30,610 --> 00:01:31,170
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8"> </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8"></font></font>
 
 107
 00:01:30,920 --> 00:01:31,310
@@ -448,7 +448,7 @@ Crunchyroll</b></font>
 
 108
 00:01:31,060 --> 00:01:31,500
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ki </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ki</font></font>
 
 109
 00:01:31,250 --> 00:01:31,780
@@ -468,7 +468,7 @@ Crunchyroll</b></font>
 
 113
 00:01:32,880 --> 00:01:33,180
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">do </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">do</font></font>
 
 114
 00:01:32,930 --> 00:01:33,230
@@ -484,7 +484,7 @@ Crunchyroll</b></font>
 
 117
 00:01:32,980 --> 00:01:33,280
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">dos </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">dos</font></font>
 
 118
 00:01:33,000 --> 00:01:33,400
@@ -496,11 +496,11 @@ Crunchyroll</b></font>
 
 120
 00:01:33,030 --> 00:01:33,330
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">os </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">os</font></font>
 
 121
 00:01:33,050 --> 00:01:38,460
-<font face="Duality" size="72" color="#378fdc">mos </font>
+<font face="Duality" size="72" color="#378fdc">mos</font>
 
 122
 00:01:33,050 --> 00:01:33,530
@@ -520,15 +520,15 @@ Crunchyroll</b></font>
 
 126
 00:01:33,130 --> 00:01:33,430
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">sos </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">sos</font></font>
 
 127
 00:01:33,150 --> 00:01:38,560
-<font face="Duality" size="72" color="#378fdc">tir </font>
+<font face="Duality" size="72" color="#378fdc">tir</font>
 
 128
 00:01:33,150 --> 00:01:33,880
-<font face="Duality" size="72" color="#378fdc">shi </font>
+<font face="Duality" size="72" color="#378fdc">shi</font>
 
 129
 00:01:33,180 --> 00:01:33,480
@@ -548,11 +548,11 @@ Crunchyroll</b></font>
 
 133
 00:01:33,250 --> 00:01:38,660
-<font face="Duality" size="72" color="#378fdc">ra </font>
+<font face="Duality" size="72" color="#378fdc">ra</font>
 
 134
 00:01:33,250 --> 00:01:34,330
-<font face="Duality" size="72" color="#378fdc">no </font>
+<font face="Duality" size="72" color="#378fdc">no</font>
 
 135
 00:01:33,300 --> 00:01:38,710
@@ -560,7 +560,7 @@ Crunchyroll</b></font>
 
 136
 00:01:33,300 --> 00:01:34,480
-<font face="Duality" size="72" color="#378fdc">wo </font>
+<font face="Duality" size="72" color="#378fdc">wo</font>
 
 137
 00:01:33,350 --> 00:01:38,760
@@ -580,7 +580,7 @@ Crunchyroll</b></font>
 
 141
 00:01:33,400 --> 00:01:38,810
-<font face="Duality" size="72" color="#378fdc">rar </font>
+<font face="Duality" size="72" color="#378fdc">rar</font>
 
 142
 00:01:33,400 --> 00:01:33,650
@@ -596,19 +596,19 @@ Crunchyroll</b></font>
 
 145
 00:01:33,450 --> 00:01:38,860
-<font face="Duality" size="72" color="#378fdc">o </font>
+<font face="Duality" size="72" color="#378fdc">o</font>
 
 146
 00:01:33,450 --> 00:01:35,280
-<font face="Duality" size="72" color="#378fdc">shi </font>
+<font face="Duality" size="72" color="#378fdc">shi</font>
 
 147
 00:01:33,500 --> 00:01:38,910
-<font face="Duality" size="72" color="#378fdc">que </font>
+<font face="Duality" size="72" color="#378fdc">que</font>
 
 148
 00:01:33,500 --> 00:01:35,900
-<font face="Duality" size="72" color="#378fdc">ni </font>
+<font face="Duality" size="72" color="#378fdc">ni</font>
 
 149
 00:01:33,530 --> 00:01:34,000
@@ -628,7 +628,7 @@ Crunchyroll</b></font>
 
 153
 00:01:33,600 --> 00:01:36,620
-<font face="Duality" size="72" color="#378fdc">ku </font>
+<font face="Duality" size="72" color="#378fdc">ku</font>
 
 154
 00:01:33,650 --> 00:01:39,060
@@ -636,7 +636,7 @@ Crunchyroll</b></font>
 
 155
 00:01:33,650 --> 00:01:36,950
-<font face="Duality" size="72" color="#378fdc">no </font>
+<font face="Duality" size="72" color="#378fdc">no</font>
 
 156
 00:01:33,700 --> 00:01:37,210
@@ -648,7 +648,7 @@ Crunchyroll</b></font>
 
 158
 00:01:33,880 --> 00:01:34,360
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">shi </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">shi</font></font>
 
 159
 00:01:34,110 --> 00:01:34,580
@@ -656,11 +656,11 @@ Crunchyroll</b></font>
 
 160
 00:01:34,330 --> 00:01:34,730
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">no </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">no</font></font>
 
 161
 00:01:34,480 --> 00:01:35,020
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">wo </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">wo</font></font>
 
 162
 00:01:34,770 --> 00:01:35,440
@@ -672,11 +672,11 @@ Crunchyroll</b></font>
 
 164
 00:01:35,280 --> 00:01:36,150
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">shi </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">shi</font></font>
 
 165
 00:01:35,900 --> 00:01:36,510
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ni </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ni</font></font>
 
 166
 00:01:36,260 --> 00:01:36,870
@@ -684,11 +684,11 @@ Crunchyroll</b></font>
 
 167
 00:01:36,620 --> 00:01:37,200
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ku </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ku</font></font>
 
 168
 00:01:36,950 --> 00:01:37,460
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">no </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">no</font></font>
 
 169
 00:01:37,210 --> 00:01:39,260
@@ -696,7 +696,7 @@ Crunchyroll</b></font>
 
 170
 00:01:38,460 --> 00:01:38,760
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">mos </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">mos</font></font>
 
 171
 00:01:38,510 --> 00:01:38,810
@@ -704,7 +704,7 @@ Crunchyroll</b></font>
 
 172
 00:01:38,560 --> 00:01:38,860
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">tir </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">tir</font></font>
 
 173
 00:01:38,610 --> 00:01:38,910
@@ -712,7 +712,7 @@ Crunchyroll</b></font>
 
 174
 00:01:38,660 --> 00:01:38,960
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">ra </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">ra</font></font>
 
 175
 00:01:38,710 --> 00:01:39,010
@@ -724,11 +724,11 @@ Crunchyroll</b></font>
 
 177
 00:01:38,810 --> 00:01:39,110
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">rar </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">rar</font></font>
 
 178
 00:01:38,860 --> 00:01:39,160
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">o </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">o</font></font>
 
 179
 00:01:38,870 --> 00:01:39,320
@@ -736,7 +736,7 @@ Crunchyroll</b></font>
 
 180
 00:01:38,910 --> 00:01:39,210
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">que </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">que</font></font>
 
 181
 00:01:38,920 --> 00:01:39,320
@@ -748,7 +748,7 @@ Crunchyroll</b></font>
 
 183
 00:01:38,970 --> 00:01:39,450
-<font face="Duality" size="72" color="#378fdc">ONE </font>
+<font face="Duality" size="72" color="#378fdc">ONE</font>
 
 184
 00:01:39,010 --> 00:01:39,310
@@ -772,7 +772,7 @@ Crunchyroll</b></font>
 
 189
 00:01:39,450 --> 00:01:40,050
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ONE </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ONE</font></font>
 
 190
 00:01:39,800 --> 00:01:40,470
@@ -804,7 +804,7 @@ Crunchyroll</b></font>
 
 197
 00:01:45,150 --> 00:01:50,010
-<font face="Duality" size="72" color="#378fdc">las </font>
+<font face="Duality" size="72" color="#378fdc">las</font>
 
 198
 00:01:45,150 --> 00:01:45,760
@@ -812,7 +812,7 @@ Crunchyroll</b></font>
 
 199
 00:01:45,200 --> 00:01:50,060
-<font face="Duality" size="72" color="#378fdc">só </font>
+<font face="Duality" size="72" color="#378fdc">só</font>
 
 200
 00:01:45,200 --> 00:01:46,100
@@ -824,11 +824,11 @@ Crunchyroll</b></font>
 
 202
 00:01:45,250 --> 00:01:46,300
-<font face="Duality" size="72" color="#378fdc">n </font>
+<font face="Duality" size="72" color="#378fdc">n</font>
 
 203
 00:01:45,300 --> 00:01:50,160
-<font face="Duality" size="72" color="#378fdc">vem </font>
+<font face="Duality" size="72" color="#378fdc">vem</font>
 
 204
 00:01:45,300 --> 00:01:46,610
@@ -844,11 +844,11 @@ Crunchyroll</b></font>
 
 207
 00:01:45,400 --> 00:01:50,260
-<font face="Duality" size="72" color="#378fdc">ra </font>
+<font face="Duality" size="72" color="#378fdc">ra</font>
 
 208
 00:01:45,400 --> 00:01:47,210
-<font face="Duality" size="72" color="#378fdc"> </font>
+<font face="Duality" size="72" color="#378fdc"></font>
 
 209
 00:01:45,450 --> 00:01:45,700
@@ -860,7 +860,7 @@ Crunchyroll</b></font>
 
 211
 00:01:45,450 --> 00:01:50,310
-<font face="Duality" size="72" color="#378fdc">nos </font>
+<font face="Duality" size="72" color="#378fdc">nos</font>
 
 212
 00:01:45,450 --> 00:01:45,700
@@ -880,7 +880,7 @@ Crunchyroll</b></font>
 
 216
 00:01:45,500 --> 00:01:48,760
-<font face="Duality" size="72" color="#378fdc">tai </font>
+<font face="Duality" size="72" color="#378fdc">tai</font>
 
 217
 00:01:45,550 --> 00:01:50,410
@@ -888,7 +888,7 @@ Crunchyroll</b></font>
 
 218
 00:01:45,550 --> 00:01:49,110
-<font face="Duality" size="72" color="#378fdc">no </font>
+<font face="Duality" size="72" color="#378fdc">no</font>
 
 219
 00:01:45,560 --> 00:01:46,010
@@ -916,7 +916,7 @@ Crunchyroll</b></font>
 
 225
 00:01:46,300 --> 00:01:46,860
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">n </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">n</font></font>
 
 226
 00:01:46,610 --> 00:01:47,220
@@ -928,7 +928,7 @@ Crunchyroll</b></font>
 
 228
 00:01:47,210 --> 00:01:48,630
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8"> </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8"></font></font>
 
 229
 00:01:48,380 --> 00:01:49,010
@@ -936,11 +936,11 @@ Crunchyroll</b></font>
 
 230
 00:01:48,760 --> 00:01:49,360
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">tai </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">tai</font></font>
 
 231
 00:01:49,110 --> 00:01:49,710
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">no </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">no</font></font>
 
 232
 00:01:49,460 --> 00:01:50,080
@@ -956,11 +956,11 @@ Crunchyroll</b></font>
 
 235
 00:01:50,010 --> 00:01:50,310
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">las </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">las</font></font>
 
 236
 00:01:50,060 --> 00:01:50,360
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">só </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">só</font></font>
 
 237
 00:01:50,110 --> 00:01:50,410
@@ -968,7 +968,7 @@ Crunchyroll</b></font>
 
 238
 00:01:50,160 --> 00:01:50,460
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">vem </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">vem</font></font>
 
 239
 00:01:50,210 --> 00:01:50,510
@@ -976,11 +976,11 @@ Crunchyroll</b></font>
 
 240
 00:01:50,260 --> 00:01:50,560
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">ra </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">ra</font></font>
 
 241
 00:01:50,310 --> 00:01:50,610
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">nos </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">nos</font></font>
 
 242
 00:01:50,360 --> 00:01:50,660
@@ -1012,7 +1012,7 @@ Crunchyroll</b></font>
 
 249
 00:01:50,780 --> 00:01:55,440
-<font face="Duality" size="72" color="#378fdc">io </font>
+<font face="Duality" size="72" color="#378fdc">io</font>
 
 250
 00:01:50,780 --> 00:01:51,230
@@ -1020,11 +1020,11 @@ Crunchyroll</b></font>
 
 251
 00:01:50,830 --> 00:01:55,490
-<font face="Duality" size="72" color="#378fdc">de </font>
+<font face="Duality" size="72" color="#378fdc">de</font>
 
 252
 00:01:50,830 --> 00:01:51,450
-<font face="Duality" size="72" color="#378fdc">tsu </font>
+<font face="Duality" size="72" color="#378fdc">tsu</font>
 
 253
 00:01:50,880 --> 00:01:55,540
@@ -1032,7 +1032,7 @@ Crunchyroll</b></font>
 
 254
 00:01:50,880 --> 00:01:51,600
-<font face="Duality" size="72" color="#378fdc">ni </font>
+<font face="Duality" size="72" color="#378fdc">ni</font>
 
 255
 00:01:50,930 --> 00:01:55,590
@@ -1044,7 +1044,7 @@ Crunchyroll</b></font>
 
 257
 00:01:50,980 --> 00:01:55,640
-<font face="Duality" size="72" color="#378fdc">ção, </font>
+<font face="Duality" size="72" color="#378fdc">ção,</font>
 
 258
 00:01:50,980 --> 00:01:51,950
@@ -1052,7 +1052,7 @@ Crunchyroll</b></font>
 
 259
 00:01:51,030 --> 00:01:55,690
-<font face="Duality" size="72" color="#378fdc">eu </font>
+<font face="Duality" size="72" color="#378fdc">eu</font>
 
 260
 00:01:51,030 --> 00:01:52,270
@@ -1088,11 +1088,11 @@ Crunchyroll</b></font>
 
 268
 00:01:51,130 --> 00:01:52,920
-<font face="Duality" size="72" color="#378fdc"> </font>
+<font face="Duality" size="72" color="#378fdc"></font>
 
 269
 00:01:51,180 --> 00:01:55,840
-<font face="Duality" size="72" color="#378fdc">mo </font>
+<font face="Duality" size="72" color="#378fdc">mo</font>
 
 270
 00:01:51,180 --> 00:01:53,360
@@ -1100,7 +1100,7 @@ Crunchyroll</b></font>
 
 271
 00:01:51,230 --> 00:01:55,890
-<font face="Duality" size="72" color="#378fdc">o </font>
+<font face="Duality" size="72" color="#378fdc">o</font>
 
 272
 00:01:51,230 --> 00:01:51,700
@@ -1108,7 +1108,7 @@ Crunchyroll</b></font>
 
 273
 00:01:51,230 --> 00:01:53,740
-<font face="Duality" size="72" color="#378fdc">ji </font>
+<font face="Duality" size="72" color="#378fdc">ji</font>
 
 274
 00:01:51,280 --> 00:01:55,940
@@ -1116,7 +1116,7 @@ Crunchyroll</b></font>
 
 275
 00:01:51,280 --> 00:01:54,110
-<font face="Duality" size="72" color="#378fdc">wo </font>
+<font face="Duality" size="72" color="#378fdc">wo</font>
 
 276
 00:01:51,330 --> 00:01:55,990
@@ -1128,15 +1128,15 @@ Crunchyroll</b></font>
 
 278
 00:01:51,380 --> 00:01:55,000
-<font face="Duality" size="72" color="#378fdc">ru </font>
+<font face="Duality" size="72" color="#378fdc">ru</font>
 
 279
 00:01:51,430 --> 00:01:55,170
-<font face="Duality" size="72" color="#378fdc">no </font>
+<font face="Duality" size="72" color="#378fdc">no</font>
 
 280
 00:01:51,450 --> 00:01:51,850
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">tsu </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">tsu</font></font>
 
 281
 00:01:51,480 --> 00:01:55,310
@@ -1144,7 +1144,7 @@ Crunchyroll</b></font>
 
 282
 00:01:51,600 --> 00:01:52,020
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ni </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ni</font></font>
 
 283
 00:01:51,770 --> 00:01:52,200
@@ -1164,7 +1164,7 @@ Crunchyroll</b></font>
 
 287
 00:01:52,920 --> 00:01:53,610
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8"> </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8"></font></font>
 
 288
 00:01:53,360 --> 00:01:53,990
@@ -1172,11 +1172,11 @@ Crunchyroll</b></font>
 
 289
 00:01:53,740 --> 00:01:54,360
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ji </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ji</font></font>
 
 290
 00:01:54,110 --> 00:01:55,070
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">wo </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">wo</font></font>
 
 291
 00:01:54,820 --> 00:01:55,250
@@ -1184,11 +1184,11 @@ Crunchyroll</b></font>
 
 292
 00:01:55,000 --> 00:01:55,420
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ru </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ru</font></font>
 
 293
 00:01:55,170 --> 00:01:55,560
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">no </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">no</font></font>
 
 294
 00:01:55,310 --> 00:01:56,290
@@ -1196,11 +1196,11 @@ Crunchyroll</b></font>
 
 295
 00:01:55,440 --> 00:01:55,740
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">io </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">io</font></font>
 
 296
 00:01:55,490 --> 00:01:55,790
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">de </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">de</font></font>
 
 297
 00:01:55,540 --> 00:01:55,840
@@ -1212,11 +1212,11 @@ Crunchyroll</b></font>
 
 299
 00:01:55,640 --> 00:01:55,940
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">ção, </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">ção,</font></font>
 
 300
 00:01:55,690 --> 00:01:55,990
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">eu </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">eu</font></font>
 
 301
 00:01:55,740 --> 00:01:56,040
@@ -1228,11 +1228,11 @@ Crunchyroll</b></font>
 
 303
 00:01:55,840 --> 00:01:56,140
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">mo </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">mo</font></font>
 
 304
 00:01:55,890 --> 00:01:56,190
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">o </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">o</font></font>
 
 305
 00:01:55,940 --> 00:01:56,240
@@ -1252,7 +1252,7 @@ Crunchyroll</b></font>
 
 309
 00:01:56,480 --> 00:01:56,880
-<font face="Duality" size="72" color="#378fdc">Até </font>
+<font face="Duality" size="72" color="#378fdc">Até</font>
 
 310
 00:01:56,480 --> 00:01:56,880
@@ -1268,7 +1268,7 @@ Crunchyroll</b></font>
 
 313
 00:01:56,580 --> 00:02:01,380
-<font face="Duality" size="72" color="#378fdc">mo </font>
+<font face="Duality" size="72" color="#378fdc">mo</font>
 
 314
 00:01:56,580 --> 00:01:57,220
@@ -1276,11 +1276,11 @@ Crunchyroll</b></font>
 
 315
 00:01:56,630 --> 00:02:01,430
-<font face="Duality" size="72" color="#378fdc">um </font>
+<font face="Duality" size="72" color="#378fdc">um</font>
 
 316
 00:01:56,630 --> 00:01:57,320
-<font face="Duality" size="72" color="#378fdc">RI </font>
+<font face="Duality" size="72" color="#378fdc">RI</font>
 
 317
 00:01:56,680 --> 00:02:01,480
@@ -1292,7 +1292,7 @@ Crunchyroll</b></font>
 
 319
 00:01:56,730 --> 00:02:01,530
-<font face="Duality" size="72" color="#378fdc">pa </font>
+<font face="Duality" size="72" color="#378fdc">pa</font>
 
 320
 00:01:56,730 --> 00:01:57,680
@@ -1300,7 +1300,7 @@ Crunchyroll</b></font>
 
 321
 00:01:56,780 --> 00:02:01,580
-<font face="Duality" size="72" color="#378fdc">do </font>
+<font face="Duality" size="72" color="#378fdc">do</font>
 
 322
 00:01:56,780 --> 00:01:58,050
@@ -1320,7 +1320,7 @@ Crunchyroll</b></font>
 
 326
 00:01:56,880 --> 00:02:01,580
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">Até </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">Até</font></font>
 
 327
 00:01:56,880 --> 00:02:01,680
@@ -1336,11 +1336,11 @@ Crunchyroll</b></font>
 
 330
 00:01:56,880 --> 00:01:58,630
-<font face="Duality" size="72" color="#378fdc"> </font>
+<font face="Duality" size="72" color="#378fdc"></font>
 
 331
 00:01:56,930 --> 00:02:01,730
-<font face="Duality" size="72" color="#378fdc">ro </font>
+<font face="Duality" size="72" color="#378fdc">ro</font>
 
 332
 00:01:56,930 --> 00:01:59,470
@@ -1364,7 +1364,7 @@ Crunchyroll</b></font>
 
 337
 00:01:57,030 --> 00:01:59,800
-<font face="Duality" size="72" color="#378fdc">ra </font>
+<font face="Duality" size="72" color="#378fdc">ra</font>
 
 338
 00:01:57,080 --> 00:02:01,880
@@ -1372,7 +1372,7 @@ Crunchyroll</b></font>
 
 339
 00:01:57,080 --> 00:02:00,170
-<font face="Duality" size="72" color="#378fdc">no </font>
+<font face="Duality" size="72" color="#378fdc">no</font>
 
 340
 00:01:57,130 --> 00:02:01,930
@@ -1388,7 +1388,7 @@ Crunchyroll</b></font>
 
 343
 00:01:57,180 --> 00:02:00,910
-<font face="Duality" size="72" color="#378fdc">zu </font>
+<font face="Duality" size="72" color="#378fdc">zu</font>
 
 344
 00:01:57,220 --> 00:01:57,570
@@ -1400,7 +1400,7 @@ Crunchyroll</b></font>
 
 346
 00:01:57,320 --> 00:01:57,760
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">RI </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">RI</font></font>
 
 347
 00:01:57,510 --> 00:01:57,930
@@ -1420,7 +1420,7 @@ Crunchyroll</b></font>
 
 351
 00:01:58,630 --> 00:01:59,720
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8"> </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8"></font></font>
 
 352
 00:01:59,470 --> 00:01:59,900
@@ -1432,11 +1432,11 @@ Crunchyroll</b></font>
 
 354
 00:01:59,800 --> 00:02:00,420
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ra </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ra</font></font>
 
 355
 00:02:00,170 --> 00:02:00,740
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">no </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">no</font></font>
 
 356
 00:02:00,490 --> 00:02:01,160
@@ -1444,7 +1444,7 @@ Crunchyroll</b></font>
 
 357
 00:02:00,910 --> 00:02:01,340
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">zu </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">zu</font></font>
 
 358
 00:02:01,090 --> 00:02:02,330
@@ -1456,11 +1456,11 @@ Crunchyroll</b></font>
 
 360
 00:02:01,380 --> 00:02:01,680
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">mo </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">mo</font></font>
 
 361
 00:02:01,430 --> 00:02:01,730
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">um </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">um</font></font>
 
 362
 00:02:01,480 --> 00:02:01,780
@@ -1468,11 +1468,11 @@ Crunchyroll</b></font>
 
 363
 00:02:01,530 --> 00:02:01,830
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">pa </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">pa</font></font>
 
 364
 00:02:01,580 --> 00:02:01,880
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">do </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">do</font></font>
 
 365
 00:02:01,630 --> 00:02:01,930
@@ -1492,7 +1492,7 @@ Crunchyroll</b></font>
 
 369
 00:02:01,690 --> 00:02:02,090
-<font face="Duality" size="72" color="#378fdc">não </font>
+<font face="Duality" size="72" color="#378fdc">não</font>
 
 370
 00:02:01,690 --> 00:02:02,090
@@ -1500,7 +1500,7 @@ Crunchyroll</b></font>
 
 371
 00:02:01,730 --> 00:02:02,030
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">ro </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">ro</font></font>
 
 372
 00:02:01,740 --> 00:02:06,940
@@ -1516,7 +1516,7 @@ Crunchyroll</b></font>
 
 375
 00:02:01,790 --> 00:02:06,990
-<font face="Duality" size="72" color="#378fdc">rá </font>
+<font face="Duality" size="72" color="#378fdc">rá</font>
 
 376
 00:02:01,790 --> 00:02:02,420
@@ -1540,7 +1540,7 @@ Crunchyroll</b></font>
 
 381
 00:02:01,890 --> 00:02:07,090
-<font face="Duality" size="72" color="#378fdc">is </font>
+<font face="Duality" size="72" color="#378fdc">is</font>
 
 382
 00:02:01,890 --> 00:02:03,050
@@ -1552,11 +1552,11 @@ Crunchyroll</b></font>
 
 384
 00:02:01,940 --> 00:02:07,140
-<font face="Duality" size="72" color="#378fdc">uma </font>
+<font face="Duality" size="72" color="#378fdc">uma</font>
 
 385
 00:02:01,940 --> 00:02:03,360
-<font face="Duality" size="72" color="#378fdc">ta </font>
+<font face="Duality" size="72" color="#378fdc">ta</font>
 
 386
 00:02:01,980 --> 00:02:02,280
@@ -1568,11 +1568,11 @@ Crunchyroll</b></font>
 
 388
 00:02:01,990 --> 00:02:03,770
-<font face="Duality" size="72" color="#378fdc">no </font>
+<font face="Duality" size="72" color="#378fdc">no</font>
 
 389
 00:02:02,040 --> 00:02:07,240
-<font face="Duality" size="72" color="#378fdc">da, </font>
+<font face="Duality" size="72" color="#378fdc">da,</font>
 
 390
 00:02:02,040 --> 00:02:04,110
@@ -1584,11 +1584,11 @@ Crunchyroll</b></font>
 
 392
 00:02:02,090 --> 00:02:07,190
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">não </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">não</font></font>
 
 393
 00:02:02,090 --> 00:02:07,290
-<font face="Duality" size="72" color="#378fdc">se </font>
+<font face="Duality" size="72" color="#378fdc">se</font>
 
 394
 00:02:02,090 --> 00:02:02,340
@@ -1600,7 +1600,7 @@ Crunchyroll</b></font>
 
 396
 00:02:02,090 --> 00:02:04,650
-<font face="Duality" size="72" color="#378fdc">ra </font>
+<font face="Duality" size="72" color="#378fdc">ra</font>
 
 397
 00:02:02,140 --> 00:02:07,340
@@ -1620,11 +1620,11 @@ Crunchyroll</b></font>
 
 401
 00:02:02,240 --> 00:02:07,440
-<font face="Duality" size="72" color="#378fdc">mos </font>
+<font face="Duality" size="72" color="#378fdc">mos</font>
 
 402
 00:02:02,240 --> 00:02:05,840
-<font face="Duality" size="72" color="#378fdc">tsu </font>
+<font face="Duality" size="72" color="#378fdc">tsu</font>
 
 403
 00:02:02,290 --> 00:02:07,490
@@ -1672,11 +1672,11 @@ Crunchyroll</b></font>
 
 414
 00:02:03,360 --> 00:02:04,020
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ta </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ta</font></font>
 
 415
 00:02:03,770 --> 00:02:04,360
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">no </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">no</font></font>
 
 416
 00:02:04,110 --> 00:02:04,900
@@ -1684,7 +1684,7 @@ Crunchyroll</b></font>
 
 417
 00:02:04,650 --> 00:02:05,450
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ra </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ra</font></font>
 
 418
 00:02:05,200 --> 00:02:05,710
@@ -1696,7 +1696,7 @@ Crunchyroll</b></font>
 
 420
 00:02:05,840 --> 00:02:06,500
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">tsu </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">tsu</font></font>
 
 421
 00:02:06,250 --> 00:02:06,860
@@ -1716,7 +1716,7 @@ Crunchyroll</b></font>
 
 425
 00:02:06,990 --> 00:02:07,290
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">rá </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">rá</font></font>
 
 426
 00:02:07,040 --> 00:02:07,340
@@ -1724,11 +1724,11 @@ Crunchyroll</b></font>
 
 427
 00:02:07,090 --> 00:02:07,390
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">is </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">is</font></font>
 
 428
 00:02:07,140 --> 00:02:07,440
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">uma </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">uma</font></font>
 
 429
 00:02:07,190 --> 00:02:07,490
@@ -1736,11 +1736,11 @@ Crunchyroll</b></font>
 
 430
 00:02:07,240 --> 00:02:07,540
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">da, </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">da,</font></font>
 
 431
 00:02:07,290 --> 00:02:07,590
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">se </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">se</font></font>
 
 432
 00:02:07,340 --> 00:02:07,640
@@ -1752,7 +1752,7 @@ Crunchyroll</b></font>
 
 434
 00:02:07,440 --> 00:02:07,740
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">mos </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">mos</font></font>
 
 435
 00:02:07,490 --> 00:02:07,790
@@ -1780,7 +1780,7 @@ Crunchyroll</b></font>
 
 441
 00:02:08,530 --> 00:02:08,930
-<font face="Duality" size="72" color="#378fdc">Até </font>
+<font face="Duality" size="72" color="#378fdc">Até</font>
 
 442
 00:02:08,530 --> 00:02:08,930
@@ -1796,7 +1796,7 @@ Crunchyroll</b></font>
 
 445
 00:02:08,630 --> 00:02:13,950
-<font face="Duality" size="72" color="#378fdc">mo </font>
+<font face="Duality" size="72" color="#378fdc">mo</font>
 
 446
 00:02:08,630 --> 00:02:09,430
@@ -1804,11 +1804,11 @@ Crunchyroll</b></font>
 
 447
 00:02:08,680 --> 00:02:14,000
-<font face="Duality" size="72" color="#378fdc">nas </font>
+<font face="Duality" size="72" color="#378fdc">nas</font>
 
 448
 00:02:08,680 --> 00:02:09,810
-<font face="Duality" size="72" color="#378fdc">n </font>
+<font face="Duality" size="72" color="#378fdc">n</font>
 
 449
 00:02:08,730 --> 00:02:14,050
@@ -1820,11 +1820,11 @@ Crunchyroll</b></font>
 
 451
 00:02:08,780 --> 00:02:14,100
-<font face="Duality" size="72" color="#378fdc">as </font>
+<font face="Duality" size="72" color="#378fdc">as</font>
 
 452
 00:02:08,780 --> 00:02:10,580
-<font face="Duality" size="72" color="#378fdc">ki </font>
+<font face="Duality" size="72" color="#378fdc">ki</font>
 
 453
 00:02:08,830 --> 00:02:14,150
@@ -1832,7 +1832,7 @@ Crunchyroll</b></font>
 
 454
 00:02:08,830 --> 00:02:11,070
-<font face="Duality" size="72" color="#378fdc">na </font>
+<font face="Duality" size="72" color="#378fdc">na</font>
 
 455
 00:02:08,880 --> 00:02:14,200
@@ -1848,7 +1848,7 @@ Crunchyroll</b></font>
 
 458
 00:02:08,930 --> 00:02:14,150
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">Até </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">Até</font></font>
 
 459
 00:02:08,930 --> 00:02:14,250
@@ -1868,11 +1868,11 @@ Crunchyroll</b></font>
 
 463
 00:02:08,980 --> 00:02:14,300
-<font face="Duality" size="72" color="#378fdc">des </font>
+<font face="Duality" size="72" color="#378fdc">des</font>
 
 464
 00:02:08,980 --> 00:02:12,260
-<font face="Duality" size="72" color="#378fdc">shi </font>
+<font face="Duality" size="72" color="#378fdc">shi</font>
 
 465
 00:02:09,030 --> 00:02:14,350
@@ -1880,7 +1880,7 @@ Crunchyroll</b></font>
 
 466
 00:02:09,030 --> 00:02:12,380
-<font face="Duality" size="72" color="#378fdc">wa </font>
+<font face="Duality" size="72" color="#378fdc">wa</font>
 
 467
 00:02:09,060 --> 00:02:09,680
@@ -1900,11 +1900,11 @@ Crunchyroll</b></font>
 
 471
 00:02:09,130 --> 00:02:13,530
-<font face="Duality" size="72" color="#378fdc">re </font>
+<font face="Duality" size="72" color="#378fdc">re</font>
 
 472
 00:02:09,180 --> 00:02:13,720
-<font face="Duality" size="72" color="#378fdc">ka </font>
+<font face="Duality" size="72" color="#378fdc">ka</font>
 
 473
 00:02:09,230 --> 00:02:13,910
@@ -1916,7 +1916,7 @@ Crunchyroll</b></font>
 
 475
 00:02:09,810 --> 00:02:10,740
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">n </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">n</font></font>
 
 476
 00:02:10,490 --> 00:02:10,830
@@ -1924,11 +1924,11 @@ Crunchyroll</b></font>
 
 477
 00:02:10,580 --> 00:02:11,320
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ki </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ki</font></font>
 
 478
 00:02:11,070 --> 00:02:12,030
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">na </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">na</font></font>
 
 479
 00:02:11,780 --> 00:02:12,360
@@ -1940,11 +1940,11 @@ Crunchyroll</b></font>
 
 481
 00:02:12,260 --> 00:02:12,630
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">shi </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">shi</font></font>
 
 482
 00:02:12,380 --> 00:02:13,250
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">wa </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">wa</font></font>
 
 483
 00:02:13,000 --> 00:02:13,780
@@ -1952,11 +1952,11 @@ Crunchyroll</b></font>
 
 484
 00:02:13,530 --> 00:02:13,970
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">re </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">re</font></font>
 
 485
 00:02:13,720 --> 00:02:14,160
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ka </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ka</font></font>
 
 486
 00:02:13,900 --> 00:02:14,200
@@ -1968,11 +1968,11 @@ Crunchyroll</b></font>
 
 488
 00:02:13,950 --> 00:02:14,250
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">mo </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">mo</font></font>
 
 489
 00:02:14,000 --> 00:02:14,300
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">nas </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">nas</font></font>
 
 490
 00:02:14,050 --> 00:02:14,350
@@ -1980,7 +1980,7 @@ Crunchyroll</b></font>
 
 491
 00:02:14,100 --> 00:02:14,400
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">as </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">as</font></font>
 
 492
 00:02:14,150 --> 00:02:14,450
@@ -2004,7 +2004,7 @@ Crunchyroll</b></font>
 
 497
 00:02:14,300 --> 00:02:14,600
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">des </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">des</font></font>
 
 498
 00:02:14,330 --> 00:02:14,730
@@ -2020,7 +2020,7 @@ Crunchyroll</b></font>
 
 501
 00:02:14,380 --> 00:02:18,740
-<font face="Duality" size="72" color="#378fdc">cê </font>
+<font face="Duality" size="72" color="#378fdc">cê</font>
 
 502
 00:02:14,380 --> 00:02:14,820
@@ -2044,7 +2044,7 @@ Crunchyroll</b></font>
 
 507
 00:02:14,480 --> 00:02:18,840
-<font face="Duality" size="72" color="#378fdc">pre </font>
+<font face="Duality" size="72" color="#378fdc">pre</font>
 
 508
 00:02:14,480 --> 00:02:15,500
@@ -2060,7 +2060,7 @@ Crunchyroll</b></font>
 
 511
 00:02:14,580 --> 00:02:18,940
-<font face="Duality" size="72" color="#378fdc">de </font>
+<font face="Duality" size="72" color="#378fdc">de</font>
 
 512
 00:02:14,580 --> 00:02:16,520
@@ -2072,7 +2072,7 @@ Crunchyroll</b></font>
 
 514
 00:02:14,630 --> 00:02:16,780
-<font face="Duality" size="72" color="#378fdc">MU </font>
+<font face="Duality" size="72" color="#378fdc">MU</font>
 
 515
 00:02:14,680 --> 00:02:19,040
@@ -2092,7 +2092,7 @@ Crunchyroll</b></font>
 
 519
 00:02:14,730 --> 00:02:19,090
-<font face="Duality" size="72" color="#378fdc">car </font>
+<font face="Duality" size="72" color="#378fdc">car</font>
 
 520
 00:02:14,730 --> 00:02:14,980
@@ -2108,7 +2108,7 @@ Crunchyroll</b></font>
 
 523
 00:02:14,780 --> 00:02:19,140
-<font face="Duality" size="72" color="#378fdc">no </font>
+<font face="Duality" size="72" color="#378fdc">no</font>
 
 524
 00:02:14,780 --> 00:02:17,860
@@ -2128,11 +2128,11 @@ Crunchyroll</b></font>
 
 528
 00:02:14,880 --> 00:02:19,240
-<font face="Duality" size="72" color="#378fdc">mo </font>
+<font face="Duality" size="72" color="#378fdc">mo</font>
 
 529
 00:02:14,930 --> 00:02:19,290
-<font face="Duality" size="72" color="#378fdc">de </font>
+<font face="Duality" size="72" color="#378fdc">de</font>
 
 530
 00:02:14,980 --> 00:02:19,340
@@ -2140,7 +2140,7 @@ Crunchyroll</b></font>
 
 531
 00:02:15,030 --> 00:02:19,390
-<font face="Duality" size="72" color="#378fdc">tra </font>
+<font face="Duality" size="72" color="#378fdc">tra</font>
 
 532
 00:02:15,080 --> 00:02:19,440
@@ -2172,7 +2172,7 @@ Crunchyroll</b></font>
 
 539
 00:02:16,780 --> 00:02:17,570
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">MU </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">MU</font></font>
 
 540
 00:02:17,320 --> 00:02:17,830
@@ -2192,7 +2192,7 @@ Crunchyroll</b></font>
 
 544
 00:02:18,740 --> 00:02:19,040
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">cê </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">cê</font></font>
 
 545
 00:02:18,790 --> 00:02:19,090
@@ -2200,7 +2200,7 @@ Crunchyroll</b></font>
 
 546
 00:02:18,840 --> 00:02:19,140
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">pre </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">pre</font></font>
 
 547
 00:02:18,890 --> 00:02:19,190
@@ -2208,7 +2208,7 @@ Crunchyroll</b></font>
 
 548
 00:02:18,940 --> 00:02:19,240
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">de </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">de</font></font>
 
 549
 00:02:18,990 --> 00:02:19,290
@@ -2220,11 +2220,11 @@ Crunchyroll</b></font>
 
 551
 00:02:19,090 --> 00:02:19,390
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">car </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">car</font></font>
 
 552
 00:02:19,140 --> 00:02:19,440
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">no </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">no</font></font>
 
 553
 00:02:19,190 --> 00:02:19,490
@@ -2232,11 +2232,11 @@ Crunchyroll</b></font>
 
 554
 00:02:19,240 --> 00:02:19,540
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">mo </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">mo</font></font>
 
 555
 00:02:19,290 --> 00:02:19,590
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">de </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">de</font></font>
 
 556
 00:02:19,340 --> 00:02:19,640
@@ -2244,7 +2244,7 @@ Crunchyroll</b></font>
 
 557
 00:02:19,390 --> 00:02:19,690
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">tra </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">tra</font></font>
 
 558
 00:02:19,440 --> 00:02:19,740
@@ -2268,7 +2268,7 @@ Crunchyroll</b></font>
 
 563
 00:02:19,550 --> 00:02:19,950
-<font face="Duality" size="72" color="#378fdc">e </font>
+<font face="Duality" size="72" color="#378fdc">e</font>
 
 564
 00:02:19,550 --> 00:02:19,950
@@ -2276,7 +2276,7 @@ Crunchyroll</b></font>
 
 565
 00:02:19,600 --> 00:02:21,690
-<font face="Duality" size="72" color="#378fdc">só </font>
+<font face="Duality" size="72" color="#378fdc">só</font>
 
 566
 00:02:19,600 --> 00:02:20,020
@@ -2292,11 +2292,11 @@ Crunchyroll</b></font>
 
 569
 00:02:19,700 --> 00:02:21,790
-<font face="Duality" size="72" color="#378fdc">xar </font>
+<font face="Duality" size="72" color="#378fdc">xar</font>
 
 570
 00:02:19,700 --> 00:02:20,350
-<font face="Duality" size="72" color="#378fdc">i </font>
+<font face="Duality" size="72" color="#378fdc">i</font>
 
 571
 00:02:19,750 --> 00:02:21,840
@@ -2308,7 +2308,7 @@ Crunchyroll</b></font>
 
 573
 00:02:19,800 --> 00:02:21,890
-<font face="Duality" size="72" color="#378fdc">do </font>
+<font face="Duality" size="72" color="#378fdc">do</font>
 
 574
 00:02:19,800 --> 00:02:20,720
@@ -2328,7 +2328,7 @@ Crunchyroll</b></font>
 
 578
 00:02:19,900 --> 00:02:21,110
-<font face="Duality" size="72" color="#378fdc">ba </font>
+<font face="Duality" size="72" color="#378fdc">ba</font>
 
 579
 00:02:19,950 --> 00:02:20,200
@@ -2336,7 +2336,7 @@ Crunchyroll</b></font>
 
 580
 00:02:19,950 --> 00:02:21,940
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">e </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">e</font></font>
 
 581
 00:02:19,950 --> 00:02:20,200
@@ -2360,7 +2360,7 @@ Crunchyroll</b></font>
 
 586
 00:02:20,350 --> 00:02:20,710
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">i </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">i</font></font>
 
 587
 00:02:20,460 --> 00:02:20,970
@@ -2376,7 +2376,7 @@ Crunchyroll</b></font>
 
 590
 00:02:21,110 --> 00:02:21,530
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ba </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ba</font></font>
 
 591
 00:02:21,280 --> 00:02:22,040
@@ -2384,7 +2384,7 @@ Crunchyroll</b></font>
 
 592
 00:02:21,690 --> 00:02:21,990
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">só </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">só</font></font>
 
 593
 00:02:21,740 --> 00:02:22,040
@@ -2392,7 +2392,7 @@ Crunchyroll</b></font>
 
 594
 00:02:21,790 --> 00:02:22,090
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">xar </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">xar</font></font>
 
 595
 00:02:21,840 --> 00:02:22,140
@@ -2400,7 +2400,7 @@ Crunchyroll</b></font>
 
 596
 00:02:21,890 --> 00:02:22,190
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">do </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">do</font></font>
 
 597
 00:02:21,940 --> 00:02:22,240
@@ -2436,7 +2436,7 @@ Crunchyroll</b></font>
 
 605
 00:02:23,360 --> 00:02:28,630
-<font face="Duality" size="72" color="#378fdc">do </font>
+<font face="Duality" size="72" color="#378fdc">do</font>
 
 606
 00:02:23,360 --> 00:02:23,820
@@ -2452,19 +2452,19 @@ Crunchyroll</b></font>
 
 609
 00:02:23,460 --> 00:02:28,730
-<font face="Duality" size="72" color="#378fdc">dos </font>
+<font face="Duality" size="72" color="#378fdc">dos</font>
 
 610
 00:02:23,460 --> 00:02:24,100
-<font face="Duality" size="72" color="#378fdc">ke </font>
+<font face="Duality" size="72" color="#378fdc">ke</font>
 
 611
 00:02:23,510 --> 00:02:28,780
-<font face="Duality" size="72" color="#378fdc">os </font>
+<font face="Duality" size="72" color="#378fdc">os</font>
 
 612
 00:02:23,510 --> 00:02:24,300
-<font face="Duality" size="72" color="#378fdc">no </font>
+<font face="Duality" size="72" color="#378fdc">no</font>
 
 613
 00:02:23,560 --> 00:02:28,830
@@ -2476,11 +2476,11 @@ Crunchyroll</b></font>
 
 615
 00:02:23,610 --> 00:02:28,880
-<font face="Duality" size="72" color="#378fdc">sos </font>
+<font face="Duality" size="72" color="#378fdc">sos</font>
 
 616
 00:02:23,610 --> 00:02:25,160
-<font face="Duality" size="72" color="#378fdc">me </font>
+<font face="Duality" size="72" color="#378fdc">me</font>
 
 617
 00:02:23,660 --> 00:02:23,910
@@ -2512,7 +2512,7 @@ Crunchyroll</b></font>
 
 624
 00:02:23,710 --> 00:02:26,320
-<font face="Duality" size="72" color="#378fdc"> </font>
+<font face="Duality" size="72" color="#378fdc"></font>
 
 625
 00:02:23,730 --> 00:02:24,070
@@ -2524,7 +2524,7 @@ Crunchyroll</b></font>
 
 627
 00:02:23,810 --> 00:02:26,770
-<font face="Duality" size="72" color="#378fdc">ki </font>
+<font face="Duality" size="72" color="#378fdc">ki</font>
 
 628
 00:02:23,820 --> 00:02:24,160
@@ -2548,11 +2548,11 @@ Crunchyroll</b></font>
 
 633
 00:02:24,100 --> 00:02:24,550
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ke </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ke</font></font>
 
 634
 00:02:24,300 --> 00:02:25,070
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">no </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">no</font></font>
 
 635
 00:02:24,820 --> 00:02:25,410
@@ -2560,7 +2560,7 @@ Crunchyroll</b></font>
 
 636
 00:02:25,160 --> 00:02:25,610
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">me </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">me</font></font>
 
 637
 00:02:25,360 --> 00:02:26,570
@@ -2568,7 +2568,7 @@ Crunchyroll</b></font>
 
 638
 00:02:26,320 --> 00:02:26,880
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8"> </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8"></font></font>
 
 639
 00:02:26,630 --> 00:02:27,020
@@ -2576,7 +2576,7 @@ Crunchyroll</b></font>
 
 640
 00:02:26,770 --> 00:02:27,210
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ki </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ki</font></font>
 
 641
 00:02:26,960 --> 00:02:27,490
@@ -2596,7 +2596,7 @@ Crunchyroll</b></font>
 
 645
 00:02:28,630 --> 00:02:28,930
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">do </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">do</font></font>
 
 646
 00:02:28,680 --> 00:02:28,980
@@ -2612,7 +2612,7 @@ Crunchyroll</b></font>
 
 649
 00:02:28,730 --> 00:02:29,030
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">dos </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">dos</font></font>
 
 650
 00:02:28,760 --> 00:02:29,160
@@ -2624,11 +2624,11 @@ Crunchyroll</b></font>
 
 652
 00:02:28,780 --> 00:02:29,080
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">os </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">os</font></font>
 
 653
 00:02:28,810 --> 00:02:33,870
-<font face="Duality" size="72" color="#378fdc">mos </font>
+<font face="Duality" size="72" color="#378fdc">mos</font>
 
 654
 00:02:28,810 --> 00:02:29,230
@@ -2648,15 +2648,15 @@ Crunchyroll</b></font>
 
 658
 00:02:28,880 --> 00:02:29,180
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">sos </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">sos</font></font>
 
 659
 00:02:28,910 --> 00:02:33,970
-<font face="Duality" size="72" color="#378fdc">tir </font>
+<font face="Duality" size="72" color="#378fdc">tir</font>
 
 660
 00:02:28,910 --> 00:02:29,580
-<font face="Duality" size="72" color="#378fdc">shi </font>
+<font face="Duality" size="72" color="#378fdc">shi</font>
 
 661
 00:02:28,930 --> 00:02:29,230
@@ -2676,11 +2676,11 @@ Crunchyroll</b></font>
 
 665
 00:02:29,010 --> 00:02:34,070
-<font face="Duality" size="72" color="#378fdc">ra </font>
+<font face="Duality" size="72" color="#378fdc">ra</font>
 
 666
 00:02:29,010 --> 00:02:30,030
-<font face="Duality" size="72" color="#378fdc">no </font>
+<font face="Duality" size="72" color="#378fdc">no</font>
 
 667
 00:02:29,060 --> 00:02:34,120
@@ -2688,7 +2688,7 @@ Crunchyroll</b></font>
 
 668
 00:02:29,060 --> 00:02:30,180
-<font face="Duality" size="72" color="#378fdc">wo </font>
+<font face="Duality" size="72" color="#378fdc">wo</font>
 
 669
 00:02:29,110 --> 00:02:34,170
@@ -2708,7 +2708,7 @@ Crunchyroll</b></font>
 
 673
 00:02:29,160 --> 00:02:34,220
-<font face="Duality" size="72" color="#378fdc">rar </font>
+<font face="Duality" size="72" color="#378fdc">rar</font>
 
 674
 00:02:29,160 --> 00:02:29,410
@@ -2724,11 +2724,11 @@ Crunchyroll</b></font>
 
 677
 00:02:29,210 --> 00:02:34,270
-<font face="Duality" size="72" color="#378fdc">o </font>
+<font face="Duality" size="72" color="#378fdc">o</font>
 
 678
 00:02:29,210 --> 00:02:30,980
-<font face="Duality" size="72" color="#378fdc">shi </font>
+<font face="Duality" size="72" color="#378fdc">shi</font>
 
 679
 00:02:29,230 --> 00:02:29,700
@@ -2736,11 +2736,11 @@ Crunchyroll</b></font>
 
 680
 00:02:29,260 --> 00:02:34,320
-<font face="Duality" size="72" color="#378fdc">que </font>
+<font face="Duality" size="72" color="#378fdc">que</font>
 
 681
 00:02:29,260 --> 00:02:31,600
-<font face="Duality" size="72" color="#378fdc">ni </font>
+<font face="Duality" size="72" color="#378fdc">ni</font>
 
 682
 00:02:29,310 --> 00:02:34,370
@@ -2756,7 +2756,7 @@ Crunchyroll</b></font>
 
 685
 00:02:29,360 --> 00:02:32,320
-<font face="Duality" size="72" color="#378fdc">ku </font>
+<font face="Duality" size="72" color="#378fdc">ku</font>
 
 686
 00:02:29,410 --> 00:02:34,470
@@ -2764,7 +2764,7 @@ Crunchyroll</b></font>
 
 687
 00:02:29,410 --> 00:02:32,650
-<font face="Duality" size="72" color="#378fdc">no </font>
+<font face="Duality" size="72" color="#378fdc">no</font>
 
 688
 00:02:29,450 --> 00:02:29,830
@@ -2776,7 +2776,7 @@ Crunchyroll</b></font>
 
 690
 00:02:29,580 --> 00:02:30,060
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">shi </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">shi</font></font>
 
 691
 00:02:29,810 --> 00:02:30,280
@@ -2784,11 +2784,11 @@ Crunchyroll</b></font>
 
 692
 00:02:30,030 --> 00:02:30,430
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">no </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">no</font></font>
 
 693
 00:02:30,180 --> 00:02:30,720
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">wo </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">wo</font></font>
 
 694
 00:02:30,470 --> 00:02:31,140
@@ -2800,11 +2800,11 @@ Crunchyroll</b></font>
 
 696
 00:02:30,980 --> 00:02:31,850
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">shi </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">shi</font></font>
 
 697
 00:02:31,600 --> 00:02:32,210
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ni </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ni</font></font>
 
 698
 00:02:31,960 --> 00:02:32,570
@@ -2812,11 +2812,11 @@ Crunchyroll</b></font>
 
 699
 00:02:32,320 --> 00:02:32,900
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ku </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ku</font></font>
 
 700
 00:02:32,650 --> 00:02:33,160
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">no </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">no</font></font>
 
 701
 00:02:32,910 --> 00:02:34,960
@@ -2824,7 +2824,7 @@ Crunchyroll</b></font>
 
 702
 00:02:33,870 --> 00:02:34,170
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">mos </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">mos</font></font>
 
 703
 00:02:33,920 --> 00:02:34,220
@@ -2832,7 +2832,7 @@ Crunchyroll</b></font>
 
 704
 00:02:33,970 --> 00:02:34,270
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">tir </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">tir</font></font>
 
 705
 00:02:34,020 --> 00:02:34,320
@@ -2840,7 +2840,7 @@ Crunchyroll</b></font>
 
 706
 00:02:34,070 --> 00:02:34,370
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">ra </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">ra</font></font>
 
 707
 00:02:34,120 --> 00:02:34,420
@@ -2852,15 +2852,15 @@ Crunchyroll</b></font>
 
 709
 00:02:34,220 --> 00:02:34,520
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">rar </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">rar</font></font>
 
 710
 00:02:34,270 --> 00:02:34,570
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">o </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">o</font></font>
 
 711
 00:02:34,320 --> 00:02:34,620
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">que </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">que</font></font>
 
 712
 00:02:34,370 --> 00:02:34,670
@@ -2884,7 +2884,7 @@ Crunchyroll</b></font>
 
 717
 00:02:34,480 --> 00:02:34,880
-<font face="Duality" size="72" color="#378fdc">Com </font>
+<font face="Duality" size="72" color="#378fdc">Com</font>
 
 718
 00:02:34,480 --> 00:02:34,880
@@ -2900,7 +2900,7 @@ Crunchyroll</b></font>
 
 721
 00:02:34,580 --> 00:02:37,610
-<font face="Duality" size="72" color="#378fdc">ma </font>
+<font face="Duality" size="72" color="#378fdc">ma</font>
 
 722
 00:02:34,580 --> 00:02:35,150
@@ -2912,7 +2912,7 @@ Crunchyroll</b></font>
 
 724
 00:02:34,630 --> 00:02:35,520
-<font face="Duality" size="72" color="#378fdc">TTO </font>
+<font face="Duality" size="72" color="#378fdc">TTO</font>
 
 725
 00:02:34,680 --> 00:02:37,710
@@ -2920,11 +2920,11 @@ Crunchyroll</b></font>
 
 726
 00:02:34,680 --> 00:02:36,090
-<font face="Duality" size="72" color="#378fdc">no </font>
+<font face="Duality" size="72" color="#378fdc">no</font>
 
 727
 00:02:34,730 --> 00:02:37,760
-<font face="Duality" size="72" color="#378fdc">da </font>
+<font face="Duality" size="72" color="#378fdc">da</font>
 
 728
 00:02:34,730 --> 00:02:36,610
@@ -2932,7 +2932,7 @@ Crunchyroll</b></font>
 
 729
 00:02:34,780 --> 00:02:37,810
-<font face="Duality" size="72" color="#378fdc">no </font>
+<font face="Duality" size="72" color="#378fdc">no</font>
 
 730
 00:02:34,780 --> 00:02:36,890
@@ -2948,7 +2948,7 @@ Crunchyroll</b></font>
 
 733
 00:02:34,880 --> 00:02:37,810
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">Com </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">Com</font></font>
 
 734
 00:02:34,880 --> 00:02:37,910
@@ -2972,11 +2972,11 @@ Crunchyroll</b></font>
 
 739
 00:02:35,520 --> 00:02:36,340
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">TTO </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">TTO</font></font>
 
 740
 00:02:36,090 --> 00:02:36,860
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">no </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">no</font></font>
 
 741
 00:02:36,610 --> 00:02:37,140
@@ -3004,7 +3004,7 @@ Crunchyroll</b></font>
 
 747
 00:02:37,240 --> 00:02:40,580
-<font face="Duality" size="72" color="#378fdc">cê </font>
+<font face="Duality" size="72" color="#378fdc">cê</font>
 
 748
 00:02:37,240 --> 00:02:37,790
@@ -3020,19 +3020,19 @@ Crunchyroll</b></font>
 
 751
 00:02:37,340 --> 00:02:40,680
-<font face="Duality" size="72" color="#378fdc">er </font>
+<font face="Duality" size="72" color="#378fdc">er</font>
 
 752
 00:02:37,340 --> 00:02:38,210
-<font face="Duality" size="72" color="#378fdc">to </font>
+<font face="Duality" size="72" color="#378fdc">to</font>
 
 753
 00:02:37,390 --> 00:02:40,730
-<font face="Duality" size="72" color="#378fdc">ser </font>
+<font face="Duality" size="72" color="#378fdc">ser</font>
 
 754
 00:02:37,390 --> 00:02:38,320
-<font face="Duality" size="72" color="#378fdc">You </font>
+<font face="Duality" size="72" color="#378fdc">You</font>
 
 755
 00:02:37,440 --> 00:02:40,780
@@ -3044,11 +3044,11 @@ Crunchyroll</b></font>
 
 757
 00:02:37,490 --> 00:02:40,830
-<font face="Duality" size="72" color="#378fdc">u </font>
+<font face="Duality" size="72" color="#378fdc">u</font>
 
 758
 00:02:37,490 --> 00:02:38,720
-<font face="Duality" size="72" color="#378fdc">na </font>
+<font face="Duality" size="72" color="#378fdc">na</font>
 
 759
 00:02:37,540 --> 00:02:40,880
@@ -3056,7 +3056,7 @@ Crunchyroll</b></font>
 
 760
 00:02:37,540 --> 00:02:38,910
-<font face="Duality" size="72" color="#378fdc">be </font>
+<font face="Duality" size="72" color="#378fdc">be</font>
 
 761
 00:02:37,560 --> 00:02:37,860
@@ -3084,11 +3084,11 @@ Crunchyroll</b></font>
 
 767
 00:02:37,590 --> 00:02:39,270
-<font face="Duality" size="72" color="#378fdc">my </font>
+<font face="Duality" size="72" color="#378fdc">my</font>
 
 768
 00:02:37,610 --> 00:02:37,910
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">ma </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">ma</font></font>
 
 769
 00:02:37,640 --> 00:02:40,980
@@ -3108,7 +3108,7 @@ Crunchyroll</b></font>
 
 773
 00:02:37,760 --> 00:02:38,060
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">da </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">da</font></font>
 
 774
 00:02:37,790 --> 00:02:38,280
@@ -3116,7 +3116,7 @@ Crunchyroll</b></font>
 
 775
 00:02:37,810 --> 00:02:38,110
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">no </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">no</font></font>
 
 776
 00:02:37,860 --> 00:02:38,160
@@ -3132,11 +3132,11 @@ Crunchyroll</b></font>
 
 779
 00:02:38,210 --> 00:02:38,570
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">to </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">to</font></font>
 
 780
 00:02:38,320 --> 00:02:38,830
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">You </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">You</font></font>
 
 781
 00:02:38,580 --> 00:02:38,970
@@ -3144,15 +3144,15 @@ Crunchyroll</b></font>
 
 782
 00:02:38,720 --> 00:02:39,160
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">na </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">na</font></font>
 
 783
 00:02:38,910 --> 00:02:39,520
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">be </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">be</font></font>
 
 784
 00:02:39,270 --> 00:02:39,820
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">my </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">my</font></font>
 
 785
 00:02:39,570 --> 00:02:41,030
@@ -3160,7 +3160,7 @@ Crunchyroll</b></font>
 
 786
 00:02:40,580 --> 00:02:40,880
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">cê </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">cê</font></font>
 
 787
 00:02:40,630 --> 00:02:40,930
@@ -3172,7 +3172,7 @@ Crunchyroll</b></font>
 
 789
 00:02:40,680 --> 00:02:40,980
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">er </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">er</font></font>
 
 790
 00:02:40,690 --> 00:02:41,090
@@ -3180,11 +3180,11 @@ Crunchyroll</b></font>
 
 791
 00:02:40,730 --> 00:02:41,030
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">ser </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">ser</font></font>
 
 792
 00:02:40,740 --> 00:02:41,210
-<font face="Duality" size="72" color="#378fdc">We </font>
+<font face="Duality" size="72" color="#378fdc">We</font>
 
 793
 00:02:40,780 --> 00:02:41,080
@@ -3192,15 +3192,15 @@ Crunchyroll</b></font>
 
 794
 00:02:40,790 --> 00:02:41,750
-<font face="Duality" size="72" color="#378fdc">are, </font>
+<font face="Duality" size="72" color="#378fdc">are,</font>
 
 795
 00:02:40,830 --> 00:02:41,130
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">u </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">u</font></font>
 
 796
 00:02:40,840 --> 00:02:42,660
-<font face="Duality" size="72" color="#378fdc">We </font>
+<font face="Duality" size="72" color="#378fdc">We</font>
 
 797
 00:02:40,880 --> 00:02:41,180
@@ -3208,7 +3208,7 @@ Crunchyroll</b></font>
 
 798
 00:02:40,890 --> 00:02:43,190
-<font face="Duality" size="72" color="#378fdc">are </font>
+<font face="Duality" size="72" color="#378fdc">are</font>
 
 799
 00:02:40,930 --> 00:02:41,230
@@ -3216,7 +3216,7 @@ Crunchyroll</b></font>
 
 800
 00:02:40,940 --> 00:02:43,690
-<font face="Duality" size="72" color="#378fdc">on </font>
+<font face="Duality" size="72" color="#378fdc">on</font>
 
 801
 00:02:40,980 --> 00:02:41,280
@@ -3224,7 +3224,7 @@ Crunchyroll</b></font>
 
 802
 00:02:40,990 --> 00:02:43,890
-<font face="Duality" size="72" color="#378fdc">the </font>
+<font face="Duality" size="72" color="#378fdc">the</font>
 
 803
 00:02:41,040 --> 00:02:44,060
@@ -3240,27 +3240,27 @@ Crunchyroll</b></font>
 
 806
 00:02:41,210 --> 00:02:42,000
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">We </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">We</font></font>
 
 807
 00:02:41,750 --> 00:02:42,910
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">are, </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">are,</font></font>
 
 808
 00:02:42,660 --> 00:02:43,440
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">We </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">We</font></font>
 
 809
 00:02:43,190 --> 00:02:43,940
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">are </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">are</font></font>
 
 810
 00:02:43,690 --> 00:02:44,140
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">on </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">on</font></font>
 
 811
 00:02:43,890 --> 00:02:44,310
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">the </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">the</font></font>
 
 812
 00:02:44,060 --> 00:02:45,910
@@ -3276,7 +3276,7 @@ Crunchyroll</b></font>
 
 815
 00:02:46,120 --> 00:02:46,640
-<font face="Duality" size="72" color="#378fdc">We </font>
+<font face="Duality" size="72" color="#378fdc">We</font>
 
 816
 00:02:46,170 --> 00:02:46,940
@@ -3292,7 +3292,7 @@ Crunchyroll</b></font>
 
 819
 00:02:46,640 --> 00:02:47,190
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">We </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">We</font></font>
 
 820
 00:02:46,940 --> 00:02:47,570

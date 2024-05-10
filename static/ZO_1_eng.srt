@@ -1,58 +1,58 @@
 1
 00:00:00,040 --> 00:00:00,520
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}</font>
+<font face="Poneglyph" size="32" color="#3834aa"></font>
 
 2
 00:00:00,120 --> 00:00:00,600
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}ko</font>
+<font face="Poneglyph" size="32" color="#3834aa">ko</font>
 
 3
 00:00:00,200 --> 00:00:00,680
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}n</font>
+<font face="Poneglyph" size="32" color="#3834aa">n</font>
 
 4
 00:00:00,280 --> 00:00:00,760
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}os</font>
+<font face="Poneglyph" size="32" color="#3834aa">os</font>
 
 5
 00:00:00,360 --> 00:00:00,840
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}e</font>
+<font face="Poneglyph" size="32" color="#3834aa">e</font>
 
 6
 00:00:00,440 --> 00:00:00,920
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}k</font>
+<font face="Poneglyph" size="32" color="#3834aa">k</font>
 
 7
 00:00:00,520 --> 00:00:01,000
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}a</font>
+<font face="Poneglyph" size="32" color="#3834aa">a</font>
 
 8
 00:00:00,520 --> 00:00:01,000
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}</font>
+<font face="Aero Matics Display" size="50" color="#3834aa"></font>
 
 9
 00:00:00,600 --> 00:00:01,080
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}nh</font>
+<font face="Poneglyph" size="32" color="#3834aa">nh</font>
 
 10
 00:00:00,600 --> 00:00:01,000
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ko</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ko</font>
 
 11
 00:00:00,680 --> 00:00:01,160
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}a</font>
+<font face="Poneglyph" size="32" color="#3834aa">a</font>
 
 12
 00:00:00,680 --> 00:00:01,180
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}no</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">no</font>
 
 13
 00:00:00,760 --> 00:00:01,240
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}n</font>
+<font face="Poneglyph" size="32" color="#3834aa">n</font>
 
 14
 00:00:00,760 --> 00:00:01,350
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}se</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">se</font>
 
 15
 00:00:00,820 --> 00:00:03,440
@@ -60,171 +60,171 @@
 
 16
 00:00:00,840 --> 00:00:01,320
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}a</font>
+<font face="Poneglyph" size="32" color="#3834aa">a</font>
 
 17
 00:00:00,840 --> 00:00:01,500
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ka</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ka</font>
 
 18
 00:00:00,920 --> 00:00:01,400
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}n</font>
+<font face="Poneglyph" size="32" color="#3834aa">n</font>
 
 19
 00:00:00,920 --> 00:00:01,660
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}i</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">i</font>
 
 20
 00:00:01,000 --> 00:00:03,650
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff"></font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff"></font></font>
 
 21
 00:00:01,000 --> 00:00:03,650
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ko</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ko</font></font>
 
 22
 00:00:01,000 --> 00:00:02,010
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}no</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">no</font>
 
 23
 00:00:01,080 --> 00:00:02,160
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ha</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ha</font>
 
 24
 00:00:01,160 --> 00:00:02,540
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}te</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">te</font>
 
 25
 00:00:01,180 --> 00:00:03,650
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">no</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">no</font></font>
 
 26
 00:00:01,240 --> 00:00:02,860
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}na</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">na</font>
 
 27
 00:00:01,320 --> 00:00:03,180
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}n</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">n</font>
 
 28
 00:00:01,350 --> 00:00:03,650
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">se</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">se</font></font>
 
 29
 00:00:01,400 --> 00:00:03,350
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}te</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">te</font>
 
 30
 00:00:01,500 --> 00:00:03,650
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ka</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ka</font></font>
 
 31
 00:00:01,660 --> 00:00:03,650
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">i</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">i</font></font>
 
 32
 00:00:02,010 --> 00:00:03,650
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">no</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">no</font></font>
 
 33
 00:00:02,160 --> 00:00:03,650
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ha</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ha</font></font>
 
 34
 00:00:02,540 --> 00:00:03,650
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">te</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">te</font></font>
 
 35
 00:00:02,610 --> 00:00:02,770
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}</font>
+<font face="Poneglyph" size="32" color="#3834aa"></font>
 
 36
 00:00:02,690 --> 00:00:02,850
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}k</font>
+<font face="Poneglyph" size="32" color="#3834aa">k</font>
 
 37
 00:00:02,770 --> 00:00:02,930
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}on</font>
+<font face="Poneglyph" size="32" color="#3834aa">on</font>
 
 38
 00:00:02,770 --> 00:00:03,650
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}</font>
+<font face="Aero Matics Display" size="50" color="#3834aa"></font>
 
 39
 00:00:02,850 --> 00:00:03,010
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}om</font>
+<font face="Poneglyph" size="32" color="#3834aa">om</font>
 
 40
 00:00:02,850 --> 00:00:03,650
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ko</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ko</font>
 
 41
 00:00:02,860 --> 00:00:03,650
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">na</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">na</font></font>
 
 42
 00:00:02,930 --> 00:00:03,090
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}ed</font>
+<font face="Poneglyph" size="32" color="#3834aa">ed</font>
 
 43
 00:00:02,930 --> 00:00:03,840
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}no</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">no</font>
 
 44
 00:00:03,010 --> 00:00:03,170
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}e</font>
+<font face="Poneglyph" size="32" color="#3834aa">e</font>
 
 45
 00:00:03,010 --> 00:00:04,010
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}me</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">me</font>
 
 46
 00:00:03,090 --> 00:00:03,250
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}m</font>
+<font face="Poneglyph" size="32" color="#3834aa">m</font>
 
 47
 00:00:03,090 --> 00:00:04,150
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}de</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">de</font>
 
 48
 00:00:03,170 --> 00:00:03,330
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}it</font>
+<font face="Poneglyph" size="32" color="#3834aa">it</font>
 
 49
 00:00:03,170 --> 00:00:04,320
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}mi</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">mi</font>
 
 50
 00:00:03,180 --> 00:00:03,650
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">n</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">n</font></font>
 
 51
 00:00:03,250 --> 00:00:03,410
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}a</font>
+<font face="Poneglyph" size="32" color="#3834aa">a</font>
 
 52
 00:00:03,250 --> 00:00:04,660
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ta</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ta</font>
 
 53
 00:00:03,330 --> 00:00:03,490
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}w</font>
+<font face="Poneglyph" size="32" color="#3834aa">w</font>
 
 54
 00:00:03,330 --> 00:00:04,860
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}wa</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">wa</font>
 
 55
 00:00:03,350 --> 00:00:03,650
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">te</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">te</font></font>
 
 56
 00:00:03,410 --> 00:00:03,570
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}a</font>
+<font face="Poneglyph" size="32" color="#3834aa">a</font>
 
 57
 00:00:03,410 --> 00:00:05,200
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ke</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ke</font>
 
 58
 00:00:03,440 --> 00:00:06,820
@@ -232,179 +232,179 @@
 
 59
 00:00:03,490 --> 00:00:03,650
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}k</font>
+<font face="Poneglyph" size="32" color="#3834aa">k</font>
 
 60
 00:00:03,490 --> 00:00:05,480
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ja</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ja</font>
 
 61
 00:00:03,570 --> 00:00:05,840
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}na</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">na</font>
 
 62
 00:00:03,650 --> 00:00:06,690
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff"></font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff"></font></font>
 
 63
 00:00:03,650 --> 00:00:06,690
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ko</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ko</font></font>
 
 64
 00:00:03,650 --> 00:00:06,180
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}i</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">i</font>
 
 65
 00:00:03,840 --> 00:00:06,690
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">k</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">k</font></font>
 
 66
 00:00:03,840 --> 00:00:06,690
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">no</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">no</font></font>
 
 67
 00:00:04,010 --> 00:00:06,690
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">on</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">on</font></font>
 
 68
 00:00:04,010 --> 00:00:06,690
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">me</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">me</font></font>
 
 69
 00:00:04,150 --> 00:00:06,690
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">om</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">om</font></font>
 
 70
 00:00:04,150 --> 00:00:06,690
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">de</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">de</font></font>
 
 71
 00:00:04,320 --> 00:00:06,690
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">ed</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">ed</font></font>
 
 72
 00:00:04,320 --> 00:00:06,690
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">mi</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">mi</font></font>
 
 73
 00:00:04,660 --> 00:00:06,690
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">e</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">e</font></font>
 
 74
 00:00:04,660 --> 00:00:06,690
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ta</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ta</font></font>
 
 75
 00:00:04,860 --> 00:00:06,690
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">m</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">m</font></font>
 
 76
 00:00:04,860 --> 00:00:06,690
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">wa</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">wa</font></font>
 
 77
 00:00:05,200 --> 00:00:06,690
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">it</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">it</font></font>
 
 78
 00:00:05,200 --> 00:00:06,690
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ke</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ke</font></font>
 
 79
 00:00:05,480 --> 00:00:06,690
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">a</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">a</font></font>
 
 80
 00:00:05,480 --> 00:00:06,690
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ja</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ja</font></font>
 
 81
 00:00:05,800 --> 00:00:06,520
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}</font>
+<font face="Poneglyph" size="32" color="#3834aa"></font>
 
 82
 00:00:05,840 --> 00:00:06,690
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">w</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">w</font></font>
 
 83
 00:00:05,840 --> 00:00:06,690
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">na</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">na</font></font>
 
 84
 00:00:05,880 --> 00:00:06,600
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}d</font>
+<font face="Poneglyph" size="32" color="#3834aa">d</font>
 
 85
 00:00:05,960 --> 00:00:06,680
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}ak</font>
+<font face="Poneglyph" size="32" color="#3834aa">ak</font>
 
 86
 00:00:06,040 --> 00:00:06,760
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}a</font>
+<font face="Poneglyph" size="32" color="#3834aa">a</font>
 
 87
 00:00:06,120 --> 00:00:06,840
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}r</font>
+<font face="Poneglyph" size="32" color="#3834aa">r</font>
 
 88
 00:00:06,180 --> 00:00:06,690
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">a</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">a</font></font>
 
 89
 00:00:06,180 --> 00:00:06,690
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">i</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">i</font></font>
 
 90
 00:00:06,200 --> 00:00:06,920
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}a</font>
+<font face="Poneglyph" size="32" color="#3834aa">a</font>
 
 91
 00:00:06,280 --> 00:00:07,000
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}t</font>
+<font face="Poneglyph" size="32" color="#3834aa">t</font>
 
 92
 00:00:06,360 --> 00:00:07,080
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}a</font>
+<font face="Poneglyph" size="32" color="#3834aa">a</font>
 
 93
 00:00:06,440 --> 00:00:07,160
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}b</font>
+<font face="Poneglyph" size="32" color="#3834aa">b</font>
 
 94
 00:00:06,480 --> 00:00:06,720
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">k</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">k</font></font>
 
 95
 00:00:06,520 --> 00:00:07,240
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}id</font>
+<font face="Poneglyph" size="32" color="#3834aa">id</font>
 
 96
 00:00:06,520 --> 00:00:07,000
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}</font>
+<font face="Aero Matics Display" size="50" color="#3834aa"></font>
 
 97
 00:00:06,600 --> 00:00:07,320
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}a</font>
+<font face="Poneglyph" size="32" color="#3834aa">a</font>
 
 98
 00:00:06,600 --> 00:00:07,000
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}da</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">da</font>
 
 99
 00:00:06,680 --> 00:00:07,400
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}t</font>
+<font face="Poneglyph" size="32" color="#3834aa">t</font>
 
 100
 00:00:06,680 --> 00:00:07,150
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ka</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ka</font>
 
 101
 00:00:06,760 --> 00:00:07,480
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}su</font>
+<font face="Poneglyph" size="32" color="#3834aa">su</font>
 
 102
 00:00:06,760 --> 00:00:07,350
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ra</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ra</font>
 
 103
 00:00:06,820 --> 00:00:13,950
@@ -412,219 +412,219 @@
 
 104
 00:00:06,840 --> 00:00:07,560
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}nd</font>
+<font face="Poneglyph" size="32" color="#3834aa">nd</font>
 
 105
 00:00:06,840 --> 00:00:07,500
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ta</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ta</font>
 
 106
 00:00:06,920 --> 00:00:07,640
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}ak</font>
+<font face="Poneglyph" size="32" color="#3834aa">ak</font>
 
 107
 00:00:06,920 --> 00:00:07,680
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}bi</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">bi</font>
 
 108
 00:00:07,000 --> 00:00:13,950
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff"></font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff"></font></font>
 
 109
 00:00:07,000 --> 00:00:13,950
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">da</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">da</font></font>
 
 110
 00:00:07,000 --> 00:00:08,000
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}da</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">da</font>
 
 111
 00:00:07,080 --> 00:00:08,170
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}tsu</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">tsu</font>
 
 112
 00:00:07,150 --> 00:00:13,950
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">d</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">d</font></font>
 
 113
 00:00:07,150 --> 00:00:13,950
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ka</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ka</font></font>
 
 114
 00:00:07,160 --> 00:00:08,520
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}n</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">n</font>
 
 115
 00:00:07,240 --> 00:00:08,860
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}da</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">da</font>
 
 116
 00:00:07,320 --> 00:00:09,660
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ki</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ki</font>
 
 117
 00:00:07,350 --> 00:00:13,950
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">ak</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">ak</font></font>
 
 118
 00:00:07,350 --> 00:00:13,950
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ra</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ra</font></font>
 
 119
 00:00:07,400 --> 00:00:10,020
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}mi</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">mi</font>
 
 120
 00:00:07,480 --> 00:00:10,290
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}to</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">to</font>
 
 121
 00:00:07,500 --> 00:00:13,950
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">a</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">a</font></font>
 
 122
 00:00:07,500 --> 00:00:13,950
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ta</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ta</font></font>
 
 123
 00:00:07,560 --> 00:00:11,610
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}we</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">we</font>
 
 124
 00:00:07,640 --> 00:00:12,940
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}can!</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">can!</font>
 
 125
 00:00:07,680 --> 00:00:13,950
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">r</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">r</font></font>
 
 126
 00:00:07,680 --> 00:00:13,950
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">bi</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">bi</font></font>
 
 127
 00:00:08,000 --> 00:00:13,950
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">a</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">a</font></font>
 
 128
 00:00:08,000 --> 00:00:13,950
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">da</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">da</font></font>
 
 129
 00:00:08,170 --> 00:00:13,950
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">t</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">t</font></font>
 
 130
 00:00:08,170 --> 00:00:13,950
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">tsu</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">tsu</font></font>
 
 131
 00:00:08,520 --> 00:00:13,950
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">a</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">a</font></font>
 
 132
 00:00:08,520 --> 00:00:13,950
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">n</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">n</font></font>
 
 133
 00:00:08,860 --> 00:00:13,950
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">b</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">b</font></font>
 
 134
 00:00:08,860 --> 00:00:13,950
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">da</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">da</font></font>
 
 135
 00:00:09,660 --> 00:00:13,950
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">id</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">id</font></font>
 
 136
 00:00:09,660 --> 00:00:13,950
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ki</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ki</font></font>
 
 137
 00:00:10,020 --> 00:00:13,950
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">a</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">a</font></font>
 
 138
 00:00:10,020 --> 00:00:13,950
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">mi</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">mi</font></font>
 
 139
 00:00:10,290 --> 00:00:13,950
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">t</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">t</font></font>
 
 140
 00:00:10,290 --> 00:00:13,950
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">to</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">to</font></font>
 
 141
 00:00:11,610 --> 00:00:13,950
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">su</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">su</font></font>
 
 142
 00:00:11,610 --> 00:00:13,950
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">we</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">we</font></font>
 
 143
 00:00:12,940 --> 00:00:13,950
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">nd</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">nd</font></font>
 
 144
 00:00:12,940 --> 00:00:13,950
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">can!</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">can!</font></font>
 
 145
 00:00:13,950 --> 00:00:14,190
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">ak</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">ak</font></font>
 
 146
 00:00:22,870 --> 00:00:23,510
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}</font>
+<font face="Poneglyph" size="32" color="#3834aa"></font>
 
 147
 00:00:22,950 --> 00:00:23,590
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}u</font>
+<font face="Poneglyph" size="32" color="#3834aa">u</font>
 
 148
 00:00:23,030 --> 00:00:23,670
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}m</font>
+<font face="Poneglyph" size="32" color="#3834aa">m</font>
 
 149
 00:00:23,110 --> 00:00:23,750
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}ik</font>
+<font face="Poneglyph" size="32" color="#3834aa">ik</font>
 
 150
 00:00:23,190 --> 00:00:23,830
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}a</font>
+<font face="Poneglyph" size="32" color="#3834aa">a</font>
 
 151
 00:00:23,270 --> 00:00:23,910
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}r</font>
+<font face="Poneglyph" size="32" color="#3834aa">r</font>
 
 152
 00:00:23,350 --> 00:00:23,990
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}a</font>
+<font face="Poneglyph" size="32" color="#3834aa">a</font>
 
 153
 00:00:23,430 --> 00:00:24,070
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}u</font>
+<font face="Poneglyph" size="32" color="#3834aa">u</font>
 
 154
 00:00:23,510 --> 00:00:24,150
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}mi</font>
+<font face="Poneglyph" size="32" color="#3834aa">mi</font>
 
 155
 00:00:23,510 --> 00:00:23,990
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}</font>
+<font face="Aero Matics Display" size="50" color="#3834aa"></font>
 
 156
 00:00:23,590 --> 00:00:24,230
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}o</font>
+<font face="Poneglyph" size="32" color="#3834aa">o</font>
 
 157
 00:00:23,590 --> 00:00:23,990
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}u</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">u</font>
 
 158
 00:00:23,670 --> 00:00:27,000
@@ -632,231 +632,231 @@
 
 159
 00:00:23,670 --> 00:00:24,310
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}m</font>
+<font face="Poneglyph" size="32" color="#3834aa">m</font>
 
 160
 00:00:23,670 --> 00:00:24,140
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}mi</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">mi</font>
 
 161
 00:00:23,750 --> 00:00:24,390
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}at</font>
+<font face="Poneglyph" size="32" color="#3834aa">at</font>
 
 162
 00:00:23,750 --> 00:00:24,300
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ka</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ka</font>
 
 163
 00:00:23,830 --> 00:00:24,470
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}a</font>
+<font face="Poneglyph" size="32" color="#3834aa">a</font>
 
 164
 00:00:23,830 --> 00:00:24,510
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ra</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ra</font>
 
 165
 00:00:23,910 --> 00:00:24,550
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}n</font>
+<font face="Poneglyph" size="32" color="#3834aa">n</font>
 
 166
 00:00:23,910 --> 00:00:24,870
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}u</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">u</font>
 
 167
 00:00:23,990 --> 00:00:26,650
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff"></font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff"></font></font>
 
 168
 00:00:23,990 --> 00:00:26,650
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">u</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">u</font></font>
 
 169
 00:00:23,990 --> 00:00:25,180
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}mi</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">mi</font>
 
 170
 00:00:24,070 --> 00:00:25,330
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}o</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">o</font>
 
 171
 00:00:24,140 --> 00:00:26,650
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">u</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">u</font></font>
 
 172
 00:00:24,140 --> 00:00:26,650
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">mi</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">mi</font></font>
 
 173
 00:00:24,150 --> 00:00:25,480
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ma</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ma</font>
 
 174
 00:00:24,230 --> 00:00:25,600
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ta</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ta</font>
 
 175
 00:00:24,300 --> 00:00:26,650
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">m</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">m</font></font>
 
 176
 00:00:24,300 --> 00:00:26,650
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ka</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ka</font></font>
 
 177
 00:00:24,310 --> 00:00:25,810
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ni</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ni</font>
 
 178
 00:00:24,390 --> 00:00:25,970
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ka</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ka</font>
 
 179
 00:00:24,470 --> 00:00:26,130
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ke</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ke</font>
 
 180
 00:00:24,510 --> 00:00:26,650
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">ik</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">ik</font></font>
 
 181
 00:00:24,510 --> 00:00:26,650
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ra</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ra</font></font>
 
 182
 00:00:24,550 --> 00:00:26,330
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}te</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">te</font>
 
 183
 00:00:24,870 --> 00:00:26,650
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">a</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">a</font></font>
 
 184
 00:00:24,870 --> 00:00:26,650
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">u</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">u</font></font>
 
 185
 00:00:25,180 --> 00:00:26,650
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">r</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">r</font></font>
 
 186
 00:00:25,180 --> 00:00:26,650
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">mi</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">mi</font></font>
 
 187
 00:00:25,330 --> 00:00:26,650
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">a</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">a</font></font>
 
 188
 00:00:25,330 --> 00:00:26,650
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">o</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">o</font></font>
 
 189
 00:00:25,480 --> 00:00:26,650
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">u</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">u</font></font>
 
 190
 00:00:25,480 --> 00:00:26,650
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ma</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ma</font></font>
 
 191
 00:00:25,600 --> 00:00:26,650
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">mi</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">mi</font></font>
 
 192
 00:00:25,600 --> 00:00:26,650
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ta</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ta</font></font>
 
 193
 00:00:25,810 --> 00:00:26,650
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">o</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">o</font></font>
 
 194
 00:00:25,810 --> 00:00:26,650
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ni</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ni</font></font>
 
 195
 00:00:25,970 --> 00:00:26,650
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">m</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">m</font></font>
 
 196
 00:00:25,970 --> 00:00:26,650
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ka</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ka</font></font>
 
 197
 00:00:26,130 --> 00:00:26,650
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">at</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">at</font></font>
 
 198
 00:00:26,130 --> 00:00:26,650
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ke</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ke</font></font>
 
 199
 00:00:26,330 --> 00:00:26,650
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">a</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">a</font></font>
 
 200
 00:00:26,330 --> 00:00:26,650
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">te</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">te</font></font>
 
 201
 00:00:26,650 --> 00:00:26,890
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">n</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">n</font></font>
 
 202
 00:00:28,270 --> 00:00:28,750
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}</font>
+<font face="Poneglyph" size="32" color="#3834aa"></font>
 
 203
 00:00:28,350 --> 00:00:28,830
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}d</font>
+<font face="Poneglyph" size="32" color="#3834aa">d</font>
 
 204
 00:00:28,430 --> 00:00:28,910
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}a</font>
+<font face="Poneglyph" size="32" color="#3834aa">a</font>
 
 205
 00:00:28,510 --> 00:00:28,990
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}re</font>
+<font face="Poneglyph" size="32" color="#3834aa">re</font>
 
 206
 00:00:28,590 --> 00:00:29,070
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}mo</font>
+<font face="Poneglyph" size="32" color="#3834aa">mo</font>
 
 207
 00:00:28,670 --> 00:00:29,150
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}g</font>
+<font face="Poneglyph" size="32" color="#3834aa">g</font>
 
 208
 00:00:28,750 --> 00:00:29,230
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}a</font>
+<font face="Poneglyph" size="32" color="#3834aa">a</font>
 
 209
 00:00:28,750 --> 00:00:29,230
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}</font>
+<font face="Aero Matics Display" size="50" color="#3834aa"></font>
 
 210
 00:00:28,830 --> 00:00:29,310
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}w</font>
+<font face="Poneglyph" size="32" color="#3834aa">w</font>
 
 211
 00:00:28,830 --> 00:00:29,230
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}da</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">da</font>
 
 212
 00:00:28,910 --> 00:00:29,390
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}a</font>
+<font face="Poneglyph" size="32" color="#3834aa">a</font>
 
 213
 00:00:28,910 --> 00:00:29,560
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}re</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">re</font>
 
 214
 00:00:28,990 --> 00:00:29,470
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}r</font>
+<font face="Poneglyph" size="32" color="#3834aa">r</font>
 
 215
 00:00:28,990 --> 00:00:29,710
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}mo</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">mo</font>
 
 216
 00:00:29,060 --> 00:00:31,850
@@ -864,195 +864,195 @@
 
 217
 00:00:29,070 --> 00:00:29,550
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}at</font>
+<font face="Poneglyph" size="32" color="#3834aa">at</font>
 
 218
 00:00:29,070 --> 00:00:29,880
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ga</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ga</font>
 
 219
 00:00:29,150 --> 00:00:29,630
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}t</font>
+<font face="Poneglyph" size="32" color="#3834aa">t</font>
 
 220
 00:00:29,150 --> 00:00:30,210
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}wa</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">wa</font>
 
 221
 00:00:29,230 --> 00:00:31,790
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff"></font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff"></font></font>
 
 222
 00:00:29,230 --> 00:00:31,790
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">da</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">da</font></font>
 
 223
 00:00:29,230 --> 00:00:30,540
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ra</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ra</font>
 
 224
 00:00:29,310 --> 00:00:30,870
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}tte</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">tte</font>
 
 225
 00:00:29,390 --> 00:00:31,050
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}i</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">i</font>
 
 226
 00:00:29,470 --> 00:00:31,200
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ru</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ru</font>
 
 227
 00:00:29,550 --> 00:00:31,350
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ke</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ke</font>
 
 228
 00:00:29,560 --> 00:00:31,790
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">re</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">re</font></font>
 
 229
 00:00:29,630 --> 00:00:31,580
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}do</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">do</font>
 
 230
 00:00:29,710 --> 00:00:31,790
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">mo</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">mo</font></font>
 
 231
 00:00:29,880 --> 00:00:31,790
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ga</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ga</font></font>
 
 232
 00:00:30,210 --> 00:00:31,790
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">wa</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">wa</font></font>
 
 233
 00:00:30,540 --> 00:00:31,790
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ra</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ra</font></font>
 
 234
 00:00:30,770 --> 00:00:30,930
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}</font>
+<font face="Poneglyph" size="32" color="#3834aa"></font>
 
 235
 00:00:30,850 --> 00:00:31,010
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}so</font>
+<font face="Poneglyph" size="32" color="#3834aa">so</font>
 
 236
 00:00:30,870 --> 00:00:31,790
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">tte</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">tte</font></font>
 
 237
 00:00:30,930 --> 00:00:31,090
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}u</font>
+<font face="Poneglyph" size="32" color="#3834aa">u</font>
 
 238
 00:00:30,930 --> 00:00:32,050
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}</font>
+<font face="Aero Matics Display" size="50" color="#3834aa"></font>
 
 239
 00:00:31,010 --> 00:00:31,170
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}z</font>
+<font face="Poneglyph" size="32" color="#3834aa">z</font>
 
 240
 00:00:31,010 --> 00:00:32,050
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}sou</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">sou</font>
 
 241
 00:00:31,050 --> 00:00:31,790
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">i</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">i</font></font>
 
 242
 00:00:31,090 --> 00:00:31,250
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}ou</font>
+<font face="Poneglyph" size="32" color="#3834aa">ou</font>
 
 243
 00:00:31,090 --> 00:00:32,400
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}zo</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">zo</font>
 
 244
 00:00:31,170 --> 00:00:31,330
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}t</font>
+<font face="Poneglyph" size="32" color="#3834aa">t</font>
 
 245
 00:00:31,170 --> 00:00:32,600
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}u</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">u</font>
 
 246
 00:00:31,200 --> 00:00:31,790
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ru</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ru</font></font>
 
 247
 00:00:31,250 --> 00:00:31,410
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}s</font>
+<font face="Poneglyph" size="32" color="#3834aa">s</font>
 
 248
 00:00:31,250 --> 00:00:32,900
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}tsu</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">tsu</font>
 
 249
 00:00:31,330 --> 00:00:31,490
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}u</font>
+<font face="Poneglyph" size="32" color="#3834aa">u</font>
 
 250
 00:00:31,330 --> 00:00:33,280
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ka</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ka</font>
 
 251
 00:00:31,350 --> 00:00:31,790
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ke</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ke</font></font>
 
 252
 00:00:31,410 --> 00:00:31,570
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}ka</font>
+<font face="Poneglyph" size="32" color="#3834aa">ka</font>
 
 253
 00:00:31,410 --> 00:00:33,630
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}na</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">na</font>
 
 254
 00:00:31,490 --> 00:00:31,650
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}n</font>
+<font face="Poneglyph" size="32" color="#3834aa">n</font>
 
 255
 00:00:31,490 --> 00:00:34,000
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}i</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">i</font>
 
 256
 00:00:31,570 --> 00:00:31,730
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}a</font>
+<font face="Poneglyph" size="32" color="#3834aa">a</font>
 
 257
 00:00:31,570 --> 00:00:34,270
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ko</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ko</font>
 
 258
 00:00:31,580 --> 00:00:31,790
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">do</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">do</font></font>
 
 259
 00:00:31,650 --> 00:00:31,810
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}i</font>
+<font face="Poneglyph" size="32" color="#3834aa">i</font>
 
 260
 00:00:31,650 --> 00:00:34,450
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}to</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">to</font>
 
 261
 00:00:31,730 --> 00:00:31,890
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}k</font>
+<font face="Poneglyph" size="32" color="#3834aa">k</font>
 
 262
 00:00:31,730 --> 00:00:35,790
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ba</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ba</font>
 
 263
 00:00:31,810 --> 00:00:31,970
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}ot</font>
+<font face="Poneglyph" size="32" color="#3834aa">ot</font>
 
 264
 00:00:31,810 --> 00:00:36,110
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ka</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ka</font>
 
 265
 00:00:31,850 --> 00:00:38,780
@@ -1060,187 +1060,187 @@
 
 266
 00:00:31,890 --> 00:00:32,050
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}o</font>
+<font face="Poneglyph" size="32" color="#3834aa">o</font>
 
 267
 00:00:31,890 --> 00:00:36,450
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ri</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ri</font>
 
 268
 00:00:31,970 --> 00:00:36,780
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}da</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">da</font>
 
 269
 00:00:32,050 --> 00:00:38,430
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff"></font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff"></font></font>
 
 270
 00:00:32,050 --> 00:00:38,430
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">sou</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">sou</font></font>
 
 271
 00:00:32,050 --> 00:00:37,110
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ro</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ro</font>
 
 272
 00:00:32,400 --> 00:00:38,430
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">so</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">so</font></font>
 
 273
 00:00:32,400 --> 00:00:38,430
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">zo</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">zo</font></font>
 
 274
 00:00:32,600 --> 00:00:38,430
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">u</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">u</font></font>
 
 275
 00:00:32,600 --> 00:00:38,430
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">u</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">u</font></font>
 
 276
 00:00:32,900 --> 00:00:38,430
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">z</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">z</font></font>
 
 277
 00:00:32,900 --> 00:00:38,430
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">tsu</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">tsu</font></font>
 
 278
 00:00:33,280 --> 00:00:38,430
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">ou</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">ou</font></font>
 
 279
 00:00:33,280 --> 00:00:38,430
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ka</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ka</font></font>
 
 280
 00:00:33,630 --> 00:00:38,430
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">t</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">t</font></font>
 
 281
 00:00:33,630 --> 00:00:38,430
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">na</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">na</font></font>
 
 282
 00:00:34,000 --> 00:00:38,430
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">s</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">s</font></font>
 
 283
 00:00:34,000 --> 00:00:38,430
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">i</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">i</font></font>
 
 284
 00:00:34,270 --> 00:00:38,430
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">u</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">u</font></font>
 
 285
 00:00:34,270 --> 00:00:38,430
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ko</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ko</font></font>
 
 286
 00:00:34,450 --> 00:00:38,430
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">ka</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">ka</font></font>
 
 287
 00:00:34,450 --> 00:00:38,430
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">to</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">to</font></font>
 
 288
 00:00:35,790 --> 00:00:38,430
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">n</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">n</font></font>
 
 289
 00:00:35,790 --> 00:00:38,430
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ba</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ba</font></font>
 
 290
 00:00:36,110 --> 00:00:38,430
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">a</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">a</font></font>
 
 291
 00:00:36,110 --> 00:00:38,430
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ka</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ka</font></font>
 
 292
 00:00:36,450 --> 00:00:38,430
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">i</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">i</font></font>
 
 293
 00:00:36,450 --> 00:00:38,430
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ri</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ri</font></font>
 
 294
 00:00:36,780 --> 00:00:38,430
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">k</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">k</font></font>
 
 295
 00:00:36,780 --> 00:00:38,430
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">da</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">da</font></font>
 
 296
 00:00:37,110 --> 00:00:38,430
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">ot</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">ot</font></font>
 
 297
 00:00:37,110 --> 00:00:38,430
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ro</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ro</font></font>
 
 298
 00:00:38,430 --> 00:00:38,670
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">o</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">o</font></font>
 
 299
 00:00:39,240 --> 00:00:39,640
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}</font>
+<font face="Poneglyph" size="32" color="#3834aa"></font>
 
 300
 00:00:39,320 --> 00:00:39,720
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}m</font>
+<font face="Poneglyph" size="32" color="#3834aa">m</font>
 
 301
 00:00:39,400 --> 00:00:39,800
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}t</font>
+<font face="Poneglyph" size="32" color="#3834aa">t</font>
 
 302
 00:00:39,480 --> 00:00:39,880
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}ie</font>
+<font face="Poneglyph" size="32" color="#3834aa">ie</font>
 
 303
 00:00:39,560 --> 00:00:39,960
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}m</font>
+<font face="Poneglyph" size="32" color="#3834aa">m</font>
 
 304
 00:00:39,640 --> 00:00:40,040
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}in</font>
+<font face="Poneglyph" size="32" color="#3834aa">in</font>
 
 305
 00:00:39,640 --> 00:00:40,120
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}</font>
+<font face="Aero Matics Display" size="50" color="#3834aa"></font>
 
 306
 00:00:39,720 --> 00:00:40,120
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}u</font>
+<font face="Poneglyph" size="32" color="#3834aa">u</font>
 
 307
 00:00:39,720 --> 00:00:40,120
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}mi</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">mi</font>
 
 308
 00:00:39,800 --> 00:00:40,200
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}f</font>
+<font face="Poneglyph" size="32" color="#3834aa">f</font>
 
 309
 00:00:39,800 --> 00:00:40,270
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}te</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">te</font>
 
 310
 00:00:39,880 --> 00:00:40,280
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}u</font>
+<font face="Poneglyph" size="32" color="#3834aa">u</font>
 
 311
 00:00:39,880 --> 00:00:40,460
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}mi</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">mi</font>
 
 312
 00:00:39,940 --> 00:00:43,180
@@ -1248,187 +1248,187 @@
 
 313
 00:00:39,960 --> 00:00:40,360
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}r</font>
+<font face="Poneglyph" size="32" color="#3834aa">r</font>
 
 314
 00:00:39,960 --> 00:00:40,630
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}nu</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">nu</font>
 
 315
 00:00:40,040 --> 00:00:40,440
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}is</font>
+<font face="Poneglyph" size="32" color="#3834aa">is</font>
 
 316
 00:00:40,040 --> 00:00:40,850
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}fu</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">fu</font>
 
 317
 00:00:40,120 --> 00:00:42,930
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff"></font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff"></font></font>
 
 318
 00:00:40,120 --> 00:00:42,930
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">mi</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">mi</font></font>
 
 319
 00:00:40,120 --> 00:00:41,290
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ri</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ri</font>
 
 320
 00:00:40,200 --> 00:00:41,630
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}su</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">su</font>
 
 321
 00:00:40,270 --> 00:00:42,930
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">m</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">m</font></font>
 
 322
 00:00:40,270 --> 00:00:42,930
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">te</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">te</font></font>
 
 323
 00:00:40,280 --> 00:00:41,950
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ru</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ru</font>
 
 324
 00:00:40,360 --> 00:00:42,290
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}na</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">na</font>
 
 325
 00:00:40,440 --> 00:00:42,450
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}yo</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">yo</font>
 
 326
 00:00:40,460 --> 00:00:42,930
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">t</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">t</font></font>
 
 327
 00:00:40,460 --> 00:00:42,930
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">mi</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">mi</font></font>
 
 328
 00:00:40,630 --> 00:00:42,930
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">ie</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">ie</font></font>
 
 329
 00:00:40,630 --> 00:00:42,930
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">nu</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">nu</font></font>
 
 330
 00:00:40,850 --> 00:00:42,930
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">m</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">m</font></font>
 
 331
 00:00:40,850 --> 00:00:42,930
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">fu</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">fu</font></font>
 
 332
 00:00:41,290 --> 00:00:42,930
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">in</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">in</font></font>
 
 333
 00:00:41,290 --> 00:00:42,930
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ri</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ri</font></font>
 
 334
 00:00:41,630 --> 00:00:42,930
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">u</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">u</font></font>
 
 335
 00:00:41,630 --> 00:00:42,930
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">su</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">su</font></font>
 
 336
 00:00:41,950 --> 00:00:42,930
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">f</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">f</font></font>
 
 337
 00:00:41,950 --> 00:00:42,930
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ru</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ru</font></font>
 
 338
 00:00:42,290 --> 00:00:42,930
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">u</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">u</font></font>
 
 339
 00:00:42,290 --> 00:00:42,930
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">na</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">na</font></font>
 
 340
 00:00:42,450 --> 00:00:42,930
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">r</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">r</font></font>
 
 341
 00:00:42,450 --> 00:00:42,930
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">yo</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">yo</font></font>
 
 342
 00:00:42,620 --> 00:00:43,260
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}</font>
+<font face="Poneglyph" size="32" color="#3834aa"></font>
 
 343
 00:00:42,700 --> 00:00:43,340
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}j</font>
+<font face="Poneglyph" size="32" color="#3834aa">j</font>
 
 344
 00:00:42,780 --> 00:00:43,420
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}o</font>
+<font face="Poneglyph" size="32" color="#3834aa">o</font>
 
 345
 00:00:42,860 --> 00:00:43,500
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}us</font>
+<font face="Poneglyph" size="32" color="#3834aa">us</font>
 
 346
 00:00:42,930 --> 00:00:43,170
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">is</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">is</font></font>
 
 347
 00:00:42,940 --> 00:00:43,580
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}h</font>
+<font face="Poneglyph" size="32" color="#3834aa">h</font>
 
 348
 00:00:43,020 --> 00:00:43,660
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}i</font>
+<font face="Poneglyph" size="32" color="#3834aa">i</font>
 
 349
 00:00:43,100 --> 00:00:43,740
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}k</font>
+<font face="Poneglyph" size="32" color="#3834aa">k</font>
 
 350
 00:00:43,180 --> 00:00:43,820
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}i</font>
+<font face="Poneglyph" size="32" color="#3834aa">i</font>
 
 351
 00:00:43,260 --> 00:00:43,900
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}na</font>
+<font face="Poneglyph" size="32" color="#3834aa">na</font>
 
 352
 00:00:43,260 --> 00:00:43,740
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}</font>
+<font face="Aero Matics Display" size="50" color="#3834aa"></font>
 
 353
 00:00:43,340 --> 00:00:43,980
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}n</font>
+<font face="Poneglyph" size="32" color="#3834aa">n</font>
 
 354
 00:00:43,340 --> 00:00:43,740
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}jo</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">jo</font>
 
 355
 00:00:43,420 --> 00:00:44,060
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}t</font>
+<font face="Poneglyph" size="32" color="#3834aa">t</font>
 
 356
 00:00:43,420 --> 00:00:44,070
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}u</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">u</font>
 
 357
 00:00:43,500 --> 00:00:44,140
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}e</font>
+<font face="Poneglyph" size="32" color="#3834aa">e</font>
 
 358
 00:00:43,500 --> 00:00:44,470
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}shi</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">shi</font>
 
 359
 00:00:43,560 --> 00:00:50,040
@@ -1436,223 +1436,223 @@
 
 360
 00:00:43,580 --> 00:00:44,220
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}s</font>
+<font face="Poneglyph" size="32" color="#3834aa">s</font>
 
 361
 00:00:43,580 --> 00:00:44,750
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ki</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ki</font>
 
 362
 00:00:43,660 --> 00:00:44,300
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}at</font>
+<font face="Poneglyph" size="32" color="#3834aa">at</font>
 
 363
 00:00:43,660 --> 00:00:45,100
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}na</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">na</font>
 
 364
 00:00:43,740 --> 00:00:49,690
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff"></font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff"></font></font>
 
 365
 00:00:43,740 --> 00:00:49,690
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">jo</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">jo</font></font>
 
 366
 00:00:43,740 --> 00:00:46,100
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}n</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">n</font>
 
 367
 00:00:43,820 --> 00:00:46,290
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}te</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">te</font>
 
 368
 00:00:43,900 --> 00:00:46,480
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}sa</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">sa</font>
 
 369
 00:00:43,980 --> 00:00:47,460
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ta</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ta</font>
 
 370
 00:00:44,060 --> 00:00:47,790
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}su</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">su</font>
 
 371
 00:00:44,070 --> 00:00:49,690
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">j</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">j</font></font>
 
 372
 00:00:44,070 --> 00:00:49,690
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">u</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">u</font></font>
 
 373
 00:00:44,140 --> 00:00:48,770
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}u</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">u</font>
 
 374
 00:00:44,220 --> 00:00:48,950
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ke</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ke</font>
 
 375
 00:00:44,300 --> 00:00:49,110
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}tsu</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">tsu</font>
 
 376
 00:00:44,470 --> 00:00:49,690
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">o</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">o</font></font>
 
 377
 00:00:44,470 --> 00:00:49,690
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">shi</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">shi</font></font>
 
 378
 00:00:44,750 --> 00:00:49,690
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">us</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">us</font></font>
 
 379
 00:00:44,750 --> 00:00:49,690
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ki</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ki</font></font>
 
 380
 00:00:45,100 --> 00:00:49,690
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">h</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">h</font></font>
 
 381
 00:00:45,100 --> 00:00:49,690
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">na</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">na</font></font>
 
 382
 00:00:46,100 --> 00:00:49,690
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">i</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">i</font></font>
 
 383
 00:00:46,100 --> 00:00:49,690
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">n</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">n</font></font>
 
 384
 00:00:46,290 --> 00:00:49,690
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">k</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">k</font></font>
 
 385
 00:00:46,290 --> 00:00:49,690
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">te</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">te</font></font>
 
 386
 00:00:46,480 --> 00:00:49,690
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">i</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">i</font></font>
 
 387
 00:00:46,480 --> 00:00:49,690
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">sa</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">sa</font></font>
 
 388
 00:00:47,460 --> 00:00:49,690
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">na</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">na</font></font>
 
 389
 00:00:47,460 --> 00:00:49,690
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ta</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ta</font></font>
 
 390
 00:00:47,790 --> 00:00:49,690
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">n</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">n</font></font>
 
 391
 00:00:47,790 --> 00:00:49,690
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">su</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">su</font></font>
 
 392
 00:00:48,770 --> 00:00:49,690
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">t</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">t</font></font>
 
 393
 00:00:48,770 --> 00:00:49,690
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">u</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">u</font></font>
 
 394
 00:00:48,950 --> 00:00:49,690
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">e</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">e</font></font>
 
 395
 00:00:48,950 --> 00:00:49,690
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ke</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ke</font></font>
 
 396
 00:00:49,110 --> 00:00:49,690
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">s</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">s</font></font>
 
 397
 00:00:49,110 --> 00:00:49,690
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">tsu</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">tsu</font></font>
 
 398
 00:00:49,930 --> 00:00:50,170
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">at</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">at</font></font>
 
 399
 00:00:50,480 --> 00:00:50,960
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}</font>
+<font face="Poneglyph" size="32" color="#3834aa"></font>
 
 400
 00:00:50,560 --> 00:00:51,040
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}ko</font>
+<font face="Poneglyph" size="32" color="#3834aa">ko</font>
 
 401
 00:00:50,640 --> 00:00:51,120
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}n</font>
+<font face="Poneglyph" size="32" color="#3834aa">n</font>
 
 402
 00:00:50,720 --> 00:00:51,200
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}os</font>
+<font face="Poneglyph" size="32" color="#3834aa">os</font>
 
 403
 00:00:50,800 --> 00:00:51,280
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}e</font>
+<font face="Poneglyph" size="32" color="#3834aa">e</font>
 
 404
 00:00:50,880 --> 00:00:51,360
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}k</font>
+<font face="Poneglyph" size="32" color="#3834aa">k</font>
 
 405
 00:00:50,960 --> 00:00:51,440
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}a</font>
+<font face="Poneglyph" size="32" color="#3834aa">a</font>
 
 406
 00:00:50,960 --> 00:00:51,440
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}</font>
+<font face="Aero Matics Display" size="50" color="#3834aa"></font>
 
 407
 00:00:51,040 --> 00:00:51,520
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}nh</font>
+<font face="Poneglyph" size="32" color="#3834aa">nh</font>
 
 408
 00:00:51,040 --> 00:00:51,440
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ko</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ko</font>
 
 409
 00:00:51,120 --> 00:00:51,600
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}a</font>
+<font face="Poneglyph" size="32" color="#3834aa">a</font>
 
 410
 00:00:51,120 --> 00:00:51,620
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}no</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">no</font>
 
 411
 00:00:51,200 --> 00:00:51,680
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}n</font>
+<font face="Poneglyph" size="32" color="#3834aa">n</font>
 
 412
 00:00:51,200 --> 00:00:51,780
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}se</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">se</font>
 
 413
 00:00:51,280 --> 00:00:51,760
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}a</font>
+<font face="Poneglyph" size="32" color="#3834aa">a</font>
 
 414
 00:00:51,280 --> 00:00:51,940
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ka</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ka</font>
 
 415
 00:00:51,360 --> 00:00:53,990
@@ -1660,175 +1660,175 @@
 
 416
 00:00:51,360 --> 00:00:51,840
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}n</font>
+<font face="Poneglyph" size="32" color="#3834aa">n</font>
 
 417
 00:00:51,360 --> 00:00:52,090
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}i</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">i</font>
 
 418
 00:00:51,440 --> 00:00:54,010
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff"></font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff"></font></font>
 
 419
 00:00:51,440 --> 00:00:54,010
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ko</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ko</font></font>
 
 420
 00:00:51,440 --> 00:00:52,440
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}no</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">no</font>
 
 421
 00:00:51,520 --> 00:00:52,610
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ha</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ha</font>
 
 422
 00:00:51,600 --> 00:00:52,970
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}te</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">te</font>
 
 423
 00:00:51,620 --> 00:00:54,010
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">no</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">no</font></font>
 
 424
 00:00:51,680 --> 00:00:53,290
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}na</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">na</font>
 
 425
 00:00:51,760 --> 00:00:53,590
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}n</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">n</font>
 
 426
 00:00:51,780 --> 00:00:54,010
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">se</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">se</font></font>
 
 427
 00:00:51,840 --> 00:00:53,760
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}te</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">te</font>
 
 428
 00:00:51,940 --> 00:00:54,010
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ka</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ka</font></font>
 
 429
 00:00:52,090 --> 00:00:54,010
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">i</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">i</font></font>
 
 430
 00:00:52,440 --> 00:00:54,010
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">no</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">no</font></font>
 
 431
 00:00:52,610 --> 00:00:54,010
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ha</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ha</font></font>
 
 432
 00:00:52,970 --> 00:00:54,010
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">te</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">te</font></font>
 
 433
 00:00:52,970 --> 00:00:53,130
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}</font>
+<font face="Poneglyph" size="32" color="#3834aa"></font>
 
 434
 00:00:53,050 --> 00:00:53,210
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}k</font>
+<font face="Poneglyph" size="32" color="#3834aa">k</font>
 
 435
 00:00:53,130 --> 00:00:53,290
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}on</font>
+<font face="Poneglyph" size="32" color="#3834aa">on</font>
 
 436
 00:00:53,130 --> 00:00:54,010
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}</font>
+<font face="Aero Matics Display" size="50" color="#3834aa"></font>
 
 437
 00:00:53,210 --> 00:00:53,370
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}om</font>
+<font face="Poneglyph" size="32" color="#3834aa">om</font>
 
 438
 00:00:53,210 --> 00:00:54,010
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ko</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ko</font>
 
 439
 00:00:53,290 --> 00:00:54,010
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">na</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">na</font></font>
 
 440
 00:00:53,290 --> 00:00:53,450
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}ed</font>
+<font face="Poneglyph" size="32" color="#3834aa">ed</font>
 
 441
 00:00:53,290 --> 00:00:54,290
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}no</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">no</font>
 
 442
 00:00:53,370 --> 00:00:53,530
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}e</font>
+<font face="Poneglyph" size="32" color="#3834aa">e</font>
 
 443
 00:00:53,370 --> 00:00:54,450
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}me</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">me</font>
 
 444
 00:00:53,450 --> 00:00:53,610
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}m</font>
+<font face="Poneglyph" size="32" color="#3834aa">m</font>
 
 445
 00:00:53,450 --> 00:00:54,600
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}de</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">de</font>
 
 446
 00:00:53,530 --> 00:00:53,690
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}it</font>
+<font face="Poneglyph" size="32" color="#3834aa">it</font>
 
 447
 00:00:53,530 --> 00:00:54,790
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}mi</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">mi</font>
 
 448
 00:00:53,590 --> 00:00:54,010
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">n</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">n</font></font>
 
 449
 00:00:53,610 --> 00:00:53,770
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}a</font>
+<font face="Poneglyph" size="32" color="#3834aa">a</font>
 
 450
 00:00:53,610 --> 00:00:55,090
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ta</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ta</font>
 
 451
 00:00:53,690 --> 00:00:53,850
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}w</font>
+<font face="Poneglyph" size="32" color="#3834aa">w</font>
 
 452
 00:00:53,690 --> 00:00:55,270
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}wa</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">wa</font>
 
 453
 00:00:53,760 --> 00:00:54,010
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">te</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">te</font></font>
 
 454
 00:00:53,770 --> 00:00:53,930
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}a</font>
+<font face="Poneglyph" size="32" color="#3834aa">a</font>
 
 455
 00:00:53,770 --> 00:00:55,590
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ke</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ke</font>
 
 456
 00:00:53,850 --> 00:00:54,010
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}k</font>
+<font face="Poneglyph" size="32" color="#3834aa">k</font>
 
 457
 00:00:53,850 --> 00:00:55,920
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ja</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ja</font>
 
 458
 00:00:53,930 --> 00:00:56,290
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}na</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">na</font>
 
 459
 00:00:53,990 --> 00:00:57,410
@@ -1836,179 +1836,179 @@
 
 460
 00:00:54,010 --> 00:00:57,090
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff"></font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff"></font></font>
 
 461
 00:00:54,010 --> 00:00:57,090
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ko</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ko</font></font>
 
 462
 00:00:54,010 --> 00:00:56,590
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}i</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">i</font>
 
 463
 00:00:54,290 --> 00:00:57,090
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">k</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">k</font></font>
 
 464
 00:00:54,290 --> 00:00:57,090
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">no</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">no</font></font>
 
 465
 00:00:54,450 --> 00:00:57,090
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">on</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">on</font></font>
 
 466
 00:00:54,450 --> 00:00:57,090
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">me</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">me</font></font>
 
 467
 00:00:54,600 --> 00:00:57,090
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">om</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">om</font></font>
 
 468
 00:00:54,600 --> 00:00:57,090
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">de</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">de</font></font>
 
 469
 00:00:54,790 --> 00:00:57,090
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">ed</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">ed</font></font>
 
 470
 00:00:54,790 --> 00:00:57,090
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">mi</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">mi</font></font>
 
 471
 00:00:55,090 --> 00:00:57,090
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">e</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">e</font></font>
 
 472
 00:00:55,090 --> 00:00:57,090
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ta</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ta</font></font>
 
 473
 00:00:55,270 --> 00:00:57,090
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">m</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">m</font></font>
 
 474
 00:00:55,270 --> 00:00:57,090
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">wa</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">wa</font></font>
 
 475
 00:00:55,590 --> 00:00:57,090
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">it</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">it</font></font>
 
 476
 00:00:55,590 --> 00:00:57,090
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ke</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ke</font></font>
 
 477
 00:00:55,920 --> 00:00:57,090
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">a</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">a</font></font>
 
 478
 00:00:55,920 --> 00:00:57,090
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ja</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ja</font></font>
 
 479
 00:00:56,290 --> 00:00:57,090
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">w</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">w</font></font>
 
 480
 00:00:56,290 --> 00:00:57,090
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">na</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">na</font></font>
 
 481
 00:00:56,320 --> 00:00:56,960
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}</font>
+<font face="Poneglyph" size="32" color="#3834aa"></font>
 
 482
 00:00:56,400 --> 00:00:57,040
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}d</font>
+<font face="Poneglyph" size="32" color="#3834aa">d</font>
 
 483
 00:00:56,480 --> 00:00:57,120
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}a</font>
+<font face="Poneglyph" size="32" color="#3834aa">a</font>
 
 484
 00:00:56,560 --> 00:00:57,200
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}k</font>
+<font face="Poneglyph" size="32" color="#3834aa">k</font>
 
 485
 00:00:56,590 --> 00:00:57,090
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">a</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">a</font></font>
 
 486
 00:00:56,590 --> 00:00:57,090
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">i</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">i</font></font>
 
 487
 00:00:56,640 --> 00:00:57,280
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}a</font>
+<font face="Poneglyph" size="32" color="#3834aa">a</font>
 
 488
 00:00:56,720 --> 00:00:57,360
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}ra</font>
+<font face="Poneglyph" size="32" color="#3834aa">ra</font>
 
 489
 00:00:56,800 --> 00:00:57,440
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}ik</font>
+<font face="Poneglyph" size="32" color="#3834aa">ik</font>
 
 490
 00:00:56,880 --> 00:00:57,520
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}o</font>
+<font face="Poneglyph" size="32" color="#3834aa">o</font>
 
 491
 00:00:56,960 --> 00:00:57,600
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}u</font>
+<font face="Poneglyph" size="32" color="#3834aa">u</font>
 
 492
 00:00:56,960 --> 00:00:57,440
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}</font>
+<font face="Aero Matics Display" size="50" color="#3834aa"></font>
 
 493
 00:00:57,040 --> 00:00:57,680
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}z</font>
+<font face="Poneglyph" size="32" color="#3834aa">z</font>
 
 494
 00:00:57,040 --> 00:00:57,440
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}da</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">da</font>
 
 495
 00:00:57,090 --> 00:00:57,330
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">k</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">k</font></font>
 
 496
 00:00:57,120 --> 00:00:57,760
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}e</font>
+<font face="Poneglyph" size="32" color="#3834aa">e</font>
 
 497
 00:00:57,120 --> 00:00:57,600
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ka</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ka</font>
 
 498
 00:00:57,200 --> 00:00:57,840
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}am</font>
+<font face="Poneglyph" size="32" color="#3834aa">am</font>
 
 499
 00:00:57,200 --> 00:00:57,770
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ra</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ra</font>
 
 500
 00:00:57,280 --> 00:00:57,920
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}ano</font>
+<font face="Poneglyph" size="32" color="#3834aa">ano</font>
 
 501
 00:00:57,280 --> 00:00:57,970
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}i</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">i</font>
 
 502
 00:00:57,360 --> 00:00:58,000
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}ja</font>
+<font face="Poneglyph" size="32" color="#3834aa">ja</font>
 
 503
 00:00:57,360 --> 00:00:58,110
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}kou</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">kou</font>
 
 504
 00:00:57,410 --> 00:01:01,960
@@ -2016,223 +2016,223 @@
 
 505
 00:00:57,440 --> 00:01:01,910
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff"></font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff"></font></font>
 
 506
 00:00:57,440 --> 00:01:01,910
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">da</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">da</font></font>
 
 507
 00:00:57,440 --> 00:00:58,810
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ze</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ze</font>
 
 508
 00:00:57,520 --> 00:00:59,440
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}a</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">a</font>
 
 509
 00:00:57,600 --> 00:01:01,910
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">d</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">d</font></font>
 
 510
 00:00:57,600 --> 00:01:01,910
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ka</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ka</font></font>
 
 511
 00:00:57,600 --> 00:00:59,770
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ma</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ma</font>
 
 512
 00:00:57,680 --> 00:01:00,110
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}no</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">no</font>
 
 513
 00:00:57,760 --> 00:01:00,430
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ja</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ja</font>
 
 514
 00:00:57,770 --> 00:01:01,910
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">a</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">a</font></font>
 
 515
 00:00:57,770 --> 00:01:01,910
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ra</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ra</font></font>
 
 516
 00:00:57,840 --> 00:01:01,090
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}kku</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">kku</font>
 
 517
 00:00:57,920 --> 00:01:01,270
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}sen</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">sen</font>
 
 518
 00:00:57,970 --> 00:01:01,910
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">k</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">k</font></font>
 
 519
 00:00:57,970 --> 00:01:01,910
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">i</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">i</font></font>
 
 520
 00:00:58,000 --> 00:01:01,580
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}chou</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">chou</font>
 
 521
 00:00:58,110 --> 00:01:01,910
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">a</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">a</font></font>
 
 522
 00:00:58,110 --> 00:01:01,910
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">kou</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">kou</font></font>
 
 523
 00:00:58,810 --> 00:01:01,910
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">ra</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">ra</font></font>
 
 524
 00:00:58,810 --> 00:01:01,910
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ze</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ze</font></font>
 
 525
 00:00:59,440 --> 00:01:01,910
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">ik</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">ik</font></font>
 
 526
 00:00:59,440 --> 00:01:01,910
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">a</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">a</font></font>
 
 527
 00:00:59,770 --> 00:01:01,910
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">o</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">o</font></font>
 
 528
 00:00:59,770 --> 00:01:01,910
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ma</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ma</font></font>
 
 529
 00:01:00,110 --> 00:01:01,910
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">u</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">u</font></font>
 
 530
 00:01:00,110 --> 00:01:01,910
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">no</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">no</font></font>
 
 531
 00:01:00,430 --> 00:01:01,910
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">z</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">z</font></font>
 
 532
 00:01:00,430 --> 00:01:01,910
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ja</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ja</font></font>
 
 533
 00:01:01,090 --> 00:01:01,910
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">e</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">e</font></font>
 
 534
 00:01:01,090 --> 00:01:01,910
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">kku</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">kku</font></font>
 
 535
 00:01:01,090 --> 00:01:01,250
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}</font>
+<font face="Poneglyph" size="32" color="#3834aa"></font>
 
 536
 00:01:01,170 --> 00:01:01,330
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}d</font>
+<font face="Poneglyph" size="32" color="#3834aa">d</font>
 
 537
 00:01:01,250 --> 00:01:01,410
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}ek</font>
+<font face="Poneglyph" size="32" color="#3834aa">ek</font>
 
 538
 00:01:01,250 --> 00:01:02,130
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}</font>
+<font face="Aero Matics Display" size="50" color="#3834aa"></font>
 
 539
 00:01:01,270 --> 00:01:01,910
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">am</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">am</font></font>
 
 540
 00:01:01,270 --> 00:01:01,910
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">sen</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">sen</font></font>
 
 541
 00:01:01,330 --> 00:01:01,490
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}i</font>
+<font face="Poneglyph" size="32" color="#3834aa">i</font>
 
 542
 00:01:01,330 --> 00:01:02,130
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}de</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">de</font>
 
 543
 00:01:01,410 --> 00:01:01,570
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}ya</font>
+<font face="Poneglyph" size="32" color="#3834aa">ya</font>
 
 544
 00:01:01,410 --> 00:01:02,270
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ki</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ki</font>
 
 545
 00:01:01,490 --> 00:01:01,650
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}s</font>
+<font face="Poneglyph" size="32" color="#3834aa">s</font>
 
 546
 00:01:01,490 --> 00:01:02,440
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ya</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ya</font>
 
 547
 00:01:01,570 --> 00:01:01,730
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}h</font>
+<font face="Poneglyph" size="32" color="#3834aa">h</font>
 
 548
 00:01:01,570 --> 00:01:02,620
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}shi</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">shi</font>
 
 549
 00:01:01,580 --> 00:01:01,910
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">ano</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">ano</font></font>
 
 550
 00:01:01,580 --> 00:01:01,910
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">chou</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">chou</font></font>
 
 551
 00:01:01,650 --> 00:01:01,810
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}i</font>
+<font face="Poneglyph" size="32" color="#3834aa">i</font>
 
 552
 00:01:01,650 --> 00:01:02,770
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}na</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">na</font>
 
 553
 00:01:01,730 --> 00:01:01,890
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}n</font>
+<font face="Poneglyph" size="32" color="#3834aa">n</font>
 
 554
 00:01:01,730 --> 00:01:03,110
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}i</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">i</font>
 
 555
 00:01:01,810 --> 00:01:01,970
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}ai</font>
+<font face="Poneglyph" size="32" color="#3834aa">ai</font>
 
 556
 00:01:01,810 --> 00:01:03,280
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ko</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ko</font>
 
 557
 00:01:01,890 --> 00:01:02,050
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}ko</font>
+<font face="Poneglyph" size="32" color="#3834aa">ko</font>
 
 558
 00:01:01,890 --> 00:01:03,620
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}to</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">to</font>
 
 559
 00:01:01,910 --> 00:01:02,150
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">ja</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">ja</font></font>
 
 560
 00:01:01,960 --> 00:01:04,670
@@ -2240,155 +2240,155 @@
 
 561
 00:01:01,970 --> 00:01:02,130
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}t</font>
+<font face="Poneglyph" size="32" color="#3834aa">t</font>
 
 562
 00:01:01,970 --> 00:01:03,950
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}tte</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">tte</font>
 
 563
 00:01:02,050 --> 00:01:04,260
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}na</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">na</font>
 
 564
 00:01:02,130 --> 00:01:04,620
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff"></font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff"></font></font>
 
 565
 00:01:02,130 --> 00:01:04,620
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">de</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">de</font></font>
 
 566
 00:01:02,130 --> 00:01:04,440
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ni</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ni</font>
 
 567
 00:01:02,270 --> 00:01:04,620
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ki</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ki</font></font>
 
 568
 00:01:02,440 --> 00:01:04,620
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ya</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ya</font></font>
 
 569
 00:01:02,620 --> 00:01:04,620
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">shi</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">shi</font></font>
 
 570
 00:01:02,770 --> 00:01:04,620
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">na</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">na</font></font>
 
 571
 00:01:03,110 --> 00:01:04,620
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">i</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">i</font></font>
 
 572
 00:01:03,280 --> 00:01:04,620
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ko</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ko</font></font>
 
 573
 00:01:03,620 --> 00:01:04,620
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">to</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">to</font></font>
 
 574
 00:01:03,740 --> 00:01:03,900
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}</font>
+<font face="Poneglyph" size="32" color="#3834aa"></font>
 
 575
 00:01:03,820 --> 00:01:03,980
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}ma</font>
+<font face="Poneglyph" size="32" color="#3834aa">ma</font>
 
 576
 00:01:03,900 --> 00:01:04,060
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}dv</font>
+<font face="Poneglyph" size="32" color="#3834aa">dv</font>
 
 577
 00:01:03,900 --> 00:01:04,780
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}</font>
+<font face="Aero Matics Display" size="50" color="#3834aa"></font>
 
 578
 00:01:03,950 --> 00:01:04,620
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">tte</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">tte</font></font>
 
 579
 00:01:03,980 --> 00:01:04,140
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}a</font>
+<font face="Poneglyph" size="32" color="#3834aa">a</font>
 
 580
 00:01:03,980 --> 00:01:04,780
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ma</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ma</font>
 
 581
 00:01:04,060 --> 00:01:04,220
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}n</font>
+<font face="Poneglyph" size="32" color="#3834aa">n</font>
 
 582
 00:01:04,060 --> 00:01:04,930
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}da</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">da</font>
 
 583
 00:01:04,140 --> 00:01:04,300
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}an</font>
+<font face="Poneglyph" size="32" color="#3834aa">an</font>
 
 584
 00:01:04,140 --> 00:01:05,080
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}na</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">na</font>
 
 585
 00:01:04,220 --> 00:01:04,380
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}i</font>
+<font face="Poneglyph" size="32" color="#3834aa">i</font>
 
 586
 00:01:04,220 --> 00:01:05,240
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ni</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ni</font>
 
 587
 00:01:04,260 --> 00:01:04,620
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">na</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">na</font></font>
 
 588
 00:01:04,300 --> 00:01:04,460
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}m</font>
+<font face="Poneglyph" size="32" color="#3834aa">m</font>
 
 589
 00:01:04,300 --> 00:01:05,410
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}mo</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">mo</font>
 
 590
 00:01:04,380 --> 00:01:04,540
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}oh</font>
+<font face="Poneglyph" size="32" color="#3834aa">oh</font>
 
 591
 00:01:04,380 --> 00:01:05,750
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ha</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ha</font>
 
 592
 00:01:04,440 --> 00:01:04,620
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ni</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ni</font></font>
 
 593
 00:01:04,460 --> 00:01:04,620
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}a</font>
+<font face="Poneglyph" size="32" color="#3834aa">a</font>
 
 594
 00:01:04,460 --> 00:01:05,950
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ji</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ji</font>
 
 595
 00:01:04,540 --> 00:01:04,700
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}ji</font>
+<font face="Poneglyph" size="32" color="#3834aa">ji</font>
 
 596
 00:01:04,540 --> 00:01:06,240
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ma</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ma</font>
 
 597
 00:01:04,620 --> 00:01:04,780
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}m</font>
+<font face="Poneglyph" size="32" color="#3834aa">m</font>
 
 598
 00:01:04,620 --> 00:01:06,590
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}tte</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">tte</font>
 
 599
 00:01:04,670 --> 00:01:07,750
@@ -2396,163 +2396,163 @@
 
 600
 00:01:04,700 --> 00:01:06,940
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}na</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">na</font>
 
 601
 00:01:04,780 --> 00:01:07,710
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff"></font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff"></font></font>
 
 602
 00:01:04,780 --> 00:01:07,710
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ma</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ma</font></font>
 
 603
 00:01:04,780 --> 00:01:07,260
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}i</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">i</font>
 
 604
 00:01:04,930 --> 00:01:07,710
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">ma</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">ma</font></font>
 
 605
 00:01:04,930 --> 00:01:07,710
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">da</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">da</font></font>
 
 606
 00:01:05,080 --> 00:01:07,710
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">dv</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">dv</font></font>
 
 607
 00:01:05,080 --> 00:01:07,710
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">na</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">na</font></font>
 
 608
 00:01:05,240 --> 00:01:07,710
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">a</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">a</font></font>
 
 609
 00:01:05,240 --> 00:01:07,710
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ni</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ni</font></font>
 
 610
 00:01:05,410 --> 00:01:07,710
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">n</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">n</font></font>
 
 611
 00:01:05,410 --> 00:01:07,710
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">mo</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">mo</font></font>
 
 612
 00:01:05,750 --> 00:01:07,710
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">an</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">an</font></font>
 
 613
 00:01:05,750 --> 00:01:07,710
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ha</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ha</font></font>
 
 614
 00:01:05,950 --> 00:01:07,710
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">i</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">i</font></font>
 
 615
 00:01:05,950 --> 00:01:07,710
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ji</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ji</font></font>
 
 616
 00:01:06,240 --> 00:01:07,710
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">m</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">m</font></font>
 
 617
 00:01:06,240 --> 00:01:07,710
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ma</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ma</font></font>
 
 618
 00:01:06,590 --> 00:01:07,710
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">oh</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">oh</font></font>
 
 619
 00:01:06,590 --> 00:01:07,710
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">tte</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">tte</font></font>
 
 620
 00:01:06,830 --> 00:01:07,550
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}</font>
+<font face="Poneglyph" size="32" color="#3834aa"></font>
 
 621
 00:01:06,910 --> 00:01:07,630
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}su</font>
+<font face="Poneglyph" size="32" color="#3834aa">su</font>
 
 622
 00:01:06,940 --> 00:01:07,710
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">a</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">a</font></font>
 
 623
 00:01:06,940 --> 00:01:07,710
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">na</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">na</font></font>
 
 624
 00:01:06,990 --> 00:01:07,710
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}b</font>
+<font face="Poneglyph" size="32" color="#3834aa">b</font>
 
 625
 00:01:07,070 --> 00:01:07,790
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}et</font>
+<font face="Poneglyph" size="32" color="#3834aa">et</font>
 
 626
 00:01:07,150 --> 00:01:07,870
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}e</font>
+<font face="Poneglyph" size="32" color="#3834aa">e</font>
 
 627
 00:01:07,230 --> 00:01:07,950
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}s</font>
+<font face="Poneglyph" size="32" color="#3834aa">s</font>
 
 628
 00:01:07,260 --> 00:01:07,710
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">ji</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">ji</font></font>
 
 629
 00:01:07,260 --> 00:01:07,710
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">i</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">i</font></font>
 
 630
 00:01:07,310 --> 00:01:08,030
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}h</font>
+<font face="Poneglyph" size="32" color="#3834aa">h</font>
 
 631
 00:01:07,390 --> 00:01:08,110
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}i</font>
+<font face="Poneglyph" size="32" color="#3834aa">i</font>
 
 632
 00:01:07,470 --> 00:01:08,190
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}r</font>
+<font face="Poneglyph" size="32" color="#3834aa">r</font>
 
 633
 00:01:07,550 --> 00:01:08,270
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}i</font>
+<font face="Poneglyph" size="32" color="#3834aa">i</font>
 
 634
 00:01:07,550 --> 00:01:08,030
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}</font>
+<font face="Aero Matics Display" size="50" color="#3834aa"></font>
 
 635
 00:01:07,630 --> 00:01:08,350
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}t</font>
+<font face="Poneglyph" size="32" color="#3834aa">t</font>
 
 636
 00:01:07,630 --> 00:01:08,030
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}su</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">su</font>
 
 637
 00:01:07,710 --> 00:01:07,950
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">m</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">m</font></font>
 
 638
 00:01:07,710 --> 00:01:08,430
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}a</font>
+<font face="Poneglyph" size="32" color="#3834aa">a</font>
 
 639
 00:01:07,710 --> 00:01:08,300
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}be</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">be</font>
 
 640
 00:01:07,750 --> 00:01:12,720
@@ -2560,215 +2560,215 @@
 
 641
 00:01:07,790 --> 00:01:08,510
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}in</font>
+<font face="Poneglyph" size="32" color="#3834aa">in</font>
 
 642
 00:01:07,790 --> 00:01:08,430
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}te</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">te</font>
 
 643
 00:01:07,870 --> 00:01:08,590
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}da</font>
+<font face="Poneglyph" size="32" color="#3834aa">da</font>
 
 644
 00:01:07,870 --> 00:01:08,620
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}shi</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">shi</font>
 
 645
 00:01:07,950 --> 00:01:08,670
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}ima</font>
+<font face="Poneglyph" size="32" color="#3834aa">ima</font>
 
 646
 00:01:07,950 --> 00:01:08,800
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ri</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ri</font>
 
 647
 00:01:08,030 --> 00:01:12,730
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff"></font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff"></font></font>
 
 648
 00:01:08,030 --> 00:01:12,730
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">su</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">su</font></font>
 
 649
 00:01:08,030 --> 00:01:09,080
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ta</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ta</font>
 
 650
 00:01:08,110 --> 00:01:09,280
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}i</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">i</font>
 
 651
 00:01:08,190 --> 00:01:09,600
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}n</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">n</font>
 
 652
 00:01:08,270 --> 00:01:09,940
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}da</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">da</font>
 
 653
 00:01:08,300 --> 00:01:12,730
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">be</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">be</font></font>
 
 654
 00:01:08,350 --> 00:01:10,770
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}i</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">i</font>
 
 655
 00:01:08,430 --> 00:01:12,730
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">te</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">te</font></font>
 
 656
 00:01:08,430 --> 00:01:11,100
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ma</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ma</font>
 
 657
 00:01:08,510 --> 00:01:11,390
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}yes</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">yes</font>
 
 658
 00:01:08,590 --> 00:01:11,830
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}we</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">we</font>
 
 659
 00:01:08,620 --> 00:01:12,730
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">shi</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">shi</font></font>
 
 660
 00:01:08,670 --> 00:01:12,270
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}can!</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">can!</font>
 
 661
 00:01:08,800 --> 00:01:12,730
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ri</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ri</font></font>
 
 662
 00:01:09,080 --> 00:01:12,730
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ta</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ta</font></font>
 
 663
 00:01:09,280 --> 00:01:12,730
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">i</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">i</font></font>
 
 664
 00:01:09,600 --> 00:01:12,730
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">n</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">n</font></font>
 
 665
 00:01:09,940 --> 00:01:12,730
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">da</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">da</font></font>
 
 666
 00:01:10,770 --> 00:01:12,730
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">i</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">i</font></font>
 
 667
 00:01:11,100 --> 00:01:12,730
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ma</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ma</font></font>
 
 668
 00:01:11,390 --> 00:01:12,730
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">yes</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">yes</font></font>
 
 669
 00:01:11,690 --> 00:01:11,850
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}</font>
+<font face="Poneglyph" size="32" color="#3834aa"></font>
 
 670
 00:01:11,770 --> 00:01:11,930
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}yes</font>
+<font face="Poneglyph" size="32" color="#3834aa">yes</font>
 
 671
 00:01:11,830 --> 00:01:12,730
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">we</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">we</font></font>
 
 672
 00:01:11,850 --> 00:01:12,010
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}we</font>
+<font face="Poneglyph" size="32" color="#3834aa">we</font>
 
 673
 00:01:11,850 --> 00:01:12,730
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}</font>
+<font face="Aero Matics Display" size="50" color="#3834aa"></font>
 
 674
 00:01:11,930 --> 00:01:12,090
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}ca</font>
+<font face="Poneglyph" size="32" color="#3834aa">ca</font>
 
 675
 00:01:11,930 --> 00:01:12,730
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}yes</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">yes</font>
 
 676
 00:01:12,010 --> 00:01:12,170
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}ny</font>
+<font face="Poneglyph" size="32" color="#3834aa">ny</font>
 
 677
 00:01:12,010 --> 00:01:13,770
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}we</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">we</font>
 
 678
 00:01:12,090 --> 00:01:12,250
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}ouc</font>
+<font face="Poneglyph" size="32" color="#3834aa">ouc</font>
 
 679
 00:01:12,090 --> 00:01:14,080
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}can!</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">can!</font>
 
 680
 00:01:12,170 --> 00:01:12,330
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}a</font>
+<font face="Poneglyph" size="32" color="#3834aa">a</font>
 
 681
 00:01:12,170 --> 00:01:15,070
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}you</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">you</font>
 
 682
 00:01:12,250 --> 00:01:12,410
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}nk</font>
+<font face="Poneglyph" size="32" color="#3834aa">nk</font>
 
 683
 00:01:12,250 --> 00:01:15,450
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}can!</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">can!</font>
 
 684
 00:01:12,270 --> 00:01:12,730
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">can!</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">can!</font></font>
 
 685
 00:01:12,330 --> 00:01:12,490
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}on</font>
+<font face="Poneglyph" size="32" color="#3834aa">on</font>
 
 686
 00:01:12,330 --> 00:01:16,100
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ko</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ko</font>
 
 687
 00:01:12,410 --> 00:01:12,570
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}o</font>
+<font face="Poneglyph" size="32" color="#3834aa">o</font>
 
 688
 00:01:12,410 --> 00:01:16,770
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}no</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">no</font>
 
 689
 00:01:12,490 --> 00:01:12,650
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}s</font>
+<font face="Poneglyph" size="32" color="#3834aa">s</font>
 
 690
 00:01:12,490 --> 00:01:17,100
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}shu</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">shu</font>
 
 691
 00:01:12,570 --> 00:01:12,730
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}h</font>
+<font face="Poneglyph" size="32" color="#3834aa">h</font>
 
 692
 00:01:12,570 --> 00:01:17,410
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}n</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">n</font>
 
 693
 00:01:12,650 --> 00:01:17,770
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ka</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ka</font>
 
 694
 00:01:12,720 --> 00:01:18,680
@@ -2776,167 +2776,167 @@
 
 695
 00:01:12,730 --> 00:01:18,530
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff"></font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff"></font></font>
 
 696
 00:01:12,730 --> 00:01:18,530
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">yes</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">yes</font></font>
 
 697
 00:01:12,730 --> 00:01:18,110
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}n</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">n</font>
 
 698
 00:01:13,770 --> 00:01:18,530
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">yes</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">yes</font></font>
 
 699
 00:01:13,770 --> 00:01:18,530
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">we</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">we</font></font>
 
 700
 00:01:14,080 --> 00:01:18,530
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">we</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">we</font></font>
 
 701
 00:01:14,080 --> 00:01:18,530
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">can!</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">can!</font></font>
 
 702
 00:01:15,070 --> 00:01:18,530
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">ca</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">ca</font></font>
 
 703
 00:01:15,070 --> 00:01:18,530
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">you</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">you</font></font>
 
 704
 00:01:15,450 --> 00:01:18,530
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">ny</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">ny</font></font>
 
 705
 00:01:15,450 --> 00:01:18,530
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">can!</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">can!</font></font>
 
 706
 00:01:16,100 --> 00:01:18,530
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">ouc</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">ouc</font></font>
 
 707
 00:01:16,100 --> 00:01:18,530
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ko</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ko</font></font>
 
 708
 00:01:16,770 --> 00:01:18,530
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">a</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">a</font></font>
 
 709
 00:01:16,770 --> 00:01:18,530
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">no</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">no</font></font>
 
 710
 00:01:17,100 --> 00:01:18,530
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">nk</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">nk</font></font>
 
 711
 00:01:17,100 --> 00:01:18,530
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">shu</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">shu</font></font>
 
 712
 00:01:17,410 --> 00:01:18,530
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">on</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">on</font></font>
 
 713
 00:01:17,410 --> 00:01:18,530
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">n</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">n</font></font>
 
 714
 00:01:17,770 --> 00:01:18,530
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">o</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">o</font></font>
 
 715
 00:01:17,770 --> 00:01:18,530
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ka</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ka</font></font>
 
 716
 00:01:18,110 --> 00:01:18,530
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">s</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">s</font></font>
 
 717
 00:01:18,110 --> 00:01:18,530
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">n</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">n</font></font>
 
 718
 00:01:18,210 --> 00:01:18,610
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}</font>
+<font face="Poneglyph" size="32" color="#3834aa"></font>
 
 719
 00:01:18,290 --> 00:01:18,690
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}we</font>
+<font face="Poneglyph" size="32" color="#3834aa">we</font>
 
 720
 00:01:18,370 --> 00:01:18,770
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}can</font>
+<font face="Poneglyph" size="32" color="#3834aa">can</font>
 
 721
 00:01:18,450 --> 00:01:18,850
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}I</font>
+<font face="Poneglyph" size="32" color="#3834aa">I</font>
 
 722
 00:01:18,530 --> 00:01:18,770
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">h</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">h</font></font>
 
 723
 00:01:18,530 --> 00:01:18,930
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}ca</font>
+<font face="Poneglyph" size="32" color="#3834aa">ca</font>
 
 724
 00:01:18,610 --> 00:01:19,010
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}n</font>
+<font face="Poneglyph" size="32" color="#3834aa">n</font>
 
 725
 00:01:18,610 --> 00:01:19,090
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}</font>
+<font face="Aero Matics Display" size="50" color="#3834aa"></font>
 
 726
 00:01:18,690 --> 00:01:19,090
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}ko</font>
+<font face="Poneglyph" size="32" color="#3834aa">ko</font>
 
 727
 00:01:18,690 --> 00:01:19,090
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}we</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">we</font>
 
 728
 00:01:18,770 --> 00:01:19,170
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}n</font>
+<font face="Poneglyph" size="32" color="#3834aa">n</font>
 
 729
 00:01:18,770 --> 00:01:19,390
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}can!</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">can!</font>
 
 730
 00:01:18,850 --> 00:01:19,250
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}o</font>
+<font face="Poneglyph" size="32" color="#3834aa">o</font>
 
 731
 00:01:18,850 --> 00:01:20,430
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}I</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">I</font>
 
 732
 00:01:18,930 --> 00:01:19,330
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}k</font>
+<font face="Poneglyph" size="32" color="#3834aa">k</font>
 
 733
 00:01:18,930 --> 00:01:20,760
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}can!</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">can!</font>
 
 734
 00:01:19,010 --> 00:01:19,410
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}a</font>
+<font face="Poneglyph" size="32" color="#3834aa">a</font>
 
 735
 00:01:19,010 --> 00:01:21,430
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ko</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ko</font>
 
 736
 00:01:19,060 --> 00:01:24,100
@@ -2944,167 +2944,167 @@
 
 737
 00:01:19,090 --> 00:01:23,950
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff"></font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff"></font></font>
 
 738
 00:01:19,090 --> 00:01:23,950
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">we</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">we</font></font>
 
 739
 00:01:19,090 --> 00:01:22,090
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}no</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">no</font>
 
 740
 00:01:19,170 --> 00:01:22,390
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ka</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ka</font>
 
 741
 00:01:19,250 --> 00:01:22,750
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}i</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">i</font>
 
 742
 00:01:19,330 --> 00:01:23,050
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ka</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ka</font>
 
 743
 00:01:19,390 --> 00:01:23,950
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">we</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">we</font></font>
 
 744
 00:01:19,390 --> 00:01:23,950
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">can!</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">can!</font></font>
 
 745
 00:01:19,410 --> 00:01:23,410
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}n</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">n</font>
 
 746
 00:01:20,430 --> 00:01:23,950
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">can</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">can</font></font>
 
 747
 00:01:20,430 --> 00:01:23,950
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">I</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">I</font></font>
 
 748
 00:01:20,760 --> 00:01:23,950
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">I</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">I</font></font>
 
 749
 00:01:20,760 --> 00:01:23,950
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">can!</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">can!</font></font>
 
 750
 00:01:21,430 --> 00:01:23,950
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">ca</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">ca</font></font>
 
 751
 00:01:21,430 --> 00:01:23,950
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ko</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ko</font></font>
 
 752
 00:01:22,090 --> 00:01:23,950
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">n</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">n</font></font>
 
 753
 00:01:22,090 --> 00:01:23,950
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">no</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">no</font></font>
 
 754
 00:01:22,390 --> 00:01:23,950
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">ko</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">ko</font></font>
 
 755
 00:01:22,390 --> 00:01:23,950
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ka</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ka</font></font>
 
 756
 00:01:22,750 --> 00:01:23,950
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">n</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">n</font></font>
 
 757
 00:01:22,750 --> 00:01:23,950
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">i</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">i</font></font>
 
 758
 00:01:23,050 --> 00:01:23,950
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">o</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">o</font></font>
 
 759
 00:01:23,050 --> 00:01:23,950
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ka</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ka</font></font>
 
 760
 00:01:23,410 --> 00:01:23,950
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">k</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">k</font></font>
 
 761
 00:01:23,410 --> 00:01:23,950
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">n</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">n</font></font>
 
 762
 00:01:23,700 --> 00:01:23,940
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}</font>
+<font face="Poneglyph" size="32" color="#3834aa"></font>
 
 763
 00:01:23,780 --> 00:01:24,020
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}i</font>
+<font face="Poneglyph" size="32" color="#3834aa">i</font>
 
 764
 00:01:23,860 --> 00:01:24,100
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}m</font>
+<font face="Poneglyph" size="32" color="#3834aa">m</font>
 
 765
 00:01:23,940 --> 00:01:24,180
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}a</font>
+<font face="Poneglyph" size="32" color="#3834aa">a</font>
 
 766
 00:01:23,940 --> 00:01:24,420
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}</font>
+<font face="Aero Matics Display" size="50" color="#3834aa"></font>
 
 767
 00:01:23,950 --> 00:01:24,190
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">a</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">a</font></font>
 
 768
 00:01:24,020 --> 00:01:24,260
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}im</font>
+<font face="Poneglyph" size="32" color="#3834aa">im</font>
 
 769
 00:01:24,020 --> 00:01:24,420
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}i</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">i</font>
 
 770
 00:01:24,100 --> 00:01:24,340
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}a</font>
+<font face="Poneglyph" size="32" color="#3834aa">a</font>
 
 771
 00:01:24,100 --> 00:01:24,770
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ma</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ma</font>
 
 772
 00:01:24,180 --> 00:01:24,420
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}oh</font>
+<font face="Poneglyph" size="32" color="#3834aa">oh</font>
 
 773
 00:01:24,180 --> 00:01:25,760
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}i</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">i</font>
 
 774
 00:01:24,260 --> 00:01:24,500
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}ye</font>
+<font face="Poneglyph" size="32" color="#3834aa">ye</font>
 
 775
 00:01:24,260 --> 00:01:26,100
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}ma</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">ma</font>
 
 776
 00:01:24,340 --> 00:01:24,580
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}swe</font>
+<font face="Poneglyph" size="32" color="#3834aa">swe</font>
 
 777
 00:01:24,340 --> 00:01:26,770
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}oh</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">oh</font>
 
 778
 00:01:24,390 --> 00:01:31,320
@@ -3112,99 +3112,99 @@
 
 779
 00:01:24,420 --> 00:01:31,000
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff"></font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff"></font></font>
 
 780
 00:01:24,420 --> 00:01:31,000
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">i</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">i</font></font>
 
 781
 00:01:24,420 --> 00:01:27,380
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}yes</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">yes</font>
 
 782
 00:01:24,500 --> 00:01:28,770
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}we</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">we</font>
 
 783
 00:01:24,580 --> 00:01:30,040
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}can!</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">can!</font>
 
 784
 00:01:24,770 --> 00:01:31,000
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">i</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">i</font></font>
 
 785
 00:01:24,770 --> 00:01:31,000
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ma</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ma</font></font>
 
 786
 00:01:25,760 --> 00:01:31,000
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">m</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">m</font></font>
 
 787
 00:01:25,760 --> 00:01:31,000
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">i</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">i</font></font>
 
 788
 00:01:26,100 --> 00:01:31,000
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">a</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">a</font></font>
 
 789
 00:01:26,100 --> 00:01:31,000
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">ma</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">ma</font></font>
 
 790
 00:01:26,770 --> 00:01:31,000
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">im</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">im</font></font>
 
 791
 00:01:26,770 --> 00:01:31,000
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">oh</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">oh</font></font>
 
 792
 00:01:27,380 --> 00:01:31,000
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">a</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">a</font></font>
 
 793
 00:01:27,380 --> 00:01:31,000
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">yes</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">yes</font></font>
 
 794
 00:01:28,770 --> 00:01:31,000
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">oh</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">oh</font></font>
 
 795
 00:01:28,770 --> 00:01:31,000
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">we</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">we</font></font>
 
 796
 00:01:30,040 --> 00:01:31,000
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">ye</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">ye</font></font>
 
 797
 00:01:30,040 --> 00:01:31,000
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">can!</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">can!</font></font>
 
 798
 00:01:31,000 --> 00:01:31,240
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">swe</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">swe</font></font>
 
 799
 00:01:36,890 --> 00:01:37,370
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}</font>
+<font face="Aero Matics Display" size="50" color="#3834aa"></font>
 
 800
 00:01:36,970 --> 00:01:37,370
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}yes</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">yes</font>
 
 801
 00:01:37,050 --> 00:01:37,610
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}we</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">we</font>
 
 802
 00:01:37,130 --> 00:01:37,790
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}can!</font>
+<font face="Aero Matics Display" size="50" color="#3834aa">can!</font>
 
 803
 00:01:37,340 --> 00:01:38,640
@@ -3212,31 +3212,31 @@
 
 804
 00:01:37,370 --> 00:01:38,340
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff"></font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff"></font></font>
 
 805
 00:01:37,370 --> 00:01:38,340
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">yes</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">yes</font></font>
 
 806
 00:01:37,610 --> 00:01:38,340
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">ye</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">ye</font></font>
 
 807
 00:01:37,610 --> 00:01:38,340
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">we</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">we</font></font>
 
 808
 00:01:37,790 --> 00:01:38,340
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">w</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">w</font></font>
 
 809
 00:01:37,790 --> 00:01:38,340
-<font face="Aero Matics Display" size="50" color="#3834aa">{\an8}<font color="#ffffff">can!</font></font>
+<font face="Aero Matics Display" size="50" color="#3834aa"><font color="#ffffff">can!</font></font>
 
 810
 00:01:38,340 --> 00:01:38,580
-<font face="Poneglyph" size="32" color="#3834aa">{\an8}<font color="#ffffff">ca</font></font>
+<font face="Poneglyph" size="32" color="#3834aa"><font color="#ffffff">ca</font></font>
 
 811
 00:01:40,200 --> 00:01:42,200
@@ -3256,7 +3256,7 @@
 
 815
 00:01:46,410 --> 00:01:50,130
-<font face="Impress BT" size="55">I can't find any of the manifests they used for trafficking,{\an8}</font>
+<font face="Impress BT" size="55">I can't find any of the manifests they used for trafficking,</font>
 
 816
 00:01:50,130 --> 00:01:54,340
@@ -3272,7 +3272,7 @@
 
 819
 00:02:02,220 --> 00:02:04,560
-<font face="Impress BT" size="55">There was quite a bit, too.{\an8}</font>
+<font face="Impress BT" size="55">There was quite a bit, too.</font>
 
 820
 00:02:04,310 --> 00:02:09,310
@@ -3280,11 +3280,11 @@
 
 821
 00:02:04,560 --> 00:02:06,760
-<font face="Impress BT" size="55">The handiwork of some organization, surely.{\an8}</font>
+<font face="Impress BT" size="55">The handiwork of some organization, surely.</font>
 
 822
 00:02:06,760 --> 00:02:09,310
-<font face="Impress BT" size="55">The Navy was panicking about it as well.{\an8}</font>
+<font face="Impress BT" size="55">The Navy was panicking about it as well.</font>
 
 823
 00:02:09,310 --> 00:02:11,310
@@ -3317,19 +3317,19 @@ Return at once.</font>
 
 830
 00:02:37,970 --> 00:02:41,900
-<font face="Impress BT" size="56"><i>{\an8}This was a land of tragedy.</i></font>
+<font face="Impress BT" size="56"><i>This was a land of tragedy.</i></font>
 
 831
 00:02:42,530 --> 00:02:48,480
-<font face="Impress BT" size="56"><i>{\an8}Dark strings were woven, one after another.</i></font>
+<font face="Impress BT" size="56"><i>Dark strings were woven, one after another.</i></font>
 
 832
 00:02:48,480 --> 00:02:50,690
-<font face="Impress BT" size="56"><i>{\an8}Despite the countless tragedies that befell them,</i></font>
+<font face="Impress BT" size="56"><i>Despite the countless tragedies that befell them,</i></font>
 
 833
 00:02:50,690 --> 00:02:54,660
-<font face="Impress BT" size="56"><i>{\an8}they manage to hold back their tears for now,
+<font face="Impress BT" size="56"><i>they manage to hold back their tears for now,
 and music plays on...</i></font>
 
 834
@@ -3338,20 +3338,20 @@ and music plays on...</i></font>
 
 835
 00:03:00,070 --> 00:03:03,280
-<font face="Impress BT" size="56"><i>{\an8}Music that rings out to the rhythm of clapping hands.</i></font>
+<font face="Impress BT" size="56"><i>Music that rings out to the rhythm of clapping hands.</i></font>
 
 836
 00:03:12,900 --> 00:03:19,260
-<font face="Impress BT" size="56"><i>{\an8}The curtain is drawn after the long, sad,
+<font face="Impress BT" size="56"><i>The curtain is drawn after the long, sad,
 nameless performance without fanfare.</i></font>
 
 837
 00:03:19,260 --> 00:03:22,930
-<font face="Impress BT" size="56"><i>{\an8}Then, words of truth reach the ears of the audience.</i></font>
+<font face="Impress BT" size="56"><i>Then, words of truth reach the ears of the audience.</i></font>
 
 838
 00:03:28,350 --> 00:03:34,270
-<font face="Impress BT" size="56"><i>{\an8}Their king has returned,
+<font face="Impress BT" size="56"><i>Their king has returned,
 and with peace in their future, all is well.</i></font>
 
 839
@@ -3428,7 +3428,7 @@ and with peace in their future, all is well.</i></font>
 
 857
 00:04:42,160 --> 00:04:48,390
-<font face="Impress BT" size="56"><i>{\an8}Visitors to this kingdom will be shocked by a certain sight.</i></font>
+<font face="Impress BT" size="56"><i>Visitors to this kingdom will be shocked by a certain sight.</i></font>
 
 858
 00:04:52,740 --> 00:04:54,380
@@ -3444,11 +3444,11 @@ and with peace in their future, all is well.</i></font>
 
 861
 00:04:59,110 --> 00:05:02,540
-<font face="Impress BT" size="56"><i>{\an8}They are blending in with the town,</i></font>
+<font face="Impress BT" size="56"><i>They are blending in with the town,</i></font>
 
 862
 00:05:02,540 --> 00:05:06,060
-<font face="Impress BT" size="56"><i>{\an8}living side-by-side with humans.</i></font>
+<font face="Impress BT" size="56"><i>living side-by-side with humans.</i></font>
 
 863
 00:05:06,060 --> 00:05:07,100
@@ -3464,11 +3464,11 @@ and with peace in their future, all is well.</i></font>
 
 866
 00:05:13,080 --> 00:05:17,440
-<font face="Impress BT" size="56"><i>{\an8}Visitors will be amazed at the sight of these adorable gnomes.</i></font>
+<font face="Impress BT" size="56"><i>Visitors will be amazed at the sight of these adorable gnomes.</i></font>
 
 867
 00:05:23,330 --> 00:05:27,450
-<font face="Impress BT" size="56"><i>{\an8}This is the kingdom of love, passion, and fairies...</i></font>
+<font face="Impress BT" size="56"><i>This is the kingdom of love, passion, and fairies...</i></font>
 
 868
 00:05:27,450 --> 00:05:29,640
@@ -3480,12 +3480,12 @@ and with peace in their future, all is well.</i></font>
 
 870
 00:05:32,010 --> 00:05:34,700
-<font face="Impress BT" size="56"><i>{\an8}... Dressrosa.</i></font>
+<font face="Impress BT" size="56"><i>... Dressrosa.</i></font>
 
 871
 00:05:42,650 --> 00:05:46,840
 <font face="Impress BT" size="55">When we're finished transporting our prisoner,
-I'll be going on a journey.{\an8}</font>
+I'll be going on a journey.</font>
 
 872
 00:05:43,900 --> 00:05:48,410
@@ -3493,7 +3493,7 @@ I'll be going on a journey.{\an8}</font>
 
 873
 00:05:46,840 --> 00:05:48,410
-<font face="Impress BT" size="55">A journey, you say?{\an8}</font>
+<font face="Impress BT" size="55">A journey, you say?</font>
 
 874
 00:05:51,700 --> 00:05:57,830
@@ -3794,11 +3794,11 @@ The Going Luffy-Senpai</font>
 
 944
 00:10:31,280 --> 00:10:33,080
-<font face="Impress BT" size="55">Does this look right to you guys?!{\an8}</font>
+<font face="Impress BT" size="55">Does this look right to you guys?!</font>
 
 945
 00:10:33,080 --> 00:10:35,680
-<font face="Impress BT" size="55">Why does it look like Luffy'd be on this ship rather than ours!{\an8}</font>
+<font face="Impress BT" size="55">Why does it look like Luffy'd be on this ship rather than ours!</font>
 
 946
 00:10:35,680 --> 00:10:38,100
@@ -4001,7 +4001,7 @@ are there too!</font>
 
 993
 00:13:14,690 --> 00:13:18,730
-<font face="Impress BT" size="55">Well then, let's start with Straw Hat Luffy-senpai!{\an8}</font>
+<font face="Impress BT" size="55">Well then, let's start with Straw Hat Luffy-senpai!</font>
 
 994
 00:13:14,900 --> 00:13:16,830
@@ -4029,7 +4029,7 @@ are there too!</font>
 
 1000
 00:13:22,120 --> 00:13:26,030
-<font face="Impress BT" size="55">500 million! Yeah!{\an8}</font>
+<font face="Impress BT" size="55">500 million! Yeah!</font>
 
 1001
 00:13:22,530 --> 00:13:26,030
@@ -4042,7 +4042,7 @@ Bounty: 500,000,000 Belly</font>
 
 1003
 00:13:30,090 --> 00:13:33,410
-<font face="Impress BT" size="55">320 million belly!{\an8}</font>
+<font face="Impress BT" size="55">320 million belly!</font>
 
 1004
 00:13:32,620 --> 00:13:36,620
@@ -4051,7 +4051,7 @@ Bounty: 320,000,000 Belly</font>
 
 1005
 00:13:34,320 --> 00:13:36,620
-<font face="Impress BT" size="55">Hey, got any swill?{\an8}</font>
+<font face="Impress BT" size="55">Hey, got any swill?</font>
 
 1006
 00:13:37,140 --> 00:13:39,940
@@ -4059,7 +4059,7 @@ Bounty: 320,000,000 Belly</font>
 
 1007
 00:13:39,940 --> 00:13:43,040
-<font face="Impress BT" size="55">130 million belly!{\an8}</font>
+<font face="Impress BT" size="55">130 million belly!</font>
 
 1008
 00:13:41,840 --> 00:13:45,840
@@ -4068,7 +4068,7 @@ Bounty: 130,000,000 Belly</font>
 
 1009
 00:13:43,040 --> 00:13:45,170
-<font face="Impress BT" size="55">Oh, no. It's gone up.{\an8}</font>
+<font face="Impress BT" size="55">Oh, no. It's gone up.</font>
 
 1010
 00:13:45,840 --> 00:13:50,430
@@ -4077,7 +4077,7 @@ Bounty: 130,000,000 Belly</font>
 
 1011
 00:13:50,430 --> 00:13:51,820
-<font face="Impress BT" size="55">Short by that much!{\an8}</font>
+<font face="Impress BT" size="55">Short by that much!</font>
 
 1012
 00:13:50,430 --> 00:13:55,810
@@ -4087,7 +4087,7 @@ Bounty: 94,000,000 Belly</font>
 1013
 00:13:51,820 --> 00:13:55,810
 <font face="Impress BT" size="55">On top of that,
-the picture's of the General Franky...{\an8}</font>
+the picture's of the General Franky...</font>
 
 1014
 00:13:55,810 --> 00:13:59,690
@@ -4100,7 +4100,7 @@ Bounty: 200,000,000 Belly</font>
 
 1016
 00:14:00,420 --> 00:14:03,190
-<font face="Impress BT" size="55">I'm unmasked and the price is outrageous!{\an8}</font>
+<font face="Impress BT" size="55">I'm unmasked and the price is outrageous!</font>
 
 1017
 00:14:03,190 --> 00:14:04,780
@@ -4147,7 +4147,7 @@ Bounty: 177,000,000 Belly</font>
 
 1027
 00:14:30,120 --> 00:14:33,680
-<font face="Impress BT" size="55">Oh, his poster isn't a sketch anymore!{\an8}</font>
+<font face="Impress BT" size="55">Oh, his poster isn't a sketch anymore!</font>
 
 1028
 00:14:33,680 --> 00:14:35,700
@@ -4159,7 +4159,7 @@ Bounty: 177,000,000 Belly</font>
 
 1030
 00:14:39,730 --> 00:14:44,720
-<font face="Impress BT" size="55">Cat Burglar Nami-senpai, 66 million belly!{\an8}</font>
+<font face="Impress BT" size="55">Cat Burglar Nami-senpai, 66 million belly!</font>
 
 1031
 00:14:43,770 --> 00:14:48,150
@@ -4169,7 +4169,7 @@ Bounty: 66,000,000 Belly</font>
 1032
 00:14:44,720 --> 00:14:48,150
 <font face="Impress BT" size="55">When the hell'd she
-have her picture taken again?!{\an8}</font>
+have her picture taken again?!</font>
 
 1033
 00:14:48,150 --> 00:14:51,380
@@ -4187,11 +4187,11 @@ Bounty: 100 Belly</font>
 1036
 00:14:53,200 --> 00:14:56,200
 <font face="Impress BT" size="55">There are no words
-that would cheer him up.{\an8}</font>
+that would cheer him up.</font>
 
 1037
 00:14:56,200 --> 00:15:01,470
-<font face="Impress BT" size="55">The Soul King, Brook-senpai, 83 million belly!{\an8}</font>
+<font face="Impress BT" size="55">The Soul King, Brook-senpai, 83 million belly!</font>
 
 1038
 00:15:00,960 --> 00:15:05,090
@@ -4200,7 +4200,7 @@ Bounty: 83,000,000 Belly</font>
 
 1039
 00:15:01,470 --> 00:15:05,090
-<font face="Impress BT" size="55">That's like a poster for his concert!{\an8}</font>
+<font face="Impress BT" size="55">That's like a poster for his concert!</font>
 
 1040
 00:15:05,090 --> 00:15:10,820
@@ -4414,7 +4414,7 @@ survived until now?!</font>
 1088
 00:17:31,020 --> 00:17:34,040
 <font face="Impress BT" size="55">The A.O. Pirates,
-formerly of the Whitebeard Pirates,{\an8}</font>
+formerly of the Whitebeard Pirates,</font>
 
 1089
 00:17:31,980 --> 00:17:36,990
@@ -4422,11 +4422,11 @@ formerly of the Whitebeard Pirates,{\an8}</font>
 
 1090
 00:17:34,040 --> 00:17:35,070
-<font face="Impress BT" size="55">have been wiped out.{\an8}</font>
+<font face="Impress BT" size="55">have been wiped out.</font>
 
 1091
 00:17:35,070 --> 00:17:36,990
-<font face="Impress BT" size="55">Is it that guy again?{\an8}</font>
+<font face="Impress BT" size="55">Is it that guy again?</font>
 
 1092
 00:17:36,990 --> 00:17:40,240
@@ -4440,11 +4440,11 @@ The Navy HQ Admiral</font>
 1094
 00:17:40,240 --> 00:17:43,350
 <font face="Impress BT" size="55">How many captains who used
-to work under Whitebeard...{\an8}</font>
+to work under Whitebeard...</font>
 
 1095
 00:17:43,350 --> 00:17:46,120
-<font face="Impress BT" size="55">... have been brought down?{\an8}</font>
+<font face="Impress BT" size="55">... have been brought down?</font>
 
 1096
 00:17:46,120 --> 00:17:47,580
@@ -4489,7 +4489,7 @@ people aren't buying it...</font>
 
 1105
 00:18:15,570 --> 00:18:22,530
-<font face="Impress BT" size="38"><i>{\an8}Wall Reads as "Unclear Justice".</i></font>
+<font face="Impress BT" size="38"><i>Wall Reads as "Unclear Justice".</i></font>
 
 1106
 00:18:15,570 --> 00:18:22,530
@@ -4515,7 +4515,7 @@ when he was young.</font>
 
 1111
 00:18:41,680 --> 00:18:45,400
-<font face="Impress BT" size="56"><i>{\an8}A week after leaving Dressrosa...</i></font>
+<font face="Impress BT" size="56"><i>A week after leaving Dressrosa...</i></font>
 
 1112
 00:18:45,400 --> 00:18:49,020
@@ -4933,7 +4933,7 @@ are worthy of being called</font>
 
 1209
 00:24:28,690 --> 00:24:32,610
-<font face="Impress BT" size="55">we want the four other <i>senpai</i>'s Divine Drops!{\an8}</font>
+<font face="Impress BT" size="55">we want the four other <i>senpai</i>'s Divine Drops!</font>
 
 1210
 00:24:28,730 --> 00:24:32,610
@@ -5093,7 +5093,7 @@ Thank you for bringing us here!</font>
 
 1247
 00:27:23,580 --> 00:27:30,080
-<font face="Impress BT" size="56"><i>{\an8}Thus, the party keeps climbing up to
+<font face="Impress BT" size="56"><i>Thus, the party keeps climbing up to
 the top of the Phantom Island, Zou.</i></font>
 
 1248
@@ -5103,11 +5103,11 @@ Baltigo. Grand Line</font>
 
 1249
 00:27:43,040 --> 00:27:44,430
-<font face="Impress BT" size="55">Dragon-<i>san</i>!{\an8}</font>
+<font face="Impress BT" size="55">Dragon-<i>san</i>!</font>
 
 1250
 00:27:44,430 --> 00:27:47,350
-<font face="Impress BT" size="55">Rebel armies are winning all across the world!{\an8}</font>
+<font face="Impress BT" size="55">Rebel armies are winning all across the world!</font>
 
 1251
 00:27:47,470 --> 00:27:53,610
@@ -5118,11 +5118,11 @@ of the Revolutionary Army</font>
 1252
 00:27:47,720 --> 00:27:52,020
 <font face="Impress BT" size="55">The fall of the Donquixote Family
-had a huge impact.{\an8}</font>
+had a huge impact.</font>
 
 1253
 00:27:53,020 --> 00:27:57,360
-<font face="Impress BT" size="55">This many countries were involved in the weapon trafficking.{\an8}</font>
+<font face="Impress BT" size="55">This many countries were involved in the weapon trafficking.</font>
 
 1254
 00:27:57,900 --> 00:27:59,840
@@ -5295,7 +5295,7 @@ all those big personalities again?!</font>
 
 1293
 00:29:51,510 --> 00:29:53,180
-<font face="Impress BT" size="55">Burgess! It's you!{\an8}</font>
+<font face="Impress BT" size="55">Burgess! It's you!</font>
 
 1294
 00:29:52,850 --> 00:29:58,860
@@ -5305,11 +5305,11 @@ The Emperor – Blackbeard's Pirate Group</font>
 
 1295
 00:29:53,180 --> 00:29:56,140
-<font face="Impress BT" size="55">We went to Dressrosa to pick you up, but you weren't there.{\an8}</font>
+<font face="Impress BT" size="55">We went to Dressrosa to pick you up, but you weren't there.</font>
 
 1296
 00:29:56,140 --> 00:29:58,060
-<font face="Impress BT" size="55"><i>Yeah, sorry.</i>{\an8}</font>
+<font face="Impress BT" size="55"><i>Yeah, sorry.</i></font>
 
 1297
 00:29:58,860 --> 00:30:02,980
@@ -5324,7 +5324,7 @@ The Emperor – Blackbeard's Pirate Group</font>
 
 1299
 00:30:04,840 --> 00:30:07,910
-<font face="Impress BT" size="55">Oh, that son of a gun was alive.{\an8}</font>
+<font face="Impress BT" size="55">Oh, that son of a gun was alive.</font>
 
 1300
 00:30:08,780 --> 00:30:11,240
@@ -5405,7 +5405,7 @@ general headquarters!</font>
 
 1318
 00:31:24,230 --> 00:31:28,780
-<font face="Impress BT" size="55">Everyone's so dumb and ridiculous!{\an8}</font>
+<font face="Impress BT" size="55">Everyone's so dumb and ridiculous!</font>
 
 1319
 00:31:28,780 --> 00:31:33,570
@@ -5424,15 +5424,15 @@ Self-proclaimed "Whitebeard Jr."
 
 1322
 00:31:41,250 --> 00:31:43,750
-<font face="Impress BT" size="55">Mommy! Mommy!{\an8}</font>
+<font face="Impress BT" size="55">Mommy! Mommy!</font>
 
 1323
 00:31:43,750 --> 00:31:46,620
-<font face="Impress BT" size="55">I'm Whitebeard's son, right?!{\an8}</font>
+<font face="Impress BT" size="55">I'm Whitebeard's son, right?!</font>
 
 1324
 00:31:46,620 --> 00:31:48,760
-<font face="Impress BT" size="55">My beard's white as well!{\an8}</font>
+<font face="Impress BT" size="55">My beard's white as well!</font>
 
 1325
 00:31:48,760 --> 00:31:50,400
@@ -5463,7 +5463,7 @@ Self-proclaimed "Whitebeard's Lover"</font>
 
 1331
 00:32:05,480 --> 00:32:08,360
-<font face="Impress BT" size="55">... the woman who Whitebeard loved!{\an8}</font>
+<font face="Impress BT" size="55">... the woman who Whitebeard loved!</font>
 
 1332
 00:32:13,460 --> 00:32:16,620
@@ -5665,7 +5665,7 @@ wild, and bring back booty!</font>
 1377
 00:35:11,040 --> 00:35:14,800
 <font face="Impress BT" size="55">Your pirating is legitimate
-under the name of...{\an8}</font>
+under the name of...</font>
 
 1378
 00:35:11,080 --> 00:35:15,500
@@ -5675,7 +5675,7 @@ The Director of Buggy's Delivery</font>
 1379
 00:35:14,800 --> 00:35:19,050
 <font face="Impress BT" size="55">... the Warlord – Buggy
-the "Star Clown"-<i>sama</i>!{\an8}</font>
+the "Star Clown"-<i>sama</i>!</font>
 
 1380
 00:35:22,010 --> 00:35:27,730
@@ -5684,7 +5684,7 @@ A Pirate Mercenary Agency</font>
 
 1381
 00:35:22,010 --> 00:35:27,770
-<font face="Impress BT" size="55">Buggy! Buggy! Buggy! Buggy! Buggy!{\an8}</font>
+<font face="Impress BT" size="55">Buggy! Buggy! Buggy! Buggy! Buggy!</font>
 
 1382
 00:35:29,310 --> 00:35:31,400
@@ -5748,12 +5748,12 @@ the others climbed this.</font>
 
 1396
 00:36:49,180 --> 00:36:52,060
-<font face="Impress BT" size="56"><i>{\an8}The "thing" that Luffy and
+<font face="Impress BT" size="56"><i>The "thing" that Luffy and
 the rest are riding is</i></font>
 
 1397
 00:36:52,060 --> 00:36:56,310
-<font face="Impress BT" size="56"><i>{\an8}currently climbing the left
+<font face="Impress BT" size="56"><i>currently climbing the left
 hind leg of the giant elephant.</i></font>
 
 1398
@@ -5845,7 +5845,7 @@ Something's falling onto us!</font>
 
 1418
 00:38:03,950 --> 00:38:09,700
-<font face="FOT-Greco Std B" size="34">{\an7}Editing:
+<font face="FOT-Greco Std B" size="34">Editing:
  Feeso,
 Galaxy 9000,
 Simon

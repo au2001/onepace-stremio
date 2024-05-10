@@ -204,7 +204,7 @@ to celebrate our entry into the New World.</font>
 
 50
 00:05:33,310 --> 00:05:35,600
-<font face="Impress BT" size="38"><i>{\an8}Sure-Kill Capture Star</i></font>
+<font face="Impress BT" size="38"><i>Sure-Kill Capture Star</i></font>
 
 51
 00:05:38,600 --> 00:05:40,020
@@ -273,11 +273,11 @@ They're like matryoshka dolls!</font>
 
 67
 00:06:18,060 --> 00:06:19,400
-<font face="Impress BT" size="38"><i>{\an8}One Sword Style</i></font>
+<font face="Impress BT" size="38"><i>One Sword Style</i></font>
 
 68
 00:06:19,810 --> 00:06:21,900
-<font face="Impress BT" size="38"><i>{\an8}360 Pound Cannon/Phoenix of 360 Earthly Desires</i></font>
+<font face="Impress BT" size="38"><i>360 Pound Cannon/Phoenix of 360 Earthly Desires</i></font>
 
 69
 00:06:24,480 --> 00:06:26,570
@@ -464,7 +464,7 @@ How could you get us into this much trouble?!</i></font>
 
 114
 00:08:42,410 --> 00:08:42,910
-<font face="Impress BT" size="55">Right? { def: i'm not sure what Franky means here }{ tlc: Franky: Nope, it's way too late!  Franky: Isn't that right? Nami: I told you to do it! }</font>
+<font face="Impress BT" size="55">Right? </font>
 
 115
 00:08:42,910 --> 00:08:44,450
@@ -724,59 +724,59 @@ in a sea on the opposite side of the world!</font>
 
 177
 00:13:11,800 --> 00:13:16,230
-<font face="Impress BT" size="38"><i>{\an8}We're going to deliver Binks's brew,</i></font>
+<font face="Impress BT" size="38"><i>We're going to deliver Binks's brew,</i></font>
 
 178
 00:13:16,230 --> 00:13:20,150
-<font face="Impress BT" size="38"><i>{\an8}entrusting ourselves to the whims of the ocean breeze and waves.</i></font>
+<font face="Impress BT" size="38"><i>entrusting ourselves to the whims of the ocean breeze and waves.</i></font>
 
 179
 00:13:20,150 --> 00:13:24,820
-<font face="Impress BT" size="38"><i>{\an8}Beyond the tides, even the evening sun is cheerful.</i></font>
+<font face="Impress BT" size="38"><i>Beyond the tides, even the evening sun is cheerful.</i></font>
 
 180
 00:13:24,820 --> 00:13:28,950
-<font face="Impress BT" size="38"><i>{\an8}The song of birds, drawing circles in the sky.</i></font>
+<font face="Impress BT" size="38"><i>The song of birds, drawing circles in the sky.</i></font>
 
 181
 00:13:28,950 --> 00:13:33,400
-<font face="Impress BT" size="38"><i>{\an8}Farewell to the port, to the old hometown.</i></font>
+<font face="Impress BT" size="38"><i>Farewell to the port, to the old hometown.</i></font>
 
 182
 00:13:33,400 --> 00:13:37,670
-<font face="Impress BT" size="38"><i>{\an8}Let's sing a song with a DON, a song for our departure!</i></font>
+<font face="Impress BT" size="38"><i>Let's sing a song with a DON, a song for our departure!</i></font>
 
 183
 00:13:37,670 --> 00:13:41,920
-<font face="Impress BT" size="38"><i>{\an8}The waves of gold and silver turn to splashes of water,</i></font>
+<font face="Impress BT" size="38"><i>The waves of gold and silver turn to splashes of water,</i></font>
 
 184
 00:13:41,920 --> 00:13:45,920
-<font face="Impress BT" size="38"><i>{\an8}as we set off for the edge of the sea!</i></font>
+<font face="Impress BT" size="38"><i>as we set off for the edge of the sea!</i></font>
 
 185
 00:13:45,920 --> 00:13:50,350
-<font face="Impress BT" size="38"><i>{\an8}We're going to deliver Binks's brew.</i></font>
+<font face="Impress BT" size="38"><i>We're going to deliver Binks's brew.</i></font>
 
 186
 00:13:50,350 --> 00:13:54,550
-<font face="Impress BT" size="38"><i>{\an8}We are pirates, crossing the seas.</i></font>
+<font face="Impress BT" size="38"><i>We are pirates, crossing the seas.</i></font>
 
 187
 00:13:54,550 --> 00:13:58,930
-<font face="Impress BT" size="38"><i>{\an8}The sea is our pillow and the ship is our mattress.</i></font>
+<font face="Impress BT" size="38"><i>The sea is our pillow and the ship is our mattress.</i></font>
 
 188
 00:13:58,930 --> 00:14:03,360
-<font face="Impress BT" size="38"><i>{\an8}The skull is emblazoned on our sail and flag.</i></font>
+<font face="Impress BT" size="38"><i>The skull is emblazoned on our sail and flag.</i></font>
 
 189
 00:14:03,360 --> 00:14:07,450
-<font face="Impress BT" size="38"><i>{\an8}A storm is coming from the distant sky.</i></font>
+<font face="Impress BT" size="38"><i>A storm is coming from the distant sky.</i></font>
 
 190
 00:14:07,450 --> 00:14:12,030
-<font face="Impress BT" size="38"><i>{\an8}The waves are dancing, beat on the drums!</i></font>
+<font face="Impress BT" size="38"><i>The waves are dancing, beat on the drums!</i></font>
 
 191
 00:14:08,110 --> 00:14:10,530
@@ -788,7 +788,7 @@ in a sea on the opposite side of the world!</font>
 
 193
 00:14:12,030 --> 00:14:16,290
-<font face="Impress BT" size="38"><i>{\an8}If you're caught by a treacherous wind, this could be the end,</i></font>
+<font face="Impress BT" size="38"><i>If you're caught by a treacherous wind, this could be the end,</i></font>
 
 194
 00:14:14,040 --> 00:14:16,500
@@ -796,7 +796,7 @@ in a sea on the opposite side of the world!</font>
 
 195
 00:14:16,290 --> 00:14:20,710
-<font face="Impress BT" size="38"><i>{\an8}but the sun will always rise in the morning!</i></font>
+<font face="Impress BT" size="38"><i>but the sun will always rise in the morning!</i></font>
 
 196
 00:14:40,850 --> 00:14:41,650
@@ -1072,7 +1072,7 @@ we ought to think this through carefully bef-</font>
 
 263
 00:17:40,490 --> 00:17:42,870
-<font face="Impress BT" size="55">Hey, what's your name?! { 8:19, 10:32 }</font>
+<font face="Impress BT" size="55">Hey, what's your name?! </font>
 
 264
 00:17:42,910 --> 00:17:43,700
@@ -1088,7 +1088,7 @@ we ought to think this through carefully bef-</font>
 
 267
 00:17:49,080 --> 00:17:51,290
-<font face="Impress BT" size="55">Punk Hazard! { 8:27, 10:40 }</font>
+<font face="Impress BT" size="55">Punk Hazard! </font>
 
 268
 00:17:57,930 --> 00:17:58,930
@@ -1214,7 +1214,7 @@ once wielded by a legendary samurai.</i></font>
 
 298
 00:19:58,840 --> 00:20:00,420
-<font face="Impress BT" size="55">Punk Hazard! { 8:27, 10:40 }</font>
+<font face="Impress BT" size="55">Punk Hazard! </font>
 
 299
 00:20:03,800 --> 00:20:05,250

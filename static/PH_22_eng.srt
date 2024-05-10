@@ -20,12 +20,12 @@
 
 6
 00:00:24,220 --> 00:00:27,470
-<font face="Times New Roman" size="34">{\an1}Translation & initial timing
+<font face="Times New Roman" size="34">Translation & initial timing
 <font size="40">CrunchyRoll</font></font>
 
 7
 00:00:27,660 --> 00:00:30,740
-<font face="Times New Roman" size="34">{\an1}Timing
+<font face="Times New Roman" size="34">Timing
 <font size="40">Galaxy 9000
 
 </font>Time-checking
@@ -37,14 +37,14 @@
 
 9
 00:00:31,190 --> 00:00:34,380
-<font face="Times New Roman" size="34">{\an1}Quality-checking
+<font face="Times New Roman" size="34">Quality-checking
 <font size="40">Sewil
 Galaxy 9000
 Feeso</font></font>
 
 10
 00:00:34,860 --> 00:00:38,460
-<font face="Times New Roman" size="34">{\an1}Soundtracking
+<font face="Times New Roman" size="34">Soundtracking
 <font size="40">Halee</font></font>
 
 11
@@ -53,18 +53,18 @@ Feeso</font></font>
 
 12
 00:00:41,440 --> 00:00:43,690
-<font face="Times New Roman" size="34">{\an1}Video editing
+<font face="Times New Roman" size="34">Video editing
 <font size="40">Sewil</font></font>
 
 13
 00:00:43,740 --> 00:00:45,960
-<font face="Times New Roman" size="34">{\an1}Raw provider
+<font face="Times New Roman" size="34">Raw provider
 <font size="40">OPC-Raws (Opening)
 Crunchyroll (Episode)</font></font>
 
 14
 00:00:46,010 --> 00:00:48,240
-<font face="Times New Roman" size="34">{\an1}Title card artist
+<font face="Times New Roman" size="34">Title card artist
 <font size="40">someone</font></font>
 
 15
@@ -181,7 +181,7 @@ Crunchyroll (Episode)</font></font>
 
 43
 00:02:29,960 --> 00:02:38,590
-<font face="impress bt" size="63" color="#fefefe"><b>{\an5}The Arrival of the Mysterious Man and
+<font face="impress bt" size="63" color="#fefefe"><b>The Arrival of the Mysterious Man and
 the News Coo!</b></font>
 
 44
@@ -1515,7 +1515,7 @@ Government will do to Law." It says!</font>
 
 355
 00:22:54,820 --> 00:22:59,190
-<font face="Impress BT" size="55">{\an8}There's so much going
+<font face="Impress BT" size="55">There's so much going
 on in today's paper!</font>
 
 356
@@ -1626,11 +1626,11 @@ In response to Doflamingo's sudden abdication...</font>
 
 380
 00:24:16,810 --> 00:24:18,200
-<font face="Impress BT" size="55">{\an8}King!</font>
+<font face="Impress BT" size="55">King!</font>
 
 381
 00:24:18,200 --> 00:24:21,440
-<font face="Impress BT" size="55">{\an8}Your Majesty!</font>
+<font face="Impress BT" size="55">Your Majesty!</font>
 
 382
 00:24:18,940 --> 00:24:21,440

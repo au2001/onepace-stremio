@@ -1,16 +1,16 @@
 1
 00:00:02,140 --> 00:00:05,480
-<font face="FOT-Greco Std B" size="34">{\an1}<font size="25">Editor</font></font>
+<font face="FOT-Greco Std B" size="34"><font size="25">Editor</font></font>
 Sewil
 
 2
 00:00:05,480 --> 00:00:08,920
-<font face="FOT-Greco Std B" size="34">{\an1}<font size="25">Timer</font></font>
+<font face="FOT-Greco Std B" size="34"><font size="25">Timer</font></font>
 Sewil
 
 3
 00:00:08,920 --> 00:00:14,940
-<font face="FOT-Greco Std B" size="34">{\an1}<font size="25">Quality checker</font></font>
+<font face="FOT-Greco Std B" size="34"><font size="25">Quality checker</font></font>
 Grug
 Feeso
 
@@ -36,7 +36,7 @@ Feeso
 
 9
 00:00:34,200 --> 00:00:36,510
-<font face="Impress BT" size="55">She's just my type! {Not sure.}</font>
+<font face="Impress BT" size="55">She's just my type! </font>
 
 10
 00:00:36,510 --> 00:00:39,630
@@ -124,7 +124,7 @@ Feeso
 
 31
 00:01:47,880 --> 00:01:50,560
-<font face="Impress BT" size="55">My stomach is...! {EW!!!}</font>
+<font face="Impress BT" size="55">My stomach is...! </font>
 
 32
 00:01:54,140 --> 00:01:56,880
@@ -666,7 +666,7 @@ The secret hideout of the prisoners...</font>
 
 166
 00:10:18,470 --> 00:10:20,680
-<font face="Impress BT" size="55">It-t-t...  It's shrinking! {this is how I want this stutter -kae}</font>
+<font face="Impress BT" size="55">It-t-t...  It's shrinking! </font>
 
 167
 00:10:21,450 --> 00:10:24,320

@@ -28,7 +28,7 @@
 
 8
 00:00:23,750 --> 00:00:28,070
-<font face="Times New Roman" size="34">{\an1}Translation & initial timing
+<font face="Times New Roman" size="34">Translation & initial timing
 Yibis</font>
 
 9
@@ -37,7 +37,7 @@ Yibis</font>
 
 10
 00:00:28,160 --> 00:00:32,160
-<font face="Times New Roman" size="34">{\an1}Timing
+<font face="Times New Roman" size="34">Timing
 Halee</font>
 
 11
@@ -46,7 +46,7 @@ Halee</font>
 
 12
 00:00:34,660 --> 00:00:37,600
-<font face="Times New Roman" size="34">{\an1}Quality-checking
+<font face="Times New Roman" size="34">Quality-checking
 Simon
 Galaxy 9000
 Halee</font>
@@ -57,7 +57,7 @@ Halee</font>
 
 14
 00:00:39,020 --> 00:00:42,640
-<font face="Times New Roman" size="34">{\an1}Soundtracking
+<font face="Times New Roman" size="34">Soundtracking
 Halee</font>
 
 15
@@ -66,13 +66,13 @@ Halee</font>
 
 16
 00:00:45,870 --> 00:00:48,560
-<font face="Times New Roman" size="34">{\an1}Video editing
+<font face="Times New Roman" size="34">Video editing
 Simon
 Galaxy 9000</font>
 
 17
 00:00:45,870 --> 00:00:48,560
-<font face="Times New Roman" size="34">{\an1}Raw provider
+<font face="Times New Roman" size="34">Raw provider
 GS-Raws</font>
 
 18
@@ -564,7 +564,7 @@ Usopp</font></font>
 
 133
 00:07:05,800 --> 00:07:07,840
-<font face="Impress BT" size="55">F...{Yeah maybe this didn't NEED to be added... But I'm PRETTY sure the noises he be making here are attempts at saying "five hundred million?!" -Starfish}</font>
+<font face="Impress BT" size="55">F...</font>
 
 134
 00:07:08,910 --> 00:07:12,080
@@ -576,7 +576,7 @@ Usopp</font></font>
 
 136
 00:07:18,820 --> 00:07:22,220
-<font face="Impress BT" size="55">There are some one-stars and a three-star guy there as well. {Cecil: there are actually THREE one stars, not two(Rebecca, Robin and Kinemon) so I'm changing this to say some}{...Yeah... On one hand he literally SAYS "two", but on the other hand, you're right, there are in fact three. -Starfish}</font>
+<font face="Impress BT" size="55">There are some one-stars and a three-star guy there as well. </font>
 
 137
 00:07:22,220 --> 00:07:23,990
@@ -644,7 +644,7 @@ Usopp</font></font>
 
 153
 00:08:07,330 --> 00:08:08,270
-<font face="Impress BT" size="55">He fell!{Yeah, he did in fact jump, but they seem to think he just tripped. The word they used is literally "fell". -Starfish}</font>
+<font face="Impress BT" size="55">He fell!</font>
 
 154
 00:08:08,270 --> 00:08:10,640
@@ -657,7 +657,7 @@ Usopp</font></font>
 156
 00:08:18,810 --> 00:08:23,480
 <font face="Impress BT" size="55">Time is ticking,
- people are dying, and the town is burning. {lahdedah}{OXFORD COMMAS, YOU MOTHERFUCKERS!!! -kae}</font>
+ people are dying, and the town is burning. </font>
 
 157
 00:08:23,480 --> 00:08:24,880
@@ -829,7 +829,7 @@ Usopp</font></font>
 
 199
 00:10:43,420 --> 00:10:46,160
-<font face="Impress BT" size="55"><i>I-I couldn't protect her. {copy paste from 651}</i></font>
+<font face="Impress BT" size="55"><i>I-I couldn't protect her. </i></font>
 
 200
 00:10:49,090 --> 00:10:50,500
@@ -1049,7 +1049,7 @@ Usopp</font></font>
 
 254
 00:14:23,810 --> 00:14:26,310
-<font face="Impress BT" size="55">{\an8}If we apprehend Doflamingo,</font>
+<font face="Impress BT" size="55">If we apprehend Doflamingo,</font>
 
 255
 00:14:23,910 --> 00:14:29,450
@@ -1058,7 +1058,7 @@ Maynard the Pursuer (Participant in the tournament)</font>
 
 256
 00:14:26,310 --> 00:14:29,450
-<font face="Impress BT" size="55">{\an8}the balance of the world could shift!</font>
+<font face="Impress BT" size="55">the balance of the world could shift!</font>
 
 257
 00:14:29,450 --> 00:14:35,690
@@ -1143,7 +1143,7 @@ Trading Port</font>
 
 277
 00:16:08,710 --> 00:16:14,190
-<font face="Impress BT" size="55">{\an8}Hey, Doffy, shouldn't we protect the factory?</font>
+<font face="Impress BT" size="55">Hey, Doffy, shouldn't we protect the factory?</font>
 
 278
 00:16:09,250 --> 00:16:15,420
@@ -1151,7 +1151,7 @@ Trading Port</font>
 
 279
 00:16:14,190 --> 00:16:19,620
-<font face="Impress BT" size="55">{\an8}They'll never get in anyway. It's made of Sea Stone.</font>
+<font face="Impress BT" size="55">They'll never get in anyway. It's made of Sea Stone.</font>
 
 280
 00:16:19,620 --> 00:16:24,360
@@ -1180,7 +1180,7 @@ Trading Port</font>
 
 286
 00:16:41,110 --> 00:16:45,380
-<font face="Impress BT" size="55">Shut up, old G-zer!{The Japanese line is "Ji-G", a pun on "jijii", aka a derogatory term for old men. This seemed like a pretty good way of adapting that pun IMO -Starfish} She's not really a little girl, you know!</font>
+<font face="Impress BT" size="55">Shut up, old G-zer! She's not really a little girl, you know!</font>
 
 287
 00:16:45,380 --> 00:16:47,820

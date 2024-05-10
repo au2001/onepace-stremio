@@ -291,7 +291,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 69
 00:00:30,140 --> 00:00:30,790
-<font face="Duality" size="72" color="#378fdc">ke </font>
+<font face="Duality" size="72" color="#378fdc">ke</font>
 
 70
 00:00:30,190 --> 00:00:35,130
@@ -299,7 +299,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 71
 00:00:30,190 --> 00:00:30,990
-<font face="Duality" size="72" color="#378fdc">no </font>
+<font face="Duality" size="72" color="#378fdc">no</font>
 
 72
 00:00:30,240 --> 00:00:35,180
@@ -311,11 +311,11 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 74
 00:00:30,290 --> 00:00:35,230
-<font face="Duality" size="72" color="#378fdc">me </font>
+<font face="Duality" size="72" color="#378fdc">me</font>
 
 75
 00:00:30,290 --> 00:00:31,850
-<font face="Duality" size="72" color="#378fdc">me </font>
+<font face="Duality" size="72" color="#378fdc">me</font>
 
 76
 00:00:30,340 --> 00:00:30,590
@@ -327,7 +327,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 78
 00:00:30,340 --> 00:00:35,280
-<font face="Duality" size="72" color="#378fdc">i </font>
+<font face="Duality" size="72" color="#378fdc">i</font>
 
 79
 00:00:30,340 --> 00:00:30,590
@@ -347,7 +347,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 83
 00:00:30,390 --> 00:00:33,010
-<font face="Duality" size="72" color="#378fdc"> </font>
+<font face="Duality" size="72" color="#378fdc"></font>
 
 84
 00:00:30,420 --> 00:00:30,760
@@ -375,7 +375,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 90
 00:00:30,490 --> 00:00:33,460
-<font face="Duality" size="72" color="#378fdc">ki </font>
+<font face="Duality" size="72" color="#378fdc">ki</font>
 
 91
 00:00:30,510 --> 00:00:30,850
@@ -407,11 +407,11 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 98
 00:00:30,790 --> 00:00:31,240
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ke </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ke</font></font>
 
 99
 00:00:30,990 --> 00:00:31,760
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">no </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">no</font></font>
 
 100
 00:00:31,510 --> 00:00:32,100
@@ -419,7 +419,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 101
 00:00:31,850 --> 00:00:32,300
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">me </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">me</font></font>
 
 102
 00:00:32,050 --> 00:00:33,260
@@ -427,7 +427,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 103
 00:00:33,010 --> 00:00:33,570
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8"> </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8"></font></font>
 
 104
 00:00:33,320 --> 00:00:33,710
@@ -435,7 +435,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 105
 00:00:33,460 --> 00:00:33,900
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ki </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ki</font></font>
 
 106
 00:00:33,650 --> 00:00:34,180
@@ -475,11 +475,11 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 115
 00:00:35,230 --> 00:00:35,530
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">me </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">me</font></font>
 
 116
 00:00:35,280 --> 00:00:35,580
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">i </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">i</font></font>
 
 117
 00:00:35,330 --> 00:00:35,630
@@ -535,15 +535,15 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 130
 00:00:35,550 --> 00:00:40,860
-<font face="Duality" size="72" color="#378fdc">mo </font>
+<font face="Duality" size="72" color="#378fdc">mo</font>
 
 131
 00:00:35,550 --> 00:00:36,280
-<font face="Duality" size="72" color="#378fdc">shi </font>
+<font face="Duality" size="72" color="#378fdc">shi</font>
 
 132
 00:00:35,600 --> 00:00:40,910
-<font face="Duality" size="72" color="#378fdc">in </font>
+<font face="Duality" size="72" color="#378fdc">in</font>
 
 133
 00:00:35,600 --> 00:00:36,510
@@ -555,15 +555,15 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 135
 00:00:35,650 --> 00:00:36,730
-<font face="Duality" size="72" color="#378fdc">no </font>
+<font face="Duality" size="72" color="#378fdc">no</font>
 
 136
 00:00:35,700 --> 00:00:41,010
-<font face="Duality" size="72" color="#378fdc">ca </font>
+<font face="Duality" size="72" color="#378fdc">ca</font>
 
 137
 00:00:35,700 --> 00:00:36,880
-<font face="Duality" size="72" color="#378fdc">wo </font>
+<font face="Duality" size="72" color="#378fdc">wo</font>
 
 138
 00:00:35,750 --> 00:00:41,060
@@ -583,7 +583,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 142
 00:00:35,800 --> 00:00:41,110
-<font face="Duality" size="72" color="#378fdc">i </font>
+<font face="Duality" size="72" color="#378fdc">i</font>
 
 143
 00:00:35,800 --> 00:00:36,050
@@ -603,7 +603,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 147
 00:00:35,850 --> 00:00:37,680
-<font face="Duality" size="72" color="#378fdc">shi </font>
+<font face="Duality" size="72" color="#378fdc">shi</font>
 
 148
 00:00:35,900 --> 00:00:41,210
@@ -611,7 +611,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 149
 00:00:35,900 --> 00:00:38,300
-<font face="Duality" size="72" color="#378fdc">ni </font>
+<font face="Duality" size="72" color="#378fdc">ni</font>
 
 150
 00:00:35,930 --> 00:00:36,400
@@ -619,7 +619,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 151
 00:00:35,950 --> 00:00:41,260
-<font face="Duality" size="72" color="#378fdc">ri </font>
+<font face="Duality" size="72" color="#378fdc">ri</font>
 
 152
 00:00:35,950 --> 00:00:38,660
@@ -631,7 +631,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 154
 00:00:36,000 --> 00:00:39,020
-<font face="Duality" size="72" color="#378fdc">ku </font>
+<font face="Duality" size="72" color="#378fdc">ku</font>
 
 155
 00:00:36,050 --> 00:00:41,360
@@ -639,7 +639,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 156
 00:00:36,050 --> 00:00:39,350
-<font face="Duality" size="72" color="#378fdc">no </font>
+<font face="Duality" size="72" color="#378fdc">no</font>
 
 157
 00:00:36,100 --> 00:00:41,410
@@ -659,7 +659,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 161
 00:00:36,280 --> 00:00:36,760
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">shi </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">shi</font></font>
 
 162
 00:00:36,510 --> 00:00:36,980
@@ -667,11 +667,11 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 163
 00:00:36,730 --> 00:00:37,130
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">no </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">no</font></font>
 
 164
 00:00:36,880 --> 00:00:37,420
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">wo </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">wo</font></font>
 
 165
 00:00:37,170 --> 00:00:37,840
@@ -683,11 +683,11 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 167
 00:00:37,680 --> 00:00:38,550
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">shi </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">shi</font></font>
 
 168
 00:00:38,300 --> 00:00:38,910
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ni </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ni</font></font>
 
 169
 00:00:38,660 --> 00:00:39,270
@@ -695,11 +695,11 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 170
 00:00:39,020 --> 00:00:39,600
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ku </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ku</font></font>
 
 171
 00:00:39,350 --> 00:00:39,860
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">no </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">no</font></font>
 
 172
 00:00:39,610 --> 00:00:41,660
@@ -715,11 +715,11 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 175
 00:00:40,860 --> 00:00:41,160
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">mo </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">mo</font></font>
 
 176
 00:00:40,910 --> 00:00:41,210
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">in </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">in</font></font>
 
 177
 00:00:40,960 --> 00:00:41,260
@@ -727,7 +727,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 178
 00:00:41,010 --> 00:00:41,310
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">ca </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">ca</font></font>
 
 179
 00:00:41,060 --> 00:00:41,360
@@ -735,7 +735,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 180
 00:00:41,110 --> 00:00:41,410
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">i </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">i</font></font>
 
 181
 00:00:41,160 --> 00:00:41,460
@@ -747,7 +747,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 183
 00:00:41,260 --> 00:00:41,560
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">ri </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">ri</font></font>
 
 184
 00:00:41,270 --> 00:00:41,720
@@ -767,7 +767,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 188
 00:00:41,370 --> 00:00:41,850
-<font face="Duality" size="72" color="#378fdc">ONE </font>
+<font face="Duality" size="72" color="#378fdc">ONE</font>
 
 189
 00:00:41,410 --> 00:00:41,710
@@ -791,7 +791,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 194
 00:00:41,850 --> 00:00:42,450
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ONE </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ONE</font></font>
 
 195
 00:00:42,200 --> 00:00:42,870
@@ -839,11 +839,11 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 206
 00:00:47,650 --> 00:00:52,310
-<font face="Duality" size="72" color="#378fdc">ole </font>
+<font face="Duality" size="72" color="#378fdc">ole</font>
 
 207
 00:00:47,650 --> 00:00:48,700
-<font face="Duality" size="72" color="#378fdc">n </font>
+<font face="Duality" size="72" color="#378fdc">n</font>
 
 208
 00:00:47,700 --> 00:00:52,360
@@ -863,11 +863,11 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 212
 00:00:47,800 --> 00:00:52,460
-<font face="Duality" size="72" color="#378fdc">no </font>
+<font face="Duality" size="72" color="#378fdc">no</font>
 
 213
 00:00:47,800 --> 00:00:49,610
-<font face="Duality" size="72" color="#378fdc"> </font>
+<font face="Duality" size="72" color="#378fdc"></font>
 
 214
 00:00:47,850 --> 00:00:48,100
@@ -879,7 +879,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 216
 00:00:47,850 --> 00:00:52,510
-<font face="Duality" size="72" color="#378fdc">solo </font>
+<font face="Duality" size="72" color="#378fdc">solo</font>
 
 217
 00:00:47,850 --> 00:00:48,100
@@ -899,7 +899,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 221
 00:00:47,900 --> 00:00:51,160
-<font face="Duality" size="72" color="#378fdc">tai </font>
+<font face="Duality" size="72" color="#378fdc">tai</font>
 
 222
 00:00:47,950 --> 00:00:52,610
@@ -907,7 +907,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 223
 00:00:47,950 --> 00:00:51,510
-<font face="Duality" size="72" color="#378fdc">no </font>
+<font face="Duality" size="72" color="#378fdc">no</font>
 
 224
 00:00:47,960 --> 00:00:48,410
@@ -931,7 +931,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 229
 00:00:48,700 --> 00:00:49,260
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">n </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">n</font></font>
 
 230
 00:00:49,010 --> 00:00:49,620
@@ -943,7 +943,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 232
 00:00:49,610 --> 00:00:51,030
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8"> </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8"></font></font>
 
 233
 00:00:50,780 --> 00:00:51,410
@@ -951,11 +951,11 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 234
 00:00:51,160 --> 00:00:51,760
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">tai </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">tai</font></font>
 
 235
 00:00:51,510 --> 00:00:52,110
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">no </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">no</font></font>
 
 236
 00:00:51,860 --> 00:00:52,480
@@ -979,7 +979,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 241
 00:00:52,310 --> 00:00:52,610
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">ole </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">ole</font></font>
 
 242
 00:00:52,360 --> 00:00:52,660
@@ -991,11 +991,11 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 244
 00:00:52,460 --> 00:00:52,760
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">no </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">no</font></font>
 
 245
 00:00:52,510 --> 00:00:52,810
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">solo </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">solo</font></font>
 
 246
 00:00:52,560 --> 00:00:52,860
@@ -1031,19 +1031,19 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 254
 00:00:53,230 --> 00:00:57,740
-<font face="Duality" size="72" color="#378fdc">no </font>
+<font face="Duality" size="72" color="#378fdc">no</font>
 
 255
 00:00:53,230 --> 00:00:53,850
-<font face="Duality" size="72" color="#378fdc">tsu </font>
+<font face="Duality" size="72" color="#378fdc">tsu</font>
 
 256
 00:00:53,280 --> 00:00:57,790
-<font face="Duality" size="72" color="#378fdc">di </font>
+<font face="Duality" size="72" color="#378fdc">di</font>
 
 257
 00:00:53,280 --> 00:00:54,000
-<font face="Duality" size="72" color="#378fdc">ni </font>
+<font face="Duality" size="72" color="#378fdc">ni</font>
 
 258
 00:00:53,330 --> 00:00:57,840
@@ -1087,7 +1087,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 268
 00:00:53,530 --> 00:00:58,040
-<font face="Duality" size="72" color="#378fdc">mo, </font>
+<font face="Duality" size="72" color="#378fdc">mo,</font>
 
 269
 00:00:53,530 --> 00:00:53,780
@@ -1099,7 +1099,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 271
 00:00:53,530 --> 00:00:55,320
-<font face="Duality" size="72" color="#378fdc"> </font>
+<font face="Duality" size="72" color="#378fdc"></font>
 
 272
 00:00:53,580 --> 00:00:58,090
@@ -1119,19 +1119,19 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 276
 00:00:53,630 --> 00:00:56,140
-<font face="Duality" size="72" color="#378fdc">ji </font>
+<font face="Duality" size="72" color="#378fdc">ji</font>
 
 277
 00:00:53,680 --> 00:00:58,190
-<font face="Duality" size="72" color="#378fdc">do </font>
+<font face="Duality" size="72" color="#378fdc">do</font>
 
 278
 00:00:53,680 --> 00:00:56,510
-<font face="Duality" size="72" color="#378fdc">wo </font>
+<font face="Duality" size="72" color="#378fdc">wo</font>
 
 279
 00:00:53,730 --> 00:00:58,240
-<font face="Duality" size="72" color="#378fdc">il </font>
+<font face="Duality" size="72" color="#378fdc">il</font>
 
 280
 00:00:53,730 --> 00:00:57,220
@@ -1143,7 +1143,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 282
 00:00:53,780 --> 00:00:57,400
-<font face="Duality" size="72" color="#378fdc">ru </font>
+<font face="Duality" size="72" color="#378fdc">ru</font>
 
 283
 00:00:53,830 --> 00:00:58,340
@@ -1151,11 +1151,11 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 284
 00:00:53,830 --> 00:00:57,570
-<font face="Duality" size="72" color="#378fdc">no </font>
+<font face="Duality" size="72" color="#378fdc">no</font>
 
 285
 00:00:53,850 --> 00:00:54,250
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">tsu </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">tsu</font></font>
 
 286
 00:00:53,880 --> 00:00:58,390
@@ -1167,7 +1167,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 288
 00:00:54,000 --> 00:00:54,420
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ni </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ni</font></font>
 
 289
 00:00:54,170 --> 00:00:54,600
@@ -1187,7 +1187,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 293
 00:00:55,320 --> 00:00:56,010
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8"> </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8"></font></font>
 
 294
 00:00:55,760 --> 00:00:56,390
@@ -1195,11 +1195,11 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 295
 00:00:56,140 --> 00:00:56,760
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ji </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ji</font></font>
 
 296
 00:00:56,510 --> 00:00:57,470
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">wo </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">wo</font></font>
 
 297
 00:00:57,220 --> 00:00:57,650
@@ -1207,11 +1207,11 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 298
 00:00:57,400 --> 00:00:57,820
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ru </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ru</font></font>
 
 299
 00:00:57,570 --> 00:00:57,960
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">no </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">no</font></font>
 
 300
 00:00:57,690 --> 00:00:57,990
@@ -1223,11 +1223,11 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 302
 00:00:57,740 --> 00:00:58,040
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">no </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">no</font></font>
 
 303
 00:00:57,790 --> 00:00:58,090
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">di </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">di</font></font>
 
 304
 00:00:57,840 --> 00:00:58,140
@@ -1247,7 +1247,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 308
 00:00:58,040 --> 00:00:58,340
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">mo, </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">mo,</font></font>
 
 309
 00:00:58,090 --> 00:00:58,390
@@ -1259,11 +1259,11 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 311
 00:00:58,190 --> 00:00:58,490
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">do </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">do</font></font>
 
 312
 00:00:58,240 --> 00:00:58,540
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">il </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">il</font></font>
 
 313
 00:00:58,290 --> 00:00:58,590
@@ -1303,7 +1303,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 322
 00:00:58,980 --> 00:01:03,730
-<font face="Duality" size="72" color="#378fdc">che </font>
+<font face="Duality" size="72" color="#378fdc">che</font>
 
 323
 00:00:58,980 --> 00:00:59,620
@@ -1311,11 +1311,11 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 324
 00:00:59,030 --> 00:01:03,780
-<font face="Duality" size="72" color="#378fdc">la </font>
+<font face="Duality" size="72" color="#378fdc">la</font>
 
 325
 00:00:59,030 --> 00:00:59,720
-<font face="Duality" size="72" color="#378fdc">RI </font>
+<font face="Duality" size="72" color="#378fdc">RI</font>
 
 326
 00:00:59,080 --> 00:01:03,830
@@ -1359,7 +1359,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 336
 00:00:59,280 --> 00:01:04,030
-<font face="Duality" size="72" color="#378fdc">sa </font>
+<font face="Duality" size="72" color="#378fdc">sa</font>
 
 337
 00:00:59,280 --> 00:00:59,530
@@ -1371,7 +1371,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 339
 00:00:59,280 --> 00:01:01,030
-<font face="Duality" size="72" color="#378fdc"> </font>
+<font face="Duality" size="72" color="#378fdc"></font>
 
 340
 00:00:59,330 --> 00:01:04,080
@@ -1387,7 +1387,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 343
 00:00:59,380 --> 00:01:04,130
-<font face="Duality" size="72" color="#378fdc">pa </font>
+<font face="Duality" size="72" color="#378fdc">pa</font>
 
 344
 00:00:59,380 --> 00:01:02,050
@@ -1399,15 +1399,15 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 346
 00:00:59,430 --> 00:01:02,200
-<font face="Duality" size="72" color="#378fdc">ra </font>
+<font face="Duality" size="72" color="#378fdc">ra</font>
 
 347
 00:00:59,480 --> 00:01:04,230
-<font face="Duality" size="72" color="#378fdc">l </font>
+<font face="Duality" size="72" color="#378fdc">l</font>
 
 348
 00:00:59,480 --> 00:01:02,570
-<font face="Duality" size="72" color="#378fdc">no </font>
+<font face="Duality" size="72" color="#378fdc">no</font>
 
 349
 00:00:59,530 --> 00:01:04,280
@@ -1423,7 +1423,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 352
 00:00:59,580 --> 00:01:03,310
-<font face="Duality" size="72" color="#378fdc">zu </font>
+<font face="Duality" size="72" color="#378fdc">zu</font>
 
 353
 00:00:59,620 --> 00:00:59,970
@@ -1443,7 +1443,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 357
 00:00:59,720 --> 00:01:00,160
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">RI </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">RI</font></font>
 
 358
 00:00:59,910 --> 00:01:00,330
@@ -1463,7 +1463,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 362
 00:01:01,030 --> 00:01:02,120
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8"> </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8"></font></font>
 
 363
 00:01:01,870 --> 00:01:02,300
@@ -1475,11 +1475,11 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 365
 00:01:02,200 --> 00:01:02,820
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ra </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ra</font></font>
 
 366
 00:01:02,570 --> 00:01:03,140
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">no </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">no</font></font>
 
 367
 00:01:02,890 --> 00:01:03,560
@@ -1487,7 +1487,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 368
 00:01:03,310 --> 00:01:03,740
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">zu </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">zu</font></font>
 
 369
 00:01:03,490 --> 00:01:04,730
@@ -1499,11 +1499,11 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 371
 00:01:03,730 --> 00:01:04,030
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">che </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">che</font></font>
 
 372
 00:01:03,780 --> 00:01:04,080
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">la </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">la</font></font>
 
 373
 00:01:03,830 --> 00:01:04,130
@@ -1523,7 +1523,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 377
 00:01:04,030 --> 00:01:04,330
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">sa </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">sa</font></font>
 
 378
 00:01:04,040 --> 00:01:04,490
@@ -1547,7 +1547,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 383
 00:01:04,130 --> 00:01:04,430
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">pa </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">pa</font></font>
 
 384
 00:01:04,140 --> 00:01:09,340
@@ -1571,11 +1571,11 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 389
 00:01:04,230 --> 00:01:04,530
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">l </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">l</font></font>
 
 390
 00:01:04,240 --> 00:01:09,440
-<font face="Duality" size="72" color="#378fdc">ta, </font>
+<font face="Duality" size="72" color="#378fdc">ta,</font>
 
 391
 00:01:04,240 --> 00:01:05,090
@@ -1587,7 +1587,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 393
 00:01:04,290 --> 00:01:09,490
-<font face="Duality" size="72" color="#378fdc">non </font>
+<font face="Duality" size="72" color="#378fdc">non</font>
 
 394
 00:01:04,290 --> 00:01:05,450
@@ -1599,11 +1599,11 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 396
 00:01:04,340 --> 00:01:09,540
-<font face="Duality" size="72" color="#378fdc">è </font>
+<font face="Duality" size="72" color="#378fdc">è</font>
 
 397
 00:01:04,340 --> 00:01:05,760
-<font face="Duality" size="72" color="#378fdc">ta </font>
+<font face="Duality" size="72" color="#378fdc">ta</font>
 
 398
 00:01:04,380 --> 00:01:04,680
@@ -1615,7 +1615,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 400
 00:01:04,390 --> 00:01:06,170
-<font face="Duality" size="72" color="#378fdc">no </font>
+<font face="Duality" size="72" color="#378fdc">no</font>
 
 401
 00:01:04,430 --> 00:01:04,730
@@ -1651,7 +1651,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 409
 00:01:04,490 --> 00:01:07,050
-<font face="Duality" size="72" color="#378fdc">ra </font>
+<font face="Duality" size="72" color="#378fdc">ra</font>
 
 410
 00:01:04,540 --> 00:01:09,740
@@ -1667,7 +1667,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 413
 00:01:04,640 --> 00:01:08,240
-<font face="Duality" size="72" color="#378fdc">tsu </font>
+<font face="Duality" size="72" color="#378fdc">tsu</font>
 
 414
 00:01:04,690 --> 00:01:08,650
@@ -1699,11 +1699,11 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 421
 00:01:05,760 --> 00:01:06,420
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ta </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ta</font></font>
 
 422
 00:01:06,170 --> 00:01:06,760
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">no </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">no</font></font>
 
 423
 00:01:06,510 --> 00:01:07,300
@@ -1711,7 +1711,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 424
 00:01:07,050 --> 00:01:07,850
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ra </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ra</font></font>
 
 425
 00:01:07,600 --> 00:01:08,110
@@ -1723,7 +1723,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 427
 00:01:08,240 --> 00:01:08,900
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">tsu </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">tsu</font></font>
 
 428
 00:01:08,650 --> 00:01:09,260
@@ -1747,15 +1747,15 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 433
 00:01:09,440 --> 00:01:09,740
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">ta, </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">ta,</font></font>
 
 434
 00:01:09,490 --> 00:01:09,790
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">non </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">non</font></font>
 
 435
 00:01:09,540 --> 00:01:09,840
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">è </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">è</font></font>
 
 436
 00:01:09,590 --> 00:01:09,890
@@ -1799,7 +1799,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 446
 00:01:11,030 --> 00:01:16,200
-<font face="Duality" size="72" color="#378fdc">r </font>
+<font face="Duality" size="72" color="#378fdc">r</font>
 
 447
 00:01:11,030 --> 00:01:11,830
@@ -1807,11 +1807,11 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 448
 00:01:11,080 --> 00:01:16,250
-<font face="Duality" size="72" color="#378fdc">le </font>
+<font face="Duality" size="72" color="#378fdc">le</font>
 
 449
 00:01:11,080 --> 00:01:12,210
-<font face="Duality" size="72" color="#378fdc">n </font>
+<font face="Duality" size="72" color="#378fdc">n</font>
 
 450
 00:01:11,130 --> 00:01:16,300
@@ -1827,7 +1827,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 453
 00:01:11,180 --> 00:01:12,980
-<font face="Duality" size="72" color="#378fdc">ki </font>
+<font face="Duality" size="72" color="#378fdc">ki</font>
 
 454
 00:01:11,230 --> 00:01:16,400
@@ -1835,7 +1835,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 455
 00:01:11,230 --> 00:01:13,470
-<font face="Duality" size="72" color="#378fdc">na </font>
+<font face="Duality" size="72" color="#378fdc">na</font>
 
 456
 00:01:11,280 --> 00:01:16,450
@@ -1855,7 +1855,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 460
 00:01:11,330 --> 00:01:16,500
-<font face="Duality" size="72" color="#378fdc">te </font>
+<font face="Duality" size="72" color="#378fdc">te</font>
 
 461
 00:01:11,330 --> 00:01:11,580
@@ -1875,7 +1875,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 465
 00:01:11,380 --> 00:01:14,660
-<font face="Duality" size="72" color="#378fdc">shi </font>
+<font face="Duality" size="72" color="#378fdc">shi</font>
 
 466
 00:01:11,430 --> 00:01:16,600
@@ -1883,7 +1883,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 467
 00:01:11,430 --> 00:01:14,780
-<font face="Duality" size="72" color="#378fdc">wa </font>
+<font face="Duality" size="72" color="#378fdc">wa</font>
 
 468
 00:01:11,460 --> 00:01:12,080
@@ -1903,7 +1903,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 472
 00:01:11,530 --> 00:01:15,930
-<font face="Duality" size="72" color="#378fdc">re </font>
+<font face="Duality" size="72" color="#378fdc">re</font>
 
 473
 00:01:11,580 --> 00:01:16,750
@@ -1911,7 +1911,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 474
 00:01:11,580 --> 00:01:16,120
-<font face="Duality" size="72" color="#378fdc">ka </font>
+<font face="Duality" size="72" color="#378fdc">ka</font>
 
 475
 00:01:11,630 --> 00:01:16,310
@@ -1923,7 +1923,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 477
 00:01:12,210 --> 00:01:13,140
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">n </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">n</font></font>
 
 478
 00:01:12,890 --> 00:01:13,230
@@ -1931,11 +1931,11 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 479
 00:01:12,980 --> 00:01:13,720
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ki </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ki</font></font>
 
 480
 00:01:13,470 --> 00:01:14,430
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">na </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">na</font></font>
 
 481
 00:01:14,180 --> 00:01:14,760
@@ -1947,11 +1947,11 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 483
 00:01:14,660 --> 00:01:15,030
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">shi </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">shi</font></font>
 
 484
 00:01:14,780 --> 00:01:15,650
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">wa </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">wa</font></font>
 
 485
 00:01:15,400 --> 00:01:16,180
@@ -1959,11 +1959,11 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 486
 00:01:15,930 --> 00:01:16,370
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">re </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">re</font></font>
 
 487
 00:01:16,120 --> 00:01:16,560
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ka </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ka</font></font>
 
 488
 00:01:16,150 --> 00:01:16,450
@@ -1971,11 +1971,11 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 489
 00:01:16,200 --> 00:01:16,500
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">r </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">r</font></font>
 
 490
 00:01:16,250 --> 00:01:16,550
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">le </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">le</font></font>
 
 491
 00:01:16,300 --> 00:01:16,600
@@ -1999,7 +1999,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 496
 00:01:16,500 --> 00:01:16,800
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">te </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">te</font></font>
 
 497
 00:01:16,550 --> 00:01:16,850
@@ -2047,7 +2047,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 508
 00:01:16,830 --> 00:01:21,290
-<font face="Duality" size="72" color="#378fdc">ta </font>
+<font face="Duality" size="72" color="#378fdc">ta</font>
 
 509
 00:01:16,830 --> 00:01:17,580
@@ -2083,11 +2083,11 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 517
 00:01:17,030 --> 00:01:19,180
-<font face="Duality" size="72" color="#378fdc">MU </font>
+<font face="Duality" size="72" color="#378fdc">MU</font>
 
 518
 00:01:17,080 --> 00:01:21,540
-<font face="Duality" size="72" color="#378fdc">rsi </font>
+<font face="Duality" size="72" color="#378fdc">rsi</font>
 
 519
 00:01:17,080 --> 00:01:19,720
@@ -2119,7 +2119,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 526
 00:01:17,180 --> 00:01:21,640
-<font face="Duality" size="72" color="#378fdc">l </font>
+<font face="Duality" size="72" color="#378fdc">l</font>
 
 527
 00:01:17,180 --> 00:01:20,260
@@ -2147,15 +2147,15 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 533
 00:01:17,380 --> 00:01:21,840
-<font face="Duality" size="72" color="#378fdc">tmo </font>
+<font face="Duality" size="72" color="#378fdc">tmo</font>
 
 534
 00:01:17,430 --> 00:01:21,890
-<font face="Duality" size="72" color="#378fdc">di </font>
+<font face="Duality" size="72" color="#378fdc">di</font>
 
 535
 00:01:17,480 --> 00:01:21,940
-<font face="Duality" size="72" color="#378fdc">un </font>
+<font face="Duality" size="72" color="#378fdc">un</font>
 
 536
 00:01:17,530 --> 00:01:21,990
@@ -2191,7 +2191,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 544
 00:01:19,180 --> 00:01:19,970
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">MU </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">MU</font></font>
 
 545
 00:01:19,720 --> 00:01:20,230
@@ -2215,7 +2215,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 550
 00:01:21,290 --> 00:01:21,590
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">ta </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">ta</font></font>
 
 551
 00:01:21,340 --> 00:01:21,640
@@ -2235,7 +2235,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 555
 00:01:21,540 --> 00:01:21,840
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">rsi </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">rsi</font></font>
 
 556
 00:01:21,590 --> 00:01:21,890
@@ -2243,7 +2243,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 557
 00:01:21,640 --> 00:01:21,940
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">l </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">l</font></font>
 
 558
 00:01:21,690 --> 00:01:21,990
@@ -2259,11 +2259,11 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 561
 00:01:21,840 --> 00:01:22,140
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">tmo </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">tmo</font></font>
 
 562
 00:01:21,890 --> 00:01:22,190
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">di </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">di</font></font>
 
 563
 00:01:21,900 --> 00:01:22,350
@@ -2275,7 +2275,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 565
 00:01:21,940 --> 00:01:22,240
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">un </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">un</font></font>
 
 566
 00:01:21,950 --> 00:01:22,350
@@ -2291,7 +2291,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 569
 00:01:22,000 --> 00:01:23,690
-<font face="Duality" size="72" color="#378fdc">e </font>
+<font face="Duality" size="72" color="#378fdc">e</font>
 
 570
 00:01:22,000 --> 00:01:22,420
@@ -2315,11 +2315,11 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 575
 00:01:22,100 --> 00:01:23,790
-<font face="Duality" size="72" color="#378fdc">r </font>
+<font face="Duality" size="72" color="#378fdc">r</font>
 
 576
 00:01:22,100 --> 00:01:22,750
-<font face="Duality" size="72" color="#378fdc">i </font>
+<font face="Duality" size="72" color="#378fdc">i</font>
 
 577
 00:01:22,140 --> 00:01:22,440
@@ -2335,7 +2335,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 580
 00:01:22,200 --> 00:01:23,890
-<font face="Duality" size="72" color="#378fdc">ta </font>
+<font face="Duality" size="72" color="#378fdc">ta</font>
 
 581
 00:01:22,200 --> 00:01:23,120
@@ -2343,7 +2343,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 582
 00:01:22,250 --> 00:01:23,940
-<font face="Duality" size="72" color="#378fdc">che </font>
+<font face="Duality" size="72" color="#378fdc">che</font>
 
 583
 00:01:22,250 --> 00:01:23,280
@@ -2355,7 +2355,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 585
 00:01:22,300 --> 00:01:23,510
-<font face="Duality" size="72" color="#378fdc">ba </font>
+<font face="Duality" size="72" color="#378fdc">ba</font>
 
 586
 00:01:22,350 --> 00:01:22,600
@@ -2399,7 +2399,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 596
 00:01:22,750 --> 00:01:23,110
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">i </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">i</font></font>
 
 597
 00:01:22,860 --> 00:01:23,370
@@ -2415,7 +2415,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 600
 00:01:23,510 --> 00:01:23,930
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ba </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ba</font></font>
 
 601
 00:01:23,680 --> 00:01:24,440
@@ -2423,7 +2423,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 602
 00:01:23,690 --> 00:01:23,990
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">e </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">e</font></font>
 
 603
 00:01:23,740 --> 00:01:24,040
@@ -2431,7 +2431,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 604
 00:01:23,790 --> 00:01:24,090
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">r </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">r</font></font>
 
 605
 00:01:23,840 --> 00:01:24,140
@@ -2439,11 +2439,11 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 606
 00:01:23,890 --> 00:01:24,190
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">ta </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">ta</font></font>
 
 607
 00:01:23,940 --> 00:01:24,240
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">che </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">che</font></font>
 
 608
 00:01:23,990 --> 00:01:24,290
@@ -2507,7 +2507,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 623
 00:01:25,860 --> 00:01:26,500
-<font face="Duality" size="72" color="#378fdc">ke </font>
+<font face="Duality" size="72" color="#378fdc">ke</font>
 
 624
 00:01:25,910 --> 00:01:30,880
@@ -2515,7 +2515,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 625
 00:01:25,910 --> 00:01:26,700
-<font face="Duality" size="72" color="#378fdc">no </font>
+<font face="Duality" size="72" color="#378fdc">no</font>
 
 626
 00:01:25,960 --> 00:01:30,930
@@ -2527,11 +2527,11 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 628
 00:01:26,010 --> 00:01:30,980
-<font face="Duality" size="72" color="#378fdc">me </font>
+<font face="Duality" size="72" color="#378fdc">me</font>
 
 629
 00:01:26,010 --> 00:01:27,560
-<font face="Duality" size="72" color="#378fdc">me </font>
+<font face="Duality" size="72" color="#378fdc">me</font>
 
 630
 00:01:26,060 --> 00:01:26,310
@@ -2543,7 +2543,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 632
 00:01:26,060 --> 00:01:31,030
-<font face="Duality" size="72" color="#378fdc">i </font>
+<font face="Duality" size="72" color="#378fdc">i</font>
 
 633
 00:01:26,060 --> 00:01:26,310
@@ -2563,7 +2563,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 637
 00:01:26,110 --> 00:01:28,720
-<font face="Duality" size="72" color="#378fdc"> </font>
+<font face="Duality" size="72" color="#378fdc"></font>
 
 638
 00:01:26,130 --> 00:01:26,470
@@ -2583,7 +2583,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 642
 00:01:26,210 --> 00:01:29,170
-<font face="Duality" size="72" color="#378fdc">ki </font>
+<font face="Duality" size="72" color="#378fdc">ki</font>
 
 643
 00:01:26,220 --> 00:01:26,560
@@ -2615,11 +2615,11 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 650
 00:01:26,500 --> 00:01:26,950
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ke </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ke</font></font>
 
 651
 00:01:26,700 --> 00:01:27,470
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">no </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">no</font></font>
 
 652
 00:01:27,220 --> 00:01:27,810
@@ -2627,7 +2627,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 653
 00:01:27,560 --> 00:01:28,010
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">me </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">me</font></font>
 
 654
 00:01:27,760 --> 00:01:28,970
@@ -2635,7 +2635,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 655
 00:01:28,720 --> 00:01:29,280
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8"> </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8"></font></font>
 
 656
 00:01:29,030 --> 00:01:29,420
@@ -2643,7 +2643,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 657
 00:01:29,170 --> 00:01:29,610
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ki </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ki</font></font>
 
 658
 00:01:29,360 --> 00:01:29,890
@@ -2683,11 +2683,11 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 667
 00:01:30,980 --> 00:01:31,280
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">me </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">me</font></font>
 
 668
 00:01:31,030 --> 00:01:31,330
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">i </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">i</font></font>
 
 669
 00:01:31,080 --> 00:01:31,380
@@ -2743,15 +2743,15 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 682
 00:01:31,310 --> 00:01:36,270
-<font face="Duality" size="72" color="#378fdc">mo </font>
+<font face="Duality" size="72" color="#378fdc">mo</font>
 
 683
 00:01:31,310 --> 00:01:31,980
-<font face="Duality" size="72" color="#378fdc">shi </font>
+<font face="Duality" size="72" color="#378fdc">shi</font>
 
 684
 00:01:31,360 --> 00:01:36,320
-<font face="Duality" size="72" color="#378fdc">in </font>
+<font face="Duality" size="72" color="#378fdc">in</font>
 
 685
 00:01:31,360 --> 00:01:32,210
@@ -2763,15 +2763,15 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 687
 00:01:31,410 --> 00:01:32,430
-<font face="Duality" size="72" color="#378fdc">no </font>
+<font face="Duality" size="72" color="#378fdc">no</font>
 
 688
 00:01:31,460 --> 00:01:36,420
-<font face="Duality" size="72" color="#378fdc">ca </font>
+<font face="Duality" size="72" color="#378fdc">ca</font>
 
 689
 00:01:31,460 --> 00:01:32,580
-<font face="Duality" size="72" color="#378fdc">wo </font>
+<font face="Duality" size="72" color="#378fdc">wo</font>
 
 690
 00:01:31,510 --> 00:01:36,470
@@ -2791,7 +2791,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 694
 00:01:31,560 --> 00:01:36,520
-<font face="Duality" size="72" color="#378fdc">i </font>
+<font face="Duality" size="72" color="#378fdc">i</font>
 
 695
 00:01:31,560 --> 00:01:31,810
@@ -2811,7 +2811,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 699
 00:01:31,610 --> 00:01:33,380
-<font face="Duality" size="72" color="#378fdc">shi </font>
+<font face="Duality" size="72" color="#378fdc">shi</font>
 
 700
 00:01:31,630 --> 00:01:32,100
@@ -2823,11 +2823,11 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 702
 00:01:31,660 --> 00:01:34,000
-<font face="Duality" size="72" color="#378fdc">ni </font>
+<font face="Duality" size="72" color="#378fdc">ni</font>
 
 703
 00:01:31,710 --> 00:01:36,670
-<font face="Duality" size="72" color="#378fdc">ri </font>
+<font face="Duality" size="72" color="#378fdc">ri</font>
 
 704
 00:01:31,710 --> 00:01:34,360
@@ -2839,7 +2839,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 706
 00:01:31,760 --> 00:01:34,720
-<font face="Duality" size="72" color="#378fdc">ku </font>
+<font face="Duality" size="72" color="#378fdc">ku</font>
 
 707
 00:01:31,810 --> 00:01:36,770
@@ -2847,7 +2847,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 708
 00:01:31,810 --> 00:01:35,050
-<font face="Duality" size="72" color="#378fdc">no </font>
+<font face="Duality" size="72" color="#378fdc">no</font>
 
 709
 00:01:31,850 --> 00:01:32,230
@@ -2867,7 +2867,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 713
 00:01:31,980 --> 00:01:32,460
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">shi </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">shi</font></font>
 
 714
 00:01:32,210 --> 00:01:32,680
@@ -2875,11 +2875,11 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 715
 00:01:32,430 --> 00:01:32,830
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">no </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">no</font></font>
 
 716
 00:01:32,580 --> 00:01:33,120
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">wo </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">wo</font></font>
 
 717
 00:01:32,870 --> 00:01:33,540
@@ -2891,11 +2891,11 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 719
 00:01:33,380 --> 00:01:34,250
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">shi </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">shi</font></font>
 
 720
 00:01:34,000 --> 00:01:34,610
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ni </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ni</font></font>
 
 721
 00:01:34,360 --> 00:01:34,970
@@ -2903,11 +2903,11 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 722
 00:01:34,720 --> 00:01:35,300
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ku </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ku</font></font>
 
 723
 00:01:35,050 --> 00:01:35,560
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">no </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">no</font></font>
 
 724
 00:01:35,310 --> 00:01:37,360
@@ -2923,11 +2923,11 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 727
 00:01:36,270 --> 00:01:36,570
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">mo </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">mo</font></font>
 
 728
 00:01:36,320 --> 00:01:36,620
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">in </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">in</font></font>
 
 729
 00:01:36,370 --> 00:01:36,670
@@ -2935,7 +2935,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 730
 00:01:36,420 --> 00:01:36,720
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">ca </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">ca</font></font>
 
 731
 00:01:36,470 --> 00:01:36,770
@@ -2943,7 +2943,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 732
 00:01:36,520 --> 00:01:36,820
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">i </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">i</font></font>
 
 733
 00:01:36,570 --> 00:01:36,870
@@ -2955,7 +2955,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 735
 00:01:36,670 --> 00:01:36,970
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">ri </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">ri</font></font>
 
 736
 00:01:36,720 --> 00:01:37,020
@@ -2991,7 +2991,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 744
 00:01:36,930 --> 00:01:39,610
-<font face="Duality" size="72" color="#378fdc">Una </font>
+<font face="Duality" size="72" color="#378fdc">Una</font>
 
 745
 00:01:36,930 --> 00:01:37,370
@@ -3007,11 +3007,11 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 748
 00:01:37,030 --> 00:01:39,710
-<font face="Duality" size="72" color="#378fdc">ta </font>
+<font face="Duality" size="72" color="#378fdc">ta</font>
 
 749
 00:01:37,030 --> 00:01:37,920
-<font face="Duality" size="72" color="#378fdc">TTO </font>
+<font face="Duality" size="72" color="#378fdc">TTO</font>
 
 750
 00:01:37,080 --> 00:01:39,760
@@ -3019,11 +3019,11 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 751
 00:01:37,080 --> 00:01:38,490
-<font face="Duality" size="72" color="#378fdc">no </font>
+<font face="Duality" size="72" color="#378fdc">no</font>
 
 752
 00:01:37,130 --> 00:01:39,810
-<font face="Duality" size="72" color="#378fdc">la </font>
+<font face="Duality" size="72" color="#378fdc">la</font>
 
 753
 00:01:37,130 --> 00:01:39,010
@@ -3071,11 +3071,11 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 764
 00:01:37,920 --> 00:01:38,740
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">TTO </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">TTO</font></font>
 
 765
 00:01:38,490 --> 00:01:39,260
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">no </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">no</font></font>
 
 766
 00:01:39,010 --> 00:01:39,540
@@ -3103,11 +3103,11 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 772
 00:01:39,610 --> 00:01:39,910
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">Una </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">Una</font></font>
 
 773
 00:01:39,640 --> 00:01:42,680
-<font face="Duality" size="72" color="#378fdc">e </font>
+<font face="Duality" size="72" color="#378fdc">e</font>
 
 774
 00:01:39,640 --> 00:01:40,190
@@ -3127,15 +3127,15 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 778
 00:01:39,710 --> 00:01:40,010
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">ta </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">ta</font></font>
 
 779
 00:01:39,740 --> 00:01:42,780
-<font face="Duality" size="72" color="#378fdc">resti </font>
+<font face="Duality" size="72" color="#378fdc">resti</font>
 
 780
 00:01:39,740 --> 00:01:40,610
-<font face="Duality" size="72" color="#378fdc">to </font>
+<font face="Duality" size="72" color="#378fdc">to</font>
 
 781
 00:01:39,760 --> 00:01:40,060
@@ -3147,15 +3147,15 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 783
 00:01:39,790 --> 00:01:40,720
-<font face="Duality" size="72" color="#378fdc">You </font>
+<font face="Duality" size="72" color="#378fdc">You</font>
 
 784
 00:01:39,810 --> 00:01:40,110
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">la </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">la</font></font>
 
 785
 00:01:39,840 --> 00:01:42,880
-<font face="Duality" size="72" color="#378fdc">re </font>
+<font face="Duality" size="72" color="#378fdc">re</font>
 
 786
 00:01:39,840 --> 00:01:40,980
@@ -3171,7 +3171,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 789
 00:01:39,890 --> 00:01:41,120
-<font face="Duality" size="72" color="#378fdc">na </font>
+<font face="Duality" size="72" color="#378fdc">na</font>
 
 790
 00:01:39,910 --> 00:01:40,210
@@ -3179,11 +3179,11 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 791
 00:01:39,940 --> 00:01:42,980
-<font face="Duality" size="72" color="#378fdc">o </font>
+<font face="Duality" size="72" color="#378fdc">o</font>
 
 792
 00:01:39,940 --> 00:01:41,310
-<font face="Duality" size="72" color="#378fdc">be </font>
+<font face="Duality" size="72" color="#378fdc">be</font>
 
 793
 00:01:39,960 --> 00:01:40,260
@@ -3211,7 +3211,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 799
 00:01:39,990 --> 00:01:41,670
-<font face="Duality" size="72" color="#378fdc">my </font>
+<font face="Duality" size="72" color="#378fdc">my</font>
 
 800
 00:01:40,040 --> 00:01:43,080
@@ -3235,11 +3235,11 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 805
 00:01:40,610 --> 00:01:40,970
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">to </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">to</font></font>
 
 806
 00:01:40,720 --> 00:01:41,230
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">You </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">You</font></font>
 
 807
 00:01:40,980 --> 00:01:41,370
@@ -3247,15 +3247,15 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 808
 00:01:41,120 --> 00:01:41,560
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">na </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">na</font></font>
 
 809
 00:01:41,310 --> 00:01:41,920
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">be </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">be</font></font>
 
 810
 00:01:41,670 --> 00:01:42,220
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">my </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">my</font></font>
 
 811
 00:01:41,970 --> 00:01:43,430
@@ -3263,7 +3263,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 812
 00:01:42,680 --> 00:01:42,980
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">e </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">e</font></font>
 
 813
 00:01:42,730 --> 00:01:43,030
@@ -3271,7 +3271,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 814
 00:01:42,780 --> 00:01:43,080
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">resti </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">resti</font></font>
 
 815
 00:01:42,830 --> 00:01:43,130
@@ -3279,7 +3279,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 816
 00:01:42,880 --> 00:01:43,180
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">re </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">re</font></font>
 
 817
 00:01:42,930 --> 00:01:43,230
@@ -3287,7 +3287,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 818
 00:01:42,980 --> 00:01:43,280
-<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">o </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#3f93d8">o</font></font>
 
 819
 00:01:43,030 --> 00:01:43,330
@@ -3311,27 +3311,27 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 824
 00:01:43,140 --> 00:01:43,610
-<font face="Duality" size="72" color="#378fdc">We </font>
+<font face="Duality" size="72" color="#378fdc">We</font>
 
 825
 00:01:43,190 --> 00:01:44,150
-<font face="Duality" size="72" color="#378fdc">are, </font>
+<font face="Duality" size="72" color="#378fdc">are,</font>
 
 826
 00:01:43,240 --> 00:01:45,060
-<font face="Duality" size="72" color="#378fdc">We </font>
+<font face="Duality" size="72" color="#378fdc">We</font>
 
 827
 00:01:43,290 --> 00:01:45,590
-<font face="Duality" size="72" color="#378fdc">are </font>
+<font face="Duality" size="72" color="#378fdc">are</font>
 
 828
 00:01:43,340 --> 00:01:46,090
-<font face="Duality" size="72" color="#378fdc">on </font>
+<font face="Duality" size="72" color="#378fdc">on</font>
 
 829
 00:01:43,390 --> 00:01:46,290
-<font face="Duality" size="72" color="#378fdc">the </font>
+<font face="Duality" size="72" color="#378fdc">the</font>
 
 830
 00:01:43,440 --> 00:01:46,460
@@ -3347,27 +3347,27 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 833
 00:01:43,610 --> 00:01:44,400
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">We </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">We</font></font>
 
 834
 00:01:44,150 --> 00:01:45,310
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">are, </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">are,</font></font>
 
 835
 00:01:45,060 --> 00:01:45,840
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">We </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">We</font></font>
 
 836
 00:01:45,590 --> 00:01:46,340
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">are </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">are</font></font>
 
 837
 00:01:46,090 --> 00:01:46,540
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">on </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">on</font></font>
 
 838
 00:01:46,290 --> 00:01:46,710
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">the </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">the</font></font>
 
 839
 00:01:46,460 --> 00:01:48,310
@@ -3383,7 +3383,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 842
 00:01:48,520 --> 00:01:49,040
-<font face="Duality" size="72" color="#378fdc">We </font>
+<font face="Duality" size="72" color="#378fdc">We</font>
 
 843
 00:01:48,570 --> 00:01:49,340
@@ -3399,7 +3399,7 @@ la Grand Line per inseguire i propri sogni!</i></font>
 
 846
 00:01:49,040 --> 00:01:49,590
-<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">We </font></font>
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">We</font></font>
 
 847
 00:01:49,340 --> 00:01:49,970

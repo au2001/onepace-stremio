@@ -28,7 +28,7 @@
 
 8
 00:00:23,750 --> 00:00:28,070
-<font face="Impress BT" size="34">{\an1}Translation & initial timing
+<font face="Impress BT" size="34">Translation & initial timing
 <font size="40">Yibis</font></font>
 
 9
@@ -37,7 +37,7 @@
 
 10
 00:00:28,160 --> 00:00:32,160
-<font face="Impress BT" size="34">{\an1}Timing
+<font face="Impress BT" size="34">Timing
 <font size="40">Sewil
 Galaxy 9000</font></font>
 
@@ -47,7 +47,7 @@ Galaxy 9000</font></font>
 
 12
 00:00:34,660 --> 00:00:37,600
-<font face="Impress BT" size="34">{\an1}Quality-checking
+<font face="Impress BT" size="34">Quality-checking
 <font size="40">Sewil
 Galaxy 9000
 Halee</font></font>
@@ -58,7 +58,7 @@ Halee</font></font>
 
 14
 00:00:39,020 --> 00:00:42,640
-<font face="Impress BT" size="34">{\an1}Soundtracking
+<font face="Impress BT" size="34">Soundtracking
 <font size="40">Halee</font></font>
 
 15
@@ -67,11 +67,11 @@ Halee</font></font>
 
 16
 00:00:45,870 --> 00:00:48,560
-<font face="Impress BT" size="34">{\an1}Video editing         <font size="40">Sewil</font></font>
+<font face="Impress BT" size="34">Video editing         <font size="40">Sewil</font></font>
 
 17
 00:00:45,870 --> 00:00:48,560
-<font face="Impress BT" size="34">{\an1}Raw provider      <font size="40">GS-Raws</font></font>
+<font face="Impress BT" size="34">Raw provider      <font size="40">GS-Raws</font></font>
 
 18
 00:00:51,200 --> 00:00:56,050
@@ -377,7 +377,7 @@ That's Cyborg Franky of the Straw Hat Pirates!</font>
 
 92
 00:04:54,880 --> 00:04:58,100
-<font face="Impress BT" size="55">{\an8}Don't cling to me, little girls.</font>
+<font face="Impress BT" size="55">Don't cling to me, little girls.</font>
 
 93
 00:04:55,460 --> 00:05:02,250
@@ -386,7 +386,7 @@ Senor Pink
 
 94
 00:04:59,290 --> 00:05:02,250
-<font face="Impress BT" size="55">{\an8}Go hang with a younger guy.</font>
+<font face="Impress BT" size="55">Go hang with a younger guy.</font>
 
 95
 00:05:02,250 --> 00:05:04,120
@@ -805,7 +805,7 @@ Baby 5</font>
 
 198
 00:10:53,580 --> 00:10:54,700
-<font face="Impress BT" size="55">Robin, did you... {didn't notice before, but non-canon}</font>
+<font face="Impress BT" size="55">Robin, did you... </font>
 
 199
 00:10:57,230 --> 00:10:58,020
@@ -919,7 +919,7 @@ Orlumbus</font>
 
 226
 00:12:56,170 --> 00:12:58,400
-<font face="Impress BT" size="55">It's killed dozens of people,{Split this line in two to make it easier to read against the caption. -Starfish}</font>
+<font face="Impress BT" size="55">It's killed dozens of people,</font>
 
 227
 00:12:58,400 --> 00:13:00,010
@@ -1033,7 +1033,7 @@ Mummy</font>
 
 254
 00:14:51,830 --> 00:14:54,110
-<font face="Impress BT" size="55">{\an8}All the bridges are movable.</font>
+<font face="Impress BT" size="55">All the bridges are movable.</font>
 
 255
 00:14:52,820 --> 00:14:55,640
@@ -1114,11 +1114,11 @@ Passage</font>
 
 274
 00:15:48,570 --> 00:15:50,400
-<font face="Impress BT" size="55">Tontatta Combat!{Xemnas: Merman Combat anyone?}</font>
+<font face="Impress BT" size="55">Tontatta Combat!</font>
 
 275
 00:15:50,850 --> 00:15:52,600
-<font face="Impress BT" size="55">Tail Hammer! {Xemnas: Merman Combat anyone?}</font>
+<font face="Impress BT" size="55">Tail Hammer! </font>
 
 276
 00:15:57,770 --> 00:16:00,370
@@ -1162,11 +1162,11 @@ Passage</font>
 
 286
 00:16:38,940 --> 00:16:43,050
-<font face="Impress BT" size="55">Okay everyone, I, Usoland will take command!{Isis: how about" Okay everyone. This Usoland in here, will take command!}</font>
+<font face="Impress BT" size="55">Okay everyone, I, Usoland will take command!</font>
 
 287
 00:16:43,050 --> 00:16:44,920
-<font face="Impress BT" size="55">Our opponent is a little girl! {Xemnas: Take this out of context and boy does it sound strange.}</font>
+<font face="Impress BT" size="55">Our opponent is a little girl! </font>
 
 288
 00:16:45,270 --> 00:16:48,190
@@ -1198,43 +1198,43 @@ Passage</font>
 
 295
 00:17:02,170 --> 00:17:05,870
-<font face="Impress BT" size="55" color="#fdfdfd">{\an1}<font color="#dbddcf">m 0 0 l 0 -80 l 25 -80 l 25 0m 0 0 l 0 -80 l 25 -80 l 25 0 m 0 0 l 0 -80 l 25 -80 l 25 0m 0 0 l 0 -80 l 25 -80 l 25 0 <font color="#c4c7b8">m 0 0 l 0 -80 l 25 -80 l 25 0 <font color="#d6dacc">m 0 0 l 0 -80 l 25 -80 l 25 0<font color="#d0d1c4"></font></font></font></font></font>
+<font face="Impress BT" size="55" color="#fdfdfd"><font color="#dbddcf">m 0 0 l 0 -80 l 25 -80 l 25 0m 0 0 l 0 -80 l 25 -80 l 25 0 m 0 0 l 0 -80 l 25 -80 l 25 0m 0 0 l 0 -80 l 25 -80 l 25 0 <font color="#c4c7b8">m 0 0 l 0 -80 l 25 -80 l 25 0 <font color="#d6dacc">m 0 0 l 0 -80 l 25 -80 l 25 0<font color="#d0d1c4"></font></font></font></font></font>
 
 296
 00:17:02,170 --> 00:17:05,870
-<font face="Impress BT" size="55" color="#fdfdfd">{\an1}<font color="#dbddcf">m 0 0 l 0 -80 l 25 -80 l 25 0m 0 0 l 0 -80 l 25 -80 l 25 0 m 0 0 l 0 -80 l 25 -80 l 25 0m 0 0 l 0 -80 l 25 -80 l 25 0 <font color="#c4c7b8">m 0 0 l 0 -80 l 25 -80 l 25 0 <font color="#d6dacc">m 0 0 l 0 -80 l 25 -80 l 25 0<font color="#d0d1c4">m 0 0 l 0 -80 l 25 -80 l 25 0</font></font></font></font></font>
+<font face="Impress BT" size="55" color="#fdfdfd"><font color="#dbddcf">m 0 0 l 0 -80 l 25 -80 l 25 0m 0 0 l 0 -80 l 25 -80 l 25 0 m 0 0 l 0 -80 l 25 -80 l 25 0m 0 0 l 0 -80 l 25 -80 l 25 0 <font color="#c4c7b8">m 0 0 l 0 -80 l 25 -80 l 25 0 <font color="#d6dacc">m 0 0 l 0 -80 l 25 -80 l 25 0<font color="#d0d1c4">m 0 0 l 0 -80 l 25 -80 l 25 0</font></font></font></font></font>
 
 297
 00:17:02,170 --> 00:17:05,870
-<font face="Impress BT" size="55" color="#fdfdfd">{\an1}<font color="#e8eadd">m 0 0 l 0 -80 l 25 -80 l 25 0<font color="#dddfd0">m 0 0 l 0 -80 l 25 -80 l 25 0 <font color="#d0d0c3">m 0 0 l 0 -80 l 25 -80 l 25 0<font color="#d0d0c3">m 0 0 l 0 -80 l 25 -80 l 25 0 <font color="#c4c7b8">m 0 0 l 0 -80 l 25 -80 l 25 0 <font color="#c9ccbd">m 0 0 l 0 -80 l 25 -80 l 25 0<font color="#d0d1c4">m 0 0 l 0 -80 l 25 -80 l 25 0<font color="#cfcfc1">m 0 0 l 0 -80 l 27 -80 l 27 0</font></font></font></font></font></font></font></font></font>
+<font face="Impress BT" size="55" color="#fdfdfd"><font color="#e8eadd">m 0 0 l 0 -80 l 25 -80 l 25 0<font color="#dddfd0">m 0 0 l 0 -80 l 25 -80 l 25 0 <font color="#d0d0c3">m 0 0 l 0 -80 l 25 -80 l 25 0<font color="#d0d0c3">m 0 0 l 0 -80 l 25 -80 l 25 0 <font color="#c4c7b8">m 0 0 l 0 -80 l 25 -80 l 25 0 <font color="#c9ccbd">m 0 0 l 0 -80 l 25 -80 l 25 0<font color="#d0d1c4">m 0 0 l 0 -80 l 25 -80 l 25 0<font color="#cfcfc1">m 0 0 l 0 -80 l 27 -80 l 27 0</font></font></font></font></font></font></font></font></font>
 
 298
 00:17:02,170 --> 00:17:05,870
-<font face="Impress BT" size="55" color="#fdfdfd">{\an1}<font color="#e8eadd">m 0 0 l 0 -80 l 25 -80 l 25 0<font color="#dddfd0">m 0 0 l 0 -80 l 25 -80 l 25 0 <font color="#d0d0c3">m 0 0 l 0 -80 l 25 -80 l 25 0<font color="#d0d0c3">m 0 0 l 0 -80 l 25 -80 l 25 0 <font color="#c4c7b8">m 0 0 l 0 -80 l 25 -80 l 25 0 <font color="#c9ccbd">m 0 0 l 0 -80 l 25 -80 l 25 0<font color="#d0d1c4">m 0 0 l 0 -80 l 25 -80 l 25 0</font></font></font></font></font></font></font></font>
+<font face="Impress BT" size="55" color="#fdfdfd"><font color="#e8eadd">m 0 0 l 0 -80 l 25 -80 l 25 0<font color="#dddfd0">m 0 0 l 0 -80 l 25 -80 l 25 0 <font color="#d0d0c3">m 0 0 l 0 -80 l 25 -80 l 25 0<font color="#d0d0c3">m 0 0 l 0 -80 l 25 -80 l 25 0 <font color="#c4c7b8">m 0 0 l 0 -80 l 25 -80 l 25 0 <font color="#c9ccbd">m 0 0 l 0 -80 l 25 -80 l 25 0<font color="#d0d1c4">m 0 0 l 0 -80 l 25 -80 l 25 0</font></font></font></font></font></font></font></font>
 
 299
 00:17:02,170 --> 00:17:05,870
-<font face="Impress BT" size="55" color="#fdfdfd">{\an1}<font color="#d1d4c5">m 0 0 l 0 -80 l 25 -80 l 25 0<font color="#dddfd0">m 0 0 l 0 -80 l 25 -80 l 25 0 <font color="#d7d8ca">m 0 0 l 0 -80 l 25 -80 l 25 0<font color="#d0d0c3">m 0 0 l 0 -80 l 25 -80 l 25 0 <font color="#d4d6c8">m 0 0 l 0 -80 l 25 -80 l 25 0</font></font></font></font></font></font>
+<font face="Impress BT" size="55" color="#fdfdfd"><font color="#d1d4c5">m 0 0 l 0 -80 l 25 -80 l 25 0<font color="#dddfd0">m 0 0 l 0 -80 l 25 -80 l 25 0 <font color="#d7d8ca">m 0 0 l 0 -80 l 25 -80 l 25 0<font color="#d0d0c3">m 0 0 l 0 -80 l 25 -80 l 25 0 <font color="#d4d6c8">m 0 0 l 0 -80 l 25 -80 l 25 0</font></font></font></font></font></font>
 
 300
 00:17:02,170 --> 00:17:05,870
-<font face="Impress BT" size="55" color="#fdfdfd">{\an1}<font color="#dcdcd0">m 0 0 l 0 -80 l 25 -80 l 25 0<font color="#d9dacc">m 0 0 l 0 -80 l 25 -80 l 25 0 <font color="#d7d8ca">m 0 0 l 0 -80 l 25 -80 l 25 0<font color="#d7d8ca">m 0 0 l 0 -80 l 25 -80 l 25 0 <font color="#d4d6c8">m 0 0 l 0 -80 l 25 -80 l 25 0</font></font></font></font></font></font>
+<font face="Impress BT" size="55" color="#fdfdfd"><font color="#dcdcd0">m 0 0 l 0 -80 l 25 -80 l 25 0<font color="#d9dacc">m 0 0 l 0 -80 l 25 -80 l 25 0 <font color="#d7d8ca">m 0 0 l 0 -80 l 25 -80 l 25 0<font color="#d7d8ca">m 0 0 l 0 -80 l 25 -80 l 25 0 <font color="#d4d6c8">m 0 0 l 0 -80 l 25 -80 l 25 0</font></font></font></font></font></font>
 
 301
 00:17:02,170 --> 00:17:05,870
-<font face="Impress BT" size="55" color="#fdfdfd">{\an1}<font color="#bdbeb0">m 0 0 l 0 -80 l 25 -80 l 25 0<font color="#d6d6c9">m 0 0 l 0 -80 l 25 -80 l 25 0 <font color="#c4c7b9">m 0 0 l 0 -80 l 25 -80 l 25 0<font color="#c9cbbc">m 0 0 l 0 -80 l 25 -80 l 25 0 <font color="#d5d6c6">m 0 0 l 0 -80 l 25 -80 l 25 0</font></font></font></font></font></font>
+<font face="Impress BT" size="55" color="#fdfdfd"><font color="#bdbeb0">m 0 0 l 0 -80 l 25 -80 l 25 0<font color="#d6d6c9">m 0 0 l 0 -80 l 25 -80 l 25 0 <font color="#c4c7b9">m 0 0 l 0 -80 l 25 -80 l 25 0<font color="#c9cbbc">m 0 0 l 0 -80 l 25 -80 l 25 0 <font color="#d5d6c6">m 0 0 l 0 -80 l 25 -80 l 25 0</font></font></font></font></font></font>
 
 302
 00:17:02,170 --> 00:17:05,870
-<font face="Impress BT" size="55" color="#fdfdfd">{\an1}<font color="#d6d6c9">m 0 0 l 0 -80 l 25 -80 l 25 0<font color="#c4c7b9">m 0 0 l 0 -80 l 25 -80 l 25 0 <font color="#c9cbbc">m 0 0 l 0 -80 l 25 -80 l 25 0<font color="#c9cbbc">m 0 0 l 0 -80 l 25 -80 l 25 0 <font color="#d5d6c6">m 0 0 l 0 -80 l 25 -80 l 25 0</font></font></font></font></font></font>
+<font face="Impress BT" size="55" color="#fdfdfd"><font color="#d6d6c9">m 0 0 l 0 -80 l 25 -80 l 25 0<font color="#c4c7b9">m 0 0 l 0 -80 l 25 -80 l 25 0 <font color="#c9cbbc">m 0 0 l 0 -80 l 25 -80 l 25 0<font color="#c9cbbc">m 0 0 l 0 -80 l 25 -80 l 25 0 <font color="#d5d6c6">m 0 0 l 0 -80 l 25 -80 l 25 0</font></font></font></font></font></font>
 
 303
 00:17:02,170 --> 00:17:05,870
-<font face="Impress BT" size="55" color="#fdfdfd">{\an1}<font color="#bdbeb0">m 0 0 l 0 -80 l 25 -80 l 25 0<font color="#d1d3c5">m 0 0 l 0 -80 l 25 -80 l 25 0 <font color="#dbddcf">m 0 0 l 0 -80 l 25 -80 l 25 0<font color="#cfd1c2">m 0 0 l 0 -80 l 25 -80 l 25 0 <font color="#c1c4b7">m 0 0 l 0 -80 l 25 -80 l 25 0<font color="#d2d2c5">m 0 0 l 0 -80 l 25 -80 l 25 0<font color="#ddddcf">m 0 0 l 0 -80 l 25 -80 l 25 0<font color="#e7e8dc">m 0 0 l 0 -80 l 30 -80 l 30 0</font></font></font></font></font></font></font></font></font>
+<font face="Impress BT" size="55" color="#fdfdfd"><font color="#bdbeb0">m 0 0 l 0 -80 l 25 -80 l 25 0<font color="#d1d3c5">m 0 0 l 0 -80 l 25 -80 l 25 0 <font color="#dbddcf">m 0 0 l 0 -80 l 25 -80 l 25 0<font color="#cfd1c2">m 0 0 l 0 -80 l 25 -80 l 25 0 <font color="#c1c4b7">m 0 0 l 0 -80 l 25 -80 l 25 0<font color="#d2d2c5">m 0 0 l 0 -80 l 25 -80 l 25 0<font color="#ddddcf">m 0 0 l 0 -80 l 25 -80 l 25 0<font color="#e7e8dc">m 0 0 l 0 -80 l 30 -80 l 30 0</font></font></font></font></font></font></font></font></font>
 
 304
 00:17:02,170 --> 00:17:05,870
-<font face="Impress BT" size="55" color="#fdfdfd">{\an1}<font color="#c1c3b5">m 0 0 l 0 -80 l 25 -80 l 25 0<font color="#d4d5c7">m 0 0 l 0 -80 l 25 -80 l 25 0 <font color="#cfd1c2">m 0 0 l 0 -80 l 25 -80 l 25 0<font color="#cccdbf">m 0 0 l 0 -80 l 25 -80 l 25 0 <font color="#c0c1b5">m 0 0 l 0 -80 l 25 -80 l 25 0<font color="#d1d2c5">m 0 0 l 0 -80 l 25 -80 l 25 0<font color="#ddddcf">m 0 0 l 0 -80 l 25 -80 l 25 0</font></font></font></font></font></font></font></font>
+<font face="Impress BT" size="55" color="#fdfdfd"><font color="#c1c3b5">m 0 0 l 0 -80 l 25 -80 l 25 0<font color="#d4d5c7">m 0 0 l 0 -80 l 25 -80 l 25 0 <font color="#cfd1c2">m 0 0 l 0 -80 l 25 -80 l 25 0<font color="#cccdbf">m 0 0 l 0 -80 l 25 -80 l 25 0 <font color="#c0c1b5">m 0 0 l 0 -80 l 25 -80 l 25 0<font color="#d1d2c5">m 0 0 l 0 -80 l 25 -80 l 25 0<font color="#ddddcf">m 0 0 l 0 -80 l 25 -80 l 25 0</font></font></font></font></font></font></font></font>
 
 305
 00:17:02,170 --> 00:17:05,870
@@ -1370,7 +1370,7 @@ Officer's Tower, and Lift Junction layout</font></font>
 
 337
 00:18:20,750 --> 00:18:21,750
-<font face="Impress BT" size="55">You're too slow!{Isis: a flashback?!}</font>
+<font face="Impress BT" size="55">You're too slow!</font>
 
 338
 00:18:22,920 --> 00:18:26,440
@@ -1390,7 +1390,7 @@ Officer's Tower, and Lift Junction layout</font></font>
 
 342
 00:18:33,320 --> 00:18:36,680
-<font face="Impress BT" size="55">You won't grow without any danger!{Isis: how about "facing any danger"}</font>
+<font face="Impress BT" size="55">You won't grow without any danger!</font>
 
 343
 00:18:36,680 --> 00:18:39,140
@@ -1446,7 +1446,7 @@ Officer's Tower, and Lift Junction layout</font></font>
 
 356
 00:19:37,440 --> 00:19:39,680
-<font face="Impress BT" size="55">My body isn't made to fight.{Isis: I took the liberty of changing the style of this line and the lines that follows}</font>
+<font face="Impress BT" size="55">My body isn't made to fight.</font>
 
 357
 00:19:40,220 --> 00:19:44,600
@@ -1482,7 +1482,7 @@ Officer's Tower, and Lift Junction layout</font></font>
 
 365
 00:20:15,040 --> 00:20:17,740
-<font face="Impress BT" size="55">where my daughter can be happy! {Saying that he wants a peaceful country where she can live peacefully strikes me as a bit redundant... It's literally "live happily" anyway, so this change was a no-brainer. -Starfish}</font>
+<font face="Impress BT" size="55">where my daughter can be happy! </font>
 
 366
 00:20:18,040 --> 00:20:22,930

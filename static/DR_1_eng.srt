@@ -28,7 +28,7 @@
 
 8
 00:00:23,750 --> 00:00:28,070
-<font face="Times New Roman" size="34">{\an1}Translation & initial timing
+<font face="Times New Roman" size="34">Translation & initial timing
 <font size="40">Crunchyroll</font></font>
 
 9
@@ -37,7 +37,7 @@
 
 10
 00:00:28,150 --> 00:00:32,160
-<font face="Times New Roman" size="34">{\an1}Timing
+<font face="Times New Roman" size="34">Timing
 <font size="40">Galaxy 9000
 
 </font>Time-checking
@@ -49,14 +49,14 @@
 
 12
 00:00:34,660 --> 00:00:37,600
-<font face="Times New Roman" size="34">{\an1}Quality-checking
+<font face="Times New Roman" size="34">Quality-checking
 <font size="40">Sewil
 Galaxy 9000
 Feeso</font></font>
 
 13
 00:00:39,030 --> 00:00:42,630
-<font face="Times New Roman" size="34">{\an1}Soundtracking
+<font face="Times New Roman" size="34">Soundtracking
 <font size="40">Halee</font></font>
 
 14
@@ -69,7 +69,7 @@ Feeso</font></font>
 
 16
 00:00:45,500 --> 00:00:48,170
-<font face="Times New Roman" size="34">{\an1}Video editing
+<font face="Times New Roman" size="34">Video editing
 <font size="40">Sewil</font></font>
 
 17
@@ -86,7 +86,7 @@ Feeso</font></font>
 
 20
 00:01:00,420 --> 00:01:04,520
-<font face="Times New Roman" size="34">{\an1}Raw provider
+<font face="Times New Roman" size="34">Raw provider
 <font size="40">Crunchyroll</font></font>
 
 21
@@ -95,7 +95,7 @@ Feeso</font></font>
 
 22
 00:01:05,290 --> 00:01:10,750
-<font face="Times New Roman" size="34">{\an1}Scroll infobox artist
+<font face="Times New Roman" size="34">Scroll infobox artist
 sergiart.deviantart.com<font size="40"></font></font>
 
 23
@@ -184,7 +184,7 @@ sergiart.deviantart.com<font size="40"></font></font>
 
 44
 00:02:30,030 --> 00:02:35,830
-<font face="impress bt" size="63" color="#fefefe"><b>{\an5}Arriving at Dressrosa!
+<font face="impress bt" size="63" color="#fefefe"><b>Arriving at Dressrosa!
 The Country of Passion, Love, and Toys!</b></font>
 
 45
@@ -244,7 +244,7 @@ Isn't there anymore information?!</font>
 
 58
 00:03:26,720 --> 00:03:29,990
-<font face="Impress BT" size="55">{\an8}Who is this freelance writer named Absa?!</font>
+<font face="Impress BT" size="55">Who is this freelance writer named Absa?!</font>
 
 59
 00:03:30,260 --> 00:03:33,360
@@ -270,7 +270,7 @@ one of the Four Emperors like we are.</font>
 
 64
 00:03:48,210 --> 00:03:50,020
-<font face="Impress BT" size="55">{\an8}Your highness!</font>
+<font face="Impress BT" size="55">Your highness!</font>
 
 65
 00:03:48,250 --> 00:03:51,410
@@ -559,7 +559,7 @@ go to Green Bit earlier!</font>
 
 132
 00:07:33,100 --> 00:07:35,230
-<font face="Impress BT" size="38"><i>{\an8}Roba: Old Lady</i></font>
+<font face="Impress BT" size="38"><i>Roba: Old Lady</i></font>
 
 133
 00:07:35,230 --> 00:07:36,840
@@ -764,7 +764,7 @@ who were looking to get treated.</font>
 
 182
 00:10:21,120 --> 00:10:25,270
-<font face="Impress BT" size="55">{\an8}There are only seven Warlords of the Sea in the world!</font>
+<font face="Impress BT" size="55">There are only seven Warlords of the Sea in the world!</font>
 
 183
 00:10:25,610 --> 00:10:27,730
@@ -884,11 +884,11 @@ Smoker of the G-5 yesterday.</font>
 
 211
 00:12:13,480 --> 00:12:16,220
-<font face="Impress BT" size="38"><i>{\an8}Fujitora: Wisteria Tiger</i></font>
+<font face="Impress BT" size="38"><i>Fujitora: Wisteria Tiger</i></font>
 
 212
 00:12:18,380 --> 00:12:20,030
-<font face="Impress BT" size="55">{\an8}Your Majesty!</font>
+<font face="Impress BT" size="55">Your Majesty!</font>
 
 213
 00:12:18,660 --> 00:12:22,290
@@ -896,7 +896,7 @@ Smoker of the G-5 yesterday.</font>
 
 214
 00:12:20,030 --> 00:12:22,290
-<font face="Impress BT" size="55">{\an8}Please don't quit!</font>
+<font face="Impress BT" size="55">Please don't quit!</font>
 
 215
 00:12:22,290 --> 00:12:25,920
@@ -1417,11 +1417,11 @@ our clothes for a disguise?</font>
 
 338
 00:19:33,830 --> 00:19:38,900
-<font face="Impress BT" size="38"><i>{\an8}For men, collared shirts</i></font>
+<font face="Impress BT" size="38"><i>For men, collared shirts</i></font>
 
 339
 00:19:33,830 --> 00:19:38,900
-<font face="Impress BT" size="38"><i>{\an8}For women, nothing</i></font>
+<font face="Impress BT" size="38"><i>For women, nothing</i></font>
 
 340
 00:19:34,450 --> 00:19:38,900
@@ -1538,20 +1538,20 @@ All of us together!</font>
 
 367
 00:20:56,040 --> 00:20:58,480
-<font face="Impress BT" size="55">{\an8}Kanjuro... I hope he's still alive.</font>
+<font face="Impress BT" size="55">Kanjuro... I hope he's still alive.</font>
 
 368
 00:20:58,480 --> 00:21:01,220
-<font face="Impress BT" size="55">{\an8}What?! I thought guarding 
+<font face="Impress BT" size="55">What?! I thought guarding 
 the ship was the safest!</font>
 
 369
 00:21:01,220 --> 00:21:04,290
-<font face="Impress BT" size="55">{\an8}Guys, we're in the enemy's stronghold.</font>
+<font face="Impress BT" size="55">Guys, we're in the enemy's stronghold.</font>
 
 370
 00:21:04,290 --> 00:21:07,770
-<font face="Impress BT" size="55">{\an8}But we're with Sanji so...</font>
+<font face="Impress BT" size="55">But we're with Sanji so...</font>
 
 371
 00:21:07,770 --> 00:21:10,110
@@ -1692,7 +1692,7 @@ You were in the paper this morning...</font>
 
 404
 00:23:27,620 --> 00:23:31,520
-<font face="Impress BT" size="55">{\an8}<i>This is a kingdom of love 
+<font face="Impress BT" size="55"><i>This is a kingdom of love 
 and passion and toys.</i></font>
 
 405
