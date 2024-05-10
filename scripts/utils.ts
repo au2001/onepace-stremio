@@ -4,8 +4,16 @@ import { Stream, Video } from "./types";
 import { Arc } from "./generated/graphql";
 import ARC_PREFIXES from "./arcs.json";
 
-export const readJSON = async <T>(path: string) =>
-  JSON.parse((await fs.readFile(path)).toString()) as T;
+export const readJSON = async <T>(path: string) => {
+  try {
+    const data = (await fs.readFile(path)).toString();
+    if (data === "") return undefined;
+    return JSON.parse(data) as T;
+  } catch (e: any) {
+    if ("code" in e && e.code === "ENOENT") return undefined;
+    throw e;
+  }
+};
 
 export const writeJSON = async (path: string, data: any) =>
   await fs.writeFile(
@@ -107,15 +115,9 @@ export const saveStream = async (
   video: Video,
   newStream?: Stream,
 ) => {
-  let stream: Stream | undefined;
-  try {
-    const { streams } = await readJSON<{ streams: Stream[] }>(
-      `stream/series/${video.id}.json`,
-    );
-    stream = streams[0];
-  } catch (e: any) {
-    if (!("code" in e) || e.code !== "ENOENT") throw e;
-  }
+  const { streams: [stream] = [] } =
+    (await readJSON<{ streams: Stream[] }>(`stream/series/${video.id}.json`)) ??
+    {};
 
   const streamId = `${stream?.infoHash}${stream?.fileIdx !== undefined ? `:${stream?.fileIdx}` : ""}`;
   const newStreamId = `${newStream?.infoHash}${newStream?.fileIdx !== undefined ? `:${newStream?.fileIdx}` : ""}`;
@@ -146,13 +148,15 @@ export const saveStream = async (
         (lang) => !newSubtitles.has(lang),
       );
       if (removedSubtitles.length !== 0) {
-        await Promise.all(removedSubtitles.map(async (lang) => {
-          try {
-            await fs.unlink(`static/${video.id}_${lang}.srt`);
-          } catch (e: any) {
-            if (!("code" in e) || e.code !== "ENOENT") throw e;
-          }
-        }));
+        await Promise.all(
+          removedSubtitles.map(async (lang) => {
+            try {
+              await fs.unlink(`static/${video.id}_${lang}.srt`);
+            } catch (e: any) {
+              if (!("code" in e) || e.code !== "ENOENT") throw e;
+            }
+          }),
+        );
 
         console.error(
           `${video.id} subtitles removed in ${removedSubtitles.join(", ")}`,
