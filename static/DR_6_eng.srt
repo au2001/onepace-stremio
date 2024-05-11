@@ -28,7 +28,7 @@
 
 8
 00:00:23,730 --> 00:00:28,050
-<font face="Times New Roman" size="34">{\an1}Translation & initial timing
+<font face="Times New Roman" size="34">Translation & initial timing
 <font size="40">Tsuki
 Yibis (Opening)</font></font>
 
@@ -38,7 +38,7 @@ Yibis (Opening)</font></font>
 
 10
 00:00:28,130 --> 00:00:32,140
-<font face="Times New Roman" size="34">{\an1}Timing
+<font face="Times New Roman" size="34">Timing
 <font size="40">Galaxy 9000
 
 </font>Time-checking
@@ -50,14 +50,14 @@ Yibis (Opening)</font></font>
 
 12
 00:00:34,640 --> 00:00:37,580
-<font face="Times New Roman" size="34">{\an1}Quality-checking
+<font face="Times New Roman" size="34">Quality-checking
 <font size="40">Sewil
 Galaxy 9000
 Halee</font></font>
 
 13
 00:00:39,010 --> 00:00:42,610
-<font face="Times New Roman" size="34">{\an1}Soundtracking
+<font face="Times New Roman" size="34">Soundtracking
 <font size="40">Halee</font></font>
 
 14
@@ -70,7 +70,7 @@ Halee</font></font>
 
 16
 00:00:45,480 --> 00:00:48,150
-<font face="Times New Roman" size="34">{\an1}Video editing
+<font face="Times New Roman" size="34">Video editing
 <font size="40">Sewil</font></font>
 
 17
@@ -87,7 +87,7 @@ Halee</font></font>
 
 20
 00:01:00,400 --> 00:01:04,500
-<font face="Times New Roman" size="34">{\an1}Raw provider
+<font face="Times New Roman" size="34">Raw provider
 <font size="40">Crunchyroll</font></font>
 
 21
@@ -180,7 +180,7 @@ Halee</font></font>
 
 43
 00:02:30,030 --> 00:02:38,550
-<font face="impress bt" size="63" color="#fefefe"><b>{\an5}To Green Bit!
+<font face="impress bt" size="63" color="#fefefe"><b>To Green Bit!
 The Adventure in the Land of Dwarves!</b></font>
 
 44
@@ -327,7 +327,7 @@ Team</font>
 
 79
 00:04:28,960 --> 00:04:30,350
-<font face="Impress BT" size="38"><i>{\an8}One Million Flowers</i></font>
+<font face="Impress BT" size="38"><i>One Million Flowers</i></font>
 
 80
 00:04:30,350 --> 00:04:31,940
@@ -335,7 +335,7 @@ Team</font>
 
 81
 00:04:30,350 --> 00:04:31,940
-<font face="Impress BT" size="38"><i>{\an8}Gigantic Hand</i></font>
+<font face="Impress BT" size="38"><i>Gigantic Hand</i></font>
 
 82
 00:04:32,670 --> 00:04:33,440
@@ -564,7 +564,7 @@ Team</font>
 
 138
 00:08:01,810 --> 00:08:05,800
-<font face="Impress BT" size="55">{\an8}A wild forest?!</font>
+<font face="Impress BT" size="55">A wild forest?!</font>
 
 139
 00:08:12,240 --> 00:08:14,870
@@ -838,7 +838,7 @@ Green Bit Forest</font>
 
 206
 00:12:19,670 --> 00:12:20,810
-<font face="Impress BT" size="38"><i>{\an8}One Million Flowers</i></font>
+<font face="Impress BT" size="38"><i>One Million Flowers</i></font>
 
 207
 00:12:21,200 --> 00:12:22,690
@@ -846,7 +846,7 @@ Green Bit Forest</font>
 
 208
 00:12:21,200 --> 00:12:22,690
-<font face="Impress BT" size="38"><i>{\an8}Flower Field</i></font>
+<font face="Impress BT" size="38"><i>Flower Field</i></font>
 
 209
 00:12:26,170 --> 00:12:27,290
@@ -970,7 +970,7 @@ Green Bit Forest</font>
 
 239
 00:13:54,210 --> 00:13:58,720
-<font face="Impress BT" size="55">{\an8}I'm a Tontatta Tribe warrior, Leo!</font>
+<font face="Impress BT" size="55">I'm a Tontatta Tribe warrior, Leo!</font>
 
 240
 00:13:54,710 --> 00:13:58,720
@@ -1188,7 +1188,7 @@ Why are everyone here so trusting?!</font>
 
 293
 00:16:45,430 --> 00:16:51,390
-<font face="Impress BT" size="55">{\an8}My name is Gancho, the greatest Tonta-chief of Tontatta Kingdom.</font>
+<font face="Impress BT" size="55">My name is Gancho, the greatest Tonta-chief of Tontatta Kingdom.</font>
 
 294
 00:16:48,930 --> 00:16:53,790
@@ -1197,7 +1197,7 @@ Why are everyone here so trusting?!</font>
 
 295
 00:16:51,390 --> 00:16:53,790
-<font face="Impress BT" size="55">{\an8}You can stay as long as you like.</font>
+<font face="Impress BT" size="55">You can stay as long as you like.</font>
 
 296
 00:16:54,430 --> 00:16:57,790
@@ -1334,7 +1334,7 @@ Harbor City Acacia</font>
 
 329
 00:18:27,940 --> 00:18:29,590
-<font face="Impress BT" size="55">{\an8}Turn right! I said "Right"!</font>
+<font face="Impress BT" size="55">Turn right! I said "Right"!</font>
 
 330
 00:18:30,710 --> 00:18:32,760
@@ -1406,7 +1406,7 @@ Harbor City Acacia</font>
 
 347
 00:19:26,640 --> 00:19:28,950
-<font face="Impress BT" size="55"><i>{\an8}I'm not a toy!</i></font>
+<font face="Impress BT" size="55"><i>I'm not a toy!</i></font>
 
 348
 00:19:26,710 --> 00:19:32,070
@@ -1415,11 +1415,11 @@ Harbor City Acacia</font>
 
 349
 00:19:28,950 --> 00:19:31,510
-<font face="Impress BT" size="55"><i>{\an8}I'm Wicca from the Tontatta Tribe!</i></font>
+<font face="Impress BT" size="55"><i>I'm Wicca from the Tontatta Tribe!</i></font>
 
 350
 00:19:31,510 --> 00:19:34,610
-<font face="Impress BT" size="55"><i>{\an8}Please don't tell anybody that you saw me!</i></font>
+<font face="Impress BT" size="55"><i>Please don't tell anybody that you saw me!</i></font>
 
 351
 00:19:37,210 --> 00:19:38,620

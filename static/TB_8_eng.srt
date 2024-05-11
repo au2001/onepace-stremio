@@ -20,7 +20,7 @@
 
 6
 00:00:23,440 --> 00:00:28,960
-<font face="Times New Roman" size="34">{\an1}Translation & initial syncing
+<font face="Times New Roman" size="34">Translation & initial syncing
 <font size="40">Vegapunk Fansubs</font></font>
 
 7
@@ -33,7 +33,7 @@
 
 9
 00:00:29,360 --> 00:00:34,530
-<font face="Times New Roman" size="34">{\an1}Syncing
+<font face="Times New Roman" size="34">Syncing
 <font size="40">Galaxy 9000
 
 </font>Sync-checking
@@ -45,7 +45,7 @@
 
 11
 00:00:35,570 --> 00:00:40,680
-<font face="Times New Roman" size="34">{\an1}Quality checking
+<font face="Times New Roman" size="34">Quality checking
 <font size="40">Sewil</font></font>
 
 12
@@ -54,12 +54,12 @@
 
 13
 00:00:40,910 --> 00:00:44,080
-<font face="Times New Roman" size="34">{\an1}Video editing
+<font face="Times New Roman" size="34">Video editing
 <font size="40">Sewil</font></font>
 
 14
 00:00:44,250 --> 00:00:47,460
-<font face="Times New Roman" size="34">{\an1}Soundtracking
+<font face="Times New Roman" size="34">Soundtracking
 <font size="40">Halee</font></font>
 
 15
@@ -152,7 +152,7 @@
 
 37
 00:02:29,870 --> 00:02:38,480
-<font face="impress bt" size="63" color="#fefefe"><b>{\an5}Oars' Awakening and
+<font face="impress bt" size="63" color="#fefefe"><b>Oars' Awakening and
 Brook vs. Ryuma!</b></font>
 
 38

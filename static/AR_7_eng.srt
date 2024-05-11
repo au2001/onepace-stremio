@@ -1,46 +1,46 @@
 1
 00:00:00,730 --> 00:00:02,730
-<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Video Editing</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Video Editing</font></b></font>
 
 2
 00:00:00,730 --> 00:00:02,730
-<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Video Editing</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>Video Editing</b></font>
 
 3
 00:00:00,730 --> 00:00:02,730
-<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Gigglebot</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Gigglebot</font></b></font>
 
 4
 00:00:00,730 --> 00:00:02,730
-<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Gigglebot</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>Gigglebot</b></font>
 
 5
 00:00:02,730 --> 00:00:04,730
-<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Timing</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Timing</font></b></font>
 
 6
 00:00:02,730 --> 00:00:04,730
-<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Timing</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>Timing</b></font>
 
 7
 00:00:02,730 --> 00:00:04,730
-<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">PhosCity</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">PhosCity</font></b></font>
 
 8
 00:00:02,730 --> 00:00:04,730
-<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}PhosCity</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>PhosCity</b></font>
 
 9
 00:00:04,730 --> 00:00:07,730
-<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Quality Control</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Quality Control</font></b></font>
 
 10
 00:00:04,730 --> 00:00:07,730
-<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Quality Control</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>Quality Control</b></font>
 
 11
 00:00:04,730 --> 00:00:07,730
-<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">DolphinWeabu
+<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">DolphinWeabu
 danpmss
 Feeso
 Galaxy 9000
@@ -49,7 +49,7 @@ Pepperjack</font></b></font>
 
 12
 00:00:04,730 --> 00:00:07,730
-<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}DolphinWeabu
+<font face="FOT-Greco Std B Strp" size="22"><b>DolphinWeabu
 danpmss
 Feeso
 Galaxy 9000
@@ -58,101 +58,101 @@ Pepperjack</b></font>
 
 13
 00:00:07,730 --> 00:00:09,730
-<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Soundtracking</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Soundtracking</font></b></font>
 
 14
 00:00:07,730 --> 00:00:09,730
-<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Soundtracking</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>Soundtracking</b></font>
 
 15
 00:00:07,730 --> 00:00:09,730
-<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Halee</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Halee</font></b></font>
 
 16
 00:00:07,730 --> 00:00:09,730
-<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Halee</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>Halee</b></font>
 
 17
 00:00:09,730 --> 00:00:11,730
-<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Graphics</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Graphics</font></b></font>
 
 18
 00:00:09,730 --> 00:00:11,730
-<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Graphics</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>Graphics</b></font>
 
 19
 00:00:09,730 --> 00:00:11,730
-<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Datenshi</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Datenshi</font></b></font>
 
 20
 00:00:09,730 --> 00:00:11,730
-<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Datenshi</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>Datenshi</b></font>
 
 21
 00:00:11,730 --> 00:00:13,730
-<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Karaoke</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Karaoke</font></b></font>
 
 22
 00:00:11,730 --> 00:00:13,730
-<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Karaoke</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>Karaoke</b></font>
 
 23
 00:00:11,730 --> 00:00:13,730
-<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">KaitouYahiko</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">KaitouYahiko</font></b></font>
 
 24
 00:00:11,730 --> 00:00:13,730
-<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}KaitouYahiko</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>KaitouYahiko</b></font>
 
 25
 00:00:13,730 --> 00:00:15,730
-<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Subtitle Editing</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Subtitle Editing</font></b></font>
 
 26
 00:00:13,730 --> 00:00:15,730
-<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Subtitle Editing</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>Subtitle Editing</b></font>
 
 27
 00:00:13,730 --> 00:00:15,730
-<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Zenef</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Zenef</font></b></font>
 
 28
 00:00:13,730 --> 00:00:15,730
-<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Zenef</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>Zenef</b></font>
 
 29
 00:00:15,730 --> 00:00:17,730
-<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Translation</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Translation</font></b></font>
 
 30
 00:00:15,730 --> 00:00:17,730
-<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Translation</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>Translation</b></font>
 
 31
 00:00:15,730 --> 00:00:17,730
-<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Funimation
+<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Funimation
 Gaijin</font></b></font>
 
 32
 00:00:15,730 --> 00:00:17,730
-<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Funimation
+<font face="FOT-Greco Std B Strp" size="22"><b>Funimation
 Gaijin</b></font>
 
 33
 00:00:17,730 --> 00:00:19,200
-<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">Raws</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Raws</font></b></font>
 
 34
 00:00:17,730 --> 00:00:19,200
-<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}Raws</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>Raws</b></font>
 
 35
 00:00:17,730 --> 00:00:19,200
-<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}<font color="#000000">df68</font></b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">df68</font></b></font>
 
 36
 00:00:17,730 --> 00:00:19,200
-<font face="FOT-Greco Std B Strp" size="22"><b>{\an7}df68</b></font>
+<font face="FOT-Greco Std B Strp" size="22"><b>df68</b></font>
 
 37
 00:01:50,670 --> 00:01:55,670
@@ -168,7 +168,7 @@ Gaijin</b></font>
 
 40
 00:02:12,220 --> 00:02:14,060
-<font face="Impress BT Pace" size="37">{That man's}He's still alive!</font>
+<font face="Impress BT Pace" size="37">He's still alive!</font>
 
 41
 00:02:14,060 --> 00:02:16,360
@@ -186,7 +186,7 @@ the time from that damn geezer</font>
 
 44
 00:02:25,610 --> 00:02:27,430
-<font face="Impress BT Pace" size="37">{are}must've been 400th-degree kicks.</font>
+<font face="Impress BT Pace" size="37">must've been 400th-degree kicks.</font>
 
 45
 00:02:31,000 --> 00:02:33,360
@@ -204,25 +204,23 @@ six-sword style in that condition?</font>
 
 48
 00:02:40,490 --> 00:02:43,430
-<font face="Impress BT Pace" size="37">{Everyone in the whole world
-thinks the same way.}The whole world would agree that you have no chance.</font>
+<font face="Impress BT Pace" size="37">The whole world would agree that you have no chance.</font>
 
 49
 00:02:44,220 --> 00:02:45,930
-<font face="Impress BT Pace" size="37">{That's none of your business.}I don't want to hear it.</font>
+<font face="Impress BT Pace" size="37">I don't want to hear it.</font>
 
 50
 00:02:45,930 --> 00:02:49,240
-<font face="Impress BT Pace" size="37">Big Bro's in {really bad shape!}real danger!</font>
+<font face="Impress BT Pace" size="37">Big Bro's in real danger!</font>
 
 51
 00:02:49,240 --> 00:02:51,590
-<font face="Impress BT Pace" size="37">{He's probably got a fever 
-from his wounds}His wounds probably triggered a fever.</font>
+<font face="Impress BT Pace" size="37">His wounds probably triggered a fever.</font>
 
 52
 00:02:51,590 --> 00:02:53,550
-<font face="Impress BT Pace" size="37">{and must be}I expect he's barely conscious.</font>
+<font face="Impress BT Pace" size="37">I expect he's barely conscious.</font>
 
 53
 00:02:53,550 --> 00:02:58,310
@@ -231,14 +229,12 @@ he's definitely going to die!</font>
 
 54
 00:02:58,310 --> 00:03:00,950
-<font face="Impress BT Pace" size="37">{But it's no time to think
-about things like that!}Now's not the time
+<font face="Impress BT Pace" size="37">Now's not the time
 to worry about that!</font>
 
 55
 00:03:00,950 --> 00:03:04,910
-<font face="Impress BT Pace" size="37">Yeah! He's the only {one who can
-break through this situation!}man alive who could find a way out of this!</font>
+<font face="Impress BT Pace" size="37">Yeah! He's the only man alive who could find a way out of this!</font>
 
 56
 00:03:05,820 --> 00:03:09,080
@@ -255,11 +251,11 @@ Let me use your swords!</font>
 
 59
 00:03:14,020 --> 00:03:16,880
-<font face="Impress BT Pace" size="37">Big Bro,{! Catch these!} catch!</font>
+<font face="Impress BT Pace" size="37">Big Bro, catch!</font>
 
 60
 00:03:17,490 --> 00:03:20,980
-<font face="Impress BT Pace" size="37">{Darn}Dammit! I feel like
+<font face="Impress BT Pace" size="37">Dammit! I feel like
 I'm about to pass out.</font>
 
 61
@@ -278,8 +274,7 @@ use them! Catch them!</font>
 
 64
 00:03:27,520 --> 00:03:32,190
-<font face="Impress BT Pace" size="37">Ha! I'll show you {the wall that you
-humans with two arms can't surpass!}what two-armed humans can never overcome!</font>
+<font face="Impress BT Pace" size="37">Ha! I'll show you what two-armed humans can never overcome!</font>
 
 65
 00:03:32,190 --> 00:03:33,190
@@ -291,7 +286,7 @@ humans with two arms can't surpass!}what two-armed humans can never overcome!</f
 
 67
 00:03:34,650 --> 00:03:36,150
-<font face="Impress BT Pace" size="37">Tentacle{-Sword Overload!} Whirligig!</font>
+<font face="Impress BT Pace" size="37">Tentacle Whirligig!</font>
 
 68
 00:03:36,150 --> 00:03:37,360
@@ -303,31 +298,29 @@ humans with two arms can't surpass!}what two-armed humans can never overcome!</f
 
 70
 00:03:49,910 --> 00:03:51,830
-<font face="Impress BT Pace" size="37">{Streaming Wolf Swords!}Floating Wolfblade!</font>
+<font face="Impress BT Pace" size="37">Floating Wolfblade!</font>
 
 71
 00:03:58,960 --> 00:04:00,300
-<font face="Impress BT Pace" size="37">He {did}dodged it!</font>
+<font face="Impress BT Pace" size="37">He dodged it!</font>
 
 72
 00:04:00,300 --> 00:04:03,680
-<font face="Impress BT Pace" size="37">He handled the {Six-Sword random 
-hits! He's really amazing!}six-sword onslaught! He's incredible!</font>
+<font face="Impress BT Pace" size="37">He handled the six-sword onslaught! He's incredible!</font>
 
 73
 00:04:07,020 --> 00:04:11,230
 <font face="Impress BT Pace" size="37">What concentration!
-What {spiritual strength!}willpower!</font>
+What willpower!</font>
 
 74
 00:04:11,230 --> 00:04:14,690
-<font face="Impress BT Pace" size="37">{Ahh... How dare you have
-the impudence to do such a thing!}{Ahh... You impudent cur!}Ahh... Your impudence
+<font face="Impress BT Pace" size="37">Ahh... Your impudence
 is so impudent!</font>
 
 75
 00:04:14,690 --> 00:04:18,100
-<font face="Impress BT Pace" size="37">I'm {really mad, you son of a bitch!}livid, you son of an angler!</font>
+<font face="Impress BT Pace" size="37">I'm livid, you son of an angler!</font>
 
 76
 00:04:18,100 --> 00:04:19,420
@@ -335,39 +328,34 @@ is so impudent!</font>
 
 77
 00:04:19,420 --> 00:04:22,260
-<font face="Impress BT Pace" size="37">{If you just think about it,
-you should know!}It's so obvious,
+<font face="Impress BT Pace" size="37">It's so obvious,
 when you think about it!</font>
 
 78
 00:04:22,260 --> 00:04:24,610
-<font face="Impress BT Pace" size="37">{I can hold six swords so there's
-no way you can defeat me}I have six swords;
+<font face="Impress BT Pace" size="37">I have six swords;
 you only have three!</font>
 
 79
 00:04:24,610 --> 00:04:28,660
-<font face="Impress BT Pace" size="37">{when you can hold only three 
-swords! Isn't that right?!}There's no way you could possibly beat me! Right?!</font>
+<font face="Impress BT Pace" size="37">There's no way you could possibly beat me! Right?!</font>
 
 80
 00:04:28,660 --> 00:04:32,660
-<font face="Impress BT Pace" size="37">{Just think about it}It's so obvious?
-{What a big miscalculation.}Sounds like a grave miscalculation.</font>
+<font face="Impress BT Pace" size="37">It's so obvious?
+Sounds like a grave miscalculation.</font>
 
 81
 00:04:32,660 --> 00:04:34,460
-<font face="Impress BT Pace" size="37"><i>{What do you bear 
-on your shoulders?}What burden do you bear?</i></font>
+<font face="Impress BT Pace" size="37"><i>What burden do you bear?</i></font>
 
 82
 00:04:34,510 --> 00:04:37,060
-<font face="Impress BT Pace" size="37"><i>{What do you desire once
-you've obtained power?}What is your aim in attaining power?</i></font>
+<font face="Impress BT Pace" size="37"><i>What is your aim in attaining power?</i></font>
 
 83
 00:04:48,180 --> 00:04:50,310
-<font face="Impress BT Pace" size="37">{He drank quite a bit of water.}He's taken in a lot of water.</font>
+<font face="Impress BT Pace" size="37">He's taken in a lot of water.</font>
 
 84
 00:04:50,310 --> 00:04:53,140
@@ -381,48 +369,44 @@ break it in the sea.</font>
 
 86
 00:04:57,600 --> 00:04:59,250
-<font face="Impress BT Pace" size="37">{The buoyancy is too strong.}It's just too buoyant.</font>
+<font face="Impress BT Pace" size="37">It's just too buoyant.</font>
 
 87
 00:04:59,250 --> 00:05:00,560
-<font face="Impress BT Pace" size="37">Gen{-san}, hurry up.</font>
+<font face="Impress BT Pace" size="37">Gen, hurry up.</font>
 
 88
 00:05:00,560 --> 00:05:02,760
-<font face="Impress BT Pace" size="37">It's {No}no good. I can't smash the rock.</font>
+<font face="Impress BT Pace" size="37">It's no good. I can't smash the rock.</font>
 
 89
 00:05:02,760 --> 00:05:05,910
-<font face="Impress BT Pace" size="37">An oxygen {cylinder would be helpful
-but we don't have time to go get it.}tank would help,
+<font face="Impress BT Pace" size="37">An oxygen tank would help,
 but we don't have time to get one.</font>
 
 90
 00:05:06,430 --> 00:05:09,280
-<font face="Impress BT Pace" size="37">{And we can't carry him up
-along with the rock,}We can't surface both him and the rock, either.</font>
+<font face="Impress BT Pace" size="37">We can't surface both him and the rock, either.</font>
 
 91
 00:05:09,820 --> 00:05:10,990
-<font face="Impress BT Pace" size="37">{Oh yeah!}That's it!</font>
+<font face="Impress BT Pace" size="37">That's it!</font>
 
 92
 00:05:11,970 --> 00:05:16,620
-<font face="Impress BT Pace" size="37">{Whether it's three swords...
-or six swords...}Three swords... <i>six</i> swords...</font>
+<font face="Impress BT Pace" size="37">Three swords... <i>six</i> swords...</font>
 
 93
 00:05:17,900 --> 00:05:20,470
-<font face="Impress BT Pace" size="37">{it doesn't matter!}{That has nothing to do with it!}The amount doesn't matter!</font>
+<font face="Impress BT Pace" size="37">The amount doesn't matter!</font>
 
 94
 00:05:22,600 --> 00:05:27,840
-<font face="Impress BT Pace" size="37">{Your sword and my sword
-carry different weight!}The heft of our blades is different!</font>
+<font face="Impress BT Pace" size="37">The heft of our blades is different!</font>
 
 95
 00:05:43,820 --> 00:05:45,820
-<font face="Impress BT Pace" size="37">{Weight, you said?}You're talking about their weight?</font>
+<font face="Impress BT Pace" size="37">You're talking about their weight?</font>
 
 96
 00:05:45,820 --> 00:05:49,600
@@ -430,23 +414,20 @@ carry different weight!}The heft of our blades is different!</font>
 
 97
 00:05:49,600 --> 00:05:54,070
-<font face="Impress BT Pace" size="37">{But my swords weigh at
-least 300 kilos per sword, though they may not look like it.}You'd be surprised, but each of my swords weighs at least 300 kg.</font>
+<font face="Impress BT Pace" size="37">You'd be surprised, but each of my swords weighs at least 300 kg.</font>
 
 98
 00:05:54,100 --> 00:05:58,790
-<font face="Impress BT Pace" size="37">{They weigh a lot more than you
-humans' swords, you bastard!}They're a lot more massive than your puny human swords, you bastard!</font>
+<font face="Impress BT Pace" size="37">They're a lot more massive than your puny human swords, you bastard!</font>
 
 99
 00:06:00,080 --> 00:06:02,500
-<font face="Impress BT Pace" size="37">{There's no point in 
-discussing with an idiot.}You can't argue with stupid.</font>
+<font face="Impress BT Pace" size="37">You can't argue with stupid.</font>
 
 100
 00:06:02,500 --> 00:06:04,960
 <font face="Impress BT Pace" size="37">Six-Sword Style:
-Octopus {Pot}Trap Stance!</font>
+Octopus Trap Stance!</font>
 
 101
 00:06:05,420 --> 00:06:06,840
@@ -479,12 +460,11 @@ right in his wounds!</font>
 
 108
 00:06:20,480 --> 00:06:22,660
-<font face="Impress BT Pace" size="37">{I won't let you land 
-while you're still alive!}I'll kill you before you hit the ground!</font>
+<font face="Impress BT Pace" size="37">I'll kill you before you hit the ground!</font>
 
 109
 00:06:22,660 --> 00:06:23,940
-<font face="Impress BT Pace" size="37">Six-Sword Style Esoterica: {Ultimate Technique!}{Fade is intentionally not added here because fade made the line hard to read.}</font>
+<font face="Impress BT Pace" size="37">Six-Sword Style Esoterica: </font>
 
 110
 00:06:24,610 --> 00:06:26,320
@@ -492,12 +472,11 @@ while you're still alive!}I'll kill you before you hit the ground!</font>
 
 111
 00:06:26,320 --> 00:06:29,370
-<font face="Impress BT Pace" size="37">You'll be {mincemeat if you 
-touch it even for a second!}ground to shreds the moment you touch my blades!</font>
+<font face="Impress BT Pace" size="37">You'll be ground to shreds the moment you touch my blades!</font>
 
 112
 00:06:29,370 --> 00:06:31,130
-<font face="Impress BT Pace" size="37">{Become mincemeat!}Ground Zoro coming up!</font>
+<font face="Impress BT Pace" size="37">Ground Zoro coming up!</font>
 
 113
 00:06:31,700 --> 00:06:32,660
@@ -513,33 +492,29 @@ touch it even for a second!}ground to shreds the moment you touch my blades!</fo
 
 116
 00:06:49,510 --> 00:06:54,210
-<font face="Impress BT Pace" size="37">That bastard! {He rolled on my 
-swords adjusting to the spin!}He perfectly timed his roll in sync with my swords.</font>
+<font face="Impress BT Pace" size="37">That bastard! He perfectly timed his roll in sync with my swords.</font>
 
 117
 00:06:54,210 --> 00:06:57,520
-<font face="Impress BT Pace" size="37">{On top of that, he gave me
-a free hand cutting service!}What's worse, he threw in a free exsanguination treatment!</font>
+<font face="Impress BT Pace" size="37">What's worse, he threw in a free exsanguination treatment!</font>
 
 118
 00:06:57,520 --> 00:07:00,820
-<font face="Impress BT Pace" size="37">{How dare he make fun of me!
-I'm not a circus acrobat!}I'm not to be trifled with!
+<font face="Impress BT Pace" size="37">I'm not to be trifled with!
 I'm no clown!</font>
 
 119
 00:07:00,820 --> 00:07:03,160
-<font face="Impress BT Pace" size="37">{I'm completely angry now!
-I won't let him get away!}I couldn't be more pissed off!
+<font face="Impress BT Pace" size="37">I couldn't be more pissed off!
 I'll never forgive this insult!</font>
 
 120
 00:07:03,160 --> 00:07:05,070
-<font face="Impress BT Pace" size="37">{I'm gonna really kill him good!}He's as good as dead!</font>
+<font face="Impress BT Pace" size="37">He's as good as dead!</font>
 
 121
 00:07:12,680 --> 00:07:15,640
-<font face="Impress BT Pace" size="37">Big Bro{... he} looks like he's in a lot of pain.</font>
+<font face="Impress BT Pace" size="37">Big Bro looks like he's in a lot of pain.</font>
 
 122
 00:07:15,640 --> 00:07:19,100
@@ -548,13 +523,11 @@ opened with that attack.</font>
 
 123
 00:07:19,100 --> 00:07:22,960
-<font face="Impress BT Pace" size="37">{Ahh... If I could, I'd wanna
-take his place for him...}I'd take his place if I could.</font>
+<font face="Impress BT Pace" size="37">I'd take his place if I could.</font>
 
 124
 00:07:24,060 --> 00:07:30,840
-<font face="Impress BT Pace" size="37">{Even if it's an injury that knocks 
-ordinary people out, I must not fall.}I must not fall, even to wounds that would normally be debilitating.</font>
+<font face="Impress BT Pace" size="37">I must not fall, even to wounds that would normally be debilitating.</font>
 
 125
 00:07:33,890 --> 00:07:36,510
@@ -567,8 +540,7 @@ Octopus Trap Stance!</font>
 
 127
 00:07:39,460 --> 00:07:45,270
-<font face="Impress BT Pace" size="37">{Even if it's an injury that kills
-ordinary people, I must not die!}I must not die, even to wounds that would normally be life-threatening.</font>
+<font face="Impress BT Pace" size="37">I must not die, even to wounds that would normally be life-threatening.</font>
 
 128
 00:07:45,270 --> 00:07:46,190
@@ -576,8 +548,7 @@ ordinary people, I must not die!}I must not die, even to wounds that would norma
 
 129
 00:07:47,960 --> 00:07:50,780
-<font face="Impress BT Pace" size="37">{In order to defeat the 
-extraordinarily strong Hawk Eye,}To defeat the extraordinary Hawk Eye,</font>
+<font face="Impress BT Pace" size="37">To defeat the extraordinary Hawk Eye,</font>
 
 130
 00:07:51,770 --> 00:07:54,160
@@ -593,8 +564,7 @@ extraordinarily strong Hawk Eye,}To defeat the extraordinary Hawk Eye,</font>
 
 133
 00:08:24,110 --> 00:08:31,940
-<font face="Impress BT Pace" size="37">{How could I be... defeated by...
-the Three-Sword Style?}How could I...
+<font face="Impress BT Pace" size="37">How could I...
 three-sword style... how did it...?</font>
 
 134
@@ -603,12 +573,11 @@ three-sword style... how did it...?</font>
 
 135
 00:08:39,510 --> 00:08:42,600
-<font face="Impress BT Pace" size="37">{You now know the difference...}you've now learned the difference...</font>
+<font face="Impress BT Pace" size="37">you've now learned the difference...</font>
 
 136
 00:08:43,170 --> 00:08:46,880
-<font face="Impress BT Pace" size="37">{between the weight 
-in our swords, right?}between the heft of our blades.</font>
+<font face="Impress BT Pace" size="37">between the heft of our blades.</font>
 
 137
 00:08:46,880 --> 00:08:48,960
@@ -616,12 +585,11 @@ in our swords, right?}between the heft of our blades.</font>
 
 138
 00:08:59,790 --> 00:09:02,460
-<font face="Impress BT Pace" size="37">Sorry, but {I don't care 
-about that octofreak.}that octofreak doesn't matter now.</font>
+<font face="Impress BT Pace" size="37">Sorry, but that octofreak doesn't matter now.</font>
 
 139
 00:09:03,290 --> 00:09:05,850
-<font face="Impress BT Pace" size="37">I have to hurry {up }and rescue Luffy.</font>
+<font face="Impress BT Pace" size="37">I have to hurry and rescue Luffy.</font>
 
 140
 00:09:05,850 --> 00:09:07,310
@@ -655,7 +623,7 @@ especially at a certain restaurant.</font>
 
 147
 00:09:29,130 --> 00:09:31,300
-<font face="Impress BT Pace" size="37">{You sure take me lightly, don't you?}You disrespect me.</font>
+<font face="Impress BT Pace" size="37">You disrespect me.</font>
 
 148
 00:09:37,040 --> 00:09:38,700
@@ -668,11 +636,11 @@ especially at a certain restaurant.</font>
 150
 00:09:40,010 --> 00:09:43,770
 <font face="Impress BT Pace" size="37">You'll die if you go into the sea
-with {the }wounds like that!</font>
+with wounds like that!</font>
 
 151
 00:09:43,770 --> 00:09:47,420
-<font face="Impress BT Pace" size="37">Shut up! {He's at his limit!}Luffy's already been down there too long.{I absolutely know there's smth missing here. Gaijin: Yep, I added it in the next line.}</font>
+<font face="Impress BT Pace" size="37">Shut up! Luffy's already been down there too long.</font>
 
 152
 00:09:47,500 --> 00:09:49,440
@@ -685,18 +653,16 @@ for you to finish with him.</font>
 
 154
 00:09:51,670 --> 00:09:54,210
-<font face="Impress BT Pace" size="37">{There's no time to waste any more.
-I know that much.}I got it; there's no more time to waste.</font>
+<font face="Impress BT Pace" size="37">I got it; there's no more time to waste.</font>
 
 155
 00:09:54,210 --> 00:09:56,590
-<font face="Impress BT Pace" size="37">{I'm trying to stop you when
-I'm fully aware of that!}I fully grasp the situation.
+<font face="Impress BT Pace" size="37">I fully grasp the situation.
 That's why I'm stopping you.</font>
 
 156
 00:09:56,590 --> 00:09:58,700
-<font face="Impress BT Pace" size="37">{You just shut up, you damn idiot!}You need to shut up, moron!</font>
+<font face="Impress BT Pace" size="37">You need to shut up, moron!</font>
 
 157
 00:09:58,700 --> 00:10:00,910
@@ -705,7 +671,7 @@ if I do this, right?!</font>
 
 158
 00:10:03,100 --> 00:10:04,530
-<font face="Impress BT Pace" size="37">{This is interesting!}Fascinating!</font>
+<font face="Impress BT Pace" size="37">Fascinating!</font>
 
 159
 00:10:04,530 --> 00:10:06,700
@@ -714,11 +680,11 @@ a fishman, in the water?</font>
 
 160
 00:10:06,700 --> 00:10:08,040
-<font face="Impress BT Pace" size="37">{He's a real idiot!}He's a colossal idiot!</font>
+<font face="Impress BT Pace" size="37">He's a colossal idiot!</font>
 
 161
 00:10:08,040 --> 00:10:09,310
-<font face="Impress BT Pace" size="37">{That's reckless!}That hothead!</font>
+<font face="Impress BT Pace" size="37">That hothead!</font>
 
 162
 00:10:09,310 --> 00:10:13,300
@@ -727,33 +693,29 @@ is exactly what they want!</font>
 
 163
 00:10:24,520 --> 00:10:27,980
-<font face="Impress BT Pace" size="37">{If I remember correctly,
-he's from Cocoyashi Village...}Oh? That guy's from Cocoyashi Village!</font>
+<font face="Impress BT Pace" size="37">Oh? That guy's from Cocoyashi Village!</font>
 
 164
 00:10:28,460 --> 00:10:31,690
-<font face="Impress BT Pace" size="37">{His neck!
-Luffy's neck is stretched!}Is that his neck? They stretched Luffy's neck!</font>
+<font face="Impress BT Pace" size="37">Is that his neck? They stretched Luffy's neck!</font>
 
 165
 00:10:33,980 --> 00:10:37,060
 <font face="Impress BT Pace" size="37">Sorry, I'm not strong enough
-to {pull the}drag your whole body.</font>
+to drag your whole body.</font>
 
 166
 00:10:37,060 --> 00:10:40,950
-<font face="Impress BT Pace" size="37">{Spit out water with your neck 
-stretched. Please at least breathe!}With your head out here, cough up what water you can and just breathe!</font>
+<font face="Impress BT Pace" size="37">With your head out here, cough up what water you can and just breathe!</font>
 
 167
 00:10:40,950 --> 00:10:43,570
-<font face="Impress BT Pace" size="37">{Come back to life!}Breathe already!
+<font face="Impress BT Pace" size="37">Breathe already!
 I hope it's not too late!</font>
 
 168
 00:10:43,570 --> 00:10:45,950
-<font face="Impress BT Pace" size="37">{I'd better hurry up before
-I can't hold my breath any more.}If I don't hurry,
+<font face="Impress BT Pace" size="37">If I don't hurry,
 I'll run out of air!</font>
 
 169
@@ -762,27 +724,25 @@ I'll run out of air!</font>
 
 170
 00:10:49,240 --> 00:10:52,870
-<font face="Impress BT Pace" size="37">but if Luffy's {neck is stretched above
-the water, he can at least breathe.}head is above water,
+<font face="Impress BT Pace" size="37">but if Luffy's head is above water,
 at least he can breathe.</font>
 
 171
 00:10:52,870 --> 00:10:55,980
-<font face="Impress BT Pace" size="37">{Which means if I kick and break that rock,}That means, if I can break that rock with a kick,</font>
+<font face="Impress BT Pace" size="37">That means, if I can break that rock with a kick,</font>
 
 172
 00:10:55,980 --> 00:10:57,920
-<font face="Impress BT Pace" size="37">I can leave the rest to that {man}old guy.</font>
+<font face="Impress BT Pace" size="37">I can leave the rest to that old guy.</font>
 
 173
 00:11:02,800 --> 00:11:07,120
-<font face="Impress BT Pace" size="37">{Realize... that you all 
-are mere humans!}It's time for a lesson!
+<font face="Impress BT Pace" size="37">It's time for a lesson!
 You're nothing but humans.</font>
 
 174
 00:11:29,870 --> 00:11:32,990
-<font face="Impress BT Pace" size="37">Hmph! {A man from Cocoyashi Village...}You're from Cocoyashi Village.</font>
+<font face="Impress BT Pace" size="37">Hmph! You're from Cocoyashi Village.</font>
 
 175
 00:11:32,990 --> 00:11:34,750
@@ -794,8 +754,8 @@ You're nothing but humans.</font>
 
 177
 00:11:36,590 --> 00:11:40,700
-<font face="Impress BT Pace" size="37">What's the point of {extending}stretching
-his life like that?! {The obvious pun is in the kanji used in the manga.}</font>
+<font face="Impress BT Pace" size="37">What's the point of stretching
+his life like that?! </font>
 
 178
 00:11:40,700 --> 00:11:43,220
@@ -816,7 +776,7 @@ to fight me in the water?!</font>
 
 182
 00:11:56,690 --> 00:11:59,940
-<font face="Impress BT Pace" size="37">You're an inferior {species}race that has
+<font face="Impress BT Pace" size="37">You're an inferior race that has
 to worry about holding your breath!</font>
 
 183
@@ -825,16 +785,15 @@ to worry about holding your breath!</font>
 
 184
 00:12:04,150 --> 00:12:07,660
-<font face="Impress BT Pace" size="37">Fishman Karate: {Dueling Hair Tether}Devil Ray Grappler!</font>
+<font face="Impress BT Pace" size="37">Fishman Karate: Devil Ray Grappler!</font>
 
 185
 00:12:12,850 --> 00:12:15,190
-<font face="Impress BT Pace" size="37">{You son of a...}</font>
+<font face="Impress BT Pace" size="37"></font>
 
 186
 00:12:15,210 --> 00:12:19,010
-<font face="Impress BT Pace" size="37">What's that? {The power of
-your kick dropped in half.}Your kick is half as powerful here.</font>
+<font face="Impress BT Pace" size="37">What's that? Your kick is half as powerful here.</font>
 
 187
 00:12:19,010 --> 00:12:21,430
@@ -842,13 +801,11 @@ your kick dropped in half.}Your kick is half as powerful here.</font>
 
 188
 00:12:21,430 --> 00:12:26,350
-<font face="Impress BT Pace" size="37">But being in water doesn't cripple Fishman Karate{'s power
-doesn't drop even in the water!}!</font>
+<font face="Impress BT Pace" size="37">But being in water doesn't cripple Fishman Karate!</font>
 
 189
 00:12:26,850 --> 00:12:30,180
-<font face="Impress BT Pace" size="37">{Rather, depending on the technique, 
-the power doubles.}In fact, some techniques become twice as powerful!</font>
+<font face="Impress BT Pace" size="37">In fact, some techniques become twice as powerful!</font>
 
 190
 00:12:33,330 --> 00:12:34,980
@@ -856,7 +813,7 @@ the power doubles.}In fact, some techniques become twice as powerful!</font>
 
 191
 00:12:34,980 --> 00:12:36,270
-<font face="Impress BT Pace" size="37">{Instant Undersea...}Blistering...</font>
+<font face="Impress BT Pace" size="37">Blistering...</font>
 
 192
 00:12:36,980 --> 00:12:38,770
@@ -880,7 +837,7 @@ the power doubles.}In fact, some techniques become twice as powerful!</font>
 
 197
 00:13:05,860 --> 00:13:07,970
-<font face="Impress BT Pace" size="37">{Guffaw}Upper Deck Palm Bomb!</font>
+<font face="Impress BT Pace" size="37">Upper Deck Palm Bomb!</font>
 
 198
 00:13:31,290 --> 00:13:33,910
@@ -902,11 +859,11 @@ I need air! Let me breathe!</font>
 
 202
 00:13:48,590 --> 00:13:51,140
-<font face="Impress BT Pace" size="37">{Seriously, what amazing strength...}Your resilience is astonishing.</font>
+<font face="Impress BT Pace" size="37">Your resilience is astonishing.</font>
 
 203
 00:13:51,140 --> 00:13:52,720
-<font face="Impress BT Pace" size="37">I can't believe {he's}you're human.</font>
+<font face="Impress BT Pace" size="37">I can't believe you're human.</font>
 
 204
 00:13:53,300 --> 00:13:54,690
@@ -914,24 +871,21 @@ I need air! Let me breathe!</font>
 
 205
 00:14:12,510 --> 00:14:16,370
-<font face="Impress BT Pace" size="37">{This is the outcome
-of your cheap chivalry.}This is the consequence of your worthless chivalry.</font>
+<font face="Impress BT Pace" size="37">This is the consequence of your worthless chivalry.</font>
 
 206
 00:14:18,290 --> 00:14:21,820
-<font face="Impress BT Pace" size="37">{You won't be able to escape
-from me and will die.}You'll die here,
+<font face="Impress BT Pace" size="37">You'll die here,
 unable to escape from me.</font>
 
 207
 00:14:21,820 --> 00:14:25,000
-<font face="Impress BT Pace" size="37">{That policeman and 
-the rubber man will also die.}That villager and the rubber guy are finished, too.</font>
+<font face="Impress BT Pace" size="37">That villager and the rubber guy are finished, too.</font>
 
 208
 00:14:25,000 --> 00:14:31,020
 <font face="Impress BT Pace" size="37">We'll slaughter Zoro, that long-nose
-man, and the {rebel villagers... They'll all be killed.}village rebels.</font>
+man, and the village rebels.</font>
 
 209
 00:14:31,020 --> 00:14:35,220
@@ -948,21 +902,19 @@ won't get away with betraying us!</font>
 
 212
 00:14:41,110 --> 00:14:46,740
-<font face="Impress BT Pace" size="37">you can't protect {anyone, let alone Nami, after all!}Nami or anyone else!</font>
+<font face="Impress BT Pace" size="37">you can't protect Nami or anyone else!</font>
 
 213
 00:14:54,310 --> 00:14:57,290
-<font face="Impress BT Pace" size="37">{Even if you're kinda strong,}You may be fairly tough,</font>
+<font face="Impress BT Pace" size="37">You may be fairly tough,</font>
 
 214
 00:14:57,290 --> 00:15:02,170
-<font face="Impress BT Pace" size="37">{that's just silly talk 
-by a helpless human.}but your drivel ultimately betrays your weakness.</font>
+<font face="Impress BT Pace" size="37">but your drivel ultimately betrays your weakness.</font>
 
 215
 00:15:03,620 --> 00:15:08,260
-<font face="Impress BT Pace" size="37">You humans can't handle {a sudden
-change in water pressure, right?}sudden changes in water pressure, right?</font>
+<font face="Impress BT Pace" size="37">You humans can't handle sudden changes in water pressure, right?</font>
 
 216
 00:15:09,430 --> 00:15:13,790
@@ -971,8 +923,7 @@ dive into the abyss,</font>
 
 217
 00:15:14,560 --> 00:15:17,390
-<font face="Impress BT Pace" size="37">{your organs will burst 
-out of your body.}your body will burst from the insides.</font>
+<font face="Impress BT Pace" size="37">your body will burst from the insides.</font>
 
 218
 00:15:20,100 --> 00:15:23,900
@@ -989,41 +940,37 @@ get away with this!</font>
 
 221
 00:15:54,020 --> 00:15:57,010
-<font face="Impress BT Pace" size="37">{This man won't die yet?}He still won't die?</font>
+<font face="Impress BT Pace" size="37">He still won't die?</font>
 
 222
 00:15:59,230 --> 00:16:02,980
-<font face="Impress BT Pace" size="37">{Then, I'll give you that 
-attack as you wish!}If you wanna go again, I'll give it to ya!</font>
+<font face="Impress BT Pace" size="37">If you wanna go again, I'll give it to ya!</font>
 
 223
 00:16:03,620 --> 00:16:06,880
-<font face="Impress BT Pace" size="37">{They use pulmonary 
-respiration on land but}They breathe through their lungs on land,</font>
+<font face="Impress BT Pace" size="37">They breathe through their lungs on land,</font>
 
 224
 00:16:06,880 --> 00:16:09,580
-<font face="Impress BT Pace" size="37">{switch to branchial 
-respiration in water.}but they switch to their gills in water.</font>
+<font face="Impress BT Pace" size="37">but they switch to their gills in water.</font>
 
 225
 00:16:12,060 --> 00:16:16,070
-<font face="Impress BT Pace" size="37">{Which}That means {that}he's just
+<font face="Impress BT Pace" size="37">That means he's just
 a talking fish right now.</font>
 
 226
 00:16:17,610 --> 00:16:19,560
-<font face="Impress BT Pace" size="37">{Can you bear a second time?}Will you survive it a second time?</font>
+<font face="Impress BT Pace" size="37">Will you survive it a second time?</font>
 
 227
 00:16:19,560 --> 00:16:24,250
 <font face="Impress BT Pace" size="37">A fish'll die if air is 
-shot into its {branchia}gills.</font>
+shot into its gills.</font>
 
 228
 00:16:24,250 --> 00:16:28,030
-<font face="Impress BT Pace" size="37">{If you're also a fish,
-you'll feel the same pain!}If you're a fish, then this oughta hurt just as much!</font>
+<font face="Impress BT Pace" size="37">If you're a fish, then this oughta hurt just as much!</font>
 
 229
 00:16:37,120 --> 00:16:38,430
@@ -1069,17 +1016,15 @@ on the ground, it's all the same.</font>
 
 239
 00:17:05,320 --> 00:17:07,630
-<font face="Impress BT Pace" size="37">I'm {really angry!}furious!</font>
+<font face="Impress BT Pace" size="37">I'm furious!</font>
 
 240
 00:17:07,630 --> 00:17:11,220
-<font face="Impress BT Pace" size="37">{I'll make you experience the
-essence of Fishman Karate!}I'll give you a taste of the soul of Fishman Karate!</font>
+<font face="Impress BT Pace" size="37">I'll give you a taste of the soul of Fishman Karate!</font>
 
 241
 00:17:12,290 --> 00:17:16,550
-<font face="Impress BT Pace" size="37">{The earlier attack I used to send you 
-flying was the Hundred Tile Fist!}The attack that sent you flying earlier was the Hundred Tile Fist!</font>
+<font face="Impress BT Pace" size="37">The attack that sent you flying earlier was the Hundred Tile Fist!</font>
 
 242
 00:17:16,550 --> 00:17:20,920
@@ -1121,15 +1066,15 @@ of surviving...</font>
 
 251
 00:17:51,600 --> 00:17:53,770
-<font face="Impress BT Pace" size="37">{You... -OG}You son of a...</font>
+<font face="Impress BT Pace" size="37">You son of a...</font>
 
 252
 00:17:54,470 --> 00:17:55,840
-<font face="Impress BT Pace" size="37">{Son of a bitch! - OG}Damn fish!</font>
+<font face="Impress BT Pace" size="37">Damn fish!</font>
 
 253
 00:17:55,840 --> 00:17:58,970
-<font face="Impress BT Pace" size="37">Ultimate {fist! Thousand-Brick!}Fist: Thousand Tiles!</font>
+<font face="Impress BT Pace" size="37">Ultimate Fist: Thousand Tiles!</font>
 
 254
 00:18:04,100 --> 00:18:06,230
@@ -1157,8 +1102,7 @@ of surviving...</font>
 
 260
 00:18:53,110 --> 00:18:56,930
-<font face="Impress BT Pace" size="37">{It's a million and fifty thousand years 
-too early for them to go against a cook.}It's one million, fifty thousand years
+<font face="Impress BT Pace" size="37">It's one million, fifty thousand years
 too early for fish to oppose a cook.</font>
 
 261
@@ -1177,7 +1121,7 @@ too carried away?!</font>
 
 264
 00:19:17,300 --> 00:19:21,890
-<font face="Impress BT Pace" size="37">Hey, what{ do}'d you mean by 
+<font face="Impress BT Pace" size="37">Hey, what'd you mean by 
 Luffy being sort of okay?</font>
 
 265
@@ -1201,22 +1145,21 @@ that guy's gonna let me.</font>
 
 269
 00:19:40,640 --> 00:19:43,480
-<font face="Impress BT Pace" size="37">They beat two of the Arlong Pirates' {leaders}officers!</font>
+<font face="Impress BT Pace" size="37">They beat two of the Arlong Pirates' officers!</font>
 
 270
 00:19:48,470 --> 00:19:51,300
-<font face="Impress BT Pace" size="37">{This is it. I can no 
-longer hold my breath!}That's all I can do.
+<font face="Impress BT Pace" size="37">That's all I can do.
 I can't hold my breath any longer.</font>
 
 271
 00:19:51,300 --> 00:19:54,140
-<font face="Impress BT Pace" size="37">Gen{-san}, take my place.
+<font face="Impress BT Pace" size="37">Gen, take my place.
 I'll go in this time.</font>
 
 272
 00:19:54,140 --> 00:19:55,970
-<font face="Impress BT Pace" size="37">He {spit out}coughed up quite a bit of water.</font>
+<font face="Impress BT Pace" size="37">He coughed up quite a bit of water.</font>
 
 273
 00:19:55,970 --> 00:19:57,220
@@ -1232,11 +1175,11 @@ I'll go in this time.</font>
 
 276
 00:20:01,360 --> 00:20:03,300
-<font face="Impress BT Pace" size="37">{although it's hard to believe,}I can't really believe it,</font>
+<font face="Impress BT Pace" size="37">I can't really believe it,</font>
 
 277
 00:20:03,300 --> 00:20:05,800
-<font face="Impress BT Pace" size="37">{this fight is giving me hope...}but this fight has {awoken}stirred...</font>
+<font face="Impress BT Pace" size="37">but this fight has stirred...</font>
 
 278
 00:20:06,350 --> 00:20:09,200
@@ -1244,7 +1187,7 @@ I'll go in this time.</font>
 
 279
 00:20:21,650 --> 00:20:24,690
-<font face="Impress BT Pace" size="37">Man... Causing me all {these troubles...}this trouble!</font>
+<font face="Impress BT Pace" size="37">Man... Causing me all this trouble!</font>
 
 280
 00:20:25,440 --> 00:20:28,080
@@ -1276,11 +1219,11 @@ the Ketchup Star for times like this.</font>
 286
 00:21:06,080 --> 00:21:11,950
 <font face="Impress BT Pace" size="37">He thinks his Water Gun or whatever
-actually hit me. {Go back already!}Go home, nerd!</font>
+actually hit me. Go home, nerd!</font>
 
 287
 00:21:13,030 --> 00:21:17,880
-<font face="Impress BT Pace" size="37">Seriously, what a scary {species}race they are.</font>
+<font face="Impress BT Pace" size="37">Seriously, what a scary race they are.</font>
 
 288
 00:21:17,880 --> 00:21:22,460
@@ -1333,11 +1276,11 @@ a trace of deadly combat.</font>
 
 299
 00:22:03,030 --> 00:22:06,760
-<font face="Impress BT Pace" size="37">{though}but I was this close," is better.</font>
+<font face="Impress BT Pace" size="37">but I was this close," is better.</font>
 
 300
 00:22:06,760 --> 00:22:09,890
-<font face="Impress BT Pace" size="37">{Or that may not be quite convincing...}That may not be all that convincing.</font>
+<font face="Impress BT Pace" size="37">That may not be all that convincing.</font>
 
 301
 00:22:10,520 --> 00:22:12,890
@@ -1350,7 +1293,7 @@ We only did what was right."</font>
 
 303
 00:22:18,310 --> 00:22:21,520
-<font face="Impress BT Pace" size="37"><i>I'd rather die than lose.{Flashback to Baratie 4 @15:23 - the line is expanded here to include the word "lose"}</i></font>
+<font face="Impress BT Pace" size="37"><i>I'd rather die than lose.</i></font>
 
 304
 00:22:21,520 --> 00:22:25,360
@@ -1363,7 +1306,7 @@ damn gang that'd hurt a lady.</i></font>
 
 306
 00:22:31,300 --> 00:22:34,660
-<font face="Impress BT Pace" size="37">"Well, it certainly was a {deadly combat}battle to the death."</font>
+<font face="Impress BT Pace" size="37">"Well, it certainly was a battle to the death."</font>
 
 307
 00:22:35,070 --> 00:22:38,810
@@ -1403,11 +1346,11 @@ I fought... was really..."</font>
 
 315
 00:23:18,400 --> 00:23:20,260
-<font face="Impress BT Pace" size="37">How {shameful}disgraceful!</font>
+<font face="Impress BT Pace" size="37">How disgraceful!</font>
 
 316
 00:23:24,680 --> 00:23:29,010
-<font face="Impress BT Pace" size="37">{How... shameful I am!}How could I be so disgraceful?!</font>
+<font face="Impress BT Pace" size="37">How could I be so disgraceful?!</font>
 
 317
 00:23:29,130 --> 00:23:32,140
@@ -1419,8 +1362,7 @@ I fought... was really..."</font>
 
 319
 00:23:39,270 --> 00:23:43,970
-<font face="Impress BT Pace" size="37">Of course! {No way that staggering
-shots by a half-fish would hit me!}Like some gangly half-fish could hit me!</font>
+<font face="Impress BT Pace" size="37">Of course! Like some gangly half-fish could hit me!</font>
 
 320
 00:23:46,020 --> 00:23:50,360
@@ -1433,8 +1375,7 @@ I gave up on things...</font>
 
 322
 00:23:53,950 --> 00:23:59,710
-<font face="Impress BT Pace" size="37">{Because they live risking their lives
-everyday, they laugh so happily!}They risk their lives every day,
+<font face="Impress BT Pace" size="37">They risk their lives every day,
 so their laughter expresses real joy!</font>
 
 323
@@ -1458,8 +1399,7 @@ on board the same ship as them.</font>
 
 327
 00:24:12,810 --> 00:24:16,720
-<font face="Impress BT Pace" size="37">{I won't have the right to laugh from
-the bottom of my heart with them!}I won't be able to join them in unrestrained laughter!</font>
+<font face="Impress BT Pace" size="37">I won't be able to join them in unrestrained laughter!</font>
 
 328
 00:24:26,360 --> 00:24:27,830
@@ -1467,7 +1407,7 @@ the bottom of my heart with them!}I won't be able to join them in unrestrained l
 
 329
 00:24:28,430 --> 00:24:30,740
-<font face="Impress BT Pace" size="37">You should've just {pretended to be dead.}kept playing dead.</font>
+<font face="Impress BT Pace" size="37">You should've just kept playing dead.</font>
 
 330
 00:24:31,340 --> 00:24:34,350
@@ -1479,8 +1419,8 @@ the bottom of my heart with them!}I won't be able to join them in unrestrained l
 
 332
 00:24:39,540 --> 00:24:43,370
-<font face="Impress BT Pace" size="37">Yeah, {you're right}you are!
-You're {already}done for alright!</font>
+<font face="Impress BT Pace" size="37">Yeah, you are!
+You're done for alright!</font>
 
 333
 00:24:43,370 --> 00:24:45,080
@@ -1500,11 +1440,11 @@ You're {already}done for alright!</font>
 
 337
 00:24:58,130 --> 00:25:01,270
-<font face="Impress BT Pace" size="37">{What a stupid trap I fell into!}I fell for that stupid trick!</font>
+<font face="Impress BT Pace" size="37">I fell for that stupid trick!</font>
 
 338
 00:25:01,700 --> 00:25:05,650
-<font face="Impress BT Pace" size="37">{That son of a bitch! - OG}Why that dirty...!</font>
+<font face="Impress BT Pace" size="37">Why that dirty...!</font>
 
 339
 00:25:08,070 --> 00:25:09,900
@@ -1516,32 +1456,28 @@ You're {already}done for alright!</font>
 
 341
 00:25:13,280 --> 00:25:18,270
-<font face="Impress BT Pace" size="37">{How dare you do all these impudent 
-things, you feeble species!}I've had enough of your cocky nonsense, you insolent worm!</font>
+<font face="Impress BT Pace" size="37">I've had enough of your cocky nonsense, you insolent worm!</font>
 
 342
 00:25:18,270 --> 00:25:23,530
-<font face="Impress BT Pace" size="37">{No matter where you hide, I'll blow
-you away using this rice field water!}Wherever you hide, I'll blow you away with this water!</font>
+<font face="Impress BT Pace" size="37">Wherever you hide, I'll blow you away with this water!</font>
 
 343
 00:25:26,500 --> 00:25:29,330
-<font face="Impress BT Pace" size="37">{Impudent or whatever... 
-It doesn't matter.}I don't care if he says I'm cocky or insolent.</font>
+<font face="Impress BT Pace" size="37">I don't care if he says I'm cocky or insolent.</font>
 
 344
 00:25:29,330 --> 00:25:34,170
-<font face="Impress BT Pace" size="37">{At any rate, as a man, 
-I can't run away from this fight.}If I want to be a man,
+<font face="Impress BT Pace" size="37">If I want to be a man,
 I can't run from this fight.</font>
 
 345
 00:25:34,800 --> 00:25:36,640
-<font face="Impress BT Pace" size="37">{Yeah, if I lose, I'll die.}If I lose, I'm dead.</font>
+<font face="Impress BT Pace" size="37">If I lose, I'm dead.</font>
 
 346
 00:25:37,140 --> 00:25:39,640
-<font face="Impress BT Pace" size="37">{But }I'm {already}actually a pirate!</font>
+<font face="Impress BT Pace" size="37">I'm actually a pirate!</font>
 
 347
 00:25:39,640 --> 00:25:41,100
@@ -1549,20 +1485,20 @@ I can't run from this fight.</font>
 
 348
 00:25:49,960 --> 00:25:53,280
-<font face="Impress BT Pace" size="37">{Oh my... What power...!}Wow! What power!</font>
+<font face="Impress BT Pace" size="37">Wow! What power!</font>
 
 349
 00:25:53,840 --> 00:25:57,990
 <font face="Impress BT Pace" size="37">Why do I have to fight 
-{against }an idiot like that?</font>
+an idiot like that?</font>
 
 350
 00:25:57,990 --> 00:26:00,950
-<font face="Impress BT Pace" size="37">He's completely {exposing himself!}exposed!</font>
+<font face="Impress BT Pace" size="37">He's completely exposed!</font>
 
 351
 00:26:01,740 --> 00:26:03,450
-<font face="Impress BT Pace" size="37">{You're gonna be swiss cheese!}I'm gonna riddle you with holes!</font>
+<font face="Impress BT Pace" size="37">I'm gonna riddle you with holes!</font>
 
 352
 00:26:03,450 --> 00:26:05,690
@@ -1585,12 +1521,11 @@ and became a pirate!</font>
 
 356
 00:26:16,720 --> 00:26:22,740
-<font face="Impress BT Pace" size="37">I'll fight! {In order to become a real,
-brave sea warrior, not a fake one!}I'll become a brave warrior of the sea for real! No more lies!</font>
+<font face="Impress BT Pace" size="37">I'll fight! I'll become a brave warrior of the sea for real! No more lies!</font>
 
 357
 00:26:22,740 --> 00:26:30,450
-<font face="Impress BT Pace" size="37">I'm done fooling around and pretending to be a pirate! {.}</font>
+<font face="Impress BT Pace" size="37">I'm done fooling around and pretending to be a pirate! </font>
 
 358
 00:26:31,810 --> 00:26:33,650
@@ -1628,7 +1563,7 @@ Water! Water! Water! Water!</font>
 
 366
 00:27:15,240 --> 00:27:16,240
-<font face="Impress BT Pace" size="37">{You son of a bitch! - OG}D-Damn you...</font>
+<font face="Impress BT Pace" size="37">D-Damn you...</font>
 
 367
 00:27:16,240 --> 00:27:18,350
@@ -1666,6 +1601,6 @@ Usopp Hammer! Usopp Hammer!</font>
 
 375
 00:27:51,810 --> 00:27:55,410
-<font face="Impress BT Pace" size="37">Don't {make light of}underestimate me, 
+<font face="Impress BT Pace" size="37">Don't underestimate me, 
 you bastards!</font>
 

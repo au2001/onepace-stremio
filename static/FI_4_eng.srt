@@ -48,7 +48,7 @@
 
 13
 00:00:39,810 --> 00:00:43,070
-<font face="Times New Roman" size="34">{\an1}Translation & initial timing
+<font face="Times New Roman" size="34">Translation & initial timing
 <font size="40">Yibis Fansubs</font></font>
 
 14
@@ -57,7 +57,7 @@
 
 15
 00:00:45,240 --> 00:00:48,840
-<font face="Times New Roman" size="34">{\an1}Timing
+<font face="Times New Roman" size="34">Timing
 <font size="40">Galaxy 9000
  Sewil</font></font>
 
@@ -67,7 +67,7 @@
 
 17
 00:00:50,200 --> 00:00:54,260
-<font face="Times New Roman" size="34">{\an1}Quality checking
+<font face="Times New Roman" size="34">Quality checking
 <font size="40">Sewil
  Feeso
  Galaxy 9000</font></font>
@@ -78,7 +78,7 @@
 
 19
 00:00:54,590 --> 00:00:58,790
-<font face="Times New Roman" size="34">{\an1}Soundtracking
+<font face="Times New Roman" size="34">Soundtracking
 <font size="40">Halee</font></font>
 
 20
@@ -103,7 +103,7 @@
 
 25
 00:01:16,420 --> 00:01:18,520
-<font face="Times New Roman" size="34">{\an1}Video editing
+<font face="Times New Roman" size="34">Video editing
 <font size="40">Sewil</font></font>
 
 26
@@ -176,7 +176,7 @@
 
 43
 00:02:30,210 --> 00:02:38,650
-<font face="impress bt" size="63" color="#fefefe"><b>{\an5}Arrival at Coral Hill!
+<font face="impress bt" size="63" color="#fefefe"><b>Arrival at Coral Hill!
 The Nosebleed and the Devastating Prediction!</b></font>
 
 44
@@ -277,7 +277,7 @@ so I guess he's an ex-Warlord now.</font>
 
 67
 00:03:46,030 --> 00:03:48,030
-<font face="Impress BT" size="55">{\an8}W-What is it with you?!</font>
+<font face="Impress BT" size="55">W-What is it with you?!</font>
 
 68
 00:03:47,430 --> 00:03:52,570
@@ -285,11 +285,11 @@ so I guess he's an ex-Warlord now.</font>
 
 69
 00:03:48,810 --> 00:03:51,610
-<font face="Impress BT" size="55">{\an8}After Ace died two years ago...</font>
+<font face="Impress BT" size="55">After Ace died two years ago...</font>
 
 70
 00:03:51,610 --> 00:03:56,180
-<font face="Impress BT" size="55">{\an8}the only reason I got back on my feet
+<font face="Impress BT" size="55">the only reason I got back on my feet
 was because he helped me!</font>
 
 71
@@ -298,11 +298,11 @@ was because he helped me!</font>
 
 72
 00:03:59,280 --> 00:04:01,790
-<font face="Impress BT" size="55"><i>Let us meet again in two years, at Fishman Island! {From 516 this line and the following originate.}</i></font>
+<font face="Impress BT" size="55"><i>Let us meet again in two years, at Fishman Island! </i></font>
 
 73
 00:04:01,790 --> 00:04:06,430
-<font face="Impress BT" size="55"><i>I am looking forward to the day when you and your crew arrive! {And thus ends the portion repeated from 516.}</i></font>
+<font face="Impress BT" size="55"><i>I am looking forward to the day when you and your crew arrive! </i></font>
 
 74
 00:04:07,380 --> 00:04:11,070
@@ -438,7 +438,7 @@ out to this corner of the island themselves.</font>
 
 106
 00:05:45,510 --> 00:05:48,500
-<font face="Impress BT" size="55">{\an8}Greetings, women of the cove.</font>
+<font face="Impress BT" size="55">Greetings, women of the cove.</font>
 
 107
 00:05:46,280 --> 00:05:51,000
@@ -447,7 +447,7 @@ The Three Brothers of the Neptune Family</font>
 
 108
 00:05:48,500 --> 00:05:51,000
-<font face="Impress BT" size="55">{\an8}There is something I would like to ask.</font>
+<font face="Impress BT" size="55">There is something I would like to ask.</font>
 
 109
 00:05:51,710 --> 00:05:52,870
@@ -479,7 +479,7 @@ The Three Brothers of the Neptune Family</font>
 
 116
 00:06:11,850 --> 00:06:15,680
-<font face="Impress BT" size="55">{\an8}We have received word of some illegal immigrants.</font>
+<font face="Impress BT" size="55">We have received word of some illegal immigrants.</font>
 
 117
 00:06:13,370 --> 00:06:17,610
@@ -488,11 +488,11 @@ The Three Brothers of the Neptune Family</font>
 
 118
 00:06:15,680 --> 00:06:17,710
-<font face="Impress BT" size="55">{\an8}Did they come this way?</font>
+<font face="Impress BT" size="55">Did they come this way?</font>
 
 119
 00:06:17,710 --> 00:06:20,460
-<font face="Impress BT" size="55">{\an8}If they did, then please say so-la-ti-do!</font>
+<font face="Impress BT" size="55">If they did, then please say so-la-ti-do!</font>
 
 120
 00:06:18,030 --> 00:06:23,310
@@ -501,11 +501,11 @@ The Three Brothers of the Neptune Family</font>
 
 121
 00:06:20,460 --> 00:06:23,590
-<font face="Impress BT" size="55">{\an8}If they didn't, then that's alright too-mi-re-do!</font>
+<font face="Impress BT" size="55">If they didn't, then that's alright too-mi-re-do!</font>
 
 122
 00:06:23,590 --> 00:06:26,610
-<font face="Impress BT" size="55">{\an8}Akkamanbo!  Yay!  Yay!</font>
+<font face="Impress BT" size="55">Akkamanbo!  Yay!  Yay!</font>
 
 123
 00:06:25,320 --> 00:06:29,430
@@ -514,7 +514,7 @@ The Three Brothers of the Neptune Family</font>
 
 124
 00:06:26,610 --> 00:06:29,440
-<font face="Impress BT" size="55">{\an8}I wanna have some fun here too!</font>
+<font face="Impress BT" size="55">I wanna have some fun here too!</font>
 
 125
 00:06:29,440 --> 00:06:31,890
@@ -1110,7 +1110,7 @@ but we couldn't find any humans!</font>
 
 267
 00:14:58,530 --> 00:15:00,350
-<font face="Impress BT" size="55"><i>Don't recall it! { def: is the initial "ha!" part of the phrase or just a shout? } {Gil: Sounds just like a shout to me. Retimed line to not include the shout.}</i></font>
+<font face="Impress BT" size="55"><i>Don't recall it!  </i></font>
 
 268
 00:15:00,350 --> 00:15:03,550
@@ -1135,7 +1135,7 @@ the blood donors we met at the bar!</font>
 
 273
 00:15:33,760 --> 00:15:36,030
-<font face="Impress BT" size="55">{\an8}It's alright, silly.</font>
+<font face="Impress BT" size="55">It's alright, silly.</font>
 
 274
 00:15:35,530 --> 00:15:39,850
@@ -1144,7 +1144,7 @@ the blood donors we met at the bar!</font>
 
 275
 00:15:36,030 --> 00:15:39,850
-<font face="Impress BT" size="55">{\an8}If you like, we'll gladly give you more, silly.</font>
+<font face="Impress BT" size="55">If you like, we'll gladly give you more, silly.</font>
 
 276
 00:15:47,550 --> 00:15:49,530
@@ -1242,7 +1242,7 @@ Is that really something to laugh about?!</font>
 
 299
 00:17:16,720 --> 00:17:21,400
-<font face="Impress BT" size="55">{\an8}And I carelessly ended up poisoning Straw Hat.</font>
+<font face="Impress BT" size="55">And I carelessly ended up poisoning Straw Hat.</font>
 
 300
 00:17:16,750 --> 00:17:22,870
@@ -1251,7 +1251,7 @@ Hyouzou <font size="30">(Blue-Ringed Octopus Merman)</font></font>
 
 301
 00:17:21,400 --> 00:17:23,260
-<font face="Impress BT" size="55">{\an8}It'd be real bad if he died.</font>
+<font face="Impress BT" size="55">It'd be real bad if he died.</font>
 
 302
 00:17:24,560 --> 00:17:27,390
@@ -1295,7 +1295,7 @@ Hyouzou <font size="30">(Blue-Ringed Octopus Merman)</font></font>
 
 312
 00:17:49,170 --> 00:17:51,940
-<font face="Impress BT" size="55">{\an8}Is the blond boy alright now?</font>
+<font face="Impress BT" size="55">Is the blond boy alright now?</font>
 
 313
 00:17:51,100 --> 00:17:54,860
@@ -1304,11 +1304,11 @@ Madame Shyarly</font>
 
 314
 00:17:51,940 --> 00:17:52,970
-<font face="Impress BT" size="55">{\an8}Yeah.</font>
+<font face="Impress BT" size="55">Yeah.</font>
 
 315
 00:17:52,970 --> 00:17:54,860
-<font face="Impress BT" size="55">{\an8}But Madame, since you're so beautiful,</font>
+<font face="Impress BT" size="55">But Madame, since you're so beautiful,</font>
 
 316
 00:17:54,860 --> 00:17:57,760
@@ -1868,7 +1868,7 @@ was probably the real Flying Dutchman...</font>
 
 451
 00:24:58,610 --> 00:25:00,630
-<font face="Impress BT" size="55">{\an8}What?!  His descendant?!</font>
+<font face="Impress BT" size="55">What?!  His descendant?!</font>
 
 452
 00:25:00,030 --> 00:25:04,070
@@ -1876,7 +1876,7 @@ was probably the real Flying Dutchman...</font>
 
 453
 00:25:00,630 --> 00:25:04,540
-<font face="Impress BT" size="55">{\an8}Oh, that's how it is?  So he wasn't a ghost after all.</font>
+<font face="Impress BT" size="55">Oh, that's how it is?  So he wasn't a ghost after all.</font>
 
 454
 00:25:04,540 --> 00:25:09,670

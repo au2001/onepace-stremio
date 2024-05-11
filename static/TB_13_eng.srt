@@ -20,7 +20,7 @@
 
 6
 00:00:23,480 --> 00:00:28,960
-<font face="Times New Roman" size="34">{\an1}Translation & initial syncing
+<font face="Times New Roman" size="34">Translation & initial syncing
 <font size="40">Vegapunk Fansubs</font></font>
 
 7
@@ -33,7 +33,7 @@
 
 9
 00:00:29,360 --> 00:00:34,510
-<font face="Times New Roman" size="34">{\an1}Syncing
+<font face="Times New Roman" size="34">Syncing
 <font size="40">Galaxy 9000
 
 </font>Sync-checking
@@ -45,7 +45,7 @@
 
 11
 00:00:35,570 --> 00:00:40,740
-<font face="Times New Roman" size="34">{\an1}Quality-checking
+<font face="Times New Roman" size="34">Quality-checking
 <font size="40">Sewil
 Galaxy 9000
 Feeso</font></font>
@@ -56,12 +56,12 @@ Feeso</font></font>
 
 13
 00:00:40,890 --> 00:00:44,120
-<font face="Times New Roman" size="34">{\an1}Video editing
+<font face="Times New Roman" size="34">Video editing
 <font size="40">Sewil</font></font>
 
 14
 00:00:44,290 --> 00:00:47,500
-<font face="Times New Roman" size="34">{\an1}Soundtracking
+<font face="Times New Roman" size="34">Soundtracking
 <font size="40">Halee</font></font>
 
 15
@@ -74,7 +74,7 @@ Feeso</font></font>
 
 17
 00:00:53,010 --> 00:00:56,840
-<font face="Times New Roman" size="34">{\an1}Raw provider
+<font face="Times New Roman" size="34">Raw provider
 <font size="40">SOFCJ-Raws</font></font>
 
 18
@@ -159,7 +159,7 @@ Feeso</font></font>
 
 38
 00:02:29,940 --> 00:02:33,040
-<font face="impress bt" size="63" color="#fefefe"><b>{\an5}Zoro vs. Ryuuma and
+<font face="impress bt" size="63" color="#fefefe"><b>Zoro vs. Ryuuma and
 Chopper's Rage!</b></font>
 
 39
@@ -221,7 +221,7 @@ an extraordinary samurai when alive.</font>
 
 53
 00:03:32,190 --> 00:03:33,010
-<font face="Impress BT" size="38"><i>{\an8}Iron</i></font>
+<font face="Impress BT" size="38"><i>Iron</i></font>
 
 54
 00:03:33,690 --> 00:03:34,960
@@ -249,7 +249,7 @@ an extraordinary samurai when alive.</font>
 
 60
 00:03:49,900 --> 00:03:50,760
-<font face="Impress BT" size="38"><i>{\an8}Forward Leap</i></font>
+<font face="Impress BT" size="38"><i>Forward Leap</i></font>
 
 61
 00:03:52,200 --> 00:03:53,060
@@ -297,7 +297,7 @@ an extraordinary samurai when alive.</font>
 
 72
 00:04:20,540 --> 00:04:22,900
-<font face="Impress BT" size="38"><i>{\an8}Phoenix of the Seventy-two Earthly Desires</i></font>
+<font face="Impress BT" size="38"><i>Phoenix of the Seventy-two Earthly Desires</i></font>
 
 73
 00:04:26,410 --> 00:04:28,100
@@ -365,7 +365,7 @@ an extraordinary samurai when alive.</font>
 
 89
 00:06:27,860 --> 00:06:33,520
-<font face="Impress BT" size="38"><i>{\an8}Shuusui: Clear Autumn Water</i></font>
+<font face="Impress BT" size="38"><i>Shuusui: Clear Autumn Water</i></font>
 
 90
 00:06:33,520 --> 00:06:39,210
@@ -624,11 +624,11 @@ that's why I deeply admired you as a doctor,</font>
 
 153
 00:10:33,470 --> 00:10:36,710
-<font face="Impress BT" size="55">You want to tell me what a doctor should be?!{edited for clarity - Sky}</font>
+<font face="Impress BT" size="55">You want to tell me what a doctor should be?!</font>
 
 154
 00:10:36,710 --> 00:10:38,970
-<font face="Impress BT" size="55">I don't intend to tell you anything!{Retranslated to match previous line - Sky}</font>
+<font face="Impress BT" size="55">I don't intend to tell you anything!</font>
 
 155
 00:10:38,970 --> 00:10:41,950
@@ -672,7 +672,7 @@ that's why I deeply admired you as a doctor,</font>
 
 165
 00:11:17,400 --> 00:11:20,400
-<font face="Impress BT" size="55">Now then, lick the floor, Cindry.{the first , seems appropriate here, should probably leave it}{added "then" to give it proper pacing in english - Sky}</font>
+<font face="Impress BT" size="55">Now then, lick the floor, Cindry.</font>
 
 166
 00:11:21,400 --> 00:11:23,700
@@ -768,7 +768,7 @@ that's why I deeply admired you as a doctor,</font>
 
 189
 00:13:08,550 --> 00:13:18,060
-<font face="Impress BT" size="55">So we agreed that, in exchange for resurrecting Cindry with his miraculous ability, I would stay on this ship.{maybe we should split this into 3 parts? to avoid the sceene bleeding? -punkid}</font>
+<font face="Impress BT" size="55">So we agreed that, in exchange for resurrecting Cindry with his miraculous ability, I would stay on this ship.</font>
 
 190
 00:13:18,800 --> 00:13:20,940
@@ -836,7 +836,7 @@ that's why I deeply admired you as a doctor,</font>
 
 206
 00:14:25,800 --> 00:14:30,600
-<font face="Impress BT" size="55">Don't talk to me about "life" with your limited medical skills, pirate-deer!{edited to sound more like an insult - Sky}</font>
+<font face="Impress BT" size="55">Don't talk to me about "life" with your limited medical skills, pirate-deer!</font>
 
 207
 00:14:30,600 --> 00:14:33,310
@@ -1009,7 +1009,7 @@ the assistant of the person you admired!</font>
 
 249
 00:16:45,040 --> 00:16:46,350
-<font face="Impress BT" size="38"><i>{\an8}Twelve Flowers</i></font>
+<font face="Impress BT" size="38"><i>Twelve Flowers</i></font>
 
 250
 00:16:50,980 --> 00:16:52,400
@@ -1085,7 +1085,7 @@ the assistant of the person you admired!</font>
 
 268
 00:17:44,780 --> 00:17:49,000
-<font face="Impress BT" size="55">Why don't you try telling us to jump off it?{Off of here? Remove 'from here'?}{The tower is mentioned in the last line, so "it" is fine - Sky}{dat grammar}</font>
+<font face="Impress BT" size="55">Why don't you try telling us to jump off it?</font>
 
 269
 00:17:49,000 --> 00:17:51,340
@@ -1161,7 +1161,7 @@ the assistant of the person you admired!</font>
 
 287
 00:18:44,260 --> 00:18:45,900
-<font face="Impress BT" size="55">Don't worry about dying!{Reworded - Sky}</font>
+<font face="Impress BT" size="55">Don't worry about dying!</font>
 
 288
 00:18:49,670 --> 00:18:50,880
