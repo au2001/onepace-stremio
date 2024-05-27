@@ -1,1383 +1,1429 @@
 1
-00:00:00,000 --> 00:00:02,800
-<font face="FOT-Greco Std DB Strp" size="56"><b><font color="#000000">Video Editing</font></b></font>
+00:00:00,000 --> 00:00:09,990
+<font face="Impress BT Pace" size="90">Your media player does not support the subtitle format used in this episode.
+Subtitles will likely not function properly.
+Please use one of the recommended video players, preferably mpv:
+https://mpv.io</font>
 
 2
 00:00:00,000 --> 00:00:02,800
-<font face="FOT-Greco Std DB Strp" size="56"><b>Video Editing</b></font>
+<font face="FOT-Greco Std DB Strp" size="55"><font color="#000000">Video Editing</font></font>
 
 3
 00:00:00,000 --> 00:00:02,800
-<font face="FOT-Greco Std DB Strp" size="56"><b><font color="#000000">Feeso</font></b></font>
+<font face="FOT-Greco Std DB Strp" size="55">Video Editing</font>
 
 4
 00:00:00,000 --> 00:00:02,800
-<font face="FOT-Greco Std DB Strp" size="56"><b>Feeso</b></font>
+<font face="FOT-Greco Std DB Strp" size="55"><font color="#000000">Feeso</font></font>
 
 5
 00:00:00,000 --> 00:00:02,800
-<font face="FOT-Greco Std DB Strp" size="56"><b>Feeso</b></font>
+<font face="FOT-Greco Std DB Strp" size="55">Feeso</font>
 
 6
-00:00:02,800 --> 00:00:05,800
-<font face="FOT-Greco Std DB Strp" size="56"><b><font color="#000000">Timing</font></b></font>
+00:00:00,000 --> 00:00:02,800
+<font face="FOT-Greco Std DB Strp" size="55">Feeso</font>
 
 7
 00:00:02,800 --> 00:00:05,800
-<font face="FOT-Greco Std DB Strp" size="56"><b>Timing</b></font>
+<font face="FOT-Greco Std DB Strp" size="55"><font color="#000000">Timing</font></font>
 
 8
 00:00:02,800 --> 00:00:05,800
-<font face="FOT-Greco Std DB Strp" size="56"><b><font color="#000000">Galaxy 9000
-PhosCity</font></b></font>
+<font face="FOT-Greco Std DB Strp" size="55">Timing</font>
 
 9
 00:00:02,800 --> 00:00:05,800
-<font face="FOT-Greco Std DB Strp" size="56"><b>Galaxy 9000
-PhosCity</b></font>
+<font face="FOT-Greco Std DB Strp" size="55"><font color="#000000">Galaxy 9000
+PhosCity</font></font>
 
 10
 00:00:02,800 --> 00:00:05,800
-<font face="FOT-Greco Std DB Strp" size="56"><b>Galaxy 9000
-PhosCity</b></font>
+<font face="FOT-Greco Std DB Strp" size="55">Galaxy 9000
+PhosCity</font>
 
 11
-00:00:04,940 --> 00:00:08,430
-<font face="Roboto" size="58"><font color="#000000">New World</font></font>
+00:00:02,800 --> 00:00:05,800
+<font face="FOT-Greco Std DB Strp" size="55">Galaxy 9000
+PhosCity</font>
 
 12
 00:00:04,940 --> 00:00:08,430
-<font face="Roboto" size="58">New World</font>
+<font face="Roboto" size="59"><font color="#000000">The New World</font></font>
 
 13
-00:00:05,800 --> 00:00:08,460
-<font face="FOT-Greco Std DB Strp" size="56"><b><font color="#000000">Quality Control</font></b></font>
+00:00:04,940 --> 00:00:08,430
+<font face="Roboto" size="59">The New World</font>
 
 14
 00:00:05,800 --> 00:00:08,460
-<font face="FOT-Greco Std DB Strp" size="56"><b>Quality Control</b></font>
+<font face="FOT-Greco Std DB Strp" size="55"><font color="#000000">Quality Control</font></font>
 
 15
 00:00:05,800 --> 00:00:08,460
-<font face="FOT-Greco Std DB Strp" size="56"><b><font color="#000000">Galaxy 9000
-Grug
-Pepperjack</font></b></font>
+<font face="FOT-Greco Std DB Strp" size="55">Quality Control</font>
 
 16
 00:00:05,800 --> 00:00:08,460
-<font face="FOT-Greco Std DB Strp" size="56"><b>Galaxy 9000
+<font face="FOT-Greco Std DB Strp" size="55"><font color="#000000">Galaxy 9000
 Grug
-Pepperjack</b></font>
+Pepperjack</font></font>
 
 17
 00:00:05,800 --> 00:00:08,460
-<font face="FOT-Greco Std DB Strp" size="56"><b>Galaxy 9000
+<font face="FOT-Greco Std DB Strp" size="55">Galaxy 9000
 Grug
-Pepperjack</b></font>
+Pepperjack</font>
 
 18
-00:00:08,530 --> 00:00:13,240
-<font face="Roboto" size="58"><font color="#000000">Minks' Guardians</font></font>
+00:00:05,800 --> 00:00:08,460
+<font face="FOT-Greco Std DB Strp" size="55">Galaxy 9000
+Grug
+Pepperjack</font>
 
 19
 00:00:08,530 --> 00:00:13,240
-<font face="Roboto" size="58">Minks' Guardians</font>
+<font face="Roboto" size="59"><font color="#000000">Mink Guardians</font></font>
 
 20
-00:00:09,070 --> 00:00:13,240
-<font face="Impress BT" size="82">Master Nekomamushi is such a skilled navigator!</font>
+00:00:08,530 --> 00:00:13,240
+<font face="Roboto" size="59">Mink Guardians</font>
 
 21
-00:00:13,230 --> 00:00:17,000
-<font face="FOT-Greco Std DB Strp" size="56"><b><font color="#000000">Soundtracking</font></b></font>
+00:00:09,070 --> 00:00:13,240
+<font face="Impress BT Pace" size="82">Master Nekomamushi is quite a skilled navigator!</font>
 
 22
 00:00:13,230 --> 00:00:17,000
-<font face="FOT-Greco Std DB Strp" size="56"><b>Soundtracking</b></font>
+<font face="FOT-Greco Std DB Strp" size="55"><font color="#000000">Soundtracking</font></font>
 
 23
 00:00:13,230 --> 00:00:17,000
-<font face="FOT-Greco Std DB Strp" size="56"><b>Soundtracking</b></font>
+<font face="FOT-Greco Std DB Strp" size="55">Soundtracking</font>
 
 24
 00:00:13,230 --> 00:00:17,000
-<font face="FOT-Greco Std DB Strp" size="56"><b><font color="#000000">Halee</font></b></font>
+<font face="FOT-Greco Std DB Strp" size="55">Soundtracking</font>
 
 25
 00:00:13,230 --> 00:00:17,000
-<font face="FOT-Greco Std DB Strp" size="56"><b>Halee</b></font>
+<font face="FOT-Greco Std DB Strp" size="55"><font color="#000000">Halee</font></font>
 
 26
 00:00:13,230 --> 00:00:17,000
-<font face="FOT-Greco Std DB Strp" size="56"><b>Halee</b></font>
+<font face="FOT-Greco Std DB Strp" size="55">Halee</font>
 
 27
-00:00:13,240 --> 00:00:16,790
-<font face="Impress BT" size="82">I'd expected no less from a man
-who sailed with the pirate king!</font>
+00:00:13,230 --> 00:00:17,000
+<font face="FOT-Greco Std DB Strp" size="55">Halee</font>
 
 28
-00:00:16,790 --> 00:00:21,460
-<font face="Impress BT" size="82">Now, how much longer do we
-have to wait by these ruins?</font>
+00:00:13,240 --> 00:00:16,790
+<font face="Impress BT Pace" size="82">I'd expect no less from a man who
+sailed with the King of the Pirates!</font>
 
 29
-00:00:17,000 --> 00:00:21,000
-<font face="FOT-Greco Std DB Strp" size="56"><b><font color="#000000">Graphics</font></b></font>
+00:00:16,790 --> 00:00:21,460
+<font face="Impress BT Pace" size="82">Now, how much longer do we
+have to wait at these ruins?</font>
 
 30
 00:00:17,000 --> 00:00:21,000
-<font face="FOT-Greco Std DB Strp" size="56"><b>Graphics</b></font>
+<font face="FOT-Greco Std DB Strp" size="55"><font color="#000000">Graphics</font></font>
 
 31
 00:00:17,000 --> 00:00:21,000
-<font face="FOT-Greco Std DB Strp" size="56"><b><font color="#000000">Datenshi</font></b></font>
+<font face="FOT-Greco Std DB Strp" size="55">Graphics</font>
 
 32
 00:00:17,000 --> 00:00:21,000
-<font face="FOT-Greco Std DB Strp" size="56"><b>Datenshi</b></font>
+<font face="FOT-Greco Std DB Strp" size="55"><font color="#000000">Datenshi</font></font>
 
 33
 00:00:17,000 --> 00:00:21,000
-<font face="FOT-Greco Std DB Strp" size="56"><b>Datenshi</b></font>
+<font face="FOT-Greco Std DB Strp" size="55">Datenshi</font>
 
 34
-00:00:21,000 --> 00:00:25,000
-<font face="FOT-Greco Std DB Strp" size="56"><b><font color="#000000">Subtitle Editing</font></b></font>
+00:00:17,000 --> 00:00:21,000
+<font face="FOT-Greco Std DB Strp" size="55">Datenshi</font>
 
 35
 00:00:21,000 --> 00:00:25,000
-<font face="FOT-Greco Std DB Strp" size="56"><b>Subtitle Editing</b></font>
+<font face="FOT-Greco Std DB Strp" size="55"><font color="#000000">Subtitle Editing</font></font>
 
 36
 00:00:21,000 --> 00:00:25,000
-<font face="FOT-Greco Std DB Strp" size="56"><b><font color="#000000">Feeso
-Gaijin</font></b></font>
+<font face="FOT-Greco Std DB Strp" size="55">Subtitle Editing</font>
 
 37
 00:00:21,000 --> 00:00:25,000
-<font face="FOT-Greco Std DB Strp" size="56"><b>Feeso
-Gaijin</b></font>
+<font face="FOT-Greco Std DB Strp" size="55"><font color="#000000">Feeso
+Zenef</font></font>
 
 38
 00:00:21,000 --> 00:00:25,000
-<font face="FOT-Greco Std DB Strp" size="56"><b>Feeso
-Gaijin</b></font>
+<font face="FOT-Greco Std DB Strp" size="55">Feeso
+Zenef</font>
 
 39
-00:00:21,460 --> 00:00:24,840
-<font face="Impress BT" size="82">Until Master Nekomamushi returns with Marco!</font>
+00:00:21,000 --> 00:00:25,000
+<font face="FOT-Greco Std DB Strp" size="55">Feeso
+Zenef</font>
 
 40
-00:00:24,840 --> 00:00:27,710
-<font face="Impress BT" size="82">I wonder if he'll come...</font>
+00:00:21,460 --> 00:00:24,840
+<font face="Impress BT Pace" size="82">Until Master Nekomamushi brings Marco here!</font>
 
 41
-00:00:25,000 --> 00:00:29,000
-<font face="FOT-Greco Std DB Strp" size="56"><b><font color="#000000">Translation</font></b></font>
+00:00:24,840 --> 00:00:27,710
+<font face="Impress BT Pace" size="82">I wonder if he'll show...</font>
 
 42
 00:00:25,000 --> 00:00:29,000
-<font face="FOT-Greco Std DB Strp" size="56"><b>Translation</b></font>
+<font face="FOT-Greco Std DB Strp" size="55"><font color="#000000">Translation</font></font>
 
 43
 00:00:25,000 --> 00:00:29,000
-<font face="FOT-Greco Std DB Strp" size="56"><b><font color="#000000">Crunchyroll
-Gaijin</font></b></font>
+<font face="FOT-Greco Std DB Strp" size="55">Translation</font>
 
 44
 00:00:25,000 --> 00:00:29,000
-<font face="FOT-Greco Std DB Strp" size="56"><b>Crunchyroll
-Gaijin</b></font>
+<font face="FOT-Greco Std DB Strp" size="55"><font color="#000000">Crunchyroll
+Gaijin</font></font>
 
 45
 00:00:25,000 --> 00:00:29,000
-<font face="FOT-Greco Std DB Strp" size="56"><b>Crunchyroll
-Gaijin</b></font>
+<font face="FOT-Greco Std DB Strp" size="55">Crunchyroll
+Gaijin</font>
 
 46
-00:00:27,710 --> 00:00:33,220
-<font face="Impress BT" size="82">If Marco accompanies us to Wano,
-he'll make for a strong ally.</font>
+00:00:25,000 --> 00:00:29,000
+<font face="FOT-Greco Std DB Strp" size="55">Crunchyroll
+Gaijin</font>
 
 47
-00:00:35,090 --> 00:00:39,780
-<font face="Impress BT" size="82">After all, he's the First Division 
-commander of the Whitebeard Pirates!</font>
+00:00:27,710 --> 00:00:33,220
+<font face="Impress BT Pace" size="82">If Marco accompanies us to Wano,
+he'll make for a strong ally.</font>
 
 48
-00:00:39,780 --> 00:00:41,970
-<font face="Impress BT" size="82">He's known as Marco the Phoenix!</font>
+00:00:35,090 --> 00:00:39,780
+<font face="Impress BT Pace" size="82">Marco <i>is</i> the former First Division commander
+of the infamous Whitebeard Pirates!</font>
 
 49
-00:00:41,970 --> 00:00:45,850
-<font face="Impress BT" size="82">I couldn't believe he's Master's friend!</font>
+00:00:39,780 --> 00:00:41,970
+<font face="Impress BT Pace" size="82">He's known as Marco the Phoenix!</font>
 
 50
-00:00:45,850 --> 00:00:47,060
-<font face="Impress BT" size="82">All right!</font>
+00:00:41,970 --> 00:00:45,850
+<font face="Impress BT Pace" size="82">What a surprise to find out
+that he's Master's friend.</font>
 
 51
-00:00:47,770 --> 00:00:51,320
-<font face="Impress BT" size="82">I'm gonna get a look at this guy for myself.</font>
+00:00:45,850 --> 00:00:47,060
+<font face="Impress BT Pace" size="82">Alright!</font>
 
 52
-00:00:51,320 --> 00:00:53,530
-<font face="Impress BT" size="82">Whoa! Wait, wait, wait!</font>
+00:00:47,770 --> 00:00:51,320
+<font face="Impress BT Pace" size="82">I'm gonna get a look at that man for myself.</font>
 
 53
-00:00:53,530 --> 00:00:58,410
-<font face="Impress BT" size="82">Master told you to wait here 
-because you-<i>gara</i> have a scary face!</font>
+00:00:51,320 --> 00:00:53,530
+<font face="Impress BT Pace" size="82">Whoa! Wait, wait, wait!</font>
 
 54
-00:00:58,410 --> 00:01:02,200
-<font face="Impress BT" size="82">Hmph! Is he the kind of guy
-who'd get scared by my face?!</font>
+00:00:53,530 --> 00:00:58,410
+<font face="Impress BT Pace" size="82">Master told you to wait here
+because you-<i>gara</i> have a scary face!</font>
 
 55
-00:01:03,400 --> 00:01:04,960
-<font face="Impress BT" size="82">That's not the point.</font>
+00:00:58,410 --> 00:01:02,200
+<font face="Impress BT Pace" size="82">Hmph! Is he the kind of guy
+who'd get scared by my face?!</font>
 
 56
-00:01:04,960 --> 00:01:09,770
-<font face="Impress BT" size="82">He said there is a peaceful village on 
-the other side of the cave behind the waterfall.</font>
+00:01:03,400 --> 00:01:04,960
+<font face="Impress BT Pace" size="82">That's not the point.</font>
 
 57
-00:01:09,770 --> 00:01:12,840
-<font face="Impress BT" size="82">A group of warriors like us
-would terrify the locals.</font>
+00:01:04,960 --> 00:01:09,770
+<font face="Impress BT Pace" size="82">He said there's a peaceful village on the other
+side of the cave behind that waterfall...</font>
 
 58
-00:01:12,840 --> 00:01:14,210
-<font face="Impress BT" size="82">True.</font>
+00:01:09,770 --> 00:01:12,840
+<font face="Impress BT Pace" size="82">A group of warriors like us
+would terrify the locals.</font>
 
 59
-00:01:14,210 --> 00:01:17,850
-<font face="Impress BT" size="82">But Master Nekomamushi's
-face is scarier than mine!</font>
+00:01:12,840 --> 00:01:13,760
+<font face="Impress BT Pace" size="82">True.</font>
 
 60
-00:01:17,850 --> 00:01:19,510
-<font face="Impress BT" size="82">Yeah, when he gets mad.</font>
+00:01:14,300 --> 00:01:17,850
+<font face="Impress BT Pace" size="82">But Master Nekomamushi's
+face is scarier than mine!</font>
 
 61
-00:01:19,510 --> 00:01:23,270
-<font face="Impress BT" size="82">– But he's cute when he smiles.
-– For sure!</font>
+00:01:17,850 --> 00:01:19,510
+<font face="Impress BT Pace" size="82">Yes, when he gets mad.</font>
 
 62
-00:01:24,620 --> 00:01:31,230
-<font face="Agency FB" size="94" color="#fefefe"><b><font color="#000000">Onward to Wano</font></b></font>
+00:01:19,510 --> 00:01:21,770
+<font face="Impress BT Pace" size="82">But he's cute when he smiles.</font>
 
 63
-00:01:24,620 --> 00:01:31,230
-<font face="Agency FB" size="94" color="#fefefe"><b>Onward to Wano</b></font>
+00:01:21,770 --> 00:01:23,270
+<font face="Impress BT Pace" size="82">For sure!</font>
 
 64
-00:01:40,370 --> 00:01:41,530
-<font face="Impress BT" size="82">There!</font>
+00:01:24,620 --> 00:01:31,230
+<font face="M+ 1c" size="95" color="#fefefe"><b><font color="#000000">Onward to Wano</font></b></font>
 
 65
-00:01:41,530 --> 00:01:43,120
-<font face="Impress BT" size="82">Hey, wait!</font>
+00:01:24,620 --> 00:01:31,230
+<font face="M+ 1c" size="95" color="#fefefe"><b>Onward to Wano</b></font>
 
 66
-00:02:04,010 --> 00:02:05,030
-<font face="Impress BT" size="82">Okay.</font>
+00:01:40,370 --> 00:01:41,530
+<font face="Impress BT Pace" size="82">There!</font>
 
 67
-00:02:05,030 --> 00:02:07,810
-<font face="Impress BT" size="82">His treatment is complete.
-He can go now-<i>yoi</i>.</font>
+00:01:41,530 --> 00:01:43,120
+<font face="Impress BT Pace" size="82">Hey, wait!</font>
 
 68
-00:02:08,890 --> 00:02:12,650
-<font face="Impress BT" size="82">He said you're better.
- Can you stand, Tama?</font>
+00:01:41,870 --> 00:01:51,860
+<font face="Impress BT Pace" size="90">Your media player does not support the subtitle format used in this episode.
+Subtitles will likely not function properly.
+Please use one of the recommended video players, preferably mpv:
+https://mpv.io</font>
 
 69
-00:02:18,530 --> 00:02:19,810
-<font face="Impress BT" size="82">Take your time.</font>
+00:02:04,010 --> 00:02:05,030
+<font face="Impress BT Pace" size="82">Okay.</font>
 
 70
-00:02:19,810 --> 00:02:23,910
-<font face="Impress BT" size="82">My Flames of Restoration can 
-only help others so much.</font>
+00:02:05,030 --> 00:02:07,810
+<font face="Impress BT Pace" size="82">His treatment is complete. He can go now.</font>
 
 71
+00:02:08,890 --> 00:02:12,650
+<font face="Impress BT Pace" size="82">He said you can go now.
+Tama, can you stand?</font>
+
+72
+00:02:18,530 --> 00:02:19,810
+<font face="Impress BT Pace" size="82">Easy does it.</font>
+
+73
+00:02:19,810 --> 00:02:23,910
+<font face="Impress BT Pace" size="82">My Flames of Restoration can
+only help others so much.</font>
+
+74
 00:02:25,500 --> 00:02:31,750
-<font face="Roboto" size="58"><font color="#000000">Marco
+<font face="Roboto" size="59"><font color="#000000">Marco
 Former First Division Commander (Ship's Doctor)
 Whitebeard Pirates</font></font>
 
-72
+75
 00:02:25,500 --> 00:02:31,750
-<font face="Roboto" size="58">Marco
+<font face="Roboto" size="59">Marco
 Former First Division Commander (Ship's Doctor)
 Whitebeard Pirates</font>
 
-73
-00:02:25,540 --> 00:02:29,310
-<font face="Impress BT" size="82">With this treatment, he should heal faster.</font>
-
-74
-00:02:29,310 --> 00:02:31,750
-<font face="Impress BT" size="82">He'll be jumping around by tomorrow.</font>
-
-75
-00:02:35,710 --> 00:02:38,440
-<font face="Impress BT" size="82">Wow! Marco is magic!</font>
-
 76
-00:02:38,440 --> 00:02:40,250
-<font face="Impress BT" size="82">Isn't it great, Tama!</font>
+00:02:25,540 --> 00:02:29,310
+<font face="Impress BT Pace" size="82">With this treatment, he should heal faster.</font>
 
 77
-00:02:50,190 --> 00:02:52,180
-<font face="Impress BT" size="82">Wow! That was amazing!</font>
+00:02:29,310 --> 00:02:31,750
+<font face="Impress BT Pace" size="82">He'll be jumping around by tomorrow.</font>
 
 78
-00:02:53,110 --> 00:02:55,730
-<font face="Impress BT" size="82">You're okay now, Tama!</font>
+00:02:35,710 --> 00:02:38,440
+<font face="Impress BT Pace" size="82">Wow! Marco is magic!</font>
 
 79
-00:03:00,280 --> 00:03:02,620
-<font face="Impress BT" size="82">I said, “By tomorrow”!
-Don't jump around now!</font>
+00:02:38,440 --> 00:02:40,250
+<font face="Impress BT Pace" size="82">Isn't it great, Tama?!</font>
 
 80
-00:03:04,070 --> 00:03:05,910
-<font face="Impress BT" size="82">Thanks, Marco!</font>
+00:02:50,190 --> 00:02:52,180
+<font face="Impress BT Pace" size="82">Wow! That was amazing!</font>
 
 81
-00:03:05,910 --> 00:03:07,450
-<font face="Impress BT" size="82">You're the best!</font>
+00:02:53,110 --> 00:02:55,730
+<font face="Impress BT Pace" size="82">You're okay now, Tama!</font>
 
 82
-00:03:14,500 --> 00:03:16,380
-<font face="Impress BT" size="82">– Marco...
- – Marco-<i>san</i>...</font>
+00:03:00,280 --> 00:03:02,620
+<font face="Impress BT Pace" size="82">I said, "By tomorrow"! No jumping yet!</font>
 
 83
-00:03:16,380 --> 00:03:17,880
-<font face="Impress BT" size="82">I've got a stiff neck!</font>
+00:03:04,070 --> 00:03:05,910
+<font face="Impress BT Pace" size="82">Thanks, Marco!</font>
 
 84
-00:03:16,480 --> 00:03:19,200
-<font face="Roboto" size="58"><font color="#000000">Nekomamushi
-Mink Tribe Guardians</font></font>
+00:03:05,910 --> 00:03:07,450
+<font face="Impress BT Pace" size="82">You're the best!</font>
 
 85
-00:03:16,480 --> 00:03:19,200
-<font face="Roboto" size="58">Nekomamushi
-Mink Tribe Guardians</font>
+00:03:14,500 --> 00:03:16,380
+<font face="Impress BT Pace" size="82">– Marco...
+ – Marco...</font>
 
 86
-00:03:17,880 --> 00:03:19,420
-<font face="Impress BT" size="82">Marco, at the mountain...</font>
+00:03:16,380 --> 00:03:17,880
+<font face="Impress BT Pace" size="82">My poor, stiff shoulders...</font>
 
 87
-00:03:19,420 --> 00:03:21,090
-<font face="Impress BT" size="82">Marco, our crops...</font>
+00:03:16,480 --> 00:03:19,200
+<font face="Roboto" size="59"><font color="#000000">Nekomamushi
+Mink Guardians</font></font>
 
 88
-00:03:21,090 --> 00:03:23,930
-<font face="Impress BT" size="82">Marco, my back hurts again!</font>
+00:03:16,480 --> 00:03:19,200
+<font face="Roboto" size="59">Nekomamushi
+Mink Guardians</font>
 
 89
-00:03:23,930 --> 00:03:27,970
-<font face="Impress BT" size="82">– Marco-<i>chan</i>, my knees...
-– Marco, can you help me study?</font>
+00:03:17,880 --> 00:03:19,420
+<font face="Impress BT Pace" size="82">Marco, at the mountain...</font>
 
 90
-00:03:27,970 --> 00:03:30,180
-<font face="Impress BT" size="82">Marco, my brother is such a meanie!</font>
+00:03:19,420 --> 00:03:21,090
+<font face="Impress BT Pace" size="82">Marco, my crops...</font>
 
 91
-00:03:30,520 --> 00:03:35,150
-<font face="Impress BT" size="82">All right-<i>yoi</i>.
-I'll hear you out one by one-<i>yoi</i>.</font>
+00:03:21,090 --> 00:03:23,930
+<font face="Impress BT Pace" size="82">Marco, my back hurts again!</font>
 
 92
-00:03:53,620 --> 00:03:56,840
-<font face="Impress BT" size="82">This is the village Pops built-<i>yoi</i>...</font>
+00:03:23,930 --> 00:03:27,970
+<font face="Impress BT Pace" size="82">– Marco, my knees...
+– Marco, can you help me study?</font>
 
 93
-00:03:56,840 --> 00:04:00,880
-<font face="Impress BT" size="82">Old man Whitebeard?
-What do you mean?</font>
+00:03:27,970 --> 00:03:30,180
+<font face="Impress BT Pace" size="82">Marco, my little brother is mean to me!</font>
 
 94
-00:04:03,300 --> 00:04:05,550
-<font face="Impress BT" size="82">Due to the extreme poverty in this area,</font>
+00:03:30,520 --> 00:03:35,150
+<font face="Impress BT Pace" size="82">All right. I'll hear you out one by one.</font>
 
 95
-00:04:05,550 --> 00:04:10,430
-<font face="Impress BT" size="82">people here can't afford to pay the heavenly tribute 
-and join the World Government.</font>
+00:03:53,620 --> 00:03:56,840
+<font face="Impress BT Pace" size="82">This is the village Pops built...</font>
 
 96
-00:04:10,430 --> 00:04:13,190
-<font face="Impress BT" size="82">That's how it goes with non-member nations.</font>
+00:03:56,840 --> 00:04:00,880
+<font face="Impress BT Pace" size="82">Old man Whitebeard? What do you mean?</font>
 
 97
-00:04:13,190 --> 00:04:18,480
-<font face="Impress BT" size="82">Pirates and human traffickers can 
-roam freely on these lawless islands.</font>
+00:04:03,300 --> 00:04:05,550
+<font face="Impress BT Pace" size="82">Due to the extreme poverty in this area...</font>
 
 98
-00:04:19,770 --> 00:04:23,710
-<font face="Impress BT" size="82">They end up in ruins, and more 
-kids become unhappy orphans.</font>
+00:04:05,550 --> 00:04:10,430
+<font face="Impress BT Pace" size="82">folks here can't afford the heavenly tribute
+to join the World Government...</font>
 
 99
-00:04:23,710 --> 00:04:26,810
-<font face="Impress BT" size="82">Pops was one of those kids-<i>yoi</i>.</font>
+00:04:10,430 --> 00:04:13,190
+<font face="Impress BT Pace" size="82">That's how it goes with nonmember nations.</font>
 
 100
-00:04:29,070 --> 00:04:33,320
-<font face="Impress BT" size="82">He set out to sea at an early age.</font>
+00:04:13,190 --> 00:04:18,480
+<font face="Impress BT Pace" size="82">Pirates and human traffickers do
+as they please, turning those islands lawless.</font>
 
 101
-00:04:39,340 --> 00:04:42,840
-<font face="Impress BT" size="82">Even after he became a pirate,
-he still cared about this island.</font>
+00:04:19,770 --> 00:04:23,710
+<font face="Impress BT Pace" size="82">The countries go to ruins and many
+of their children become orphans...</font>
 
 102
-00:04:42,840 --> 00:04:48,040
-<font face="Impress BT" size="82">He kept his identity a secret while funneling 
-his dirty money and resources here...</font>
+00:04:23,710 --> 00:04:26,810
+<font face="Impress BT Pace" size="82">Pops was one of those children.</font>
 
 103
-00:04:48,720 --> 00:04:50,160
-<font face="Impress BT" size="82">for the rest of his life.</font>
+00:04:29,070 --> 00:04:33,320
+<font face="Impress BT Pace" size="82">And he set out to sea at an early age.</font>
 
 104
-00:04:51,640 --> 00:04:56,120
-<font face="Impress BT" size="82">He didn't have a family back then,
-and all his friends were gone,</font>
+00:04:39,340 --> 00:04:42,840
+<font face="Impress BT Pace" size="82">Even after he became a pirate,
+he still cared about this island...</font>
 
 105
-00:04:56,120 --> 00:04:58,190
-<font face="Impress BT" size="82">but this was his home.</font>
+00:04:42,840 --> 00:04:48,040
+<font face="Impress BT Pace" size="82">He kept his identity a secret while funneling
+his dirty money and resources here...</font>
 
 106
-00:05:00,730 --> 00:05:05,740
-<font face="Impress BT" size="82">In this corrupt world, 
-there's no such thing as clean money!</font>
+00:04:48,720 --> 00:04:50,160
+<font face="Impress BT Pace" size="82">for the rest of his life.</font>
 
 107
-00:05:07,740 --> 00:05:09,260
-<font face="Impress BT" size="82">Thank you-<i>yoi</i>.</font>
+00:04:51,640 --> 00:04:56,120
+<font face="Impress BT Pace" size="82">Even back then, he didn't have a family,
+and all his friends were gone...</font>
 
 108
-00:05:12,160 --> 00:05:13,910
-<font face="Impress BT" size="82">After the Summit War,</font>
+00:04:56,120 --> 00:04:58,190
+<font face="Impress BT Pace" size="82">This was his home nonetheless.</font>
 
 109
-00:05:15,190 --> 00:05:20,400
-<font face="Impress BT" size="82">we wanted to at least protect the things 
-that were important to Pops.</font>
+00:05:00,730 --> 00:05:05,740
+<font face="Impress BT Pace" size="82">In this corrupt world,
+there's no such thing as clean money!</font>
 
 110
-00:05:20,400 --> 00:05:25,130
-<font face="Impress BT" size="82">So when Blackbeard came to invade 
-our territory, the Payback War started.</font>
+00:05:07,740 --> 00:05:09,260
+<font face="Impress BT Pace" size="82">Thank you...</font>
 
 111
-00:05:41,570 --> 00:05:46,260
-<font face="Impress BT" size="82">But we were no match for Teach 
-after he got Pops' fruit.</font>
+00:05:12,160 --> 00:05:13,910
+<font face="Impress BT Pace" size="82">After the Summit War...</font>
 
 112
-00:06:01,710 --> 00:06:04,940
-<font face="Impress BT" size="82">He took everything from us...</font>
+00:05:15,190 --> 00:05:20,400
+<font face="Impress BT Pace" size="82">we at least tried to defend
+the things that Pops was protecting</font>
 
 113
-00:06:10,880 --> 00:06:15,430
-<font face="Impress BT" size="82">I wanted to beat the hell
-out of that ingrate.</font>
+00:05:20,400 --> 00:05:25,130
+<font face="Impress BT Pace" size="82">so we kicked off the Payback War against
+Blackbeard as he invaded our territory.</font>
 
 114
-00:06:21,810 --> 00:06:23,480
-<font face="Impress BT" size="82">Pops was...</font>
+00:05:41,570 --> 00:05:46,260
+<font face="Impress BT Pace" size="82">But we were no match for Teach
+and the power he got from Pops.</font>
 
 115
-00:06:25,940 --> 00:06:29,110
-<font face="Impress BT" size="82">Pops was actually quite cheap.</font>
+00:06:01,710 --> 00:06:04,940
+<font face="Impress BT Pace" size="82">He took everything from us...</font>
 
 116
-00:06:37,330 --> 00:06:39,500
-<font face="Impress BT" size="82">He always wanted other people's drinks...</font>
+00:06:11,140 --> 00:06:14,350
+<font face="Impress BT Pace" size="82">I wanted to beat the hell
+out of that ingrate...</font>
 
 117
-00:06:40,290 --> 00:06:42,960
-<font face="Impress BT" size="82">but he never treated us!</font>
+00:06:21,810 --> 00:06:23,480
+<font face="Impress BT Pace" size="82">Pops was...</font>
 
 118
-00:06:47,340 --> 00:06:52,090
-<font face="Impress BT" size="82">Since he was funneling his share 
-of the loot to this village.</font>
+00:06:25,940 --> 00:06:29,110
+<font face="Impress BT Pace" size="82">He was pretty stingy, wasn't he?</font>
 
 119
-00:06:54,930 --> 00:06:56,960
-<font face="Impress BT" size="82">We all knew, though!</font>
+00:06:37,330 --> 00:06:39,500
+<font face="Impress BT Pace" size="82">He often wanted others' drinks...</font>
 
 120
-00:06:58,600 --> 00:07:00,690
-<font face="Impress BT" size="82">I see.</font>
+00:06:40,290 --> 00:06:42,960
+<font face="Impress BT Pace" size="82">and never got any for us!</font>
 
 121
-00:07:01,770 --> 00:07:07,860
-<font face="Impress BT" size="82">So this village is like a memento
-that he left behind.</font>
+00:06:47,340 --> 00:06:52,090
+<font face="Impress BT Pace" size="82">Since his entire share of our treasure
+went back to this village...</font>
 
 122
-00:07:08,530 --> 00:07:10,320
-<font face="Impress BT" size="82">Yeah.</font>
+00:06:54,930 --> 00:06:56,960
+<font face="Impress BT Pace" size="82">We all knew it!</font>
 
 123
-00:07:12,570 --> 00:07:13,740
-<font face="Impress BT" size="82">And...</font>
+00:06:58,600 --> 00:07:00,690
+<font face="Impress BT Pace" size="82">I see...</font>
 
 124
-00:07:14,700 --> 00:07:18,000
-<font face="Impress BT" size="82">Red Hair buried him nearby.</font>
+00:07:01,770 --> 00:07:07,860
+<font face="Impress BT Pace" size="82">So, in essence, this village
+acts as his final memento.</font>
 
 125
-00:07:19,780 --> 00:07:21,420
-<font face="Impress BT" size="82">By the way,</font>
+00:07:08,530 --> 00:07:10,320
+<font face="Impress BT Pace" size="82">Yeah...</font>
 
 126
-00:07:21,420 --> 00:07:26,690
-<font face="Impress BT" size="82">did you hear about that warlord, Weevil? 
-He's claiming to be Pops' son</font>
+00:07:12,570 --> 00:07:13,740
+<font face="Impress BT Pace" size="82">And...</font>
 
 127
-00:07:26,690 --> 00:07:29,300
-<font face="Impress BT" size="82">and attacking people connected to Whitebeard.</font>
+00:07:14,700 --> 00:07:18,000
+<font face="Impress BT Pace" size="82">Red Hair buried him nearby...</font>
 
 128
-00:07:29,300 --> 00:07:31,760
-<font face="Impress BT" size="82">Oh yeah? Is it true?!</font>
+00:07:19,780 --> 00:07:21,420
+<font face="Impress BT Pace" size="82">By the way...</font>
 
 129
-00:07:31,760 --> 00:07:35,050
-<font face="Impress BT" size="82">I don't know much about his love life,</font>
+00:07:21,420 --> 00:07:26,690
+<font face="Impress BT Pace" size="82">there's a Warlord named Weevil
+claiming he's Pops' biological son...</font>
 
 130
-00:07:35,530 --> 00:07:39,130
-<font face="Impress BT" size="82">but I guess Weevil's just after an inheritance.</font>
+00:07:26,690 --> 00:07:29,300
+<font face="Impress BT Pace" size="82">who attacks people connected to Whitebeard.</font>
 
 131
-00:07:39,130 --> 00:07:42,510
-<font face="Impress BT" size="82">I doubt they'll take my word
-that there isn't anything left.</font>
+00:07:29,300 --> 00:07:31,760
+<font face="Impress BT Pace" size="82">Oh, is that true?!</font>
 
 132
-00:07:43,230 --> 00:07:47,900
-<font face="Impress BT" size="82">I figure that sooner or later he'll 
-come after me and this place-<i>yoi</i>.</font>
+00:07:31,760 --> 00:07:35,050
+<font face="Impress BT Pace" size="82">If we're talking about his love life,
+one can't be certain...</font>
 
 133
-00:07:47,900 --> 00:07:49,230
-<font face="Impress BT" size="82">I see.</font>
+00:07:35,530 --> 00:07:39,130
+<font face="Impress BT Pace" size="82">but I'd wager they're after his fortune.</font>
 
 134
-00:07:49,230 --> 00:07:51,600
-<font face="Impress BT" size="82">So you can't leave-<i>meow</i>.</font>
+00:07:39,130 --> 00:07:42,510
+<font face="Impress BT Pace" size="82">As if they'd take our word
+for it that it doesn't exist.</font>
 
 135
-00:07:55,490 --> 00:07:58,980
-<font face="Impress BT" size="82">Weevil's mother Bakkin used to be a pirate.</font>
+00:07:43,230 --> 00:07:47,900
+<font face="Impress BT Pace" size="82">I figure that sooner or later he'll
+come after me and this place.</font>
 
 136
-00:07:58,980 --> 00:08:05,720
-<font face="Impress BT" size="82">I know that 30 or 40 years ago,
-she was on the same ship as Pops.</font>
+00:07:47,900 --> 00:07:49,230
+<font face="Impress BT Pace" size="82">I see.</font>
 
 137
-00:08:08,810 --> 00:08:12,720
-<font face="Impress BT" size="82">Then, maybe he's also a precious memento.</font>
+00:07:49,230 --> 00:07:51,600
+<font face="Impress BT Pace" size="82">So you can't leave right <i>meow</i>.</font>
 
 138
-00:08:14,900 --> 00:08:17,780
-<font face="Impress BT" size="82">His behavior tells me otherwise-<i>yoi</i>!</font>
+00:07:55,490 --> 00:07:58,980
+<font face="Impress BT Pace" size="82">Weevil's mother Buckin used to be a pirate.</font>
 
 139
-00:08:17,780 --> 00:08:19,180
-<font face="Impress BT" size="82">You're right!</font>
+00:07:58,980 --> 00:08:05,720
+<font face="Impress BT Pace" size="82">I know that thirty or forty years ago,
+she was on the same ship with Pops.</font>
 
 140
-00:08:23,660 --> 00:08:29,650
-<font face="Impress BT" size="82">If you're going to see Straw Hat Luffy,
-I want you to pass on a message, Nekomamushi.</font>
+00:08:08,810 --> 00:08:12,720
+<font face="Impress BT Pace" size="82">Then, maybe he's also a memento
+that should be protected.</font>
 
 141
-00:08:29,650 --> 00:08:32,110
-<font face="Impress BT" size="82">Yeah, no problem.</font>
+00:08:14,900 --> 00:08:17,780
+<font face="Impress BT Pace" size="82">His behavior sure would suggest otherwise!</font>
 
 142
-00:08:32,110 --> 00:08:35,160
-<font face="Impress BT" size="82">– You said he's going to Wano, right?
-– Yep.</font>
+00:08:17,780 --> 00:08:19,180
+<font face="Impress BT Pace" size="82">You're right!</font>
 
 143
-00:08:35,160 --> 00:08:37,860
-<font face="Impress BT" size="82">What's his goal there?</font>
+00:08:23,660 --> 00:08:29,650
+<font face="Impress BT Pace" size="82">If you're going to see Straw Hat Luffy, I want
+you to pass on a message, Nekomamushi.</font>
 
 144
-00:08:40,660 --> 00:08:43,120
-<font face="Impress BT" size="82">To take down Kaido!</font>
+00:08:29,650 --> 00:08:32,110
+<font face="Impress BT Pace" size="82">Yeah, no problem.</font>
 
 145
-00:08:44,540 --> 00:08:46,960
-<font face="Impress BT" size="82">The emperor... Kaido?!</font>
+00:08:32,110 --> 00:08:34,030
+<font face="Impress BT Pace" size="82">You said you're headed to Wano?</font>
 
 146
-00:08:49,170 --> 00:08:54,370
-<font face="Impress BT" size="82">Luffy's looking to pick a fight with Kaido?!</font>
+00:08:34,030 --> 00:08:35,160
+<font face="Impress BT Pace" size="82">Yep.</font>
 
 147
-00:08:54,430 --> 00:08:57,800
-<font face="Roboto" size="58"><font color="#000000">At Sea - The New World</font></font>
+00:08:35,160 --> 00:08:37,860
+<font face="Impress BT Pace" size="82">What are you planning to do there?</font>
 
 148
-00:08:54,430 --> 00:08:57,800
-<font face="Roboto" size="58">At Sea - The New World</font>
+00:08:40,660 --> 00:08:43,120
+<font face="Impress BT Pace" size="82">We'll take down Kaido!</font>
 
 149
-00:08:58,630 --> 00:09:01,560
-<font face="Impress BT" size="82">Luffy! It says the Reverie has begun!</font>
+00:08:44,540 --> 00:08:46,960
+<font face="Impress BT Pace" size="82">The Emperor... Kaido?!</font>
 
 150
-00:09:01,560 --> 00:09:06,740
-<font face="Impress BT" size="82">Monarchs from all over the world are 
-attending the conference at Mary Geoise!</font>
+00:08:49,170 --> 00:08:54,370
+<font face="Impress BT Pace" size="82">Luffy's going to pick a fight
+with Kaido this time?!</font>
 
 151
-00:09:06,740 --> 00:09:07,970
-<font face="Impress BT" size="82">Hmm...</font>
+00:08:54,430 --> 00:08:57,800
+<font face="Roboto" size="59"><font color="#000000">At Sea, the New World</font></font>
 
 152
-00:09:09,450 --> 00:09:11,500
-<font face="Impress BT" size="82">This time, all eyes are on the Ryugu Kingdom</font>
+00:08:54,430 --> 00:08:57,800
+<font face="Roboto" size="59">At Sea, the New World</font>
 
 153
-00:09:11,500 --> 00:09:15,240
-<font face="Impress BT" size="82">since they're participating for 
-the first time in two centuries!</font>
+00:08:58,630 --> 00:09:01,560
+<font face="Impress BT Pace" size="82">Luffy! It says the Reverie has begun!</font>
 
 154
-00:09:15,240 --> 00:09:18,220
-<font face="Impress BT" size="82">Neptune-<i>san</i> and the brothers are there...</font>
+00:09:01,560 --> 00:09:06,740
+<font face="Impress BT Pace" size="82">Monarchs from all over the world are
+attending the conference at Mary Geoise!</font>
 
 155
-00:09:19,660 --> 00:09:23,360
-<font face="Impress BT" size="82">and it says that they were cheering for Shirahoshi at the Red Port!</font>
+00:09:06,740 --> 00:09:07,970
+<font face="Impress BT Pace" size="82">Hmm...</font>
 
 156
-00:09:23,950 --> 00:09:28,990
-<font face="Impress BT" size="82">So she came up to the surface!
- Weakhoshi is getting stronger!</font>
+00:09:09,450 --> 00:09:11,500
+<font face="Impress BT Pace" size="82">All eyes are on the Ryugu Kingdom</font>
 
 157
+00:09:11,500 --> 00:09:15,240
+<font face="Impress BT Pace" size="82">since they're participating for
+the first time in two centuries!</font>
+
+158
+00:09:15,240 --> 00:09:18,220
+<font face="Impress BT Pace" size="82">King Neptune and his sons are there...!</font>
+
+159
+00:09:19,660 --> 00:09:23,360
+<font face="Impress BT Pace" size="82">And it looks like Shirahoshi was
+applauded at the Red Port!</font>
+
+160
+00:09:23,950 --> 00:09:28,990
+<font face="Impress BT Pace" size="82">So she came up to the surface!
+Wimpyhoshi is getting stronger!</font>
+
+161
 00:09:30,460 --> 00:09:35,220
-<font face="Roboto" size="58"><font color="#000000">Captain "Straw Hat" Luffy
+<font face="Roboto" size="59"><font color="#000000">Captain "Straw Hat" Luffy
 Straw Hat Pirates
 Bounty: 1.5 Billion Belly</font></font>
 
-158
+162
 00:09:30,460 --> 00:09:35,220
-<font face="Roboto" size="58">Captain "Straw Hat" Luffy
+<font face="Roboto" size="59">Captain "Straw Hat" Luffy
 Straw Hat Pirates
 Bounty: 1.5 Billion Belly</font>
 
-159
-00:09:31,330 --> 00:09:34,120
-<font face="Impress BT" size="82">It seems like your grandpa was their escort.</font>
-
-160
-00:09:34,120 --> 00:09:35,220
-<font face="Impress BT" size="82">Really?</font>
-
-161
-00:09:35,220 --> 00:09:41,010
-<font face="Impress BT" size="82">They took a big step towards their dream
-to relocate the Fishmen to the surface!</font>
-
-162
-00:09:45,840 --> 00:09:48,310
-<font face="Impress BT" size="82">Vivi-<i>chwai</i>!</font>
-
 163
-00:09:48,310 --> 00:09:51,780
-<font face="Impress BT" size="82">You became an even more beautiful princess!</font>
+00:09:31,330 --> 00:09:34,120
+<font face="Impress BT Pace" size="82">It seems like your grandpa was their escort.</font>
 
 164
-00:09:53,350 --> 00:09:55,370
-<font face="Impress BT" size="82">Who could it be for?</font>
+00:09:34,120 --> 00:09:35,220
+<font face="Impress BT Pace" size="82">Oh...?</font>
 
 165
-00:09:55,370 --> 00:09:57,980
-<font face="Impress BT" size="82">Me?! Hey, is it for me?!</font>
+00:09:35,220 --> 00:09:41,010
+<font face="Impress BT Pace" size="82">They took a big step toward their dream
+to relocate the Fishmen to the surface!</font>
 
 166
-00:09:59,580 --> 00:10:00,520
-<font face="Impress BT" size="82">You're in my way!</font>
+00:09:45,840 --> 00:09:48,310
+<font face="Impress BT Pace" size="82">Vivi sweetie!</font>
 
 167
-00:10:04,200 --> 00:10:05,280
-<font face="Impress BT" size="82">Vivi!</font>
+00:09:48,310 --> 00:09:51,780
+<font face="Impress BT Pace" size="82">You became an even more beautiful princess!</font>
 
 168
-00:10:05,290 --> 00:10:06,870
-<font face="Impress BT" size="82">It's Vivi!</font>
+00:09:53,350 --> 00:09:55,370
+<font face="Impress BT Pace" size="82">And who could it be for?</font>
 
 169
-00:10:06,870 --> 00:10:09,740
-<font face="Impress BT" size="82">It's been forever since we last saw her!</font>
+00:09:55,370 --> 00:09:57,980
+<font face="Impress BT Pace" size="82">Me?! Hey, is it for me?!</font>
 
 170
-00:10:09,740 --> 00:10:12,170
-<font face="Impress BT" size="82">She's even more graceful and regal!</font>
+00:09:59,580 --> 00:10:00,520
+<font face="Impress BT Pace" size="82">Move!</font>
 
 171
-00:10:12,170 --> 00:10:15,490
-<font face="Impress BT" size="82">Oh, so this is Vivi-<i>san</i>.</font>
+00:10:04,200 --> 00:10:05,280
+<font face="Impress BT Pace" size="82">Vivi!</font>
 
 172
-00:10:15,490 --> 00:10:18,470
-<font face="Impress BT" size="82">If I get to see her someday,
-I'd like to see her panties–</font>
+00:10:05,290 --> 00:10:06,870
+<font face="Impress BT Pace" size="82">It's Vivi!</font>
 
 173
-00:10:18,560 --> 00:10:19,590
-<font face="Impress BT" size="82">Like she'd show you!</font>
+00:10:06,870 --> 00:10:09,740
+<font face="Impress BT Pace" size="82">It's been forever since we last saw her!</font>
 
 174
-00:10:23,100 --> 00:10:26,680
-<font face="Impress BT" size="82">Oh, these are photos from 
-a party in the palace courtyard.</font>
+00:10:09,740 --> 00:10:12,170
+<font face="Impress BT Pace" size="82">She's become a graceful and regal princess!</font>
 
 175
-00:10:26,680 --> 00:10:30,140
-<font face="Impress BT" size="82">Look at all the royals who 
-attended with their guards.</font>
+00:10:12,170 --> 00:10:15,490
+<font face="Impress BT Pace" size="82">Oh, so this is Vivi.</font>
 
 176
-00:10:31,010 --> 00:10:33,310
-<font face="Impress BT" size="82">I-If Dressrosa is participating...</font>
+00:10:15,490 --> 00:10:18,470
+<font face="Impress BT Pace" size="82">If we ever meet, I'd like to see her panties–</font>
 
 177
-00:10:33,320 --> 00:10:35,850
-<font face="Impress BT" size="82">There she is! Viola-<i>chan<font size="15"> </font></i></font>!
+00:10:18,560 --> 00:10:19,590
+<font face="Impress BT Pace" size="82">Like she'd show you!</font>
 
 178
-00:10:41,880 --> 00:10:43,950
-<font face="Impress BT" size="82">Ugh! It's Wapol!</font>
+00:10:23,100 --> 00:10:26,680
+<font face="Impress BT Pace" size="82">Oh, these are photos of the Mingling Plaza...</font>
 
 179
-00:10:43,950 --> 00:10:46,040
-<font face="Impress BT" size="82">The old acorn guy is there, too!</font>
+00:10:26,680 --> 00:10:30,140
+<font face="Impress BT Pace" size="82">Look at all the royals who
+attended with their bodyguards.</font>
 
 180
-00:10:46,040 --> 00:10:49,140
-<font face="Impress BT" size="82">What? Wapol?! Did he make a comeback?!</font>
+00:10:31,010 --> 00:10:33,310
+<font face="Impress BT Pace" size="82">I-If Dressrosa is participating...</font>
 
 181
-00:10:49,870 --> 00:10:54,080
-<font face="Impress BT" size="82">Rebecca! Sai! We know so many of them!</font>
+00:10:33,320 --> 00:10:35,850
+<font face="Impress BT Pace" size="82">There she is! Viola my lovely!</font>
 
 182
-00:10:54,100 --> 00:11:00,290
-<font face="Impress BT" size="82">Of course. Royals from all around the world 
-gather at the Reverie to discuss issues!</font>
+00:10:41,880 --> 00:10:43,950
+<font face="Impress BT Pace" size="82">Ugh! It's Wapol!</font>
 
 183
-00:11:01,690 --> 00:11:05,050
-<font face="Impress BT" size="82">Oh, maybe at the Reverie...</font>
+00:10:43,950 --> 00:10:46,040
+<font face="Impress BT Pace" size="82">The acorn guy is there, too!</font>
 
 184
-00:11:05,870 --> 00:11:10,310
-<font face="Impress BT" size="82">At the Reverie, the princesses that I know...</font>
+00:10:46,040 --> 00:10:49,140
+<font face="Impress BT Pace" size="82">What? Wapol?! Did he make a comeback?!</font>
 
 185
-00:11:10,320 --> 00:11:14,480
-<font face="Impress BT" size="82">are gathering to discuss me!</font>
+00:10:49,870 --> 00:10:54,080
+<font face="Impress BT Pace" size="82">Rebecca! Sai! We know so many of them!</font>
 
 186
-00:11:14,480 --> 00:11:16,430
-<font face="Impress BT" size="82">Wouldn't that be nice?</font>
+00:10:54,100 --> 00:11:00,290
+<font face="Impress BT Pace" size="82">Of course. Royals from all around the world
+gather at the Reverie to discuss issues!</font>
 
 187
-00:11:17,050 --> 00:11:19,170
-<font face="Impress BT" size="82">Hey, look at this, Chopper!</font>
+00:11:01,690 --> 00:11:05,050
+<font face="Impress BT Pace" size="82">Oh, maybe at the Reverie...</font>
 
 188
-00:11:20,150 --> 00:11:21,150
-<font face="Impress BT" size="82">Right here!</font>
+00:11:05,870 --> 00:11:10,310
+<font face="Impress BT Pace" size="82">At the Reverie, the princesses that I know...</font>
 
 189
-00:11:24,940 --> 00:11:27,190
-<font face="Impress BT" size="82">What is it, Chobro?</font>
+00:11:10,320 --> 00:11:14,480
+<font face="Impress BT Pace" size="82">are getting worked up talking about me!</font>
 
 190
-00:11:35,340 --> 00:11:38,000
-<font face="Impress BT" size="82">Doctorine!</font>
+00:11:14,480 --> 00:11:16,430
+<font face="Impress BT Pace" size="82">Wouldn't that be nice?</font>
 
 191
-00:11:38,000 --> 00:11:40,300
-<font face="Impress BT" size="82">Oh, is she still alive?</font>
+00:11:17,050 --> 00:11:19,170
+<font face="Impress BT Pace" size="82">Hey, look at this, Chopper!</font>
 
 192
-00:11:40,300 --> 00:11:41,330
-<font face="Impress BT" size="82">Hey!</font>
+00:11:20,150 --> 00:11:21,150
+<font face="Impress BT Pace" size="82">Right here!</font>
 
 193
-00:11:48,340 --> 00:11:49,850
-<font face="Impress BT" size="82">Doctorine...</font>
+00:11:24,940 --> 00:11:27,190
+<font face="Impress BT Pace" size="82">What is it, Chobro?</font>
 
 194
-00:11:49,850 --> 00:11:52,010
-<font face="Impress BT" size="82">Hey! What are you doing, Chopper?!</font>
+00:11:35,340 --> 00:11:38,000
+<font face="Impress BT Pace" size="82">Doctorine!</font>
 
 195
-00:11:52,020 --> 00:11:55,110
-<font face="Impress BT" size="82">– Don't cut it out!
-– Wait? What!</font>
+00:11:38,000 --> 00:11:40,300
+<font face="Impress BT Pace" size="82">Oh, is she still alive?</font>
 
 196
-00:11:55,110 --> 00:11:59,480
-<font face="Impress BT" size="82">– Give me back my princesses!
-– What are you doing?!</font>
+00:11:40,300 --> 00:11:41,330
+<font face="Impress BT Pace" size="82">Hey!</font>
 
 197
-00:12:05,160 --> 00:12:09,570
-<font face="Impress BT" size="82">Hey! I haven't read the other side yet!
-It's full of holes!</font>
+00:11:48,340 --> 00:11:49,850
+<font face="Impress BT Pace" size="82">Doctorine...</font>
 
 198
-00:12:11,220 --> 00:12:14,040
-<font face="Impress BT" size="82">Oh? Is this an article about Kaido?</font>
+00:11:49,850 --> 00:11:52,010
+<font face="Impress BT Pace" size="82">Hey! What are you doing, Chopper?!</font>
 
 199
-00:12:16,740 --> 00:12:20,290
-<font face="Impress BT" size="82">Big Mom... What?! I can't read it!</font>
+00:11:52,020 --> 00:11:53,650
+<font face="Impress BT Pace" size="82">Don't cut it out!</font>
 
 200
-00:12:20,290 --> 00:12:22,670
-<font face="Impress BT" size="82">Sanji-<i>kun<font size="15"> </font></i></font>! Chopper!
-Give those back to me!
+00:11:53,650 --> 00:11:55,110
+<font face="Impress BT Pace" size="82">What? Wait!</font>
 
 201
-00:12:22,670 --> 00:12:24,210
-<font face="Impress BT" size="82">No!</font>
+00:11:55,110 --> 00:11:57,110
+<font face="Impress BT Pace" size="82">Give me back my princesses!</font>
 
 202
-00:12:27,300 --> 00:12:30,150
-<font face="Impress BT" size="82">I'm glad everyone is doing well!</font>
+00:11:57,110 --> 00:11:59,480
+<font face="Impress BT Pace" size="82">What are you doing?!</font>
 
 203
-00:12:30,150 --> 00:12:33,280
-<font face="Impress BT" size="82">Once we sail around the world,
-let's visit them again!</font>
+00:12:05,160 --> 00:12:09,570
+<font face="Impress BT Pace" size="82">Hey! I haven't read the other
+side yet! It's full of holes!</font>
 
 204
-00:12:33,280 --> 00:12:35,920
-<font face="Impress BT" size="82">Yes! All in good order!</font>
+00:12:11,220 --> 00:12:14,040
+<font face="Impress BT Pace" size="82">Oh? Is this an article about Kaido?</font>
 
 205
-00:12:35,920 --> 00:12:41,320
-<font face="Impress BT" size="82">Anyway, Luffy-<i>san</i>, the transponder snail
-still won't connect?</font>
+00:12:16,740 --> 00:12:20,290
+<font face="Impress BT Pace" size="82">Big Mom... is what?! I can't even read it!</font>
 
 206
-00:12:41,320 --> 00:12:43,600
-<font face="Impress BT" size="82">Oh, I forgot.</font>
+00:12:20,290 --> 00:12:22,670
+<font face="Impress BT Pace" size="82">Sanji! Chopper! Give those back to me!</font>
 
 207
-00:12:43,600 --> 00:12:46,440
-<font face="Impress BT" size="82">Hey! This is Luffy! Come in!</font>
+00:12:22,670 --> 00:12:24,210
+<font face="Impress BT Pace" size="82">– No!
+– No!</font>
 
 208
-00:12:48,910 --> 00:12:51,540
-<font face="Impress BT" size="82">There's no response.</font>
+00:12:27,300 --> 00:12:30,150
+<font face="Impress BT Pace" size="82">I'm glad everyone's doing great!</font>
 
 209
-00:12:51,540 --> 00:12:53,480
-<font face="Impress BT" size="82">Whatever. Let's push on!</font>
+00:12:30,150 --> 00:12:33,280
+<font face="Impress BT Pace" size="82">Once we sail around the world,
+let's visit them again!</font>
 
 210
-00:12:56,390 --> 00:12:57,500
-<font face="Impress BT" size="82">Wait, Luffy!</font>
+00:12:33,280 --> 00:12:35,920
+<font face="Impress BT Pace" size="82">Yes! All in good order!</font>
 
 211
-00:12:58,020 --> 00:12:59,150
-<font face="Impress BT" size="82">What's wrong?</font>
+00:12:35,920 --> 00:12:41,320
+<font face="Impress BT Pace" size="82">Anyway, Luffy, the transponder snail
+still won't connect?</font>
 
 212
-00:13:00,150 --> 00:13:01,210
-<font face="Impress BT" size="82">The wind...</font>
+00:12:41,320 --> 00:12:43,600
+<font face="Impress BT Pace" size="82">Oh, I forgot.</font>
 
 213
-00:13:22,460 --> 00:13:26,470
-<font face="Impress BT" size="82">This cold wind... and I've never seen waves like this...</font>
+00:12:43,600 --> 00:12:46,440
+<font face="Impress BT Pace" size="82">Hey! This is Luffy! Come in!</font>
 
 214
-00:13:27,200 --> 00:13:29,180
-<font face="Impress BT" size="82">This can only mean trouble.</font>
+00:12:48,910 --> 00:12:51,540
+<font face="Impress BT Pace" size="82">There's no response.</font>
 
 215
-00:13:34,260 --> 00:13:38,040
-<font face="Impress BT" size="82">So this is the sea of Wano!</font>
+00:12:51,540 --> 00:12:53,480
+<font face="Impress BT Pace" size="82">Whatever. Let's push on!</font>
 
 216
-00:13:46,360 --> 00:13:51,930
-<font face="Impress BT" size="82">The wind is getting stronger as we draw closer,
-and the waves are getting bigger!</font>
+00:12:56,390 --> 00:12:57,500
+<font face="Impress BT Pace" size="82">Wait, Luffy!</font>
 
 217
-00:13:52,660 --> 00:13:56,810
-<font face="Impress BT" size="82">It doesn't look like a normal wind-driven current.
-The way it swells...</font>
+00:12:58,020 --> 00:12:59,150
+<font face="Impress BT Pace" size="82">What's wrong?</font>
 
 218
-00:13:57,170 --> 00:13:59,630
-<font face="Impress BT" size="82">Plus it has that unusual current...</font>
+00:13:00,150 --> 00:13:01,210
+<font face="Impress BT Pace" size="82">The wind...</font>
 
 219
-00:14:00,290 --> 00:14:02,770
-<font face="Impress BT" size="82">Look at the rough weather over there!</font>
+00:13:22,460 --> 00:13:26,470
+<font face="Impress BT Pace" size="82">The chill on the wind... and I've
+never seen waves like these...</font>
 
 220
-00:14:12,200 --> 00:14:16,200
-<font face="Impress BT" size="82">We wanna avoid a storm...
-Shall we wait a little longer?</font>
+00:13:27,200 --> 00:13:29,180
+<font face="Impress BT Pace" size="82">This can only spell trouble.</font>
 
 221
-00:14:16,560 --> 00:14:20,800
-<font face="Impress BT" size="82">Hey! What are you talking about, Brook?!
-Let's go to Wano now!</font>
+00:13:34,260 --> 00:13:38,040
+<font face="Impress BT Pace" size="82">So this is the sea that surrounds Wano!</font>
 
 222
-00:14:20,800 --> 00:14:25,480
-<font face="Impress BT" size="82">Luffy-<i>san</i>, why do you always drag
-your crew into such obvious danger?</font>
+00:13:46,360 --> 00:13:51,930
+<font face="Impress BT Pace" size="82">The wind is getting stronger as we draw closer,
+and the waves are getting bigger!</font>
 
 223
-00:14:27,070 --> 00:14:28,910
-<font face="Impress BT" size="82">Actually, Brook...</font>
+00:13:52,660 --> 00:13:56,810
+<font face="Impress BT Pace" size="82">It doesn't look like a normal
+wind-driven current. The way it swells...</font>
 
 224
-00:14:29,950 --> 00:14:33,210
-<font face="Impress BT" size="82">Kin'emon actually warned me about this...</font>
+00:13:57,170 --> 00:13:59,630
+<font face="Impress BT Pace" size="82">In addition to the unusual current...</font>
 
 225
-00:14:34,060 --> 00:14:37,720
-<font face="Impress BT" size="82"><i>I shall properly explain through this snail thing.</i></font>
+00:14:00,290 --> 00:14:02,770
+<font face="Impress BT Pace" size="82">Look! That's some nasty weather!</font>
 
 226
-00:14:37,730 --> 00:14:43,260
-<font face="Impress BT" size="82"><i>The entire sea surrounding Wano is 
-always subject to terrible weather.</i></font>
+00:14:12,200 --> 00:14:16,200
+<font face="Impress BT Pace" size="82">We'll want to avoid the storm...
+Shall we wait it out?</font>
 
 227
-00:14:43,260 --> 00:14:46,190
-<font face="Impress BT" size="82"><i>The water is rough and the current is strong,</i></font>
+00:14:16,560 --> 00:14:20,800
+<font face="Impress BT Pace" size="82">Hey! What are you talking about,
+Brook?! Let's go to Wano <i>now</i>!</font>
 
 228
-00:14:46,190 --> 00:14:49,160
-<font face="Impress BT" size="82"><i>so it is difficult to even enter the country!</i></font>
+00:14:20,800 --> 00:14:25,480
+<font face="Impress BT Pace" size="82">Luffy, why would you put your
+crew in such obvious danger?</font>
 
 229
-00:14:49,160 --> 00:14:54,990
-<font face="Impress BT" size="82">What?! The weather is always this bad?!
-Then should we just go?!</font>
+00:14:27,070 --> 00:14:28,910
+<font face="Impress BT Pace" size="82">Y'know, Brook...</font>
 
 230
-00:14:54,990 --> 00:14:56,940
-<font face="Impress BT" size="82">That's what I'm saying. Let's go!</font>
+00:14:29,950 --> 00:14:33,210
+<font face="Impress BT Pace" size="82">Kin'emon actually warned me about this...</font>
 
 231
-00:14:56,940 --> 00:15:01,060
-<font face="Impress BT" size="82">Not only does it have strong samurai
-but it's also so perilous to enter.</font>
+00:14:34,060 --> 00:14:37,720
+<font face="Impress BT Pace" size="82"><i>Allow me to elaborate through this snail device.</i></font>
 
 232
-00:15:01,060 --> 00:15:03,570
-<font face="Impress BT" size="82">It truly is an isolated country!</font>
+00:14:37,730 --> 00:14:43,260
+<font face="Impress BT Pace" size="82"><i>All the waters surrounding Wano are plagued
+by terrible weather with no end.</i></font>
 
 233
-00:15:04,720 --> 00:15:09,880
-<font face="Impress BT" size="82">Let me think a little...
-There must be a way to get through safely...</font>
+00:14:43,260 --> 00:14:46,190
+<font face="Impress BT Pace" size="82"><i>The sea is rough and the current is strong...</i></font>
 
 234
-00:15:14,820 --> 00:15:17,810
-<font face="Impress BT" size="82">– What's that thing?!
-– It's an octopus!</font>
+00:14:46,190 --> 00:14:49,160
+<font face="Impress BT Pace" size="82"><i>making entry into the country an ordeal!</i></font>
 
 235
-00:15:17,810 --> 00:15:19,100
-<font face="Impress BT" size="82">A giant one!</font>
+00:14:49,160 --> 00:14:54,990
+<font face="Impress BT Pace" size="82">What?! The weather is always this bad?!
+Then should we just go?!</font>
 
 236
-00:15:19,100 --> 00:15:20,730
-<font face="Impress BT" size="82">Why's an octopus here?!</font>
+00:14:54,990 --> 00:14:56,920
+<font face="Impress BT Pace" size="82">That's what I'm saying. Let's go!</font>
 
 237
-00:15:20,730 --> 00:15:24,000
-<font face="Impress BT" size="82">– We're at sea! Octopuses live here!
-– I know that, but...</font>
+00:14:56,920 --> 00:15:01,060
+<font face="Impress BT Pace" size="82">Not only does it have strong samurai
+but it's also perilous to enter...</font>
 
 238
-00:15:24,000 --> 00:15:27,230
-<font face="Impress BT" size="82">When did it come on board?!</font>
+00:15:01,060 --> 00:15:03,570
+<font face="Impress BT Pace" size="82">It truly is an isolated country!</font>
 
 239
-00:15:27,230 --> 00:15:31,240
-<font face="Impress BT" size="82">Hey! We're getting closer to Wano!</font>
+00:15:04,720 --> 00:15:09,880
+<font face="Impress BT Pace" size="82">Let me think a little... There must
+be a way to get through safely...</font>
 
 240
-00:15:31,240 --> 00:15:32,660
-<font face="Impress BT" size="82">What?!</font>
+00:15:14,820 --> 00:15:16,440
+<font face="Impress BT Pace" size="82">What <i>is</i> that thing?!</font>
 
 241
-00:15:32,660 --> 00:15:37,280
-<font face="Impress BT" size="82">Who cares?! Go, Sunny!</font>
+00:15:16,440 --> 00:15:17,810
+<font face="Impress BT Pace" size="82">It's an octopus!</font>
 
 242
-00:15:37,290 --> 00:15:40,500
-<font face="Impress BT" size="82">To Wano!</font>
+00:15:17,810 --> 00:15:19,100
+<font face="Impress BT Pace" size="82">A giant one!</font>
 
 243
-00:15:54,470 --> 00:15:57,350
-<font face="Impress BT" size="82">Hey! Something's getting closer!</font>
+00:15:19,100 --> 00:15:20,730
+<font face="Impress BT Pace" size="82">Why's an octopus here?!</font>
 
 244
-00:16:01,180 --> 00:16:03,260
-<font face="Impress BT" size="82">What?! What is it?!</font>
+00:15:20,730 --> 00:15:22,650
+<font face="Impress BT Pace" size="82">We're at sea! Octopuses live here!</font>
 
 245
-00:16:03,260 --> 00:16:05,140
-<font face="Impress BT" size="82">It looks like a giant fish!</font>
+00:15:22,650 --> 00:15:24,000
+<font face="Impress BT Pace" size="82">I know that, but...!</font>
 
 246
-00:16:05,140 --> 00:16:07,520
-<font face="Impress BT" size="82">– Is it a shark?!
-– A shark?!</font>
+00:15:24,000 --> 00:15:27,230
+<font face="Impress BT Pace" size="82">When did it come on board?!</font>
 
 247
-00:16:09,150 --> 00:16:10,780
-<font face="Impress BT" size="82">Oh no! It's coming!</font>
+00:15:27,230 --> 00:15:31,240
+<font face="Impress BT Pace" size="82">Hey! We're getting closer to Wano!</font>
 
 248
-00:16:19,470 --> 00:16:21,140
-<font face="Impress BT" size="82">K-Koi...</font>
+00:15:31,240 --> 00:15:32,660
+<font face="Impress BT Pace" size="82">What?!</font>
 
 249
-00:16:21,140 --> 00:16:23,100
-<font face="Impress BT" size="82">Oh my, oh my!</font>
+00:15:32,660 --> 00:15:37,280
+<font face="Impress BT Pace" size="82">Who cares?! Go, <i>Sunny</i>!</font>
 
 250
-00:16:25,600 --> 00:16:27,570
-<font face="Impress BT" size="82">It's a massive koi!</font>
+00:15:37,290 --> 00:15:40,500
+<font face="Impress BT Pace" size="82">To Wano!</font>
 
 251
-00:16:35,570 --> 00:16:37,220
-<font face="Impress BT" size="82">It's a school of koi?!</font>
+00:15:54,470 --> 00:15:57,350
+<font face="Impress BT Pace" size="82">Hey! Something's coming our way!</font>
 
 252
-00:16:44,590 --> 00:16:46,810
-<font face="Impress BT" size="82">Why are there koi in the sea?!</font>
+00:16:01,180 --> 00:16:03,260
+<font face="Impress BT Pace" size="82">What?! What is it?!</font>
 
 253
-00:16:46,810 --> 00:16:49,830
-<font face="Impress BT" size="82">They're freshwater fish!
-How can they survive here?!</font>
+00:16:03,260 --> 00:16:05,140
+<font face="Impress BT Pace" size="82">It looks like a giant fish!</font>
 
 254
-00:16:49,830 --> 00:16:52,830
-<font face="Impress BT" size="82">That doesn't matter now!
-They're more monster than fish anyway!</font>
+00:16:05,140 --> 00:16:06,490
+<font face="Impress BT Pace" size="82">Is it a shark?!</font>
 
 255
-00:16:52,830 --> 00:16:55,450
-<font face="Impress BT" size="82">Hey, Sanji? Are they tasty?!</font>
+00:16:06,490 --> 00:16:07,520
+<font face="Impress BT Pace" size="82">A shark?!</font>
 
 256
-00:16:55,450 --> 00:16:58,670
-<font face="Impress BT" size="82">Forget about these monsters!</font>
+00:16:09,150 --> 00:16:10,780
+<font face="Impress BT Pace" size="82">Oh no! It's coming!</font>
 
 257
-00:16:58,670 --> 00:17:02,310
-<font face="Impress BT" size="82">Well, soaking them in hot and cold water</font>
+00:16:19,470 --> 00:16:21,140
+<font face="Impress BT Pace" size="82">K-Koi...</font>
 
 258
-00:17:02,310 --> 00:17:04,360
-<font face="Impress BT" size="82">makes a delicious <i>arai</i>-style sashimi.</font>
+00:16:21,140 --> 00:16:23,100
+<font face="Impress BT Pace" size="82">Oh my, oh my!</font>
 
 259
-00:17:04,360 --> 00:17:06,120
-<font face="Impress BT" size="82">Or simmer it in <i>miso</i> for <i>koikoku</i>.</font>
+00:16:25,600 --> 00:16:27,570
+<font face="Impress BT Pace" size="82">It's a massive koi!</font>
 
 260
-00:17:06,120 --> 00:17:09,750
-<font face="Impress BT" size="82">They're also good as tempura or as <i>amani</i>.</font>
+00:16:35,570 --> 00:16:37,220
+<font face="Impress BT Pace" size="82">It's a school of koi?!</font>
 
 261
-00:17:09,750 --> 00:17:12,320
-<font face="Impress BT" size="82">All right!</font>
+00:16:44,590 --> 00:16:46,810
+<font face="Impress BT Pace" size="82">Why are there koi in the sea?!</font>
 
 262
-00:17:13,160 --> 00:17:16,430
-<font face="Impress BT" size="82">We'll have a feast ready for our 
-reunion with Zoro and the others!</font>
+00:16:46,810 --> 00:16:49,830
+<font face="Impress BT Pace" size="82">They're freshwater fish!
+How can they survive here?!</font>
 
 263
-00:17:16,430 --> 00:17:20,210
-<font face="Impress BT" size="82">– Don't, Luffy!
-– Koi have a lot of tiny bones!</font>
+00:16:49,830 --> 00:16:52,830
+<font face="Impress BT Pace" size="82">Like it matters when we're
+dealing with monster koi!</font>
 
 264
-00:17:20,210 --> 00:17:23,520
-<font face="Impress BT" size="82">Who cares?!
-That's not important now!</font>
+00:16:52,830 --> 00:16:55,450
+<font face="Impress BT Pace" size="82">Hey, Sanji! Are they tasty?</font>
 
 265
-00:17:30,080 --> 00:17:31,970
-<font face="Impress BT" size="82">Don't fight back!</font>
+00:16:55,450 --> 00:16:58,670
+<font face="Impress BT Pace" size="82">Forget about those monsters!</font>
 
 266
-00:17:31,970 --> 00:17:35,900
-<font face="Impress BT" size="82">Of course, it's fighting back!
-Why are you always like this?!</font>
+00:16:58,670 --> 00:17:02,310
+<font face="Impress BT Pace" size="82">Well, alternating between baths of
+hot and cold water firms them up,</font>
 
 267
-00:17:35,900 --> 00:17:40,820
-<font face="Impress BT" size="82">Sanji-<i>kun<font size="15"> </font></i></font>! You're responsible for this!
-Bring Luffy back!
+00:17:02,310 --> 00:17:04,360
+<font face="Impress BT Pace" size="82">resulting in a delicacy called <i>arai</i>.</font>
 
 268
-00:17:40,820 --> 00:17:44,310
-<font face="Impress BT" size="82">Don't worry, Nami-<i>san</i>.
-He'll be fine.</font>
+00:17:04,360 --> 00:17:06,120
+<font face="Impress BT Pace" size="82">Simmering in miso makes <i>koikoku</i>.</font>
 
 269
-00:17:44,310 --> 00:17:45,430
-<font face="Impress BT" size="82">What?!</font>
+00:17:06,120 --> 00:17:09,750
+<font face="Impress BT Pace" size="82">Prepared as tempura or boiled in
+salty-sweet sauce is also good.</font>
 
 270
-00:17:45,430 --> 00:17:47,680
-<font face="Impress BT" size="82">Instead, we should protect the ship!</font>
+00:17:09,750 --> 00:17:12,320
+<font face="Impress BT Pace" size="82">Alright!</font>
 
 271
-00:18:08,940 --> 00:18:12,240
-<font face="Impress BT" size="82">The wind is strong! 
-Carrot, furl the sail!</font>
+00:17:13,160 --> 00:17:16,430
+<font face="Impress BT Pace" size="82">It'll be a banquet once we see
+Zoro and the others again!</font>
 
 272
-00:18:12,240 --> 00:18:14,570
-<font face="Impress BT" size="82">– Okay!
-– I'll help!</font>
+00:17:16,430 --> 00:17:17,980
+<font face="Impress BT Pace" size="82">Don't, Luffy!</font>
 
 273
-00:18:33,250 --> 00:18:38,530
-<font face="Impress BT" size="82">Look how clear the water is!
-It's like the water of a mountain river!</font>
+00:17:17,980 --> 00:17:20,210
+<font face="Impress BT Pace" size="82">Koi have a lot of tiny bones!</font>
 
 274
-00:18:38,530 --> 00:18:43,350
-<font face="Impress BT" size="82">I'd prefer if it wasn't so clear!
-Those giant fish are creepy!</font>
+00:17:20,210 --> 00:17:23,520
+<font face="Impress BT Pace" size="82">Who cares?! How is that even
+important right now?!</font>
 
 275
-00:18:43,350 --> 00:18:46,290
-<font face="Impress BT" size="82">Wait, is this a river?!</font>
+00:17:30,080 --> 00:17:31,970
+<font face="Impress BT Pace" size="82">Don't fight back!</font>
 
 276
-00:18:47,330 --> 00:18:49,850
-<font face="Impress BT" size="82">Where are these koi heading?!</font>
+00:17:31,970 --> 00:17:35,900
+<font face="Impress BT Pace" size="82">Of course it fights back!
+Why don't you ever learn?!</font>
 
 277
-00:18:51,810 --> 00:18:54,700
-<font face="Impress BT" size="82">Hang on tight!
-We're going with the flow!</font>
+00:17:35,900 --> 00:17:40,820
+<font face="Impress BT Pace" size="82">Sanji! You got Luffy all riled up,
+so <i>you</i> need to bring him back!</font>
 
 278
-00:18:55,710 --> 00:18:57,430
-<font face="Impress BT" size="82">Is Luffy still around here?!</font>
+00:17:40,820 --> 00:17:44,310
+<font face="Impress BT Pace" size="82">Don't worry, Nami. He'll be fine.</font>
 
 279
-00:19:04,840 --> 00:19:05,580
-<font face="Impress BT" size="82">What?!</font>
+00:17:44,310 --> 00:17:45,430
+<font face="Impress BT Pace" size="82">What?!</font>
 
 280
-00:19:08,560 --> 00:19:11,620
-<font face="Impress BT" size="82">Whoa-whoa, what is that?!</font>
+00:17:45,430 --> 00:17:47,680
+<font face="Impress BT Pace" size="82">We need to protect the ship instead!</font>
 
 281
-00:19:12,640 --> 00:19:16,520
-<font face="Impress BT" size="82">The river's flowing to the bottom of the waterfall!
-How's that possible?!</font>
+00:18:08,940 --> 00:18:12,240
+<font face="Impress BT Pace" size="82">The wind is strong! Carrot, furl the sail!</font>
 
 282
-00:19:26,660 --> 00:19:27,910
-<font face="Impress BT" size="82">I got it!</font>
+00:18:12,240 --> 00:18:13,160
+<font face="Impress BT Pace" size="82">Okay!</font>
 
 283
-00:19:28,430 --> 00:19:30,750
-<font face="Impress BT" size="82">If this waterfall is the reason 
-that it's fresh water,</font>
+00:18:13,160 --> 00:18:14,570
+<font face="Impress BT Pace" size="82">I'll help!</font>
 
 284
-00:19:30,750 --> 00:19:32,810
-<font face="Impress BT" size="82">a massive spring should be up there!</font>
+00:18:33,250 --> 00:18:38,530
+<font face="Impress BT Pace" size="82">Look how clear the water is!
+It's like the water of a mountain river!</font>
 
 285
-00:19:33,620 --> 00:19:37,030
-<font face="Impress BT" size="82">Could Wano be up there?!</font>
+00:18:38,530 --> 00:18:43,350
+<font face="Impress BT Pace" size="82">I'd prefer it if the water was not-so-clear!
+The giant fish are scaring me!</font>
 
 286
-00:19:37,030 --> 00:19:38,290
-<font face="Impress BT" size="82">Up there...</font>
+00:18:43,350 --> 00:18:46,290
+<font face="Impress BT Pace" size="82">What?! Wait, does that mean this is a river?</font>
 
 287
-00:19:38,290 --> 00:19:42,700
-<font face="Impress BT" size="82">What?! Whaaat?! How is that possible?!</font>
+00:18:47,330 --> 00:18:49,850
+<font face="Impress BT Pace" size="82">Where are these koi heading?!</font>
 
 288
-00:20:03,940 --> 00:20:06,300
-<font face="Impress BT" size="82">Oh! Look at that!</font>
+00:18:51,810 --> 00:18:54,700
+<font face="Impress BT Pace" size="82">Hang on tight! We're going with the flow!</font>
 
 289
-00:20:06,300 --> 00:20:09,890
-<font face="Impress BT" size="82">– The koi are climbing up the waterfall!
-– Why?!</font>
+00:18:55,710 --> 00:18:57,430
+<font face="Impress BT Pace" size="82">Is Luffy still around here?!</font>
 
 290
-00:20:17,690 --> 00:20:20,010
-<font face="Impress BT" size="82">Holy carp! Those koi are cool!</font>
+00:19:04,840 --> 00:19:05,580
+<font face="Impress BT Pace" size="82">What?!</font>
 
 291
-00:20:20,840 --> 00:20:24,780
-<font face="Impress BT" size="82">A sailing ship can't do that!
-We'll sink under the waterfall!</font>
+00:19:08,560 --> 00:19:11,620
+<font face="Impress BT Pace" size="82">Whoa-whoa...! What is that?!</font>
 
 292
-00:20:24,780 --> 00:20:26,570
-<font face="Impress BT" size="82">Of course, we would!</font>
+00:19:12,640 --> 00:19:16,520
+<font face="Impress BT Pace" size="82">The river's flowing to the bottom of
+the waterfall! How's that possible?!</font>
 
 293
-00:20:27,740 --> 00:20:28,520
-<font face="Impress BT" size="82">Luffy!</font>
+00:19:26,660 --> 00:19:27,910
+<font face="Impress BT Pace" size="82">I got it!</font>
 
 294
-00:20:28,970 --> 00:20:32,000
-<font face="Impress BT" size="82">Wow, those koi are so tough!</font>
+00:19:28,430 --> 00:19:32,810
+<font face="Impress BT Pace" size="82">If these falls are the reason it's fresh water,
+then a massive source is up there!</font>
 
 295
-00:20:32,000 --> 00:20:36,750
-<font face="Impress BT" size="82">– This is no time for that!
-– Luffy! She says the ship's gonna sink!</font>
+00:19:33,620 --> 00:19:37,030
+<font face="Impress BT Pace" size="82">Meaning, the country of Wano is up there?!</font>
 
 296
-00:20:36,750 --> 00:20:38,170
-<font face="Impress BT" size="82">Okay, count on me!</font>
+00:19:37,030 --> 00:19:38,290
+<font face="Impress BT Pace" size="82">Up there...</font>
 
 297
-00:20:38,170 --> 00:20:39,420
-<font face="Impress BT" size="82">What?!</font>
+00:19:38,290 --> 00:19:42,700
+<font face="Impress BT Pace" size="82">What?! Whaaat?! How is that possible?!</font>
 
 298
-00:20:40,850 --> 00:20:42,900
-<font face="Impress BT" size="82">Hang on tight!</font>
+00:20:03,940 --> 00:20:06,300
+<font face="Impress BT Pace" size="82">Oh! Look at that!</font>
 
 299
-00:20:48,540 --> 00:20:50,580
-<font face="Impress BT" size="82">I'm counting on you, koi!</font>
+00:20:06,300 --> 00:20:08,440
+<font face="Impress BT Pace" size="82">The koi are climbing up the waterfall!</font>
 
 300
-00:20:50,580 --> 00:20:52,890
-<font face="Impress BT" size="82">You've got to be kidding!</font>
+00:20:08,440 --> 00:20:09,890
+<font face="Impress BT Pace" size="82">Why?!</font>
 
 301
-00:20:54,810 --> 00:20:57,270
-<font face="Impress BT" size="82">Go!</font>
+00:20:17,690 --> 00:20:20,010
+<font face="Impress BT Pace" size="82">Holy carp! Those koi are cool!</font>
 
 302
-00:21:15,080 --> 00:21:17,750
-<font face="Impress BT" size="82">All right!</font>
+00:20:20,840 --> 00:20:24,780
+<font face="Impress BT Pace" size="82">A sailing ship can't do that!
+We'll sink under the waterfall!</font>
 
 303
-00:21:20,750 --> 00:21:24,300
-<font face="Impress BT" size="82">Up we go!</font>
+00:20:24,780 --> 00:20:26,570
+<font face="Impress BT Pace" size="82">You've got that right!</font>
 
 304
-00:21:44,780 --> 00:21:48,650
-<font face="Impress BT" size="82">What's wrong with the sea around Wano?!</font>
+00:20:27,740 --> 00:20:28,520
+<font face="Impress BT Pace" size="82">Luffy!</font>
 
 305
-00:21:48,650 --> 00:21:50,120
-<font face="Impress BT" size="82">It's so chaotic!</font>
+00:20:28,970 --> 00:20:32,000
+<font face="Impress BT Pace" size="82">Wow, those are some tough koi!</font>
 
 306
-00:21:50,120 --> 00:21:52,620
-<font face="Impress BT" size="82">Hey! There's the shore!</font>
+00:20:32,000 --> 00:20:34,050
+<font face="Impress BT Pace" size="82">This is no time for that!</font>
 
 307
-00:22:00,600 --> 00:22:02,750
-<font face="Impress BT" size="82">It's a whirlpool!</font>
+00:20:34,050 --> 00:20:36,750
+<font face="Impress BT Pace" size="82">Luffy! She says this ship's gonna sink!</font>
 
 308
-00:22:08,970 --> 00:22:11,200
-<font face="Impress BT" size="82">Luffy! Let go of those koi!</font>
+00:20:36,750 --> 00:20:38,170
+<font face="Impress BT Pace" size="82">Okay, I've got this!</font>
 
 309
-00:22:11,200 --> 00:22:13,070
-<font face="Impress BT" size="82">No! They're my dinner!</font>
+00:20:38,170 --> 00:20:39,420
+<font face="Impress BT Pace" size="82">What?!</font>
 
 310
-00:22:13,900 --> 00:22:16,070
-<font face="Impress BT" size="82">Enough already!</font>
+00:20:40,850 --> 00:20:42,900
+<font face="Impress BT Pace" size="82">Hang on tight!</font>
 
 311
-00:22:17,410 --> 00:22:19,410
-<font face="Impress BT" size="82">Brook! Take the helm!</font>
+00:20:48,540 --> 00:20:50,580
+<font face="Impress BT Pace" size="82">I'm counting on you, koi!</font>
 
 312
-00:22:19,410 --> 00:22:21,480
-<font face="Impress BT" size="82">Okay!</font>
+00:20:50,580 --> 00:20:52,890
+<font face="Impress BT Pace" size="82">You've got to be kidding!</font>
 
 313
-00:22:31,810 --> 00:22:34,320
-<font face="Impress BT" size="82">It's no good! The current is too fast!</font>
+00:20:54,810 --> 00:20:57,270
+<font face="Impress BT Pace" size="82">Go!</font>
 
 314
-00:22:39,890 --> 00:22:42,940
-<font face="Impress BT" size="82">Damn! We're almost there!</font>
+00:21:15,080 --> 00:21:17,750
+<font face="Impress BT Pace" size="82">Alright!</font>
 
 315
-00:22:44,520 --> 00:22:46,760
-<font face="Impress BT" size="82">We're not gonna make it this time!</font>
+00:21:20,750 --> 00:21:24,300
+<font face="Impress BT Pace" size="82">Up we go!</font>
 
 316
-00:22:46,760 --> 00:22:49,470
-<font face="Impress BT" size="82">Doctorine!</font>
+00:21:44,780 --> 00:21:48,650
+<font face="Impress BT Pace" size="82">What's wrong with the sea around Wano?!</font>
 
 317
-00:22:53,190 --> 00:22:55,370
-<font face="Impress BT" size="82">Hey? Where are my koi?</font>
+00:21:48,650 --> 00:21:50,120
+<font face="Impress BT Pace" size="82">It's so chaotic!</font>
 
 318
-00:22:55,370 --> 00:22:58,520
-<font face="Impress BT" size="82">– That's not important now!
-– What?</font>
+00:21:50,120 --> 00:21:52,620
+<font face="Impress BT Pace" size="82">Hey! There's the shore!</font>
 
 319
+00:22:00,600 --> 00:22:02,750
+<font face="Impress BT Pace" size="82">– It's a whirlpool!
+– It's a whirlpool!</font>
+
+320
+00:22:08,970 --> 00:22:11,200
+<font face="Impress BT Pace" size="82">Luffy! Let go of those koi!</font>
+
+321
+00:22:11,200 --> 00:22:13,070
+<font face="Impress BT Pace" size="82">No! They're my dinner!</font>
+
+322
+00:22:13,900 --> 00:22:16,070
+<font face="Impress BT Pace" size="82">Enough already!</font>
+
+323
+00:22:17,410 --> 00:22:19,410
+<font face="Impress BT Pace" size="82">Brook! Take the helm!</font>
+
+324
+00:22:19,410 --> 00:22:21,480
+<font face="Impress BT Pace" size="82">Okay!</font>
+
+325
+00:22:31,810 --> 00:22:34,320
+<font face="Impress BT Pace" size="82">It's no good! The current is too strong!</font>
+
+326
+00:22:39,890 --> 00:22:42,940
+<font face="Impress BT Pace" size="82">Damn! We're almost there!</font>
+
+327
+00:22:44,520 --> 00:22:46,760
+<font face="Impress BT Pace" size="82">We're not gonna make it this time...</font>
+
+328
+00:22:46,760 --> 00:22:49,470
+<font face="Impress BT Pace" size="82">Doctorine!</font>
+
+329
+00:22:53,190 --> 00:22:55,370
+<font face="Impress BT Pace" size="82">Hey? Where are my koi?</font>
+
+330
+00:22:55,370 --> 00:22:57,440
+<font face="Impress BT Pace" size="82">That's not important now!</font>
+
+331
+00:22:57,440 --> 00:22:58,520
+<font face="Impress BT Pace" size="82">Huh?</font>
+
+332
 00:23:09,860 --> 00:23:13,280
-<font face="Impress BT" size="82">Oh no! We're getting sucked in!</font>
+<font face="Impress BT Pace" size="82">Oh no! The whirlpool's got us!</font>
 
