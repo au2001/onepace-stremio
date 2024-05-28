@@ -729,12 +729,14 @@ remains with the Five Elders,</font>
 <font face="Impress BT Pace" size="82">I wanna sit there!</font>
 
 171
-00:07:47,400 --> 00:07:49,860
-<font face="Roboto" size="56"><font color="#000000">Pangaea Castle Courtyard</font></font>
+00:07:47,450 --> 00:07:49,820
+<font face="Roboto" size="56"><font color="#000000">Unity Courtyard
+Pangaea Castle</font></font>
 
 172
-00:07:47,400 --> 00:07:49,860
-<font face="Roboto" size="56">Pangaea Castle Courtyard</font>
+00:07:47,450 --> 00:07:49,820
+<font face="Roboto" size="56">Unity Courtyard
+Pangaea Castle</font>
 
 173
 00:07:51,150 --> 00:07:53,490
@@ -1337,11 +1339,11 @@ Guards, would you excuse us?</font>
 
 314
 00:17:22,930 --> 00:17:27,940
-<font face="Roboto" size="56"><font color="#000000">Pangaea Castle Courtyard</font></font>
+<font face="Roboto" size="56"><font color="#000000">Unity Courtyard, Pangaea Castle</font></font>
 
 315
 00:17:22,930 --> 00:17:27,940
-<font face="Roboto" size="56">Pangaea Castle Courtyard</font>
+<font face="Roboto" size="56">Unity Courtyard, Pangaea Castle</font>
 
 316
 00:17:27,940 --> 00:17:31,020
