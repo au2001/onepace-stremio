@@ -3839,7 +3839,7 @@
         "id": "WA_36",
         "title": "Oden's Adventure",
         "thumbnail": "https://onepace.net/images/episodes/cover-wano-36.webp",
-        "overview": "As Oden began his voyage, he was in awe of all the things that he has never seen before, and for the first time in his life, he became a wanted person and made the headlines, catching the eye of a high-profile figure.",
+        "overview": "As Oden began his voyage, he was in awe of all the things that he had never seen before, and for the first time in his life, he became a wanted person and made the headlines, catching the eye of a high-profile figure.",
         "released": "2023-12-08T00:00:00.000Z"
       },
       {
@@ -4150,6 +4150,15 @@
         "thumbnail": "https://onepace.net/images/episodes/cover-egghead-07.webp",
         "overview": "After Vegapunk shares his dream with Luffy's group, he asks the Straw Hat captain for a big favor. Meanwhile, CP0 ignores their lack of invitation to Egghead and get around the island defenses to make landfall.",
         "released": "2024-05-03T00:00:00.000Z"
+      },
+      {
+        "season": 36,
+        "episode": 8,
+        "id": "EH_8",
+        "title": "The Strongest Form of Humanity",
+        "thumbnail": "https://onepace.net/images/episodes/cover-egghead-08.webp",
+        "overview": "As the rematch between Luffy and Lucci kicks off, Dr. Vegapunk notices something very fascinating about the Straw Hat captain's new abilities. Meanwhile, Sentomaru arrives with the latest pacifista models as a very unlikely ally to the pirates!",
+        "released": "2024-05-31T00:00:00.000Z"
       }
     ]
   }
