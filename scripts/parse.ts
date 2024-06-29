@@ -28,7 +28,7 @@ export const fetchTorrent = async (infoHash: string) =>
     try {
       await limiter.removeTokens(1);
       parseTorrent.remote(
-        `https://api.onepace.net/download/torrent.php?hash=${infoHash}`,
+        `https://onepace.net/torrents/${infoHash}.torrent`,
         async (err, torrent) => {
           try {
             if (torrent === undefined) throw err;
@@ -88,12 +88,14 @@ export const getVideo = async (
   const infoHashes = new Set(
     released !== undefined
       ? [...arc.downloads, ...episode.downloads].flatMap((download) =>
-          download.type === DownloadType.Torrent ||
-          download.type === DownloadType.Magnet
-            ? download.uri.match(
-                /^https:\/\/api\.onepace\.net\/download\/(?:magnet|torrent)\.php\?hash=([0-9a-f]{40})$/,
-              )?.[1] ?? []
-            : [],
+          download.type === DownloadType.Torrent
+            ? /^\/torrents\/([0-9a-f]{40})\.torrent$/.exec(download.uri)?.[1] ??
+              []
+            : download.type === DownloadType.Magnet
+              ? /^magnet:\?xt=urn:btih:([0-9a-f]{40})(?:&|$)/.exec(
+                  download.uri,
+                )?.[1] ?? []
+              : [],
         )
       : [],
   );
