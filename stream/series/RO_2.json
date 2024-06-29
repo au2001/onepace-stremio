@@ -1,0 +1,30 @@
+{
+  "streams": [
+    {
+      "infoHash": "d42d71270da00dd578e34fb28517a5fffe4d2cfb",
+      "fileIdx": 1,
+      "subtitles": [
+        {
+          "id": "RO_2_ger",
+          "lang": "ger",
+          "url": "https://onepace.arl.sh/static/RO_2_ger.srt"
+        },
+        {
+          "id": "RO_2_ita",
+          "lang": "ita",
+          "url": "https://onepace.arl.sh/static/RO_2_ita.srt"
+        },
+        {
+          "id": "RO_2_por",
+          "lang": "por",
+          "url": "https://onepace.arl.sh/static/RO_2_por.srt"
+        },
+        {
+          "id": "RO_2_eng",
+          "lang": "eng",
+          "url": "https://onepace.arl.sh/static/RO_2_eng.srt"
+        }
+      ]
+    }
+  ]
+}

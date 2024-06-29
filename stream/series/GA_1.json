@@ -1,0 +1,19 @@
+{
+  "streams": [
+    {
+      "infoHash": "02819eb325abf0147963479bd7320590d6c641de",
+      "subtitles": [
+        {
+          "id": "GA_1_ita",
+          "lang": "ita",
+          "url": "https://onepace.arl.sh/static/GA_1_ita.srt"
+        },
+        {
+          "id": "GA_1_eng",
+          "lang": "eng",
+          "url": "https://onepace.arl.sh/static/GA_1_eng.srt"
+        }
+      ]
+    }
+  ]
+}

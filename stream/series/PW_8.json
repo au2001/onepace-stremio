@@ -1,0 +1,14 @@
+{
+  "streams": [
+    {
+      "infoHash": "ea2c5500648c09321acf2be9aee11fc8a798af7b",
+      "subtitles": [
+        {
+          "id": "PW_8_eng",
+          "lang": "eng",
+          "url": "https://onepace.arl.sh/static/PW_8_eng.srt"
+        }
+      ]
+    }
+  ]
+}

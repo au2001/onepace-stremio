@@ -1,0 +1,15 @@
+{
+  "streams": [
+    {
+      "infoHash": "d67ed82392c28cb6c40509383ba70bfb4e6aefdf",
+      "fileIdx": 9,
+      "subtitles": [
+        {
+          "id": "WA_10_eng",
+          "lang": "eng",
+          "url": "https://onepace.arl.sh/static/WA_10_eng.srt"
+        }
+      ]
+    }
+  ]
+}

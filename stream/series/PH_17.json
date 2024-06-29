@@ -1,0 +1,15 @@
+{
+  "streams": [
+    {
+      "infoHash": "bcdff039cd7c01f2ffb78799b4082d91de25b2fb",
+      "fileIdx": 16,
+      "subtitles": [
+        {
+          "id": "PH_17_eng",
+          "lang": "eng",
+          "url": "https://onepace.arl.sh/static/PH_17_eng.srt"
+        }
+      ]
+    }
+  ]
+}

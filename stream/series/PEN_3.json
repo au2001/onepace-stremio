@@ -1,0 +1,15 @@
+{
+  "streams": [
+    {
+      "infoHash": "59497fc3d9a6dbcdbaced48eaa9f5ba2047614df",
+      "fileIdx": 2,
+      "subtitles": [
+        {
+          "id": "PEN_3_eng",
+          "lang": "eng",
+          "url": "https://onepace.arl.sh/static/PEN_3_eng.srt"
+        }
+      ]
+    }
+  ]
+}

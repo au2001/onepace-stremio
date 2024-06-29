@@ -1,0 +1,15 @@
+{
+  "streams": [
+    {
+      "infoHash": "4f2b72009c25ec6c534a852ddfc3fd85ed10fdf5",
+      "fileIdx": 2,
+      "subtitles": [
+        {
+          "id": "LR_3_eng",
+          "lang": "eng",
+          "url": "https://onepace.arl.sh/static/LR_3_eng.srt"
+        }
+      ]
+    }
+  ]
+}

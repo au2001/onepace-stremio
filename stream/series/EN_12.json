@@ -1,0 +1,14 @@
+{
+  "streams": [
+    {
+      "infoHash": "5b49e7a4640ec5b8e455ea5be5cef520fea82da7",
+      "subtitles": [
+        {
+          "id": "EN_12_eng",
+          "lang": "eng",
+          "url": "https://onepace.arl.sh/static/EN_12_eng.srt"
+        }
+      ]
+    }
+  ]
+}

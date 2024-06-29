@@ -1,0 +1,15 @@
+{
+  "streams": [
+    {
+      "infoHash": "1f62e2583956c412f8550672bc8066c5e96ab0a8",
+      "fileIdx": 3,
+      "subtitles": [
+        {
+          "id": "AM_4_eng",
+          "lang": "eng",
+          "url": "https://onepace.arl.sh/static/AM_4_eng.srt"
+        }
+      ]
+    }
+  ]
+}

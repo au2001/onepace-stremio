@@ -1,0 +1,15 @@
+{
+  "streams": [
+    {
+      "infoHash": "c5860b5066c7ed8bfe51abde23f76ef3f78a6ec7",
+      "fileIdx": 1,
+      "subtitles": [
+        {
+          "id": "REV_2_eng",
+          "lang": "eng",
+          "url": "https://onepace.arl.sh/static/REV_2_eng.srt"
+        }
+      ]
+    }
+  ]
+}

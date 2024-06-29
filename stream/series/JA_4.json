@@ -1,0 +1,14 @@
+{
+  "streams": [
+    {
+      "infoHash": "0ee092c2048a597a5e14cbc7c41f3d0696d9821a",
+      "subtitles": [
+        {
+          "id": "JA_4_eng",
+          "lang": "eng",
+          "url": "https://onepace.arl.sh/static/JA_4_eng.srt"
+        }
+      ]
+    }
+  ]
+}

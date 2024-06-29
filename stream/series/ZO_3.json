@@ -1,0 +1,15 @@
+{
+  "streams": [
+    {
+      "infoHash": "5c027631a28242814a6cf1fe24f455b70bca14bc",
+      "fileIdx": 2,
+      "subtitles": [
+        {
+          "id": "ZO_3_eng",
+          "lang": "eng",
+          "url": "https://onepace.arl.sh/static/ZO_3_eng.srt"
+        }
+      ]
+    }
+  ]
+}

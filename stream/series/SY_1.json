@@ -1,0 +1,20 @@
+{
+  "streams": [
+    {
+      "infoHash": "6c29dedaa9bef46c73a04ebe2c8c9761b92cb9eb",
+      "fileIdx": 0,
+      "subtitles": [
+        {
+          "id": "SY_1_ger",
+          "lang": "ger",
+          "url": "https://onepace.arl.sh/static/SY_1_ger.srt"
+        },
+        {
+          "id": "SY_1_eng",
+          "lang": "eng",
+          "url": "https://onepace.arl.sh/static/SY_1_eng.srt"
+        }
+      ]
+    }
+  ]
+}

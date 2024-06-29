@@ -1,0 +1,15 @@
+{
+  "streams": [
+    {
+      "infoHash": "fd204b5dc346f5458f7f04cf1ad98679aaf9586e",
+      "fileIdx": 10,
+      "subtitles": [
+        {
+          "id": "FI_11_eng",
+          "lang": "eng",
+          "url": "https://onepace.arl.sh/static/FI_11_eng.srt"
+        }
+      ]
+    }
+  ]
+}
