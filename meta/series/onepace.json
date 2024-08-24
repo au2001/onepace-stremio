@@ -663,45 +663,33 @@
         "season": 14,
         "episode": 18,
         "id": "AL_18",
-        "title": "Unreleased",
-        "thumbnail": "https://onepace.net/images/unreleased-placeholder-16x9.jpg"
+        "title": "I Will Surpass You",
+        "thumbnail": "https://onepace.net/images/episodes/cover-arabasta-18.webp",
+        "released": "2024-07-06T00:00:00.000Z"
       },
       {
         "season": 14,
         "episode": 19,
         "id": "AL_19",
-        "title": "Unreleased",
-        "thumbnail": "https://onepace.net/images/unreleased-placeholder-16x9.jpg"
+        "title": "Some Justice",
+        "thumbnail": "https://onepace.net/images/episodes/cover-arabasta-19.webp",
+        "released": "2024-08-03T00:00:00.000Z"
       },
       {
         "season": 14,
         "episode": 20,
         "id": "AL_20",
-        "title": "Unreleased",
-        "thumbnail": "https://onepace.net/images/unreleased-placeholder-16x9.jpg"
+        "title": "Vivi's Adventure",
+        "thumbnail": "https://onepace.net/images/episodes/cover-arabasta-20.webp",
+        "released": "2024-08-10T00:00:00.000Z"
       },
       {
         "season": 14,
         "episode": 21,
         "id": "AL_21",
-        "title": "Unreleased",
-        "thumbnail": "https://onepace.net/images/unreleased-placeholder-16x9.jpg"
-      },
-      {
-        "season": 14,
-        "episode": 22,
-        "id": "AL_22",
-        "title": "Crocodile",
-        "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/f37c688368d79ad91fce89f59f283da3.jpe",
-        "released": "2002-09-15T00:00:00.000Z"
-      },
-      {
-        "season": 14,
-        "episode": 23,
-        "id": "AL_23",
-        "title": "A Kingdom Restored",
-        "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/c4e3a81d230bf89f3e88dd654978d83c.jpe",
-        "released": "2002-10-27T00:00:00.000Z"
+        "title": "Stowaway",
+        "thumbnail": "https://onepace.net/images/episodes/cover-arabasta-21.webp",
+        "released": "2024-08-16T00:00:00.000Z"
       },
       {
         "season": 15,
@@ -905,8 +893,9 @@
         "season": 16,
         "episode": 15,
         "id": "SK_15",
-        "title": "Unreleased",
-        "thumbnail": "https://onepace.net/images/unreleased-placeholder-16x9.jpg"
+        "title": "Quintet",
+        "thumbnail": "https://onepace.net/images/episodes/cover-skypiea-15.webp",
+        "released": "2024-07-20T00:00:00.000Z"
       },
       {
         "season": 16,
@@ -973,16 +962,8 @@
       },
       {
         "season": 16,
-        "episode": 25,
-        "id": "SK_25",
-        "title": "Divine Comedy - Concerto",
-        "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/7c048f3067abe3f429afe160774bd54f.jpe",
-        "released": "2004-02-15T00:00:00.000Z"
-      },
-      {
-        "season": 16,
         "episode": 26,
-        "id": "SK_26",
+        "id": "SK_25",
         "title": "Vs. Eneru/Enel - Capriccio",
         "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/8ee7af513287c74d498cd5e7c26b472b.jpe",
         "released": "2004-03-21T00:00:00.000Z"
@@ -990,7 +971,7 @@
       {
         "season": 16,
         "episode": 27,
-        "id": "SK_27",
+        "id": "SK_26",
         "title": "Noland - Bolero",
         "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/752df5cd4b5167ddbdc051fd60f31067.jpe",
         "released": "2004-04-04T00:00:00.000Z"
@@ -998,7 +979,7 @@
       {
         "season": 16,
         "episode": 28,
-        "id": "SK_28",
+        "id": "SK_27",
         "title": "Golden Bell Symphony",
         "thumbnail": "https://www.crunchyroll.com/imgsrv/display/thumbnail/320x180/catalog/crunchyroll/d7c66cf4377728a2e25a6aba13d9c3f1.jpe",
         "released": "2004-06-13T00:00:00.000Z"
@@ -4166,6 +4147,30 @@
         "thumbnail": "https://onepace.net/images/episodes/cover-egghead-09.webp",
         "overview": "To avenge her father, Bonney chases Dr. Vegapunk through the lab, but a familiar symbol catches her eye. As she investigates, the satellites call in an unexpected favor to finally deal with CP0's rampage outside the lab.",
         "released": "2024-06-21T00:00:00.000Z"
+      },
+      {
+        "season": 36,
+        "episode": 10,
+        "id": "EH_10",
+        "title": "Miss Buckingham Stussy",
+        "thumbnail": "https://onepace.net/images/episodes/cover-egghead-10.webp",
+        "released": "2024-07-12T00:00:00.000Z"
+      },
+      {
+        "season": 36,
+        "episode": 11,
+        "id": "EH_11",
+        "title": "Labophase Death Game",
+        "thumbnail": "https://onepace.net/images/episodes/cover-egghead-11.webp",
+        "released": "2024-07-27T00:00:00.000Z"
+      },
+      {
+        "season": 36,
+        "episode": 12,
+        "id": "EH_12",
+        "title": "Escape Limit",
+        "thumbnail": "https://onepace.net/images/episodes/cover-egghead-12.webp",
+        "released": "2024-08-23T00:00:00.000Z"
       }
     ]
   }
