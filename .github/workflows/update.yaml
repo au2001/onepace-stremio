@@ -60,6 +60,8 @@ jobs:
           echo "message<<EOF" >> "$GITHUB_OUTPUT"
           npm run --silent scrape | sed 's/$/<br>/g' >> "$GITHUB_OUTPUT"
           echo "EOF" >> "$GITHUB_OUTPUT"
+        env:
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
 
       - name: Cache torrent files
         uses: actions/cache/save@v4

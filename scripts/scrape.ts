@@ -2,17 +2,23 @@ import * as fs from "fs/promises";
 import {
   getArcPrefix,
   getCoveredAnimeEpisodes,
+  log,
   readJSON,
   saveStream,
   saveVideo,
   writeJSON,
 } from "./utils";
 import { getVideo } from "./parse";
-import { Arc, Video } from "./types";
+import { Video } from "./types";
 import KAI from "./kai.json";
+import { fetchArcs } from "./sheets";
 
 (async () => {
-  const arcs: Arc[] = [];
+  log("Fetching episodes...");
+
+  const arcs = await fetchArcs();
+
+  log(`Got ${arcs.length} arcs, fetching videos...`);
 
   let { meta } =
     (await readJSON<{
@@ -23,8 +29,6 @@ import KAI from "./kai.json";
 
   const videos = await Promise.all(
     arcs.flatMap((arc) => {
-      if (arc.part === 99) return [];
-
       return arc.episodes.map(async (episode) => {
         const [newVideo, newStream] = await getVideo(arc, episode);
 
@@ -37,7 +41,7 @@ import KAI from "./kai.json";
         saveVideo(arc, newVideo, video);
 
         if (await saveStream(arc, newVideo, newStream)) {
-          getCoveredAnimeEpisodes(episode.anime_episodes).forEach((episode) =>
+          getCoveredAnimeEpisodes(episode.animeEpisodes).forEach((episode) =>
             coveredAnimeEpisodes.add(episode),
           );
         }
@@ -46,6 +50,8 @@ import KAI from "./kai.json";
       });
     }),
   );
+
+  log(`Got ${videos.length} videos, filling KAIs...`);
 
   let maxEpisodeNumbers: Record<number, number> = {};
 
@@ -64,21 +70,21 @@ import KAI from "./kai.json";
             return [];
           }
 
-          const arc = arcs.find((arc) => arc.invariant_title === episode.arc);
+          const arc = arcs.find((arc) => arc.title === episode.arc);
           if (arc === undefined)
             throw new Error(`Unknown KAI arc: ${episode.arc}`);
 
-          maxEpisodeNumbers[arc.part] ??= Math.max(
+          maxEpisodeNumbers[arc.number] ??= Math.max(
             ...videos
-              .filter((video) => video.season === arc.part)
+              .filter((video) => video.season === arc.number)
               .map((video) => video.episode),
             0,
           );
 
-          const episodeNumber = ++maxEpisodeNumbers[arc.part];
+          const episodeNumber = ++maxEpisodeNumbers[arc.number];
 
           const newVideo: Video = {
-            season: arc.part,
+            season: arc.number,
             episode: episodeNumber,
             id: `${getArcPrefix(arc)}_${episodeNumber}`,
             title: episode.title,
@@ -105,13 +111,15 @@ import KAI from "./kai.json";
     ).flat(),
   );
 
+  log(`Got ${videos.length} videos with KAIs, saving metadata...`);
+
   videos.sort((a, b) =>
     a.season !== b.season ? a.season - b.season : a.episode - b.episode,
   );
 
   await Promise.all(
     meta?.videos.map(async (video) => {
-      console.error(`${video.title} removed`);
+      log(`${video.title} removed`);
 
       try {
         await fs.unlink(`stream/series/${video.id}.json`);
@@ -124,4 +132,6 @@ import KAI from "./kai.json";
   await writeJSON("meta/series/onepace.json", {
     meta: { ...meta, videos },
   });
+
+  log("Done.");
 })();

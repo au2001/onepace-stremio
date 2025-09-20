@@ -4,16 +4,18 @@ import ffmpeg from "fluent-ffmpeg";
 import { Arc, Subtitle, Video } from "./types";
 
 const LANG_CODES = {
+  Alternate: "eng",
   Arabic: "ara",
   Deutsch: "ger",
-  German: "ger",
   English: "eng",
+  Extended: "eng",
   French: "fre",
   Italian: "ita",
   Japanese: "jpn",
+  Polish: "pol",
   Portugues: "por",
-  Portuguese: "por",
   Spanish: "spa",
+  Turkish: "tur",
 };
 
 const LOCAL_DIR = path.join(__dirname, "./subtitles/main/Release/Final Subs");
@@ -42,7 +44,7 @@ const removeComments = async (file: string) => {
 };
 
 export const getSubtitles = async (arc: Arc, video: Video) => {
-  const filter = ` ${arc.invariant_title} ${video.episode.toString().padStart(2, "0")} `;
+  const filter = ` ${arc.title} ${video.episode.toString().padStart(2, "0")} `;
   const langs = new Set<string>();
 
   let subtitles: Subtitle[] = [];
@@ -50,7 +52,8 @@ export const getSubtitles = async (arc: Arc, video: Video) => {
   for (const input of await listFiles()) {
     if (!input.endsWith(".ass") || !input.includes(filter)) continue;
 
-    const langName = input.match(/] ([^\[\]]+)\.ass$/)?.[1] ?? "English";
+    const langName =
+      input.match(/] ([^\[\]]+?)(?: Extended)?\.ass$/)?.[1] ?? "English";
     if (!(langName in LANG_CODES))
       throw new Error(`Unknown subtitle language ${langName} for ${video.id}`);
 

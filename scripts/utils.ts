@@ -3,6 +3,13 @@ import * as prettier from "prettier";
 import { Arc, Stream, Video } from "./types";
 import ARC_PREFIXES from "./arcs.json";
 
+const START_TIME = Date.now();
+export const log = (text: string) => {
+  const elapsed = (Date.now() - START_TIME) / 1000;
+  const prefix = elapsed.toFixed(3).padStart(7, " ");
+  console.error(`[${prefix}] ${text}`);
+};
+
 export const readJSON = async <T>(path: string) => {
   try {
     const data = (await fs.readFile(path)).toString();
@@ -21,17 +28,19 @@ export const writeJSON = async (path: string, data: any) =>
   );
 
 export const getArcPrefix = (arc: Arc) => {
-  if (!(arc.invariant_title in ARC_PREFIXES))
-    throw new Error(`New arc ${arc.invariant_title} doesn't have a prefix`);
+  if (!(arc.title in ARC_PREFIXES))
+    throw new Error(`New arc ${arc.title} doesn't have a prefix`);
 
-  return ARC_PREFIXES[arc.invariant_title as keyof typeof ARC_PREFIXES];
+  return ARC_PREFIXES[arc.title as keyof typeof ARC_PREFIXES];
 };
 
 export const getCoveredAnimeEpisodes = (string?: string) => {
   const animeEpisodes = new Set<number>();
 
-  for (const range of string?.split(", ") ?? []) {
-    if (/^[1-9]\d*( \(Intro\))?$/.test(range)) {
+  for (const range of string
+    ?.replace(/Ep\.\s*| \(Intro\)|\n/g, "")
+    .split(/, ?/g) ?? []) {
+    if (/^[1-9]\d*$/.test(range)) {
       animeEpisodes.add(parseInt(range));
     } else if (/^[1-9]\d*-[1-9]\d*$/.test(range)) {
       const [min, max] = range.split("-").map((boundary) => parseInt(boundary));
@@ -71,25 +80,25 @@ export const saveVideo = (arc: Arc, newVideo: Video, video?: Video) => {
       );
     }
     if (video.title !== newVideo.title) {
-      console.error(
+      log(
         `${video.id}'s title changed from ${video.title} to ${newVideo.title}`,
       );
       updated = true;
     }
     if (video.thumbnail !== newVideo.thumbnail) {
-      console.error(
+      log(
         `${video.id}'s thumbnail changed from ${video.thumbnail} to ${newVideo.thumbnail}`,
       );
       updated = true;
     }
     if (video.overview !== newVideo.overview) {
-      console.error(
+      log(
         `${video.id}'s overview changed from ${video.overview} to ${newVideo.overview}`,
       );
       updated = true;
     }
     if (video.released !== newVideo.released) {
-      console.error(
+      log(
         `${video.id}'s released changed from ${video.released} to ${newVideo.released}`,
       );
       updated = true;
@@ -101,11 +110,11 @@ export const saveVideo = (arc: Arc, newVideo: Video, video?: Video) => {
       video.released !== undefined
     ) {
       console.log(
-        `Update: ${arc.invariant_title} episode ${video.episode} "${video.title}" metadata changed.`,
+        `Update: ${arc.title} episode ${video.episode} "${video.title}" metadata changed.`,
       );
     }
   } else {
-    console.error(`${newVideo.id} added`);
+    log(`${newVideo.id} added`);
   }
 };
 
@@ -125,12 +134,12 @@ export const saveStream = async (
       let updated = false;
 
       if (stream.infoHash !== newStream.infoHash) {
-        console.error(
+        log(
           `${video.id}'s stream infoHash changed from ${streamId} to ${newStreamId}`,
         );
         updated = true;
       } else if (stream.fileIdx !== newStream.fileIdx) {
-        console.error(
+        log(
           `${video.id}'s stream fileIdx changed from ${stream.fileIdx} to ${newStream.fileIdx}`,
         );
         updated = true;
@@ -157,29 +166,25 @@ export const saveStream = async (
           }),
         );
 
-        console.error(
-          `${video.id} subtitles removed in ${removedSubtitles.join(", ")}`,
-        );
+        log(`${video.id} subtitles removed in ${removedSubtitles.join(", ")}`);
       }
 
       const addedSubtitles = [...newSubtitles].filter(
         (lang) => !subtitles.has(lang),
       );
       if (addedSubtitles.length !== 0) {
-        console.error(
-          `${video.id} subtitles added in ${addedSubtitles.join(", ")}`,
-        );
+        log(`${video.id} subtitles added in ${addedSubtitles.join(", ")}`);
       }
 
       if (updated) {
         console.log(
-          `Update: ${arc.invariant_title} episode ${video.episode} "${video.title}" re-released.`,
+          `Update: ${arc.title} episode ${video.episode} "${video.title}" re-released.`,
         );
       }
     } else {
-      console.error(`${video.id}'s stream created at ${newStreamId}`);
+      log(`${video.id}'s stream created at ${newStreamId}`);
       console.log(
-        `NEW RELEASE! ${arc.invariant_title} episode ${video.episode} "${video.title}" available.`,
+        `NEW RELEASE! ${arc.title} episode ${video.episode} "${video.title}" available.`,
       );
     }
 
@@ -189,7 +194,7 @@ export const saveStream = async (
 
     return true;
   } else if (stream !== undefined) {
-    console.error(`${video.id}'s stream removed from ${streamId}`);
+    log(`${video.id}'s stream removed from ${streamId}`);
 
     try {
       await fs.unlink(`stream/series/${video.id}.json`);

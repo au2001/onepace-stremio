@@ -23,7 +23,9 @@
   "devDependencies": {
     "@types/fluent-ffmpeg": "^2.1.24",
     "@types/parse-torrent": "^5.8.7",
+    "dotenv": "^17.2.2",
     "fluent-ffmpeg": "^2.1.2",
+    "googleapis": "^160.0.0",
     "limiter": "^2.1.0",
     "parse-torrent": "^9.1.5",
     "prettier": "^3.2.4",
