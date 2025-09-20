@@ -40,9 +40,6 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Generate GraphQL types
-        run: npm run generate
-
       - name: Get current date
         id: date
         run: |

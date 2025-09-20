@@ -2,9 +2,8 @@ import fs from "fs/promises";
 import path from "path";
 import parseTorrent from "parse-torrent";
 import { RateLimiter } from "limiter";
-import { Stream, Video } from "./types";
+import { Arc, DownloadType, Episode, Stream, Video } from "./types";
 import { getArcPrefix } from "./utils";
-import { Arc, DownloadType, Episode } from "./generated/graphql";
 import { getSubtitles } from "./subtitles";
 
 const limiter = new RateLimiter({ tokensPerInterval: 3, interval: 1000 });

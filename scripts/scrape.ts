@@ -1,5 +1,4 @@
 import * as fs from "fs/promises";
-import { GraphQLClient } from "graphql-request";
 import {
   getArcPrefix,
   getCoveredAnimeEpisodes,
@@ -9,14 +8,11 @@ import {
   writeJSON,
 } from "./utils";
 import { getVideo } from "./parse";
-import { Video } from "./types";
-import { getSdk } from "./generated/graphql";
+import { Arc, Video } from "./types";
 import KAI from "./kai.json";
 
 (async () => {
-  const client = new GraphQLClient("https://onepace.net/api/graphql");
-  const sdk = getSdk(client);
-  const { arcs } = await sdk.getArcs();
+  const arcs: Arc[] = [];
 
   let { meta } =
     (await readJSON<{

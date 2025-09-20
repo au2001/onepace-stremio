@@ -1,7 +1,6 @@
 import * as fs from "fs/promises";
 import * as prettier from "prettier";
-import { Stream, Video } from "./types";
-import { Arc } from "./generated/graphql";
+import { Arc, Stream, Video } from "./types";
 import ARC_PREFIXES from "./arcs.json";
 
 export const readJSON = async <T>(path: string) => {

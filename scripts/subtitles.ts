@@ -1,8 +1,7 @@
 import fs from "fs/promises";
 import path from "path";
 import ffmpeg from "fluent-ffmpeg";
-import { Subtitle, Video } from "./types";
-import { Arc } from "./generated/graphql";
+import { Arc, Subtitle, Video } from "./types";
 
 const LANG_CODES = {
   Arabic: "ara",

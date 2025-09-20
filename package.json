@@ -18,16 +18,12 @@
   },
   "scripts": {
     "format": "prettier --write .",
-    "scrape": "ts-node scripts/scrape.ts",
-    "generate": "graphql-codegen"
+    "scrape": "ts-node scripts/scrape.ts"
   },
   "devDependencies": {
-    "@graphql-codegen/cli": "^5.0.2",
-    "@graphql-codegen/typescript-graphql-request": "^6.2.0",
     "@types/fluent-ffmpeg": "^2.1.24",
     "@types/parse-torrent": "^5.8.7",
     "fluent-ffmpeg": "^2.1.2",
-    "graphql-request": "^6.1.0",
     "limiter": "^2.1.0",
     "parse-torrent": "^9.1.5",
     "prettier": "^3.2.4",
