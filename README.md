@@ -61,7 +61,9 @@ I, [au2001](https://github.com/au2001), then started improving on this third add
 
 In January 2024, I automated the update process for adding new One Pace episodes, removing the need for manual intervention.\
 In March 2024, I then created the Matrix channel to receive notifications when new episodes are released.\
-In April 2024, One Pace changed their website very slightly which temporarly broke the automated updates. I switched to a more robust method using the official GraphQL API which I discovered through [vasujain275](https://github.com/vasujain275)'s addon.
+In April 2024, One Pace changed their website very slightly which temporarly broke the automated updates. I switched to a more robust method using the official GraphQL API which I discovered through [vasujain275](https://github.com/vasujain275)'s addon.\
+In July 2024, One Pace's website got taken down with its GraphQL API, breaking automated updates for over a year.\
+In September 2025, I finally restored automated updates by using the official Google Sheets documents, waiting for a new GraphQL API.
 
 Thank you to everyone involved, especially [One Pace volunteers](https://onepace.net/about) for their incredible, ongoing effort.
 
