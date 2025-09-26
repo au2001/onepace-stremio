@@ -2,17 +2,19 @@ import fs from "fs/promises";
 import path from "path";
 import { Arc, Download, Episode } from "./types";
 import { google } from "googleapis";
-import "dotenv/config";
 import { RateLimiter } from "limiter";
+import "dotenv/config";
 
 const EPISODES = "1HQRMJgu_zArp-sLnvFMDzOyjdsht87eFLECxMK858lA";
 const DESCRIPTIONS = "1M0Aa2p5x7NioaH9-u8FyHq6rH3t5s6Sccs8GoC6pHAM";
 
+const { spreadsheets } = google.sheets({
+  version: "v4",
+  auth: process.env.GOOGLE_API_KEY,
+});
+
 export async function fetchArcs() {
-  const { spreadsheets } = google.sheets({
-    version: "v4",
-    auth: process.env.GOOGLE_API_KEY,
-  });
+  const metadata = fetchMetadata();
 
   const {
     data: { sheets: [{ data: [{ rowData: overview }] = [] }] = [] },
@@ -41,31 +43,28 @@ export async function fetchArcs() {
     await Promise.all<Arc | []>(
       sheets?.map(
         async (
-          { properties: { title } = {}, data: [{ rowData }] = [] },
+          { properties: { title: arc } = {}, data: [{ rowData }] = [] },
           i,
         ) => ({
           number: i + 1,
-          title: title ?? "",
+          title: arc ?? "",
           episodes: (
             await Promise.all<Episode | []>(
               rowData?.flatMap(
                 async (
                   {
-                    values: [
-                      title,
-                      ,
-                      animeEpisodes,
-                      releaseDate,
-                      ,
-                      torrent,
-                    ] = [undefined],
+                    values: [title, , animeEpisodes, releaseDate, , torrent] = [
+                      undefined,
+                    ],
                   },
                   i,
                 ) => {
                   if (torrent?.formattedValue === undefined) return [];
                   if (title?.formattedValue?.match(/ \(G8\)$/)) return [];
 
-                  const download = await fetchNyaaDownload(torrent.hyperlink ?? "");
+                  const download = await fetchNyaaDownload(
+                    torrent.hyperlink ?? "",
+                  );
 
                   // TODO: Fetch description & image
                   return {
@@ -73,7 +72,11 @@ export async function fetchArcs() {
                     title: title?.formattedValue ?? "",
                     releaseDate: new Date(releaseDate?.formattedValue ?? ""),
                     animeEpisodes: animeEpisodes?.formattedValue ?? "",
-                    download: { ...download, crc32: torrent.formattedValue ?? "" },
+                    download: {
+                      ...download,
+                      crc32: torrent.formattedValue ?? "",
+                    },
+                    ...(await metadata)[arc ?? ""]?.[i + 1],
                   };
                 },
               ) ?? [],
@@ -85,12 +88,48 @@ export async function fetchArcs() {
   ).flat();
 }
 
+async function fetchMetadata() {
+  const {
+    data: { sheets: [{ data: [{ rowData: metadata }] = [] }] = [] },
+  } = await spreadsheets.get({
+    spreadsheetId: DESCRIPTIONS,
+    ranges: ["A2:D"],
+    includeGridData: true,
+  });
+
+  return (
+    metadata?.reduce<
+      Record<string, Record<number, { title?: string; description?: string }>>
+    >((acc, { values = [] }) => {
+      const arc = values[0]?.formattedValue ?? "";
+      if (arc === "") return acc;
+
+      const episode = parseInt(values[1]?.formattedValue ?? "");
+      const title = values[2]?.formattedValue ?? undefined;
+      const description = values[3]?.formattedValue ?? undefined;
+
+      return {
+        ...acc,
+        [arc]: {
+          ...acc[arc],
+          [episode]: {
+            title: title,
+            description: description,
+          },
+        },
+      };
+    }, {}) ?? {}
+  );
+}
+
 const limiter = new RateLimiter({ tokensPerInterval: 1, interval: 1000 });
 
 let NYAA_CACHE: Record<string, string | Promise<string>> | undefined;
 const NYAA_CACHE_FILE = path.join(__dirname, "../cache/nyaa.json");
 
-async function fetchNyaaDownload(url: string): Promise<Omit<Download, "crc32">> {
+async function fetchNyaaDownload(
+  url: string,
+): Promise<Omit<Download, "crc32">> {
   if (NYAA_CACHE === undefined) {
     try {
       const raw = await fs.readFile(NYAA_CACHE_FILE, "utf-8");
@@ -111,16 +150,18 @@ async function fetchNyaaDownload(url: string): Promise<Omit<Download, "crc32">> 
       infoHash,
       uri: `https://nyaa.si/download/${id}.torrent`,
     };
-  };
+  }
 
-  let [, infoHash] = url.match(/^https:\/\/nyaa.si\/\?q=([0-9a-f]+)$/) ?? [undefined];
+  let [, infoHash] = url.match(/^https:\/\/nyaa.si\/\?q=([0-9a-f]+)$/) ?? [
+    undefined,
+  ];
   if (infoHash !== undefined && infoHash in NYAA_CACHE) {
     const id = await NYAA_CACHE[infoHash];
     return {
       infoHash,
       uri: `https://nyaa.si/download/${id}.torrent`,
     };
-  };
+  }
 
   if (id === undefined && infoHash === undefined) {
     throw new Error(`Unsupported nyaa.si URL format: ${url}`);
@@ -132,10 +173,14 @@ async function fetchNyaaDownload(url: string): Promise<Omit<Download, "crc32">> 
     const text = await res.text();
     if (!res.ok) throw new Error(text);
 
-    const [, id] = res.url.match(/^https:\/\/nyaa.si\/view\/(\d+)$/) ?? [undefined];
+    const [, id] = res.url.match(/^https:\/\/nyaa.si\/view\/(\d+)$/) ?? [
+      undefined,
+    ];
     if (id === undefined) throw new Error(text);
 
-    const [, infoHash] = text.match(/<kbd>([0-9a-f]{40})<\/kbd>/) ?? [undefined];
+    const [, infoHash] = text.match(/<kbd>([0-9a-f]{40})<\/kbd>/) ?? [
+      undefined,
+    ];
     if (infoHash === undefined) throw new Error(text);
 
     return [id, infoHash] as const;
@@ -144,7 +189,7 @@ async function fetchNyaaDownload(url: string): Promise<Omit<Download, "crc32">> 
   if (id !== undefined) {
     NYAA_CACHE[id] = promise.then(([, infoHash]) => infoHash);
   } else if (infoHash !== undefined) {
-    NYAA_CACHE[infoHash] = promise.then(([id, ]) => id);
+    NYAA_CACHE[infoHash] = promise.then(([id]) => id);
   }
 
   [id, infoHash] = await promise;
