@@ -5,6 +5,16 @@
       "fileIdx": 4,
       "subtitles": [
         {
+          "id": "WA_5_ara",
+          "lang": "ara",
+          "url": "https://onepace.arl.sh/static/WA_5_ara.srt"
+        },
+        {
+          "id": "WA_5_ger",
+          "lang": "ger",
+          "url": "https://onepace.arl.sh/static/WA_5_ger.srt"
+        },
+        {
           "id": "WA_5_eng",
           "lang": "eng",
           "url": "https://onepace.arl.sh/static/WA_5_eng.srt"

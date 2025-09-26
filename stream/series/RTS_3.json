@@ -8,6 +8,11 @@
           "id": "RTS_3_eng",
           "lang": "eng",
           "url": "https://onepace.arl.sh/static/RTS_3_eng.srt"
+        },
+        {
+          "id": "RTS_3_ara",
+          "lang": "ara",
+          "url": "https://onepace.arl.sh/static/RTS_3_ara.srt"
         }
       ]
     }

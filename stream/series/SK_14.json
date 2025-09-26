@@ -1,8 +1,19 @@
 {
   "streams": [
     {
-      "infoHash": "c2f0ec9d6d3bda11a5b28f80b522d581ae0feb0f",
-      "subtitles": []
+      "infoHash": "99068f6eabe3588fcd58da600fdfcfbd41ec5b9b",
+      "subtitles": [
+        {
+          "id": "SK_14_ger",
+          "lang": "ger",
+          "url": "https://onepace.arl.sh/static/SK_14_ger.srt"
+        },
+        {
+          "id": "SK_14_eng",
+          "lang": "eng",
+          "url": "https://onepace.arl.sh/static/SK_14_eng.srt"
+        }
+      ]
     }
   ]
 }

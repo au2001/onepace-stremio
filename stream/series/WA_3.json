@@ -1,9 +1,18 @@
 {
   "streams": [
     {
-      "infoHash": "d67ed82392c28cb6c40509383ba70bfb4e6aefdf",
-      "fileIdx": 2,
+      "infoHash": "7d694013793318e42338ea04e42d233e90bb5cac",
       "subtitles": [
+        {
+          "id": "WA_3_ara",
+          "lang": "ara",
+          "url": "https://onepace.arl.sh/static/WA_3_ara.srt"
+        },
+        {
+          "id": "WA_3_ger",
+          "lang": "ger",
+          "url": "https://onepace.arl.sh/static/WA_3_ger.srt"
+        },
         {
           "id": "WA_3_eng",
           "lang": "eng",

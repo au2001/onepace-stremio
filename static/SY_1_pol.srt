@@ -1,0 +1,2281 @@
+1
+00:00:00,000 --> 00:00:09,990
+<font face="Rosario SemiBold" size="90">Twój odtwarzacz nie obsługuje formatu napisów użytego w tym odcinku.
+Napisy prawdopodobnie nie będą działać prawidłowo.
+Użyj jednego z zalecanych odtwarzaczy, najlepiej mpv:
+https://mpv.io</font>
+
+2
+00:00:01,770 --> 00:00:04,280
+<font face="Caslon" size="55"><b><font color="#000000">Edycja wideo</font></b></font>
+
+3
+00:00:01,770 --> 00:00:04,280
+<font face="Caslon" size="55"><b>Edycja wideo</b></font>
+
+4
+00:00:01,770 --> 00:00:04,280
+<font face="Caslon" size="55"><b><font color="#000000">Feeso
+Galaxy 9000</font></b></font>
+
+5
+00:00:01,770 --> 00:00:04,280
+<font face="Caslon" size="55"><b>Feeso
+Galaxy 9000</b></font>
+
+6
+00:00:04,280 --> 00:00:06,780
+<font face="Caslon" size="55"><b><font color="#000000">Ścieżka dźwiękowa</font></b></font>
+
+7
+00:00:04,280 --> 00:00:06,780
+<font face="Caslon" size="55"><b>Ścieżka dźwiękowa</b></font>
+
+8
+00:00:04,280 --> 00:00:06,780
+<font face="Caslon" size="55"><b><font color="#000000">Halee</font></b></font>
+
+9
+00:00:04,280 --> 00:00:06,780
+<font face="Caslon" size="55"><b>Halee</b></font>
+
+10
+00:00:04,280 --> 00:00:06,780
+<font face="Caslon" size="55"><b><font color="#000000">Grafika</font></b></font>
+
+11
+00:00:04,280 --> 00:00:06,780
+<font face="Caslon" size="55"><b>Grafika</b></font>
+
+12
+00:00:04,280 --> 00:00:06,780
+<font face="Caslon" size="55"><b><font color="#000000">Datenshi</font></b></font>
+
+13
+00:00:04,280 --> 00:00:06,780
+<font face="Caslon" size="55"><b>Datenshi</b></font>
+
+14
+00:00:06,780 --> 00:00:10,780
+<font face="Caslon" size="55"><b><font color="#000000">Kontrola jakości</font></b></font>
+
+15
+00:00:06,780 --> 00:00:10,780
+<font face="Caslon" size="55"><b>Kontrola jakości</b></font>
+
+16
+00:00:06,780 --> 00:00:10,780
+<font face="Caslon" size="55"><b><font color="#000000">Gab
+Gol D. Rocks
+Grug
+Mr. Luffy
+Pepperjack
+Scolines
+Villager
+Westfal
+Zenef</font></b></font>
+
+17
+00:00:06,780 --> 00:00:10,780
+<font face="Caslon" size="55"><b>Gab
+Gol D. Rocks
+Grug
+Mr. Luffy
+Pepperjack
+Scolines
+Villager
+Westfal
+Zenef</b></font>
+
+18
+00:00:10,780 --> 00:00:13,280
+<font face="Caslon" size="55"><b><font color="#000000">Karaoke</font></b></font>
+
+19
+00:00:10,780 --> 00:00:13,280
+<font face="Caslon" size="55"><b>Karaoke</b></font>
+
+20
+00:00:10,780 --> 00:00:13,280
+<font face="Caslon" size="55"><b><font color="#000000">KaitouYahiko</font></b></font>
+
+21
+00:00:10,780 --> 00:00:13,280
+<font face="Caslon" size="55"><b>KaitouYahiko</b></font>
+
+22
+00:00:10,780 --> 00:00:13,280
+<font face="Caslon" size="55"><b><font color="#000000">Synchronizacja</font></b></font>
+
+23
+00:00:10,780 --> 00:00:13,280
+<font face="Caslon" size="55"><b>Synchronizacja</b></font>
+
+24
+00:00:10,780 --> 00:00:13,280
+<font face="Caslon" size="55"><b><font color="#000000">Gab
+Lance</font></b></font>
+
+25
+00:00:10,780 --> 00:00:13,280
+<font face="Caslon" size="55"><b>Gab
+Lance</b></font>
+
+26
+00:00:13,280 --> 00:00:16,790
+<font face="Caslon" size="55"><b><font color="#000000">Edycja napisów</font></b></font>
+
+27
+00:00:13,280 --> 00:00:16,790
+<font face="Caslon" size="55"><b>Edycja napisów</b></font>
+
+28
+00:00:13,280 --> 00:00:16,790
+<font face="Caslon" size="55"><b><font color="#000000">Burn Wolfdog
+szeflimak</font></b></font>
+
+29
+00:00:13,280 --> 00:00:16,790
+<font face="Caslon" size="55"><b>Burn Wolfdog
+szeflimak</b></font>
+
+30
+00:00:16,790 --> 00:00:19,250
+<font face="Caslon" size="55"><b><font color="#000000">Źródła</font></b></font>
+
+31
+00:00:16,790 --> 00:00:19,250
+<font face="Caslon" size="55"><b>Źródła</b></font>
+
+32
+00:00:16,790 --> 00:00:19,250
+<font face="Caslon" size="55"><b><font color="#000000">Neo-Raws</font></b></font>
+
+33
+00:00:16,790 --> 00:00:19,250
+<font face="Caslon" size="55"><b>Neo-Raws</b></font>
+
+34
+00:00:16,790 --> 00:00:19,250
+<font face="Caslon" size="55"><b><font color="#000000">Tłumaczenie</font></b></font>
+
+35
+00:00:16,790 --> 00:00:19,250
+<font face="Caslon" size="55"><b>Tłumaczenie</b></font>
+
+36
+00:00:16,790 --> 00:00:19,250
+<font face="Caslon" size="55"><b><font color="#000000">PanWujuniu
+szeflimak</font></b></font>
+
+37
+00:00:16,790 --> 00:00:19,250
+<font face="Caslon" size="55"><b>PanWujuniu
+szeflimak</b></font>
+
+38
+00:01:49,960 --> 00:01:59,950
+<font face="Rosario SemiBold" size="90">Twój odtwarzacz nie obsługuje formatu napisów użytego w tym odcinku.
+Napisy prawdopodobnie nie będą działać prawidłowo.
+Użyj jednego z zalecanych odtwarzaczy, najlepiej mpv:
+https://mpv.io</font>
+
+39
+00:01:50,010 --> 00:01:54,930
+<font face="Patagonia PL" size="95" color="#fefefe"><b><font color="#1e1e1e">Kapitan Usopp</font></b></font>
+
+40
+00:01:50,010 --> 00:01:54,930
+<font face="Patagonia PL" size="95" color="#fefefe"><b><font color="#e6e6e7">Kapitan Usopp</font></b></font>
+
+41
+00:01:56,930 --> 00:02:00,640
+<font face="Rosario SemiBold" size="82">Płynięcie prosto na Grand Line
+byłoby nierozważne!</font>
+
+42
+00:02:04,020 --> 00:02:06,770
+<font face="Rosario SemiBold" size="82">Racja, najpierw trzeba
+zgarnąć trochę mięcha.</font>
+
+43
+00:02:07,730 --> 00:02:10,440
+<font face="Rosario SemiBold" size="82">Życie tylko i wyłącznie na
+owocach nie jest dobre...</font>
+
+44
+00:02:10,440 --> 00:02:11,940
+<font face="Rosario SemiBold" size="82">Gorzała też się przyda!</font>
+
+45
+00:02:12,700 --> 00:02:14,530
+<font face="Rosario SemiBold" size="82">O czym ty mówisz?!</font>
+
+46
+00:02:16,530 --> 00:02:17,660
+<font face="Rosario SemiBold" size="82">Zapomnij!</font>
+
+47
+00:02:17,660 --> 00:02:21,620
+<font face="Rosario SemiBold" size="82">Grand Line to najniebezpieczniejsze
+morze na całym świecie!</font>
+
+48
+00:02:21,620 --> 00:02:25,920
+<font face="Rosario SemiBold" size="82">Roi się tam od silnych piratów,
+którzy również chcą zdobyć One Piece!</font>
+
+49
+00:02:25,920 --> 00:02:28,170
+<font face="Rosario SemiBold" size="82">I mogę się założyć, że mają potężne statki!</font>
+
+50
+00:02:28,170 --> 00:02:29,590
+<font face="Rosario SemiBold" size="82">Potrzeba nam też więcej kamratów.</font>
+
+51
+00:02:29,960 --> 00:02:33,930
+<font face="Rosario SemiBold" size="82">Nie dość, że brakuje nam załogi,
+to brakuje nam wyposażenia...</font>
+
+52
+00:02:33,930 --> 00:02:36,300
+<font face="Rosario SemiBold" size="82">Nie ma mowy, że w ten sposób przeżyjemy!</font>
+
+53
+00:02:36,840 --> 00:02:38,680
+<font face="Rosario SemiBold" size="82">No tak, potrzebny nam kucharz.</font>
+
+54
+00:02:38,680 --> 00:02:39,890
+<font face="Rosario SemiBold" size="82">No i grajek.</font>
+
+55
+00:02:40,260 --> 00:02:41,270
+<font face="Rosario SemiBold" size="82">Grajek?!</font>
+
+56
+00:02:42,890 --> 00:02:44,730
+<font face="Rosario SemiBold" size="82">Co za idiota...</font>
+
+57
+00:02:46,230 --> 00:02:50,230
+<font face="Rosario SemiBold" size="82">Na południe stąd leży zamieszkała wyspa.</font>
+
+58
+00:02:50,230 --> 00:02:54,780
+<font face="Rosario SemiBold" size="82">Dobrze by było, jakby udało nam się
+tam załatwić jakiś porządny statek.</font>
+
+59
+00:02:55,150 --> 00:02:57,240
+<font face="Rosario SemiBold" size="82">Okej! Czas zdobyć trochę mięska!</font>
+
+60
+00:03:01,540 --> 00:03:05,670
+<font face="Rosario SemiBold" size="82">Ludziska! Jesteśmy zgubieni!</font>
+
+61
+00:03:05,670 --> 00:03:08,250
+<font face="Rosario SemiBold" size="82">Piraci atakują!</font>
+
+62
+00:03:08,250 --> 00:03:10,710
+<font face="Rosario SemiBold" size="82">Piraci! Piraci!</font>
+
+63
+00:03:10,710 --> 00:03:13,670
+<font face="Rosario SemiBold" size="82">Piraci atakują!</font>
+
+64
+00:03:13,670 --> 00:03:16,340
+<font face="Rosario SemiBold" size="82">Ratuj się kto może!</font>
+
+65
+00:03:16,340 --> 00:03:18,720
+<font face="Rosario SemiBold" size="82">Piraci!</font>
+
+66
+00:03:18,720 --> 00:03:22,180
+<font face="Rosario SemiBold" size="82">Ratuj się kto może!</font>
+
+67
+00:03:22,180 --> 00:03:24,060
+<font face="Rosario SemiBold" size="82">Jesteśmy zgubieni!</font>
+
+68
+00:03:26,980 --> 00:03:28,600
+<font face="Rosario SemiBold" size="82">Piraci...!</font>
+
+69
+00:03:30,900 --> 00:03:33,110
+<font face="Rosario SemiBold" size="82">Piraci to...</font>
+
+70
+00:03:33,610 --> 00:03:37,360
+<font face="Caslon" size="99"><b><font color="#000000">Usopp
+Młodzieniec z wioski</font></b></font>
+
+71
+00:03:33,610 --> 00:03:37,360
+<font face="Caslon" size="99"><b><font color="#faf9f9">Usopp
+Młodzieniec z wioski</font></b></font>
+
+72
+00:03:33,610 --> 00:03:37,360
+<font face="Caslon" size="99"><b><font color="#faf9f9">Usopp
+Młodzieniec z wioski</font></b></font>
+
+73
+00:03:33,820 --> 00:03:35,110
+<font face="Rosario SemiBold" size="82">tylko kłamstwo!</font>
+
+74
+00:03:37,700 --> 00:03:40,450
+<font face="Rosario SemiBold" size="82">Aua...</font>
+
+75
+00:03:41,080 --> 00:03:42,490
+<font face="Rosario SemiBold" size="82">Ty kłamliwy smarkaczu!</font>
+
+76
+00:03:42,490 --> 00:03:44,370
+<font face="Rosario SemiBold" size="82">Tym razem naprawdę się doigrasz!</font>
+
+77
+00:03:47,810 --> 00:03:51,210
+<font face="Rosario SemiBold" size="82">Nadchodzą! Nadchodzą!
+Nadchodzą! Nadchodzą!</font>
+
+78
+00:03:51,210 --> 00:03:53,300
+<font face="Rosario SemiBold" size="82">Wracaj tu, gnojku!</font>
+
+79
+00:03:55,050 --> 00:03:57,260
+<font face="Rosario SemiBold" size="82">Złapcie mnie, jeśli potraficie!</font>
+
+80
+00:03:58,430 --> 00:04:00,510
+<font face="Rosario SemiBold" size="82">Spróbujcie mnie złapać!</font>
+
+81
+00:04:05,430 --> 00:04:08,270
+<font face="Rosario SemiBold" size="82">Cholera! Znowu uciekł!</font>
+
+82
+00:04:09,020 --> 00:04:11,520
+<font face="Rosario SemiBold" size="82">Gnojek tylko by sprawiał kłopoty!</font>
+
+83
+00:04:11,520 --> 00:04:13,650
+<font face="Rosario SemiBold" size="82">Kłopoty to on będzie miał, jak go znajdziemy!</font>
+
+84
+00:04:14,030 --> 00:04:16,400
+<font face="Rosario SemiBold" size="82">Gdzie on się podział?!</font>
+
+85
+00:04:26,200 --> 00:04:28,080
+<font face="Rosario SemiBold" size="82">Kolejna świetnie wykonana robota!</font>
+
+86
+00:04:28,080 --> 00:04:32,210
+<font face="Rosario SemiBold" size="82">Tchnąłem trochę życia w tę nudną wioskę!</font>
+
+87
+00:04:32,960 --> 00:04:34,090
+<font face="Rosario SemiBold" size="82">Ha! Tam jest!</font>
+
+88
+00:04:35,800 --> 00:04:37,220
+<font face="Rosario SemiBold" size="82">O, to wy chłopaki!</font>
+
+89
+00:04:37,760 --> 00:04:40,050
+<font face="Rosario SemiBold" size="82">Dzień dobry, Kapitanie Usopp!</font>
+
+90
+00:04:40,090 --> 00:04:43,430
+<font face="Caslon" size="99"><b><font color="#000000">Marchewa i Papryka
+Chłopcy z wioski</font></b></font>
+
+91
+00:04:40,090 --> 00:04:43,430
+<font face="Caslon" size="99"><b><font color="#faf9f9">Marchewa i Papryka
+Chłopcy z wioski</font></b></font>
+
+92
+00:04:40,090 --> 00:04:43,430
+<font face="Caslon" size="99"><b><font color="#faf9f9">Marchewa i Papryka
+Chłopcy z wioski</font></b></font>
+
+93
+00:04:40,300 --> 00:04:43,430
+<font face="Rosario SemiBold" size="82">Piraci Usoppa przybyli!</font>
+
+94
+00:04:45,560 --> 00:04:46,810
+<font face="Rosario SemiBold" size="82">Papryka! Marchewa!</font>
+
+95
+00:04:46,810 --> 00:04:49,440
+<font face="Rosario SemiBold" size="82">Tylko wy dwaj? Gdzie Cebula?</font>
+
+96
+00:04:53,060 --> 00:04:56,650
+<font face="Rosario SemiBold" size="82">Mam okropne wieści! Mam okropne wieści!</font>
+
+97
+00:04:56,650 --> 00:04:57,400
+<font face="Rosario SemiBold" size="82">Aua!</font>
+
+98
+00:04:58,820 --> 00:04:59,990
+<font face="Rosario SemiBold" size="82">Jesteśmy zgubieni!</font>
+
+99
+00:05:00,530 --> 00:05:01,780
+<font face="Rosario SemiBold" size="82">Cebula...</font>
+
+100
+00:05:01,780 --> 00:05:03,870
+<font face="Rosario SemiBold" size="82">A temu co, że tak panikuje?</font>
+
+101
+00:05:03,870 --> 00:05:06,200
+<font face="Rosario SemiBold" size="82">Jesteśmy zgubieni! Jesteśmy zgubieni!</font>
+
+102
+00:05:03,910 --> 00:05:09,830
+<font face="Caslon" size="99"><b><font color="#000000">Cebula
+Chłopiec z wioski</font></b></font>
+
+103
+00:05:03,910 --> 00:05:09,830
+<font face="Caslon" size="99"><b><font color="#faf9f9">Cebula
+Chłopiec z wioski</font></b></font>
+
+104
+00:05:03,910 --> 00:05:09,830
+<font face="Caslon" size="99"><b><font color="#faf9f9">Cebula
+Chłopiec z wioski</font></b></font>
+
+105
+00:05:06,200 --> 00:05:07,540
+<font face="Rosario SemiBold" size="82">Jesteśmy zgubieni!</font>
+
+106
+00:05:07,540 --> 00:05:09,120
+<font face="Rosario SemiBold" size="82">Pi-Piraci tu są!</font>
+
+107
+00:05:09,120 --> 00:05:12,710
+<font face="Rosario SemiBold" size="82">Na północnym brzegu jest statek z czaszką!</font>
+
+108
+00:05:12,710 --> 00:05:13,750
+<font face="Rosario SemiBold" size="82">Nie ściemniaj!</font>
+
+109
+00:05:15,920 --> 00:05:17,510
+<font face="Rosario SemiBold" size="82">Mówię prawdę!</font>
+
+110
+00:05:17,510 --> 00:05:19,760
+<font face="Rosario SemiBold" size="82">P-Prawdę?</font>
+
+111
+00:05:20,090 --> 00:05:22,260
+<font face="Rosario SemiBold" size="82">Samą prawdę! Mamy kłopoty!</font>
+
+112
+00:05:23,010 --> 00:05:24,510
+<font face="Rosario SemiBold" size="82">O kurde!</font>
+
+113
+00:05:24,510 --> 00:05:26,350
+<font face="Rosario SemiBold" size="82">Czas na przekąskę!</font>
+
+114
+00:05:26,350 --> 00:05:27,310
+<font face="Rosario SemiBold" size="82">– Nie uciekaj!
+– Nie uciekaj!</font>
+
+115
+00:05:28,520 --> 00:05:33,560
+<font face="Rosario SemiBold" size="82">Cierpię na chorobę "Umrę,
+jak nie zjem przekąski"!</font>
+
+116
+00:05:34,730 --> 00:05:36,190
+<font face="Rosario SemiBold" size="82">– Kłamca!
+– Kłamca!</font>
+
+117
+00:05:36,820 --> 00:05:40,780
+<font face="Rosario SemiBold" size="82">Kapitanie! Nie chciałeś
+być prawdziwym piratem?!</font>
+
+118
+00:05:41,320 --> 00:05:44,450
+<font face="Rosario SemiBold" size="82">Co z ciebie za pirat,
+skoro boisz się innych piratów?!</font>
+
+119
+00:05:44,910 --> 00:05:48,160
+<font face="Rosario SemiBold" size="82">Jeśli dobrze pamiętam,
+to miał banderę Klauna Buggy'ego!</font>
+
+120
+00:05:48,160 --> 00:05:52,420
+<font face="Rosario SemiBold" size="82">K-K-Klauna Buggy'ego?!</font>
+
+121
+00:05:53,670 --> 00:05:56,000
+<font face="Rosario SemiBold" size="82">M-Myślę, że sobie...</font>
+
+122
+00:05:56,000 --> 00:05:58,710
+<font face="Rosario SemiBold" size="82">Ale to były tylko dwie małe łódki!</font>
+
+123
+00:05:59,710 --> 00:06:02,800
+<font face="Rosario SemiBold" size="82">I koło trójki ludzi...</font>
+
+124
+00:06:02,800 --> 00:06:08,390
+<font face="Rosario SemiBold" size="82">Dobra! Chodźmy, Piraci Usopp'a!
+Musimy obronić naszą spokojną wioskę!</font>
+
+125
+00:06:08,220 --> 00:06:09,140
+<font face="Rosario SemiBold" size="82" color="#d6d6d6">– Co?
+– Co?</font>
+
+126
+00:06:08,390 --> 00:06:10,850
+<font face="Rosario SemiBold" size="82">Chodźmy! No dalej, za mną!</font>
+
+127
+00:06:11,850 --> 00:06:13,640
+<font face="Rosario SemiBold" size="82">– T-Tak jest!
+– T-Tak jest!</font>
+
+128
+00:06:21,820 --> 00:06:24,820
+<font face="Rosario SemiBold" size="82">Wreszcie na suchym lądzie...</font>
+
+129
+00:06:26,030 --> 00:06:27,870
+<font face="Rosario SemiBold" size="82">Czy tam jest ta wioska?</font>
+
+130
+00:06:27,870 --> 00:06:28,910
+<font face="Rosario SemiBold" size="82">Tak.</font>
+
+131
+00:06:28,910 --> 00:06:31,160
+<font face="Rosario SemiBold" size="82">Wygląda na całkiem małą...</font>
+
+132
+00:06:31,160 --> 00:06:31,790
+<font face="Rosario SemiBold" size="82">O!</font>
+
+133
+00:06:31,790 --> 00:06:34,420
+<font face="Rosario SemiBold" size="82">To znaczy, że jest tam mięsko!
+Mięsko, mięsko, mięsko!</font>
+
+134
+00:06:34,420 --> 00:06:36,290
+<font face="Rosario SemiBold" size="82">Mają tam, gdzie zjeść, prawda?!</font>
+
+135
+00:06:36,290 --> 00:06:38,380
+<font face="Rosario SemiBold" size="82">Czy potrafisz chociaż na
+sekundę zapomnieć o mięsie?!</font>
+
+136
+00:06:41,050 --> 00:06:42,550
+<font face="Rosario SemiBold" size="82">Ostrożnie!</font>
+
+137
+00:06:42,880 --> 00:06:44,590
+<font face="Rosario SemiBold" size="82">Mamy towarzystwo.</font>
+
+138
+00:06:43,800 --> 00:06:44,590
+<font face="Rosario SemiBold" size="82" color="#d6d6d6">Co?!</font>
+
+139
+00:06:44,590 --> 00:06:46,390
+<font face="Rosario SemiBold" size="82">Gdzie?! Gdzie?! Gdzie?!</font>
+
+140
+00:06:46,970 --> 00:06:48,430
+<font face="Rosario SemiBold" size="82">Uważaj!</font>
+
+141
+00:06:59,110 --> 00:07:02,690
+<font face="Rosario SemiBold" size="82">Ale czad!</font>
+
+142
+00:07:00,440 --> 00:07:02,690
+<font face="Rosario SemiBold" size="82" color="#d6d6d6">Czy to odpowiedni moment,
+by się tak ekscytować?!</font>
+
+143
+00:07:05,320 --> 00:07:09,700
+<font face="Rosario SemiBold" size="82">Jestem Usopp, przywódca potężnych
+piratów, którzy rządzą tą wioską!</font>
+
+144
+00:07:09,700 --> 00:07:12,910
+<font face="Rosario SemiBold" size="82">Jestem wielbiony przez tutejszych
+ludzi ponad wszystko, a zowią mnie...</font>
+
+145
+00:07:13,290 --> 00:07:15,410
+<font face="Rosario SemiBold" size="82">Kapitan Usopp!</font>
+
+146
+00:07:17,830 --> 00:07:21,340
+<font face="Rosario SemiBold" size="82">Jeśli myślicie o ataku
+na tę wioskę, to zapomnijcie!</font>
+
+147
+00:07:21,340 --> 00:07:26,550
+<font face="Rosario SemiBold" size="82">Osiemdziesiąt milionów moich
+podwładnych nie będzie cicho siedzieć!</font>
+
+148
+00:07:26,550 --> 00:07:31,010
+<font face="Rosario SemiBold" size="82">Ale czad!</font>
+
+149
+00:07:32,390 --> 00:07:33,930
+<font face="Rosario SemiBold" size="82">Kłamiesz, prawda?</font>
+
+150
+00:07:34,850 --> 00:07:35,980
+<font face="Rosario SemiBold" size="82">Przejrzała mnie!</font>
+
+151
+00:07:35,980 --> 00:07:38,730
+<font face="Rosario SemiBold" size="82">Widzisz, właśnie to potwierdziłeś.</font>
+
+152
+00:07:40,060 --> 00:07:43,690
+<font face="Rosario SemiBold" size="82">Potwierdziłem to!</font>
+
+153
+00:07:45,900 --> 00:07:48,240
+<font face="Rosario SemiBold" size="82">Co?! Kłamał?!</font>
+
+154
+00:07:48,240 --> 00:07:49,700
+<font face="Rosario SemiBold" size="82">Przeklinam cię ty przebiegła...!</font>
+
+155
+00:07:50,320 --> 00:07:54,660
+<font face="Rosario SemiBold" size="82">Może osiemdziesiąt milionów to przesada,
+ale moi podwładni są potężni!</font>
+
+156
+00:08:01,420 --> 00:08:03,800
+<font face="Rosario SemiBold" size="82">Na przykład <i>trzy</i> osoby?</font>
+
+157
+00:08:05,210 --> 00:08:07,260
+<font face="Rosario SemiBold" size="82">– Przejrzała nas!
+– Przejrzała nas!</font>
+
+158
+00:08:07,260 --> 00:08:09,970
+<font face="Rosario SemiBold" size="82">U-Uciekać!</font>
+
+159
+00:08:09,970 --> 00:08:11,970
+<font face="Rosario SemiBold" size="82">H-Hej, chłopaki!</font>
+
+160
+00:08:11,970 --> 00:08:14,220
+<font face="Rosario SemiBold" size="82">Nie uciekajcie!</font>
+
+161
+00:08:15,890 --> 00:08:17,940
+<font face="Rosario SemiBold" size="82">Jesteś przezabawny!</font>
+
+162
+00:08:18,980 --> 00:08:20,400
+<font face="Rosario SemiBold" size="82">Ej, wy!</font>
+
+163
+00:08:20,400 --> 00:08:21,900
+<font face="Rosario SemiBold" size="82">Nie obrażajcie mnie!</font>
+
+164
+00:08:21,900 --> 00:08:24,730
+<font face="Rosario SemiBold" size="82">Jestem potężny i dumny!</font>
+
+165
+00:08:25,440 --> 00:08:28,740
+<font face="Rosario SemiBold" size="82">I właśnie dzięki temu ludzie nazywają mnie...</font>
+
+166
+00:08:29,490 --> 00:08:32,200
+<font face="Rosario SemiBold" size="82">Dumny Usopp!</font>
+
+167
+00:08:33,370 --> 00:08:35,080
+<font face="Rosario SemiBold" size="82">Sami to przed chwilą widzieliście!</font>
+
+168
+00:08:35,450 --> 00:08:40,920
+<font face="Rosario SemiBold" size="82">Moje umiejętności czynią procę
+bardziej zabójczą od pistoletu!</font>
+
+169
+00:08:47,800 --> 00:08:50,800
+<font face="Rosario SemiBold" size="82">Skoro wyjąłeś pistolet...</font>
+
+170
+00:08:50,800 --> 00:08:52,430
+<font face="Rosario SemiBold" size="82">to stawiasz swoje życie na szali.</font>
+
+171
+00:08:54,640 --> 00:08:58,390
+<font face="Rosario SemiBold" size="82">To nie jest zabawka, którą ot tak
+można sobie pogrozić.</font>
+
+172
+00:09:14,700 --> 00:09:20,250
+<font face="Rosario SemiBold" size="82">S-Słowa prawdziwego pirata
+są jednak całkiem dosadne...</font>
+
+173
+00:09:20,250 --> 00:09:21,620
+<font face="Rosario SemiBold" size="82">Niesamowite...</font>
+
+174
+00:09:27,670 --> 00:09:28,760
+<font face="Rosario SemiBold" size="82">Ukradłem to powiedzonko!</font>
+
+175
+00:09:28,760 --> 00:09:30,260
+<font face="Rosario SemiBold" size="82">Co?</font>
+
+176
+00:09:30,260 --> 00:09:33,720
+<font face="Rosario SemiBold" size="82">Od Shanksa, pirata, którego podziwiam.</font>
+
+177
+00:09:34,220 --> 00:09:36,470
+<font face="Rosario SemiBold" size="82">O-Od Shanksa!?</font>
+
+178
+00:09:36,470 --> 00:09:40,230
+<font face="Rosario SemiBold" size="82">Znasz tego sławnego pirata,
+Rudowłosego Shanksa?!</font>
+
+179
+00:09:40,560 --> 00:09:41,730
+<font face="Rosario SemiBold" size="82">Tak!</font>
+
+180
+00:09:41,730 --> 00:09:44,650
+<font face="Rosario SemiBold" size="82">Twój tatko to Yasopp, prawda?</font>
+
+181
+00:09:44,650 --> 00:09:46,650
+<font face="Rosario SemiBold" size="82">C-Co?!</font>
+
+182
+00:09:52,200 --> 00:09:53,280
+<font face="Rosario SemiBold" size="82">Co?</font>
+
+183
+00:09:53,660 --> 00:09:58,430
+<font face="Rosario SemiBold" size="82">Tak, Yasopp to mój ojciec...</font>
+
+184
+00:10:00,250 --> 00:10:02,290
+<font face="Rosario SemiBold" size="82">Ale skąd o tym wiesz?</font>
+
+185
+00:10:02,920 --> 00:10:06,840
+<font face="Caslon" size="99"><b><font color="#000000">Wioskowa Jadłodajnia</font></b></font>
+
+186
+00:10:02,920 --> 00:10:06,840
+<font face="Caslon" size="99"><b><font color="#faf9f9">Wioskowa Jadłodajnia</font></b></font>
+
+187
+00:10:02,920 --> 00:10:06,840
+<font face="Caslon" size="99"><b><font color="#faf9f9">Wioskowa Jadłodajnia</font></b></font>
+
+188
+00:10:11,880 --> 00:10:13,280
+<font face="Rosario SemiBold" size="82">Smaczne, prawda?</font>
+
+189
+00:10:14,970 --> 00:10:17,350
+<font face="Rosario SemiBold" size="82">Spotkałem go, jak byłem mały!</font>
+
+190
+00:10:17,350 --> 00:10:20,050
+<font face="Rosario SemiBold" size="82">Więc mój ojciec jest na statku Shanksa?</font>
+
+191
+00:10:20,050 --> 00:10:25,060
+<font face="Rosario SemiBold" size="82">Tak! Wyglądasz tak samo, jak on,
+więc jak cię zobaczyłem, to na to wpadłem...</font>
+
+192
+00:10:25,060 --> 00:10:26,060
+<font face="Rosario SemiBold" size="82">Serio?!</font>
+
+193
+00:10:26,810 --> 00:10:30,070
+<font face="Rosario SemiBold" size="82">Mój ojciec jest na tak niesamowitym statku?!</font>
+
+194
+00:10:30,440 --> 00:10:33,820
+<font face="Rosario SemiBold" size="82">Tego nie jestem pewien,
+ale zakładam, że nadal tam jest.</font>
+
+195
+00:10:34,700 --> 00:10:38,800
+<font face="Rosario SemiBold" size="82">Bądź co bądź, twój tata
+jest świetnym strzelcem!</font>
+
+196
+00:10:54,680 --> 00:10:57,140
+<font face="Rosario SemiBold" size="82"><i>Ale czad!</i></font>
+
+197
+00:10:57,140 --> 00:10:58,140
+<font face="Rosario SemiBold" size="82"><i>To nic takiego.</i></font>
+
+198
+00:10:58,140 --> 00:11:01,640
+<font face="Rosario SemiBold" size="82"><i>Mógłbym trafić mrówkę między oczy!</i></font>
+
+199
+00:11:06,100 --> 00:11:07,860
+<font face="Rosario SemiBold" size="82"><i>Wiesz co, Luffy...</i></font>
+
+200
+00:11:07,860 --> 00:11:11,730
+<font face="Rosario SemiBold" size="82"><i>Mam syna o imieniu Usopp,
+który jest jakoś w twoim wieku!</i></font>
+
+201
+00:11:11,730 --> 00:11:14,240
+<font face="Rosario SemiBold" size="82"><i>Mówiłeś to milion razy,
+nie chcę już tego słuchać!</i></font>
+
+202
+00:11:14,240 --> 00:11:15,450
+<font face="Rosario SemiBold" size="82"><i>Co?!</i></font>
+
+203
+00:11:17,200 --> 00:11:20,410
+<font face="Rosario SemiBold" size="82"><i>E tam, będę ci mówił jeszcze więcej!</i></font>
+
+204
+00:11:21,160 --> 00:11:25,140
+<font face="Rosario SemiBold" size="82"><i>Rozstanie złamało mi serce,
+ale nie miałem wyboru!</i></font>
+
+205
+00:11:25,140 --> 00:11:30,130
+<font face="Rosario SemiBold" size="82"><i>Poczułem zew pirackiej bandery!
+Czy potrzeba czegoś więcej?!</i></font>
+
+206
+00:11:30,130 --> 00:11:31,840
+<font face="Rosario SemiBold" size="82"><i>– No właśnie!
+– No właśnie!</i></font>
+
+207
+00:11:35,670 --> 00:11:38,800
+<font face="Rosario SemiBold" size="82"><i>Zaklinowało się! Zaklinowało się!</i></font>
+
+208
+00:11:40,430 --> 00:11:45,560
+<font face="Rosario SemiBold" size="82">Usopp, nawet nie jestem w stanie
+zliczyć, ile razy o tobie słyszałem.</font>
+
+209
+00:11:45,560 --> 00:11:47,770
+<font face="Rosario SemiBold" size="82">Yasopp jest świetnym piratem!</font>
+
+210
+00:11:47,770 --> 00:11:49,100
+<font face="Rosario SemiBold" size="82">Co nie?!</font>
+
+211
+00:11:50,070 --> 00:11:55,570
+<font face="Rosario SemiBold" size="82">Wyruszył na bezkres mórz, stawiając
+tym samym swoje życie na szali...</font>
+
+212
+00:11:55,570 --> 00:11:58,280
+<font face="Rosario SemiBold" size="82">Nie mógłbym być z niego bardziej dumny!</font>
+
+213
+00:11:58,280 --> 00:12:00,280
+<font face="Rosario SemiBold" size="82">Więc to ułatwia sprawę!</font>
+
+214
+00:12:00,950 --> 00:12:04,290
+<font face="Rosario SemiBold" size="82">Znasz kogoś z wioski, kto potrafi żeglować</font>
+
+215
+00:12:04,290 --> 00:12:06,290
+<font face="Rosario SemiBold" size="82">i mógłby nam pożyczyć duży statek?</font>
+
+216
+00:12:07,500 --> 00:12:10,250
+<font face="Rosario SemiBold" size="82">Jak sami widzicie,
+jest to całkiem mała wioska...</font>
+
+217
+00:12:10,250 --> 00:12:13,460
+<font face="Rosario SemiBold" size="82">Wybaczcie, ale raczej nie
+spełnimy waszych oczekiwań.</font>
+
+218
+00:12:13,460 --> 00:12:15,210
+<font face="Rosario SemiBold" size="82">Ale na szczycie tego wzgórza...</font>
+
+219
+00:12:15,210 --> 00:12:17,680
+<font face="Rosario SemiBold" size="82">jest bardzo duża rezydencja.</font>
+
+220
+00:12:17,680 --> 00:12:20,050
+<font face="Rosario SemiBold" size="82">Powiedz Usopp, znasz ich?!</font>
+
+221
+00:12:20,050 --> 00:12:22,930
+<font face="Rosario SemiBold" size="82">Może poprosiłbyś ich,
+żeby pomogli nam z kupnem statku?</font>
+
+222
+00:12:22,930 --> 00:12:24,560
+<font face="Rosario SemiBold" size="82">N-Nie możecie tam iść!</font>
+
+223
+00:12:26,810 --> 00:12:30,270
+<font face="Rosario SemiBold" size="82">W-Właśnie sobie przypomniałem,
+że muszę coś zrobić!</font>
+
+224
+00:12:30,270 --> 00:12:33,070
+<font face="Rosario SemiBold" size="82">Jestem grubą rybą w tej okolicy!</font>
+
+225
+00:12:33,070 --> 00:12:35,780
+<font face="Rosario SemiBold" size="82">Jedzcie i pijcie, ile tylko chcecie!</font>
+
+226
+00:12:35,780 --> 00:12:38,240
+<font face="Rosario SemiBold" size="82">Dobra! To do później!</font>
+
+227
+00:12:40,490 --> 00:12:43,160
+<font face="Rosario SemiBold" size="82">Czemu aż tak się spieszył?</font>
+
+228
+00:12:47,960 --> 00:12:49,420
+<font face="Rosario SemiBold" size="82">Czy to na pewno tutaj?!</font>
+
+229
+00:12:49,420 --> 00:12:51,580
+<font face="Rosario SemiBold" size="82">Tak, piraci zaciągnęli go do środka!</font>
+
+230
+00:12:51,580 --> 00:12:53,040
+<font face="Rosario SemiBold" size="82">Musimy go uratować!</font>
+
+231
+00:12:53,040 --> 00:12:56,170
+<font face="Rosario SemiBold" size="82">Ale to są prawdziwi piraci!
+A co jak go upiekli i zjedli?!</font>
+
+232
+00:12:56,170 --> 00:12:58,800
+<font face="Rosario SemiBold" size="82">Gamoniu! To wiedźmy jedzą ludzi!</font>
+
+233
+00:12:59,720 --> 00:13:05,010
+<font face="Rosario SemiBold" size="82">To będzie największa bitwa od
+czasów założenia Piratów Usoppa!</font>
+
+234
+00:13:05,010 --> 00:13:06,270
+<font face="Rosario SemiBold" size="82">– Tak!
+– Tak!</font>
+
+235
+00:13:07,520 --> 00:13:10,020
+<font face="Rosario SemiBold" size="82">– Piraci Usoppa przybyli!
+– Piraci Usoppa przybyli!</font>
+
+236
+00:13:10,480 --> 00:13:11,480
+<font face="Rosario SemiBold" size="82">A to kto?</font>
+
+237
+00:13:11,480 --> 00:13:13,270
+<font face="Rosario SemiBold" size="82">K-Kapitan zniknął!</font>
+
+238
+00:13:13,270 --> 00:13:14,360
+<font face="Rosario SemiBold" size="82">Chyba nie myślisz, że...</font>
+
+239
+00:13:15,020 --> 00:13:16,650
+<font face="Rosario SemiBold" size="82">E-Ej! Piraci!</font>
+
+240
+00:13:16,650 --> 00:13:19,360
+<font face="Rosario SemiBold" size="82">Co zrobiliście z Kapitanem Usoppem?!</font>
+
+241
+00:13:19,360 --> 00:13:20,320
+<font face="Rosario SemiBold" size="82">– Gdzie on jest?!
+– Gdzie on jest?!</font>
+
+242
+00:13:20,820 --> 00:13:23,280
+<font face="Rosario SemiBold" size="82">To mięsko było przepyszne!</font>
+
+243
+00:13:24,280 --> 00:13:25,160
+<font face="Rosario SemiBold" size="82">Mięsko?!</font>
+
+244
+00:13:25,160 --> 00:13:26,740
+<font face="Rosario SemiBold" size="82">Nie mów mi, że oni...</font>
+
+245
+00:13:28,370 --> 00:13:31,370
+<font face="Rosario SemiBold" size="82">C-Co?! Co wyście zrobili?!</font>
+
+246
+00:13:31,370 --> 00:13:33,830
+<font face="Rosario SemiBold" size="82">Jeśli szukacie swojego kapitana...</font>
+
+247
+00:13:35,500 --> 00:13:36,800
+<font face="Rosario SemiBold" size="82">zjedliśmy go.</font>
+
+248
+00:13:40,130 --> 00:13:43,470
+<font face="Rosario SemiBold" size="82">– Wiedźma!
+– Wiedźma!</font>
+
+249
+00:13:41,260 --> 00:13:43,470
+<font face="Rosario SemiBold" size="82">Czemu to na mnie się gapicie?!</font>
+
+250
+00:13:45,430 --> 00:13:47,810
+<font face="Rosario SemiBold" size="82">Czemu mówicie takie rzeczy?!</font>
+
+251
+00:14:00,940 --> 00:14:03,860
+<font face="Caslon" size="99"><b><font color="#000000">Rezydencja w Wiosce</font></b></font>
+
+252
+00:14:00,940 --> 00:14:03,860
+<font face="Caslon" size="99"><b><font color="#faf9f9">Rezydencja w Wiosce</font></b></font>
+
+253
+00:14:00,940 --> 00:14:03,860
+<font face="Caslon" size="99"><b><font color="#faf9f9">Rezydencja w Wiosce</font></b></font>
+
+254
+00:14:15,580 --> 00:14:17,800
+<font face="Rosario SemiBold" size="82">Życzy sobie panienka zobaczyć Usoppa?</font>
+
+255
+00:14:18,500 --> 00:14:20,380
+<font face="Rosario SemiBold" size="82">Tylko nie to...</font>
+
+256
+00:14:20,420 --> 00:14:23,430
+<font face="Caslon" size="99"><b><font color="#000000">Kaya
+Właścicielka Rezydencji</font></b></font>
+
+257
+00:14:20,420 --> 00:14:23,430
+<font face="Caslon" size="99"><b><font color="#faf9f9">Kaya
+Właścicielka Rezydencji</font></b></font>
+
+258
+00:14:20,420 --> 00:14:23,430
+<font face="Caslon" size="99"><b><font color="#faf9f9">Kaya
+Właścicielka Rezydencji</font></b></font>
+
+259
+00:14:20,800 --> 00:14:21,920
+<font face="Rosario SemiBold" size="82">Mogę?</font>
+
+260
+00:14:21,920 --> 00:14:23,430
+<font face="Rosario SemiBold" size="82">Chciałabym z nim porozmawiać.</font>
+
+261
+00:14:23,470 --> 00:14:28,720
+<font face="Caslon" size="99"><b><font color="#000000">Klahadore
+Kamerdyner</font></b></font>
+
+262
+00:14:23,470 --> 00:14:28,720
+<font face="Caslon" size="99"><b><font color="#faf9f9">Klahadore
+Kamerdyner</font></b></font>
+
+263
+00:14:23,470 --> 00:14:28,720
+<font face="Caslon" size="99"><b><font color="#faf9f9">Klahadore
+Kamerdyner</font></b></font>
+
+264
+00:14:24,930 --> 00:14:26,180
+<font face="Rosario SemiBold" size="82">Nie ma takiej opcji.</font>
+
+265
+00:14:26,180 --> 00:14:28,720
+<font face="Rosario SemiBold" size="82">Ten człowiek jest największym kłamcą w wiosce!</font>
+
+266
+00:14:29,310 --> 00:14:31,230
+<font face="Rosario SemiBold" size="82">Biorąc pod uwagę panienki stan,</font>
+
+267
+00:14:31,230 --> 00:14:34,480
+<font face="Rosario SemiBold" size="82">błahe historie Usoppa to ostatnia
+rzecz, której panience potrzeba!</font>
+
+268
+00:14:34,480 --> 00:14:35,190
+<font face="Rosario SemiBold" size="82">Ale...</font>
+
+269
+00:14:35,440 --> 00:14:39,690
+<font face="Rosario SemiBold" size="82">Przed śmiercią, panienki rodzice
+powierzyli mi opiekę nad tobą...</font>
+
+270
+00:14:39,690 --> 00:14:43,150
+<font face="Rosario SemiBold" size="82">muszę dać z siebie wszystko,
+aby ich nie zawieść, panienko Kayo.</font>
+
+271
+00:14:43,860 --> 00:14:46,410
+<font face="Rosario SemiBold" size="82">Zostawiam tutaj twoje lekarstwo.</font>
+
+272
+00:14:46,410 --> 00:14:48,780
+<font face="Rosario SemiBold" size="82">Proszę, abyś je wzięła.</font>
+
+273
+00:14:52,620 --> 00:14:53,960
+<font face="Rosario SemiBold" size="82">Palant.</font>
+
+274
+00:14:54,250 --> 00:14:56,170
+<font face="Rosario SemiBold" size="82">Nazywaj mnie "Palantem" ile tylko chcesz.</font>
+
+275
+00:14:56,170 --> 00:14:57,960
+<font face="Rosario SemiBold" size="82">Nie znaczy nie.</font>
+
+276
+00:15:08,390 --> 00:15:09,850
+<font face="Rosario SemiBold" size="82">Usopp!</font>
+
+277
+00:15:10,100 --> 00:15:12,850
+<font face="Rosario SemiBold" size="82">Hej! Widzę, żeś przybita jak zawsze!</font>
+
+278
+00:15:13,350 --> 00:15:14,730
+<font face="Rosario SemiBold" size="82">Wybacz!</font>
+
+279
+00:15:14,730 --> 00:15:18,110
+<font face="Rosario SemiBold" size="82">Naprawdę chciałabym zaprosić cię
+do środka jak prawdziwego gościa,</font>
+
+280
+00:15:18,860 --> 00:15:22,230
+<font face="Rosario SemiBold" size="82">ale Klahadore nigdy mi na to pozwoli.</font>
+
+281
+00:15:22,230 --> 00:15:23,990
+<font face="Rosario SemiBold" size="82">Ale to nie tak, że jest zły czy coś.</font>
+
+282
+00:15:23,990 --> 00:15:25,400
+<font face="Rosario SemiBold" size="82">Nie przejmuj się!</font>
+
+283
+00:15:25,400 --> 00:15:28,910
+<font face="Rosario SemiBold" size="82">W końcu jestem dzielnym wojownikiem mórz!</font>
+
+284
+00:15:29,280 --> 00:15:33,410
+<font face="Rosario SemiBold" size="82">Czułbym się nieswojo
+w takiej dusznej rezydencji.</font>
+
+285
+00:15:33,660 --> 00:15:36,670
+<font face="Rosario SemiBold" size="82">Zatem, o jakiej przygodzie
+mi dzisiaj  opowiesz?</font>
+
+286
+00:15:36,670 --> 00:15:39,420
+<font face="Rosario SemiBold" size="82">Hmm, pomyślmy...</font>
+
+287
+00:15:39,420 --> 00:15:40,710
+<font face="Rosario SemiBold" size="82">Mam!</font>
+
+288
+00:15:40,710 --> 00:15:42,210
+<font face="Rosario SemiBold" size="82">Kiedy miałem pięć lat,</font>
+
+289
+00:15:42,210 --> 00:15:45,300
+<font face="Rosario SemiBold" size="82">walczyłem z ogromną złotą rybką,
+która żyła w morzach południa.</font>
+
+290
+00:15:45,300 --> 00:15:46,380
+<font face="Rosario SemiBold" size="82">Złotą rybką?</font>
+
+291
+00:15:46,630 --> 00:15:47,680
+<font face="Rosario SemiBold" size="82">Tak!</font>
+
+292
+00:15:47,680 --> 00:15:49,850
+<font face="Rosario SemiBold" size="82">A co mnie zaskoczyło najbardziej...</font>
+
+293
+00:15:49,850 --> 00:15:51,510
+<font face="Rosario SemiBold" size="82">to ogromny rozmiar jej kupy!</font>
+
+294
+00:15:51,510 --> 00:15:55,600
+<font face="Rosario SemiBold" size="82">Była tak wielka, że zakotwiczyłem
+przy niej myśląc, że to ląd.</font>
+
+295
+00:16:06,700 --> 00:16:09,740
+<font face="Rosario SemiBold" size="82">O ja cię! Jest ogromna!</font>
+
+296
+00:16:09,740 --> 00:16:13,080
+<font face="Rosario SemiBold" size="82">Jeśli nasz kapitan ucieka o tej
+porze, to zawsze biegnie tutaj.</font>
+
+297
+00:16:13,080 --> 00:16:16,040
+<font face="Rosario SemiBold" size="82">Hmm? A dlaczego tutaj?</font>
+
+298
+00:16:16,040 --> 00:16:17,660
+<font face="Rosario SemiBold" size="82">Żeby <i>kłamać</i>!</font>
+
+299
+00:16:17,660 --> 00:16:19,330
+<font face="Rosario SemiBold" size="82">To bardzo niegrzecznie!</font>
+
+300
+00:16:19,330 --> 00:16:22,040
+<font face="Rosario SemiBold" size="82">Wcale nie! On jest świetny! Prawda?!</font>
+
+301
+00:16:22,040 --> 00:16:23,420
+<font face="Rosario SemiBold" size="82">Tak! Jest świetny!</font>
+
+302
+00:16:23,800 --> 00:16:25,670
+<font face="Rosario SemiBold" size="82">Co macie na myśli?</font>
+
+303
+00:16:26,590 --> 00:16:30,180
+<font face="Rosario SemiBold" size="82">Kaya, czyli dziewczyna,
+która tu mieszka, jest chora.</font>
+
+304
+00:16:27,550 --> 00:16:29,260
+<font face="Rosario SemiBold" size="82" color="#d6d6d6">Złota rybka zablokowała statek,</font>
+
+305
+00:16:29,260 --> 00:16:33,890
+<font face="Rosario SemiBold" size="82" color="#d6d6d6">a na tym statku był pirat większy niż góra!</font>
+
+306
+00:16:30,180 --> 00:16:35,100
+<font face="Rosario SemiBold" size="82">Od czasu śmierci jej rodziców,
+jest bardzo smutna.</font>
+
+307
+00:16:33,890 --> 00:16:36,390
+<font face="Rosario SemiBold" size="82" color="#d6d6d6">Jego twarz była przezabawna!</font>
+
+308
+00:16:35,640 --> 00:16:39,940
+<font face="Rosario SemiBold" size="82">Żadne ilości jej pieniędzy
+nie potrafią tego zmienić.</font>
+
+309
+00:16:40,850 --> 00:16:44,820
+<font face="Rosario SemiBold" size="82">Nasz kapitan jest świetny w opowiadaniu
+takich historyjek, które ją bawią!</font>
+
+310
+00:16:45,150 --> 00:16:48,280
+<font face="Rosario SemiBold" size="82">Jest najlepszy w opowiadaniu kłamstw!</font>
+
+311
+00:16:48,280 --> 00:16:51,200
+<font face="Rosario SemiBold" size="82" color="#d6d6d6">Nigdy nie słyszałaś o piracie
+z taką twarzą, prawda?</font>
+
+312
+00:16:51,740 --> 00:16:53,700
+<font face="Rosario SemiBold" size="82">Czyli dobry z niego człowiek?</font>
+
+313
+00:16:53,700 --> 00:16:54,910
+<font face="Rosario SemiBold" size="82">– Tak!
+– Tak!</font>
+
+314
+00:16:54,910 --> 00:16:58,660
+<font face="Rosario SemiBold" size="82">Lubię kapitana, bo jest wścibski!</font>
+
+315
+00:16:58,660 --> 00:17:01,170
+<font face="Rosario SemiBold" size="82">A mi się podoba to, jak się rządzi!</font>
+
+316
+00:17:01,170 --> 00:17:03,250
+<font face="Rosario SemiBold" size="82">A mi jego przechwalanie!</font>
+
+317
+00:17:03,630 --> 00:17:06,630
+<font face="Rosario SemiBold" size="82">I dzięki temu ona czuje się lepiej?</font>
+
+318
+00:17:06,630 --> 00:17:08,260
+<font face="Rosario SemiBold" size="82">Tak, o wiele lepiej!</font>
+
+319
+00:17:08,260 --> 00:17:09,510
+<font face="Rosario SemiBold" size="82">Świetnie!</font>
+
+320
+00:17:09,510 --> 00:17:12,090
+<font face="Rosario SemiBold" size="82">Chodźmy ją poprosić o statek!</font>
+
+321
+00:17:12,550 --> 00:17:14,680
+<font face="Rosario SemiBold" size="82">Wejście tam jest niemożliwe!</font>
+
+322
+00:17:14,680 --> 00:17:16,970
+<font face="Rosario SemiBold" size="82">Strażnicy są naprawdę twardzi!</font>
+
+323
+00:17:17,560 --> 00:17:18,270
+<font face="Rosario SemiBold" size="82">– Co?
+– Co?</font>
+
+324
+00:17:18,270 --> 00:17:19,270
+<font face="Rosario SemiBold" size="82">Gdzie wcięło Luffy'ego?</font>
+
+325
+00:17:19,270 --> 00:17:20,810
+<font face="Rosario SemiBold" size="82">Pójdę ją spytać!</font>
+
+326
+00:17:21,480 --> 00:17:22,600
+<font face="Rosario SemiBold" size="82">Czekaj, ty chyba nie...?!</font>
+
+327
+00:17:22,600 --> 00:17:25,360
+<font face="Rosario SemiBold" size="82">Gum-Gumowy...</font>
+
+328
+00:17:27,150 --> 00:17:30,610
+<font face="Rosario SemiBold" size="82">Przepraszam...</font>
+
+329
+00:17:28,070 --> 00:17:28,990
+<font face="Rosario SemiBold" size="82" color="#d6d6d6">Ej!</font>
+
+330
+00:17:30,610 --> 00:17:34,370
+<font face="Rosario SemiBold" size="82">za najście!</font>
+
+331
+00:17:35,450 --> 00:17:42,040
+<font face="Rosario SemiBold" size="82">A potem uciekliśmy ku niebu na
+gigantycznej kuli z procy!</font>
+
+332
+00:17:42,750 --> 00:17:44,290
+<font face="Rosario SemiBold" size="82">T-To...</font>
+
+333
+00:17:45,710 --> 00:17:47,550
+<font face="Rosario SemiBold" size="82">Juhu!</font>
+
+334
+00:17:53,510 --> 00:17:55,300
+<font face="Rosario SemiBold" size="82">Wyszło fajowo!</font>
+
+335
+00:17:55,300 --> 00:17:57,510
+<font face="Rosario SemiBold" size="82">J-Jesteście cali?!</font>
+
+336
+00:17:57,510 --> 00:18:00,140
+<font face="Rosario SemiBold" size="82">T-Tak! Wszystko z nimi w porządku!</font>
+
+337
+00:18:00,140 --> 00:18:03,400
+<font face="Rosario SemiBold" size="82">Usłyszeli o mnie i przybyli taki kawał drogi,</font>
+
+338
+00:18:03,400 --> 00:18:05,980
+<font face="Rosario SemiBold" size="82">tylko po to, by dołączyć do Piratów Usoppa!</font>
+
+339
+00:18:06,360 --> 00:18:08,980
+<font face="Rosario SemiBold" size="82">Co? To wcale nie tak.</font>
+
+340
+00:18:09,360 --> 00:18:11,150
+<font face="Rosario SemiBold" size="82">Jesteśmy tu, by poprosić o przysługę!</font>
+
+341
+00:18:11,150 --> 00:18:12,780
+<font face="Rosario SemiBold" size="82">O przysługę? Mnie?</font>
+
+342
+00:18:12,780 --> 00:18:13,610
+<font face="Rosario SemiBold" size="82">Tak!</font>
+
+343
+00:18:13,990 --> 00:18:17,120
+<font face="Rosario SemiBold" size="82">Potrzebny nam duży statek...</font>
+
+344
+00:18:15,490 --> 00:18:17,120
+<font face="Rosario SemiBold" size="82" color="#d6d6d6">Ej, wy!</font>
+
+345
+00:18:18,200 --> 00:18:20,330
+<font face="Rosario SemiBold" size="82">Co to wszystko ma znaczyć?!</font>
+
+346
+00:18:21,830 --> 00:18:24,080
+<font face="Rosario SemiBold" size="82">Klahadore...</font>
+
+347
+00:18:25,330 --> 00:18:27,090
+<font face="Rosario SemiBold" size="82">Nie pochwalam tego, że...</font>
+
+348
+00:18:28,090 --> 00:18:30,550
+<font face="Rosario SemiBold" size="82">wtargnęliście tu bez jakiejkolwiek zgody!</font>
+
+349
+00:18:34,890 --> 00:18:37,010
+<font face="Rosario SemiBold" size="82">Ci ludzie są–</font>
+
+350
+00:18:35,930 --> 00:18:37,010
+<font face="Rosario SemiBold" size="82" color="#d6d6d6">To może zaczekać.</font>
+
+351
+00:18:38,470 --> 00:18:42,100
+<font face="Rosario SemiBold" size="82">Później wysłucham twoich wyjaśnień.</font>
+
+352
+00:18:42,100 --> 00:18:44,100
+<font face="Rosario SemiBold" size="82">A teraz wynoście się wszyscy!</font>
+
+353
+00:18:44,100 --> 00:18:46,560
+<font face="Rosario SemiBold" size="82">Chyba że macie coś jeszcze do powiedzenia?</font>
+
+354
+00:18:46,940 --> 00:18:49,400
+<font face="Rosario SemiBold" size="82">W sumie to mamy, potrzebujemy statku!</font>
+
+355
+00:18:49,400 --> 00:18:50,530
+<font face="Rosario SemiBold" size="82">Nie ma mowy!</font>
+
+356
+00:18:52,320 --> 00:18:53,740
+<font face="Rosario SemiBold" size="82">Usopp!</font>
+
+357
+00:18:53,740 --> 00:18:54,530
+<font face="Rosario SemiBold" size="82">Kurde!</font>
+
+358
+00:18:54,530 --> 00:18:57,320
+<font face="Rosario SemiBold" size="82">Sporo o tobie słyszałem.</font>
+
+359
+00:18:57,320 --> 00:18:59,370
+<font face="Rosario SemiBold" size="82">W wiosce jesteś niesławny.</font>
+
+360
+00:19:00,490 --> 00:19:02,200
+<font face="Rosario SemiBold" size="82">Imponujące jak na twój wiek.</font>
+
+361
+00:19:02,200 --> 00:19:05,710
+<font face="Rosario SemiBold" size="82">Nie krępuj się, możesz mi
+mówić Kapitan Usopp!</font>
+
+362
+00:19:05,710 --> 00:19:07,630
+<font face="Rosario SemiBold" size="82">Ale nie nalegam!</font>
+
+363
+00:19:08,630 --> 00:19:11,170
+<font face="Rosario SemiBold" size="82">Słyszałem również historie o twoim ojcu.</font>
+
+364
+00:19:11,170 --> 00:19:11,920
+<font face="Rosario SemiBold" size="82">Co?!</font>
+
+365
+00:19:12,260 --> 00:19:15,590
+<font face="Rosario SemiBold" size="82">Jesteś tylko synem brudnego
+pirata, niczym więcej!</font>
+
+366
+00:19:16,340 --> 00:19:19,050
+<font face="Rosario SemiBold" size="82">Niczego się po tobie nie spodziewam,</font>
+
+367
+00:19:19,390 --> 00:19:23,770
+<font face="Rosario SemiBold" size="82">więc nalegam, abyś trzymał się
+z daleka od pani tego domu!</font>
+
+368
+00:19:24,770 --> 00:19:26,850
+<font face="Rosario SemiBold" size="82">B-Brudnego pirata...?!</font>
+
+369
+00:19:27,270 --> 00:19:31,070
+<font face="Rosario SemiBold" size="82">Ty i panienka jesteście
+z kompletnie różnych światów!</font>
+
+370
+00:19:31,070 --> 00:19:33,070
+<font face="Rosario SemiBold" size="82">Zależy ci na jej pieniądzach? Ile chcesz?</font>
+
+371
+00:19:33,490 --> 00:19:36,280
+<font face="Rosario SemiBold" size="82">Wystarczy tego, Klahadore!
+Przeproś Usoppa!</font>
+
+372
+00:19:37,490 --> 00:19:38,740
+<font face="Rosario SemiBold" size="82">Hej, Kaya! Uważaj!</font>
+
+373
+00:19:39,240 --> 00:19:43,700
+<font face="Rosario SemiBold" size="82">Z jakiej racji miałbym przepraszać
+tego dzikusa, panienko?</font>
+
+374
+00:19:44,580 --> 00:19:47,540
+<font face="Rosario SemiBold" size="82">Ja jedynie stwierdzam fakty.</font>
+
+375
+00:19:48,420 --> 00:19:50,380
+<font face="Rosario SemiBold" size="82">Współczuję ci.</font>
+
+376
+00:19:50,380 --> 00:19:54,130
+<font face="Rosario SemiBold" size="82">Pewnie bardzo nienawidzisz
+swojego durnego ojca...</font>
+
+377
+00:19:54,130 --> 00:19:57,130
+<font face="Rosario SemiBold" size="82">za wybranie skarbów ponad
+swoją rodzinę i wioskę!</font>
+
+378
+00:19:57,680 --> 00:19:59,010
+<font face="Rosario SemiBold" size="82">Klahadore!</font>
+
+379
+00:19:59,640 --> 00:20:02,260
+<font face="Rosario SemiBold" size="82">Nie masz prawa się wypowiadać
+na temat mojego ojca!</font>
+
+380
+00:20:03,890 --> 00:20:05,520
+<font face="Rosario SemiBold" size="82">Usopp!</font>
+
+381
+00:20:14,070 --> 00:20:16,610
+<font face="Rosario SemiBold" size="82">Czym się tak przejmujesz?</font>
+
+382
+00:20:16,610 --> 00:20:19,530
+<font face="Rosario SemiBold" size="82">Czemu po prostu nie opowiesz
+kolejnego ze swoich kłamstw?</font>
+
+383
+00:20:20,160 --> 00:20:22,990
+<font face="Rosario SemiBold" size="82">Na przykład, że tak naprawdę
+jest podróżnym handlarzem</font>
+
+384
+00:20:22,990 --> 00:20:25,540
+<font face="Rosario SemiBold" size="82">albo że tak naprawdę nie jest
+twoim prawdziwym ojcem...</font>
+
+385
+00:20:25,540 --> 00:20:27,080
+<font face="Rosario SemiBold" size="82">Zamknij się!</font>
+
+386
+00:20:34,550 --> 00:20:35,760
+<font face="Rosario SemiBold" size="82">– Kapitanie!
+– Kapitanie!</font>
+
+387
+00:20:37,090 --> 00:20:40,510
+<font face="Rosario SemiBold" size="82">W-Widzisz? Od razu
+zniżasz się do przemocy...!</font>
+
+388
+00:20:40,510 --> 00:20:43,350
+<font face="Rosario SemiBold" size="82">Jaki ojciec, taki syn!</font>
+
+389
+00:20:43,350 --> 00:20:45,060
+<font face="Rosario SemiBold" size="82">Zamknij się w końcu!</font>
+
+390
+00:20:45,520 --> 00:20:49,020
+<font face="Rosario SemiBold" size="82">Jestem dumny z tego, że
+mój ojciec jest piratem!</font>
+
+391
+00:20:49,020 --> 00:20:52,770
+<font face="Rosario SemiBold" size="82">Jestem dumny, że jest
+dzielnym wojownikiem mórz!</font>
+
+392
+00:20:52,770 --> 00:20:55,820
+<font face="Rosario SemiBold" size="82">Masz rację, <i>jestem</i> kłamcą!</font>
+
+393
+00:20:55,820 --> 00:21:00,660
+<font face="Rosario SemiBold" size="82">Ale nigdy nie skłamałem o rodzinie!
+Jestem dumny z pirackiej krwi w moich żyłach!</font>
+
+394
+00:21:01,030 --> 00:21:03,410
+<font face="Rosario SemiBold" size="82">Jestem synem pirata!</font>
+
+395
+00:21:07,540 --> 00:21:08,790
+<font face="Rosario SemiBold" size="82">Kapitanie...</font>
+
+396
+00:21:11,080 --> 00:21:14,290
+<font face="Rosario SemiBold" size="82">Pirat dzielnym wojownikiem mórz...?</font>
+
+397
+00:21:14,290 --> 00:21:17,340
+<font face="Rosario SemiBold" size="82">Umiesz odwrócić kota ogonem...</font>
+
+398
+00:21:18,760 --> 00:21:22,590
+<font face="Rosario SemiBold" size="82">Ale jesteś niezaprzaczalnym
+dowodem jego dzikiej krwi!</font>
+
+399
+00:21:22,590 --> 00:21:26,720
+<font face="Rosario SemiBold" size="82">Biegasz dookoła, wykrzykując kłamstwa
+i wyżywasz się, gdy coś cię wkurzy!</font>
+
+400
+00:21:26,720 --> 00:21:30,560
+<font face="Rosario SemiBold" size="82">Co najgorsze, spoufalasz się
+z panienką, by zdobyć jej fortunę!</font>
+
+401
+00:21:30,560 --> 00:21:32,230
+<font face="Rosario SemiBold" size="82">Co proszę?! Ja tylko–</font>
+
+402
+00:21:32,230 --> 00:21:34,730
+<font face="Rosario SemiBold" size="82">Fakt, że twój ojciec jest piratem</font>
+
+403
+00:21:34,730 --> 00:21:38,030
+<font face="Rosario SemiBold" size="82">to wystarczający dowód,
+by stwierdzić, że coś knujesz!</font>
+
+404
+00:21:38,440 --> 00:21:39,780
+<font face="Rosario SemiBold" size="82">A ty znowu to samo?!</font>
+
+405
+00:21:39,780 --> 00:21:41,240
+<font face="Rosario SemiBold" size="82">Przestań, Usopp!</font>
+
+406
+00:21:42,530 --> 00:21:44,950
+<font face="Rosario SemiBold" size="82">Błagam, wystarczy już przemocy!</font>
+
+407
+00:21:46,700 --> 00:21:49,410
+<font face="Rosario SemiBold" size="82">Klahadore nie jest złym człowiekiem!</font>
+
+408
+00:21:49,960 --> 00:21:50,960
+<font face="Rosario SemiBold" size="82">On po prostu...</font>
+
+409
+00:21:51,620 --> 00:21:55,500
+<font face="Rosario SemiBold" size="82">On po prostu stara się robić to,
+co dla mnie najlepsze!</font>
+
+410
+00:21:56,000 --> 00:21:57,800
+<font face="Rosario SemiBold" size="82">Opuśćcie to miejsce!</font>
+
+411
+00:21:58,210 --> 00:22:01,220
+<font face="Rosario SemiBold" size="82">Nigdy nie wracajcie w pobliże tej rezydencji!</font>
+
+412
+00:22:02,260 --> 00:22:04,090
+<font face="Rosario SemiBold" size="82">Dobrze, zrozumiałem.</font>
+
+413
+00:22:04,090 --> 00:22:06,720
+<font face="Rosario SemiBold" size="82">Nie musisz mi dwa razy powtarzać!</font>
+
+414
+00:22:08,220 --> 00:22:10,770
+<font face="Rosario SemiBold" size="82">Nigdy już tu nie wrócę!</font>
+
+415
+00:22:12,140 --> 00:22:13,650
+<font face="Rosario SemiBold" size="82">Usopp...</font>
+
+416
+00:22:15,270 --> 00:22:17,230
+<font face="Rosario SemiBold" size="82">Ty głupi lokaju!</font>
+
+417
+00:22:17,230 --> 00:22:19,280
+<font face="Rosario SemiBold" size="82">Nasz kapitan taki nie jest!</font>
+
+418
+00:22:19,280 --> 00:22:20,780
+<font face="Rosario SemiBold" size="82">No właśnie! Ty dupku!</font>
+
+419
+00:22:20,780 --> 00:22:21,820
+<font face="Rosario SemiBold" size="82">Dupku!</font>
+
+420
+00:22:22,150 --> 00:22:23,950
+<font face="Rosario SemiBold" size="82">Dupku!</font>
+
+421
+00:22:23,950 --> 00:22:26,160
+<font face="Rosario SemiBold" size="82">A ty, po co się dołączasz?</font>
+
+422
+00:22:28,990 --> 00:22:33,330
+<font face="Rosario SemiBold" size="82">M-Masz jakiś problem?!
+Chodź tu i walcz, jeśli się nie boisz!</font>
+
+423
+00:22:29,950 --> 00:22:31,000
+<font face="Rosario SemiBold" size="82" color="#d6d6d6">Przestań!</font>
+
+424
+00:22:34,210 --> 00:22:36,960
+<font face="Rosario SemiBold" size="82">Cała reszta to samo, wynocha!</font>
+
+425
+00:22:49,060 --> 00:22:51,520
+<font face="Rosario SemiBold" size="82">Twój posiłek, panienko.</font>
+
+426
+00:22:51,520 --> 00:22:53,310
+<font face="Rosario SemiBold" size="82">Podziękuję.</font>
+
+427
+00:22:53,310 --> 00:22:54,690
+<font face="Rosario SemiBold" size="82">Nie jestem głodna.</font>
+
+428
+00:22:58,270 --> 00:23:01,400
+<font face="Rosario SemiBold" size="82">Kucharz byłby smutny, gdyby to słyszał.</font>
+
+429
+00:23:01,400 --> 00:23:06,740
+<font face="Rosario SemiBold" size="82">Stara się jak może by dostosować
+posiłki do panienki potrzeb.</font>
+
+430
+00:23:11,700 --> 00:23:13,660
+<font face="Rosario SemiBold" size="82">Dlaczego go tak potraktowałeś?</font>
+
+431
+00:23:14,540 --> 00:23:21,090
+<font face="Rosario SemiBold" size="82">Czuję się źle, rozmawiając z Usoppem
+za twoimi plecami, Klahadore.</font>
+
+432
+00:23:21,090 --> 00:23:24,050
+<font face="Rosario SemiBold" size="82">Ale nie musiałeś wyganiać go w taki sposób.</font>
+
+433
+00:23:28,510 --> 00:23:30,350
+<font face="Rosario SemiBold" size="82">Mogę usiąść?</font>
+
+434
+00:23:30,350 --> 00:23:31,260
+<font face="Rosario SemiBold" size="82">Śmiało.</font>
+
+435
+00:23:33,020 --> 00:23:36,390
+<font face="Rosario SemiBold" size="82">To już prawie trzy lata...</font>
+
+436
+00:23:37,400 --> 00:23:40,900
+<font face="Rosario SemiBold" size="82">odkąd przybyłem do tej rezydencji.</font>
+
+437
+00:23:41,480 --> 00:23:44,320
+<font face="Rosario SemiBold" size="82">Nigdy nie zapomnę,
+co stało się tamtego dnia...</font>
+
+438
+00:23:54,910 --> 00:24:01,250
+<font face="Rosario SemiBold" size="82">Przez jedną pomyłkę zostałem wyrzucony
+ze statku, na którym pracowałem.</font>
+
+439
+00:24:01,250 --> 00:24:05,380
+<font face="Rosario SemiBold" size="82">Bez pracy ani pieniędzy byłem
+na skraju śmierci jako żebrak.</font>
+
+440
+00:24:18,440 --> 00:24:23,900
+<font face="Rosario SemiBold" size="82">Moje życie zawdzięczam
+twoim zmarłym rodzicom...</font>
+
+441
+00:24:24,320 --> 00:24:29,200
+<font face="Rosario SemiBold" size="82">Oraz tobie, ich córce.</font>
+
+442
+00:24:30,570 --> 00:24:37,910
+<font face="Rosario SemiBold" size="82">Zdaję sobie sprawę, że to nie ja powinienem
+decydować o tym, z kim się przyjaźnisz.</font>
+
+443
+00:24:38,710 --> 00:24:43,880
+<font face="Rosario SemiBold" size="82">Ale ten Usopp raczej nie jest
+znany ze swojej szlachetności!</font>
+
+444
+00:24:43,880 --> 00:24:48,510
+<font face="Rosario SemiBold" size="82">Jeśli... kiedykolwiek coś by ci się stało,</font>
+
+445
+00:24:48,510 --> 00:24:52,350
+<font face="Rosario SemiBold" size="82">twoi rodzice nigdy by mi tego nie wybaczyli!</font>
+
+446
+00:24:53,390 --> 00:24:57,350
+<font face="Rosario SemiBold" size="82">Masz mi za złe to, co zrobiłem wcześniej?</font>
+
+447
+00:24:57,350 --> 00:24:59,730
+<font face="Rosario SemiBold" size="82">Nie, wcale nie!</font>
+
+448
+00:24:59,730 --> 00:25:02,610
+<font face="Rosario SemiBold" size="82">Też się cieszę, że ciebie mam, Klahadore!</font>
+
+449
+00:25:02,610 --> 00:25:04,270
+<font face="Rosario SemiBold" size="82">Ale proszę, nie zrozum mnie źle.</font>
+
+450
+00:25:05,110 --> 00:25:07,570
+<font face="Rosario SemiBold" size="82">Usopp jest bardzo miłą osobą.</font>
+
+451
+00:25:07,570 --> 00:25:10,860
+<font face="Rosario SemiBold" size="82">Tak czy inaczej, to, czy jest
+miły, czy nie, jest bez znaczenia!</font>
+
+452
+00:25:10,860 --> 00:25:12,490
+<font face="Rosario SemiBold" size="82">Klahadore!</font>
+
+453
+00:25:12,490 --> 00:25:14,200
+<font face="Rosario SemiBold" size="82">Ty młotku!</font>
+
+454
+00:25:14,200 --> 00:25:16,040
+<font face="Rosario SemiBold" size="82">Nazywaj mnie "młotkiem" ile tylko chcesz!</font>
+
+455
+00:25:20,290 --> 00:25:21,580
+<font face="Rosario SemiBold" size="82">Dokąd poszedł Luffy?</font>
+
+456
+00:25:22,080 --> 00:25:23,210
+<font face="Rosario SemiBold" size="82">Kto wie?</font>
+
+457
+00:25:23,210 --> 00:25:25,500
+<font face="Rosario SemiBold" size="82">Pewnie pobiegł za tym "kapitanem."</font>
+
+458
+00:25:26,090 --> 00:25:27,760
+<font face="Rosario SemiBold" size="82">Kapitan jest pewnie w miejscówce!</font>
+
+459
+00:25:27,760 --> 00:25:29,470
+<font face="Rosario SemiBold" size="82">Tak, na wybrzeżu!</font>
+
+460
+00:25:29,470 --> 00:25:32,590
+<font face="Rosario SemiBold" size="82">Zawsze tam idzie, gdy coś się stanie!</font>
+
+461
+00:25:32,590 --> 00:25:35,560
+<font face="Rosario SemiBold" size="82">Mniejsza z tym. Nie brakuje
+wam kogoś przypadkiem?</font>
+
+462
+00:25:35,560 --> 00:25:37,680
+<font face="Rosario SemiBold" size="82">– Tak, Cebuli!
+– Tak, Cebuli!</font>
+
+463
+00:25:37,680 --> 00:25:40,440
+<font face="Rosario SemiBold" size="82">On zawsze gdzieś ucieka!</font>
+
+464
+00:25:40,440 --> 00:25:43,770
+<font face="Rosario SemiBold" size="82">Dokładnie! A potem wraca cały przerażony!</font>
+
+465
+00:25:45,770 --> 00:25:47,230
+<font face="Rosario SemiBold" size="82">Jesteśmy zgubieni!</font>
+
+466
+00:25:47,230 --> 00:25:48,610
+<font face="Rosario SemiBold" size="82">A nie mówiłem?</font>
+
+467
+00:25:48,610 --> 00:25:51,070
+<font face="Rosario SemiBold" size="82">Facet chodzi tyłem!</font>
+
+468
+00:25:51,530 --> 00:25:54,030
+<font face="Rosario SemiBold" size="82">Dziwny facet chodzący
+tyłem idzie w tę stronę!</font>
+
+469
+00:25:54,030 --> 00:25:55,160
+<font face="Rosario SemiBold" size="82">– Kłamca!
+– Kłamca!</font>
+
+470
+00:25:55,160 --> 00:25:56,700
+<font face="Rosario SemiBold" size="82">Nie kłamię!</font>
+
+471
+00:25:56,700 --> 00:25:58,540
+<font face="Rosario SemiBold" size="82">Spójrzcie sami!</font>
+
+472
+00:26:07,550 --> 00:26:10,510
+<font face="Rosario SemiBold" size="82">Hej! Który to nazwał mnie dziwakiem?!</font>
+
+473
+00:26:10,550 --> 00:26:15,550
+<font face="Caslon" size="99"><b><font color="#000000">Jango
+Hipnotyzer</font></b></font>
+
+474
+00:26:10,550 --> 00:26:15,550
+<font face="Caslon" size="99"><b><font color="#faf9f9">Jango
+Hipnotyzer</font></b></font>
+
+475
+00:26:10,550 --> 00:26:15,550
+<font face="Caslon" size="99"><b><font color="#faf9f9">Jango
+Hipnotyzer</font></b></font>
+
+476
+00:26:13,760 --> 00:26:15,550
+<font face="Rosario SemiBold" size="82">Nie jestem dziwny.</font>
+
+477
+00:26:16,720 --> 00:26:18,770
+<font face="Rosario SemiBold" size="82">Jak dla mnie wyglądasz całkiem dziwnie.</font>
+
+478
+00:26:18,770 --> 00:26:20,100
+<font face="Rosario SemiBold" size="82">Nie bądź głupia!</font>
+
+479
+00:26:20,100 --> 00:26:22,480
+<font face="Rosario SemiBold" size="82">Jestem tylko zwykłym
+podróżującym hipnotyzerem!</font>
+
+480
+00:26:22,480 --> 00:26:25,110
+<font face="Rosario SemiBold" size="82">H-Hipnotyzerem?! Ale czad!</font>
+
+481
+00:26:25,110 --> 00:26:26,730
+<font face="Rosario SemiBold" size="82">Pokaż nam coś!</font>
+
+482
+00:26:26,730 --> 00:26:28,360
+<font face="Rosario SemiBold" size="82">Właśnie! Pokaż sztuczkę!</font>
+
+483
+00:26:28,980 --> 00:26:29,940
+<font face="Rosario SemiBold" size="82">Że co?!</font>
+
+484
+00:26:31,190 --> 00:26:33,200
+<font face="Rosario SemiBold" size="82">Nie wygłupiać się!</font>
+
+485
+00:26:33,200 --> 00:26:37,910
+<font face="Rosario SemiBold" size="82">Dlaczego miałbym wyjawić swoje
+sztuczki jakiejś obcej zgrai?!</font>
+
+486
+00:26:38,660 --> 00:26:40,910
+<font face="Rosario SemiBold" size="82">W porządku. Patrzcie uważnie na pierścień.</font>
+
+487
+00:26:40,910 --> 00:26:41,910
+<font face="Rosario SemiBold" size="82">To jednak wyjawisz...?!</font>
+
+488
+00:26:42,250 --> 00:26:45,670
+<font face="Rosario SemiBold" size="82">Zaśniecie, jak powiem "Raz, dwa, Jango."</font>
+
+489
+00:26:45,670 --> 00:26:46,880
+<font face="Rosario SemiBold" size="82">Dobra, zaczynamy!</font>
+
+490
+00:26:48,000 --> 00:26:49,000
+<font face="Rosario SemiBold" size="82">Raz...</font>
+
+491
+00:26:49,000 --> 00:26:50,130
+<font face="Rosario SemiBold" size="82">Dwa...</font>
+
+492
+00:26:50,130 --> 00:26:50,800
+<font face="Rosario SemiBold" size="82">Jango!</font>
+
+493
+00:26:54,680 --> 00:26:56,800
+<font face="Rosario SemiBold" size="82">Ej! Co jest z tym gościem nie tak?!</font>
+
+494
+00:27:01,560 --> 00:27:02,270
+<font face="Rosario SemiBold" size="82">Siema!</font>
+
+495
+00:27:03,230 --> 00:27:04,480
+<font face="Rosario SemiBold" size="82">Więc tu jesteś!</font>
+
+496
+00:27:04,480 --> 00:27:07,440
+<font face="Rosario SemiBold" size="82">To ty! Nie skradaj się tak, wiesz ty co!</font>
+
+497
+00:27:08,020 --> 00:27:10,360
+<font face="Rosario SemiBold" size="82">Co tu robisz? Czegoś potrzebujesz?</font>
+
+498
+00:27:10,360 --> 00:27:11,480
+<font face="Rosario SemiBold" size="82">Nie za bardzo.</font>
+
+499
+00:27:15,570 --> 00:27:17,410
+<font face="Rosario SemiBold" size="82">Aua...</font>
+
+500
+00:27:23,450 --> 00:27:25,330
+<font face="Rosario SemiBold" size="82">Ten głupi lokaj,</font>
+
+501
+00:27:25,330 --> 00:27:27,540
+<font face="Rosario SemiBold" size="82">tak po prostu obrażał mojego ojca!</font>
+
+502
+00:27:27,540 --> 00:27:30,170
+<font face="Rosario SemiBold" size="82">Tak, ja też go nie lubię!</font>
+
+503
+00:27:30,170 --> 00:27:33,090
+<font face="Rosario SemiBold" size="82">Nieważne co ludzie mówią,
+Yasopp jest świetnym piratem!</font>
+
+504
+00:27:33,460 --> 00:27:34,920
+<font face="Rosario SemiBold" size="82">Co nie?!</font>
+
+505
+00:27:35,300 --> 00:27:38,720
+<font face="Rosario SemiBold" size="82">W dzisiejszych czasach, w erze,
+w której aż roi się od piratów,</font>
+
+506
+00:27:38,720 --> 00:27:42,600
+<font face="Rosario SemiBold" size="82">jestem dumny z mojego ojczulka
+za ryzykowanie życiem na morzu!</font>
+
+507
+00:27:42,600 --> 00:27:46,190
+<font face="Rosario SemiBold" size="82">Mimo to ten drań zdeptał jego godność!</font>
+
+508
+00:27:46,190 --> 00:27:48,060
+<font face="Rosario SemiBold" size="82">Zapłaci za to!</font>
+
+509
+00:27:48,060 --> 00:27:51,070
+<font face="Rosario SemiBold" size="82">A więc nie będziesz już
+odwiedzał tej dziewczyny?</font>
+
+510
+00:27:52,150 --> 00:27:55,030
+<font face="Rosario SemiBold" size="82">C-Cóż, kto wie...</font>
+
+511
+00:27:55,030 --> 00:27:58,910
+<font face="Rosario SemiBold" size="82">Jeśli ten lokaj mnie przeprosi,
+to może bym to rozważył.</font>
+
+512
+00:27:58,910 --> 00:28:00,660
+<font face="Rosario SemiBold" size="82">Masz na myśli <i>tego</i> lokaja?</font>
+
+513
+00:28:00,660 --> 00:28:01,410
+<font face="Rosario SemiBold" size="82">Tak...</font>
+
+514
+00:28:01,740 --> 00:28:03,490
+<font face="Rosario SemiBold" size="82">Ten lokaj... Ten...</font>
+
+515
+00:28:03,490 --> 00:28:05,580
+<font face="Rosario SemiBold" size="82">Co <i>ten</i> lokaj tu robi?!</font>
+
+516
+00:28:05,580 --> 00:28:07,460
+<font face="Rosario SemiBold" size="82">E-Ej! Aua, aua!</font>
+
+517
+00:28:08,250 --> 00:28:09,500
+<font face="Rosario SemiBold" size="82">Hej, Jango.</font>
+
+518
+00:28:09,500 --> 00:28:13,000
+<font face="Rosario SemiBold" size="82">Mówiłem ci, żebyś nie
+zwracał na siebie uwagi.</font>
+
+519
+00:28:13,000 --> 00:28:15,300
+<font face="Rosario SemiBold" size="82">A ty drzemałeś sobie
+w biały dzień na środku wioski...</font>
+
+520
+00:28:15,300 --> 00:28:16,720
+<font face="Rosario SemiBold" size="82">Nie bądź głupi.</font>
+
+521
+00:28:16,720 --> 00:28:18,680
+<font face="Rosario SemiBold" size="82">Niczym nie zwracam uwagi.</font>
+
+522
+00:28:18,680 --> 00:28:20,010
+<font face="Rosario SemiBold" size="82">I nie jestem dziwny.</font>
+
+523
+00:28:20,390 --> 00:28:23,010
+<font face="Rosario SemiBold" size="82">Ktoś z nim jest tam jest. Jakiś dziwny koleś...</font>
+
+524
+00:28:23,010 --> 00:28:24,640
+<font face="Rosario SemiBold" size="82">Nigdy wcześniej go nie widziałem.</font>
+
+525
+00:28:24,640 --> 00:28:25,770
+<font face="Rosario SemiBold" size="82">Kto to jest?</font>
+
+526
+00:28:25,770 --> 00:28:29,980
+<font face="Rosario SemiBold" size="82">Zakładam więc, że wszystko jest
+gotowe do zrealizowania planu?</font>
+
+527
+00:28:29,980 --> 00:28:31,650
+<font face="Rosario SemiBold" size="82">Oczywiście.</font>
+
+528
+00:28:35,280 --> 00:28:37,490
+<font face="Rosario SemiBold" size="82">Jesteśmy gotowi w każdej chwili.</font>
+
+529
+00:28:37,860 --> 00:28:40,280
+<font face="Rosario SemiBold" size="82">Plan Zabójstwa Panienki!</font>
+
+530
+00:28:43,330 --> 00:28:47,160
+<font face="Rosario SemiBold" size="82">Z-Zabójstwa?!</font>
+

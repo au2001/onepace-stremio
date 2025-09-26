@@ -1,0 +1,4139 @@
+1
+00:00:00,000 --> 00:00:03,660
+<font face="Khalid Art bold" size="47"><font color="#000000">فريق</font></font>
+
+2
+00:00:00,000 --> 00:00:03,660
+<font face="Khalid Art bold" size="47">فريق</font>
+
+3
+00:00:00,000 --> 00:00:03,660
+<font face="Khalid Art bold" size="47">فريق</font>
+
+4
+00:00:00,000 --> 00:00:03,660
+<font face="FOT-Greco Std DB Strp" size="39"><font color="#000000">One Pace</font></font>
+
+5
+00:00:00,000 --> 00:00:03,660
+<font face="FOT-Greco Std DB Strp" size="39">One Pace</font>
+
+6
+00:00:00,000 --> 00:00:03,660
+<font face="FOT-Greco Std DB Strp" size="39">One Pace</font>
+
+7
+00:00:00,520 --> 00:00:00,820
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
+
+8
+00:00:00,550 --> 00:00:00,820
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
+
+9
+00:00:00,580 --> 00:00:01,120
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">こ</font></font>
+
+10
+00:00:00,610 --> 00:00:01,290
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">の</font></font>
+
+11
+00:00:00,640 --> 00:00:01,360
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">世</font></font>
+
+12
+00:00:00,640 --> 00:00:01,360
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">せ</font></font>
+
+13
+00:00:00,670 --> 00:00:01,600
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">界</font></font>
+
+14
+00:00:00,670 --> 00:00:01,600
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">か</font></font>
+
+15
+00:00:00,670 --> 00:00:01,790
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">い</font></font>
+
+16
+00:00:00,700 --> 00:00:02,120
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">の</font></font>
+
+17
+00:00:00,730 --> 00:00:02,310
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">果</font></font>
+
+18
+00:00:00,730 --> 00:00:02,310
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">は</font></font>
+
+19
+00:00:00,760 --> 00:00:02,660
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">て</font></font>
+
+20
+00:00:00,790 --> 00:00:02,980
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">な</font></font>
+
+21
+00:00:00,820 --> 00:00:06,820
+<font face="Dubai Medium" size="60" color="#4e5998"><b>لم يسبق لي أن رأيتُ نهاية العالم بأُم عيني</b></font>
+
+22
+00:00:00,820 --> 00:00:03,310
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">ん</font></font>
+
+23
+00:00:00,850 --> 00:00:03,430
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">て</font></font>
+
+24
+00:00:01,120 --> 00:00:01,590
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">こ</font></font>
+
+25
+00:00:01,290 --> 00:00:01,660
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">の</font></font>
+
+26
+00:00:01,360 --> 00:00:01,900
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">世</font></font>
+
+27
+00:00:01,360 --> 00:00:01,900
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">せ</font></font>
+
+28
+00:00:01,600 --> 00:00:02,090
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">界</font></font>
+
+29
+00:00:01,600 --> 00:00:02,090
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">か</font></font>
+
+30
+00:00:01,790 --> 00:00:02,420
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">界</font></font>
+
+31
+00:00:01,790 --> 00:00:02,420
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">い</font></font>
+
+32
+00:00:02,120 --> 00:00:02,610
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">の</font></font>
+
+33
+00:00:02,310 --> 00:00:02,960
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">果</font></font>
+
+34
+00:00:02,310 --> 00:00:02,960
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">は</font></font>
+
+35
+00:00:02,660 --> 00:00:03,280
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">て</font></font>
+
+36
+00:00:02,980 --> 00:00:03,610
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">な</font></font>
+
+37
+00:00:03,310 --> 00:00:03,730
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">ん</font></font>
+
+38
+00:00:03,340 --> 00:00:03,640
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
+
+39
+00:00:03,370 --> 00:00:03,640
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
+
+40
+00:00:03,400 --> 00:00:03,750
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">こ</font></font>
+
+41
+00:00:03,430 --> 00:00:03,970
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">て</font></font>
+
+42
+00:00:03,430 --> 00:00:03,920
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">の</font></font>
+
+43
+00:00:03,460 --> 00:00:04,110
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">目</font></font>
+
+44
+00:00:03,460 --> 00:00:04,110
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">め</font></font>
+
+45
+00:00:03,490 --> 00:00:04,270
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">で</font></font>
+
+46
+00:00:03,520 --> 00:00:04,400
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">見</font></font>
+
+47
+00:00:03,520 --> 00:00:04,400
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">み</font></font>
+
+48
+00:00:03,550 --> 00:00:04,780
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">た</font></font>
+
+49
+00:00:03,580 --> 00:00:04,970
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">わ</font></font>
+
+50
+00:00:03,610 --> 00:00:05,310
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">け</font></font>
+
+51
+00:00:03,640 --> 00:00:05,590
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">じゃ</font></font>
+
+52
+00:00:03,670 --> 00:00:05,920
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">な</font></font>
+
+53
+00:00:03,700 --> 00:00:06,250
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">い</font></font>
+
+54
+00:00:03,750 --> 00:00:04,220
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">こ</font></font>
+
+55
+00:00:03,920 --> 00:00:04,410
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">の</font></font>
+
+56
+00:00:04,110 --> 00:00:04,570
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">目</font></font>
+
+57
+00:00:04,110 --> 00:00:04,570
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">め</font></font>
+
+58
+00:00:04,270 --> 00:00:04,700
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">で</font></font>
+
+59
+00:00:04,400 --> 00:00:05,080
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">見</font></font>
+
+60
+00:00:04,400 --> 00:00:05,080
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">み</font></font>
+
+61
+00:00:04,780 --> 00:00:05,270
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">た</font></font>
+
+62
+00:00:04,970 --> 00:00:05,610
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">わ</font></font>
+
+63
+00:00:05,310 --> 00:00:05,890
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">け</font></font>
+
+64
+00:00:05,590 --> 00:00:06,220
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">じゃ</font></font>
+
+65
+00:00:05,920 --> 00:00:06,550
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">な</font></font>
+
+66
+00:00:06,250 --> 00:00:07,120
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">い</font></font>
+
+67
+00:00:06,520 --> 00:00:06,820
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
+
+68
+00:00:06,550 --> 00:00:06,820
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
+
+69
+00:00:06,580 --> 00:00:07,120
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">だ</font></font>
+
+70
+00:00:06,610 --> 00:00:07,260
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">か</font></font>
+
+71
+00:00:06,640 --> 00:00:07,440
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">ら</font></font>
+
+72
+00:00:06,670 --> 00:00:07,610
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">旅</font></font>
+
+73
+00:00:06,670 --> 00:00:07,610
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">た</font></font>
+
+74
+00:00:06,670 --> 00:00:07,780
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">び</font></font>
+
+75
+00:00:06,700 --> 00:00:08,090
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">立</font></font>
+
+76
+00:00:06,700 --> 00:00:08,090
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">だ</font></font>
+
+77
+00:00:06,710 --> 00:00:09,380
+<font face="Khalid Art bold" size="47"><font color="#000000">مونتاج</font></font>
+
+78
+00:00:06,710 --> 00:00:09,380
+<font face="Khalid Art bold" size="47">مونتاج</font>
+
+79
+00:00:06,710 --> 00:00:09,380
+<font face="FOT-Greco Std DB Strp" size="39"><font color="#000000">Feeso 
+Galaxy 9000</font></font>
+
+80
+00:00:06,710 --> 00:00:09,380
+<font face="FOT-Greco Std DB Strp" size="39">Feeso 
+Galaxy 9000</font>
+
+81
+00:00:06,710 --> 00:00:09,380
+<font face="FOT-Greco Std DB Strp" size="39">Feeso 
+Galaxy 9000</font>
+
+82
+00:00:06,730 --> 00:00:08,290
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">つ</font></font>
+
+83
+00:00:06,760 --> 00:00:08,600
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">ん</font></font>
+
+84
+00:00:06,790 --> 00:00:08,970
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">だ</font></font>
+
+85
+00:00:06,820 --> 00:00:13,950
+<font face="Dubai Medium" size="60" color="#4e5998"><b>لهذا أبدأ معكُم رِحلة، يُمكننا فِعل هذا</b></font>
+
+86
+00:00:06,820 --> 00:00:09,400
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
+
+87
+00:00:06,850 --> 00:00:09,730
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">君</font></font>
+
+88
+00:00:06,850 --> 00:00:09,730
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">き</font></font>
+
+89
+00:00:06,850 --> 00:00:10,080
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">み</font></font>
+
+90
+00:00:06,880 --> 00:00:10,430
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">と</font></font>
+
+91
+00:00:06,910 --> 00:00:11,730
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">ウィー</font></font>
+
+92
+00:00:06,940 --> 00:00:13,030
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">キャン！</font></font>
+
+93
+00:00:07,120 --> 00:00:07,560
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">だ</font></font>
+
+94
+00:00:07,260 --> 00:00:07,740
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">か</font></font>
+
+95
+00:00:07,440 --> 00:00:07,910
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">ら</font></font>
+
+96
+00:00:07,610 --> 00:00:08,080
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">旅</font></font>
+
+97
+00:00:07,610 --> 00:00:08,080
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">た</font></font>
+
+98
+00:00:07,780 --> 00:00:08,390
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">旅</font></font>
+
+99
+00:00:07,780 --> 00:00:08,390
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">び</font></font>
+
+100
+00:00:08,090 --> 00:00:08,590
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">立</font></font>
+
+101
+00:00:08,090 --> 00:00:08,590
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">だ</font></font>
+
+102
+00:00:08,290 --> 00:00:08,900
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">つ</font></font>
+
+103
+00:00:08,600 --> 00:00:09,270
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">ん</font></font>
+
+104
+00:00:08,970 --> 00:00:09,700
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">だ</font></font>
+
+105
+00:00:09,730 --> 00:00:10,380
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">君</font></font>
+
+106
+00:00:09,730 --> 00:00:10,380
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">き</font></font>
+
+107
+00:00:10,080 --> 00:00:10,730
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">君</font></font>
+
+108
+00:00:10,080 --> 00:00:10,730
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">み</font></font>
+
+109
+00:00:10,430 --> 00:00:12,030
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">と</font></font>
+
+110
+00:00:11,730 --> 00:00:13,330
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">ウィー</font></font>
+
+111
+00:00:13,030 --> 00:00:14,250
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">キャン！</font></font>
+
+112
+00:00:23,370 --> 00:00:23,670
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
+
+113
+00:00:23,400 --> 00:00:23,670
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
+
+114
+00:00:23,430 --> 00:00:24,060
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">海</font></font>
+
+115
+00:00:23,430 --> 00:00:24,060
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">う</font></font>
+
+116
+00:00:23,430 --> 00:00:24,210
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">み</font></font>
+
+117
+00:00:23,460 --> 00:00:24,420
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">か</font></font>
+
+118
+00:00:23,490 --> 00:00:24,620
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">ら</font></font>
+
+119
+00:00:23,520 --> 00:00:24,970
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">海</font></font>
+
+120
+00:00:23,520 --> 00:00:24,970
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">う</font></font>
+
+121
+00:00:23,520 --> 00:00:25,260
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">み</font></font>
+
+122
+00:00:23,550 --> 00:00:25,420
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">を</font></font>
+
+123
+00:00:23,580 --> 00:00:25,540
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">股</font></font>
+
+124
+00:00:23,580 --> 00:00:25,540
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">ま</font></font>
+
+125
+00:00:23,580 --> 00:00:25,660
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">た</font></font>
+
+126
+00:00:23,610 --> 00:00:25,930
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">に</font></font>
+
+127
+00:00:23,640 --> 00:00:26,080
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">か</font></font>
+
+128
+00:00:23,670 --> 00:00:27,000
+<font face="Dubai Medium" size="60" color="#4e5998"><b>نُبحر من بحر إلى بحر</b></font>
+
+129
+00:00:23,670 --> 00:00:26,260
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">け</font></font>
+
+130
+00:00:23,700 --> 00:00:26,420
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">て</font></font>
+
+131
+00:00:24,060 --> 00:00:24,510
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">海</font></font>
+
+132
+00:00:24,060 --> 00:00:24,510
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">う</font></font>
+
+133
+00:00:24,210 --> 00:00:24,720
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">海</font></font>
+
+134
+00:00:24,210 --> 00:00:24,720
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">み</font></font>
+
+135
+00:00:24,420 --> 00:00:24,920
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">か</font></font>
+
+136
+00:00:24,620 --> 00:00:25,270
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">ら</font></font>
+
+137
+00:00:24,970 --> 00:00:25,560
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">海</font></font>
+
+138
+00:00:24,970 --> 00:00:25,560
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">う</font></font>
+
+139
+00:00:25,260 --> 00:00:25,720
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">海</font></font>
+
+140
+00:00:25,260 --> 00:00:25,720
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">み</font></font>
+
+141
+00:00:25,420 --> 00:00:25,840
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">を</font></font>
+
+142
+00:00:25,540 --> 00:00:25,960
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">股</font></font>
+
+143
+00:00:25,540 --> 00:00:25,960
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">ま</font></font>
+
+144
+00:00:25,660 --> 00:00:26,230
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">股</font></font>
+
+145
+00:00:25,660 --> 00:00:26,230
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">た</font></font>
+
+146
+00:00:25,930 --> 00:00:26,380
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">に</font></font>
+
+147
+00:00:26,080 --> 00:00:26,560
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">か</font></font>
+
+148
+00:00:26,260 --> 00:00:26,720
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">け</font></font>
+
+149
+00:00:26,420 --> 00:00:27,300
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">て</font></font>
+
+150
+00:00:28,760 --> 00:00:29,060
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
+
+151
+00:00:28,790 --> 00:00:29,060
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
+
+152
+00:00:28,820 --> 00:00:29,510
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">誰</font></font>
+
+153
+00:00:28,820 --> 00:00:29,510
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">だ</font></font>
+
+154
+00:00:28,820 --> 00:00:29,690
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">れ</font></font>
+
+155
+00:00:28,850 --> 00:00:29,840
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">も</font></font>
+
+156
+00:00:28,880 --> 00:00:30,010
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">が</font></font>
+
+157
+00:00:28,910 --> 00:00:30,360
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">笑</font></font>
+
+158
+00:00:28,910 --> 00:00:30,360
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">わ</font></font>
+
+159
+00:00:28,910 --> 00:00:30,700
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">ら</font></font>
+
+160
+00:00:28,940 --> 00:00:30,850
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">っ</font></font>
+
+161
+00:00:28,970 --> 00:00:31,030
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">て</font></font>
+
+162
+00:00:29,000 --> 00:00:31,170
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">い</font></font>
+
+163
+00:00:29,030 --> 00:00:31,360
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">る</font></font>
+
+164
+00:00:29,060 --> 00:00:31,850
+<font face="Dubai Medium" size="60" color="#4e5998"><b>ذلك مُجرد خيال</b></font>
+
+165
+00:00:29,060 --> 00:00:31,520
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">け</font></font>
+
+166
+00:00:29,090 --> 00:00:31,700
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">ど</font></font>
+
+167
+00:00:29,510 --> 00:00:29,990
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">誰</font></font>
+
+168
+00:00:29,510 --> 00:00:29,990
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">だ</font></font>
+
+169
+00:00:29,690 --> 00:00:30,140
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">誰</font></font>
+
+170
+00:00:29,690 --> 00:00:30,140
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">れ</font></font>
+
+171
+00:00:29,840 --> 00:00:30,310
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">も</font></font>
+
+172
+00:00:30,010 --> 00:00:30,660
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">が</font></font>
+
+173
+00:00:30,360 --> 00:00:31,000
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">笑</font></font>
+
+174
+00:00:30,360 --> 00:00:31,000
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">わ</font></font>
+
+175
+00:00:30,700 --> 00:00:31,150
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">笑</font></font>
+
+176
+00:00:30,700 --> 00:00:31,150
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">ら</font></font>
+
+177
+00:00:30,850 --> 00:00:31,330
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">っ</font></font>
+
+178
+00:00:31,030 --> 00:00:31,470
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">て</font></font>
+
+179
+00:00:31,170 --> 00:00:31,660
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">い</font></font>
+
+180
+00:00:31,360 --> 00:00:31,820
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">る</font></font>
+
+181
+00:00:31,520 --> 00:00:32,000
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">け</font></font>
+
+182
+00:00:31,620 --> 00:00:31,920
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
+
+183
+00:00:31,650 --> 00:00:31,920
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
+
+184
+00:00:31,680 --> 00:00:32,180
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">想</font></font>
+
+185
+00:00:31,680 --> 00:00:32,180
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">そう</font></font>
+
+186
+00:00:31,700 --> 00:00:32,210
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">ど</font></font>
+
+187
+00:00:31,710 --> 00:00:32,540
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">像</font></font>
+
+188
+00:00:31,710 --> 00:00:32,540
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">ぞ</font></font>
+
+189
+00:00:31,710 --> 00:00:32,730
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">う</font></font>
+
+190
+00:00:31,740 --> 00:00:32,990
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">つ</font></font>
+
+191
+00:00:31,770 --> 00:00:33,390
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">か</font></font>
+
+192
+00:00:31,800 --> 00:00:33,730
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">な</font></font>
+
+193
+00:00:31,830 --> 00:00:34,100
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">い</font></font>
+
+194
+00:00:31,850 --> 00:00:38,780
+<font face="Dubai Medium" size="60" color="#4e5998"><b>الاندفاع الحماسي بوصلتُنا الوحيدة</b></font>
+
+195
+00:00:31,860 --> 00:00:34,400
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">真</font></font>
+
+196
+00:00:31,860 --> 00:00:34,400
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">こ</font></font>
+
+197
+00:00:31,890 --> 00:00:34,580
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">実</font></font>
+
+198
+00:00:31,890 --> 00:00:34,580
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">と</font></font>
+
+199
+00:00:31,920 --> 00:00:34,950
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
+
+200
+00:00:31,950 --> 00:00:35,920
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">ば</font></font>
+
+201
+00:00:31,980 --> 00:00:36,210
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">か</font></font>
+
+202
+00:00:32,010 --> 00:00:36,580
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">り</font></font>
+
+203
+00:00:32,040 --> 00:00:36,900
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">だ</font></font>
+
+204
+00:00:32,070 --> 00:00:37,230
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">ろ</font></font>
+
+205
+00:00:32,180 --> 00:00:32,840
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">想</font></font>
+
+206
+00:00:32,180 --> 00:00:32,840
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">そう</font></font>
+
+207
+00:00:32,200 --> 00:00:35,560
+<font face="Khalid Art bold" size="47"><font color="#000000">ضبط الجودة</font></font>
+
+208
+00:00:32,200 --> 00:00:35,560
+<font face="Khalid Art bold" size="47">ضبط الجودة</font>
+
+209
+00:00:32,200 --> 00:00:35,560
+<font face="FOT-Greco Std DB Strp" size="39"><font color="#000000">Rocks D،Xebec
+Zenef</font></font>
+
+210
+00:00:32,200 --> 00:00:35,560
+<font face="FOT-Greco Std DB Strp" size="39">Rocks D،Xebec
+Zenef</font>
+
+211
+00:00:32,200 --> 00:00:35,560
+<font face="FOT-Greco Std DB Strp" size="39">Rocks D،Xebec
+Zenef</font>
+
+212
+00:00:32,540 --> 00:00:33,030
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">像</font></font>
+
+213
+00:00:32,540 --> 00:00:33,030
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">ぞ</font></font>
+
+214
+00:00:32,730 --> 00:00:33,290
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">像</font></font>
+
+215
+00:00:32,730 --> 00:00:33,290
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">う</font></font>
+
+216
+00:00:32,990 --> 00:00:33,690
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">つ</font></font>
+
+217
+00:00:33,390 --> 00:00:34,030
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">か</font></font>
+
+218
+00:00:33,730 --> 00:00:34,400
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">な</font></font>
+
+219
+00:00:34,100 --> 00:00:34,700
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">い</font></font>
+
+220
+00:00:34,400 --> 00:00:34,880
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">真</font></font>
+
+221
+00:00:34,400 --> 00:00:34,880
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">こ</font></font>
+
+222
+00:00:34,580 --> 00:00:35,250
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">実</font></font>
+
+223
+00:00:34,580 --> 00:00:35,250
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">と</font></font>
+
+224
+00:00:35,560 --> 00:00:39,820
+<font face="Khalid Art bold" size="47"><font color="#000000">الصوت</font></font>
+
+225
+00:00:35,560 --> 00:00:39,820
+<font face="Khalid Art bold" size="47">الصوت</font>
+
+226
+00:00:35,560 --> 00:00:39,820
+<font face="Khalid Art bold" size="47">الصوت</font>
+
+227
+00:00:35,560 --> 00:00:39,820
+<font face="FOT-Greco Std DB Strp" size="39"><font color="#000000">Halee</font></font>
+
+228
+00:00:35,560 --> 00:00:39,820
+<font face="FOT-Greco Std DB Strp" size="39">Halee</font>
+
+229
+00:00:35,560 --> 00:00:39,820
+<font face="FOT-Greco Std DB Strp" size="39">Halee</font>
+
+230
+00:00:35,920 --> 00:00:36,510
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">ば</font></font>
+
+231
+00:00:36,210 --> 00:00:36,880
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">か</font></font>
+
+232
+00:00:36,580 --> 00:00:37,200
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">り</font></font>
+
+233
+00:00:36,900 --> 00:00:37,530
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">だ</font></font>
+
+234
+00:00:37,230 --> 00:00:39,080
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">ろ</font></font>
+
+235
+00:00:39,640 --> 00:00:39,940
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
+
+236
+00:00:39,670 --> 00:00:39,940
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
+
+237
+00:00:39,700 --> 00:00:40,230
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">見</font></font>
+
+238
+00:00:39,700 --> 00:00:40,230
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">み</font></font>
+
+239
+00:00:39,730 --> 00:00:40,350
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">て</font></font>
+
+240
+00:00:39,760 --> 00:00:40,560
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">見</font></font>
+
+241
+00:00:39,760 --> 00:00:40,560
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">み</font></font>
+
+242
+00:00:39,790 --> 00:00:40,750
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">ぬ</font></font>
+
+243
+00:00:39,820 --> 00:00:42,870
+<font face="Khalid Art bold" size="47"><font color="#000000">مزامنة الترجمة</font></font>
+
+244
+00:00:39,820 --> 00:00:42,870
+<font face="Khalid Art bold" size="47">مزامنة الترجمة</font>
+
+245
+00:00:39,820 --> 00:00:42,870
+<font face="FOT-Greco Std DB Strp" size="39"><font color="#000000">Halee/Qasim</font></font>
+
+246
+00:00:39,820 --> 00:00:42,870
+<font face="FOT-Greco Std DB Strp" size="39">Halee/Qasim</font>
+
+247
+00:00:39,820 --> 00:00:42,870
+<font face="FOT-Greco Std DB Strp" size="39">Halee/Qasim</font>
+
+248
+00:00:39,820 --> 00:00:40,950
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">振</font></font>
+
+249
+00:00:39,820 --> 00:00:40,950
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">ふ</font></font>
+
+250
+00:00:39,850 --> 00:00:41,410
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">り</font></font>
+
+251
+00:00:39,880 --> 00:00:41,590
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">す</font></font>
+
+252
+00:00:39,910 --> 00:00:42,080
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">る</font></font>
+
+253
+00:00:39,940 --> 00:00:43,560
+<font face="Dubai Medium" size="60" color="#4e5998"><b>يكفيك التظاهر بمعرفة كل شيء</b></font>
+
+254
+00:00:39,940 --> 00:00:42,420
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">な</font></font>
+
+255
+00:00:39,970 --> 00:00:42,580
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">よ</font></font>
+
+256
+00:00:40,230 --> 00:00:40,650
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">見</font></font>
+
+257
+00:00:40,230 --> 00:00:40,650
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">み</font></font>
+
+258
+00:00:40,350 --> 00:00:40,860
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">て</font></font>
+
+259
+00:00:40,560 --> 00:00:41,050
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">見</font></font>
+
+260
+00:00:40,560 --> 00:00:41,050
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">み</font></font>
+
+261
+00:00:40,750 --> 00:00:41,250
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">ぬ</font></font>
+
+262
+00:00:40,950 --> 00:00:41,710
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">振</font></font>
+
+263
+00:00:40,950 --> 00:00:41,710
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">ふ</font></font>
+
+264
+00:00:41,410 --> 00:00:41,890
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">り</font></font>
+
+265
+00:00:41,590 --> 00:00:42,380
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">す</font></font>
+
+266
+00:00:42,080 --> 00:00:42,720
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">る</font></font>
+
+267
+00:00:42,420 --> 00:00:42,880
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">な</font></font>
+
+268
+00:00:42,580 --> 00:00:43,860
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">よ</font></font>
+
+269
+00:00:42,870 --> 00:00:45,140
+<font face="Khalid Art bold" size="47"><font color="#000000">كاريوكي</font></font>
+
+270
+00:00:42,870 --> 00:00:45,140
+<font face="Khalid Art bold" size="47">كاريوكي</font>
+
+271
+00:00:42,870 --> 00:00:45,140
+<font face="FOT-Greco Std DB Strp" size="39"><font color="#000000">KaitouYahiko</font></font>
+
+272
+00:00:42,870 --> 00:00:45,140
+<font face="FOT-Greco Std DB Strp" size="39">KaitouYahiko</font>
+
+273
+00:00:42,870 --> 00:00:45,140
+<font face="FOT-Greco Std DB Strp" size="39">KaitouYahiko</font>
+
+274
+00:00:43,260 --> 00:00:43,560
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
+
+275
+00:00:43,290 --> 00:00:43,560
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
+
+276
+00:00:43,320 --> 00:00:43,810
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">常</font></font>
+
+277
+00:00:43,320 --> 00:00:43,810
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">じょ</font></font>
+
+278
+00:00:43,320 --> 00:00:44,240
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">う</font></font>
+
+279
+00:00:43,350 --> 00:00:44,450
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">識</font></font>
+
+280
+00:00:43,350 --> 00:00:44,450
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">し</font></font>
+
+281
+00:00:43,350 --> 00:00:44,860
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">き</font></font>
+
+282
+00:00:43,380 --> 00:00:45,230
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">な</font></font>
+
+283
+00:00:43,410 --> 00:00:46,160
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">ん</font></font>
+
+284
+00:00:43,440 --> 00:00:46,390
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">て</font></font>
+
+285
+00:00:43,470 --> 00:00:46,500
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">さ</font></font>
+
+286
+00:00:43,500 --> 00:00:47,570
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">多</font></font>
+
+287
+00:00:43,500 --> 00:00:47,570
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">た</font></font>
+
+288
+00:00:43,530 --> 00:00:47,780
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">数</font></font>
+
+289
+00:00:43,530 --> 00:00:47,780
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">す</font></font>
+
+290
+00:00:43,530 --> 00:00:48,890
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">う</font></font>
+
+291
+00:00:43,560 --> 00:00:50,040
+<font face="Dubai Medium" size="60" color="#4e5998"><b>الكتب المدرسية ليست سوى كُتيباتٍ إرشادية</b></font>
+
+292
+00:00:43,560 --> 00:00:49,040
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">決</font></font>
+
+293
+00:00:43,560 --> 00:00:49,040
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">け</font></font>
+
+294
+00:00:43,560 --> 00:00:49,230
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">つ</font></font>
+
+295
+00:00:43,810 --> 00:00:44,540
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">常</font></font>
+
+296
+00:00:43,810 --> 00:00:44,540
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">じょ</font></font>
+
+297
+00:00:44,240 --> 00:00:44,750
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">常</font></font>
+
+298
+00:00:44,240 --> 00:00:44,750
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">う</font></font>
+
+299
+00:00:44,450 --> 00:00:45,160
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">識</font></font>
+
+300
+00:00:44,450 --> 00:00:45,160
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">し</font></font>
+
+301
+00:00:44,860 --> 00:00:45,530
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">識</font></font>
+
+302
+00:00:44,860 --> 00:00:45,530
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">き</font></font>
+
+303
+00:00:45,140 --> 00:00:47,640
+<font face="Khalid Art bold" size="47"><font color="#000000">جرافيك</font></font>
+
+304
+00:00:45,140 --> 00:00:47,640
+<font face="Khalid Art bold" size="47">جرافيك</font>
+
+305
+00:00:45,140 --> 00:00:47,640
+<font face="FOT-Greco Std DB Strp" size="39"><font color="#000000">Datenshi</font></font>
+
+306
+00:00:45,140 --> 00:00:47,640
+<font face="FOT-Greco Std DB Strp" size="39">Datenshi</font>
+
+307
+00:00:45,140 --> 00:00:47,640
+<font face="FOT-Greco Std DB Strp" size="39">Datenshi</font>
+
+308
+00:00:45,230 --> 00:00:46,460
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">な</font></font>
+
+309
+00:00:46,160 --> 00:00:46,690
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">ん</font></font>
+
+310
+00:00:46,390 --> 00:00:46,800
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">て</font></font>
+
+311
+00:00:46,500 --> 00:00:47,870
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">さ</font></font>
+
+312
+00:00:47,570 --> 00:00:48,080
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">多</font></font>
+
+313
+00:00:47,570 --> 00:00:48,080
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">た</font></font>
+
+314
+00:00:47,720 --> 00:00:50,350
+<font face="Khalid Art bold" size="47"><font color="#000000">التدقيق اللغوي</font></font>
+
+315
+00:00:47,720 --> 00:00:50,350
+<font face="Khalid Art bold" size="47">التدقيق اللغوي</font>
+
+316
+00:00:47,720 --> 00:00:50,350
+<font face="FOT-Greco Std DB Strp" size="39"><font color="#000000">Rocks D، Xebec</font></font>
+
+317
+00:00:47,720 --> 00:00:50,350
+<font face="FOT-Greco Std DB Strp" size="39">Rocks D، Xebec</font>
+
+318
+00:00:47,720 --> 00:00:50,350
+<font face="FOT-Greco Std DB Strp" size="39">Rocks D، Xebec</font>
+
+319
+00:00:47,780 --> 00:00:49,190
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">数</font></font>
+
+320
+00:00:47,780 --> 00:00:49,190
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">す</font></font>
+
+321
+00:00:48,890 --> 00:00:49,340
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">数</font></font>
+
+322
+00:00:48,890 --> 00:00:49,340
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">う</font></font>
+
+323
+00:00:49,040 --> 00:00:49,530
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">決</font></font>
+
+324
+00:00:49,040 --> 00:00:49,530
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">け</font></font>
+
+325
+00:00:49,230 --> 00:00:50,340
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">決</font></font>
+
+326
+00:00:49,230 --> 00:00:50,340
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">つ</font></font>
+
+327
+00:00:51,060 --> 00:00:51,360
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
+
+328
+00:00:51,090 --> 00:00:51,360
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
+
+329
+00:00:51,120 --> 00:00:51,540
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">こ</font></font>
+
+330
+00:00:51,150 --> 00:00:51,740
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">の</font></font>
+
+331
+00:00:51,180 --> 00:00:51,830
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">世</font></font>
+
+332
+00:00:51,180 --> 00:00:51,830
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">せ</font></font>
+
+333
+00:00:51,210 --> 00:00:52,050
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">界</font></font>
+
+334
+00:00:51,210 --> 00:00:52,050
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">か</font></font>
+
+335
+00:00:51,210 --> 00:00:52,220
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">い</font></font>
+
+336
+00:00:51,240 --> 00:00:52,530
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">の</font></font>
+
+337
+00:00:51,270 --> 00:00:52,700
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">果</font></font>
+
+338
+00:00:51,270 --> 00:00:52,700
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">は</font></font>
+
+339
+00:00:51,300 --> 00:00:53,090
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">て</font></font>
+
+340
+00:00:51,330 --> 00:00:53,420
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">な</font></font>
+
+341
+00:00:51,360 --> 00:00:57,410
+<font face="Dubai Medium" size="60" color="#4e5998"><b>لم يسبق لي أن رأيتُ نهاية العالم بأُم عيني</b></font>
+
+342
+00:00:51,360 --> 00:00:53,680
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">ん</font></font>
+
+343
+00:00:51,390 --> 00:00:53,850
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">て</font></font>
+
+344
+00:00:51,540 --> 00:00:52,040
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">こ</font></font>
+
+345
+00:00:51,740 --> 00:00:52,130
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">の</font></font>
+
+346
+00:00:51,830 --> 00:00:52,350
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">世</font></font>
+
+347
+00:00:51,830 --> 00:00:52,350
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">せ</font></font>
+
+348
+00:00:52,050 --> 00:00:52,520
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">界</font></font>
+
+349
+00:00:52,050 --> 00:00:52,520
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">か</font></font>
+
+350
+00:00:52,220 --> 00:00:52,830
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">界</font></font>
+
+351
+00:00:52,220 --> 00:00:52,830
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">い</font></font>
+
+352
+00:00:52,530 --> 00:00:53,000
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">の</font></font>
+
+353
+00:00:52,700 --> 00:00:53,390
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">果</font></font>
+
+354
+00:00:52,700 --> 00:00:53,390
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">は</font></font>
+
+355
+00:00:53,090 --> 00:00:53,720
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">て</font></font>
+
+356
+00:00:53,420 --> 00:00:53,980
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">な</font></font>
+
+357
+00:00:53,680 --> 00:00:54,150
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">ん</font></font>
+
+358
+00:00:53,770 --> 00:00:54,070
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
+
+359
+00:00:53,800 --> 00:00:54,070
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
+
+360
+00:00:53,830 --> 00:00:54,210
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">こ</font></font>
+
+361
+00:00:53,850 --> 00:00:54,380
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">て</font></font>
+
+362
+00:00:53,860 --> 00:00:54,380
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">の</font></font>
+
+363
+00:00:53,890 --> 00:00:54,570
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">目</font></font>
+
+364
+00:00:53,890 --> 00:00:54,570
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">め</font></font>
+
+365
+00:00:53,920 --> 00:00:54,710
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">で</font></font>
+
+366
+00:00:53,950 --> 00:00:54,870
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">見</font></font>
+
+367
+00:00:53,950 --> 00:00:54,870
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">み</font></font>
+
+368
+00:00:53,980 --> 00:00:55,190
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">た</font></font>
+
+369
+00:00:54,010 --> 00:00:55,410
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">わ</font></font>
+
+370
+00:00:54,040 --> 00:00:55,690
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">け</font></font>
+
+371
+00:00:54,070 --> 00:00:56,040
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">じゃ</font></font>
+
+372
+00:00:54,100 --> 00:00:56,380
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">な</font></font>
+
+373
+00:00:54,130 --> 00:00:56,720
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">い</font></font>
+
+374
+00:00:54,210 --> 00:00:54,680
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">こ</font></font>
+
+375
+00:00:54,380 --> 00:00:54,870
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">の</font></font>
+
+376
+00:00:54,570 --> 00:00:55,010
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">目</font></font>
+
+377
+00:00:54,570 --> 00:00:55,010
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">め</font></font>
+
+378
+00:00:54,710 --> 00:00:55,170
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">で</font></font>
+
+379
+00:00:54,870 --> 00:00:55,490
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">見</font></font>
+
+380
+00:00:54,870 --> 00:00:55,490
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">み</font></font>
+
+381
+00:00:55,190 --> 00:00:55,710
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">た</font></font>
+
+382
+00:00:55,410 --> 00:00:55,990
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">わ</font></font>
+
+383
+00:00:55,690 --> 00:00:56,340
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">け</font></font>
+
+384
+00:00:56,040 --> 00:00:56,680
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">じゃ</font></font>
+
+385
+00:00:56,380 --> 00:00:57,020
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">な</font></font>
+
+386
+00:00:56,720 --> 00:00:57,710
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">い</font></font>
+
+387
+00:00:57,110 --> 00:00:57,410
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
+
+388
+00:00:57,140 --> 00:00:57,410
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
+
+389
+00:00:57,170 --> 00:00:57,550
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">だ</font></font>
+
+390
+00:00:57,200 --> 00:00:57,700
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">か</font></font>
+
+391
+00:00:57,230 --> 00:00:57,880
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">ら</font></font>
+
+392
+00:00:57,260 --> 00:00:58,080
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">行</font></font>
+
+393
+00:00:57,260 --> 00:00:58,080
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">い</font></font>
+
+394
+00:00:57,290 --> 00:00:58,220
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">こ</font></font>
+
+395
+00:00:57,320 --> 00:00:58,710
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">う</font></font>
+
+396
+00:00:57,350 --> 00:00:58,860
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">ぜ</font></font>
+
+397
+00:00:57,380 --> 00:00:59,230
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
+
+398
+00:00:57,410 --> 00:01:01,960
+<font face="Dubai Medium" size="60" color="#4e5998"><b>لهذا يجب علينا الذهاب، القائد يعيش حسب قوانينهُ الخاصة</b></font>
+
+399
+00:00:57,410 --> 00:00:59,560
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">ア</font></font>
+
+400
+00:00:57,440 --> 00:00:59,870
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">マ</font></font>
+
+401
+00:00:57,470 --> 00:01:00,210
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">ノ</font></font>
+
+402
+00:00:57,500 --> 00:01:00,510
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">ジャ</font></font>
+
+403
+00:00:57,530 --> 00:01:00,850
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">ッ</font></font>
+
+404
+00:00:57,550 --> 00:00:58,000
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">だ</font></font>
+
+405
+00:00:57,560 --> 00:01:01,130
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">ク</font></font>
+
+406
+00:00:57,590 --> 00:01:01,290
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">船</font></font>
+
+407
+00:00:57,590 --> 00:01:01,290
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">せん</font></font>
+
+408
+00:00:57,620 --> 00:01:01,680
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">長</font></font>
+
+409
+00:00:57,620 --> 00:01:01,680
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">ちょう</font></font>
+
+410
+00:00:57,700 --> 00:00:58,180
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">か</font></font>
+
+411
+00:00:57,880 --> 00:00:58,380
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">ら</font></font>
+
+412
+00:00:58,080 --> 00:00:58,520
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">行</font></font>
+
+413
+00:00:58,080 --> 00:00:58,520
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">い</font></font>
+
+414
+00:00:58,220 --> 00:00:59,010
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">こ</font></font>
+
+415
+00:00:58,710 --> 00:00:59,160
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">う</font></font>
+
+416
+00:00:58,860 --> 00:00:59,530
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">ぜ</font></font>
+
+417
+00:00:59,560 --> 00:01:00,170
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">ア</font></font>
+
+418
+00:00:59,870 --> 00:01:00,510
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">マ</font></font>
+
+419
+00:01:00,210 --> 00:01:00,810
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">ノ</font></font>
+
+420
+00:01:00,510 --> 00:01:01,150
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">ジャ</font></font>
+
+421
+00:01:00,850 --> 00:01:01,430
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">ッ</font></font>
+
+422
+00:01:01,130 --> 00:01:01,590
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">ク</font></font>
+
+423
+00:01:01,290 --> 00:01:01,980
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">船</font></font>
+
+424
+00:01:01,290 --> 00:01:01,980
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">せん</font></font>
+
+425
+00:01:01,660 --> 00:01:01,960
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
+
+426
+00:01:01,680 --> 00:01:02,260
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">長</font></font>
+
+427
+00:01:01,680 --> 00:01:02,260
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">ちょう</font></font>
+
+428
+00:01:01,690 --> 00:01:01,960
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
+
+429
+00:01:01,720 --> 00:01:02,230
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">出</font></font>
+
+430
+00:01:01,720 --> 00:01:02,230
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">で</font></font>
+
+431
+00:01:01,750 --> 00:01:02,360
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">来</font></font>
+
+432
+00:01:01,750 --> 00:01:02,360
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">き</font></font>
+
+433
+00:01:01,780 --> 00:01:02,520
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">や</font></font>
+
+434
+00:01:01,810 --> 00:01:02,620
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">し</font></font>
+
+435
+00:01:01,840 --> 00:01:02,880
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">な</font></font>
+
+436
+00:01:01,870 --> 00:01:03,170
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">い</font></font>
+
+437
+00:01:01,900 --> 00:01:03,380
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">こ</font></font>
+
+438
+00:01:01,930 --> 00:01:03,730
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">と</font></font>
+
+439
+00:01:01,960 --> 00:01:04,720
+<font face="Dubai Medium" size="60" color="#4e5998"><b>من يقول بأن الأمر مستحيل؟</b></font>
+
+440
+00:01:01,960 --> 00:01:04,040
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">って</font></font>
+
+441
+00:01:01,990 --> 00:01:04,390
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">何</font></font>
+
+442
+00:01:01,990 --> 00:01:04,390
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">な</font></font>
+
+443
+00:01:01,990 --> 00:01:04,540
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">に</font></font>
+
+444
+00:01:02,020 --> 00:01:04,720
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">？</font></font>
+
+445
+00:01:02,230 --> 00:01:02,660
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">出</font></font>
+
+446
+00:01:02,230 --> 00:01:02,660
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">で</font></font>
+
+447
+00:01:02,360 --> 00:01:02,820
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">来</font></font>
+
+448
+00:01:02,360 --> 00:01:02,820
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">き</font></font>
+
+449
+00:01:02,520 --> 00:01:02,920
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">や</font></font>
+
+450
+00:01:02,620 --> 00:01:03,180
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">し</font></font>
+
+451
+00:01:02,880 --> 00:01:03,470
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">な</font></font>
+
+452
+00:01:03,170 --> 00:01:03,680
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">い</font></font>
+
+453
+00:01:03,380 --> 00:01:04,030
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">こ</font></font>
+
+454
+00:01:03,730 --> 00:01:04,340
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">と</font></font>
+
+455
+00:01:04,040 --> 00:01:04,690
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">って</font></font>
+
+456
+00:01:04,390 --> 00:01:04,840
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">何</font></font>
+
+457
+00:01:04,390 --> 00:01:04,840
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">な</font></font>
+
+458
+00:01:04,410 --> 00:01:04,710
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
+
+459
+00:01:04,440 --> 00:01:04,710
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
+
+460
+00:01:04,470 --> 00:01:04,860
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">ま</font></font>
+
+461
+00:01:04,500 --> 00:01:05,020
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">だ</font></font>
+
+462
+00:01:04,530 --> 00:01:05,210
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">何</font></font>
+
+463
+00:01:04,530 --> 00:01:05,210
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">な</font></font>
+
+464
+00:01:04,530 --> 00:01:05,370
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">に</font></font>
+
+465
+00:01:04,540 --> 00:01:05,020
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">何</font></font>
+
+466
+00:01:04,540 --> 00:01:05,020
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">に</font></font>
+
+467
+00:01:04,560 --> 00:01:05,530
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">も</font></font>
+
+468
+00:01:04,590 --> 00:01:05,870
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">始</font></font>
+
+469
+00:01:04,590 --> 00:01:05,870
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">は</font></font>
+
+470
+00:01:04,590 --> 00:01:05,990
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">じ</font></font>
+
+471
+00:01:04,620 --> 00:01:06,320
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">ま</font></font>
+
+472
+00:01:04,650 --> 00:01:06,690
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">って</font></font>
+
+473
+00:01:04,680 --> 00:01:07,010
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">な</font></font>
+
+474
+00:01:04,710 --> 00:01:07,750
+<font face="Dubai Medium" size="60" color="#4e5998"><b>لم يبدأ شيءٌ بعد</b></font>
+
+475
+00:01:04,710 --> 00:01:07,340
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">い</font></font>
+
+476
+00:01:04,860 --> 00:01:05,320
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">ま</font></font>
+
+477
+00:01:05,020 --> 00:01:05,510
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">だ</font></font>
+
+478
+00:01:05,210 --> 00:01:05,670
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">何</font></font>
+
+479
+00:01:05,210 --> 00:01:05,670
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">な</font></font>
+
+480
+00:01:05,370 --> 00:01:05,830
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">何</font></font>
+
+481
+00:01:05,370 --> 00:01:05,830
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">に</font></font>
+
+482
+00:01:05,530 --> 00:01:06,170
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">も</font></font>
+
+483
+00:01:05,870 --> 00:01:06,290
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">始</font></font>
+
+484
+00:01:05,870 --> 00:01:06,290
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">は</font></font>
+
+485
+00:01:05,990 --> 00:01:06,620
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">始</font></font>
+
+486
+00:01:05,990 --> 00:01:06,620
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">じ</font></font>
+
+487
+00:01:06,320 --> 00:01:06,990
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">ま</font></font>
+
+488
+00:01:06,690 --> 00:01:07,310
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">って</font></font>
+
+489
+00:01:07,010 --> 00:01:07,640
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">な</font></font>
+
+490
+00:01:07,340 --> 00:01:08,190
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">い</font></font>
+
+491
+00:01:07,580 --> 00:01:07,880
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
+
+492
+00:01:07,610 --> 00:01:07,880
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
+
+493
+00:01:07,640 --> 00:01:08,150
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">す</font></font>
+
+494
+00:01:07,670 --> 00:01:08,380
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">べ</font></font>
+
+495
+00:01:07,700 --> 00:01:08,510
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">て</font></font>
+
+496
+00:01:07,730 --> 00:01:08,620
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">知</font></font>
+
+497
+00:01:07,730 --> 00:01:08,620
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">し</font></font>
+
+498
+00:01:07,750 --> 00:01:12,720
+<font face="Dubai Medium" size="60" color="#4e5998"><b>أرغب بمعرفة كلّ شيء الآن، نعم نستطيع</b></font>
+
+499
+00:01:07,760 --> 00:01:08,910
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">り</font></font>
+
+500
+00:01:07,790 --> 00:01:09,200
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">た</font></font>
+
+501
+00:01:07,820 --> 00:01:09,390
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">い</font></font>
+
+502
+00:01:07,850 --> 00:01:09,700
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">ん</font></font>
+
+503
+00:01:07,880 --> 00:01:10,010
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">だ</font></font>
+
+504
+00:01:07,910 --> 00:01:10,410
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
+
+505
+00:01:07,940 --> 00:01:10,870
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">今</font></font>
+
+506
+00:01:07,940 --> 00:01:10,870
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">い</font></font>
+
+507
+00:01:07,940 --> 00:01:11,200
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">ま</font></font>
+
+508
+00:01:07,970 --> 00:01:11,490
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">イエス・</font></font>
+
+509
+00:01:08,000 --> 00:01:12,040
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">ウィー</font></font>
+
+510
+00:01:08,030 --> 00:01:12,330
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">キャン！</font></font>
+
+511
+00:01:08,150 --> 00:01:08,680
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">す</font></font>
+
+512
+00:01:08,380 --> 00:01:08,810
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">べ</font></font>
+
+513
+00:01:08,510 --> 00:01:08,920
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">て</font></font>
+
+514
+00:01:08,620 --> 00:01:09,210
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">知</font></font>
+
+515
+00:01:08,620 --> 00:01:09,210
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">し</font></font>
+
+516
+00:01:08,910 --> 00:01:09,500
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">り</font></font>
+
+517
+00:01:09,200 --> 00:01:09,690
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">た</font></font>
+
+518
+00:01:09,390 --> 00:01:10,000
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">い</font></font>
+
+519
+00:01:09,700 --> 00:01:10,310
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">ん</font></font>
+
+520
+00:01:10,010 --> 00:01:10,710
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">だ</font></font>
+
+521
+00:01:10,870 --> 00:01:11,500
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">今</font></font>
+
+522
+00:01:10,870 --> 00:01:11,500
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">い</font></font>
+
+523
+00:01:11,200 --> 00:01:11,790
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">今</font></font>
+
+524
+00:01:11,200 --> 00:01:11,790
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">ま</font></font>
+
+525
+00:01:11,490 --> 00:01:12,340
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">イエス・</font></font>
+
+526
+00:01:12,040 --> 00:01:12,630
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">ウィー</font></font>
+
+527
+00:01:12,330 --> 00:01:13,020
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">キャン！</font></font>
+
+528
+00:01:12,420 --> 00:01:12,720
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
+
+529
+00:01:12,450 --> 00:01:12,720
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
+
+530
+00:01:12,480 --> 00:01:12,770
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">イエス</font></font>
+
+531
+00:01:12,510 --> 00:01:13,510
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">・</font></font>
+
+532
+00:01:12,540 --> 00:01:13,920
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">ウィー</font></font>
+
+533
+00:01:12,570 --> 00:01:14,180
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">キャン！</font></font>
+
+534
+00:01:12,600 --> 00:01:14,620
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
+
+535
+00:01:12,630 --> 00:01:15,190
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">ユー・</font></font>
+
+536
+00:01:12,660 --> 00:01:15,550
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">キャン！</font></font>
+
+537
+00:01:12,690 --> 00:01:16,210
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">こ</font></font>
+
+538
+00:01:12,720 --> 00:01:18,680
+<font face="Dubai Medium" size="60" color="#4e5998"><b>نعم، نستطيع، تستطيع</b></font>
+
+539
+00:01:12,720 --> 00:01:16,870
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">の</font></font>
+
+540
+00:01:12,750 --> 00:01:17,110
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">瞬</font></font>
+
+541
+00:01:12,750 --> 00:01:17,110
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">しゅ</font></font>
+
+542
+00:01:12,750 --> 00:01:17,520
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">ん</font></font>
+
+543
+00:01:12,770 --> 00:01:13,810
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">イエス</font></font>
+
+544
+00:01:12,780 --> 00:01:17,860
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">間</font></font>
+
+545
+00:01:12,780 --> 00:01:17,860
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">か</font></font>
+
+546
+00:01:12,780 --> 00:01:18,160
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">ん</font></font>
+
+547
+00:01:13,510 --> 00:01:14,220
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">・</font></font>
+
+548
+00:01:13,920 --> 00:01:14,480
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">ウィー</font></font>
+
+549
+00:01:14,180 --> 00:01:14,920
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">キャン！</font></font>
+
+550
+00:01:15,190 --> 00:01:15,850
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">ユー・</font></font>
+
+551
+00:01:15,550 --> 00:01:16,510
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">キャン！</font></font>
+
+552
+00:01:16,210 --> 00:01:17,170
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">こ</font></font>
+
+553
+00:01:16,870 --> 00:01:17,410
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">の</font></font>
+
+554
+00:01:17,110 --> 00:01:17,820
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">瞬</font></font>
+
+555
+00:01:17,110 --> 00:01:17,820
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">しゅ</font></font>
+
+556
+00:01:17,520 --> 00:01:18,160
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">瞬</font></font>
+
+557
+00:01:17,520 --> 00:01:18,160
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">ん</font></font>
+
+558
+00:01:17,860 --> 00:01:18,460
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">間</font></font>
+
+559
+00:01:17,860 --> 00:01:18,460
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">か</font></font>
+
+560
+00:01:18,160 --> 00:01:18,980
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">間</font></font>
+
+561
+00:01:18,160 --> 00:01:18,980
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">ん</font></font>
+
+562
+00:01:18,760 --> 00:01:19,060
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
+
+563
+00:01:18,790 --> 00:01:19,060
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
+
+564
+00:01:18,820 --> 00:01:19,200
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">ウィー</font></font>
+
+565
+00:01:18,850 --> 00:01:19,510
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">キャン！</font></font>
+
+566
+00:01:18,880 --> 00:01:19,940
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
+
+567
+00:01:18,910 --> 00:01:20,530
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">アイ</font></font>
+
+568
+00:01:18,940 --> 00:01:20,880
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">キャン！</font></font>
+
+569
+00:01:18,970 --> 00:01:21,500
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">こ</font></font>
+
+570
+00:01:19,000 --> 00:01:22,190
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">の</font></font>
+
+571
+00:01:19,030 --> 00:01:22,490
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">快</font></font>
+
+572
+00:01:19,030 --> 00:01:22,490
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">か</font></font>
+
+573
+00:01:19,030 --> 00:01:22,850
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">い</font></font>
+
+574
+00:01:19,060 --> 00:01:24,100
+<font face="Dubai Medium" size="60" color="#4e5998"><b>نستطيع أستطيع هذا الشعور الرائع</b></font>
+
+575
+00:01:19,060 --> 00:01:23,160
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">感</font></font>
+
+576
+00:01:19,060 --> 00:01:23,160
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">か</font></font>
+
+577
+00:01:19,060 --> 00:01:23,510
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">ん</font></font>
+
+578
+00:01:19,200 --> 00:01:19,810
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">ウィー</font></font>
+
+579
+00:01:19,510 --> 00:01:20,240
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">キャン！</font></font>
+
+580
+00:01:20,530 --> 00:01:21,180
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">アイ</font></font>
+
+581
+00:01:20,880 --> 00:01:21,800
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">キャン！</font></font>
+
+582
+00:01:21,500 --> 00:01:22,490
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">こ</font></font>
+
+583
+00:01:22,190 --> 00:01:22,790
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">の</font></font>
+
+584
+00:01:22,490 --> 00:01:23,150
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">快</font></font>
+
+585
+00:01:22,490 --> 00:01:23,150
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">か</font></font>
+
+586
+00:01:22,850 --> 00:01:23,460
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">快</font></font>
+
+587
+00:01:22,850 --> 00:01:23,460
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">い</font></font>
+
+588
+00:01:23,160 --> 00:01:23,810
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">感</font></font>
+
+589
+00:01:23,160 --> 00:01:23,810
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">か</font></font>
+
+590
+00:01:23,510 --> 00:01:24,400
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">感</font></font>
+
+591
+00:01:23,510 --> 00:01:24,400
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">ん</font></font>
+
+592
+00:01:24,090 --> 00:01:24,390
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
+
+593
+00:01:24,120 --> 00:01:24,390
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
+
+594
+00:01:24,150 --> 00:01:24,540
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">今</font></font>
+
+595
+00:01:24,150 --> 00:01:24,540
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">い</font></font>
+
+596
+00:01:24,150 --> 00:01:24,860
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">ま</font></font>
+
+597
+00:01:24,180 --> 00:01:25,340
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
+
+598
+00:01:24,210 --> 00:01:25,870
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">今</font></font>
+
+599
+00:01:24,210 --> 00:01:25,870
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">い</font></font>
+
+600
+00:01:24,210 --> 00:01:26,210
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">ま</font></font>
+
+601
+00:01:24,240 --> 00:01:26,870
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
+
+602
+00:01:24,270 --> 00:01:26,870
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">オー・</font></font>
+
+603
+00:01:24,300 --> 00:01:27,470
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">イエス・</font></font>
+
+604
+00:01:24,330 --> 00:01:28,870
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">ウィー</font></font>
+
+605
+00:01:24,360 --> 00:01:30,160
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">キャン！</font></font>
+
+606
+00:01:24,390 --> 00:01:31,320
+<font face="Dubai Medium" size="60" color="#4e5998"><b>الآن، الآن، نعم، نستطيع</b></font>
+
+607
+00:01:24,540 --> 00:01:25,160
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">今</font></font>
+
+608
+00:01:24,540 --> 00:01:25,160
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">い</font></font>
+
+609
+00:01:24,860 --> 00:01:25,640
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">今</font></font>
+
+610
+00:01:24,860 --> 00:01:25,640
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">ま</font></font>
+
+611
+00:01:25,870 --> 00:01:26,510
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">今</font></font>
+
+612
+00:01:25,870 --> 00:01:26,510
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">い</font></font>
+
+613
+00:01:26,210 --> 00:01:27,170
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">今</font></font>
+
+614
+00:01:26,210 --> 00:01:27,170
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">ま</font></font>
+
+615
+00:01:26,490 --> 00:01:28,580
+<font face="FOT-Greco Std DB Strp" size="39"></font>
+
+616
+00:01:26,870 --> 00:01:27,770
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">オー・</font></font>
+
+617
+00:01:27,470 --> 00:01:29,170
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">イエス・</font></font>
+
+618
+00:01:28,870 --> 00:01:30,460
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">ウィー</font></font>
+
+619
+00:01:30,130 --> 00:01:32,750
+<font face="FOT-Greco Std DB Strp" size="39"></font>
+
+620
+00:01:30,160 --> 00:01:31,620
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">キャン！</font></font>
+
+621
+00:01:32,900 --> 00:01:37,390
+<font face="Khalid Art bold" size="47"><font color="#000000">ترجمة</font></font>
+
+622
+00:01:32,900 --> 00:01:37,390
+<font face="Khalid Art bold" size="47">ترجمة</font>
+
+623
+00:01:32,900 --> 00:01:37,390
+<font face="Khalid Art bold" size="47">ترجمة</font>
+
+624
+00:01:32,900 --> 00:01:37,390
+<font face="FOT-Greco Std DB Strp" size="39"><font color="#000000">Al-Phantom\Ibfinity</font></font>
+
+625
+00:01:32,900 --> 00:01:37,390
+<font face="FOT-Greco Std DB Strp" size="39">Al-Phantom\Ibfinity</font>
+
+626
+00:01:32,900 --> 00:01:37,390
+<font face="FOT-Greco Std DB Strp" size="39">Al-Phantom\Ibfinity</font>
+
+627
+00:01:37,040 --> 00:01:37,340
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
+
+628
+00:01:37,070 --> 00:01:37,340
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
+
+629
+00:01:37,100 --> 00:01:37,410
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">イエス・</font></font>
+
+630
+00:01:37,130 --> 00:01:37,760
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">ウィー</font></font>
+
+631
+00:01:37,160 --> 00:01:37,890
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">キャン！</font></font>
+
+632
+00:01:37,340 --> 00:01:38,640
+<font face="Dubai Medium" size="60" color="#4e5998"><b>نعم، نستطيع</b></font>
+
+633
+00:01:37,410 --> 00:01:38,060
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">イエス・</font></font>
+
+634
+00:01:37,760 --> 00:01:38,190
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">ウィー</font></font>
+
+635
+00:01:37,890 --> 00:01:38,940
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">キャン！</font></font>
+
+636
+00:01:38,640 --> 00:01:40,640
+<font face="Duality" size="55" color="#4e5998"></font>
+
+637
+00:01:42,680 --> 00:01:47,850
+<font face="Al-Jazeera-Arabic-Bold" size="51" color="#fffce7"><b>بعد اختفاء مُرشدهم بيكومز، غادر فريق لوفي جزيرة الكاكاو</b></font>
+
+638
+00:01:47,850 --> 00:01:51,080
+<font face="Al-Jazeera-Arabic-Bold" size="51" color="#fffce7"><b>و هو يتبع حاليًّا إرشادات بودينغ إلى جزيرة الهول كيك</b></font>
+
+639
+00:01:49,420 --> 00:01:54,340
+<font face="Bahij TheSansArabic SemiBold" size="180" color="#e7e7e7"><b><font color="#000000"><font size="110">القراصنة «الإمبراطورة»، شارلوت لينلين</font></font></b></font>
+
+640
+00:01:49,420 --> 00:01:54,340
+<font face="Bahij TheSansArabic SemiBold" size="180" color="#e7e7e7"><b><font size="110">القراصنة «الإمبراطورة»، شارلوت لينلين</font></b></font>
+
+641
+00:01:51,080 --> 00:01:53,740
+<font face="Al-Jazeera-Arabic-Bold" size="51" color="#fffce7"><b>حيث توجد اليونكو بيغ مام</b></font>
+
+642
+00:01:57,130 --> 00:02:00,660
+<font face="Bahij Nassim" size="75"><b>أشعر بالقلق على بيكومز، يجب أن نبحث عنه</b></font>
+
+643
+00:02:00,660 --> 00:02:03,480
+<font face="Bahij Nassim" size="75"><b>ممتنٌ لعرضك لكن سيكون هذا صعبًا</b></font>
+
+644
+00:02:03,480 --> 00:02:05,680
+<font face="Bahij Nassim" size="75"><b>إنه قوي فلا تقلق عليه</b></font>
+
+645
+00:02:06,140 --> 00:02:07,480
+<font face="Bahij Nassim" size="75"><b>...نعم، ولكن</b></font>
+
+646
+00:02:07,480 --> 00:02:11,190
+<font face="Bahij Nassim" size="75"><b>على أيّة حال، علينا التواري عن أنظار العدوّ</b></font>
+
+647
+00:02:11,190 --> 00:02:13,070
+<font face="Bahij Nassim" size="75"><b>حتى نصل إلى جزيرة الهول كيك</b></font>
+
+648
+00:02:13,070 --> 00:02:15,480
+<font face="Bahij Nassim" size="75"><b>أين نحن الآن؟</b></font>
+
+649
+00:02:18,820 --> 00:02:22,780
+<font face="Bahij Nassim" size="75"><b>لم نبتعد عن جزيرة الكاكاو بعد</b></font>
+
+650
+00:02:26,500 --> 00:02:28,620
+<font face="Bahij Nassim" size="75"><b>أمامنا جزيرة</b></font>
+
+651
+00:02:29,630 --> 00:02:32,840
+<font face="Bahij Nassim" size="75"><b>مرحى، لا يسعني الانتظار لأرى ما لديهم من حلويات</b></font>
+
+652
+00:02:32,840 --> 00:02:36,050
+<font face="Bahij Nassim" size="75"><b>لا شك من رائحته وحده أنه شيء حلو المذاق</b></font>
+
+653
+00:02:36,050 --> 00:02:39,380
+<font face="Bahij Nassim" size="75"><b>التّالية على الأرجح بلدةٌ مَصنوعةٌ من المُربّى</b></font>
+
+654
+00:02:39,380 --> 00:02:41,080
+<font face="Bahij Nassim" size="75"><b>مُربّى؟</b></font>
+
+655
+00:02:41,080 --> 00:02:42,690
+<font face="Bahij Nassim" size="75"><b>لَن نتوَقّف هناك مع ذلك</b></font>
+
+656
+00:02:44,020 --> 00:02:46,100
+<font face="Bahij Nassim" size="75"><b>هُنا، انظروا</b></font>
+
+657
+00:02:46,100 --> 00:02:47,820
+<font face="Bahij Nassim" size="75"><b>عندما نرى جزيرة المُربّى</b></font>
+
+658
+00:02:47,820 --> 00:02:51,350
+<font face="Bahij Nassim" size="75"><b>سنلتف باتّجاه اللّوغ بوس 2 دون أن نقترب منها</b></font>
+
+659
+00:02:51,350 --> 00:02:54,720
+<font face="Bahij Nassim" size="75"><b>لكنّها حُلوَة يا نامي</b></font>
+
+660
+00:02:54,720 --> 00:02:58,190
+<font face="Bahij Nassim" size="75"><b>ألَن نذهب إلى الجزيرة مع أنها حُلوة؟</b></font>
+
+661
+00:02:58,490 --> 00:02:59,700
+<font face="Bahij Nassim" size="75"><b>...لنَر</b></font>
+
+662
+00:03:00,400 --> 00:03:01,960
+<font face="Bahij Nassim" size="75"><b>من هُناك</b></font>
+
+663
+00:03:01,960 --> 00:03:03,370
+<font face="Bahij Nassim" size="75"><b>حسنًا</b></font>
+
+664
+00:03:04,870 --> 00:03:08,260
+<font face="Bahij Nassim" size="75"><b>لوفي، إلى المَيمنة باتّجاه الساعة الثالثة</b></font>
+
+665
+00:03:06,770 --> 00:03:11,160
+<font face="Hacen Digital Arabia LT" size="45">قصدها عقرب الساعة الثالثة</font>
+
+666
+00:03:08,260 --> 00:03:12,430
+<font face="Bahij Nassim" size="75"><b>هذا صحيح يا تشوبر وكاروت، سنذهب باتّجاه سانجي</b></font>
+
+667
+00:03:11,160 --> 00:03:14,050
+<font face="Hacen Digital Arabia LT" size="45">سانجي نفس نطق (الساعة الثالثة)</font>
+
+668
+00:03:12,430 --> 00:03:14,050
+<font face="Bahij Nassim" size="75"><b>لكنّها حُلوَة</b></font>
+
+669
+00:03:14,450 --> 00:03:18,270
+<font face="Bahij Nassim" size="75"><b>سنذهب لأخذ سانجي، إلى أقصى المَيمنة</b></font>
+
+670
+00:03:18,270 --> 00:03:19,550
+<font face="Bahij Nassim" size="75"><b>هذا كثير</b></font>
+
+671
+00:03:19,550 --> 00:03:21,890
+<font face="Bahij Nassim" size="75"><b>أنتَ سيّءٌ في هذا يا لوفي-سان</b></font>
+
+672
+00:03:21,890 --> 00:03:23,770
+<font face="Bahij Nassim" size="75"><b>أنتَ أيضًا يا بروك</b></font>
+
+673
+00:03:23,770 --> 00:03:26,570
+<font face="Bahij Nassim" size="75"><b>...لكنّها حُلوَة</b></font>
+
+674
+00:03:26,570 --> 00:03:30,940
+<font face="Bahij Nassim" size="75"><b>ولو التففنا نحو الجزيرة التّالية قبل الاقتراب كثيرًا من الأخرى</b></font>
+
+675
+00:03:30,940 --> 00:03:34,480
+<font face="Bahij Nassim" size="75"><b>يُمكننا تفادي شبكة مُراقبتهم، كما قالت</b></font>
+
+676
+00:03:34,480 --> 00:03:38,410
+<font face="Bahij Nassim" size="75"><b>فهمت، هكذا تُقرأ الخريطة إذًا</b></font>
+
+677
+00:03:38,410 --> 00:03:39,700
+<font face="Bahij Nassim" size="75"><b>هل يُمكنكَ فعل هذا؟</b></font>
+
+678
+00:03:39,700 --> 00:03:40,870
+<font face="Bahij Nassim" size="75"><b>اعتمدي عليّ</b></font>
+
+679
+00:03:40,870 --> 00:03:44,130
+<font face="Bahij Nassim" size="75"><b>لوفي-سان، سأستلِم الدفّة الآن</b></font>
+
+680
+00:03:44,130 --> 00:03:45,160
+<font face="Bahij Nassim" size="75"><b>حسنًا</b></font>
+
+681
+00:03:45,160 --> 00:03:48,120
+<font face="Bahij Nassim" size="75"><b>حسنًا يا رفاق، سأعد لكم بعض الطعام</b></font>
+
+682
+00:03:48,120 --> 00:03:48,810
+<font face="Bahij Nassim" size="75"><b></b></font>
+
+683
+00:03:49,340 --> 00:03:51,210
+<font face="Bahij Nassim" size="75"><b>يجب عليّ أن أطهو</b></font>
+
+684
+00:03:51,210 --> 00:03:52,170
+<font face="Bahij Nassim" size="75"><b>أرجوكِ افعلي</b></font>
+
+685
+00:03:52,170 --> 00:03:54,500
+<font face="Bahij Nassim" size="75"><b>انتظر لحظة يا لوفي</b></font>
+
+686
+00:03:54,500 --> 00:03:56,540
+<font face="Bahij Nassim" size="75"><b>ماذا تُريدين يا نامي؟ سأطهو</b></font>
+
+687
+00:03:56,540 --> 00:03:57,340
+<font face="Bahij Nassim" size="75"><b>كلّا</b></font>
+
+688
+00:03:57,780 --> 00:03:59,920
+<font face="Bahij Nassim" size="75"><b>لَن أُفسد الطعام هذه المرّة</b></font>
+
+689
+00:03:59,920 --> 00:04:04,390
+<font face="Bahij Nassim" size="75"><b>أنا من سأطهو، إيّاكَ أن تدخل المَطبخ ثانيةً</b></font>
+
+690
+00:04:04,390 --> 00:04:06,310
+<font face="Bahij Nassim" size="75"><b>لَن أدفع لكِ شيئًا</b></font>
+
+691
+00:04:06,310 --> 00:04:07,480
+<font face="Bahij Nassim" size="75"><b>لا أحتاج نُقودك</b></font>
+
+692
+00:04:11,860 --> 00:04:15,820
+<font face="Bahij Nassim" size="75"><b>دعني أراقب بدلًا عنك يا بيدرو، أريد أن أساعد</b></font>
+
+693
+00:04:15,820 --> 00:04:16,860
+<font face="Bahij Nassim" size="75"><b>حسنًا</b></font>
+
+694
+00:04:20,350 --> 00:04:21,650
+<font face="Bahij Nassim" size="75"><b>...لنَر</b></font>
+
+695
+00:04:23,360 --> 00:04:26,250
+<font face="Bahij Nassim" size="75"><b>انظروا، الماء بلون العِنَب</b></font>
+
+696
+00:04:27,500 --> 00:04:29,330
+<font face="Bahij Nassim" size="75"><b>عِنَب؟</b></font>
+
+697
+00:04:29,330 --> 00:04:32,120
+<font face="Bahij Nassim" size="75"><b>هناك جزيرةٌ تسكب العصير في هذه المنطقة</b></font>
+
+698
+00:04:32,120 --> 00:04:33,300
+<font face="Bahij Nassim" size="75"><b>لَن يُؤذينا هذا</b></font>
+
+699
+00:04:33,300 --> 00:04:36,230
+<font face="Bahij Nassim" size="75"><b>ماذا؟ هل ذلك عصير؟</b></font>
+
+700
+00:04:36,230 --> 00:04:38,170
+<font face="Bahij Nassim" size="75"><b>هذا المكان جنّةٌ بالفِعل</b></font>
+
+701
+00:04:38,860 --> 00:04:41,920
+<font face="Bahij Nassim" size="75"><b>بيدرو، كيف تعرف الكثير عن هذه المنطقة؟</b></font>
+
+702
+00:04:45,180 --> 00:04:47,140
+<font face="Bahij Nassim" size="75"><b>أتيتُ إلى هنا سابقًا</b></font>
+
+703
+00:04:47,140 --> 00:04:48,180
+<font face="Bahij Nassim" size="75"><b>ماذا؟</b></font>
+
+704
+00:04:54,490 --> 00:04:56,380
+<font face="Bahij Nassim" size="75"><b>إنّه عملاق</b></font>
+
+705
+00:04:57,650 --> 00:05:00,800
+<font face="Bahij Nassim" size="75"><b>مذهل، إنّه ضخم</b></font>
+
+706
+00:05:01,330 --> 00:05:05,280
+<font face="Bahij Nassim" size="75"><b>حريش بَحريٍّ عملاق، إنهم يعيشون في هذه المنطقة</b></font>
+
+707
+00:05:06,570 --> 00:05:09,810
+<font face="Bahij Nassim" size="75"><b>كلاّ، الحريش  البَحريّ العملاق، ابتعد</b></font>
+
+708
+00:05:09,810 --> 00:05:11,290
+<font face="Bahij Nassim" size="75"><b>سنُؤكَل</b></font>
+
+709
+00:05:11,290 --> 00:05:13,200
+<font face="Bahij Nassim" size="75"><b>لوفي، هذه مُهمّتك</b></font>
+
+710
+00:05:13,630 --> 00:05:14,830
+<font face="Bahij Nassim" size="75"><b>حسنًا</b></font>
+
+711
+00:05:17,840 --> 00:05:20,630
+<font face="Bahij Nassim" size="75"><b>سأبذل قدر استطاعتي</b></font>
+
+712
+00:05:26,930 --> 00:05:28,790
+<font face="Bahij Nassim" size="75"><b>ها هو ذا قادم</b></font>
+
+713
+00:05:28,790 --> 00:05:31,720
+<font face="K Farnaz" size="59"><b>غومو غومو نو</b></font>
+
+714
+00:05:28,790 --> 00:05:31,720
+<font face="K Farnaz" size="59"><b>غومو غومو نو</b></font>
+
+715
+00:05:31,720 --> 00:05:34,030
+<font face="K Farnaz" size="59"><b>غاتلينغ</b></font>
+
+716
+00:05:31,720 --> 00:05:34,030
+<font face="K Farnaz" size="59"><b>غاتلينغ</b></font>
+
+717
+00:05:48,810 --> 00:05:51,700
+<font face="Al-Jazeera-Arabic-Bold" size="51" color="#fffce7"><b>...خلال ذلك الوَقت، في جزيرة الهول كيك</b></font>
+
+718
+00:05:50,120 --> 00:05:54,620
+<font face="Al-Jazeera-Arabic-Bold" size="50">جزيرة الهول كيك</font>
+
+719
+00:05:51,700 --> 00:05:54,620
+<font face="Bahij Nassim" size="75"><b>كروكامبوشو</b></font>
+
+720
+00:05:57,820 --> 00:06:01,100
+<font face="Bahij Nassim" size="75"><b>ماما، توقفي يا ماما</b></font>
+
+721
+00:06:06,800 --> 00:06:09,280
+<font face="Bahij Nassim" size="75"><b>ماما... ماما، أرجوكِ توَقّفي</b></font>
+
+722
+00:06:09,280 --> 00:06:10,480
+<font face="Bahij Nassim" size="75"><b>ابتعدوا</b></font>
+
+723
+00:06:11,050 --> 00:06:13,720
+<font face="Bahij Nassim" size="75"><b>كروكامبوشو</b></font>
+
+724
+00:06:14,560 --> 00:06:18,040
+<font face="Bahij Nassim" size="75"><b>مصيبة، إنّه مَرض ماما</b></font>
+
+725
+00:06:18,040 --> 00:06:22,720
+<font face="Bahij Nassim" size="75"><b>أسرِعوا-بون، ماذا تُريد هذه المرّة-سوارو؟</b></font>
+
+726
+00:06:22,720 --> 00:06:23,570
+<font face="Bahij Nassim" size="75"><b>...تُريد</b></font>
+
+727
+00:06:24,750 --> 00:06:26,820
+<font face="Bahij Nassim" size="75"><b>كروكامبوشو</b></font>
+
+728
+00:06:26,820 --> 00:06:28,840
+<font face="Bahij Nassim" size="75"><b>كروكامبوشو؟</b></font>
+
+729
+00:06:28,840 --> 00:06:32,540
+<font face="Bahij Nassim" size="75"><b>هل هي الحلوى المُزينة بالكريمة المنفوخة المحشية؟</b></font>
+
+730
+00:06:32,540 --> 00:06:35,090
+<font face="Bahij Nassim" size="75"><b>إعدادُ ذلك سيكون تحدي</b></font>
+
+731
+00:06:35,090 --> 00:06:37,330
+<font face="Bahij Nassim" size="75"><b>،مهلًا لحظة</b></font>
+
+732
+00:06:37,330 --> 00:06:39,840
+<font face="Bahij Nassim" size="75"><b>أظنّ بأنّ هناك مَجموعة سُيّاحٍ</b></font>
+
+733
+00:06:39,840 --> 00:06:44,000
+<font face="Bahij Nassim" size="75"><b>من الكريمة المنفوخة يُقيمون في فُندق العاصمة</b></font>
+
+734
+00:06:39,840 --> 00:06:44,000
+<font face="Hacen Digital Arabia LT" size="45">(فطيرة القشدة)</font>
+
+735
+00:06:44,000 --> 00:06:46,010
+<font face="Bahij Nassim" size="75"><b>رحلوا عنه هذا الصّباح</b></font>
+
+736
+00:06:46,010 --> 00:06:49,300
+<font face="Bahij Nassim" size="75"><b>هل يجب علينا صنعُ واحدة؟ ما هو رأي الطبّاخ؟</b></font>
+
+737
+00:06:49,300 --> 00:06:53,450
+<font face="Bahij Nassim" size="75"><b>أرغب بجعل العجينة مميزة فأحضر لي اللوز من فضلك</b></font>
+
+738
+00:06:54,740 --> 00:06:56,600
+<font face="Bahij Nassim" size="75"><b>سأُخبر وَزير المُكسّرات</b></font>
+
+739
+00:06:56,600 --> 00:06:59,600
+<font face="Bahij Nassim" size="75"><b>تتّجه ماما نحو مدينة الحلوى الآن</b></font>
+
+740
+00:06:59,600 --> 00:07:04,100
+<font face="Bahij Nassim" size="75"><b>هل هي آتيةٌ إلى هُنا؟ هذه العاصمة، قلعة ماما هُنا</b></font>
+
+741
+00:07:04,100 --> 00:07:08,640
+<font face="Bahij Nassim" size="75"><b>لا يجدي الكلام معها نفعًا فقد فقدت صوابها بسبب نوبتها</b></font>
+
+742
+00:07:12,020 --> 00:07:14,110
+<font face="Bahij Nassim" size="75"><b>عدد القتلى في تزايد</b></font>
+
+743
+00:07:14,110 --> 00:07:17,440
+<font face="Bahij Nassim" size="75"><b>اصدروا أمرًا بإخلاء المدينة</b></font>
+
+744
+00:07:17,440 --> 00:07:21,460
+<font face="Bahij Nassim" size="75"><b>لن يوقف غضب ماما سوى الكروكامبوشو</b></font>
+
+745
+00:07:21,460 --> 00:07:24,620
+<font face="Bahij Nassim" size="75"><b>من هُنا أسرِعوا وقوموا بالإخلاء، أسرِعوا</b></font>
+
+746
+00:07:26,170 --> 00:07:28,380
+<font face="Bahij Nassim" size="75"><b>ماما، أرجوكِ توقّفي</b></font>
+
+747
+00:07:28,380 --> 00:07:31,130
+<font face="Bahij Nassim" size="75"><b>ماما، لا تفعلي هذا</b></font>
+
+748
+00:07:32,590 --> 00:07:36,260
+<font face="Bahij Nassim" size="75"><b>أحضروا لي الكروكامبوشو</b></font>
+
+749
+00:07:39,060 --> 00:07:42,850
+<font face="Bahij Nassim" size="75"><b>دخلَت ماما مدينة الحلوى، لَقد دخلَت مدينة الحلوى</b></font>
+
+750
+00:07:42,850 --> 00:07:45,190
+<font face="Bahij Nassim" size="75"><b>إنّها هُنا أخيرًا</b></font>
+
+751
+00:07:45,190 --> 00:07:49,470
+<font face="Bahij Nassim" size="75"><b>نوبات جُوع ماما تتسبّب بالكثير من المتاعب-بون</b></font>
+
+752
+00:07:49,470 --> 00:07:52,240
+<font face="Bahij Nassim" size="75"><b>نحنُ لا نعلم متى سيضربها الجوع</b></font>
+
+753
+00:07:52,240 --> 00:07:57,060
+<font face="Bahij Nassim" size="75"><b>سيستمرّ التّدمير حتّى تأكل ما تشتهيه</b></font>
+
+754
+00:07:57,060 --> 00:07:58,870
+<font face="Bahij Nassim" size="75"><b>ما أسوأ الكارثة</b></font>
+
+755
+00:07:58,870 --> 00:08:02,040
+<font face="Bahij Nassim" size="75"><b>على أيّة حال، أخلوا جميع السكّان</b></font>
+
+756
+00:08:02,040 --> 00:08:03,930
+<font face="Bahij Nassim" size="75"><b>اركضوا أسرِعوا</b></font>
+
+757
+00:08:03,930 --> 00:08:05,880
+<font face="Bahij Nassim" size="75"><b>أُصيبَت بيغ مام بنوبة غضب</b></font>
+
+758
+00:08:05,880 --> 00:08:08,800
+<font face="Bahij Nassim" size="75"><b>توَقّفي- 
+ليس في هذه المدينة-</b></font>
+
+759
+00:08:14,640 --> 00:08:18,470
+<font face="Bahij Nassim" size="75"><b>ماما، ماما لَيس في هذه المدينة</b></font>
+
+760
+00:08:18,470 --> 00:08:23,020
+<font face="Bahij Nassim" size="75"><b>ستُدمّر قلعتها- 
+هذا سيّء، لا يُمكنها أن تسمعنا-</b></font>
+
+761
+00:08:33,150 --> 00:08:37,630
+<font face="Bahij Nassim" size="75"><b>كروكامبوشو</b></font>
+
+762
+00:08:41,540 --> 00:08:45,140
+<font face="Bahij Nassim" size="75"><b>كروكامبوشو</b></font>
+
+763
+00:08:51,960 --> 00:08:54,220
+<font face="Bahij Nassim" size="75"><b>هذا ليس هو</b></font>
+
+764
+00:08:55,760 --> 00:08:57,760
+<font face="Bahij Nassim" size="75"><b>جـ-جاءت</b></font>
+
+765
+00:09:12,900 --> 00:09:15,720
+<font face="Bahij Nassim" size="75"><b>هذا ليس هو</b></font>
+
+766
+00:09:15,720 --> 00:09:18,540
+<font face="Bahij Nassim" size="75"><b>وأنتُم كذلك لَستُم هو</b></font>
+
+767
+00:09:18,540 --> 00:09:21,290
+<font face="Bahij Nassim" size="75"><b>كلّ شيءٍ خاطئ</b></font>
+
+768
+00:09:25,330 --> 00:09:27,880
+<font face="Bahij Nassim" size="75"><b>كروكامبوشو</b></font>
+
+769
+00:09:29,130 --> 00:09:30,920
+<font face="Bahij Nassim" size="75"><b>شُكرًا لك</b></font>
+
+770
+00:09:31,890 --> 00:09:34,510
+<font face="Bahij Nassim" size="75"><b>إنّه موسكاتو-ساما</b></font>
+
+771
+00:09:34,510 --> 00:09:37,980
+<font face="Bahij Nassim" size="75"><b>الابن الـ16 لعائلة شارلوت ووَزير الجيلاتو</b></font>
+
+772
+00:09:37,980 --> 00:09:41,510
+<font face="Bahij Nassim" size="75"><b>إنّه فردٌ من عائلة ماما، أنا واثق من أنّ بإمكانه إيقافها</b></font>
+
+773
+00:09:41,500 --> 00:09:46,020
+<font face="Al-Jazeera-Arabic-Bold" size="50">شارلوت موسكاتو الابن الـ16 لعائلة شارلوت - وَزير جيلاتو</font>
+
+774
+00:09:41,510 --> 00:09:46,020
+<font face="Bahij Nassim" size="75"><b>معكم موسكاتو، ما وَضع الكروكامبوشو؟</b></font>
+
+775
+00:09:46,020 --> 00:09:50,580
+<font face="Bahij Nassim" size="75"><b>سمعتُ أنّه بحاجةٍ لنِصف ساعةٍ تقريبًا ليُصبح جاهزًا-بون</b></font>
+
+776
+00:09:50,580 --> 00:09:55,360
+<font face="Bahij Nassim" size="75"><b>سيكون الوَقت تأخّر كثيرًا وَقتها، لا يُمكننا أن نسمح لها بتدمير القلعة</b></font>
+
+777
+00:09:59,700 --> 00:10:01,490
+<font face="Bahij Nassim" size="75"><b>هذا ليس هو</b></font>
+
+778
+00:10:02,330 --> 00:10:05,410
+<font face="Bahij Nassim" size="75"><b>توَقفي عن هذا يا ماما</b></font>
+
+779
+00:10:06,440 --> 00:10:07,790
+<font face="Bahij Nassim" size="75"><b>من ذلك؟</b></font>
+
+780
+00:10:11,290 --> 00:10:14,510
+<font face="Bahij Nassim" size="75"><b>هذا أنا موسكاتو يا ماما</b></font>
+
+781
+00:10:19,990 --> 00:10:23,540
+<font face="Bahij Nassim" size="75"><b>أين الكروكامبوشو خاصّتي؟</b></font>
+
+782
+00:10:23,540 --> 00:10:26,520
+<font face="Bahij Nassim" size="75"><b>...كروكامبوشو</b></font>
+
+783
+00:10:26,520 --> 00:10:28,980
+<font face="Bahij Nassim" size="75"><b>كروكامبوشو</b></font>
+
+784
+00:10:28,980 --> 00:10:34,650
+<font face="Bahij Nassim" size="75"><b>اعطِنا 30 دقيقة، الطهاة يُحاولون صُنعه بأقصى سُرعةٍ</b></font>
+
+785
+00:10:34,650 --> 00:10:38,700
+<font face="Bahij Nassim" size="75"><b>توقف يا موس، من المستحيل إيقافها</b></font>
+
+786
+00:10:38,700 --> 00:10:41,490
+<font face="Bahij Nassim" size="75"><b>لا يُمكنني السّماح لها بتدمير العاصمة</b></font>
+
+787
+00:10:42,550 --> 00:10:45,490
+<font face="Bahij Nassim" size="75"><b>ابتعد عن طريقي</b></font>
+
+788
+00:10:48,710 --> 00:10:52,630
+<font face="Bahij Nassim" size="75"><b>ألم تعرفيني يا ماما؟</b></font>
+
+789
+00:11:04,640 --> 00:11:06,560
+<font face="Bahij Nassim" size="75"><b>...حياة</b></font>
+
+790
+00:11:06,930 --> 00:11:07,600
+<font face="Bahij Nassim" size="75"><b>...أم</b></font>
+
+791
+00:11:08,610 --> 00:11:11,350
+<font face="Bahij Nassim" size="75"><b>تحلية...</b></font>
+
+792
+00:11:17,940 --> 00:11:20,200
+<font face="Bahij Nassim" size="75"><b>...حياة أم تحلية</b></font>
+
+793
+00:11:20,200 --> 00:11:22,360
+<font face="Bahij Nassim" size="75"><b>إما عمره أو ما يسد جوعها</b></font>
+
+794
+00:11:22,360 --> 00:11:26,240
+<font face="Bahij Nassim" size="75"><b>لابدّ من أنكِ تمزحين، إنه ابنكِ يا ماما</b></font>
+
+795
+00:11:26,240 --> 00:11:28,300
+<font face="Bahij Nassim" size="75"><b>ماما، لا تفعليها</b></font>
+
+796
+00:11:28,300 --> 00:11:34,250
+<font face="Bahij Nassim" size="75"><b>لـ- لدينا الكريمة المخفوقة، لكن العجينة لم تُعد بعد، لكن لا تفعليها يا ماما</b></font>
+
+797
+00:11:34,940 --> 00:11:37,550
+<font face="Bahij Nassim" size="75"><b>ا-الحلوى لَيست هُنا بعد</b></font>
+
+798
+00:11:37,550 --> 00:11:40,130
+<font face="Bahij Nassim" size="75"><b>سآكل الحلوى</b></font>
+
+799
+00:11:41,620 --> 00:11:43,680
+<font face="Bahij Nassim" size="75"><b>لا تقِف في طريقي</b></font>
+
+800
+00:11:58,650 --> 00:12:00,190
+<font face="Bahij Nassim" size="75"><b>ماما</b></font>
+
+801
+00:12:00,190 --> 00:12:02,320
+<font face="Bahij Nassim" size="75"><b>موسكاتو، ابقَ هادئًا</b></font>
+
+802
+00:12:04,990 --> 00:12:09,500
+<font face="Bahij Nassim" size="75"><b>إياك-فا، أيّ علامةٍ على الخوف وسيُؤخذ عُمرك-فا</b></font>
+
+803
+00:12:16,820 --> 00:12:21,220
+<font face="Bahij Nassim" size="75"><b>ارحميني يا ماما، لَن أُوقِفكِ بعد الآن</b></font>
+
+804
+00:12:21,220 --> 00:12:24,760
+<font face="Bahij Nassim" size="75"><b>لذا أرجوكِ لا تقتُليني</b></font>
+
+805
+00:12:42,010 --> 00:12:44,490
+<font face="Bahij Nassim" size="75"><b>أربعون عامًا</b></font>
+
+806
+00:12:51,040 --> 00:12:52,550
+<font face="Bahij Nassim" size="75"><b>أخي الكبير</b></font>
+
+807
+00:12:54,020 --> 00:12:56,030
+<font face="Bahij Nassim" size="75"><b>موسكاتو -ساما</b></font>
+
+808
+00:12:56,030 --> 00:12:57,830
+<font face="Bahij Nassim" size="75"><b>...هذا ابنها</b></font>
+
+809
+00:12:58,920 --> 00:13:02,320
+<font face="Bahij Nassim" size="75"><b>وقتلته...</b></font>
+
+810
+00:13:05,420 --> 00:13:09,100
+<font face="Bahij Nassim" size="75"><b>كروكامبوشو</b></font>
+
+811
+00:13:09,670 --> 00:13:13,520
+<font face="Bahij Nassim" size="75"><b>اهربوا، لا يُمكن لأحدٍ إيقافها الآن</b></font>
+
+812
+00:13:19,480 --> 00:13:21,270
+<font face="Bahij Nassim" size="75"><b>هذا فظيع</b></font>
+
+813
+00:13:28,160 --> 00:13:31,080
+<font face="Bahij Nassim" size="75"><b>أحدهم قادمٌ من نهر العصير</b></font>
+
+814
+00:13:31,080 --> 00:13:33,330
+<font face="Bahij Nassim" size="75"><b>...ذلك... ذلك الرجل هو</b></font>
+
+815
+00:13:33,330 --> 00:13:34,750
+<font face="Bahij Nassim" size="75"><b>من دون شكّ</b></font>
+
+816
+00:13:34,750 --> 00:13:37,830
+<font face="Bahij Nassim" size="75"><b>فليبتعد الجّميع</b></font>
+
+817
+00:13:36,040 --> 00:13:40,540
+<font face="Al-Jazeera-Arabic-Bold" size="50">جينبي - شيتشيبوكاي سابق وقبطان قراصنة الشّمس</font>
+
+818
+00:13:37,830 --> 00:13:40,540
+<font face="Bahij Nassim" size="75"><b>الزّعيم جينبي</b></font>
+
+819
+00:13:41,130 --> 00:13:43,210
+<font face="Bahij Nassim" size="75"><b>ساعدونا</b></font>
+
+820
+00:13:43,210 --> 00:13:45,510
+<font face="Bahij Nassim" size="75"><b>سنُؤكل</b></font>
+
+821
+00:13:46,180 --> 00:13:48,850
+<font face="Bahij Nassim" size="75"><b>يحمل كروكامبوشو إلى جانبه</b></font>
+
+822
+00:13:48,850 --> 00:13:52,640
+<font face="Bahij Nassim" size="75"><b>لَقد أمسكَ بأولئكَ السيّاح من الكريمة المنفوخة لأجلِنا</b></font>
+
+823
+00:13:52,640 --> 00:13:57,230
+<font face="Bahij Nassim" size="75"><b>تُغلّفهم الحلوى، هل هذا من فِعل وَزير الحلوى؟</b></font>
+
+824
+00:14:02,560 --> 00:14:04,500
+<font face="Bahij Nassim" size="75"><b>من هُنا</b></font>
+
+825
+00:14:05,320 --> 00:14:07,700
+<font face="Bahij Nassim" size="75"><b>لا تعترض طريقي</b></font>
+
+826
+00:14:08,990 --> 00:14:11,240
+<font face="Bahij Nassim" size="75"><b>احشريهم</b></font>
+
+827
+00:14:34,680 --> 00:14:38,390
+<font face="Bahij Nassim" size="75"><b>إنّه لذيذ</b></font>
+
+828
+00:14:40,010 --> 00:14:41,650
+<font face="Bahij Nassim" size="75"><b>نجحَ</b></font>
+
+829
+00:14:41,650 --> 00:14:43,650
+<font face="Bahij Nassim" size="75"><b>هدأت ماما</b></font>
+
+830
+00:14:44,980 --> 00:14:47,280
+<font face="Bahij Nassim" size="75"><b>هذا هو</b></font>
+
+831
+00:14:47,810 --> 00:14:52,130
+<font face="Bahij Nassim" size="75"><b>ما دام الطعم شهي، فهذا ما يهم</b></font>
+
+832
+00:14:52,130 --> 00:14:55,540
+<font face="Bahij Nassim" size="75"><b>شُكرًا لك أيّها الزّعيم جينبي</b></font>
+
+833
+00:14:56,950 --> 00:15:00,080
+<font face="Bahij Nassim" size="75"><b>ابلغوا الطهاة أن الأزمة انتهت</b></font>
+
+834
+00:15:00,080 --> 00:15:02,440
+<font face="Bahij Nassim" size="75"><b>استدعوا جميع الوُزراء</b></font>
+
+835
+00:15:02,440 --> 00:15:06,060
+<font face="Bahij Nassim" size="75"><b>أعيدوا بناء العاصمة بأقصى سرعة-بون</b></font>
+
+836
+00:15:08,800 --> 00:15:14,350
+<font face="Bahij Nassim" size="75"><b>يا فارسي البحري الوفيّ جينبي</b></font>
+
+837
+00:15:14,350 --> 00:15:19,060
+<font face="Bahij Nassim" size="75"><b>أحسنتَ بإحضار البونغليف لي ذلك اليوم</b></font>
+
+838
+00:15:15,680 --> 00:15:23,360
+<font face="Al-Jazeera-Arabic-Bold" size="50">شارلوت لينلين - إحدى الأباطرة الأربعة
+ملِكة توتو لاند - قُبطانة قراصنة بيغ مام</font>
+
+839
+00:15:19,060 --> 00:15:21,380
+<font face="Bahij Nassim" size="75"><b>لا يُمكنني قِراءته مع ذلك</b></font>
+
+840
+00:15:26,860 --> 00:15:31,390
+<font face="Bahij Nassim" size="75"><b>ما شأنك اليوم؟ ما جاء بك إلى هنا؟</b></font>
+
+841
+00:15:31,820 --> 00:15:36,330
+<font face="Bahij Nassim" size="75"><b>عجبًا، تبدو المدينة بشكلٍ أفضل من العادة</b></font>
+
+842
+00:15:36,330 --> 00:15:38,580
+<font face="Bahij Nassim" size="75"><b>هل فعلتَ هذا؟</b></font>
+
+843
+00:15:38,580 --> 00:15:44,000
+<font face="Bahij Nassim" size="75"><b>كلا، وصلت لتوي ولا أملك فكرة عمّا حصل</b></font>
+
+844
+00:15:44,000 --> 00:15:46,420
+<font face="Bahij Nassim" size="75"><b></b></font>
+
+845
+00:15:46,420 --> 00:15:48,630
+<font face="Bahij Nassim" size="75"><b>...أتيت لرؤيتك اليوم</b></font>
+
+846
+00:15:50,220 --> 00:15:54,720
+<font face="Bahij Nassim" size="75"><b>من أجل أن أطلعك على شأنٍ في غاية الأهمية...</b></font>
+
+847
+00:16:00,890 --> 00:16:04,650
+<font face="Bahij Nassim" size="75"><b>لَن تترُك طاقمي، أليس كذلك؟</b></font>
+
+848
+00:16:07,320 --> 00:16:10,320
+<font face="Al-Jazeera-Arabic-Bold" size="50">قبل بضع ساعات</font>
+
+849
+00:16:12,040 --> 00:16:17,410
+<font face="Bahij Nassim" size="75"><b>قبعة القش لوفي هو الرجل الذي سيغير العالم يومًا ما</b></font>
+
+850
+00:16:18,000 --> 00:16:21,970
+<font face="Bahij Nassim" size="75"><b>أعلم أنه ما يزال يافعًا، لكن لقب ملك البحار</b></font>
+
+851
+00:16:21,970 --> 00:16:24,710
+<font face="Bahij Nassim" size="75"><b>لن يحمله أيًّ من اليونكو الأربعة الحاليين</b></font>
+
+852
+00:16:25,220 --> 00:16:29,340
+<font face="Bahij Nassim" size="75"><b>أظن أن قُبّعة القشّ لوفي سيكون حامله</b></font>
+
+853
+00:16:32,980 --> 00:16:33,880
+<font face="Bahij Nassim" size="75"><b>...أنا</b></font>
+
+854
+00:16:34,970 --> 00:16:38,310
+<font face="Bahij Nassim" size="75"><b>أريد أن أعاون ذلك الرجل</b></font>
+
+855
+00:16:44,320 --> 00:16:48,860
+<font face="Bahij Nassim" size="75"><b>أنا... ضعيف</b></font>
+
+856
+00:16:48,860 --> 00:16:54,500
+<font face="Bahij Nassim" size="75"><b>أنا... أُريد أن أكون على متن سفينة قبعات القش</b></font>
+
+857
+00:16:54,500 --> 00:16:57,820
+<font face="Bahij Nassim" size="75"><b>وأن أُكرّس حياتي لـ لوفي</b></font>
+
+858
+00:16:57,820 --> 00:17:04,460
+<font face="Bahij Nassim" size="75"><b>أُؤمن بأنّ تلك الرحلة ستجلِب الحريّة الحقيقيّة للبرمائيين في نهايتها</b></font>
+
+859
+00:17:06,710 --> 00:17:13,470
+<font face="Al-Jazeera-Arabic-Bold" size="50">(علاء الدين (حُوريّ بروتولا نائب الكابتن لقراصنة الشّمس</font>
+
+860
+00:17:08,260 --> 00:17:14,300
+<font face="Bahij Nassim" size="75"><b>خلال العامين المنصرمين، أخبرتَنا بالكثير عن لوفي-كن</b></font>
+
+861
+00:17:14,800 --> 00:17:19,930
+<font face="Bahij Nassim" size="75"><b>كنتُ أُفكّر بأنّه يجب عليكَ الذّهاب للانضمام إليه إن كنتَ تُحبّه كثيرًا</b></font>
+
+862
+00:17:20,860 --> 00:17:22,680
+<font face="Bahij Nassim" size="75"><b>هـ-هل أنت جاد؟</b></font>
+
+863
+00:17:23,280 --> 00:17:25,640
+<font face="Bahij Nassim" size="75"><b>هل تحدّثتُ عنه كثيرًا؟</b></font>
+
+864
+00:17:28,250 --> 00:17:30,650
+<font face="Bahij Nassim" size="75"><b>اذهب يا جينبي</b></font>
+
+865
+00:17:33,590 --> 00:17:35,320
+<font face="Bahij Nassim" size="75"><b>هل أنتَ وَاثق؟</b></font>
+
+866
+00:17:37,070 --> 00:17:40,740
+<font face="Bahij Nassim" size="75"><b>لا أحد هُنا يملك الحقّ للاعتراض أيها القُبطان</b></font>
+
+867
+00:17:40,740 --> 00:17:46,600
+<font face="Bahij Nassim" size="75"><b>نعم، كنتَ جُنديًّا في جيش نبتون لكنّكَ أصبحتَ قُرصانًا</b></font>
+
+868
+00:17:46,600 --> 00:17:51,670
+<font face="Bahij Nassim" size="75"><b>لتنضم للعبيد الهاربين من الماريجوا وتقاتل معنا</b></font>
+
+869
+00:17:51,670 --> 00:17:57,040
+<font face="Bahij Nassim" size="75"><b>أصبحتَ شيتشيبوكاي لتساعد في تعزيز وَضعنا الاجتماعيّ، نحن البرمائيين</b></font>
+
+870
+00:17:57,040 --> 00:18:01,570
+<font face="Bahij Nassim" size="75"><b>وتحالفتَ مع قراصنة بيغ مام</b></font>
+
+871
+00:18:01,570 --> 00:18:07,980
+<font face="Bahij Nassim" size="75"><b>لحمايتنا نحن ووَطننا مملكة ريوغو تحت اسم بيغ مام</b></font>
+
+872
+00:18:07,980 --> 00:18:13,710
+<font face="Bahij Nassim" size="75"><b>اتّخذتَ القرارات دائمًا لأجل مصلحة الآخرين</b></font>
+
+873
+00:18:14,280 --> 00:18:18,210
+<font face="Bahij Nassim" size="75"><b>لقد فعلتَ ما يكفي يا جينبي</b></font>
+
+874
+00:18:20,830 --> 00:18:24,290
+<font face="Bahij Nassim" size="75"><b>هذا صحيح، عش حرًّا لنفسك يا جينبي-سان</b></font>
+
+875
+00:18:24,290 --> 00:18:26,540
+<font face="Bahij Nassim" size="75"><b>صحبتك السلامة يا جينبي</b></font>
+
+876
+00:18:26,540 --> 00:18:28,380
+<font face="Bahij Nassim" size="75"><b>أجل أيها القبطان جينبي</b></font>
+
+877
+00:18:28,380 --> 00:18:32,210
+<font face="Bahij Nassim" size="75"><b>سنكون بخير من دونك، لا تستخفّ بنا</b></font>
+
+878
+00:18:32,210 --> 00:18:36,090
+<font face="Bahij Nassim" size="75"><b>عِش لأجل نفسكَ من الآن فصاعدًا</b></font>
+
+879
+00:18:52,150 --> 00:18:55,360
+<font face="Bahij Nassim" size="75"><b>أيها الرفاق... شكرًا لكم</b></font>
+
+880
+00:19:05,850 --> 00:19:12,000
+<font face="Bahij Nassim" size="75"><b>بقول هذا، لا أظنّ بأن بيغ مام
+...ستُفلت قبطاننا بهذه السهولة</b></font>
+
+881
+00:19:12,000 --> 00:19:17,610
+<font face="Bahij Nassim" size="75"><b>إن غضبَت منا أيضًا، كلّ ما سنتمكّن من فعله هو الهرب</b></font>
+
+882
+00:19:17,610 --> 00:19:20,340
+<font face="Bahij Nassim" size="75"><b>لكن ماذا عن علاء الدين-سان؟</b></font>
+
+883
+00:19:21,120 --> 00:19:25,870
+<font face="Bahij Nassim" size="75"><b>لَقد تزوّج من برالين-ني سان 
+وأصبح فردًا من عائلة البيغ مام</b></font>
+
+884
+00:19:25,870 --> 00:19:27,970
+<font face="Bahij Nassim" size="75"><b>عجبي، عجبي</b></font>
+
+885
+00:19:29,660 --> 00:19:32,810
+<font face="Bahij Nassim" size="75"><b>هل أنتم قلِقون بشأني؟</b></font>
+
+886
+00:19:32,810 --> 00:19:34,360
+<font face="Bahij Nassim" size="75"><b>بئسًا، ني-سان</b></font>
+
+887
+00:19:35,860 --> 00:19:39,240
+<font face="Al-Jazeera-Arabic-Bold" size="50">m 0 0 l 0 7 l 46 7 l 46 -17 l 1 -17 l -13 -17 l -13 7 l -13 7 l 47 7 l 47 7 l 46 7 l 46 7 l 46 -17 l 46 -17 l 46 -17</font>
+
+888
+00:19:35,860 --> 00:19:39,240
+<font face="Al-Jazeera-Arabic-Bold" size="50">الابنة الـ 29 لعائلة شارلوت، شارلوت برالين
+(نصف بشر ونصف سمك قرش المطرقة)</font>
+
+889
+00:19:39,240 --> 00:19:42,450
+<font face="Bahij Nassim" size="75"><b>هل تتحدثون عني بالخِفية؟</b></font>
+
+890
+00:19:42,450 --> 00:19:44,990
+<font face="Bahij Nassim" size="75"><b>هل سمعت ما قلناه؟</b></font>
+
+891
+00:19:44,990 --> 00:19:49,000
+<font face="Bahij Nassim" size="75"><b>هل تحاول إخفاء شيء عني؟</b></font>
+
+892
+00:19:48,980 --> 00:19:56,260
+<font face="Bahij Nassim" size="75"><b>علاء الدين، تُرى هل كنت ستتركني خلفك إن غضبَت ماما؟</b></font>
+
+893
+00:19:56,260 --> 00:19:58,630
+<font face="Bahij Nassim" size="75"><b>...كلّا، بالتّأكيد سأطلُب منكِ</b></font>
+
+894
+00:19:58,630 --> 00:20:01,090
+<font face="Bahij Nassim" size="75"><b>لا حاجة لأن تطلُب</b></font>
+
+895
+00:20:01,090 --> 00:20:07,140
+<font face="Bahij Nassim" size="75"><b>سأختارك على ماما بالتأكيد إن حصل أيّ شيء، خُذني معك</b></font>
+
+896
+00:20:07,140 --> 00:20:09,060
+<font face="Bahij Nassim" size="75"><b>شغفها حبها</b></font>
+
+897
+00:20:11,130 --> 00:20:13,080
+<font face="Bahij Nassim" size="75"><b>أعتذر يا واداتسومي</b></font>
+
+898
+00:20:13,080 --> 00:20:16,090
+<font face="Bahij Nassim" size="75"><b>لقد أحضرتكَ إلى هنا للتو، ولكن كما سمعت، عليّ أن أذهب</b></font>
+
+899
+00:20:16,090 --> 00:20:21,700
+<font face="Bahij Nassim" size="75"><b>لا بأس، أنا سعيد بكوني مع هولاء الرفاق</b></font>
+
+900
+00:20:24,510 --> 00:20:31,500
+<font face="Bahij Nassim" size="75"><b>والآن يا برالين، هل تظنين بأن ماما لن تسامحني... أعني نحن؟</b></font>
+
+901
+00:20:31,500 --> 00:20:38,870
+<font face="Bahij Nassim" size="75"><b>...حصلَت سوابق، لكن من رغبوا بترك طاقمها</b></font>
+
+902
+00:20:38,870 --> 00:20:40,710
+<font face="Bahij Nassim" size="75"><b>قد ماتوا جميعًا</b></font>
+
+903
+00:20:42,100 --> 00:20:46,060
+<font face="Al-Jazeera-Arabic-Bold" size="50">الوقت الحالي جزيرة الهول كيك</font>
+
+904
+00:20:46,340 --> 00:20:50,470
+<font face="Al-Jazeera-Arabic-Bold" size="50">مدينة الحلوى
+ عاصمة جزيرة الهول كيك</font>
+
+905
+00:21:05,070 --> 00:21:07,320
+<font face="Bahij Nassim" size="75"><b>موسكاتو-ساما</b></font>
+
+906
+00:21:07,320 --> 00:21:10,660
+<font face="Bahij Nassim" size="75"><b>لقد مات موسكاتو-ساما</b></font>
+
+907
+00:21:10,660 --> 00:21:13,620
+<font face="Bahij Nassim" size="75"><b>لا تمُت يا موسكاتو-ساما</b></font>
+
+908
+00:21:13,620 --> 00:21:16,000
+<font face="Bahij Nassim" size="75"><b>موسكاتو-ساما</b></font>
+
+909
+00:21:23,340 --> 00:21:25,220
+<font face="Bahij Nassim" size="75"><b>وصلوا أخيرًا</b></font>
+
+910
+00:21:32,530 --> 00:21:34,000
+<font face="Bahij Nassim" size="75"><b>أسرعوا وخُذوه بعيدًا</b></font>
+
+911
+00:21:34,000 --> 00:21:34,600
+<font face="Bahij Nassim" size="75"><b>حاضر</b></font>
+
+912
+00:21:34,600 --> 00:21:36,940
+<font face="Bahij Nassim" size="75"><b>تراجع</b></font>
+
+913
+00:21:47,120 --> 00:21:48,320
+<font face="Bahij Nassim" size="75"><b>اسمعوا يا رفاق</b></font>
+
+914
+00:21:48,320 --> 00:21:52,540
+<font face="Bahij Nassim" size="75"><b>حتّى آخر ثانية، أفهمتم؟</b></font>
+
+915
+00:22:02,210 --> 00:22:03,800
+<font face="Bahij Nassim" size="75"><b>...موسكاتو-ساما</b></font>
+
+916
+00:22:06,670 --> 00:22:11,280
+<font face="Bahij Nassim" size="75"><b>أخبرني، هل تظنّ بأنّ الزّعيم جينبي سيُقتَل أيضًا يا مونت دور-ساما؟</b></font>
+
+917
+00:22:11,280 --> 00:22:12,980
+<font face="Bahij Nassim" size="75"><b>كيف لي أن أعلم؟</b></font>
+
+918
+00:22:12,980 --> 00:22:16,920
+<font face="Bahij Nassim" size="75"><b>عندما يُغضِب أحدهم ماما، هذا ما سيحصل بالتأكيد</b></font>
+
+919
+00:22:16,920 --> 00:22:18,520
+<font face="Bahij Nassim" size="75"><b>حتى لو كان ابنها</b></font>
+
+920
+00:22:22,300 --> 00:22:28,580
+<font face="Al-Jazeera-Arabic-Bold" size="50">قصر الهول كيك في مدينة الحلوى</font>
+
+921
+00:22:29,680 --> 00:22:32,740
+<font face="Bahij Nassim" size="75"><b>أظنك ستغادر، صحيح؟</b></font>
+
+922
+00:22:35,560 --> 00:22:37,170
+<font face="Bahij Nassim" size="75"><b>لماذا أيها الزعيم؟</b></font>
+
+923
+00:22:37,170 --> 00:22:39,340
+<font face="Bahij Nassim" size="75"><b>لا تغادرنا يا زعيم، لمَ عليك المغادرة؟</b></font>
+
+924
+00:22:39,340 --> 00:22:40,750
+<font face="Bahij Nassim" size="75"><b>اخرسوا</b></font>
+
+925
+00:22:46,880 --> 00:22:51,600
+<font face="Bahij Nassim" size="75"><b>لا تسألوا أحدًا عن سبب مغادرته، هذا مثير للشفقة</b></font>
+
+926
+00:22:51,600 --> 00:22:54,380
+<font face="Bahij Nassim" size="75"><b>من يهتمّ لهذا؟</b></font>
+
+927
+00:22:57,460 --> 00:23:02,520
+<font face="Bahij Nassim" size="75"><b>إن كنت قرصانًا، بالتأكيد سترغب بالعيش كما تشاء</b></font>
+
+928
+00:23:03,010 --> 00:23:05,690
+<font face="Bahij Nassim" size="75"><b>...هل أنا لَذيذ؟ أخبريني ، هل أنا</b></font>
+
+929
+00:23:08,220 --> 00:23:10,140
+<font face="Bahij Nassim" size="75"><b>بقول هذا</b></font>
+
+930
+00:23:10,140 --> 00:23:15,900
+<font face="Bahij Nassim" size="75"><b>تعهد الولاء الذي يُنكَث يجلِب العار على السيد</b></font>
+
+931
+00:23:16,880 --> 00:23:23,110
+<font face="Bahij Nassim" size="75"><b>جينبي، تعلم أنّ مغادرتك تعني بأنّني سأخسر أحد أصولي القويّة</b></font>
+
+932
+00:23:23,110 --> 00:23:24,920
+<font face="Bahij Nassim" size="75"><b>...نعم، لكن</b></font>
+
+933
+00:23:24,920 --> 00:23:30,490
+<font face="Bahij Nassim" size="75"><b>دون "لكن"، يجب أن تخسر شيئًا أيضًا</b></font>
+
+934
+00:23:30,490 --> 00:23:33,090
+<font face="Bahij Nassim" size="75"><b>يجب أن تدفع الثمن</b></font>
+
+935
+00:23:39,630 --> 00:23:41,500
+<font face="Bahij Nassim" size="75"><b>أحضروا لي الروليت</b></font>
+
+936
+00:23:41,500 --> 00:23:42,810
+<font face="Bahij Nassim" size="75"><b>ماذا؟</b></font>
+
+937
+00:23:57,600 --> 00:24:00,360
+<font face="Bahij Nassim" size="75"><b>الآن، لُفّها</b></font>
+
+938
+00:24:05,000 --> 00:24:11,930
+<font face="Bahij Nassim" size="75"><b>والآن، ما الذي ستخسره يا ترى؟</b></font>
+
+939
+00:24:18,180 --> 00:24:23,270
+<font face="Al-Jazeera-Arabic-Bold" size="51" color="#fffce7"><b>خلال ذلك الوقت، كان لوفي والآخرون داخل مياه إقليم بيغ مام</b></font>
+
+940
+00:24:25,920 --> 00:24:27,520
+<font face="Bahij Nassim" size="75"><b>حُلوٌ جدًّا</b></font>
+
+941
+00:24:28,890 --> 00:24:31,340
+<font face="Bahij Nassim" size="75"><b>يا للعجب، إنّها لا تتحرّك على الإطلاق</b></font>
+
+942
+00:24:31,340 --> 00:24:32,630
+<font face="Bahij Nassim" size="75"><b>...حقًا</b></font>
+
+943
+00:24:32,630 --> 00:24:35,430
+<font face="Bahij Nassim" size="75"><b>لا تبالِ، لنبقَ هنا وننام</b></font>
+
+944
+00:24:35,430 --> 00:24:39,290
+<font face="Bahij Nassim" size="75"><b>كلّا، ماذا لو هاجمتنا تلك الحشرات ثانيةً؟</b></font>
+
+945
+00:24:39,290 --> 00:24:43,160
+<font face="Bahij Nassim" size="75"><b>عندما تشرق الشمس، ستعود للجريان ثانيةً</b></font>
+
+946
+00:24:43,160 --> 00:24:46,440
+<font face="Bahij Nassim" size="75"><b>لكن خِلال فترة المَساء، تبرد وتتجمّد</b></font>
+
+947
+00:24:46,440 --> 00:24:49,500
+<font face="Bahij Nassim" size="75"><b>ياليتك شاركتنا هذه المعلومات مُسبقًا</b></font>
+
+948
+00:24:50,960 --> 00:24:55,110
+<font face="Bahij Nassim" size="75"><b>يجب أن نُذيبها ونخرج من منطقة شراب النشا هذه</b></font>
+
+949
+00:24:55,110 --> 00:24:55,840
+<font face="Bahij Nassim" size="75"><b>نعم</b></font>
+
+950
+00:24:57,950 --> 00:25:01,600
+<font face="Bahij Nassim" size="75"><b>لَقد أنمنا للتّوّ جيشًا من النّمل</b></font>
+
+951
+00:25:01,600 --> 00:25:04,150
+<font face="Bahij Nassim" size="75"><b>ستكون مشكلةً عندما يستيقظون</b></font>
+
+952
+00:25:04,150 --> 00:25:05,850
+<font face="Bahij Nassim" size="75"><b>هذا صحيح</b></font>
+
+953
+00:25:08,770 --> 00:25:12,550
+<font face="Bahij Nassim" size="75"><b>نمل البحر هذا الْتهمَ سفينتي في الماضي</b></font>
+
+954
+00:25:12,550 --> 00:25:13,530
+<font face="Bahij Nassim" size="75"><b>مخيف</b></font>
+
+955
+00:25:13,530 --> 00:25:17,660
+<font face="Bahij Nassim" size="75"><b>في الماضي؟ لماذا أتيت إلى هنا؟</b></font>
+
+956
+00:25:17,660 --> 00:25:22,150
+<font face="Bahij Nassim" size="75"><b>كان بيدرو قرصانًا مع بيكومز</b></font>
+
+957
+00:25:22,150 --> 00:25:24,680
+<font face="Bahij Nassim" size="75"><b>ماذا؟ حقًّا؟</b></font>
+
+958
+00:25:25,200 --> 00:25:27,700
+<font face="Bahij Nassim" size="75"><b>كنتُ ساذجًا جدًّا</b></font>
+
+959
+00:25:27,700 --> 00:25:31,960
+<font face="Bahij Nassim" size="75"><b>خرجتُ مستكشفًا وغدوت شخصًا مَطلوبًا</b></font>
+
+960
+00:25:31,960 --> 00:25:34,800
+<font face="Bahij Nassim" size="75"><b>رافقتُ بيكومز لمُنتصف الطريق فقط</b></font>
+
+961
+00:25:36,680 --> 00:25:39,600
+<font face="Bahij Nassim" size="75"><b>أثق بكم فسأخبركم</b></font>
+
+962
+00:25:39,600 --> 00:25:45,440
+<font face="Bahij Nassim" size="75"><b>كنتُ أبحث عن البونغليف لأنّني أردتّ مُساعدة السيّد نيكوماموشي</b></font>
+
+963
+00:25:47,190 --> 00:25:53,530
+<font face="Bahij Nassim" size="75"><b>لكن عندما دخلتُ منطقة بيغ مام، أصبحَت هذه رحلتي الأخيرة</b></font>
+
+964
+00:25:56,220 --> 00:25:57,450
+<font face="Bahij Nassim" size="75"><b>...أنا</b></font>
+
+965
+00:25:57,450 --> 00:26:00,360
+<font face="Bahij Nassim" size="75"><b>هُزِمتُ هنا في الماضي</b></font>
+
+966
+00:26:07,030 --> 00:26:09,500
+<font face="Bahij Nassim" size="75"><b>لَم أخبر أحدًا عن هذا</b></font>
+
+967
+00:26:09,960 --> 00:26:12,340
+<font face="Bahij Nassim" size="75"><b>لم أعلم بهذا</b></font>
+
+968
+00:26:20,300 --> 00:26:23,770
+<font face="Bahij Nassim" size="75"><b>أتيت إلى هنا رغم ذكرياتك السيئة؟</b></font>
+
+969
+00:26:23,770 --> 00:26:29,190
+<font face="Bahij Nassim" size="75"><b>إن كانت خبرتي ستساعدكم ولَو قليلًا حتّى 
+على استعادة سانجي، سأكون سعيدًا</b></font>
+
+970
+00:26:30,610 --> 00:26:32,610
+<font face="Bahij Nassim" size="75"><b>علاوةً على ذلك</b></font>
+
+971
+00:26:32,610 --> 00:26:36,480
+<font face="Bahij Nassim" size="75"><b>ربما لم يكن من السيئ قدومي معكم</b></font>
+
+972
+00:26:37,540 --> 00:26:43,200
+<font face="Bahij Nassim" size="75"><b>سمعت بأن ملِكينا قد أرياكم الرود بونغليف داخل شجرة الحوت</b></font>
+
+973
+00:26:44,740 --> 00:26:47,310
+<font face="Bahij Nassim" size="75"><b>أصابتني الدهشة</b></font>
+
+974
+00:26:47,790 --> 00:26:49,640
+<font face="Bahij Nassim" size="75"><b>على الرغم من أنكم أنقذتمونا</b></font>
+
+975
+00:26:49,640 --> 00:26:53,170
+<font face="Bahij Nassim" size="75"><b>لم يرياه لأحد عدا عن عشيرة الكوزوكي</b></font>
+
+976
+00:26:53,170 --> 00:26:56,130
+<font face="Bahij Nassim" size="75"><b>لـ26 عامًا</b></font>
+
+977
+00:26:56,130 --> 00:26:59,840
+<font face="Bahij Nassim" size="75"><b>منذ أن أرياه لمجموعة قراصنة غول دي روجر</b></font>
+
+978
+00:27:00,560 --> 00:27:01,930
+<font face="Bahij Nassim" size="75"><b>ملك القراصنة؟</b></font>
+
+979
+00:27:02,360 --> 00:27:07,450
+<font face="Bahij Nassim" size="75"><b>بعدها، وصل روجر إلى لافتيل وتمت دعوته بملك القراصنة</b></font>
+
+980
+00:27:09,640 --> 00:27:16,110
+<font face="Bahij Nassim" size="75"><b>أنتم تذكّرون الدوق إينواراشي والسيد نيكوماموشي بهم</b></font>
+
+981
+00:27:18,610 --> 00:27:23,570
+<font face="Bahij Nassim" size="75"><b>ارتئيا أنكم بحاجة لرود بونغليف</b></font>
+
+982
+00:27:23,990 --> 00:27:27,260
+<font face="Bahij Nassim" size="75"><b>ماذا ستفعلون بعد أن تهزموا كايدو؟</b></font>
+
+983
+00:27:27,700 --> 00:27:30,790
+<font face="Bahij Nassim" size="75"><b>أنا لا أفكر في الخطوة التالية من الآن</b></font>
+
+984
+00:27:30,790 --> 00:27:34,960
+<font face="Bahij Nassim" size="75"><b>لاحقًا، ستحتاجون إلى الرود بونغليف التي تملكها بيغ مام</b></font>
+
+985
+00:27:35,810 --> 00:27:39,480
+<font face="Bahij Nassim" size="75"><b>إذن، هذه ستكون أفضل فرصة لنا</b></font>
+
+986
+00:27:39,480 --> 00:27:42,550
+<font face="Bahij Nassim" size="75"><b>بما أننا تعمقنا لهذا المدى في منطقتها</b></font>
+
+987
+00:27:42,550 --> 00:27:48,140
+<font face="Bahij Nassim" size="75"><b>من الأفضل أن نسرق الرود بونغليف 
+التي تخصّ بيغ مام إضافةً إلى استعادة سانجي</b></font>
+
+988
+00:27:50,390 --> 00:27:53,790
+<font face="Bahij Nassim" size="75"><b>...ماذا؟ لكن هذا</b></font>
+
+989
+00:27:54,820 --> 00:27:57,400
+<font face="Bahij Nassim" size="75"><b>ليس سانجي فقط ولكن أيضًا الرود بونغليف؟</b></font>
+
+990
+00:28:00,370 --> 00:28:05,420
+<font face="Bahij Nassim" size="75"><b>حسنًا، طلبت مني روبين إحضاره أيضًا، لكنني أريد إنقاذ سانجي أولاً</b></font>
+
+991
+00:28:05,420 --> 00:28:07,160
+<font face="Bahij Nassim" size="75"><b>أعلم</b></font>
+
+992
+00:28:07,160 --> 00:28:11,890
+<font face="Bahij Nassim" size="75"><b>سأحصل على الرود بونغليف، فأنقذوا أنتم سانجي</b></font>
+
+993
+00:28:14,630 --> 00:28:18,770
+<font face="Bahij Nassim" size="75"><b>!عندما نصل إلى الجزيرة، هلا تمهلونني بعض الوقت</b></font>
+
+994
+00:28:18,770 --> 00:28:20,470
+<font face="Bahij Nassim" size="75"><b>هذه المرة، سأحصل عليه</b></font>
+
+995
+00:28:20,470 --> 00:28:24,590
+<font face="Bahij Nassim" size="75"><b>لكن إن كنت تفعل هذا لأجلنا فسنرافقك</b></font>
+
+996
+00:28:24,590 --> 00:28:28,140
+<font face="Bahij Nassim" size="75"><b>كلا، تأكدوا من أن تحموا سانجي</b></font>
+
+997
+00:28:28,140 --> 00:28:30,430
+<font face="Bahij Nassim" size="75"><b>سيضل الوضع صعبًا حتى بعد استعادته</b></font>
+
+998
+00:28:35,690 --> 00:28:38,750
+<font face="Bahij Nassim" size="75"><b>فهمت، سأدع الأمر إليك إذن</b></font>
+
+999
+00:28:39,360 --> 00:28:41,000
+<font face="Bahij Nassim" size="75"><b>تقرر الأمر</b></font>
+
+1000
+00:28:41,000 --> 00:28:42,650
+<font face="Bahij Nassim" size="75"><b>لا تُقرر بهذه البساطة</b></font>
+
+1001
+00:28:44,520 --> 00:28:49,240
+<font face="Bahij Nassim" size="75"><b>وكأن لوفي-سان وُلد محظوظًا</b></font>
+
+1002
+00:28:50,780 --> 00:28:51,860
+<font face="Bahij Nassim" size="75"><b>ما الأمر يا بروك؟</b></font>
+
+1003
+00:28:51,860 --> 00:28:54,870
+<font face="Bahij Nassim" size="75"><b>لا شيء، أنا محظوظ أيضًا</b></font>
+
+1004
+00:28:54,870 --> 00:28:58,000
+<font face="Bahij Nassim" size="75"><b>ما الذي تتحدث عنه؟ أنت غريب الأطوار</b></font>
+
+1005
+00:29:10,810 --> 00:29:13,840
+<font face="Bahij Nassim" size="75"><b>لقد استيقظ النمل</b></font>
+
+1006
+00:29:15,060 --> 00:29:17,800
+<font face="Bahij Nassim" size="75"><b>نملة، نملة، نملة، نملة</b></font>
+
+1007
+00:29:17,800 --> 00:29:19,450
+<font face="Bahij Nassim" size="75"><b>ها هم قادمون</b></font>
+
+1008
+00:29:20,150 --> 00:29:22,950
+<font face="Bahij Nassim" size="75"><b>احموا الساني</b></font>
+
+1009
+00:29:25,070 --> 00:29:29,550
+<font face="Al-Jazeera-Arabic-Bold" size="50">اليوم التالي</font>
+
+1010
+00:29:34,280 --> 00:29:36,300
+<font face="Bahij Nassim" size="75"><b>أيها الرفاق</b></font>
+
+1011
+00:29:36,300 --> 00:29:37,710
+<font face="Bahij Nassim" size="75"><b>استيقظوا</b></font>
+
+1012
+00:29:42,030 --> 00:29:43,970
+<font face="Bahij Nassim" size="75"><b>ما الأمر؟</b></font>
+
+1013
+00:29:55,130 --> 00:29:57,150
+<font face="Bahij Nassim" size="75"><b>انظروا، انظروا</b></font>
+
+1014
+00:30:08,910 --> 00:30:10,530
+<font face="Bahij Nassim" size="75"><b>وصلنا أخيرًا</b></font>
+
+1015
+00:30:17,280 --> 00:30:21,240
+<font face="Bahij Nassim" size="75"><b>مذهل، إنها ضخمة</b></font>
+
+1016
+00:30:21,240 --> 00:30:24,140
+<font face="Bahij Nassim" size="75"><b>هذه الجزيرة التي تقطن فيها اليونكو</b></font>
+
+1017
+00:30:25,580 --> 00:30:27,510
+<font face="Bahij Nassim" size="75"><b>إنها كعكة</b></font>
+
+1018
+00:30:29,590 --> 00:30:34,510
+<font face="Bahij Nassim" size="75"><b>الهول كيك هي القلعة التي تسكنها بيغ مام</b></font>
+
+1019
+00:30:29,590 --> 00:30:34,510
+<font face="Hacen Digital Arabia LT" size="45">الهول كيك= الكعكة الكاملة</font>
+
+1020
+00:30:34,510 --> 00:30:36,150
+<font face="Bahij Nassim" size="75"><b>قلعة؟</b></font>
+
+1021
+00:30:36,150 --> 00:30:38,900
+<font face="Bahij Nassim" size="75"><b>نامي-سان، هل سنستمر بطريق مباشر هكذا؟</b></font>
+
+1022
+00:30:38,900 --> 00:30:42,850
+<font face="Bahij Nassim" size="75"><b>نعم، ذلك الخليج هو الوحيد بلا حراسة</b></font>
+
+1023
+00:30:42,850 --> 00:30:44,570
+<font face="Bahij Nassim" size="75"><b>فهمت</b></font>
+
+1024
+00:30:44,570 --> 00:30:47,100
+<font face="Bahij Nassim" size="75"><b>ذلك هو المكان الذي ذكرته بودينغ-سان</b></font>
+
+1025
+00:30:47,100 --> 00:30:50,810
+<font face="Bahij Nassim" size="75"><b>نعم، يجب أن نشكرها حقًّا</b></font>
+
+1026
+00:30:50,810 --> 00:30:54,530
+<font face="Bahij Nassim" size="75"><b>لولاها ما كنا لنتمكن من الوصول إلى هذا المدى</b></font>
+
+1027
+00:30:54,530 --> 00:30:56,120
+<font face="Bahij Nassim" size="75"><b>أنت محقة</b></font>
+
+1028
+00:30:58,410 --> 00:31:00,960
+<font face="Bahij Nassim" size="75"><b>أحدهم هناك</b></font>
+
+1029
+00:31:08,540 --> 00:31:09,930
+<font face="Bahij Nassim" size="75"><b>سانجي؟</b></font>
+
+1030
+00:31:09,930 --> 00:31:11,300
+<font face="Bahij Nassim" size="75"><b>هل ذاك سانجي؟</b></font>
+
+1031
+00:31:13,170 --> 00:31:15,970
+<font face="Bahij Nassim" size="75"><b>سانجي</b></font>
+

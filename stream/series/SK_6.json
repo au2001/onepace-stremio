@@ -4,6 +4,11 @@
       "infoHash": "914c0da7db2f30c80988adea7e67af78e1502587",
       "subtitles": [
         {
+          "id": "SK_6_ger",
+          "lang": "ger",
+          "url": "https://onepace.arl.sh/static/SK_6_ger.srt"
+        },
+        {
           "id": "SK_6_eng",
           "lang": "eng",
           "url": "https://onepace.arl.sh/static/SK_6_eng.srt"

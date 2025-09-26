@@ -1,8 +1,18 @@
 {
   "streams": [
     {
-      "infoHash": "5d866df335f1cffb07ebbd1179577a82c7adb1da",
+      "infoHash": "56fc879f3e8a417a5be04a08204e48102e44fd82",
       "subtitles": [
+        {
+          "id": "EH_2_ara",
+          "lang": "ara",
+          "url": "https://onepace.arl.sh/static/EH_2_ara.srt"
+        },
+        {
+          "id": "EH_2_ger",
+          "lang": "ger",
+          "url": "https://onepace.arl.sh/static/EH_2_ger.srt"
+        },
         {
           "id": "EH_2_eng",
           "lang": "eng",

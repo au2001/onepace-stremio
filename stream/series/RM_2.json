@@ -5,6 +5,16 @@
       "fileIdx": 1,
       "subtitles": [
         {
+          "id": "RM_2_ger",
+          "lang": "ger",
+          "url": "https://onepace.arl.sh/static/RM_2_ger.srt"
+        },
+        {
+          "id": "RM_2_ita",
+          "lang": "ita",
+          "url": "https://onepace.arl.sh/static/RM_2_ita.srt"
+        },
+        {
           "id": "RM_2_eng",
           "lang": "eng",
           "url": "https://onepace.arl.sh/static/RM_2_eng.srt"

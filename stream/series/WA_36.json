@@ -4,6 +4,11 @@
       "infoHash": "ec75dd4f1d60dc71dbc41556e375dcb616ca54ae",
       "subtitles": [
         {
+          "id": "WA_36_ara",
+          "lang": "ara",
+          "url": "https://onepace.arl.sh/static/WA_36_ara.srt"
+        },
+        {
           "id": "WA_36_eng",
           "lang": "eng",
           "url": "https://onepace.arl.sh/static/WA_36_eng.srt"

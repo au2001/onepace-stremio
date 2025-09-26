@@ -1,2161 +1,2307 @@
 1
 00:00:00,000 --> 00:00:09,990
-<font face="Impress BT Pace" size="40">Your media player does not support the subtitle format used in this episode.
+<font face="Impress BT Pace" size="90">Your media player does not support the subtitle format used in this episode.
 Subtitles will likely not function properly.
 Please use one of the recommended video players, preferably mpv:
 https://mpv.io</font>
 
 2
-00:00:01,730 --> 00:00:03,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Video Editing</font></b></font>
+00:00:01,770 --> 00:00:04,280
+<font face="FOT-Greco Std B Strp" size="43"><b><font color="#000000">Video Editing</font></b></font>
 
 3
-00:00:01,730 --> 00:00:03,730
-<font face="FOT-Greco Std B Strp" size="22"><b>Video Editing</b></font>
+00:00:01,770 --> 00:00:04,280
+<font face="FOT-Greco Std B Strp" size="43"><b>Video Editing</b></font>
 
 4
-00:00:01,730 --> 00:00:03,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Feeso</font></b></font>
+00:00:01,770 --> 00:00:04,280
+<font face="FOT-Greco Std B Strp" size="43"><b><font color="#000000">Feeso
+Galaxy 9000</font></b></font>
 
 5
-00:00:01,730 --> 00:00:03,730
-<font face="FOT-Greco Std B Strp" size="22"><b>Feeso</b></font>
+00:00:01,770 --> 00:00:04,280
+<font face="FOT-Greco Std B Strp" size="43"><b>Feeso
+Galaxy 9000</b></font>
 
 6
-00:00:03,730 --> 00:00:05,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Timing</font></b></font>
+00:00:04,280 --> 00:00:06,780
+<font face="FOT-Greco Std B Strp" size="43"><b><font color="#000000">Soundtracking</font></b></font>
 
 7
-00:00:03,730 --> 00:00:05,730
-<font face="FOT-Greco Std B Strp" size="22"><b>Timing</b></font>
+00:00:04,280 --> 00:00:06,780
+<font face="FOT-Greco Std B Strp" size="43"><b>Soundtracking</b></font>
 
 8
-00:00:03,730 --> 00:00:05,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Lance</font></b></font>
+00:00:04,280 --> 00:00:06,780
+<font face="FOT-Greco Std B Strp" size="43"><b><font color="#000000">Halee</font></b></font>
 
 9
-00:00:03,730 --> 00:00:05,730
-<font face="FOT-Greco Std B Strp" size="22"><b>Lance</b></font>
+00:00:04,280 --> 00:00:06,780
+<font face="FOT-Greco Std B Strp" size="43"><b>Halee</b></font>
 
 10
-00:00:03,730 --> 00:00:05,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Typesetting</font></b></font>
+00:00:04,280 --> 00:00:06,780
+<font face="FOT-Greco Std B Strp" size="43"><b><font color="#000000">Graphics</font></b></font>
 
 11
-00:00:03,730 --> 00:00:05,730
-<font face="FOT-Greco Std B Strp" size="22"><b>Typesetting</b></font>
+00:00:04,280 --> 00:00:06,780
+<font face="FOT-Greco Std B Strp" size="43"><b>Graphics</b></font>
 
 12
-00:00:03,730 --> 00:00:05,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000"></font></b></font>
+00:00:04,280 --> 00:00:06,780
+<font face="FOT-Greco Std B Strp" size="43"><b><font color="#000000">Datenshi</font></b></font>
 
 13
-00:00:03,730 --> 00:00:05,730
-<font face="FOT-Greco Std B Strp" size="22"><b></b></font>
+00:00:04,280 --> 00:00:06,780
+<font face="FOT-Greco Std B Strp" size="43"><b>Datenshi</b></font>
 
 14
-00:00:05,730 --> 00:00:09,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Quality Control</font></b></font>
+00:00:06,780 --> 00:00:10,780
+<font face="FOT-Greco Std B Strp" size="43"><b><font color="#000000">Quality Control</font></b></font>
 
 15
-00:00:05,730 --> 00:00:09,730
-<font face="FOT-Greco Std B Strp" size="22"><b>Quality Control</b></font>
+00:00:06,780 --> 00:00:10,780
+<font face="FOT-Greco Std B Strp" size="43"><b>Quality Control</b></font>
 
 16
-00:00:05,730 --> 00:00:09,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Galaxy 9000
+00:00:06,780 --> 00:00:10,780
+<font face="FOT-Greco Std B Strp" size="43"><b><font color="#000000">Gab
+Gol D. Rocks
 Grug
 Mr. Luffy
 Pepperjack
+Scolines
+Villager
+Westfal
 Zenef</font></b></font>
 
 17
-00:00:05,730 --> 00:00:09,730
-<font face="FOT-Greco Std B Strp" size="22"><b>Galaxy 9000
+00:00:06,780 --> 00:00:10,780
+<font face="FOT-Greco Std B Strp" size="43"><b>Gab
+Gol D. Rocks
 Grug
 Mr. Luffy
 Pepperjack
+Scolines
+Villager
+Westfal
 Zenef</b></font>
 
 18
-00:00:09,730 --> 00:00:11,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Soundtracking</font></b></font>
+00:00:10,780 --> 00:00:13,280
+<font face="FOT-Greco Std B Strp" size="43"><b><font color="#000000">Karaoke</font></b></font>
 
 19
-00:00:09,730 --> 00:00:11,730
-<font face="FOT-Greco Std B Strp" size="22"><b>Soundtracking</b></font>
+00:00:10,780 --> 00:00:13,280
+<font face="FOT-Greco Std B Strp" size="43"><b>Karaoke</b></font>
 
 20
-00:00:09,730 --> 00:00:11,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Halee</font></b></font>
+00:00:10,780 --> 00:00:13,280
+<font face="FOT-Greco Std B Strp" size="43"><b><font color="#000000">KaitouYahiko</font></b></font>
 
 21
-00:00:09,730 --> 00:00:11,730
-<font face="FOT-Greco Std B Strp" size="22"><b>Halee</b></font>
+00:00:10,780 --> 00:00:13,280
+<font face="FOT-Greco Std B Strp" size="43"><b>KaitouYahiko</b></font>
 
 22
-00:00:11,730 --> 00:00:13,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Graphics</font></b></font>
+00:00:10,780 --> 00:00:13,280
+<font face="FOT-Greco Std B Strp" size="43"><b><font color="#000000">Timing</font></b></font>
 
 23
-00:00:11,730 --> 00:00:13,730
-<font face="FOT-Greco Std B Strp" size="22"><b>Graphics</b></font>
+00:00:10,780 --> 00:00:13,280
+<font face="FOT-Greco Std B Strp" size="43"><b>Timing</b></font>
 
 24
-00:00:11,730 --> 00:00:13,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Datenshi</font></b></font>
+00:00:10,780 --> 00:00:13,280
+<font face="FOT-Greco Std B Strp" size="43"><b><font color="#000000">Gab
+Lance</font></b></font>
 
 25
-00:00:11,730 --> 00:00:13,730
-<font face="FOT-Greco Std B Strp" size="22"><b>Datenshi</b></font>
+00:00:10,780 --> 00:00:13,280
+<font face="FOT-Greco Std B Strp" size="43"><b>Gab
+Lance</b></font>
 
 26
-00:00:13,730 --> 00:00:15,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Karaoke</font></b></font>
+00:00:13,280 --> 00:00:16,790
+<font face="FOT-Greco Std B Strp" size="43"><b><font color="#000000">Subtitle Editing</font></b></font>
 
 27
-00:00:13,730 --> 00:00:15,730
-<font face="FOT-Greco Std B Strp" size="22"><b>Karaoke</b></font>
+00:00:13,280 --> 00:00:16,790
+<font face="FOT-Greco Std B Strp" size="43"><b>Subtitle Editing</b></font>
 
 28
-00:00:13,730 --> 00:00:15,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">KaitouYahiko</font></b></font>
+00:00:13,280 --> 00:00:16,790
+<font face="FOT-Greco Std B Strp" size="43"><b><font color="#000000">Gordingus
+Griff
+Lil T
+Pollychan
+Wepon70</font></b></font>
 
 29
-00:00:13,730 --> 00:00:15,730
-<font face="FOT-Greco Std B Strp" size="22"><b>KaitouYahiko</b></font>
+00:00:13,280 --> 00:00:16,790
+<font face="FOT-Greco Std B Strp" size="43"><b>Gordingus
+Griff
+Lil T
+Pollychan
+Wepon70</b></font>
 
 30
-00:00:15,730 --> 00:00:17,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Subtitle Editing</font></b></font>
+00:00:16,790 --> 00:00:19,250
+<font face="FOT-Greco Std B Strp" size="43"><b><font color="#000000">Raws</font></b></font>
 
 31
-00:00:15,730 --> 00:00:17,730
-<font face="FOT-Greco Std B Strp" size="22"><b>Subtitle Editing</b></font>
+00:00:16,790 --> 00:00:19,250
+<font face="FOT-Greco Std B Strp" size="43"><b>Raws</b></font>
 
 32
-00:00:15,730 --> 00:00:17,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000"></font></b></font>
+00:00:16,790 --> 00:00:19,250
+<font face="FOT-Greco Std B Strp" size="43"><b><font color="#000000">Neo-Raws</font></b></font>
 
 33
-00:00:15,730 --> 00:00:17,730
-<font face="FOT-Greco Std B Strp" size="22"><b></b></font>
+00:00:16,790 --> 00:00:19,250
+<font face="FOT-Greco Std B Strp" size="43"><b>Neo-Raws</b></font>
 
 34
-00:00:17,730 --> 00:00:19,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Translation</font></b></font>
+00:00:16,790 --> 00:00:19,250
+<font face="FOT-Greco Std B Strp" size="43"><b><font color="#000000">Translation</font></b></font>
 
 35
-00:00:17,730 --> 00:00:19,730
-<font face="FOT-Greco Std B Strp" size="22"><b>Translation</b></font>
+00:00:16,790 --> 00:00:19,250
+<font face="FOT-Greco Std B Strp" size="43"><b>Translation</b></font>
 
 36
-00:00:17,730 --> 00:00:19,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Funimation</font></b></font>
+00:00:16,790 --> 00:00:19,250
+<font face="FOT-Greco Std B Strp" size="43"><b><font color="#000000">Funimation
+PamkinPinguin</font></b></font>
 
 37
-00:00:17,730 --> 00:00:19,730
-<font face="FOT-Greco Std B Strp" size="22"><b>Funimation</b></font>
+00:00:16,790 --> 00:00:19,250
+<font face="FOT-Greco Std B Strp" size="43"><b>Funimation
+PamkinPinguin</b></font>
 
 38
-00:00:19,730 --> 00:00:22,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">Raws</font></b></font>
-
-39
-00:00:19,730 --> 00:00:22,730
-<font face="FOT-Greco Std B Strp" size="22"><b>Raws</b></font>
-
-40
-00:00:19,730 --> 00:00:22,730
-<font face="FOT-Greco Std B Strp" size="22"><b><font color="#000000">df68</font></b></font>
-
-41
-00:00:19,730 --> 00:00:22,730
-<font face="FOT-Greco Std B Strp" size="22"><b>df68</b></font>
-
-42
-00:01:50,010 --> 00:02:00,010
-<font face="Impress BT Pace" size="40">Your media player does not support the subtitle format used in this episode.
+00:01:49,960 --> 00:01:59,950
+<font face="Impress BT Pace" size="90">Your media player does not support the subtitle format used in this episode.
 Subtitles will likely not function properly.
 Please use one of the recommended video players, preferably mpv:
 https://mpv.io</font>
 
+39
+00:01:50,010 --> 00:01:54,930
+<font face="M+ 1c" size="95" color="#fefefe"><b><font color="#1e1e1e">Enter: Captain Usopp</font></b></font>
+
+40
+00:01:50,010 --> 00:01:54,930
+<font face="M+ 1c" size="95" color="#fefefe"><b><font color="#e6e6e7">Enter: Captain Usopp</font></b></font>
+
+41
+00:01:56,930 --> 00:02:00,640
+<font face="Impress BT Pace" size="82">It'd be reckless to head straight
+to the Grand Line like this!</font>
+
+42
+00:02:04,020 --> 00:02:06,770
+<font face="Impress BT Pace" size="82">Yeah, we should get some meat first.</font>
+
 43
-00:01:51,040 --> 00:01:55,160
-<font face="M+ 1c" size="42" color="#fefefe"><b><font color="#f9f9f5">Captain Usopp</font></b></font>
+00:02:07,730 --> 00:02:10,440
+<font face="Impress BT Pace" size="82">We can't just eat fruit every day...</font>
 
 44
-00:01:57,330 --> 00:02:00,890
-<font face="Impress BT Pace" size="36">It'd be reckless to go straight
-into the Grand Line now!</font>
+00:02:10,440 --> 00:02:11,940
+<font face="Impress BT Pace" size="82">We need some booze too!</font>
 
 45
-00:02:03,890 --> 00:02:07,140
-<font face="Impress BT Pace" size="36">Yeah, some meat <i>would</i>
-be nice to have first.</font>
+00:02:12,700 --> 00:02:14,530
+<font face="Impress BT Pace" size="82">What're you talking about?!</font>
 
 46
-00:02:07,980 --> 00:02:10,690
-<font face="Impress BT Pace" size="36">Eating nothing but fruit
-everyday is no good...</font>
+00:02:16,530 --> 00:02:17,660
+<font face="Impress BT Pace" size="82">Knock it off!</font>
 
 47
-00:02:10,690 --> 00:02:12,940
-<font face="Impress BT Pace" size="36">We need some booze too!</font>
-
-48
-00:02:12,940 --> 00:02:15,530
-<font face="Impress BT Pace" size="36">What're you talking about?!</font>
-
-49
-00:02:16,400 --> 00:02:18,100
-<font face="Impress BT Pace" size="36">Forget that!</font>
-
-50
-00:02:18,100 --> 00:02:21,870
-<font face="Impress BT Pace" size="36">The Grand Line is the most
+00:02:17,660 --> 00:02:21,620
+<font face="Impress BT Pace" size="82">The Grand Line is the most
 dangerous sea in the world!</font>
 
+48
+00:02:21,620 --> 00:02:25,920
+<font face="Impress BT Pace" size="82">It's crawling with fierce pirates
+who are also after the One Piece!</font>
+
+49
+00:02:25,920 --> 00:02:28,170
+<font face="Impress BT Pace" size="82">And you can bet they
+have formidable ships!</font>
+
+50
+00:02:28,170 --> 00:02:29,590
+<font face="Impress BT Pace" size="82">We need more crewmates, too.</font>
+
 51
-00:02:21,870 --> 00:02:26,120
-<font face="Impress BT Pace" size="36">On top of that, it's crawling with strong
-pirates who are also after the One Piece!</font>
+00:02:29,960 --> 00:02:33,930
+<font face="Impress BT Pace" size="82">From the lack of crew members,
+to the lack of equipment,</font>
 
 52
-00:02:26,120 --> 00:02:28,370
-<font face="Impress BT Pace" size="36">And they're all on
-powerful ships, of course!</font>
+00:02:33,930 --> 00:02:36,300
+<font face="Impress BT Pace" size="82">there's no way we can
+survive like this!</font>
 
 53
-00:02:28,370 --> 00:02:29,750
-<font face="Impress BT Pace" size="36">We need more people, too.</font>
+00:02:36,840 --> 00:02:38,680
+<font face="Impress BT Pace" size="82">Yeah, we need a cook.</font>
 
 54
-00:02:29,750 --> 00:02:34,210
-<font face="Impress BT Pace" size="36">The lack of crew members,
-the lack of equipment...</font>
+00:02:38,680 --> 00:02:39,890
+<font face="Impress BT Pace" size="82">And a musician.</font>
 
 55
-00:02:34,210 --> 00:02:36,690
-<font face="Impress BT Pace" size="36">There's no way we
-could survive like this!</font>
+00:02:40,260 --> 00:02:41,270
+<font face="Impress BT Pace" size="82">A musician?!</font>
 
 56
-00:02:36,690 --> 00:02:40,260
-<font face="Impress BT Pace" size="36">Yeah, we need a cook.
-And a musician.</font>
+00:02:42,890 --> 00:02:44,730
+<font face="Impress BT Pace" size="82">What an idiot...</font>
 
 57
-00:02:40,260 --> 00:02:41,840
-<font face="Impress BT Pace" size="36">A musician?!</font>
+00:02:46,230 --> 00:02:50,230
+<font face="Impress BT Pace" size="82">There's a populated island
+a little south of here.</font>
 
 58
-00:02:43,210 --> 00:02:45,100
-<font face="Impress BT Pace" size="36">You're so stupid...</font>
+00:02:50,230 --> 00:02:54,780
+<font face="Impress BT Pace" size="82">Let's hope we can get our hands
+on a real ship there...</font>
 
 59
-00:02:46,510 --> 00:02:50,560
-<font face="Impress BT Pace" size="36">A little to the south of here is
-an island with people living on it.</font>
+00:02:55,150 --> 00:02:57,240
+<font face="Impress BT Pace" size="82">Alright! Time to get some meat!</font>
 
 60
-00:02:50,560 --> 00:02:55,150
-<font face="Impress BT Pace" size="36">It'd be best if we can get
-ahold of a real ship there...</font>
+00:03:01,540 --> 00:03:05,670
+<font face="Impress BT Pace" size="82">Everyone! We're doomed!</font>
 
 61
-00:02:55,640 --> 00:02:57,920
-<font face="Impress BT Pace" size="36">Alright! Time to get some meat!</font>
+00:03:05,670 --> 00:03:08,250
+<font face="Impress BT Pace" size="82">The pirates are coming!</font>
 
 62
-00:02:57,920 --> 00:02:59,740
-<font face="Impress BT Pace" size="36">Don't forget the booze!</font>
+00:03:08,250 --> 00:03:10,710
+<font face="Impress BT Pace" size="82">Pirates! Pirates!</font>
 
 63
-00:02:59,740 --> 00:03:01,550
-<font face="Impress BT Pace" size="36">You guys!</font>
+00:03:10,710 --> 00:03:13,670
+<font face="Impress BT Pace" size="82">The pirates are coming!</font>
 
 64
-00:03:06,300 --> 00:03:10,300
-<font face="Impress BT Pace" size="36">Terrible news, everyone!</font>
+00:03:13,670 --> 00:03:16,340
+<font face="Impress BT Pace" size="82">Run for your lives!</font>
 
 65
-00:03:10,300 --> 00:03:13,040
-<font face="Impress BT Pace" size="36">Pirates are attacking!</font>
+00:03:16,340 --> 00:03:18,720
+<font face="Impress BT Pace" size="82">Pirates!</font>
 
 66
-00:03:13,040 --> 00:03:15,210
-<font face="Impress BT Pace" size="36">Pirates! Pirates!</font>
+00:03:18,720 --> 00:03:22,180
+<font face="Impress BT Pace" size="82">Run for your lives!</font>
 
 67
-00:03:15,210 --> 00:03:18,170
-<font face="Impress BT Pace" size="36">Pirates are attacking!</font>
+00:03:22,180 --> 00:03:24,060
+<font face="Impress BT Pace" size="82">We're doomed!</font>
 
 68
-00:03:18,170 --> 00:03:20,840
-<font face="Impress BT Pace" size="36">Run for your lives!</font>
+00:03:26,980 --> 00:03:28,600
+<font face="Impress BT Pace" size="82">The pirates...!</font>
 
 69
-00:03:20,840 --> 00:03:23,280
-<font face="Impress BT Pace" size="36">Pirates!</font>
+00:03:30,900 --> 00:03:33,110
+<font face="Impress BT Pace" size="82">The pirates are...</font>
 
 70
-00:03:23,280 --> 00:03:26,720
-<font face="Impress BT Pace" size="36">Run for your lives!</font>
+00:03:33,610 --> 00:03:37,360
+<font face="Chinacat" size="99"><b><font face="DFPGiHi-W7-Strp"><font color="#000000">Usopp
+A Village Youngster</font></font></b></font>
 
 71
-00:03:31,310 --> 00:03:34,010
-<font face="Impress BT Pace" size="36">The pirates...</font>
+00:03:33,610 --> 00:03:37,360
+<font face="Chinacat" size="99"><b><font face="DFPGiHi-W7-Strp"><font color="#faf9f9">Usopp
+A Village Youngster</font></font></b></font>
 
 72
-00:03:34,010 --> 00:03:35,970
-<font face="Impress BT Pace" size="36">are just a lie!</font>
+00:03:33,610 --> 00:03:37,360
+<font face="Chinacat" size="99"><b><font face="DFPGiHi-W7-Strp"><font color="#faf9f9">Usopp
+A Village Youngster</font></font></b></font>
 
 73
-00:03:39,360 --> 00:03:42,700
-<font face="Impress BT Pace" size="36">Oww...</font>
+00:03:33,820 --> 00:03:35,110
+<font face="Impress BT Pace" size="82">just a lie!</font>
 
 74
-00:03:42,700 --> 00:03:46,330
-<font face="Impress BT Pace" size="36">You lying brat! I'm gonna
-get you today for sure!</font>
+00:03:37,700 --> 00:03:40,450
+<font face="Impress BT Pace" size="82">Ow...</font>
 
 75
-00:03:46,330 --> 00:03:48,380
-<font face="Impress BT Pace" size="36">Stay right where you are!</font>
+00:03:41,080 --> 00:03:42,490
+<font face="Impress BT Pace" size="82">You lying brat!</font>
 
 76
-00:03:48,380 --> 00:03:49,870
-<font face="Impress BT Pace" size="36">I'll show you a thing or two!</font>
+00:03:42,490 --> 00:03:44,370
+<font face="Impress BT Pace" size="82">You're really gonna get it this time!</font>
 
 77
-00:03:53,330 --> 00:03:56,700
-<font face="Impress BT Pace" size="36">Here they come!
+00:03:47,810 --> 00:03:51,210
+<font face="Impress BT Pace" size="82">Here they come! Here they come!
 Here they come! Here they come!</font>
 
 78
-00:03:56,700 --> 00:03:58,800
-<font face="Impress BT Pace" size="36">Get back here, you damn kid!</font>
+00:03:51,210 --> 00:03:53,300
+<font face="Impress BT Pace" size="82">Get back here, you little punk!</font>
 
 79
-00:04:00,500 --> 00:04:03,840
-<font face="Impress BT Pace" size="36">Just try and catch me!</font>
+00:03:55,050 --> 00:03:57,260
+<font face="Impress BT Pace" size="82">Catch me if you can!</font>
 
 80
-00:04:03,840 --> 00:04:06,270
-<font face="Impress BT Pace" size="36">Come and get me!</font>
+00:03:58,430 --> 00:04:00,510
+<font face="Impress BT Pace" size="82">Come and get me!</font>
 
 81
-00:04:11,210 --> 00:04:14,450
-<font face="Impress BT Pace" size="36">Dammit! He got away again!</font>
+00:04:05,430 --> 00:04:08,270
+<font face="Impress BT Pace" size="82">Dammit! He got away again!</font>
 
 82
-00:04:14,450 --> 00:04:17,030
-<font face="Impress BT Pace" size="36">He's one hell of a troublemaker!</font>
+00:04:09,020 --> 00:04:11,520
+<font face="Impress BT Pace" size="82">He's one hell of a troublemaker!</font>
 
 83
-00:04:17,030 --> 00:04:19,170
-<font face="Impress BT Pace" size="36">He's in trouble if I find him!</font>
+00:04:11,520 --> 00:04:13,650
+<font face="Impress BT Pace" size="82">He's gonna get it when we find him!</font>
 
 84
-00:04:19,170 --> 00:04:21,680
-<font face="Impress BT Pace" size="36">Where the hell'd he go?!</font>
+00:04:14,030 --> 00:04:16,400
+<font face="Impress BT Pace" size="82">Where the hell did he go?!</font>
 
 85
-00:04:24,210 --> 00:04:27,740
-<font face="Roboto" size="44"><b><font size="40">Usopp
-<font size="35">Village Youngster</font></font></b></font>
+00:04:26,200 --> 00:04:28,080
+<font face="Impress BT Pace" size="82">Another job well done!</font>
 
 86
-00:04:31,830 --> 00:04:33,870
-<font face="Impress BT Pace" size="36">Another job well done today!</font>
+00:04:28,080 --> 00:04:32,210
+<font face="Impress BT Pace" size="82">I breathed some life into
+this boring village!</font>
 
 87
-00:04:33,870 --> 00:04:37,900
-<font face="Impress BT Pace" size="36">I sent the wind of excitement
-into this boring village!</font>
+00:04:32,960 --> 00:04:34,090
+<font face="Impress BT Pace" size="82">Ah! There he is!</font>
 
 88
-00:04:38,910 --> 00:04:40,170
-<font face="Impress BT Pace" size="36">There he is!</font>
+00:04:35,800 --> 00:04:37,220
+<font face="Impress BT Pace" size="82">Oh, it's you guys!</font>
 
 89
-00:04:41,620 --> 00:04:43,300
-<font face="Impress BT Pace" size="36">Oh, it's you guys!</font>
+00:04:37,760 --> 00:04:40,050
+<font face="Impress BT Pace" size="82">Good morning, Captain Usopp!</font>
 
 90
-00:04:43,300 --> 00:04:46,180
-<font face="Impress BT Pace" size="36">Good morning, Captain Usopp!</font>
+00:04:40,090 --> 00:04:43,430
+<font face="Chinacat" size="99"><b><font face="DFPGiHi-W7-Strp"><font color="#000000">Carrot and Pepper
+Village Boys</font></font></b></font>
 
 91
-00:04:46,180 --> 00:04:49,510
-<font face="Impress BT Pace" size="36">The Usopp Pirates have arrived!</font>
+00:04:40,090 --> 00:04:43,430
+<font face="Chinacat" size="99"><b><font face="DFPGiHi-W7-Strp"><font color="#faf9f9">Carrot and Pepper
+Village Boys</font></font></b></font>
 
 92
-00:04:46,560 --> 00:04:49,500
-<font face="Roboto" size="44"><b><font size="30">Ninjin
-<font size="25">Village Boy</font></font></b></font>
+00:04:40,090 --> 00:04:43,430
+<font face="Chinacat" size="99"><b><font face="DFPGiHi-W7-Strp"><font color="#faf9f9">Carrot and Pepper
+Village Boys</font></font></b></font>
 
 93
-00:04:46,560 --> 00:04:49,500
-<font face="Roboto" size="44"><b><font size="30">Piman
-<font size="25">Village Boy</font></font></b></font>
+00:04:40,300 --> 00:04:43,430
+<font face="Impress BT Pace" size="82">The Usopp Pirates have arrived!</font>
 
 94
-00:04:51,550 --> 00:04:53,040
-<font face="Impress BT Pace" size="36">Piman! Ninjin!</font>
+00:04:45,560 --> 00:04:46,810
+<font face="Impress BT Pace" size="82">Pepper! Carrot!</font>
 
 95
-00:04:53,040 --> 00:04:55,520
-<font face="Impress BT Pace" size="36">Is it just you two? Where's Tamanegi?</font>
+00:04:46,810 --> 00:04:49,440
+<font face="Impress BT Pace" size="82">Just the two of you? Where's Onion?</font>
 
 96
-00:04:59,170 --> 00:05:02,800
-<font face="Impress BT Pace" size="36">Terrible news! Terrible news!</font>
+00:04:53,060 --> 00:04:56,650
+<font face="Impress BT Pace" size="82">We're doomed! We're doomed!</font>
 
 97
-00:05:02,800 --> 00:05:03,560
-<font face="Impress BT Pace" size="36">Oww!</font>
+00:04:56,650 --> 00:04:57,400
+<font face="Impress BT Pace" size="82">Ow!</font>
 
 98
-00:05:04,770 --> 00:05:06,110
-<font face="Impress BT Pace" size="36">Terrible news!</font>
+00:04:58,820 --> 00:04:59,990
+<font face="Impress BT Pace" size="82">We're doomed!</font>
 
 99
-00:05:06,110 --> 00:05:07,870
-<font face="Impress BT Pace" size="36">Tamanegi...</font>
+00:05:00,530 --> 00:05:01,780
+<font face="Impress BT Pace" size="82">Onion...</font>
 
 100
-00:05:07,870 --> 00:05:09,950
-<font face="Impress BT Pace" size="36">What's he freaking out about?</font>
+00:05:01,780 --> 00:05:03,870
+<font face="Impress BT Pace" size="82">What's he freaking out about?</font>
 
 101
-00:05:09,950 --> 00:05:12,240
-<font face="Impress BT Pace" size="36">Terrible news! Terrible news!</font>
+00:05:03,870 --> 00:05:06,200
+<font face="Impress BT Pace" size="82">We're doomed! We're doomed!</font>
 
 102
-00:05:12,240 --> 00:05:15,210
-<font face="Impress BT Pace" size="36">Terrible news! Pirates are here!</font>
+00:05:03,910 --> 00:05:09,830
+<font face="Chinacat" size="99"><b><font face="DFPGiHi-W7-Strp"><font color="#000000">Onion
+A Village Boy</font></font></b></font>
 
 103
-00:05:15,210 --> 00:05:18,710
-<font face="Impress BT Pace" size="36">There's a boat with a skull
-mark at the north shore!</font>
+00:05:03,910 --> 00:05:09,830
+<font face="Chinacat" size="99"><b><font face="DFPGiHi-W7-Strp"><font color="#faf9f9">Onion
+A Village Boy</font></font></b></font>
 
 104
-00:05:18,710 --> 00:05:19,860
-<font face="Impress BT Pace" size="36">Yeah, right!</font>
+00:05:03,910 --> 00:05:09,830
+<font face="Chinacat" size="99"><b><font face="DFPGiHi-W7-Strp"><font color="#faf9f9">Onion
+A Village Boy</font></font></b></font>
 
 105
-00:05:20,720 --> 00:05:23,590
-<font face="Roboto" size="44"><b><font size="35">Tamanegi
-<font size="30">Village Boy</font></font></b></font>
+00:05:06,200 --> 00:05:07,540
+<font face="Impress BT Pace" size="82">We're doomed!</font>
 
 106
-00:05:22,050 --> 00:05:23,590
-<font face="Impress BT Pace" size="36">It's the truth!</font>
+00:05:07,540 --> 00:05:09,120
+<font face="Impress BT Pace" size="82">Th-The pirates are coming!</font>
 
 107
-00:05:23,590 --> 00:05:25,800
-<font face="Impress BT Pace" size="36">Th-The truth?</font>
+00:05:09,120 --> 00:05:12,710
+<font face="Impress BT Pace" size="82">There's a boat with a skull
+mark at the north shore!</font>
 
 108
-00:05:25,800 --> 00:05:28,300
-<font face="Impress BT Pace" size="36">It's true! This is bad!</font>
+00:05:12,710 --> 00:05:13,750
+<font face="Impress BT Pace" size="82">Yeah, right!</font>
 
 109
-00:05:29,260 --> 00:05:32,490
-<font face="Impress BT Pace" size="36">Oops! It's time for my snack!</font>
+00:05:15,920 --> 00:05:17,510
+<font face="Impress BT Pace" size="82">It's the truth!</font>
 
 110
-00:05:32,490 --> 00:05:33,390
-<font face="Impress BT Pace" size="36">– Don't run away!
-– Don't run away!</font>
+00:05:17,510 --> 00:05:19,760
+<font face="Impress BT Pace" size="82">Th-The truth?</font>
 
 111
-00:05:34,560 --> 00:05:40,520
-<font face="Impress BT Pace" size="36">Actually, I have "I'll Die if
-I Don't Eat My Snacks-disease"!</font>
+00:05:20,090 --> 00:05:22,260
+<font face="Impress BT Pace" size="82">It's true! This is bad!</font>
 
 112
-00:05:40,520 --> 00:05:42,240
-<font face="Impress BT Pace" size="36">– Liar!
-– Liar!</font>
+00:05:23,010 --> 00:05:24,510
+<font face="Impress BT Pace" size="82">Oh, crap!</font>
 
 113
-00:05:42,930 --> 00:05:46,860
-<font face="Impress BT Pace" size="36">Don't you want to be
-a real pirate, Captain?!</font>
+00:05:24,510 --> 00:05:26,350
+<font face="Impress BT Pace" size="82">It's time for my snack!</font>
 
 114
-00:05:46,860 --> 00:05:50,490
-<font face="Impress BT Pace" size="36">What good is a pirate
-who's afraid of pirates?!</font>
+00:05:26,350 --> 00:05:27,310
+<font face="Impress BT Pace" size="82">– Don't run away!
+– Don't run away!</font>
 
 115
-00:05:50,490 --> 00:05:54,280
-<font face="Impress BT Pace" size="36">If I recall correctly, it was
-Buggy the Clown's mark!</font>
+00:05:28,520 --> 00:05:33,560
+<font face="Impress BT Pace" size="82">Actually, I have I'll-die-if-I-
+don't-eat-my-snacks disease!</font>
 
 116
-00:05:54,280 --> 00:05:58,500
-<font face="Impress BT Pace" size="36">B-B-Buggy the Clown?!</font>
-
-117
-00:05:59,920 --> 00:06:02,090
-<font face="Impress BT Pace" size="36">I think I'll just...</font>
-
-118
-00:06:02,090 --> 00:06:05,840
-<font face="Impress BT Pace" size="36">But it was just two small boats!</font>
-
-119
-00:06:05,840 --> 00:06:08,640
-<font face="Impress BT Pace" size="36">And three people or so...</font>
-
-120
-00:06:08,640 --> 00:06:11,880
-<font face="Impress BT Pace" size="36">Alright! Let's go, Usopp Pirates!</font>
-
-121
-00:06:11,880 --> 00:06:14,520
-<font face="Impress BT Pace" size="36">We must protect our peaceful village!</font>
-
-122
-00:06:14,520 --> 00:06:16,930
-<font face="Impress BT Pace" size="36">Alright, let's go! Follow me!</font>
-
-123
-00:06:17,940 --> 00:06:19,480
-<font face="Impress BT Pace" size="36">– R-Right!
-– R-Right!</font>
-
-124
-00:06:28,140 --> 00:06:29,960
-<font face="Impress BT Pace" size="36">There's a village past here?</font>
-
-125
-00:06:29,960 --> 00:06:30,860
-<font face="Impress BT Pace" size="36">Yeah.</font>
-
-126
-00:06:30,860 --> 00:06:33,200
-<font face="Impress BT Pace" size="36">It looks like it's a small one though.</font>
-
-127
-00:06:33,200 --> 00:06:34,780
-<font face="Impress BT Pace" size="36">Ah!</font>
-
-128
-00:06:34,780 --> 00:06:37,500
-<font face="Impress BT Pace" size="36">Finally on dry land again...</font>
-
-129
-00:06:40,330 --> 00:06:41,710
-<font face="Impress BT Pace" size="36">Careful!</font>
-
-130
-00:06:41,710 --> 00:06:43,500
-<font face="Impress BT Pace" size="36">I sense something!</font>
-
-131
-00:06:43,500 --> 00:06:45,300
-<font face="Impress BT Pace" size="36">Look out!</font>
-
-132
-00:06:52,630 --> 00:06:54,060
-<font face="Impress BT Pace" size="36">That's awesome!</font>
-
-133
-00:06:54,060 --> 00:06:56,060
-<font face="Impress BT Pace" size="36">Is this the time to be impressed?!</font>
-
-134
-00:06:58,750 --> 00:07:03,170
-<font face="Impress BT Pace" size="36">I am Usopp, leader of the great pirates
-who reign over this village!</font>
-
-135
-00:07:03,170 --> 00:07:08,820
-<font face="Impress BT Pace" size="36">People praise me—and then they praise me
-more—and refer to me as Captain Usopp!</font>
-
-136
-00:07:11,200 --> 00:07:14,990
-<font face="Impress BT Pace" size="36">If you're thinking of attacking
-this village, then forget it!</font>
-
-137
-00:07:14,990 --> 00:07:19,910
-<font face="Impress BT Pace" size="36">My 80 million subordinates
-won't sit by quietly!</font>
-
-138
-00:07:19,910 --> 00:07:24,380
-<font face="Impress BT Pace" size="36">Awesome!</font>
-
-139
-00:07:25,790 --> 00:07:27,480
-<font face="Impress BT Pace" size="36">You're lying, aren't you?</font>
-
-140
-00:07:28,230 --> 00:07:29,340
-<font face="Impress BT Pace" size="36">She saw through it!</font>
-
-141
-00:07:29,340 --> 00:07:32,090
-<font face="Impress BT Pace" size="36">See, you admitted it.</font>
-
-142
-00:07:32,090 --> 00:07:37,060
-<font face="Impress BT Pace" size="36">I admitted it to her!</font>
-
-143
-00:07:39,230 --> 00:07:41,580
-<font face="Impress BT Pace" size="36">What?! He was lying?!</font>
-
-144
-00:07:41,580 --> 00:07:43,700
-<font face="Impress BT Pace" size="36">Curse you, you crafty tactician!</font>
-
-145
-00:07:43,700 --> 00:07:45,980
-<font face="Impress BT Pace" size="36">80 million may have
-been an exaggeration,</font>
-
-146
-00:07:45,980 --> 00:07:48,360
-<font face="Impress BT Pace" size="36">but I do have great men
-under my command!</font>
-
-147
-00:07:54,740 --> 00:07:57,120
-<font face="Impress BT Pace" size="36">Like maybe <i>three</i> people?</font>
-
-148
-00:07:58,640 --> 00:08:00,620
-<font face="Impress BT Pace" size="36">– She saw through it!
-– She saw through it!</font>
-
-149
-00:08:00,620 --> 00:08:03,330
-<font face="Impress BT Pace" size="36">R-Run!</font>
-
-150
-00:08:03,330 --> 00:08:07,550
-<font face="Impress BT Pace" size="36">H-Hey, you guys! Don't run away!</font>
-
-151
-00:08:09,420 --> 00:08:12,300
-<font face="Impress BT Pace" size="36">You're a riot!</font>
-
-152
-00:08:12,300 --> 00:08:15,470
-<font face="Impress BT Pace" size="36">Hey, you! Don't insult me!</font>
-
-153
-00:08:15,470 --> 00:08:18,100
-<font face="Impress BT Pace" size="36">I'm a very proud man!</font>
-
-154
-00:08:18,740 --> 00:08:22,100
-<font face="Impress BT Pace" size="36">Because of my great pride,
-people call me...</font>
-
-155
-00:08:22,600 --> 00:08:25,560
-<font face="Impress BT Pace" size="36">"Proud Usopp"!</font>
-
-156
-00:08:26,680 --> 00:08:28,480
-<font face="Impress BT Pace" size="36">You saw it yourself just now!</font>
-
-157
-00:08:28,480 --> 00:08:34,280
-<font face="Impress BT Pace" size="36">My slingshot skills are far greater
-than your average pistol!</font>
-
-158
-00:08:41,290 --> 00:08:43,800
-<font face="Impress BT Pace" size="36">Now that you've drawn your pistol...</font>
-
-159
-00:08:43,800 --> 00:08:45,640
-<font face="Impress BT Pace" size="36">you've put your life on the line.</font>
-
-160
-00:08:45,640 --> 00:08:47,630
-<font face="Impress BT Pace" size="36">Huh?!</font>
-
-161
-00:08:47,630 --> 00:08:51,680
-<font face="Impress BT Pace" size="36">I'm saying those aren't
-for threatening people.</font>
-
-162
-00:09:08,740 --> 00:09:13,850
-<font face="Impress BT Pace" size="36">Real pirates definitely have way
-more punch behind their words...</font>
-
-163
-00:09:13,850 --> 00:09:14,950
-<font face="Impress BT Pace" size="36">Awesome...</font>
-
-164
-00:09:21,130 --> 00:09:22,330
-<font face="Impress BT Pace" size="36">We stole those lines!</font>
-
-165
-00:09:22,330 --> 00:09:23,330
-<font face="Impress BT Pace" size="36">Eh?</font>
-
-166
-00:09:23,990 --> 00:09:27,250
-<font face="Impress BT Pace" size="36">From Shanks, a pirate I respect!</font>
-
-167
-00:09:27,960 --> 00:09:30,110
-<font face="Impress BT Pace" size="36">Sh-Shanks?!</font>
-
-168
-00:09:30,110 --> 00:09:34,570
-<font face="Impress BT Pace" size="36">You know the great pirate,
-Red-Haired Shanks?!</font>
-
-169
-00:09:34,570 --> 00:09:35,470
-<font face="Impress BT Pace" size="36">Yeah!</font>
-
-170
-00:09:35,550 --> 00:09:39,430
-<font face="Roboto" size="44"><b><font size="25">Village
-Restaurant</font></b></font>
-
-171
-00:09:44,720 --> 00:09:46,030
-<font face="Impress BT Pace" size="36">Good, huh?</font>
-
-172
-00:09:47,640 --> 00:09:50,020
-<font face="Impress BT Pace" size="36">I met Shanks when I was a kid!</font>
-
-173
-00:09:50,970 --> 00:09:54,330
-<font face="Impress BT Pace" size="36">So, do you have any friends
-in this village who know how to sail?</font>
-
-174
-00:09:54,330 --> 00:09:56,200
-<font face="Impress BT Pace" size="36">Or anyone who can supply a big ship?</font>
-
-175
-00:09:57,550 --> 00:10:00,200
-<font face="Impress BT Pace" size="36">As you can see,
-we're just a tiny village...</font>
-
-176
-00:10:00,200 --> 00:10:03,300
-<font face="Impress BT Pace" size="36">Sorry, but we can't
-live up to your hopes.</font>
-
-177
-00:10:03,300 --> 00:10:05,120
-<font face="Impress BT Pace" size="36">On the top of the hill...</font>
-
-178
-00:10:05,120 --> 00:10:07,580
-<font face="Impress BT Pace" size="36">There's a huge mansion.</font>
-
-179
-00:10:07,580 --> 00:10:10,160
-<font face="Impress BT Pace" size="36">Say! Do you know them, Usopp?!</font>
-
-180
-00:10:10,160 --> 00:10:12,840
-<font face="Impress BT Pace" size="36">Think you could ask them
-to help pay for one?</font>
-
-181
-00:10:12,840 --> 00:10:14,460
-<font face="Impress BT Pace" size="36">You can't go there!</font>
-
-182
-00:10:16,830 --> 00:10:20,140
-<font face="Impress BT Pace" size="36">I-I just remembered
-something I have to do!</font>
-
-183
-00:10:20,140 --> 00:10:23,010
-<font face="Impress BT Pace" size="36">I have lots of influence here!</font>
-
-184
-00:10:23,010 --> 00:10:25,720
-<font face="Impress BT Pace" size="36">So, eat and drink
-as much as you want!</font>
-
-185
-00:10:25,720 --> 00:10:28,190
-<font face="Impress BT Pace" size="36">Alright! Later!</font>
-
-186
-00:10:30,410 --> 00:10:33,230
-<font face="Impress BT Pace" size="36">Why was he in such a rush?</font>
-
-187
-00:10:37,970 --> 00:10:39,740
-<font face="Impress BT Pace" size="36">Is this really the place?!</font>
-
-188
-00:10:39,740 --> 00:10:41,840
-<font face="Impress BT Pace" size="36">Yeah, the pirates dragged him inside!</font>
-
-189
-00:10:41,840 --> 00:10:43,160
-<font face="Impress BT Pace" size="36">We gotta save him!</font>
-
-190
-00:10:43,160 --> 00:10:44,580
-<font face="Impress BT Pace" size="36">But they're real pirates!</font>
-
-191
-00:10:44,580 --> 00:10:46,310
-<font face="Impress BT Pace" size="36">They might've grilled and eaten him!</font>
-
-192
-00:10:46,310 --> 00:10:47,120
-<font face="Impress BT Pace" size="36">You idiot!</font>
-
-193
-00:10:47,120 --> 00:10:48,910
-<font face="Impress BT Pace" size="36">It's old hags who eat people!</font>
-
-194
-00:10:49,970 --> 00:10:55,130
-<font face="Impress BT Pace" size="36">This will be the most epic battle
-since the Usopp Pirates' formation!</font>
-
-195
-00:10:55,130 --> 00:10:56,210
-<font face="Impress BT Pace" size="36">– Yeah!
-– Yeah!</font>
-
-196
-00:10:57,530 --> 00:11:00,010
-<font face="Impress BT Pace" size="36">– The Usopp Pirates have arrived!
-– The Usopp Pirates have arrived!</font>
-
-197
-00:11:02,830 --> 00:11:03,970
-<font face="Impress BT Pace" size="36">Who are they?</font>
-
-198
-00:11:03,970 --> 00:11:05,770
-<font face="Impress BT Pace" size="36">Th-The captain is gone!</font>
-
-199
-00:11:05,770 --> 00:11:06,770
-<font face="Impress BT Pace" size="36">You don't think he...</font>
-
-200
-00:11:07,610 --> 00:11:09,330
-<font face="Impress BT Pace" size="36">H-Hey, pirates!</font>
-
-201
-00:11:09,330 --> 00:11:11,980
-<font face="Impress BT Pace" size="36">What'd you do with Captain Usopp?!</font>
-
-202
-00:11:11,980 --> 00:11:13,470
-<font face="Impress BT Pace" size="36">– What'd you do with him?!
-– What'd you do with him?!</font>
-
-203
-00:11:13,470 --> 00:11:16,260
-<font face="Impress BT Pace" size="36">That meat was yummy!</font>
-
-204
-00:11:16,260 --> 00:11:17,780
-<font face="Impress BT Pace" size="36">Meat?!</font>
-
-205
-00:11:17,780 --> 00:11:19,240
-<font face="Impress BT Pace" size="36">Don't tell me they...</font>
-
-206
-00:11:21,200 --> 00:11:23,790
-<font face="Impress BT Pace" size="36">W-What?! What did you do?!</font>
-
-207
-00:11:23,790 --> 00:11:26,660
-<font face="Impress BT Pace" size="36">If you're lookin' for your captain...</font>
-
-208
-00:11:28,330 --> 00:11:29,810
-<font face="Impress BT Pace" size="36">we ate him.</font>
-
-209
-00:11:32,980 --> 00:11:34,090
-<font face="Impress BT Pace" size="36">– Old hag!
-– Old hag!</font>
-
-210
-00:11:34,090 --> 00:11:36,300
-<font face="Impress BT Pace" size="36">What're you looking at me for?!</font>
-
-211
-00:11:38,210 --> 00:11:41,840
-<font face="Impress BT Pace" size="36">You just <i>had</i> to say something stupid!</font>
-
-212
-00:11:53,820 --> 00:11:56,730
-<font face="Roboto" size="44"><b><font size="30">Village
-Mansion</font></b></font>
-
-213
-00:12:08,300 --> 00:12:10,580
-<font face="Impress BT Pace" size="36">You wish to see Usopp?</font>
-
-214
-00:12:11,370 --> 00:12:13,170
-<font face="Impress BT Pace" size="36">Not this again...</font>
-
-215
-00:12:13,170 --> 00:12:14,750
-<font face="Impress BT Pace" size="36">May I?</font>
-
-216
-00:12:14,750 --> 00:12:16,290
-<font face="Impress BT Pace" size="36">I want to talk to him.</font>
-
-217
-00:12:17,650 --> 00:12:18,920
-<font face="Impress BT Pace" size="36">That will not do.</font>
-
-218
-00:12:18,920 --> 00:12:21,510
-<font face="Impress BT Pace" size="36">That man is the biggest
-liar in the village!</font>
-
-219
-00:12:22,100 --> 00:12:24,170
-<font face="Impress BT Pace" size="36">For the condition you are in,</font>
-
-220
-00:12:24,170 --> 00:12:27,260
-<font face="Impress BT Pace" size="36">Usopp's nonsensical stories
-are the last thing you need!</font>
-
-221
-00:12:27,260 --> 00:12:27,970
-<font face="Impress BT Pace" size="36">But...</font>
-
-222
-00:12:28,020 --> 00:12:33,230
-<font face="Roboto" size="44"><b><font size="30">Klahadore
-<font size="25">Mansion Butler</font></font></b></font>
-
-223
-00:12:28,280 --> 00:12:30,020
-<font face="Impress BT Pace" size="36">Your late parents entrusted me</font>
-
-224
-00:12:30,020 --> 00:12:32,200
-<font face="Impress BT Pace" size="36">with taking care of you...</font>
-
-225
-00:12:32,200 --> 00:12:36,020
-<font face="Impress BT Pace" size="36">to the fullest of my abilities, Miss Kaya.</font>
-
-226
-00:12:36,660 --> 00:12:39,250
-<font face="Impress BT Pace" size="36">Now then, I'll leave your medicine here.</font>
-
-227
-00:12:39,250 --> 00:12:41,610
-<font face="Impress BT Pace" size="36">Please be sure to take it.</font>
-
-228
-00:12:41,660 --> 00:12:46,780
-<font face="Roboto" size="44"><b><font size="35">Kaya
-<font size="30">Mansion Owner</font></font></b></font>
-
-229
-00:12:45,430 --> 00:12:46,780
-<font face="Impress BT Pace" size="36">Jerk.</font>
-
-230
-00:12:46,780 --> 00:12:48,700
-<font face="Impress BT Pace" size="36">"Jerk" is fine.</font>
-
-231
-00:12:48,700 --> 00:12:50,790
-<font face="Impress BT Pace" size="36">What's bad is bad.</font>
-
-232
-00:13:01,290 --> 00:13:02,670
-<font face="Impress BT Pace" size="36">Usopp!</font>
-
-233
-00:13:02,670 --> 00:13:03,690
-<font face="Impress BT Pace" size="36">Heya!</font>
-
-234
-00:13:03,690 --> 00:13:05,590
-<font face="Impress BT Pace" size="36">You seem as down as ever!</font>
-
-235
-00:13:06,220 --> 00:13:07,470
-<font face="Impress BT Pace" size="36">I'm sorry!</font>
-
-236
-00:13:07,470 --> 00:13:10,930
-<font face="Impress BT Pace" size="36">I'd really like to invite you in
-as a real guest...</font>
-
-237
-00:13:11,720 --> 00:13:14,870
-<font face="Impress BT Pace" size="36">but Klahadore
-refuses to allow it.</font>
-
-238
-00:13:14,870 --> 00:13:16,810
-<font face="Impress BT Pace" size="36">He's not a bad person, though.</font>
-
-239
-00:13:16,810 --> 00:13:18,380
-<font face="Impress BT Pace" size="36">Don't sweat it!</font>
-
-240
-00:13:18,380 --> 00:13:21,690
-<font face="Impress BT Pace" size="36">After all, I <i>am</i>
-a brave warrior of the sea!</font>
-
-241
-00:13:21,690 --> 00:13:26,240
-<font face="Impress BT Pace" size="36">I'd only feel cramped
-inside a fancy mansion!</font>
-
-242
-00:13:26,240 --> 00:13:29,240
-<font face="Impress BT Pace" size="36">So what adventure are you
-going to tell me today?</font>
-
-243
-00:13:29,240 --> 00:13:32,200
-<font face="Impress BT Pace" size="36">Hmm, let's see...</font>
-
-244
-00:13:32,200 --> 00:13:33,080
-<font face="Impress BT Pace" size="36">Alright!</font>
-
-245
-00:13:33,080 --> 00:13:35,070
-<font face="Impress BT Pace" size="36">When I was five years old,</font>
-
-246
-00:13:35,070 --> 00:13:38,160
-<font face="Impress BT Pace" size="36">I fought a giant goldfish
-that lived in the south seas.</font>
-
-247
-00:13:38,160 --> 00:13:39,170
-<font face="Impress BT Pace" size="36">Goldfish?</font>
-
-248
-00:13:39,170 --> 00:13:40,410
-<font face="Impress BT Pace" size="36">Yeah!</font>
-
-249
-00:13:40,410 --> 00:13:42,630
-<font face="Impress BT Pace" size="36">What first shocked me...</font>
-
-250
-00:13:42,630 --> 00:13:44,300
-<font face="Impress BT Pace" size="36">was the immense size of its poop!</font>
-
-251
-00:13:44,300 --> 00:13:48,670
-<font face="Impress BT Pace" size="36">It was so big that I landed on it,
-thinking it was solid ground!</font>
-
-252
-00:14:00,770 --> 00:14:02,790
-<font face="Impress BT Pace" size="36">It's huge!</font>
-
-253
-00:14:02,790 --> 00:14:05,860
-<font face="Impress BT Pace" size="36">If our captain ran off
-at this hour, he'd be here.</font>
-
-254
-00:14:05,860 --> 00:14:08,860
-<font face="Impress BT Pace" size="36">Oh? What's he come here for?</font>
-
-255
-00:14:08,860 --> 00:14:10,450
-<font face="Impress BT Pace" size="36">To lie!</font>
-
-256
-00:14:10,450 --> 00:14:12,260
-<font face="Impress BT Pace" size="36">That's a bad thing!</font>
-
-257
-00:14:12,260 --> 00:14:14,830
-<font face="Impress BT Pace" size="36">He's not bad! He's great! Right?!</font>
-
-258
-00:14:14,830 --> 00:14:16,250
-<font face="Impress BT Pace" size="36">Yeah! He's great!</font>
-
-259
-00:14:16,250 --> 00:14:18,370
-<font face="Impress BT Pace" size="36">How does that work?</font>
-
-260
-00:14:19,480 --> 00:14:22,950
-<font face="Impress BT Pace" size="36">Kaya, the girl who lives here, is sick.</font>
-
-261
-00:14:20,750 --> 00:14:22,480
-<font face="Impress BT Pace" size="36" color="#d6d6d6">A ship was stopped by the goldfish,</font>
-
-262
-00:14:22,480 --> 00:14:26,910
-<font face="Impress BT Pace" size="36" color="#d6d6d6">and on it was a pirate bigger
-than even a mountain!</font>
-
-263
-00:14:22,950 --> 00:14:28,040
-<font face="Impress BT Pace" size="36">And she's been depressed ever since
-her parents died from an illness a year ago.</font>
-
-264
-00:14:27,010 --> 00:14:29,080
-<font face="Impress BT Pace" size="36" color="#d6d6d6">His face was hilarious!</font>
-
-265
-00:14:28,040 --> 00:14:32,220
-<font face="Impress BT Pace" size="36">Even though she has lots
-of money, she's so sad.</font>
-
-266
-00:14:33,830 --> 00:14:37,830
-<font face="Impress BT Pace" size="36">So our captain tells his special
-made-up stories to make her laugh!</font>
-
-267
-00:14:37,830 --> 00:14:41,060
-<font face="Impress BT Pace" size="36">'Cause our captain's
-the best at telling lies!</font>
-
-268
-00:14:41,060 --> 00:14:44,330
-<font face="Impress BT Pace" size="36">Never heard of a pirate with
-a face like that, have you?</font>
-
-269
-00:14:44,330 --> 00:14:46,530
-<font face="Impress BT Pace" size="36">Oh, he's a good guy!</font>
-
-270
-00:14:46,530 --> 00:14:47,720
-<font face="Impress BT Pace" size="36">Yeah!</font>
-
-271
-00:14:47,720 --> 00:14:51,510
-<font face="Impress BT Pace" size="36">I like the captain
-because he's a meddler!</font>
-
-272
-00:14:51,510 --> 00:14:53,830
-<font face="Impress BT Pace" size="36">I like how bossy he is!</font>
-
-273
-00:14:53,830 --> 00:14:56,080
-<font face="Impress BT Pace" size="36">I like how boastful he is!</font>
-
-274
-00:14:56,080 --> 00:14:59,360
-<font face="Impress BT Pace" size="36">And that's helped her feel better?</font>
-
-275
-00:14:59,360 --> 00:15:01,040
-<font face="Impress BT Pace" size="36">Yeah, a lot better!</font>
-
-276
-00:15:01,040 --> 00:15:02,400
-<font face="Impress BT Pace" size="36">Great!</font>
-
-277
-00:15:02,400 --> 00:15:05,000
-<font face="Impress BT Pace" size="36">Let's go ask her for a ship then!</font>
-
-278
-00:15:05,640 --> 00:15:07,620
-<font face="Impress BT Pace" size="36">Just getting in is impossible!</font>
-
-279
-00:15:07,620 --> 00:15:10,010
-<font face="Impress BT Pace" size="36">There are strong guards at the gate!</font>
-
-280
-00:15:10,560 --> 00:15:11,390
-<font face="Impress BT Pace" size="36">– Huh?
-– Huh?</font>
-
-281
-00:15:11,390 --> 00:15:12,270
-<font face="Impress BT Pace" size="36">Where'd Luffy go?</font>
-
-282
-00:15:12,270 --> 00:15:13,760
-<font face="Impress BT Pace" size="36">I'll go ask!</font>
-
-283
-00:15:13,760 --> 00:15:15,510
-<font face="Impress BT Pace" size="36">Wait, you're not gonna...?!</font>
-
-284
-00:15:15,510 --> 00:15:18,230
-<font face="Impress BT Pace" size="36">Gum-Gum...</font>
-
-285
-00:15:20,400 --> 00:15:21,650
-<font face="Impress BT Pace" size="36">His arms stretched!</font>
-
-286
-00:15:21,650 --> 00:15:22,690
-<font face="Impress BT Pace" size="36">He's a monster!</font>
-
-287
-00:15:22,690 --> 00:15:26,440
-<font face="Impress BT Pace" size="36">Pardon...</font>
-
-288
-00:15:23,750 --> 00:15:24,940
-<font face="Impress BT Pace" size="36" color="#d6d6d6">Hey!</font>
-
-289
-00:15:26,440 --> 00:15:29,950
-<font face="Impress BT Pace" size="36">the Intrusion!</font>
-
-290
-00:15:29,950 --> 00:15:30,740
-<font face="Impress BT Pace" size="36">Huh?</font>
-
-291
-00:15:32,160 --> 00:15:33,990
-<font face="Impress BT Pace" size="36">Yahoo!</font>
-
-292
-00:15:42,130 --> 00:15:43,670
-<font face="Impress BT Pace" size="36">That worked great!</font>
-
-293
-00:15:43,670 --> 00:15:44,670
-<font face="Impress BT Pace" size="36">It did not!</font>
-
-294
-00:15:44,670 --> 00:15:46,840
-<font face="Impress BT Pace" size="36">A-Are you all right?!</font>
-
-295
-00:15:47,430 --> 00:15:49,680
-<font face="Impress BT Pace" size="36">Yeah! It's okay, it's okay!</font>
-
-296
-00:15:49,680 --> 00:15:53,100
-<font face="Impress BT Pace" size="36">They're new recruits who heard
-all about me and came from afar...</font>
-
-297
-00:15:53,100 --> 00:15:55,740
-<font face="Impress BT Pace" size="36">to join the Usopp Pirates!</font>
-
-298
-00:15:55,740 --> 00:15:58,690
-<font face="Impress BT Pace" size="36">Hm? No we didn't.</font>
-
-299
-00:15:58,690 --> 00:16:00,520
-<font face="Impress BT Pace" size="36">We're here to ask a favor!</font>
-
-300
-00:16:00,520 --> 00:16:02,360
-<font face="Impress BT Pace" size="36">A favor? Of me?</font>
-
-301
-00:16:02,360 --> 00:16:06,440
-<font face="Impress BT Pace" size="36">Yeah! We want a big ship–</font>
-
-302
-00:16:04,950 --> 00:16:06,440
-<font face="Impress BT Pace" size="36" color="#d6d6d6">You, there!</font>
-
-303
-00:16:07,850 --> 00:16:09,700
-<font face="Impress BT Pace" size="36">What are you doing?!</font>
-
-304
-00:16:11,660 --> 00:16:13,410
-<font face="Impress BT Pace" size="36">Klahadore...</font>
-
-305
-00:16:14,590 --> 00:16:16,060
-<font face="Impress BT Pace" size="36">I don't appreciate you all...</font>
-
-306
-00:16:17,410 --> 00:16:19,910
-<font face="Impress BT Pace" size="36">breaking in here without permission!</font>
-
-307
-00:16:22,970 --> 00:16:26,380
-<font face="Impress BT Pace" size="36">A-Actually, Klahadore,
-these people are–</font>
-
-308
-00:16:26,380 --> 00:16:27,760
-<font face="Impress BT Pace" size="36">That can wait for now.</font>
-
-309
-00:16:28,940 --> 00:16:31,900
-<font face="Impress BT Pace" size="36">I can hear all about your reasons later.</font>
-
-310
-00:16:32,510 --> 00:16:34,570
-<font face="Impress BT Pace" size="36">Now leave, all of you!</font>
-
-311
-00:16:34,570 --> 00:16:37,010
-<font face="Impress BT Pace" size="36">Or do you have something to say?</font>
-
-312
-00:16:37,010 --> 00:16:39,810
-<font face="Impress BT Pace" size="36">Well, actually, we want a ship!</font>
-
-313
-00:16:39,810 --> 00:16:40,870
-<font face="Impress BT Pace" size="36">No!</font>
-
-314
-00:16:42,730 --> 00:16:43,930
-<font face="Impress BT Pace" size="36">Usopp!</font>
-
-315
-00:16:43,930 --> 00:16:44,990
-<font face="Impress BT Pace" size="36">Crap!</font>
-
-316
-00:16:44,990 --> 00:16:47,710
-<font face="Impress BT Pace" size="36">I've heard all about you.</font>
-
-317
-00:16:47,710 --> 00:16:49,850
-<font face="Impress BT Pace" size="36">You're well-known in the village.</font>
-
-318
-00:16:50,860 --> 00:16:52,690
-<font face="Impress BT Pace" size="36">Quite impressive for your age.</font>
-
-319
-00:16:52,690 --> 00:16:56,110
-<font face="Impress BT Pace" size="36">You can call me Captain Usopp, too!</font>
-
-320
-00:16:56,110 --> 00:16:57,990
-<font face="Impress BT Pace" size="36">Since you admire me <i>so</i> much!</font>
-
-321
-00:16:59,100 --> 00:17:01,700
-<font face="Impress BT Pace" size="36">I've heard all about
-your father, as well.</font>
-
-322
-00:17:01,700 --> 00:17:02,810
-<font face="Impress BT Pace" size="36">What?!</font>
-
-323
-00:17:03,690 --> 00:17:05,370
-<font face="Impress BT Pace" size="36">Klahadore! Stop!</font>
-
-324
-00:17:05,370 --> 00:17:09,130
-<font face="Impress BT Pace" size="36">You're nothing but
-the son of a filthy pirate!</font>
-
-325
-00:17:09,740 --> 00:17:12,550
-<font face="Impress BT Pace" size="36">Nothing you do will surprise me,</font>
-
-326
-00:17:12,550 --> 00:17:17,300
-<font face="Impress BT Pace" size="36">but I ask that you stay away
-from the lady of this house!</font>
-
-327
-00:17:18,540 --> 00:17:20,430
-<font face="Impress BT Pace" size="36">F-Filthy?!</font>
-
-328
-00:17:20,430 --> 00:17:24,390
-<font face="Impress BT Pace" size="36">You and the lady are from
-completely different worlds!</font>
-
-329
-00:17:24,390 --> 00:17:26,560
-<font face="Impress BT Pace" size="36">Is it money you're after?
-How much do you want?</font>
-
-330
-00:17:26,560 --> 00:17:30,680
-<font face="Impress BT Pace" size="36">That's enough, Klahadore!
-Apologize to Usopp!</font>
-
-331
-00:17:30,680 --> 00:17:32,740
-<font face="Impress BT Pace" size="36">Hey, now! Be careful, Kaya!</font>
-
-332
-00:17:32,740 --> 00:17:37,240
-<font face="Impress BT Pace" size="36">What reason is there to apologize
-to this savage man, my lady?</font>
-
-333
-00:17:38,000 --> 00:17:41,030
-<font face="Impress BT Pace" size="36">I am merely stating the truth.</font>
-
-334
-00:17:41,820 --> 00:17:43,820
-<font face="Impress BT Pace" size="36">I feel for you.</font>
-
-335
-00:17:43,820 --> 00:17:46,940
-<font face="Impress BT Pace" size="36">You must truly hate
-your idiot of a father</font>
-
-336
-00:17:46,940 --> 00:17:50,900
-<font face="Impress BT Pace" size="36">for abandoning his family and village
-because of his lust for treasure!</font>
-
-337
-00:17:50,900 --> 00:17:52,590
-<font face="Impress BT Pace" size="36">Klahadore!</font>
-
-338
-00:17:52,590 --> 00:17:55,800
-<font face="Impress BT Pace" size="36">Don't you dare insult
-my father any more!</font>
-
-339
-00:17:57,500 --> 00:17:58,770
-<font face="Impress BT Pace" size="36">Usopp!</font>
-
-340
-00:18:07,190 --> 00:18:10,090
-<font face="Impress BT Pace" size="36">What are you getting
-all worked up for?</font>
-
-341
-00:18:10,090 --> 00:18:13,110
-<font face="Impress BT Pace" size="36">Why not simply tell another
-one of your outrageous lies?</font>
-
-342
-00:18:13,110 --> 00:18:16,590
-<font face="Impress BT Pace" size="36">Perhaps how your father is really
-a traveling salesman,</font>
-
-343
-00:18:16,590 --> 00:18:19,100
-<font face="Impress BT Pace" size="36">or maybe that he's not
-even your real father...</font>
-
-344
-00:18:19,100 --> 00:18:21,740
-<font face="Impress BT Pace" size="36">Shut up!</font>
-
-345
-00:18:28,010 --> 00:18:29,330
-<font face="Impress BT Pace" size="36">– Captain!
-– Captain!</font>
-
-346
-00:18:30,620 --> 00:18:34,170
-<font face="Impress BT Pace" size="36">S-See! You immediately
-resort to violence!</font>
-
-347
-00:18:34,170 --> 00:18:36,880
-<font face="Impress BT Pace" size="36">Like father, like son!</font>
-
-348
-00:18:36,880 --> 00:18:38,590
-<font face="Impress BT Pace" size="36">Shut up!</font>
-
-349
-00:18:39,050 --> 00:18:42,540
-<font face="Impress BT Pace" size="36">I'm proud that my father is a pirate!</font>
-
-350
-00:18:42,540 --> 00:18:46,050
-<font face="Impress BT Pace" size="36">I'm proud that he's
-a brave warrior of the sea!</font>
-
-351
-00:18:46,050 --> 00:18:49,190
-<font face="Impress BT Pace" size="36">You're right, I <i>am</i> a liar!</font>
-
-352
-00:18:49,190 --> 00:18:54,230
-<font face="Impress BT Pace" size="36">But I'll <i>never</i> lie about
-proudly being related to a pirate!</font>
-
-353
-00:18:54,230 --> 00:18:56,940
-<font face="Impress BT Pace" size="36">I'm the son of a pirate!</font>
-
-354
-00:19:01,110 --> 00:19:02,910
-<font face="Impress BT Pace" size="36">Captain...</font>
-
-355
-00:19:04,460 --> 00:19:07,660
-<font face="Impress BT Pace" size="36">A pirate, a brave warrior of the sea?</font>
-
-356
-00:19:07,660 --> 00:19:10,830
-<font face="Impress BT Pace" size="36">That's quite a twisted way
-of putting things...</font>
-
-357
-00:19:11,920 --> 00:19:16,060
-<font face="Impress BT Pace" size="36">But <i>you're</i> the undeniable
-proof of his savage blood!</font>
-
-358
-00:19:16,060 --> 00:19:18,360
-<font face="Impress BT Pace" size="36">You run around spouting lies,</font>
-
-359
-00:19:18,360 --> 00:19:20,320
-<font face="Impress BT Pace" size="36">and act violently
-whenever you're angry!</font>
-
-360
-00:19:20,320 --> 00:19:21,580
-<font face="Impress BT Pace" size="36">And to top it off,</font>
-
-361
-00:19:21,580 --> 00:19:24,100
-<font face="Impress BT Pace" size="36">you cozy up to the lady of this house
-so you can get her fortune!</font>
-
-362
-00:19:24,100 --> 00:19:25,640
-<font face="Impress BT Pace" size="36">What?! I only–</font>
-
-363
-00:19:25,640 --> 00:19:28,190
-<font face="Impress BT Pace" size="36">The fact your father is a pirate</font>
-
-364
-00:19:28,190 --> 00:19:31,440
-<font face="Impress BT Pace" size="36">is more than enough proof
-that you'd hatch such a scheme!</font>
-
-365
-00:19:31,440 --> 00:19:33,190
-<font face="Impress BT Pace" size="36">Damn it, you still won't let up?!</font>
-
-366
-00:19:33,190 --> 00:19:34,970
-<font face="Impress BT Pace" size="36">Stop, Usopp!</font>
-
-367
-00:19:36,000 --> 00:19:38,280
-<font face="Impress BT Pace" size="36">Please, no more violence!</font>
-
-368
-00:19:40,120 --> 00:19:42,710
-<font face="Impress BT Pace" size="36">Klahadore isn't a bad person!</font>
-
-369
-00:19:43,350 --> 00:19:45,050
-<font face="Impress BT Pace" size="36">He's just...</font>
-
-370
-00:19:45,050 --> 00:19:48,870
-<font face="Impress BT Pace" size="36">He's just trying too hard
-to do what's best for me!</font>
-
-371
-00:19:49,290 --> 00:19:51,370
-<font face="Impress BT Pace" size="36">Leave this place!</font>
-
-372
-00:19:51,370 --> 00:19:54,130
-<font face="Impress BT Pace" size="36">Never come near this mansion again!</font>
-
-373
-00:19:55,730 --> 00:19:57,750
-<font face="Impress BT Pace" size="36">Yeah, I get it.</font>
-
-374
-00:19:57,750 --> 00:20:00,300
-<font face="Impress BT Pace" size="36">I don't need you to tell me!</font>
-
-375
-00:20:01,640 --> 00:20:04,340
-<font face="Impress BT Pace" size="36">I'll never come back here again!</font>
-
-376
-00:20:05,730 --> 00:20:07,140
-<font face="Impress BT Pace" size="36">Usopp...</font>
-
-377
-00:20:08,860 --> 00:20:10,720
-<font face="Impress BT Pace" size="36">You stupid <i>butt</i>-ler jerk!</font>
-
-378
-00:20:10,720 --> 00:20:12,960
-<font face="Impress BT Pace" size="36">Our captain's not that kind of guy!</font>
-
-379
-00:20:12,960 --> 00:20:14,510
-<font face="Impress BT Pace" size="36">Yeah! You stupid-head!</font>
-
-380
-00:20:14,510 --> 00:20:15,750
-<font face="Impress BT Pace" size="36">Stupid-head!</font>
-
-381
-00:20:15,750 --> 00:20:17,280
-<font face="Impress BT Pace" size="36">Stupid-head!</font>
-
-382
-00:20:17,280 --> 00:20:19,650
-<font face="Impress BT Pace" size="36">Why're you saying it too?</font>
-
-383
-00:20:22,430 --> 00:20:24,450
-<font face="Impress BT Pace" size="36">– What's your problem?!
-– Hey, now! Stop!</font>
-
-384
-00:20:24,450 --> 00:20:26,740
-<font face="Impress BT Pace" size="36">Come fight me, if you can!</font>
-
-385
-00:20:27,640 --> 00:20:30,270
-<font face="Impress BT Pace" size="36">You will all leave at once, too!</font>
-
-386
-00:20:42,520 --> 00:20:44,890
-<font face="Impress BT Pace" size="36">Your meal, my lady.</font>
-
-387
-00:20:44,890 --> 00:20:46,250
-<font face="Impress BT Pace" size="36">No thanks.</font>
-
-388
-00:20:46,250 --> 00:20:48,000
-<font face="Impress BT Pace" size="36">I don't want it.</font>
-
-389
-00:20:52,050 --> 00:20:54,770
-<font face="Impress BT Pace" size="36">The cook would be sad
-to hear you say that.</font>
-
-390
-00:20:54,770 --> 00:21:00,060
-<font face="Impress BT Pace" size="36">He works his hardest to come up with
-meals that suit your needs.</font>
-
-391
-00:21:05,110 --> 00:21:07,230
-<font face="Impress BT Pace" size="36">Why did you talk like that?</font>
-
-392
-00:21:07,960 --> 00:21:14,170
-<font face="Impress BT Pace" size="36">I know I was wrong to talk with
-Usopp without telling you.</font>
-
-393
-00:21:14,170 --> 00:21:17,460
-<font face="Impress BT Pace" size="36">But you didn't need to
-kick him out like that.</font>
-
-394
-00:21:21,910 --> 00:21:23,370
-<font face="Impress BT Pace" size="36">May I sit?</font>
-
-395
-00:21:23,370 --> 00:21:24,670
-<font face="Impress BT Pace" size="36">Go ahead.</font>
-
-396
-00:21:26,410 --> 00:21:30,840
-<font face="Impress BT Pace" size="36">It's been nearly three years...</font>
-
-397
-00:21:30,840 --> 00:21:34,310
-<font face="Impress BT Pace" size="36">since the day I came to this mansion.</font>
-
-398
-00:21:34,960 --> 00:21:38,600
-<font face="Impress BT Pace" size="36">I'll never forget what
-happened that day...</font>
-
-399
-00:21:48,390 --> 00:21:52,030
-<font face="Impress BT Pace" size="36">I was kicked off the ship I worked on</font>
-
-400
-00:21:52,030 --> 00:21:54,480
-<font face="Impress BT Pace" size="36">because of a mistake I made.</font>
-
-401
-00:21:54,480 --> 00:21:56,600
-<font face="Impress BT Pace" size="36">And with no work or money,</font>
-
-402
-00:21:56,600 --> 00:21:59,470
-<font face="Impress BT Pace" size="36">I was on the verge
-of dying like a beggar.</font>
-
-403
-00:22:11,890 --> 00:22:17,640
-<font face="Impress BT Pace" size="36">In my eyes, I owe my life
-to your late parents...</font>
-
-404
-00:22:17,640 --> 00:22:22,690
-<font face="Impress BT Pace" size="36">And to you, their daughter.</font>
-
-405
-00:22:24,030 --> 00:22:31,370
-<font face="Impress BT Pace" size="36">I realize that it isn't my place
-to interfere with your friendships.</font>
-
-406
-00:22:32,150 --> 00:22:37,330
-<font face="Impress BT Pace" size="36">But that Usopp kid isn't exactly
-known for his upstanding character!</font>
-
-407
-00:22:37,330 --> 00:22:42,060
-<font face="Impress BT Pace" size="36">If... if anything should happen to you,</font>
-
-408
-00:22:42,060 --> 00:22:45,800
-<font face="Impress BT Pace" size="36">I would never be able to ask for
-forgiveness from your kind parents!</font>
-
-409
-00:22:46,860 --> 00:22:50,870
-<font face="Impress BT Pace" size="36">Do you think ill of me
-for what I did earlier?</font>
-
-410
-00:22:50,870 --> 00:22:53,200
-<font face="Impress BT Pace" size="36">No, not at all!</font>
-
-411
-00:22:53,200 --> 00:22:56,000
-<font face="Impress BT Pace" size="36">I'm glad to have you too, Klahadore!</font>
-
-412
-00:22:56,000 --> 00:22:58,540
-<font face="Impress BT Pace" size="36">But please don't misunderstand.</font>
-
-413
-00:22:58,540 --> 00:23:01,020
-<font face="Impress BT Pace" size="36">Usopp is a very nice person.</font>
-
-414
-00:23:01,020 --> 00:23:04,420
-<font face="Impress BT Pace" size="36">However, whether he's
-nice or not is irrelevant!</font>
-
-415
-00:23:04,420 --> 00:23:07,650
-<font face="Impress BT Pace" size="36">Klahadore! You blockhead!</font>
-
-416
-00:23:07,650 --> 00:23:09,490
-<font face="Impress BT Pace" size="36">Yes, "blockhead" will do just fine!</font>
-
-417
-00:23:17,410 --> 00:23:18,870
-<font face="Impress BT Pace" size="36">Where'd Luffy go?</font>
-
-418
-00:23:19,340 --> 00:23:23,380
-<font face="Impress BT Pace" size="36">Who knows. Probably ran
-after the "captain."</font>
-
-419
-00:23:23,380 --> 00:23:25,050
-<font face="Impress BT Pace" size="36">Our captain would be at his spot!</font>
-
-420
-00:23:25,050 --> 00:23:26,710
-<font face="Impress BT Pace" size="36">Yeah, the shore!</font>
-
-421
-00:23:26,710 --> 00:23:29,860
-<font face="Impress BT Pace" size="36">He always goes there
-when something happens!</font>
-
-422
-00:23:29,860 --> 00:23:33,030
-<font face="Impress BT Pace" size="36">Well never mind that,
-isn't one of you missing?</font>
-
-423
-00:23:33,030 --> 00:23:34,890
-<font face="Impress BT Pace" size="36">– Yeah, Tamanegi!
-– Yeah, Tamanegi!</font>
-
-424
-00:23:34,890 --> 00:23:37,730
-<font face="Impress BT Pace" size="36">He always disappears!</font>
-
-425
-00:23:37,730 --> 00:23:41,030
-<font face="Impress BT Pace" size="36">Yeah! And then he
-shows up all freaked out!</font>
-
-426
-00:23:43,160 --> 00:23:44,610
-<font face="Impress BT Pace" size="36">Bad news!</font>
-
-427
-00:23:44,610 --> 00:23:45,790
-<font face="Impress BT Pace" size="36">See?</font>
-
-428
-00:23:45,790 --> 00:23:48,400
-<font face="Impress BT Pace" size="36">A backwards guy!</font>
-
-429
-00:23:48,400 --> 00:23:51,490
-<font face="Impress BT Pace" size="36">A weird guy is walking
-backwards this way!</font>
-
-430
-00:23:51,490 --> 00:23:52,480
-<font face="Impress BT Pace" size="36">– Liar!
+00:05:34,730 --> 00:05:36,190
+<font face="Impress BT Pace" size="82">– Liar!
 – Liar!</font>
 
-431
-00:23:52,480 --> 00:23:54,070
-<font face="Impress BT Pace" size="36">It's the truth!</font>
+117
+00:05:36,820 --> 00:05:40,780
+<font face="Impress BT Pace" size="82">Captain! Don't you wanna
+be a real pirate?!</font>
 
-432
-00:23:54,070 --> 00:23:55,950
-<font face="Impress BT Pace" size="36">Just look!</font>
+118
+00:05:41,320 --> 00:05:44,450
+<font face="Impress BT Pace" size="82">What good is a pirate
+who's afraid of pirates?!</font>
 
-433
-00:24:04,420 --> 00:24:07,880
-<font face="Impress BT Pace" size="36">Hey! Who's calling me weird?!</font>
+119
+00:05:44,910 --> 00:05:48,160
+<font face="Impress BT Pace" size="82">If I recall correctly, it was
+Buggy the Clown's symbol!</font>
 
-434
-00:24:08,380 --> 00:24:12,930
-<font face="Roboto" size="44"><b><font size="40">Jango
-<font size="35">Hypnotist</font></font></b></font>
+120
+00:05:48,160 --> 00:05:52,420
+<font face="Impress BT Pace" size="82">B-B-Buggy the Clown?!</font>
 
-435
-00:24:11,140 --> 00:24:12,930
-<font face="Impress BT Pace" size="36">I'm not weird.</font>
+121
+00:05:53,670 --> 00:05:56,000
+<font face="Impress BT Pace" size="82">I think I'll just...</font>
 
-436
-00:24:13,950 --> 00:24:15,970
-<font face="Impress BT Pace" size="36">You seem pretty weird to me.</font>
+122
+00:05:56,000 --> 00:05:58,710
+<font face="Impress BT Pace" size="82">But it was just two little boats!</font>
 
-437
-00:24:15,970 --> 00:24:17,300
-<font face="Impress BT Pace" size="36">Don't be stupid!</font>
+123
+00:05:59,710 --> 00:06:02,800
+<font face="Impress BT Pace" size="82">And around three people...</font>
 
-438
-00:24:17,300 --> 00:24:19,820
-<font face="Impress BT Pace" size="36">I'm just an ordinary, passing hypnotist!</font>
+124
+00:06:02,800 --> 00:06:08,390
+<font face="Impress BT Pace" size="82">Alright! Let's go, Usopp Pirates!
+We must protect our peaceful village!</font>
 
-439
-00:24:19,820 --> 00:24:22,640
-<font face="Impress BT Pace" size="36">H-Hypnotist?! Awesome!</font>
+125
+00:06:08,220 --> 00:06:09,140
+<font face="Impress BT Pace" size="82" color="#d6d6d6">– Huh?
+– Huh?</font>
 
-440
-00:24:22,640 --> 00:24:24,180
-<font face="Impress BT Pace" size="36">Show us something!</font>
+126
+00:06:08,390 --> 00:06:10,850
+<font face="Impress BT Pace" size="82">Okay, let's go! Follow me!</font>
 
-441
-00:24:24,180 --> 00:24:26,280
-<font face="Impress BT Pace" size="36">Yeah! Do a trick!</font>
+127
+00:06:11,850 --> 00:06:13,640
+<font face="Impress BT Pace" size="82">– A-Aye, aye!
+– A-Aye, aye!</font>
 
-442
-00:24:26,280 --> 00:24:27,360
-<font face="Impress BT Pace" size="36">What?!</font>
+128
+00:06:21,820 --> 00:06:24,820
+<font face="Impress BT Pace" size="82">Finally on dry land again...</font>
 
-443
-00:24:28,730 --> 00:24:30,550
-<font face="Impress BT Pace" size="36">Don't be dumb!</font>
+129
+00:06:26,030 --> 00:06:27,870
+<font face="Impress BT Pace" size="82">There's a village past here?</font>
 
-444
-00:24:30,550 --> 00:24:32,520
-<font face="Impress BT Pace" size="36">Why should I have to reveal</font>
+130
+00:06:27,870 --> 00:06:28,910
+<font face="Impress BT Pace" size="82">Yeah.</font>
 
-445
-00:24:32,520 --> 00:24:35,320
-<font face="Impress BT Pace" size="36">my techniques to
-a bunch of strangers?!</font>
+131
+00:06:28,910 --> 00:06:31,160
+<font face="Impress BT Pace" size="82">Seems like a small one though...</font>
 
-446
-00:24:35,800 --> 00:24:36,520
-<font face="Impress BT Pace" size="36">Alright.</font>
+132
+00:06:31,160 --> 00:06:31,790
+<font face="Impress BT Pace" size="82">Oh!</font>
 
-447
-00:24:36,520 --> 00:24:38,050
-<font face="Impress BT Pace" size="36">Watch this ring closely.</font>
+133
+00:06:31,790 --> 00:06:34,420
+<font face="Impress BT Pace" size="82">That means there's meat!
+Meat, meat, meat!</font>
 
-448
-00:24:38,050 --> 00:24:39,290
-<font face="Impress BT Pace" size="36">So, you <i>are</i> going to?!</font>
+134
+00:06:34,420 --> 00:06:36,290
+<font face="Impress BT Pace" size="82">They've got food, right?!</font>
 
-449
-00:24:39,290 --> 00:24:42,430
-<font face="Impress BT Pace" size="36">You'll fall asleep at the count
-of "one, two, Jango."</font>
+135
+00:06:36,290 --> 00:06:38,380
+<font face="Impress BT Pace" size="82">What is it with you and meat?!</font>
 
-450
-00:24:43,000 --> 00:24:44,250
-<font face="Impress BT Pace" size="36">Alright, here we go!</font>
+136
+00:06:41,050 --> 00:06:42,550
+<font face="Impress BT Pace" size="82">Careful!</font>
 
-451
-00:24:45,170 --> 00:24:46,210
-<font face="Impress BT Pace" size="36">One.</font>
+137
+00:06:42,880 --> 00:06:44,590
+<font face="Impress BT Pace" size="82">We've got company.</font>
 
-452
-00:24:46,210 --> 00:24:47,360
-<font face="Impress BT Pace" size="36">Two.</font>
+138
+00:06:43,800 --> 00:06:44,590
+<font face="Impress BT Pace" size="82" color="#d6d6d6">Huh?!</font>
 
-453
-00:24:47,360 --> 00:24:48,210
-<font face="Impress BT Pace" size="36">Jango!</font>
+139
+00:06:44,590 --> 00:06:46,390
+<font face="Impress BT Pace" size="82">Where?! Where?! Where?!</font>
 
-454
-00:24:51,960 --> 00:24:54,180
-<font face="Impress BT Pace" size="36">Hey! What's with this guy?!</font>
+140
+00:06:46,970 --> 00:06:48,430
+<font face="Impress BT Pace" size="82">Look out!</font>
 
-455
-00:24:59,040 --> 00:24:59,840
-<font face="Impress BT Pace" size="36">Yo!</font>
+141
+00:06:59,110 --> 00:07:02,690
+<font face="Impress BT Pace" size="82">That's awesome!</font>
 
-456
-00:25:00,720 --> 00:25:02,110
-<font face="Impress BT Pace" size="36">Here you are!</font>
+142
+00:07:00,440 --> 00:07:02,690
+<font face="Impress BT Pace" size="82" color="#d6d6d6">Is this the time to be impressed?!</font>
 
-457
-00:25:02,110 --> 00:25:04,940
-<font face="Impress BT Pace" size="36">Oh, it's you! Don't just
-sneak up like that!</font>
+143
+00:07:05,320 --> 00:07:09,700
+<font face="Impress BT Pace" size="82">I am Usopp, leader of the great
+pirates who reign over this village!</font>
 
-458
-00:25:05,620 --> 00:25:07,570
-<font face="Impress BT Pace" size="36">So what? Do you want something?!</font>
+144
+00:07:09,700 --> 00:07:12,910
+<font face="Impress BT Pace" size="82">People praise me—and then they
+praise me more—and refer to me as...</font>
 
-459
-00:25:07,570 --> 00:25:11,510
-<font face="Impress BT Pace" size="36">Yeah. Your dad's Yasopp, right?</font>
+145
+00:07:13,290 --> 00:07:15,410
+<font face="Impress BT Pace" size="82">Captain Usopp!</font>
 
-460
-00:25:13,110 --> 00:25:14,820
-<font face="Impress BT Pace" size="36">Oww...</font>
+146
+00:07:17,830 --> 00:07:21,340
+<font face="Impress BT Pace" size="82">If you're thinking of attacking
+this village, then forget it!</font>
 
-461
-00:25:19,800 --> 00:25:24,610
-<font face="Impress BT Pace" size="36">Yeah, Yasopp is my old man...</font>
+147
+00:07:21,340 --> 00:07:26,550
+<font face="Impress BT Pace" size="82">My 80 million subordinates
+won't sit by quietly!</font>
 
-462
-00:25:24,610 --> 00:25:26,700
-<font face="Impress BT Pace" size="36">But how do you know that?</font>
+148
+00:07:26,550 --> 00:07:31,010
+<font face="Impress BT Pace" size="82">Awesome!</font>
 
-463
-00:25:27,400 --> 00:25:30,500
-<font face="Impress BT Pace" size="36">No matter what anyone says,
-Yasopp is a great pirate!</font>
+149
+00:07:32,390 --> 00:07:33,930
+<font face="Impress BT Pace" size="82">You're lying, aren't you?</font>
 
-464
-00:25:39,330 --> 00:25:40,850
-<font face="Impress BT Pace" size="36"><i>Awesome!</i></font>
+150
+00:07:34,850 --> 00:07:35,980
+<font face="Impress BT Pace" size="82">She saw through it!</font>
 
-465
-00:25:41,280 --> 00:25:45,310
-<font face="Impress BT Pace" size="36"><i>That's nothing. I could even shoot
-an ant right between the eyes!</i></font>
+151
+00:07:35,980 --> 00:07:38,730
+<font face="Impress BT Pace" size="82">Ah, so you admit it.</font>
 
-466
-00:25:50,050 --> 00:25:51,800
-<font face="Impress BT Pace" size="36"><i>Y'know, Luffy,</i></font>
+152
+00:07:40,060 --> 00:07:43,690
+<font face="Impress BT Pace" size="82">I admitted it to her!</font>
 
-467
-00:25:51,800 --> 00:25:55,640
-<font face="Impress BT Pace" size="36"><i>I got a kid named Usopp,
-who's just about your age!</i></font>
+153
+00:07:45,900 --> 00:07:48,240
+<font face="Impress BT Pace" size="82">What?! He was lying?!</font>
 
-468
-00:25:55,640 --> 00:25:58,210
-<font face="Impress BT Pace" size="36"><i>I know! You've already
-told me lots of times!</i></font>
+154
+00:07:48,240 --> 00:07:49,700
+<font face="Impress BT Pace" size="82">Why you crafty little...!</font>
 
-469
-00:25:58,210 --> 00:25:59,120
-<font face="Impress BT Pace" size="36"><i>What?!</i></font>
+155
+00:07:50,320 --> 00:07:54,660
+<font face="Impress BT Pace" size="82">Maybe 80 million is an exaggeration,
+but my underlings are quite formidable!</font>
 
-470
-00:26:01,250 --> 00:26:04,120
-<font face="Impress BT Pace" size="36"><i>Well, I'm gonna tell you some more!</i></font>
+156
+00:08:01,420 --> 00:08:03,800
+<font face="Impress BT Pace" size="82">Like maybe <i>three</i> people?</font>
 
-471
-00:26:05,150 --> 00:26:08,950
-<font face="Impress BT Pace" size="36"><i>It was sad to say goodbye,
-but there was no other choice!</i></font>
+157
+00:08:05,210 --> 00:08:07,260
+<font face="Impress BT Pace" size="82">– She saw through it!
+– She saw through it!</font>
 
-472
-00:26:08,950 --> 00:26:13,990
-<font face="Impress BT Pace" size="36"><i>There was but one reason:
-the pirate flag was calling me!</i></font>
+158
+00:08:07,260 --> 00:08:09,970
+<font face="Impress BT Pace" size="82">R-Run!</font>
 
-473
-00:26:19,510 --> 00:26:21,910
-<font face="Impress BT Pace" size="36"><i>Stuck! Stuck!</i></font>
+159
+00:08:09,970 --> 00:08:11,970
+<font face="Impress BT Pace" size="82">H-Hey, you guys!</font>
 
-474
-00:26:24,010 --> 00:26:25,850
-<font face="Impress BT Pace" size="36">Really?!</font>
+160
+00:08:11,970 --> 00:08:14,220
+<font face="Impress BT Pace" size="82">Don't run away!</font>
 
-475
-00:26:34,900 --> 00:26:38,450
-<font face="Impress BT Pace" size="36">My old man's on such
-an awesome ship?!</font>
+161
+00:08:15,890 --> 00:08:17,940
+<font face="Impress BT Pace" size="82">You're hilarious!</font>
 
-476
-00:26:38,450 --> 00:26:42,280
-<font face="Impress BT Pace" size="36">I dunno about now,
-but I bet he's still with him.</font>
+162
+00:08:18,980 --> 00:08:20,400
+<font face="Impress BT Pace" size="82">Hey, you!</font>
 
-477
-00:26:43,060 --> 00:26:47,240
-<font face="Impress BT Pace" size="36">After all, your dad <i>is</i>
+163
+00:08:20,400 --> 00:08:21,900
+<font face="Impress BT Pace" size="82">Don't insult me!</font>
+
+164
+00:08:21,900 --> 00:08:24,730
+<font face="Impress BT Pace" size="82">I'm a very proud man!</font>
+
+165
+00:08:25,440 --> 00:08:28,740
+<font face="Impress BT Pace" size="82">Because of that, people call me...</font>
+
+166
+00:08:29,490 --> 00:08:32,200
+<font face="Impress BT Pace" size="82">Proud Usopp!</font>
+
+167
+00:08:33,370 --> 00:08:35,080
+<font face="Impress BT Pace" size="82">You saw it yourself just now!</font>
+
+168
+00:08:35,450 --> 00:08:40,920
+<font face="Impress BT Pace" size="82">My skill with a slingshot
+makes it deadlier than any pistol!</font>
+
+169
+00:08:47,800 --> 00:08:50,800
+<font face="Impress BT Pace" size="82">Now that you've drawn your pistol...</font>
+
+170
+00:08:50,800 --> 00:08:52,430
+<font face="Impress BT Pace" size="82">you've put your life on the line.</font>
+
+171
+00:08:54,640 --> 00:08:58,390
+<font face="Impress BT Pace" size="82">I'm saying those are for more
+than just threatening someone.</font>
+
+172
+00:09:14,700 --> 00:09:20,250
+<font face="Impress BT Pace" size="82">R-Real pirates definitely have way
+more punch behind their words...</font>
+
+173
+00:09:20,250 --> 00:09:21,620
+<font face="Impress BT Pace" size="82">Incredible...</font>
+
+174
+00:09:27,670 --> 00:09:28,760
+<font face="Impress BT Pace" size="82">I stole those lines!</font>
+
+175
+00:09:30,260 --> 00:09:33,720
+<font face="Impress BT Pace" size="82">From Shanks, a pirate I look up to.</font>
+
+176
+00:09:34,220 --> 00:09:36,470
+<font face="Impress BT Pace" size="82">Sh-Shanks?!</font>
+
+177
+00:09:36,470 --> 00:09:40,230
+<font face="Impress BT Pace" size="82">You know the famous pirate
+Red-Haired Shanks?!</font>
+
+178
+00:09:40,560 --> 00:09:41,730
+<font face="Impress BT Pace" size="82">Yeah!</font>
+
+179
+00:09:41,730 --> 00:09:44,650
+<font face="Impress BT Pace" size="82">Your dad's Yasopp, right?</font>
+
+180
+00:09:44,650 --> 00:09:46,650
+<font face="Impress BT Pace" size="82">Wh-What?!</font>
+
+181
+00:09:52,200 --> 00:09:53,280
+<font face="Impress BT Pace" size="82">Huh?</font>
+
+182
+00:09:53,660 --> 00:09:58,430
+<font face="Impress BT Pace" size="82">Yeah, Yasopp is my old man...</font>
+
+183
+00:10:00,250 --> 00:10:02,290
+<font face="Impress BT Pace" size="82">But how do you know that?</font>
+
+184
+00:10:02,920 --> 00:10:06,840
+<font face="Chinacat" size="99"><b><font face="DFPGiHi-W7-Strp"><font color="#000000">Village Diner</font></font></b></font>
+
+185
+00:10:02,920 --> 00:10:06,840
+<font face="Chinacat" size="99"><b><font face="DFPGiHi-W7-Strp"><font color="#faf9f9">Village Diner</font></font></b></font>
+
+186
+00:10:02,920 --> 00:10:06,840
+<font face="Chinacat" size="99"><b><font face="DFPGiHi-W7-Strp"><font color="#faf9f9">Village Diner</font></font></b></font>
+
+187
+00:10:11,880 --> 00:10:13,280
+<font face="Impress BT Pace" size="82">Good, huh?</font>
+
+188
+00:10:14,970 --> 00:10:17,350
+<font face="Impress BT Pace" size="82">I met him when I was a kid!</font>
+
+189
+00:10:17,350 --> 00:10:20,050
+<font face="Impress BT Pace" size="82">So my old man's on Shanks' ship?</font>
+
+190
+00:10:20,050 --> 00:10:25,060
+<font face="Impress BT Pace" size="82">Yep! You look just like him, so when
+I first saw you, it made me wonder...</font>
+
+191
+00:10:25,060 --> 00:10:26,060
+<font face="Impress BT Pace" size="82">Really?!</font>
+
+192
+00:10:26,810 --> 00:10:30,070
+<font face="Impress BT Pace" size="82">My old man's out there
+on an awesome ship?!</font>
+
+193
+00:10:30,440 --> 00:10:33,820
+<font face="Impress BT Pace" size="82">I don't know for sure,
+but I bet he's still on board.</font>
+
+194
+00:10:34,700 --> 00:10:38,800
+<font face="Impress BT Pace" size="82">After all, your dad is
 a great sharpshooter!</font>
 
+195
+00:10:54,680 --> 00:10:57,140
+<font face="Impress BT Pace" size="82"><i>Awesome!</i></font>
+
+196
+00:10:57,140 --> 00:10:58,140
+<font face="Impress BT Pace" size="82"><i>That's nothing.</i></font>
+
+197
+00:10:58,140 --> 00:11:01,640
+<font face="Impress BT Pace" size="82"><i>I could shoot an ant
+right between the eyes!</i></font>
+
+198
+00:11:06,100 --> 00:11:07,860
+<font face="Impress BT Pace" size="82"><i>Y'know, Luffy,</i></font>
+
+199
+00:11:07,860 --> 00:11:11,730
+<font face="Impress BT Pace" size="82"><i>I got a kid named Usopp,
+who's just about your age!</i></font>
+
+200
+00:11:11,730 --> 00:11:14,240
+<font face="Impress BT Pace" size="82"><i>You've told me a million
+times! I'm sick of it!</i></font>
+
+201
+00:11:14,240 --> 00:11:15,450
+<font face="Impress BT Pace" size="82"><i>What?!</i></font>
+
+202
+00:11:17,200 --> 00:11:20,410
+<font face="Impress BT Pace" size="82"><i>Well, I'm gonna keep tellin' you!</i></font>
+
+203
+00:11:21,160 --> 00:11:25,140
+<font face="Impress BT Pace" size="82"><i>It broke my heart to go,
+but I had no choice!</i></font>
+
+204
+00:11:25,140 --> 00:11:30,130
+<font face="Impress BT Pace" size="82"><i>The pirate flag was calling me!
+What other reason do you need?!</i></font>
+
+205
+00:11:30,130 --> 00:11:31,840
+<font face="Impress BT Pace" size="82"><i>– Yeah!
+– Yeah!</i></font>
+
+206
+00:11:35,670 --> 00:11:38,800
+<font face="Impress BT Pace" size="82"><i>It's stuck! It's stuck!</i></font>
+
+207
+00:11:40,430 --> 00:11:45,560
+<font face="Impress BT Pace" size="82">Usopp, I couldn't tell you how many
+times he told me about you.</font>
+
+208
+00:11:45,560 --> 00:11:47,770
+<font face="Impress BT Pace" size="82">Yasopp is a great pirate!</font>
+
+209
+00:11:47,770 --> 00:11:49,100
+<font face="Impress BT Pace" size="82">Yeah, huh?!</font>
+
+210
+00:11:50,070 --> 00:11:55,570
+<font face="Impress BT Pace" size="82">He sailed off into the boundless sea,
+living his life on the edge...</font>
+
+211
+00:11:55,570 --> 00:11:58,280
+<font face="Impress BT Pace" size="82">I couldn't be more proud of him!</font>
+
+212
+00:11:58,280 --> 00:12:00,280
+<font face="Impress BT Pace" size="82">Then that makes this easier!</font>
+
+213
+00:12:00,950 --> 00:12:04,290
+<font face="Impress BT Pace" size="82">So, do you know anyone
+in the village who can sail?</font>
+
+214
+00:12:04,290 --> 00:12:06,290
+<font face="Impress BT Pace" size="82">And provide us with a big ship?</font>
+
+215
+00:12:07,500 --> 00:12:10,250
+<font face="Impress BT Pace" size="82">As you can see,
+we're just a tiny village...</font>
+
+216
+00:12:10,250 --> 00:12:13,460
+<font face="Impress BT Pace" size="82">Sorry, but we can't
+live up to your expectations.</font>
+
+217
+00:12:13,460 --> 00:12:15,210
+<font face="Impress BT Pace" size="82">At the top of the hill...</font>
+
+218
+00:12:15,210 --> 00:12:17,680
+<font face="Impress BT Pace" size="82">there's a huge mansion.</font>
+
+219
+00:12:17,680 --> 00:12:20,050
+<font face="Impress BT Pace" size="82">So, do you know
+the people there, Usopp?!</font>
+
+220
+00:12:20,050 --> 00:12:22,930
+<font face="Impress BT Pace" size="82">Could you ask them
+to help us pay for one?</font>
+
+221
+00:12:22,930 --> 00:12:24,560
+<font face="Impress BT Pace" size="82">Y-You can't go there!</font>
+
+222
+00:12:26,810 --> 00:12:30,270
+<font face="Impress BT Pace" size="82">I-I just remembered
+something I have to do!</font>
+
+223
+00:12:30,270 --> 00:12:33,070
+<font face="Impress BT Pace" size="82">I'm a pretty big deal around here!</font>
+
+224
+00:12:33,070 --> 00:12:35,780
+<font face="Impress BT Pace" size="82">So, eat and drink
+as much as you want!</font>
+
+225
+00:12:35,780 --> 00:12:38,240
+<font face="Impress BT Pace" size="82">Alright! Later!</font>
+
+226
+00:12:40,490 --> 00:12:43,160
+<font face="Impress BT Pace" size="82">Why was he in such a hurry?</font>
+
+227
+00:12:47,960 --> 00:12:49,420
+<font face="Impress BT Pace" size="82">Is this really the place?!</font>
+
+228
+00:12:49,420 --> 00:12:51,580
+<font face="Impress BT Pace" size="82">Yeah, the pirates dragged him inside!</font>
+
+229
+00:12:51,580 --> 00:12:53,040
+<font face="Impress BT Pace" size="82">We gotta save him!</font>
+
+230
+00:12:53,040 --> 00:12:56,170
+<font face="Impress BT Pace" size="82">But they're real pirates!
+Maybe they grilled and ate him!</font>
+
+231
+00:12:56,170 --> 00:12:58,800
+<font face="Impress BT Pace" size="82">You idiot! It's witches
+that eat people!</font>
+
+232
+00:12:59,720 --> 00:13:05,010
+<font face="Impress BT Pace" size="82">This will be the most epic battle since
+the formation of the Usopp Pirates!</font>
+
+233
+00:13:05,010 --> 00:13:06,270
+<font face="Impress BT Pace" size="82">– Yeah!
+– Yeah!</font>
+
+234
+00:13:07,520 --> 00:13:10,020
+<font face="Impress BT Pace" size="82">– The Usopp Pirates have arrived!
+– The Usopp Pirates have arrived!</font>
+
+235
+00:13:10,480 --> 00:13:11,480
+<font face="Impress BT Pace" size="82">Who are they?</font>
+
+236
+00:13:11,480 --> 00:13:13,270
+<font face="Impress BT Pace" size="82">Th-The captain is gone!</font>
+
+237
+00:13:13,270 --> 00:13:14,360
+<font face="Impress BT Pace" size="82">You don't think he...</font>
+
+238
+00:13:15,020 --> 00:13:16,650
+<font face="Impress BT Pace" size="82">H-Hey, pirates!</font>
+
+239
+00:13:16,650 --> 00:13:19,360
+<font face="Impress BT Pace" size="82">What'd you do with Captain Usopp?!</font>
+
+240
+00:13:19,360 --> 00:13:20,320
+<font face="Impress BT Pace" size="82">– Where is he?!
+– Where is he?!</font>
+
+241
+00:13:20,820 --> 00:13:23,280
+<font face="Impress BT Pace" size="82">That meat was yummy!</font>
+
+242
+00:13:24,280 --> 00:13:25,160
+<font face="Impress BT Pace" size="82">Meat?!</font>
+
+243
+00:13:25,160 --> 00:13:26,740
+<font face="Impress BT Pace" size="82">Don't tell me they...</font>
+
+244
+00:13:28,370 --> 00:13:31,370
+<font face="Impress BT Pace" size="82">Wh-What?! What did you do?!</font>
+
+245
+00:13:31,370 --> 00:13:33,830
+<font face="Impress BT Pace" size="82">If you're looking for your captain...</font>
+
+246
+00:13:35,500 --> 00:13:36,800
+<font face="Impress BT Pace" size="82">we ate him.</font>
+
+247
+00:13:40,130 --> 00:13:43,470
+<font face="Impress BT Pace" size="82">– A witch!
+– A witch!</font>
+
+248
+00:13:41,260 --> 00:13:43,470
+<font face="Impress BT Pace" size="82">What're you looking at me for?!</font>
+
+249
+00:13:45,430 --> 00:13:47,810
+<font face="Impress BT Pace" size="82">Why'd you go and say
+a thing like that?!</font>
+
+250
+00:14:00,940 --> 00:14:03,860
+<font face="Chinacat" size="99"><b><font face="DFPGiHi-W7-Strp"><font color="#000000">Village Mansion</font></font></b></font>
+
+251
+00:14:00,940 --> 00:14:03,860
+<font face="Chinacat" size="99"><b><font face="DFPGiHi-W7-Strp"><font color="#faf9f9">Village Mansion</font></font></b></font>
+
+252
+00:14:00,940 --> 00:14:03,860
+<font face="Chinacat" size="99"><b><font face="DFPGiHi-W7-Strp"><font color="#faf9f9">Village Mansion</font></font></b></font>
+
+253
+00:14:15,580 --> 00:14:17,800
+<font face="Impress BT Pace" size="82">You wish to see Usopp?</font>
+
+254
+00:14:18,500 --> 00:14:20,380
+<font face="Impress BT Pace" size="82">Not this again...</font>
+
+255
+00:14:20,420 --> 00:14:23,430
+<font face="Chinacat" size="99"><b><font face="DFPGiHi-W7-Strp"><font color="#000000">Kaya
+Mansion Owner</font></font></b></font>
+
+256
+00:14:20,420 --> 00:14:23,430
+<font face="Chinacat" size="99"><b><font face="DFPGiHi-W7-Strp"><font color="#faf9f9">Kaya
+Mansion Owner</font></font></b></font>
+
+257
+00:14:20,420 --> 00:14:23,430
+<font face="Chinacat" size="99"><b><font face="DFPGiHi-W7-Strp"><font color="#faf9f9">Kaya
+Mansion Owner</font></font></b></font>
+
+258
+00:14:20,800 --> 00:14:21,920
+<font face="Impress BT Pace" size="82">May I?</font>
+
+259
+00:14:21,920 --> 00:14:23,430
+<font face="Impress BT Pace" size="82">I want to talk to him.</font>
+
+260
+00:14:23,470 --> 00:14:28,720
+<font face="Chinacat" size="99"><b><font face="DFPGiHi-W7-Strp"><font color="#000000">Klahadore
+Mansion Butler</font></font></b></font>
+
+261
+00:14:23,470 --> 00:14:28,720
+<font face="Chinacat" size="99"><b><font face="DFPGiHi-W7-Strp"><font color="#faf9f9">Klahadore
+Mansion Butler</font></font></b></font>
+
+262
+00:14:23,470 --> 00:14:28,720
+<font face="Chinacat" size="99"><b><font face="DFPGiHi-W7-Strp"><font color="#faf9f9">Klahadore
+Mansion Butler</font></font></b></font>
+
+263
+00:14:24,930 --> 00:14:26,180
+<font face="Impress BT Pace" size="82">That will not do.</font>
+
+264
+00:14:26,180 --> 00:14:28,720
+<font face="Impress BT Pace" size="82">That man is the biggest liar in the village!</font>
+
+265
+00:14:29,310 --> 00:14:31,230
+<font face="Impress BT Pace" size="82">In your condition,</font>
+
+266
+00:14:31,230 --> 00:14:34,480
+<font face="Impress BT Pace" size="82">Usopp's nonsensical stories
+are the last thing you need!</font>
+
+267
+00:14:34,480 --> 00:14:35,190
+<font face="Impress BT Pace" size="82">But...</font>
+
+268
+00:14:35,440 --> 00:14:39,690
+<font face="Impress BT Pace" size="82">Your late parents entrusted me
+with taking care of you...</font>
+
+269
+00:14:39,690 --> 00:14:43,150
+<font face="Impress BT Pace" size="82">I must do so to the fullest extent
+of my abilities, Miss Kaya.</font>
+
+270
+00:14:43,860 --> 00:14:46,410
+<font face="Impress BT Pace" size="82">Now then, I'll leave
+your medicine here.</font>
+
+271
+00:14:46,410 --> 00:14:48,780
+<font face="Impress BT Pace" size="82">Please be sure to take it.</font>
+
+272
+00:14:52,620 --> 00:14:53,960
+<font face="Impress BT Pace" size="82">Jerk.</font>
+
+273
+00:14:54,250 --> 00:14:56,170
+<font face="Impress BT Pace" size="82">Call me a "jerk" all you want.</font>
+
+274
+00:14:56,170 --> 00:14:57,960
+<font face="Impress BT Pace" size="82">No means no.</font>
+
+275
+00:15:08,390 --> 00:15:09,850
+<font face="Impress BT Pace" size="82">Usopp!</font>
+
+276
+00:15:10,100 --> 00:15:12,850
+<font face="Impress BT Pace" size="82">Hey! You seem as down as ever!</font>
+
+277
+00:15:13,350 --> 00:15:14,730
+<font face="Impress BT Pace" size="82">I'm sorry!</font>
+
+278
+00:15:14,730 --> 00:15:18,110
+<font face="Impress BT Pace" size="82">I'd really like to invite you in
+as a proper guest...</font>
+
+279
+00:15:18,860 --> 00:15:22,230
+<font face="Impress BT Pace" size="82">but no matter what,
+Klahadore refuses to allow it.</font>
+
+280
+00:15:22,230 --> 00:15:23,990
+<font face="Impress BT Pace" size="82">He's not a bad person, though.</font>
+
+281
+00:15:23,990 --> 00:15:25,400
+<font face="Impress BT Pace" size="82">Don't sweat it!</font>
+
+282
+00:15:25,400 --> 00:15:28,910
+<font face="Impress BT Pace" size="82">I'm a brave warrior
+of the sea, after all!</font>
+
+283
+00:15:29,280 --> 00:15:33,410
+<font face="Impress BT Pace" size="82">I wouldn't feel at home
+in a stuffy mansion.</font>
+
+284
+00:15:33,660 --> 00:15:36,670
+<font face="Impress BT Pace" size="82">So what adventure are you going
+to tell me about today?</font>
+
+285
+00:15:36,670 --> 00:15:39,420
+<font face="Impress BT Pace" size="82">Hmm, let's see...</font>
+
+286
+00:15:39,420 --> 00:15:40,710
+<font face="Impress BT Pace" size="82">Alright!</font>
+
+287
+00:15:40,710 --> 00:15:42,210
+<font face="Impress BT Pace" size="82">When I was five years old,</font>
+
+288
+00:15:42,210 --> 00:15:45,300
+<font face="Impress BT Pace" size="82">I fought a giant goldfish
+that lived in the south seas.</font>
+
+289
+00:15:45,300 --> 00:15:46,380
+<font face="Impress BT Pace" size="82">A goldfish?</font>
+
+290
+00:15:46,630 --> 00:15:47,680
+<font face="Impress BT Pace" size="82">Yeah!</font>
+
+291
+00:15:47,680 --> 00:15:49,850
+<font face="Impress BT Pace" size="82">The first thing that shocked me</font>
+
+292
+00:15:49,850 --> 00:15:51,510
+<font face="Impress BT Pace" size="82">was the immense size of its poop!</font>
+
+293
+00:15:51,510 --> 00:15:55,600
+<font face="Impress BT Pace" size="82">It was so big I made landfall,
+thinking it was solid ground.</font>
+
+294
+00:16:06,700 --> 00:16:09,740
+<font face="Impress BT Pace" size="82">Whoa! It's huge!</font>
+
+295
+00:16:09,740 --> 00:16:13,080
+<font face="Impress BT Pace" size="82">If our captain ran off
+at this hour, he'd be here.</font>
+
+296
+00:16:13,080 --> 00:16:16,040
+<font face="Impress BT Pace" size="82">Oh? Why would he come here?</font>
+
+297
+00:16:16,040 --> 00:16:17,660
+<font face="Impress BT Pace" size="82">To lie!</font>
+
+298
+00:16:17,660 --> 00:16:19,330
+<font face="Impress BT Pace" size="82">That's a bad thing!</font>
+
+299
+00:16:19,330 --> 00:16:22,040
+<font face="Impress BT Pace" size="82">He's not bad! He's great! Right?!</font>
+
+300
+00:16:22,040 --> 00:16:23,420
+<font face="Impress BT Pace" size="82">Yeah! He's great!</font>
+
+301
+00:16:23,800 --> 00:16:25,670
+<font face="Impress BT Pace" size="82">How does that work?</font>
+
+302
+00:16:26,590 --> 00:16:30,180
+<font face="Impress BT Pace" size="82">Kaya, the girl who lives here, is sick.</font>
+
+303
+00:16:27,550 --> 00:16:29,260
+<font face="Impress BT Pace" size="82" color="#d6d6d6">A goldfish blocked the ship,</font>
+
+304
+00:16:29,260 --> 00:16:33,890
+<font face="Impress BT Pace" size="82" color="#d6d6d6">and on that ship was a pirate
+taller than a mountain!</font>
+
+305
+00:16:30,180 --> 00:16:35,100
+<font face="Impress BT Pace" size="82">And she's been depressed ever since
+her parents died from an illness a year ago.</font>
+
+306
+00:16:33,890 --> 00:16:36,390
+<font face="Impress BT Pace" size="82" color="#d6d6d6">His face was hilarious!</font>
+
+307
+00:16:35,640 --> 00:16:39,940
+<font face="Impress BT Pace" size="82">Even all her money can't
+change how sad it all is.</font>
+
+308
+00:16:40,850 --> 00:16:44,820
+<font face="Impress BT Pace" size="82">Our captain is great at telling
+tall tales that make her laugh!</font>
+
+309
+00:16:45,150 --> 00:16:48,280
+<font face="Impress BT Pace" size="82">He's the best at telling lies!</font>
+
+310
+00:16:48,280 --> 00:16:51,200
+<font face="Impress BT Pace" size="82" color="#d6d6d6">Never heard of a pirate with
+a face like that, have you?</font>
+
+311
+00:16:51,740 --> 00:16:53,700
+<font face="Impress BT Pace" size="82">So, he's a good guy?</font>
+
+312
+00:16:53,700 --> 00:16:54,910
+<font face="Impress BT Pace" size="82">– Yeah!
+– Yeah!</font>
+
+313
+00:16:54,910 --> 00:16:58,660
+<font face="Impress BT Pace" size="82">I like the captain because he's nosy!</font>
+
+314
+00:16:58,660 --> 00:17:01,170
+<font face="Impress BT Pace" size="82">I like how bossy he is!</font>
+
+315
+00:17:01,170 --> 00:17:03,250
+<font face="Impress BT Pace" size="82">I like how boastful he is!</font>
+
+316
+00:17:03,630 --> 00:17:06,630
+<font face="Impress BT Pace" size="82">And that helps her feel better?</font>
+
+317
+00:17:06,630 --> 00:17:08,260
+<font face="Impress BT Pace" size="82">Yeah, a lot better!</font>
+
+318
+00:17:08,260 --> 00:17:09,510
+<font face="Impress BT Pace" size="82">Great!</font>
+
+319
+00:17:09,510 --> 00:17:12,090
+<font face="Impress BT Pace" size="82">Let's go ask her for a ship then!</font>
+
+320
+00:17:12,550 --> 00:17:14,680
+<font face="Impress BT Pace" size="82">Just getting in is impossible!</font>
+
+321
+00:17:14,680 --> 00:17:16,970
+<font face="Impress BT Pace" size="82">The gate guards are really tough!</font>
+
+322
+00:17:17,560 --> 00:17:18,270
+<font face="Impress BT Pace" size="82">– Huh?
+– Huh?</font>
+
+323
+00:17:18,270 --> 00:17:19,270
+<font face="Impress BT Pace" size="82">Where'd Luffy go?</font>
+
+324
+00:17:19,270 --> 00:17:20,810
+<font face="Impress BT Pace" size="82">I'll go ask!</font>
+
+325
+00:17:21,480 --> 00:17:22,600
+<font face="Impress BT Pace" size="82">Wait, you're not gonna...?!</font>
+
+326
+00:17:22,600 --> 00:17:25,360
+<font face="Impress BT Pace" size="82">Gum-Gum...</font>
+
+327
+00:17:27,150 --> 00:17:30,610
+<font face="Impress BT Pace" size="82">Sorry...</font>
+
+328
+00:17:28,070 --> 00:17:28,990
+<font face="Impress BT Pace" size="82" color="#d6d6d6">Hey!</font>
+
+329
+00:17:30,610 --> 00:17:34,370
+<font face="Impress BT Pace" size="82">for Barging In!</font>
+
+330
+00:17:35,450 --> 00:17:42,040
+<font face="Impress BT Pace" size="82">And then we escaped into the sky
+using a gigantic slingshot!</font>
+
+331
+00:17:42,750 --> 00:17:44,290
+<font face="Impress BT Pace" size="82">U-Um...</font>
+
+332
+00:17:45,710 --> 00:17:47,550
+<font face="Impress BT Pace" size="82">Yahoo!</font>
+
+333
+00:17:53,510 --> 00:17:55,300
+<font face="Impress BT Pace" size="82">That worked great!</font>
+
+334
+00:17:55,300 --> 00:17:57,510
+<font face="Impress BT Pace" size="82">A-Are you all right?!</font>
+
+335
+00:17:57,510 --> 00:18:00,140
+<font face="Impress BT Pace" size="82">Y-Yeah! They're fine! Don't worry!</font>
+
+336
+00:18:00,140 --> 00:18:03,400
+<font face="Impress BT Pace" size="82">They heard about me
+and traveled all this way</font>
+
+337
+00:18:03,400 --> 00:18:05,980
+<font face="Impress BT Pace" size="82">just to join the Usopp Pirates!</font>
+
+338
+00:18:06,360 --> 00:18:08,980
+<font face="Impress BT Pace" size="82">Huh? No we didn't.</font>
+
+339
+00:18:09,360 --> 00:18:11,150
+<font face="Impress BT Pace" size="82">We're here to ask a favor!</font>
+
+340
+00:18:11,150 --> 00:18:12,780
+<font face="Impress BT Pace" size="82">A favor? Of me?</font>
+
+341
+00:18:12,780 --> 00:18:13,610
+<font face="Impress BT Pace" size="82">Yeah!</font>
+
+342
+00:18:13,990 --> 00:18:17,120
+<font face="Impress BT Pace" size="82">We want a big ship...</font>
+
+343
+00:18:15,490 --> 00:18:17,120
+<font face="Impress BT Pace" size="82" color="#d6d6d6">You, there!</font>
+
+344
+00:18:18,200 --> 00:18:20,330
+<font face="Impress BT Pace" size="82">What is the meaning of this?!</font>
+
+345
+00:18:21,830 --> 00:18:24,080
+<font face="Impress BT Pace" size="82">Klahadore...</font>
+
+346
+00:18:25,330 --> 00:18:27,090
+<font face="Impress BT Pace" size="82">I don't appreciate you all...</font>
+
+347
+00:18:28,090 --> 00:18:30,550
+<font face="Impress BT Pace" size="82">breaking in here without permission!</font>
+
+348
+00:18:34,890 --> 00:18:37,010
+<font face="Impress BT Pace" size="82">These people are–</font>
+
+349
+00:18:35,930 --> 00:18:37,010
+<font face="Impress BT Pace" size="82" color="#d6d6d6">That can wait.</font>
+
+350
+00:18:38,470 --> 00:18:42,100
+<font face="Impress BT Pace" size="82">You can tell me your reasoning later.</font>
+
+351
+00:18:42,100 --> 00:18:44,100
+<font face="Impress BT Pace" size="82">Now leave, all of you!</font>
+
+352
+00:18:44,100 --> 00:18:46,560
+<font face="Impress BT Pace" size="82">Or do you have something to say?</font>
+
+353
+00:18:46,940 --> 00:18:49,400
+<font face="Impress BT Pace" size="82">Well, actually, we want a ship!</font>
+
+354
+00:18:49,400 --> 00:18:50,530
+<font face="Impress BT Pace" size="82">Absolutely not!</font>
+
+355
+00:18:52,320 --> 00:18:53,740
+<font face="Impress BT Pace" size="82">Usopp!</font>
+
+356
+00:18:53,740 --> 00:18:54,530
+<font face="Impress BT Pace" size="82">Crap!</font>
+
+357
+00:18:54,530 --> 00:18:57,320
+<font face="Impress BT Pace" size="82">I've heard all about you.</font>
+
+358
+00:18:57,320 --> 00:18:59,370
+<font face="Impress BT Pace" size="82">You're infamous in the village.</font>
+
+359
+00:19:00,490 --> 00:19:02,200
+<font face="Impress BT Pace" size="82">Quite impressive for your age.</font>
+
+360
+00:19:02,200 --> 00:19:05,710
+<font face="Impress BT Pace" size="82">Feel free to call me
+Captain Usopp, too!</font>
+
+361
+00:19:05,710 --> 00:19:07,630
+<font face="Impress BT Pace" size="82">No need for flattery, though!</font>
+
+362
+00:19:08,630 --> 00:19:11,170
+<font face="Impress BT Pace" size="82">I've heard stories about
+your father as well.</font>
+
+363
+00:19:11,170 --> 00:19:11,920
+<font face="Impress BT Pace" size="82">What?!</font>
+
+364
+00:19:12,260 --> 00:19:15,590
+<font face="Impress BT Pace" size="82">You're nothing but
+the son of a filthy pirate!</font>
+
+365
+00:19:16,340 --> 00:19:19,050
+<font face="Impress BT Pace" size="82">I wouldn't put anything past you,</font>
+
+366
+00:19:19,390 --> 00:19:23,770
+<font face="Impress BT Pace" size="82">so I ask that you stay away
+from the lady of this house!</font>
+
+367
+00:19:24,770 --> 00:19:26,850
+<font face="Impress BT Pace" size="82">F-Filthy pirate...?!</font>
+
+368
+00:19:27,270 --> 00:19:31,070
+<font face="Impress BT Pace" size="82">You and the lady are from
+completely different worlds!</font>
+
+369
+00:19:31,070 --> 00:19:33,070
+<font face="Impress BT Pace" size="82">Is it money you're after? How much?</font>
+
+370
+00:19:33,490 --> 00:19:36,280
+<font face="Impress BT Pace" size="82">That's enough, Klahadore!
+Apologize to Usopp!</font>
+
+371
+00:19:37,490 --> 00:19:38,740
+<font face="Impress BT Pace" size="82">Hey, Kaya! Be careful!</font>
+
+372
+00:19:39,240 --> 00:19:43,700
+<font face="Impress BT Pace" size="82">What reason is there to apologize
+to this savage, my lady?</font>
+
+373
+00:19:44,580 --> 00:19:47,540
+<font face="Impress BT Pace" size="82">I am merely stating the truth.</font>
+
+374
+00:19:48,420 --> 00:19:50,380
+<font face="Impress BT Pace" size="82">I sympathize with you.</font>
+
+375
+00:19:50,380 --> 00:19:54,130
+<font face="Impress BT Pace" size="82">You must truly hate
+your idiot of a father</font>
+
+376
+00:19:54,130 --> 00:19:57,130
+<font face="Impress BT Pace" size="82">for choosing treasure over
+his family and village!</font>
+
+377
+00:19:57,680 --> 00:19:59,010
+<font face="Impress BT Pace" size="82">Klahadore!</font>
+
+378
+00:19:59,640 --> 00:20:02,260
+<font face="Impress BT Pace" size="82">Don't you dare say
+another word about my father!</font>
+
+379
+00:20:03,890 --> 00:20:05,520
+<font face="Impress BT Pace" size="82">Usopp!</font>
+
+380
+00:20:14,070 --> 00:20:16,610
+<font face="Impress BT Pace" size="82">What are you getting
+so worked up about?</font>
+
+381
+00:20:16,610 --> 00:20:19,530
+<font face="Impress BT Pace" size="82">Why not simply tell another
+one of your outrageous lies?</font>
+
+382
+00:20:20,160 --> 00:20:22,990
+<font face="Impress BT Pace" size="82">Tell us how he's actually
+a traveling merchant</font>
+
+383
+00:20:22,990 --> 00:20:25,540
+<font face="Impress BT Pace" size="82">or that he's not even
+your real father...</font>
+
+384
+00:20:25,540 --> 00:20:27,080
+<font face="Impress BT Pace" size="82">Shut up!</font>
+
+385
+00:20:34,550 --> 00:20:35,760
+<font face="Impress BT Pace" size="82">– Captain!
+– Captain!</font>
+
+386
+00:20:37,090 --> 00:20:40,510
+<font face="Impress BT Pace" size="82">S-See? Instantly
+resorting to violence...!</font>
+
+387
+00:20:40,510 --> 00:20:43,350
+<font face="Impress BT Pace" size="82">Like father, like son!</font>
+
+388
+00:20:43,350 --> 00:20:45,060
+<font face="Impress BT Pace" size="82">Just shut up!</font>
+
+389
+00:20:45,520 --> 00:20:49,020
+<font face="Impress BT Pace" size="82">I'm proud that my father is a pirate!</font>
+
+390
+00:20:49,020 --> 00:20:52,770
+<font face="Impress BT Pace" size="82">I'm proud that he's
+a brave warrior of the sea!</font>
+
+391
+00:20:52,770 --> 00:20:55,820
+<font face="Impress BT Pace" size="82">You're right, I <i>am</i> a liar!</font>
+
+392
+00:20:55,820 --> 00:21:00,660
+<font face="Impress BT Pace" size="82">But I'll never lie about my family!
+I'm proud of the pirate blood in my veins!</font>
+
+393
+00:21:01,030 --> 00:21:03,410
+<font face="Impress BT Pace" size="82">I'm the son of a pirate!</font>
+
+394
+00:21:07,540 --> 00:21:08,790
+<font face="Impress BT Pace" size="82">Captain...</font>
+
+395
+00:21:11,080 --> 00:21:14,290
+<font face="Impress BT Pace" size="82">A pirate, a brave warrior of the sea?</font>
+
+396
+00:21:14,290 --> 00:21:17,340
+<font face="Impress BT Pace" size="82">You'll find any way
+to twist the truth...</font>
+
+397
+00:21:18,760 --> 00:21:22,590
+<font face="Impress BT Pace" size="82">But you're the undeniable
+proof of his savage blood!</font>
+
+398
+00:21:22,590 --> 00:21:26,720
+<font face="Impress BT Pace" size="82">You run around spouting lies
+and lash out whenever you're angry!</font>
+
+399
+00:21:26,720 --> 00:21:30,560
+<font face="Impress BT Pace" size="82">Worst of all, you cozy up to the lady
+of the house to steal her fortune!</font>
+
+400
+00:21:30,560 --> 00:21:32,230
+<font face="Impress BT Pace" size="82">What?! I just–</font>
+
+401
+00:21:32,230 --> 00:21:34,730
+<font face="Impress BT Pace" size="82">The fact that your father is a pirate</font>
+
+402
+00:21:34,730 --> 00:21:38,030
+<font face="Impress BT Pace" size="82">is more than enough proof that
+you're plotting something!</font>
+
+403
+00:21:38,440 --> 00:21:39,780
+<font face="Impress BT Pace" size="82">Shut up already!</font>
+
+404
+00:21:39,780 --> 00:21:41,240
+<font face="Impress BT Pace" size="82">Stop, Usopp!</font>
+
+405
+00:21:42,530 --> 00:21:44,950
+<font face="Impress BT Pace" size="82">Please, no more violence!</font>
+
+406
+00:21:46,700 --> 00:21:49,410
+<font face="Impress BT Pace" size="82">Klahadore isn't a bad person!</font>
+
+407
+00:21:49,960 --> 00:21:50,960
+<font face="Impress BT Pace" size="82">He's just...</font>
+
+408
+00:21:51,620 --> 00:21:55,500
+<font face="Impress BT Pace" size="82">He's just trying to do
+what's best for me!</font>
+
+409
+00:21:56,000 --> 00:21:57,800
+<font face="Impress BT Pace" size="82">Leave this place!</font>
+
+410
+00:21:58,210 --> 00:22:01,220
+<font face="Impress BT Pace" size="82">Never come near this mansion again!</font>
+
+411
+00:22:02,260 --> 00:22:04,090
+<font face="Impress BT Pace" size="82">Yeah, I get it.</font>
+
+412
+00:22:04,090 --> 00:22:06,720
+<font face="Impress BT Pace" size="82">You don't have to tell me twice!</font>
+
+413
+00:22:08,220 --> 00:22:10,770
+<font face="Impress BT Pace" size="82">I'll never come back here again!</font>
+
+414
+00:22:12,140 --> 00:22:13,650
+<font face="Impress BT Pace" size="82">Usopp...</font>
+
+415
+00:22:15,270 --> 00:22:17,230
+<font face="Impress BT Pace" size="82">You stupid <i>butt</i>-ler!</font>
+
+416
+00:22:17,230 --> 00:22:19,280
+<font face="Impress BT Pace" size="82">Our captain's not that kind of guy!</font>
+
+417
+00:22:19,280 --> 00:22:20,780
+<font face="Impress BT Pace" size="82">Yeah! You <i>butt</i>head!</font>
+
+418
+00:22:20,780 --> 00:22:21,820
+<font face="Impress BT Pace" size="82">Butthead!</font>
+
+419
+00:22:22,150 --> 00:22:23,950
+<font face="Impress BT Pace" size="82">Butthead!</font>
+
+420
+00:22:23,950 --> 00:22:26,160
+<font face="Impress BT Pace" size="82">Why are <i>you</i> saying it?</font>
+
+421
+00:22:28,990 --> 00:22:33,330
+<font face="Impress BT Pace" size="82">What's your problem?!
+Come fight me, if you can!</font>
+
+422
+00:22:29,950 --> 00:22:31,000
+<font face="Impress BT Pace" size="82" color="#d6d6d6">Stop!</font>
+
+423
+00:22:34,210 --> 00:22:36,960
+<font face="Impress BT Pace" size="82">The rest of you will leave as well!</font>
+
+424
+00:22:49,060 --> 00:22:51,520
+<font face="Impress BT Pace" size="82">Your meal, my lady.</font>
+
+425
+00:22:51,520 --> 00:22:53,310
+<font face="Impress BT Pace" size="82">No thanks.</font>
+
+426
+00:22:53,310 --> 00:22:54,690
+<font face="Impress BT Pace" size="82">I've lost my appetite.</font>
+
+427
+00:22:58,270 --> 00:23:01,400
+<font face="Impress BT Pace" size="82">The cook would be sad
+to hear you say that.</font>
+
+428
+00:23:01,400 --> 00:23:06,740
+<font face="Impress BT Pace" size="82">He works his hardest to come up
+with meals that suit your needs.</font>
+
+429
+00:23:11,700 --> 00:23:13,660
+<font face="Impress BT Pace" size="82">Why did you speak to him like that?</font>
+
+430
+00:23:14,540 --> 00:23:21,090
+<font face="Impress BT Pace" size="82">I feel really bad for talking to Usopp
+behind your back, Klahadore.</font>
+
+431
+00:23:21,090 --> 00:23:24,050
+<font face="Impress BT Pace" size="82">But you didn't need to
+kick him out like that.</font>
+
+432
+00:23:28,510 --> 00:23:30,350
+<font face="Impress BT Pace" size="82">May I sit?</font>
+
+433
+00:23:30,350 --> 00:23:31,260
+<font face="Impress BT Pace" size="82">Go ahead.</font>
+
+434
+00:23:33,020 --> 00:23:36,390
+<font face="Impress BT Pace" size="82">It's been nearly three years...</font>
+
+435
+00:23:37,400 --> 00:23:40,900
+<font face="Impress BT Pace" size="82">since the day I came to this mansion.</font>
+
+436
+00:23:41,480 --> 00:23:44,320
+<font face="Impress BT Pace" size="82">I'll never forget what
+happened that day...</font>
+
+437
+00:23:54,910 --> 00:24:01,250
+<font face="Impress BT Pace" size="82">I was kicked off the ship I worked on
+because of a mistake I made.</font>
+
+438
+00:24:01,250 --> 00:24:05,380
+<font face="Impress BT Pace" size="82">And with no work or money, I was
+on the verge of dying like a beggar.</font>
+
+439
+00:24:18,440 --> 00:24:23,900
+<font face="Impress BT Pace" size="82">In my eyes, I owe my life
+to your late parents...</font>
+
+440
+00:24:24,320 --> 00:24:29,200
+<font face="Impress BT Pace" size="82">And to you, their daughter.</font>
+
+441
+00:24:30,570 --> 00:24:37,910
+<font face="Impress BT Pace" size="82">I realize that it isn't my place
+to interfere with your friendships.</font>
+
+442
+00:24:38,710 --> 00:24:43,880
+<font face="Impress BT Pace" size="82">But Usopp isn't exactly known
+for his upstanding character!</font>
+
+443
+00:24:43,880 --> 00:24:48,510
+<font face="Impress BT Pace" size="82">If... by any chance something
+should happen to you,</font>
+
+444
+00:24:48,510 --> 00:24:52,350
+<font face="Impress BT Pace" size="82">Your kind parents
+would never forgive me!</font>
+
+445
+00:24:53,390 --> 00:24:57,350
+<font face="Impress BT Pace" size="82">Do you think ill of me
+for what I did earlier?</font>
+
+446
+00:24:57,350 --> 00:24:59,730
+<font face="Impress BT Pace" size="82">No, not at all!</font>
+
+447
+00:24:59,730 --> 00:25:02,610
+<font face="Impress BT Pace" size="82">I'm glad to have you too, Klahadore!</font>
+
+448
+00:25:02,610 --> 00:25:04,270
+<font face="Impress BT Pace" size="82">But please don't misunderstand.</font>
+
+449
+00:25:05,110 --> 00:25:07,570
+<font face="Impress BT Pace" size="82">Usopp is a very nice person.</font>
+
+450
+00:25:07,570 --> 00:25:10,860
+<font face="Impress BT Pace" size="82">Still, whether he's
+nice or not is irrelevant!</font>
+
+451
+00:25:10,860 --> 00:25:12,490
+<font face="Impress BT Pace" size="82">Klahadore!</font>
+
+452
+00:25:12,490 --> 00:25:14,200
+<font face="Impress BT Pace" size="82">You blockhead!</font>
+
+453
+00:25:14,200 --> 00:25:16,040
+<font face="Impress BT Pace" size="82">Call me a "blockhead" all you want!</font>
+
+454
+00:25:20,290 --> 00:25:21,580
+<font face="Impress BT Pace" size="82">Where'd Luffy go?</font>
+
+455
+00:25:22,080 --> 00:25:23,210
+<font face="Impress BT Pace" size="82">Who knows?</font>
+
+456
+00:25:23,210 --> 00:25:25,500
+<font face="Impress BT Pace" size="82">He probably ran after the "captain."</font>
+
+457
+00:25:26,090 --> 00:25:27,760
+<font face="Impress BT Pace" size="82">Our captain would be at his spot!</font>
+
+458
+00:25:27,760 --> 00:25:29,470
+<font face="Impress BT Pace" size="82">Yeah, the shore!</font>
+
+459
+00:25:29,470 --> 00:25:32,590
+<font face="Impress BT Pace" size="82">He always goes there
+when something happens!</font>
+
+460
+00:25:32,590 --> 00:25:35,560
+<font face="Impress BT Pace" size="82">Well, never mind that.
+Aren't you missing someone?</font>
+
+461
+00:25:35,560 --> 00:25:37,680
+<font face="Impress BT Pace" size="82">– Yeah, Onion!
+– Yeah, Onion!</font>
+
+462
+00:25:37,680 --> 00:25:40,440
+<font face="Impress BT Pace" size="82">He's always running off!</font>
+
+463
+00:25:40,440 --> 00:25:43,770
+<font face="Impress BT Pace" size="82">Yeah! And then he
+shows up all freaked out!</font>
+
+464
+00:25:45,770 --> 00:25:47,230
+<font face="Impress BT Pace" size="82">We're doomed!</font>
+
+465
+00:25:47,230 --> 00:25:48,610
+<font face="Impress BT Pace" size="82">See?</font>
+
+466
+00:25:48,610 --> 00:25:51,070
+<font face="Impress BT Pace" size="82">There's a backwards guy!</font>
+
+467
+00:25:51,530 --> 00:25:54,030
+<font face="Impress BT Pace" size="82">A weird guy is walking
+backwards this way!</font>
+
+468
+00:25:54,030 --> 00:25:55,160
+<font face="Impress BT Pace" size="82">– Liar!
+– Liar!</font>
+
+469
+00:25:55,160 --> 00:25:56,700
+<font face="Impress BT Pace" size="82">It's the truth!</font>
+
+470
+00:25:56,700 --> 00:25:58,540
+<font face="Impress BT Pace" size="82">Just look!</font>
+
+471
+00:26:07,550 --> 00:26:10,510
+<font face="Impress BT Pace" size="82">Hey! Who's calling me weird?!</font>
+
+472
+00:26:10,550 --> 00:26:15,550
+<font face="Chinacat" size="99"><b><font face="DFPGiHi-W7-Strp"><font color="#000000">Jango
+A Hypnotist</font></font></b></font>
+
+473
+00:26:10,550 --> 00:26:15,550
+<font face="Chinacat" size="99"><b><font face="DFPGiHi-W7-Strp"><font color="#faf9f9">Jango
+A Hypnotist</font></font></b></font>
+
+474
+00:26:10,550 --> 00:26:15,550
+<font face="Chinacat" size="99"><b><font face="DFPGiHi-W7-Strp"><font color="#faf9f9">Jango
+A Hypnotist</font></font></b></font>
+
+475
+00:26:13,760 --> 00:26:15,550
+<font face="Impress BT Pace" size="82">I'm not weird.</font>
+
+476
+00:26:16,720 --> 00:26:18,770
+<font face="Impress BT Pace" size="82">You seem pretty weird to me.</font>
+
+477
+00:26:18,770 --> 00:26:20,100
+<font face="Impress BT Pace" size="82">Don't be stupid!</font>
+
 478
-00:26:49,750 --> 00:26:53,220
-<font face="Impress BT Pace" size="36">In this day and age
-where pirates are everywhere,</font>
+00:26:20,100 --> 00:26:22,480
+<font face="Impress BT Pace" size="82">I'm just an ordinary,
+traveling hypnotist!</font>
 
 479
-00:26:53,220 --> 00:26:57,190
-<font face="Impress BT Pace" size="36">I'm proud of my old man
-for risking his life out at sea!</font>
+00:26:22,480 --> 00:26:25,110
+<font face="Impress BT Pace" size="82">H-Hypnotist?! Awesome!</font>
 
 480
-00:26:57,190 --> 00:27:00,900
-<font face="Impress BT Pace" size="36">Yet, that bastard stomped
-all over his name!</font>
+00:26:25,110 --> 00:26:26,730
+<font face="Impress BT Pace" size="82">Show us something!</font>
 
 481
-00:27:00,900 --> 00:27:02,000
-<font face="Impress BT Pace" size="36">He'll pay for this!</font>
+00:26:26,730 --> 00:26:28,360
+<font face="Impress BT Pace" size="82">Yeah! Do a trick!</font>
 
 482
-00:27:02,000 --> 00:27:03,630
-<font face="Impress BT Pace" size="36">I hate that guy too.</font>
+00:26:28,980 --> 00:26:29,940
+<font face="Impress BT Pace" size="82">What?!</font>
 
 483
-00:27:03,990 --> 00:27:06,930
-<font face="Impress BT Pace" size="36">So you're not gonna go
-see that girl anymore?</font>
+00:26:31,190 --> 00:26:33,200
+<font face="Impress BT Pace" size="82">Don't make me laugh!</font>
 
 484
-00:27:08,230 --> 00:27:11,050
-<font face="Impress BT Pace" size="36">Y-Yeah, I dunno...</font>
+00:26:33,200 --> 00:26:37,910
+<font face="Impress BT Pace" size="82">Why should I reveal my techniques
+to a bunch of strangers?!</font>
 
 485
-00:27:11,050 --> 00:27:14,820
-<font face="Impress BT Pace" size="36">If that butler comes and apologizes
-to me, I might consider it.</font>
+00:26:38,660 --> 00:26:40,910
+<font face="Impress BT Pace" size="82">Alright. Watch this ring closely.</font>
 
 486
-00:27:14,820 --> 00:27:16,780
-<font face="Impress BT Pace" size="36"><i>That</i> butler?</font>
+00:26:40,910 --> 00:26:41,910
+<font face="Impress BT Pace" size="82">But you just said...!</font>
 
 487
-00:27:16,780 --> 00:27:19,400
-<font face="Impress BT Pace" size="36">Yeah, <i>that</i> butler...</font>
+00:26:42,250 --> 00:26:45,670
+<font face="Impress BT Pace" size="82">You will fall asleep at the count
+of "one, two, Jango."</font>
 
 488
-00:27:19,400 --> 00:27:21,810
-<font face="Impress BT Pace" size="36">What's that butler doing out <i>here</i>?!</font>
+00:26:45,670 --> 00:26:46,880
+<font face="Impress BT Pace" size="82">Alright, here we go!</font>
 
 489
-00:27:21,810 --> 00:27:23,320
-<font face="Impress BT Pace" size="36">Hey! Let go!</font>
+00:26:48,000 --> 00:26:49,000
+<font face="Impress BT Pace" size="82">One...</font>
 
 490
-00:27:24,140 --> 00:27:25,470
-<font face="Impress BT Pace" size="36">Hey, Jango.</font>
+00:26:49,000 --> 00:26:50,130
+<font face="Impress BT Pace" size="82">Two...</font>
 
 491
-00:27:25,470 --> 00:27:28,810
-<font face="Impress BT Pace" size="36">I told you to avoid doing
-anything to make you stand out.</font>
+00:26:50,130 --> 00:26:50,800
+<font face="Impress BT Pace" size="82">Jango!</font>
 
 492
-00:27:28,810 --> 00:27:31,250
-<font face="Impress BT Pace" size="36">Yet there you are sleeping
-in the middle of the village...</font>
+00:26:54,680 --> 00:26:56,800
+<font face="Impress BT Pace" size="82">Hey! What's this guy's deal?!</font>
 
 493
-00:27:31,250 --> 00:27:32,810
-<font face="Impress BT Pace" size="36">Don't be stupid.</font>
+00:27:01,560 --> 00:27:02,270
+<font face="Impress BT Pace" size="82">Hey!</font>
 
 494
-00:27:32,810 --> 00:27:34,720
-<font face="Impress BT Pace" size="36">I don't stand out one bit.</font>
+00:27:03,230 --> 00:27:04,480
+<font face="Impress BT Pace" size="82">There you are!</font>
 
 495
-00:27:34,720 --> 00:27:35,920
-<font face="Impress BT Pace" size="36">I'm not weird, either.</font>
+00:27:04,480 --> 00:27:07,440
+<font face="Impress BT Pace" size="82">Oh, it's you! Don't just
+sneak up like that!</font>
 
 496
-00:27:35,920 --> 00:27:39,010
-<font face="Impress BT Pace" size="36">There's someone else with him.
-Some weird guy...</font>
+00:27:08,020 --> 00:27:10,360
+<font face="Impress BT Pace" size="82">So, what? Do you want something?</font>
 
 497
-00:27:39,010 --> 00:27:41,720
-<font face="Impress BT Pace" size="36">Never seen him before. Who is he?</font>
+00:27:10,360 --> 00:27:11,480
+<font face="Impress BT Pace" size="82">Not really.</font>
 
 498
-00:27:41,720 --> 00:27:45,890
-<font face="Impress BT Pace" size="36">So, preparations for the plan
-are ready, I hope?</font>
+00:27:15,570 --> 00:27:17,410
+<font face="Impress BT Pace" size="82">Ouch...</font>
 
 499
-00:27:45,890 --> 00:27:47,520
-<font face="Impress BT Pace" size="36">Of course.</font>
+00:27:23,450 --> 00:27:25,330
+<font face="Impress BT Pace" size="82">That damn butler,</font>
 
 500
-00:27:51,280 --> 00:27:53,400
-<font face="Impress BT Pace" size="36">We can start anytime...</font>
+00:27:25,330 --> 00:27:27,540
+<font face="Impress BT Pace" size="82">insulting my old man like that!</font>
 
 501
-00:27:53,400 --> 00:27:56,190
-<font face="Impress BT Pace" size="36">The Mistress Assassination Plan!</font>
+00:27:27,540 --> 00:27:30,170
+<font face="Impress BT Pace" size="82">Yeah, I hate that guy too!</font>
 
 502
-00:27:59,350 --> 00:28:02,990
-<font face="Impress BT Pace" size="36">A-Assassination?!</font>
+00:27:30,170 --> 00:27:33,090
+<font face="Impress BT Pace" size="82">No matter what anyone says,
+Yasopp is a great pirate!</font>
+
+503
+00:27:33,460 --> 00:27:34,920
+<font face="Impress BT Pace" size="82">Yeah, huh?!</font>
+
+504
+00:27:35,300 --> 00:27:38,720
+<font face="Impress BT Pace" size="82">In this day and age when
+pirates are everywhere,</font>
+
+505
+00:27:38,720 --> 00:27:42,600
+<font face="Impress BT Pace" size="82">I'm proud of my old man
+for risking his life out at sea!</font>
+
+506
+00:27:42,600 --> 00:27:46,190
+<font face="Impress BT Pace" size="82">Yet, that bastard stomped
+all over my pride!</font>
+
+507
+00:27:46,190 --> 00:27:48,060
+<font face="Impress BT Pace" size="82">He'll pay for this!</font>
+
+508
+00:27:48,060 --> 00:27:51,070
+<font face="Impress BT Pace" size="82">So you're not gonna
+see that girl anymore?</font>
+
+509
+00:27:52,150 --> 00:27:55,030
+<font face="Impress BT Pace" size="82">W-Well, I dunno...</font>
+
+510
+00:27:55,030 --> 00:27:58,910
+<font face="Impress BT Pace" size="82">If that butler comes back with
+an apology, I might consider it.</font>
+
+511
+00:27:58,910 --> 00:28:00,660
+<font face="Impress BT Pace" size="82">You mean <i>that</i> butler?</font>
+
+512
+00:28:00,660 --> 00:28:01,410
+<font face="Impress BT Pace" size="82">Yeah...</font>
+
+513
+00:28:01,740 --> 00:28:03,490
+<font face="Impress BT Pace" size="82">That butler... That...</font>
+
+514
+00:28:03,490 --> 00:28:05,580
+<font face="Impress BT Pace" size="82">What's that butler doing out here?!</font>
+
+515
+00:28:05,580 --> 00:28:07,460
+<font face="Impress BT Pace" size="82">H-Hey! Ow, ow!</font>
+
+516
+00:28:08,250 --> 00:28:09,500
+<font face="Impress BT Pace" size="82">Hey, Jango.</font>
+
+517
+00:28:09,500 --> 00:28:13,000
+<font face="Impress BT Pace" size="82">I told you to keep a low profile.</font>
+
+518
+00:28:13,000 --> 00:28:15,300
+<font face="Impress BT Pace" size="82">Yet you were napping
+in broad daylight...</font>
+
+519
+00:28:15,300 --> 00:28:16,720
+<font face="Impress BT Pace" size="82">Don't be stupid.</font>
+
+520
+00:28:16,720 --> 00:28:18,680
+<font face="Impress BT Pace" size="82">I don't stand out one bit.</font>
+
+521
+00:28:18,680 --> 00:28:20,010
+<font face="Impress BT Pace" size="82">I'm not weird, either.</font>
+
+522
+00:28:20,390 --> 00:28:23,010
+<font face="Impress BT Pace" size="82">There's someone else with him.
+Some weird guy...</font>
+
+523
+00:28:23,010 --> 00:28:24,640
+<font face="Impress BT Pace" size="82">I've never seen him before.</font>
+
+524
+00:28:24,640 --> 00:28:25,770
+<font face="Impress BT Pace" size="82">Who is he?</font>
+
+525
+00:28:25,770 --> 00:28:29,980
+<font face="Impress BT Pace" size="82">So, I presume everything is in
+place to carry out the plan?</font>
+
+526
+00:28:29,980 --> 00:28:31,650
+<font face="Impress BT Pace" size="82">Of course.</font>
+
+527
+00:28:35,280 --> 00:28:37,490
+<font face="Impress BT Pace" size="82">We're ready at any moment.</font>
+
+528
+00:28:37,860 --> 00:28:40,280
+<font face="Impress BT Pace" size="82">The Mistress Assassination Plan!</font>
+
+529
+00:28:43,330 --> 00:28:47,160
+<font face="Impress BT Pace" size="82">A-Assassination?!</font>
 

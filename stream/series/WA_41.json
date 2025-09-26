@@ -2,7 +2,18 @@
   "streams": [
     {
       "infoHash": "6fb0ceb05a74e832246ddf23263d5d9a53290c9a",
-      "subtitles": []
+      "subtitles": [
+        {
+          "id": "WA_41_ara",
+          "lang": "ara",
+          "url": "https://onepace.arl.sh/static/WA_41_ara.srt"
+        },
+        {
+          "id": "WA_41_eng",
+          "lang": "eng",
+          "url": "https://onepace.arl.sh/static/WA_41_eng.srt"
+        }
+      ]
     }
   ]
 }

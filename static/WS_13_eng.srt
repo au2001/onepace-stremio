@@ -22370,7 +22370,8 @@ Pirate King Gold Roger's pirate ship,</font>
 
 5574
 00:18:38,150 --> 00:18:42,270
-<font face="Impress BT Pace" size="82">take the shipwright Tom to Enies Lobby.</font>
+<font face="Impress BT Pace" size="82">we shall escort the shipwright
+Tom to Enies Lobby.</font>
 
 5575
 00:18:42,650 --> 00:18:43,720
@@ -22390,7 +22391,7 @@ Pirate King Gold Roger's pirate ship,</font>
 
 5579
 00:19:01,050 --> 00:19:03,580
-<font face="Impress BT Pace" size="82">Mr. Tom's dead in the water.</font>
+<font face="Impress BT Pace" size="82">Mr. Tom is beyond saving now.</font>
 
 5580
 00:19:04,470 --> 00:19:07,500
@@ -22404,16 +22405,18 @@ Mr. Tom saved your lives!</font>
 
 5582
 00:19:12,850 --> 00:19:17,140
-<font face="Impress BT Pace" size="82">If you go to war with them,
+<font face="Impress BT Pace" size="82">If you make an enemy of them,
 you'll be dead before the day is out.</font>
 
 5583
 00:19:17,520 --> 00:19:20,810
-<font face="Impress BT Pace" size="82">Enies Lobby is the government's judicial island.</font>
+<font face="Impress BT Pace" size="82">Enies Lobby, the Judicial Island,
+belongs to the government.</font>
 
 5584
 00:19:21,430 --> 00:19:27,350
-<font face="Impress BT Pace" size="82">No one who goes there has ever come back!</font>
+<font face="Impress BT Pace" size="82">None of the criminals sent there
+have ever come back!</font>
 
 5585
 00:19:28,320 --> 00:19:30,690

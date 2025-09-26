@@ -5,6 +5,11 @@
       "fileIdx": 0,
       "subtitles": [
         {
+          "id": "RTS_1_ara",
+          "lang": "ara",
+          "url": "https://onepace.arl.sh/static/RTS_1_ara.srt"
+        },
+        {
           "id": "RTS_1_eng",
           "lang": "eng",
           "url": "https://onepace.arl.sh/static/RTS_1_eng.srt"

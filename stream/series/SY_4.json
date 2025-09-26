@@ -1,9 +1,28 @@
 {
   "streams": [
     {
-      "infoHash": "6c29dedaa9bef46c73a04ebe2c8c9761b92cb9eb",
-      "fileIdx": 3,
+      "infoHash": "1e32b2b30826d6dcd0833a8415c11a25a2883d9e",
       "subtitles": [
+        {
+          "id": "SY_4_ara",
+          "lang": "ara",
+          "url": "https://onepace.arl.sh/static/SY_4_ara.srt"
+        },
+        {
+          "id": "SY_4_ger",
+          "lang": "ger",
+          "url": "https://onepace.arl.sh/static/SY_4_ger.srt"
+        },
+        {
+          "id": "SY_4_ita",
+          "lang": "ita",
+          "url": "https://onepace.arl.sh/static/SY_4_ita.srt"
+        },
+        {
+          "id": "SY_4_tur",
+          "lang": "tur",
+          "url": "https://onepace.arl.sh/static/SY_4_tur.srt"
+        },
         {
           "id": "SY_4_eng",
           "lang": "eng",

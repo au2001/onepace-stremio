@@ -1,9 +1,14 @@
 {
   "streams": [
     {
-      "infoHash": "c5860b5066c7ed8bfe51abde23f76ef3f78a6ec7",
+      "infoHash": "4d9497e964d820760adf11e47664df3091b808f2",
       "fileIdx": 2,
       "subtitles": [
+        {
+          "id": "REV_3_ara",
+          "lang": "ara",
+          "url": "https://onepace.arl.sh/static/REV_3_ara.srt"
+        },
         {
           "id": "REV_3_eng",
           "lang": "eng",

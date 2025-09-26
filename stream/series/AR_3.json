@@ -1,9 +1,18 @@
 {
   "streams": [
     {
-      "infoHash": "4c688038db6ae51893f505fbb0c12eafacde8f4b",
-      "fileIdx": 2,
+      "infoHash": "6a094a5b9265993005e8cb789687d23aac5a3caa",
       "subtitles": [
+        {
+          "id": "AR_3_ger",
+          "lang": "ger",
+          "url": "https://onepace.arl.sh/static/AR_3_ger.srt"
+        },
+        {
+          "id": "AR_3_ita",
+          "lang": "ita",
+          "url": "https://onepace.arl.sh/static/AR_3_ita.srt"
+        },
         {
           "id": "AR_3_eng",
           "lang": "eng",

@@ -1159,23 +1159,25 @@ Galaxy 9000</font></font></font>
 <font face="Dumpling-Regular" size="68"><font face="FOT-Carat Std UB-Strp"><font color="#ffe756">ke</font></font></font>
 
 290
-00:00:18,960 --> 00:00:20,960
-<font face="FOT-Greco Std DB Strp" size="55"><font face="FOT-Carat Std UB-Strp"><font color="#e6da4c">Quality Control</font></font></font>
-
-291
-00:00:18,960 --> 00:00:20,960
-<font face="FOT-Greco Std DB Strp" size="55"><font face="FOT-Carat Std UB-Strp"><font color="#e6da4c">fedew
-Pepperjack</font></font></font>
-
-292
-00:00:18,960 --> 00:00:20,960
-<font face="FOT-Greco Std DB Strp" size="55"><font face="FOT-Carat Std UB-Strp"><font color="#e6da4c">PhosCity
-Scolines
-Zenef</font></font></font>
-
-293
 00:00:19,000 --> 00:00:21,310
 <font face="Dumpling-Regular" size="68"><font face="FOT-Carat Std UB-Strp"><font color="#ffe756">do</font></font></font>
+
+291
+00:00:19,040 --> 00:00:20,960
+<font face="FOT-Greco Std DB Strp" size="55"><font face="FOT-Carat Std UB-Strp"><font color="#e6da4c">Quality Control</font></font></font>
+
+292
+00:00:19,040 --> 00:00:20,960
+<font face="FOT-Greco Std DB Strp" size="55"><font face="FOT-Carat Std UB-Strp"><font color="#e6da4c">Camotoy
+fedew
+fishybusyness</font></font></font>
+
+293
+00:00:19,040 --> 00:00:20,960
+<font face="FOT-Greco Std DB Strp" size="55"><font face="FOT-Carat Std UB-Strp"><font color="#e6da4c">Pepperjack
+PhosCity
+Scolines
+Zenef</font></font></font>
 
 294
 00:00:19,340 --> 00:00:21,310
@@ -35937,1628 +35939,1627 @@ that kingdom were never passed down,</font>
 <font face="Impress BT Pace" size="82">What a thrilling tale!</font>
 
 8979
-00:03:17,510 --> 00:03:21,180
-<font face="Impress BT Pace" size="82">That's too much for me
-to wrap my head around...</font>
-
-8980
-00:03:21,180 --> 00:03:24,430
-<font face="Impress BT Pace" size="82">Yeah, I mean, "erased completely"?</font>
-
-8981
-00:03:24,980 --> 00:03:27,690
+00:03:17,510 --> 00:03:20,220
 <font face="Impress BT Pace" size="82">Wait a minute, Vegapunk!</font>
 
-8982
-00:03:27,690 --> 00:03:30,820
+8980
+00:03:20,220 --> 00:03:23,350
 <font face="Impress BT Pace" size="82">If they sounded a buster call
 on Ohara for that...</font>
 
-8983
-00:03:30,820 --> 00:03:34,030
+8981
+00:03:23,350 --> 00:03:26,560
 <font face="Impress BT Pace" size="82">that means the people who learn about it...</font>
 
-8984
-00:03:34,030 --> 00:03:36,240
+8982
+00:03:26,560 --> 00:03:28,770
 <font face="Impress BT Pace" size="82">Yeah, they'll be erased.</font>
 
-8985
-00:03:38,360 --> 00:03:41,740
+8983
+00:03:30,900 --> 00:03:34,280
 <font face="Impress BT Pace" size="82">Hey! Why did you even tell us?!</font>
 
-8986
-00:03:41,740 --> 00:03:43,120
+8984
+00:03:34,280 --> 00:03:35,650
 <font face="Impress BT Pace" size="82">Dammit!</font>
 
-8987
-00:03:43,120 --> 00:03:45,620
+8985
+00:03:35,650 --> 00:03:38,160
 <font face="Impress BT Pace" size="82">I heard every word he said!</font>
 
-8988
-00:03:45,620 --> 00:03:47,960
+8986
+00:03:38,160 --> 00:03:40,490
 <font face="Impress BT Pace" size="82">I can't unhear it...</font>
 
-8989
-00:03:47,960 --> 00:03:49,330
+8987
+00:03:40,490 --> 00:03:41,870
 <font face="Impress BT Pace" size="82">Time to forget!</font>
 
-8990
-00:03:49,330 --> 00:03:50,960
+8988
+00:03:41,870 --> 00:03:43,490
 <font face="Impress BT Pace" size="82">I know nothing!</font>
 
-8991
-00:03:50,960 --> 00:03:53,420
+8989
+00:03:43,490 --> 00:03:45,960
 <font face="Impress BT Pace" size="82">I didn't hear it! I don't know it!</font>
 
-8992
-00:03:53,420 --> 00:03:55,720
+8990
+00:03:45,960 --> 00:03:48,250
 <font face="Impress BT Pace" size="82">No thoughts! Just forget!</font>
 
-8993
-00:03:53,420 --> 00:03:55,050
-<font face="Impress BT Pace" size="82" color="#d6d6d6">Calm down a little.</font>
+8991
+00:03:45,960 --> 00:03:47,580
+<font face="Impress BT Pace" size="82">Calm down a little.</font>
 
-8994
-00:03:55,720 --> 00:03:58,720
+8992
+00:03:48,250 --> 00:03:50,710
 <font face="Impress BT Pace" size="82">I heard nothing! Nothing at all!</font>
 
+8993
+00:03:48,750 --> 00:03:50,710
+<font face="Impress BT Pace" size="82">I said it was just a theory.</font>
+
+8994
+00:03:52,250 --> 00:03:53,710
+<font face="Impress BT Pace" size="82">This is horrible!</font>
+
 8995
-00:03:56,220 --> 00:03:58,180
-<font face="Impress BT Pace" size="82" color="#d6d6d6">I said it was just a theory.</font>
+00:03:53,710 --> 00:03:55,170
+<font face="Impress BT Pace" size="82">I don't wanna die!</font>
 
 8996
-00:04:00,090 --> 00:04:02,140
+00:03:55,760 --> 00:03:57,800
 <font face="Impress BT Pace" size="82">However, Nico Robin...</font>
 
 8997
-00:04:02,720 --> 00:04:06,890
+00:03:58,380 --> 00:04:02,560
 <font face="Impress BT Pace" size="82">if Ohara was destroyed for this theory...</font>
 
 8998
-00:04:06,890 --> 00:04:10,150
+00:04:02,560 --> 00:04:05,810
 <font face="Impress BT Pace" size="82">isn't the government
 basically admitting it's true?</font>
 
 8999
-00:04:10,150 --> 00:04:12,980
+00:04:05,810 --> 00:04:08,640
 <font face="Impress BT Pace" size="82">Whose side are you on, exactly?</font>
 
 9000
-00:04:12,980 --> 00:04:18,450
+00:04:08,640 --> 00:04:14,110
 <font face="Impress BT Pace" size="82">The scholars of Ohara studied precious
 historical texts to arrive at that theory...</font>
 
 9001
-00:04:18,450 --> 00:04:22,030
+00:04:14,110 --> 00:04:17,700
 <font face="Impress BT Pace" size="82">Wouldn't the government
 tell someone as high up as you?</font>
 
 9002
-00:04:22,030 --> 00:04:23,910
+00:04:17,700 --> 00:04:19,570
 <font face="Impress BT Pace" size="82">No, they haven't told me anything.</font>
 
 9003
-00:04:23,910 --> 00:04:26,120
+00:04:19,570 --> 00:04:21,780
 <font face="Impress BT Pace" size="82">It's the same for everyone.</font>
 
 9004
-00:04:26,120 --> 00:04:30,170
+00:04:21,780 --> 00:04:25,830
 <font face="Impress BT Pace" size="82">Discussing this would result in
 my erasure, regardless of my affiliation.</font>
 
 9005
-00:04:31,540 --> 00:04:33,630
+00:04:27,210 --> 00:04:29,290
 <font face="Impress BT Pace" size="82">Then I don't wanna know!</font>
 
 9006
-00:04:33,630 --> 00:04:36,170
+00:04:29,290 --> 00:04:31,830
 <font face="Impress BT Pace" size="82">This is like torture!</font>
 
 9007
-00:04:36,170 --> 00:04:37,970
+00:04:31,830 --> 00:04:33,630
 <font face="Impress BT Pace" size="82">Get me outta here!</font>
 
 9008
-00:04:37,970 --> 00:04:42,090
+00:04:33,630 --> 00:04:37,760
 <font face="Impress BT Pace" size="82">Then how did you learn about the kingdom?!</font>
 
 9009
-00:04:42,090 --> 00:04:45,970
+00:04:37,760 --> 00:04:41,640
 <font face="Impress BT Pace" size="82">All the books Ohara collected
 from across the world... were...</font>
 
 9010
-00:04:46,600 --> 00:04:48,480
+00:04:42,260 --> 00:04:44,140
 <font face="Impress BT Pace" size="82">The will of Ohara lives on.</font>
 
 9011
-00:04:49,020 --> 00:04:53,650
+00:04:44,680 --> 00:04:49,310
 <font face="Impress BT Pace" size="82"><font color="#100606">The events of that day
 threw the world into confusion.</font></font>
 
 9012
-00:04:53,650 --> 00:04:58,950
+00:04:49,310 --> 00:04:54,610
 <font face="Impress BT Pace" size="82">The island of scholars, Ohara,
 with the most advanced knowledge in the world,</font>
 
 9013
-00:04:59,360 --> 00:05:02,990
+00:04:55,020 --> 00:04:58,650
 <font face="Impress BT Pace" size="82">was destroyed in a single day,
 save for one little girl...</font>
 
 9014
-00:05:06,790 --> 00:05:09,330
+00:05:02,450 --> 00:05:04,990
 <font face="Impress BT Pace" size="82">The scholars were labeled
 as a group of devils...</font>
 
 9015
-00:05:09,330 --> 00:05:11,620
+00:05:04,990 --> 00:05:07,290
 <font face="Impress BT Pace" size="82">seeking to overthrow the World Government.</font>
 
 9016
-00:05:13,840 --> 00:05:15,750
+00:05:09,500 --> 00:05:11,420
 <font face="Impress BT Pace" size="82">Several months after the incident...</font>
 
 9017
-00:05:16,550 --> 00:05:18,670
+00:05:12,210 --> 00:05:14,340
 <font face="Impress BT Pace" size="82">I visited Ohara.</font>
 
 9018
-00:05:19,220 --> 00:05:24,010
+00:05:14,880 --> 00:05:19,670
 <font face="Impress BT Pace" size="82">I was somewhat acquainted with
 Professor Clover, an authority on archaeology.</font>
 
 9019
-00:05:24,680 --> 00:05:26,470
+00:05:20,340 --> 00:05:22,130
 <font face="Impress BT Pace" size="82">so I wanted to leave flowers.</font>
 
 9020
-00:05:26,850 --> 00:05:28,430
+00:05:22,510 --> 00:05:24,100
 <font face="Impress BT Pace" size="82">You knew him?!</font>
 
 9021
-00:05:28,430 --> 00:05:29,390
+00:05:24,100 --> 00:05:25,050
 <font face="Impress BT Pace" size="82">Yeah.</font>
 
 9022
-00:05:30,520 --> 00:05:33,270
+00:05:26,180 --> 00:05:28,930
 <font face="Impress BT Pace" size="82">He was obsessed with the Void Century...</font>
 
 9023
-00:05:36,020 --> 00:05:40,320
+00:05:31,690 --> 00:05:35,980
 <font face="Impress BT Pace" size="82">enough to set off on adventures
 to scour the world for related texts.</font>
 
 9024
-00:05:40,700 --> 00:05:45,280
+00:05:36,360 --> 00:05:40,950
 <font face="Impress BT Pace" size="82">The Marines arrested and jailed him
 no fewer than ten times...</font>
 
 9025
-00:05:46,910 --> 00:05:48,490
+00:05:42,570 --> 00:05:44,160
 <font face="Impress BT Pace" size="82"><i>There he is!</i></font>
 
 9026
-00:05:48,910 --> 00:05:52,960
+00:05:44,570 --> 00:05:48,620
 <font face="Impress BT Pace" size="82">It made him the most famous
 archaeologist in the world.</font>
 
 9027
-00:05:53,790 --> 00:05:59,130
+00:05:49,450 --> 00:05:54,790
 <font face="Impress BT Pace" size="82">Eventually, word of his exploits
 drew scholars to Ohara,</font>
 
 9028
-00:05:59,130 --> 00:06:03,260
+00:05:54,790 --> 00:05:58,920
 <font face="Impress BT Pace" size="82">which became a haven for archaeology.</font>
 
 9029
-00:06:03,720 --> 00:06:06,510
+00:05:59,380 --> 00:06:02,170
 <font face="Impress BT Pace" size="82">One might say his talent
 is what caused that tragedy.</font>
 
 9030
-00:06:07,720 --> 00:06:10,430
+00:06:03,380 --> 00:06:06,100
 <font face="Impress BT Pace" size="82">When I set foot on Ohara,</font>
 
 9031
-00:06:10,430 --> 00:06:12,640
+00:06:06,100 --> 00:06:08,310
 <font face="Impress BT Pace" size="82">the place was in ruins.</font>
 
 9032
-00:06:15,810 --> 00:06:18,690
+00:06:11,480 --> 00:06:14,350
 <font face="Impress BT Pace" size="82">Even the Tree of Knowledge
 had burned to the ground...</font>
 
 9033
-00:06:18,690 --> 00:06:21,940
+00:06:14,350 --> 00:06:17,610
 <font face="Impress BT Pace" size="82">with everything around it reduced to ash.</font>
 
 9034
-00:06:24,450 --> 00:06:27,990
+00:06:20,110 --> 00:06:23,650
 <font face="Impress BT Pace" size="82">But as I walked deeper into the island,</font>
 
 9035
-00:06:28,870 --> 00:06:31,450
+00:06:24,530 --> 00:06:27,120
 <font face="Impress BT Pace" size="82">I witnessed something astonishing.</font>
 
 9036
-00:06:32,290 --> 00:06:34,250
+00:06:27,950 --> 00:06:29,910
 <font face="Impress BT Pace" size="82"><i>What is all of this?!</i></font>
 
 9037
-00:06:34,870 --> 00:06:37,380
+00:06:30,540 --> 00:06:33,040
 <font face="Impress BT Pace" size="82">A vast amount of books of all kinds...</font>
 
 9038
-00:06:37,380 --> 00:06:40,880
+00:06:33,040 --> 00:06:36,540
 <font face="Impress BT Pace" size="82">were submerged in the lake
 at the center of the island!</font>
 
 9039
-00:06:41,300 --> 00:06:46,760
+00:06:36,960 --> 00:06:42,420
 <font face="Impress BT Pace" size="82">I believe that the scholars stood their ground,
 even as the buster call burned their home,</font>
 
 9040
-00:06:46,760 --> 00:06:49,890
+00:06:42,420 --> 00:06:45,550
 <font face="Impress BT Pace" size="82">and died ensuring their legacy
 would reach the future.</font>
 
 9041
-00:06:51,220 --> 00:06:55,650
+00:06:46,890 --> 00:06:51,310
 <font face="Impress BT Pace" size="82">The books that all of those
 scholars risked their lives for...</font>
 
 9042
-00:06:56,270 --> 00:07:01,320
+00:06:51,930 --> 00:06:56,980
 <font face="Impress BT Pace" size="82">Ignorant Marines wouldn't understand
 their value, even if they found them.</font>
 
 9043
-00:07:02,030 --> 00:07:03,610
+00:06:57,690 --> 00:06:59,270
 <font face="Impress BT Pace" size="82">Ohara won.</font>
 
 9044
-00:07:04,150 --> 00:07:05,950
+00:06:59,820 --> 00:07:01,610
 <font face="Impress BT Pace" size="82">When I saw that,</font>
 
 9045
-00:07:05,950 --> 00:07:09,080
+00:07:01,610 --> 00:07:04,740
 <font face="Impress BT Pace" size="82">I couldn't stop the tears from flowing.</font>
 
 9046
-00:07:10,530 --> 00:07:11,620
+00:07:06,200 --> 00:07:07,280
 <font face="Impress BT Pace" size="82"><i>Please take Robin!</i></font>
 
 9047
-00:07:11,950 --> 00:07:14,120
+00:07:07,620 --> 00:07:09,780
 <font face="Impress BT Pace" size="82"><i>My daughter </i>must<i> escape the island!</i></font>
 
 9048
-00:07:14,120 --> 00:07:14,830
+00:07:09,780 --> 00:07:10,490
 <font face="Impress BT Pace" size="82"><i>What?!</i></font>
 
 9049
-00:07:14,830 --> 00:07:16,750
+00:07:10,490 --> 00:07:12,410
 <font face="Impress BT Pace" size="82"><i>No! What about you, Mom?!</i></font>
 
 9050
-00:07:16,750 --> 00:07:18,130
+00:07:12,410 --> 00:07:13,790
 <font face="Impress BT Pace" size="82"><i>Aren't you coming with me?!</i></font>
 
 9051
-00:07:19,380 --> 00:07:21,630
+00:07:15,040 --> 00:07:17,290
 <font face="Impress BT Pace" size="82"><i>Olvia, what are you...?</i></font>
 
 9052
-00:07:22,510 --> 00:07:25,840
+00:07:18,170 --> 00:07:21,500
 <font face="Impress BT Pace" size="82"><i>There's still something
 that I have to do here, so...</i></font>
 
 9053
-00:07:26,340 --> 00:07:29,600
+00:07:22,000 --> 00:07:25,260
 <font face="Impress BT Pace" size="82"><i>Mom! Don't leave me!</i></font>
 
 9054
-00:07:29,600 --> 00:07:31,350
+00:07:25,260 --> 00:07:27,010
 <font face="Impress BT Pace" size="82"><i>I'll stay here too!</i></font>
 
 9055
-00:07:31,350 --> 00:07:32,850
+00:07:27,010 --> 00:07:28,510
 <font face="Impress BT Pace" size="82"><i>Robin...</i></font>
 
 9056
-00:07:32,850 --> 00:07:35,940
+00:07:28,510 --> 00:07:31,600
 <font face="Impress BT Pace" size="82"><i>As an Oharan scholar,
 you should understand this well.</i></font>
 
 9057
-00:07:36,480 --> 00:07:38,600
+00:07:32,140 --> 00:07:34,270
 <font face="Impress BT Pace" size="82"><i>History is the legacy of mankind.</i></font>
 
 9058
-00:07:38,600 --> 00:07:39,480
+00:07:34,270 --> 00:07:35,140
 <font face="Impress BT Pace" size="82"><i>Put out the fire!</i></font>
 
 9059
-00:07:39,480 --> 00:07:40,560
+00:07:35,140 --> 00:07:36,230
 <font face="Impress BT Pace" size="82"><i>Protect the books!</i></font>
 
 9060
-00:07:40,560 --> 00:07:42,400
+00:07:36,230 --> 00:07:38,060
 <font face="Impress BT Pace" size="82"><i>Save as many books as we can!</i></font>
 
 9061
-00:07:42,400 --> 00:07:44,860
+00:07:38,060 --> 00:07:40,520
 <font face="Impress BT Pace" size="82"><i>Throw the books out of the library!</i></font>
 
 9062
-00:07:45,320 --> 00:07:47,660
+00:07:40,980 --> 00:07:43,320
 <font face="Impress BT Pace" size="82"><i>Ohara doesn't want to expose our history.</i></font>
 
 9063
-00:07:47,990 --> 00:07:51,330
+00:07:43,650 --> 00:07:46,990
 <font face="Impress BT Pace" size="82"><i>We only wished to preserve
 the voices of the past.</i></font>
 
 9064
-00:07:51,950 --> 00:07:54,790
+00:07:47,610 --> 00:07:50,450
 <font face="Impress BT Pace" size="82"><i>Our research ends here...</i></font>
 
 9065
-00:07:55,500 --> 00:07:57,750
+00:07:51,160 --> 00:07:53,410
 <font face="Impress BT Pace" size="82"><i>but even if Ohara is obliterated...</i></font>
 
 9066
-00:07:57,750 --> 00:07:59,920
+00:07:53,410 --> 00:07:55,580
 <font face="Impress BT Pace" size="82"><i>we cannot forsake...</i></font>
 
 9067
-00:08:00,460 --> 00:08:03,710
+00:07:56,120 --> 00:07:59,380
 <font face="Impress BT Pace" size="82"><i>the future of your generation!</i></font>
 
 9068
-00:08:04,920 --> 00:08:06,720
+00:08:00,580 --> 00:08:02,380
 <font face="Impress BT Pace" size="82"><i>I don't understand!</i></font>
 
 9069
-00:08:08,130 --> 00:08:10,470
+00:08:03,800 --> 00:08:06,130
 <font face="Impress BT Pace" size="82"><i>You will... someday.</i></font>
 
 9070
-00:08:13,140 --> 00:08:13,810
+00:08:08,800 --> 00:08:09,470
 <font face="Impress BT Pace" size="82"><i>Now...</i></font>
 
 9071
-00:08:14,810 --> 00:08:15,850
+00:08:10,470 --> 00:08:11,510
 <font face="Impress BT Pace" size="82"><i>go, Saul!</i></font>
 
 9072
-00:08:20,150 --> 00:08:21,770
+00:08:15,810 --> 00:08:17,440
 <font face="Impress BT Pace" size="82"><i>Are you sure about this?</i></font>
 
 9073
-00:08:22,310 --> 00:08:23,480
+00:08:17,980 --> 00:08:19,150
 <font face="Impress BT Pace" size="82"><i>Yes.</i></font>
 
 9074
-00:08:23,480 --> 00:08:28,320
+00:08:19,150 --> 00:08:23,980
 <font face="Impress BT Pace" size="82"><i>I don't wanna go!
 I wanna stay with you, Mom!</i></font>
 
 9075
-00:08:28,320 --> 00:08:31,200
+00:08:23,980 --> 00:08:26,860
 <font face="Impress BT Pace" size="82"><i>Mom!</i></font>
 
 9076
-00:08:32,580 --> 00:08:34,910
+00:08:28,240 --> 00:08:30,570
 <font face="Impress BT Pace" size="82"><i>Live, Robin!</i></font>
 
 9077
-00:08:40,750 --> 00:08:42,630
+00:08:36,410 --> 00:08:38,290
 <font face="Impress BT Pace" size="82"><i>Hold your head high, Robin!</i></font>
 
 9078
-00:08:42,630 --> 00:08:45,210
+00:08:38,290 --> 00:08:40,880
 <font face="Impress BT Pace" size="82"><i>Your mom is honorable!</i></font>
 
 9079
-00:08:45,210 --> 00:08:50,260
+00:08:40,880 --> 00:08:45,920
 <font face="Impress BT Pace" size="82"><i>Someday, pass down
 this island's history, Robin!</i></font>
 
 9080
-00:08:50,260 --> 00:08:54,350
+00:08:45,920 --> 00:08:50,010
 <font face="Impress BT Pace" size="82"><i>Ohara fought against the world!</i></font>
 
 9081
-00:08:59,560 --> 00:09:02,190
+00:08:55,220 --> 00:08:57,850
 <font face="Impress BT Pace" size="82">What's the matter, Robin?</font>
 
 9082
-00:09:02,190 --> 00:09:06,070
+00:08:57,850 --> 00:09:01,730
 <font face="Impress BT Pace" size="82">Hey! How dare you make
 Robin cry, you bucket head!</font>
 
 9083
-00:09:06,070 --> 00:09:08,440
+00:09:01,730 --> 00:09:04,110
 <font face="Impress BT Pace" size="82">That's it, Vegapunk!</font>
 
 9084
-00:09:06,940 --> 00:09:09,240
+00:09:02,610 --> 00:09:04,900
 <font face="Impress BT Pace" size="82" color="#d6d6d6">You're so insensitive, Vega!</font>
 
 9085
-00:09:08,440 --> 00:09:11,410
+00:09:04,110 --> 00:09:07,070
 <font face="Impress BT Pace" size="82">Get these shoes off me so I can kick your ass!</font>
 
 9086
-00:09:11,410 --> 00:09:12,530
+00:09:07,070 --> 00:09:08,190
 <font face="Impress BT Pace" size="82">Get 'em off!</font>
 
 9087
-00:09:12,530 --> 00:09:14,910
+00:09:08,190 --> 00:09:10,570
 <font face="Impress BT Pace" size="82">Pay attention, bucket head!</font>
 
 9088
-00:09:19,660 --> 00:09:20,870
+00:09:15,330 --> 00:09:16,540
 <font face="Impress BT Pace" size="82">Vegapunk.</font>
 
 9089
-00:09:22,210 --> 00:09:24,000
+00:09:17,870 --> 00:09:19,660
 <font face="Impress BT Pace" size="82">It's like you thought.</font>
 
 9090
-00:09:24,750 --> 00:09:27,510
+00:09:20,410 --> 00:09:23,170
 <font face="Impress BT Pace" size="82">Ohara uncovered
 the existence of that kingdom.</font>
 
 9091
-00:09:27,510 --> 00:09:29,670
+00:09:23,170 --> 00:09:25,340
 <font face="Impress BT Pace" size="82">I see. Then it <i>is</i> true.</font>
 
 9092
-00:09:30,090 --> 00:09:33,340
+00:09:25,750 --> 00:09:29,010
 <font face="Impress BT Pace" size="82">Where are the books from the lake now?</font>
 
 9093
-00:09:33,340 --> 00:09:37,010
+00:09:29,010 --> 00:09:32,680
 <font face="Impress BT Pace" size="82">I wanted to bring them back to Punk Hazard,</font>
 
 9094
-00:09:37,010 --> 00:09:39,600
+00:09:32,680 --> 00:09:35,260
 <font face="Impress BT Pace" size="82">but I couldn't risk
 the higher-ups hearing about it.</font>
 
 9095
-00:09:40,180 --> 00:09:41,600
+00:09:35,850 --> 00:09:37,260
 <font face="Impress BT Pace" size="82">To tell you the truth...</font>
 
 9096
-00:09:41,600 --> 00:09:44,480
+00:09:37,260 --> 00:09:40,140
 <font face="Impress BT Pace" size="82">I met some people that day.</font>
 
 9097
-00:09:44,480 --> 00:09:50,400
+00:09:40,140 --> 00:09:43,230
 <font face="FOT-Greco Std DB Strp" size="56"><font face="A-OTF Shin Go Pr5 M-Strp"><font color="#000001">22 Years Ago
 
 Ohara
 West Blue</font></font></font>
 
 9098
-00:09:44,480 --> 00:09:50,400
+00:09:40,140 --> 00:09:43,230
 <font face="FOT-Greco Std DB Strp" size="56"><font face="A-OTF Shin Go Pr5 M-Strp"><font color="#000001">22 Years Ago
 
 Ohara
 West Blue</font></font></font>
 
 9099
-00:09:50,400 --> 00:09:55,280
+00:09:43,230 --> 00:09:48,110
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-Seurat ProN DB Strp"><font color="#010100">Several Months After
 the Buster Call</font></font></font>
 
 9100
-00:09:50,400 --> 00:09:55,280
+00:09:43,230 --> 00:09:48,110
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-Seurat ProN DB Strp"><font color="#010100">Several Months After
 the Buster Call</font></font></font>
 
 9101
-00:09:50,400 --> 00:09:55,280
+00:09:43,230 --> 00:09:48,110
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-Seurat ProN DB Strp"><font color="#010100">Several Months After
 the Buster Call</font></font></font>
 
 9102
-00:10:09,710 --> 00:10:12,220
+00:10:02,540 --> 00:10:05,040
 <font face="Impress BT Pace" size="82">Who'd be here in ruins like these?</font>
 
 9103
-00:10:13,680 --> 00:10:15,470
+00:10:06,500 --> 00:10:08,300
 <font face="Impress BT Pace" size="82">Pull it up!</font>
 
 9104
-00:10:17,720 --> 00:10:20,180
+00:10:10,550 --> 00:10:13,010
 <font face="Impress BT Pace" size="82">Giants?!</font>
 
 9105
-00:10:20,560 --> 00:10:22,890
+00:10:13,380 --> 00:10:15,720
 <font face="Impress BT Pace" size="82">What are they up to?</font>
 
 9106
-00:10:22,890 --> 00:10:25,980
+00:10:15,720 --> 00:10:18,810
 <font face="Impress BT Pace" size="82">Are they aware of the value of these books?!</font>
 
 9107
-00:10:26,690 --> 00:10:27,440
+00:10:19,520 --> 00:10:20,270
 <font face="Impress BT Pace" size="82">The books...</font>
 
 9108
-00:10:29,280 --> 00:10:31,610
+00:10:22,100 --> 00:10:24,440
 <font face="Impress BT Pace" size="82">What are they gonna do with them?!</font>
 
 9109
-00:10:31,610 --> 00:10:32,950
+00:10:24,440 --> 00:10:25,770
 <font face="Impress BT Pace" size="82">That head of yours...</font>
 
 9110
-00:10:33,900 --> 00:10:37,200
+00:10:26,730 --> 00:10:30,030
 <font face="Impress BT Pace" size="82">It's as big as ever. I'd recognize it anywhere.</font>
 
 9111
-00:10:47,000 --> 00:10:50,000
+00:10:39,830 --> 00:10:42,830
 <font face="Impress BT Pace" size="82">It's been a while, Vegapunk.</font>
 
 9112
-00:10:50,000 --> 00:10:52,920
+00:10:42,830 --> 00:10:45,750
 <font face="FOT-Greco Std DB Strp" size="56"><font face="Iwata Mincho Old Pro H Strp">Monkey D. Dragon (Age 33)
 Leader of the Freedom Fighters</font></font>
 
 9113
-00:10:50,000 --> 00:10:52,920
+00:10:42,830 --> 00:10:45,750
 <font face="FOT-Greco Std DB Strp" size="56"><font face="Iwata Mincho Old Pro H Strp"><font color="#000000">Monkey D. Dragon (Age 33)
 Leader of the Freedom Fighters</font></font></font>
 
 9114
-00:10:50,000 --> 00:10:52,920
+00:10:42,830 --> 00:10:45,750
 <font face="FOT-Greco Std DB Strp" size="56"><font face="Iwata Mincho Old Pro H Strp"><font color="#000000">Monkey D. Dragon (Age 33)
 Leader of the Freedom Fighters</font></font></font>
 
 9115
-00:10:52,920 --> 00:10:54,970
+00:10:45,750 --> 00:10:47,790
 <font face="Impress BT Pace" size="82">Dragon?!</font>
 
 9116
-00:10:55,470 --> 00:10:59,560
+00:10:48,290 --> 00:10:52,380
 <font face="Impress BT Pace" size="82">Your head got bigger again.</font>
 
 9117
-00:11:00,140 --> 00:11:04,140
+00:10:52,970 --> 00:10:56,970
 <font face="FOT-Greco Std DB Strp" size="56"><font face="Iwata Mincho Old Pro H Strp">Dr. Vegapunk (Age 43)
 Head of the Punk Hazard Lab</font></font>
 
 9118
-00:11:00,140 --> 00:11:04,140
+00:10:52,970 --> 00:10:56,970
 <font face="FOT-Greco Std DB Strp" size="56"><font face="Iwata Mincho Old Pro H Strp"><font color="#000000">Dr. Vegapunk (Age 43)
 Head of the Punk Hazard Lab</font></font></font>
 
 9119
-00:11:00,140 --> 00:11:04,140
+00:10:52,970 --> 00:10:56,970
 <font face="FOT-Greco Std DB Strp" size="56"><font face="Iwata Mincho Old Pro H Strp"><font color="#000000">Dr. Vegapunk (Age 43)
 Head of the Punk Hazard Lab</font></font></font>
 
 9120
-00:11:04,140 --> 00:11:05,690
+00:10:56,970 --> 00:10:58,510
 <font face="Impress BT Pace" size="82">Never mind that!</font>
 
 9121
-00:11:06,060 --> 00:11:07,810
+00:10:58,890 --> 00:11:00,640
 <font face="Impress BT Pace" size="82">Why are you here?!</font>
 
 9122
-00:11:07,810 --> 00:11:10,980
+00:11:00,640 --> 00:11:03,810
 <font face="Impress BT Pace" size="82">That's my question, Vegapunk.</font>
 
 9123
-00:11:10,980 --> 00:11:14,780
+00:11:03,810 --> 00:11:07,610
 <font face="Impress BT Pace" size="82">I knew old man Clover.</font>
 
 9124
-00:11:14,780 --> 00:11:17,780
+00:11:07,610 --> 00:11:10,610
 <font face="Impress BT Pace" size="82">Oh? You, too?</font>
 
 9125
-00:11:17,780 --> 00:11:18,620
+00:11:10,610 --> 00:11:11,440
 <font face="Impress BT Pace" size="82">Well...</font>
 
 9126
-00:11:19,200 --> 00:11:23,160
+00:11:12,030 --> 00:11:15,990
 <font face="Impress BT Pace" size="82">he used to be a hooligan
 adventuring all over the place.</font>
 
 9127
-00:11:23,200 --> 00:11:26,460
+00:11:16,030 --> 00:11:19,280
 <font face="Impress BT Pace" size="82">That nonsense about him
 trying to destroy the world...</font>
 
 9128
-00:11:26,460 --> 00:11:28,670
+00:11:19,280 --> 00:11:21,490
 <font face="Impress BT Pace" size="82">is poppycock and propaganda!</font>
 
 9129
-00:11:29,290 --> 00:11:30,540
+00:11:22,120 --> 00:11:23,370
 <font face="Impress BT Pace" size="82">Yeah.</font>
 
 9130
-00:11:33,380 --> 00:11:36,380
+00:11:26,210 --> 00:11:29,210
 <font face="Impress BT Pace" size="82">Are you wondering what they're doing?</font>
 
 9131
-00:11:36,380 --> 00:11:40,600
+00:11:29,210 --> 00:11:33,420
 <font face="Impress BT Pace" size="82">I can't let them steal those valuable books!</font>
 
 9132
-00:11:40,600 --> 00:11:42,680
+00:11:33,420 --> 00:11:35,510
 <font face="Impress BT Pace" size="82">They're not bandits.</font>
 
 9133
-00:11:42,680 --> 00:11:44,560
+00:11:35,510 --> 00:11:37,380
 <font face="Impress BT Pace" size="82">I've already checked them out.</font>
 
 9134
-00:11:44,560 --> 00:11:45,560
+00:11:37,380 --> 00:11:38,390
 <font face="Impress BT Pace" size="82">What?</font>
 
 9135
-00:11:47,270 --> 00:11:49,940
-<font face="Impress BT Pace" size="82">They came from Elbaf.</font>
+00:11:40,100 --> 00:11:42,770
+<font face="Impress BT Pace" size="82">They came from Elbaph.</font>
 
 9136
-00:11:50,310 --> 00:11:52,900
+00:11:43,140 --> 00:11:45,730
 <font face="Impress BT Pace" size="82">They know the value of the books.</font>
 
 9137
-00:11:56,740 --> 00:12:01,830
+00:11:49,560 --> 00:11:54,650
 <font face="Impress BT Pace" size="82">Their captain is a strange man
 with bandages all over his body...</font>
 
 9138
-00:12:03,660 --> 00:12:07,040
+00:11:56,490 --> 00:11:59,870
 <font face="Impress BT Pace" size="82">He said, "The Oharans saved their
 legacy by sacrificing their lives,</font>
 
 9139
-00:12:07,040 --> 00:12:10,290
+00:11:59,870 --> 00:12:03,120
 <font face="Impress BT Pace" size="82">and I won't let it be erased from history."</font>
 
 9140
-00:12:18,970 --> 00:12:22,350
+00:12:11,790 --> 00:12:15,170
 <font face="Impress BT Pace" size="82">It's a good thing that you
 government people...</font>
 
 9141
-00:12:22,350 --> 00:12:25,350
+00:12:15,170 --> 00:12:18,180
 <font face="Impress BT Pace" size="82">didn't find and destroy the books first.</font>
 
 9142
-00:12:25,350 --> 00:12:26,600
+00:12:18,180 --> 00:12:19,430
 <font face="Impress BT Pace" size="82">Hey, wait!</font>
 
 9143
-00:12:26,600 --> 00:12:27,890
+00:12:19,430 --> 00:12:20,720
 <font face="Impress BT Pace" size="82">I would never...!</font>
 
 9144
-00:12:27,890 --> 00:12:29,900
+00:12:20,720 --> 00:12:22,720
 <font face="Impress BT Pace" size="82">I thought it was a joke!</font>
 
 9145
-00:12:29,900 --> 00:12:33,360
+00:12:22,720 --> 00:12:26,180
 <font face="Impress BT Pace" size="82">I couldn't believe you'd actually
 become a government lapdog.</font>
 
 9146
-00:12:35,190 --> 00:12:38,950
+00:12:28,020 --> 00:12:31,770
 <font face="Impress BT Pace" size="82">And after turning down our invitation
 to join the Freedom Fighters, too...</font>
 
 9147
-00:12:40,320 --> 00:12:41,660
+00:12:33,150 --> 00:12:34,480
 <font face="Impress BT Pace" size="82">Don't be stupid!</font>
 
 9148
-00:12:41,660 --> 00:12:44,660
+00:12:34,480 --> 00:12:37,490
 <font face="Impress BT Pace" size="82">Even with my talent and intellect,</font>
 
 9149
-00:12:44,660 --> 00:12:47,960
+00:12:37,490 --> 00:12:40,780
 <font face="Impress BT Pace" size="82">what could I create in
 a poorly funded outfit like yours?!</font>
 
 9150
-00:12:48,960 --> 00:12:50,420
+00:12:41,780 --> 00:12:43,240
 <font face="Impress BT Pace" size="82">I get it.</font>
 
 9151
-00:12:50,420 --> 00:12:53,290
+00:12:43,240 --> 00:12:46,120
 <font face="Impress BT Pace" size="82">You're as blunt as ever.</font>
 
 9152
-00:12:53,290 --> 00:12:56,050
+00:12:46,120 --> 00:12:48,870
 <font face="Impress BT Pace" size="82">The World Government is
 an enormous organization.</font>
 
 9153
-00:12:56,050 --> 00:12:59,170
+00:12:48,870 --> 00:12:52,000
 <font face="Impress BT Pace" size="82">The Marines, especially,
 are full of reasonable people.</font>
 
 9154
-00:12:59,800 --> 00:13:02,640
+00:12:52,630 --> 00:12:55,460
 <font face="Impress BT Pace" size="82">Don't lose sight of the goal, Dragon.</font>
 
 9155
-00:13:03,350 --> 00:13:04,890
+00:12:56,170 --> 00:12:57,720
 <font face="Impress BT Pace" size="82">I know, but...</font>
 
 9156
-00:13:06,390 --> 00:13:09,520
+00:12:59,220 --> 00:13:02,340
 <font face="Impress BT Pace" size="82">this incident really shook me.</font>
 
 9157
-00:13:10,310 --> 00:13:16,230
+00:13:03,140 --> 00:13:09,060
 <font face="Impress BT Pace" size="82">A group of harmless scholars
 were violently eradicated...</font>
 
 9158
-00:13:16,230 --> 00:13:18,610
+00:13:09,060 --> 00:13:11,440
 <font face="Impress BT Pace" size="82">simply for questioning that absurd "law"!</font>
 
 9159
-00:13:21,280 --> 00:13:24,530
+00:13:14,110 --> 00:13:17,360
 <font face="Impress BT Pace" size="82">But I'm going to raise
 an army that can fight back!</font>
 
 9160
-00:13:25,030 --> 00:13:27,370
+00:13:17,860 --> 00:13:20,200
 <font face="Impress BT Pace" size="82">I thought you despised war!</font>
 
 9161
-00:13:28,000 --> 00:13:30,120
+00:13:20,820 --> 00:13:22,950
 <font face="Impress BT Pace" size="82">Just you wait, Vegapunk.</font>
 
 9162
-00:13:30,120 --> 00:13:32,210
+00:13:22,950 --> 00:13:25,030
 <font face="Impress BT Pace" size="82">I'm going to change the world!</font>
 
 9163
-00:13:32,920 --> 00:13:34,500
+00:13:25,740 --> 00:13:27,330
 <font face="Impress BT Pace" size="82">I won't let Clover's death...</font>
 
 9164
-00:13:35,250 --> 00:13:38,630
+00:13:28,080 --> 00:13:31,460
 <font face="Impress BT Pace" size="82">or the will of Ohara go to waste!</font>
 
 9165
-00:13:40,220 --> 00:13:42,970
+00:13:33,040 --> 00:13:35,790
 <font face="Impress BT Pace" size="82">Later that year, Dragon teamed up with...</font>
 
 9166
-00:13:43,680 --> 00:13:46,140
+00:13:36,500 --> 00:13:38,960
 <font face="Impress BT Pace" size="82">Emporio Ivankov...</font>
 
 9167
-00:13:47,720 --> 00:13:49,810
+00:13:40,550 --> 00:13:42,630
 <font face="Impress BT Pace" size="82">and Bartholomew Kuma...</font>
 
 9168
-00:13:51,020 --> 00:13:53,520
+00:13:43,840 --> 00:13:46,350
 <font face="Impress BT Pace" size="82">to create the Revolutionary Army...</font>
 
 9169
-00:13:54,400 --> 00:13:56,400
+00:13:47,220 --> 00:13:49,220
 <font face="Impress BT Pace" size="82">that now shakes the world!</font>
 
 9170
-00:14:02,780 --> 00:14:05,490
+00:13:53,270 --> 00:13:55,980
 <font face="Impress BT Pace" size="82">Luffy's dad is so ambitious!</font>
 
 9171
-00:14:05,490 --> 00:14:09,080
-<font face="Impress BT Pace" size="82">Wait just a second! Did you say Elbaf?!</font>
+00:13:55,980 --> 00:13:58,940
+<font face="Impress BT Pace" size="82">Wait just a second! Did you say Elbaph?!</font>
 
 9172
-00:14:09,080 --> 00:14:13,540
+00:13:58,940 --> 00:14:03,410
 <font face="Impress BT Pace" size="82">I didn't know Dragon and
 Professor Clover knew each other...!</font>
 
 9173
-00:14:13,540 --> 00:14:17,960
+00:14:03,410 --> 00:14:07,830
 <font face="Impress BT Pace" size="82">That bastard Iva was a founding member
 of the Revolutionary Army?</font>
 
 9174
-00:14:19,250 --> 00:14:21,630
+00:14:09,120 --> 00:14:11,500
 <font face="Impress BT Pace" size="82">I feel like my brain's gonna explode!</font>
 
 9175
-00:14:21,630 --> 00:14:24,800
+00:14:11,500 --> 00:14:14,670
 <font face="Impress BT Pace" size="82">Why did Kuma help us?!</font>
 
 9176
-00:14:24,800 --> 00:14:28,720
+00:14:14,670 --> 00:14:18,590
 <font face="Impress BT Pace" size="82">Why did you modify him, Vegapunk?!</font>
 
 9177
-00:14:29,310 --> 00:14:34,060
+00:14:18,920 --> 00:14:23,680
 <font face="Impress BT Pace" size="82">While it's true the government
 must not find Ohara's books...</font>
 
 9178
-00:14:40,150 --> 00:14:43,780
-<font face="Impress BT Pace" size="82">I secretly went to Elbaf anyway
+00:14:29,720 --> 00:14:33,350
+<font face="Impress BT Pace" size="82">I secretly went to Elbaph anyway
 for reasons of my own.</font>
 
 9179
-00:14:48,700 --> 00:14:51,410
+00:14:38,270 --> 00:14:40,980
 <font face="Impress BT Pace" size="82">I read every document there.</font>
 
 9180
-00:14:53,210 --> 00:14:53,960
+00:14:42,780 --> 00:14:43,530
 <font face="Impress BT Pace" size="82">So...</font>
 
 9181
-00:14:54,540 --> 00:14:57,170
+00:14:44,110 --> 00:14:46,740
 <font face="Impress BT Pace" size="82">the mystery of the world
 that Ohara unraveled...</font>
 
 9182
-00:14:58,130 --> 00:15:00,300
+00:14:47,700 --> 00:14:49,870
 <font face="Impress BT Pace" size="82">lives on in my brain...</font>
 
 9183
-00:15:00,300 --> 00:15:04,170
+00:14:49,870 --> 00:14:53,750
 <font face="Impress BT Pace" size="82">and I've been continuing their research.</font>
 
 9184
-00:15:04,170 --> 00:15:07,090
+00:14:53,750 --> 00:14:56,670
 <font face="Impress BT Pace" size="82">Can I ask you one thing?</font>
 
 9185
-00:15:08,010 --> 00:15:10,140
+00:14:57,580 --> 00:14:59,710
 <font face="Impress BT Pace" size="82">That giant captain...</font>
 
 9186
-00:15:10,140 --> 00:15:12,390
+00:14:59,710 --> 00:15:01,960
 <font face="Impress BT Pace" size="82">His name was...</font>
 
 9187
-00:15:17,690 --> 00:15:19,940
+00:15:07,260 --> 00:15:09,510
 <font face="Impress BT Pace" size="82">Saul, wasn't it?</font>
 
 9188
-00:15:22,650 --> 00:15:25,610
+00:15:12,220 --> 00:15:15,190
 <font face="Impress BT Pace" size="82">He's in hiding now.</font>
 
 9189
-00:15:25,610 --> 00:15:28,320
+00:15:15,190 --> 00:15:17,900
 <font face="Impress BT Pace" size="82">I must keep it a secret from everyone.</font>
 
 9190
-00:15:35,210 --> 00:15:37,960
+00:15:24,780 --> 00:15:27,530
 <font face="Impress BT Pace" size="82">Thank you, Vegapunk...</font>
 
 9191
-00:15:37,960 --> 00:15:41,420
+00:15:27,530 --> 00:15:30,990
 <font face="Impress BT Pace" size="82">for not allowing Ohara's
 struggle to be for nothing.</font>
 
 9192
-00:15:41,800 --> 00:15:44,840
+00:15:31,370 --> 00:15:34,410
 <font face="Impress BT Pace" size="82">I'm simply well versed in all areas of study.</font>
 
 9193
-00:15:44,840 --> 00:15:47,300
+00:15:34,410 --> 00:15:36,870
 <font face="Impress BT Pace" size="82">It's the way of a true scholar.</font>
 
 9194
-00:15:59,310 --> 00:16:02,320
+00:15:48,890 --> 00:15:51,890
 <font face="Impress BT Pace" size="82">The shoes are moving on their own!</font>
 
 9195
-00:16:07,360 --> 00:16:10,570
+00:15:56,940 --> 00:16:00,150
 <font face="Impress BT Pace" size="82">I can't release you yet.
 You'll have to come with me.</font>
 
 9196
-00:16:11,280 --> 00:16:13,580
+00:16:00,860 --> 00:16:03,150
 <font face="Impress BT Pace" size="82">There's something I want to show you.</font>
 
 9197
-00:16:14,200 --> 00:16:17,410
+00:16:03,780 --> 00:16:06,990
 <font face="Impress BT Pace" size="82">Hey! There's no cockpit
 on this thing, Chopper.</font>
 
 9198
-00:16:14,200 --> 00:16:17,410
+00:16:03,780 --> 00:16:06,990
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#000000">Scrap Heap
 Fabriophase
 Egghead</font></font></font>
 
 9199
-00:16:14,200 --> 00:16:17,410
+00:16:03,780 --> 00:16:06,990
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#000000">Scrap Heap
 Fabriophase
 Egghead</font></font></font>
 
 9200
-00:16:18,330 --> 00:16:21,130
+00:16:07,910 --> 00:16:10,700
 <font face="Impress BT Pace" size="82">I got it! Maybe this robot...</font>
 
 9201
-00:16:21,130 --> 00:16:23,340
+00:16:10,700 --> 00:16:12,910
 <font face="Impress BT Pace" size="82">moves on its own!</font>
 
 9202
-00:16:23,340 --> 00:16:26,760
+00:16:12,910 --> 00:16:16,330
 <font face="Impress BT Pace" size="82">Maybe it'll react if we say something to it!</font>
 
 9203
-00:16:27,090 --> 00:16:28,880
+00:16:16,660 --> 00:16:18,460
 <font face="Impress BT Pace" size="82">Like... Like...</font>
 
 9204
-00:16:28,880 --> 00:16:31,550
+00:16:18,460 --> 00:16:21,130
 <font face="Impress BT Pace" size="82">Move! Move, robot!</font>
 
 9205
-00:16:32,350 --> 00:16:33,390
+00:16:21,920 --> 00:16:22,960
 <font face="Impress BT Pace" size="82">It didn't work...</font>
 
 9206
-00:16:33,390 --> 00:16:35,890
+00:16:22,960 --> 00:16:25,460
 <font face="Impress BT Pace" size="82">I wonder what the magic word is... </font>
 
 9207
-00:16:35,890 --> 00:16:38,350
+00:16:25,460 --> 00:16:27,930
 <font face="Impress BT Pace" size="82">No! It must have a name!</font>
 
 9208
-00:16:38,350 --> 00:16:40,270
+00:16:27,930 --> 00:16:29,840
 <font face="Impress BT Pace" size="82">We should call it out!</font>
 
 9209
-00:16:40,270 --> 00:16:42,520
+00:16:29,840 --> 00:16:32,100
 <font face="Impress BT Pace" size="82">Move, Robonosuke!</font>
 
 9210
-00:16:45,230 --> 00:16:46,990
+00:16:34,810 --> 00:16:36,560
 <font face="Impress BT Pace" size="82">Robo King!</font>
 
 9211
-00:16:46,990 --> 00:16:48,280
+00:16:36,560 --> 00:16:37,850
 <font face="Impress BT Pace" size="82">Jeez...</font>
 
 9212
-00:16:48,280 --> 00:16:49,910
+00:16:37,850 --> 00:16:39,480
 <font face="Impress BT Pace" size="82">What are you guys, kids?</font>
 
 9213
-00:16:49,910 --> 00:16:52,070
+00:16:39,480 --> 00:16:41,650
 <font face="Impress BT Pace" size="82">That obviously won't work.</font>
 
 9214
-00:17:00,620 --> 00:17:02,330
+00:16:50,200 --> 00:16:51,910
 <font face="Impress BT Pace" size="82">What?!</font>
 
 9215
-00:17:13,350 --> 00:17:14,850
+00:17:02,920 --> 00:17:04,420
 <font face="Impress BT Pace" size="82">Are you okay?</font>
 
 9216
-00:17:14,850 --> 00:17:16,100
+00:17:04,420 --> 00:17:05,670
 <font face="Impress BT Pace" size="82">Yeah...</font>
 
 9217
-00:17:16,100 --> 00:17:18,640
+00:17:05,670 --> 00:17:08,220
 <font face="Impress BT Pace" size="82">What was that?! Did the robot explode?!</font>
 
 9218
-00:17:18,640 --> 00:17:21,350
+00:17:08,220 --> 00:17:10,930
 <font face="Impress BT Pace" size="82">No, it wasn't an explosion.</font>
 
 9219
-00:17:21,350 --> 00:17:24,230
+00:17:10,930 --> 00:17:13,800
 <font face="Impress BT Pace" size="82">Then what just happened?!</font>
 
 9220
-00:17:24,770 --> 00:17:28,150
+00:17:14,350 --> 00:17:17,720
 <font face="Impress BT Pace" size="82">Hey!</font>
 
 9221
-00:17:28,150 --> 00:17:30,990
+00:17:17,720 --> 00:17:20,560
 <font face="Impress BT Pace" size="82">Help me-<i>quasar</i>!</font>
 
 9222
-00:17:32,110 --> 00:17:33,450
+00:17:21,690 --> 00:17:23,020
 <font face="Impress BT Pace" size="82">"Quasar"?</font>
 
 9223
-00:17:33,450 --> 00:17:34,580
+00:17:23,020 --> 00:17:24,150
 <font face="Impress BT Pace" size="82">Oh no!</font>
 
 9224
-00:17:34,580 --> 00:17:35,950
+00:17:24,150 --> 00:17:25,520
 <font face="Impress BT Pace" size="82">I failed again!</font>
 
 9225
-00:17:35,950 --> 00:17:39,160
+00:17:25,520 --> 00:17:28,740
 <font face="Impress BT Pace" size="82">Somebody, help me-<i>quasar</i>!</font>
 
 9226
-00:17:39,160 --> 00:17:42,620
+00:17:28,740 --> 00:17:32,200
 <font face="Impress BT Pace" size="82">Maybe I warped space-time when I teleported!</font>
 
 9227
-00:17:42,620 --> 00:17:44,750
+00:17:32,200 --> 00:17:34,320
 <font face="Impress BT Pace" size="82">Was that old man there before?</font>
 
 9228
-00:17:44,250 --> 00:17:46,840
+00:17:33,820 --> 00:17:36,410
 <font face="Impress BT Pace" size="82" color="#d6d6d6">I'm sinking! Hey!</font>
 
 9229
-00:17:44,750 --> 00:17:46,840
+00:17:34,320 --> 00:17:36,410
 <font face="Impress BT Pace" size="82">I don't think so.</font>
 
 9230
-00:17:46,840 --> 00:17:49,210
+00:17:36,410 --> 00:17:38,790
 <font face="Impress BT Pace" size="82">My body's sinking!</font>
 
 9231
-00:17:49,210 --> 00:17:50,840
+00:17:38,790 --> 00:17:40,410
 <font face="Impress BT Pace" size="82">Somebody!</font>
 
 9232
-00:17:54,050 --> 00:17:56,050
+00:17:43,630 --> 00:17:45,630
 <font face="Impress BT Pace" size="82">I don't know what's going on.</font>
 
 9233
-00:17:56,050 --> 00:17:58,430
+00:17:45,630 --> 00:17:48,010
 <font face="Impress BT Pace" size="82">Hey, gramps, do you need help?</font>
 
 9234
-00:18:03,730 --> 00:18:06,320
+00:17:53,300 --> 00:17:55,890
 <font face="Impress BT Pace" size="82">Help me-<i>quasar</i>!</font>
 
 9235
-00:18:06,320 --> 00:18:07,730
+00:17:55,890 --> 00:17:57,310
 <font face="Impress BT Pace" size="82">What the...?</font>
 
 9236
-00:18:07,730 --> 00:18:10,070
+00:17:57,310 --> 00:17:59,640
 <font face="Impress BT Pace" size="82">You're just like Kin'emon.</font>
 
 9237
-00:18:11,860 --> 00:18:14,620
+00:18:01,440 --> 00:18:04,190
 <font face="Impress BT Pace" size="82">Hurry up!</font>
 
 9238
-00:18:17,830 --> 00:18:19,700
+00:18:07,400 --> 00:18:09,280
 <font face="Impress BT Pace" size="82">I'll get you out!</font>
 
 9239
-00:18:19,700 --> 00:18:20,830
+00:18:09,280 --> 00:18:10,400
 <font face="Impress BT Pace" size="82">Thanks!</font>
 
 9240
-00:18:24,630 --> 00:18:25,830
+00:18:14,200 --> 00:18:15,410
 <font face="Impress BT Pace" size="82">I knew it!</font>
 
 9241
-00:18:25,830 --> 00:18:26,840
+00:18:15,410 --> 00:18:16,410
 <font face="Impress BT Pace" size="82">It's him!</font>
 
 9242
-00:18:29,090 --> 00:18:30,210
+00:18:18,660 --> 00:18:19,790
 <font face="Impress BT Pace" size="82">Thank you!</font>
 
 9243
-00:18:30,210 --> 00:18:31,550
+00:18:19,790 --> 00:18:21,120
 <font face="Impress BT Pace" size="82">By the way, you're...</font>
 
 9244
-00:18:31,550 --> 00:18:33,300
+00:18:21,120 --> 00:18:22,870
 <font face="Impress BT Pace" size="82">Dragon's son, right?</font>
 
 9245
-00:18:33,300 --> 00:18:34,890
+00:18:22,870 --> 00:18:24,460
 <font face="Impress BT Pace" size="82">I knew you were here.</font>
 
 9246
-00:18:34,890 --> 00:18:36,680
+00:18:24,460 --> 00:18:26,250
 <font face="Impress BT Pace" size="82">I'm glad you came.</font>
 
 9247
-00:18:36,680 --> 00:18:37,890
+00:18:26,250 --> 00:18:27,460
 <font face="Impress BT Pace" size="82">And you must be...</font>
 
 9248
-00:18:37,890 --> 00:18:39,180
+00:18:27,460 --> 00:18:28,750
 <font face="Impress BT Pace" size="82">Bonney!</font>
 
 9249
-00:18:39,180 --> 00:18:40,890
+00:18:28,750 --> 00:18:30,460
 <font face="Impress BT Pace" size="82">You're all grown up!</font>
 
 9250
-00:18:40,890 --> 00:18:42,350
+00:18:30,460 --> 00:18:31,920
 <font face="Impress BT Pace" size="82">Vegapunk!</font>
 
 9251
-00:18:43,100 --> 00:18:45,100
+00:18:32,670 --> 00:18:34,680
 <font face="Impress BT Pace" size="82">I'm glad to see you doing well!</font>
 
 9252
-00:18:46,310 --> 00:18:48,320
+00:18:35,890 --> 00:18:37,890
 <font face="Impress BT Pace" size="82">Old man, are you floating?!</font>
 
 9253
-00:18:48,820 --> 00:18:50,690
+00:18:38,390 --> 00:18:40,270
 <font face="Impress BT Pace" size="82">You're wearing them, too.</font>
 
 9254
-00:18:50,690 --> 00:18:51,400
+00:18:40,270 --> 00:18:40,970
 <font face="Impress BT Pace" size="82">What?</font>
 
 9255
-00:18:51,400 --> 00:18:55,110
+00:18:40,970 --> 00:18:44,690
 <font face="Impress BT Pace" size="82">Those dom shoes have a hover function!</font>
 
 9256
-00:18:55,110 --> 00:18:57,870
+00:18:44,690 --> 00:18:47,440
 <font face="Impress BT Pace" size="82">What?! A hover function?!</font>
 
 9257
-00:18:57,870 --> 00:18:59,080
+00:18:47,440 --> 00:18:48,650
 <font face="Impress BT Pace" size="82">How do we use it?!</font>
 
 9258
-00:18:59,080 --> 00:19:02,750
+00:18:48,650 --> 00:18:52,320
 <font face="Impress BT Pace" size="82">First, press the button on the side...</font>
 
 9259
-00:19:03,500 --> 00:19:04,960
+00:18:53,070 --> 00:18:54,530
 <font face="Impress BT Pace" size="82">Oh, this one.</font>
 
 9260
-00:19:05,540 --> 00:19:07,500
+00:18:55,110 --> 00:18:57,070
 <font face="Impress BT Pace" size="82">And this lever!</font>
 
 9261
-00:19:07,500 --> 00:19:10,460
+00:18:57,070 --> 00:19:00,040
 <font face="Impress BT Pace" size="82">Push it down!</font>
 
 9262
-00:19:10,460 --> 00:19:11,300
+00:19:00,040 --> 00:19:00,870
 <font face="Impress BT Pace" size="82">Like this?!</font>
 
 9263
-00:19:11,880 --> 00:19:13,050
+00:19:01,450 --> 00:19:02,620
 <font face="Impress BT Pace" size="82">That's it!</font>
 
 9264
-00:19:21,470 --> 00:19:23,930
+00:19:11,050 --> 00:19:13,510
 <font face="Impress BT Pace" size="82">We flew too high! </font>
 
 9265
-00:19:26,100 --> 00:19:30,400
+00:19:15,680 --> 00:19:19,970
 <font face="Impress BT Pace" size="82">Help me-<i>quasar</i>!</font>
 
 9266
-00:19:31,770 --> 00:19:31,810
+00:19:21,350 --> 00:19:21,390
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#000000">The World's Premier Brain</font></font></font>
 
 9267
-00:19:31,770 --> 00:19:31,810
+00:19:21,350 --> 00:19:21,390
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#d86963">The World's Premier Brain</font></font></font>
 
 9268
-00:19:31,810 --> 00:19:31,850
+00:19:21,390 --> 00:19:21,430
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#000000">The World's Premier Brain</font></font></font>
 
 9269
-00:19:31,810 --> 00:19:31,850
+00:19:21,390 --> 00:19:21,430
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#d86963">The World's Premier Brain</font></font></font>
 
 9270
-00:19:31,850 --> 00:19:31,900
+00:19:21,430 --> 00:19:21,470
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#000000">The World's Premier Brain</font></font></font>
 
 9271
-00:19:31,850 --> 00:19:31,900
+00:19:21,430 --> 00:19:21,470
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#d86963">The World's Premier Brain</font></font></font>
 
 9272
-00:19:31,900 --> 00:19:31,940
+00:19:21,470 --> 00:19:21,520
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#000000">The World's Premier Brain</font></font></font>
 
 9273
-00:19:31,900 --> 00:19:31,940
+00:19:21,470 --> 00:19:21,520
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#d86963">The World's Premier Brain</font></font></font>
 
 9274
-00:19:31,940 --> 00:19:31,980
+00:19:21,520 --> 00:19:21,560
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#000000">The World's Premier Brain</font></font></font>
 
 9275
-00:19:31,940 --> 00:19:31,980
+00:19:21,520 --> 00:19:21,560
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#d86963">The World's Premier Brain</font></font></font>
 
 9276
-00:19:31,980 --> 00:19:32,020
+00:19:21,560 --> 00:19:21,600
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#000000">The World's Premier Brain</font></font></font>
 
 9277
-00:19:31,980 --> 00:19:32,020
+00:19:21,560 --> 00:19:21,600
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#d86963">The World's Premier Brain</font></font></font>
 
 9278
-00:19:32,020 --> 00:19:32,900
+00:19:21,600 --> 00:19:22,470
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#000000">The World's Premier Brain</font></font></font>
 
 9279
-00:19:32,020 --> 00:19:32,900
+00:19:21,600 --> 00:19:22,470
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#d86963">The World's Premier Brain</font></font></font>
 
 9280
-00:19:34,900 --> 00:19:39,320
+00:19:24,480 --> 00:19:28,900
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#000000">The World's Premier Brain</font></font></font>
 
 9281
-00:19:34,900 --> 00:19:39,320
+00:19:24,480 --> 00:19:28,900
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#d86963">The World's Premier Brain</font></font></font>
 
 9282
-00:19:35,450 --> 00:19:35,490
+00:19:25,020 --> 00:19:25,060
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#000000">Head of the Marines' Special Science Group</font></font></font>
 
 9283
-00:19:35,450 --> 00:19:35,490
+00:19:25,020 --> 00:19:25,060
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#d86963">Head of the Marines' Special Science Group</font></font></font>
 
 9284
-00:19:35,490 --> 00:19:35,570
+00:19:25,060 --> 00:19:25,140
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#000000">Head of the Marines' Special Science Group</font></font></font>
 
 9285
-00:19:35,490 --> 00:19:35,570
+00:19:25,060 --> 00:19:25,140
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#d86963">Head of the Marines' Special Science Group</font></font></font>
 
 9286
-00:19:35,570 --> 00:19:35,650
+00:19:25,140 --> 00:19:25,230
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#000000">Head of the Marines' Special Science Group</font></font></font>
 
 9287
-00:19:35,570 --> 00:19:35,650
+00:19:25,140 --> 00:19:25,230
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#d86963">Head of the Marines' Special Science Group</font></font></font>
 
 9288
-00:19:35,650 --> 00:19:35,700
+00:19:25,230 --> 00:19:25,270
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#000000">Head of the Marines' Special Science Group</font></font></font>
 
 9289
-00:19:35,650 --> 00:19:35,700
+00:19:25,230 --> 00:19:25,270
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#d86963">Head of the Marines' Special Science Group</font></font></font>
 
 9290
-00:19:35,700 --> 00:19:35,780
+00:19:25,270 --> 00:19:25,350
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#000000">Head of the Marines' Special Science Group</font></font></font>
 
 9291
-00:19:35,700 --> 00:19:35,780
+00:19:25,270 --> 00:19:25,350
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#d86963">Head of the Marines' Special Science Group</font></font></font>
 
 9292
-00:19:35,780 --> 00:19:35,860
+00:19:25,350 --> 00:19:25,440
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#000000">Head of the Marines' Special Science Group</font></font></font>
 
 9293
-00:19:35,780 --> 00:19:35,860
+00:19:25,350 --> 00:19:25,440
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#d86963">Head of the Marines' Special Science Group</font></font></font>
 
 9294
-00:19:35,860 --> 00:19:35,900
+00:19:25,440 --> 00:19:25,480
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#000000">Head of the Marines' Special Science Group</font></font></font>
 
 9295
-00:19:35,860 --> 00:19:35,900
+00:19:25,440 --> 00:19:25,480
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#d86963">Head of the Marines' Special Science Group</font></font></font>
 
 9296
-00:19:35,900 --> 00:19:35,990
+00:19:25,480 --> 00:19:25,560
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#000000">Head of the Marines' Special Science Group</font></font></font>
 
 9297
-00:19:35,900 --> 00:19:35,990
+00:19:25,480 --> 00:19:25,560
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#d86963">Head of the Marines' Special Science Group</font></font></font>
 
 9298
-00:19:35,990 --> 00:19:36,070
+00:19:25,560 --> 00:19:25,640
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#000000">Head of the Marines' Special Science Group</font></font></font>
 
 9299
-00:19:35,990 --> 00:19:36,070
+00:19:25,560 --> 00:19:25,640
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#d86963">Head of the Marines' Special Science Group</font></font></font>
 
 9300
-00:19:36,070 --> 00:19:36,110
+00:19:25,640 --> 00:19:25,690
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#000000">Head of the Marines' Special Science Group</font></font></font>
 
 9301
-00:19:36,070 --> 00:19:36,110
+00:19:25,640 --> 00:19:25,690
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#d86963">Head of the Marines' Special Science Group</font></font></font>
 
 9302
-00:19:36,110 --> 00:19:36,200
+00:19:25,690 --> 00:19:25,770
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#000000">Head of the Marines' Special Science Group</font></font></font>
 
 9303
-00:19:36,110 --> 00:19:36,200
+00:19:25,690 --> 00:19:25,770
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#d86963">Head of the Marines' Special Science Group</font></font></font>
 
 9304
-00:19:36,200 --> 00:19:36,280
+00:19:25,770 --> 00:19:25,850
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#000000">Head of the Marines' Special Science Group</font></font></font>
 
 9305
-00:19:36,200 --> 00:19:36,280
+00:19:25,770 --> 00:19:25,850
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#d86963">Head of the Marines' Special Science Group</font></font></font>
 
 9306
-00:19:36,280 --> 00:19:36,320
+00:19:25,850 --> 00:19:25,890
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#000000">Head of the Marines' Special Science Group</font></font></font>
 
 9307
-00:19:36,280 --> 00:19:36,320
+00:19:25,850 --> 00:19:25,890
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#d86963">Head of the Marines' Special Science Group</font></font></font>
 
 9308
-00:19:36,320 --> 00:19:36,410
+00:19:25,890 --> 00:19:25,980
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#000000">Head of the Marines' Special Science Group</font></font></font>
 
 9309
-00:19:36,320 --> 00:19:36,410
+00:19:25,890 --> 00:19:25,980
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#d86963">Head of the Marines' Special Science Group</font></font></font>
 
 9310
-00:19:36,410 --> 00:19:36,490
+00:19:25,980 --> 00:19:26,060
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#000000">Head of the Marines' Special Science Group</font></font></font>
 
 9311
-00:19:36,410 --> 00:19:36,490
+00:19:25,980 --> 00:19:26,060
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#d86963">Head of the Marines' Special Science Group</font></font></font>
 
 9312
-00:19:36,490 --> 00:19:36,570
+00:19:26,060 --> 00:19:26,140
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#000000">Head of the Marines' Special Science Group</font></font></font>
 
 9313
-00:19:36,490 --> 00:19:36,570
+00:19:26,060 --> 00:19:26,140
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#d86963">Head of the Marines' Special Science Group</font></font></font>
 
 9314
-00:19:36,570 --> 00:19:36,610
+00:19:26,140 --> 00:19:26,190
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#000000">Head of the Marines' Special Science Group</font></font></font>
 
 9315
-00:19:36,570 --> 00:19:36,610
+00:19:26,140 --> 00:19:26,190
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#d86963">Head of the Marines' Special Science Group</font></font></font>
 
 9316
-00:19:36,610 --> 00:19:36,700
+00:19:26,190 --> 00:19:26,270
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#000000">Head of the Marines' Special Science Group</font></font></font>
 
 9317
-00:19:36,610 --> 00:19:36,700
+00:19:26,190 --> 00:19:26,270
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#d86963">Head of the Marines' Special Science Group</font></font></font>
 
 9318
-00:19:36,700 --> 00:19:36,780
+00:19:26,270 --> 00:19:26,350
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#000000">Head of the Marines' Special Science Group</font></font></font>
 
 9319
-00:19:36,700 --> 00:19:36,780
+00:19:26,270 --> 00:19:26,350
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#d86963">Head of the Marines' Special Science Group</font></font></font>
 
 9320
-00:19:36,780 --> 00:19:36,820
+00:19:26,350 --> 00:19:26,400
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#000000">Head of the Marines' Special Science Group</font></font></font>
 
 9321
-00:19:36,780 --> 00:19:36,820
+00:19:26,350 --> 00:19:26,400
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#d86963">Head of the Marines' Special Science Group</font></font></font>
 
 9322
-00:19:36,820 --> 00:19:36,910
+00:19:26,400 --> 00:19:26,480
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#000000">Head of the Marines' Special Science Group</font></font></font>
 
 9323
-00:19:36,820 --> 00:19:36,910
+00:19:26,400 --> 00:19:26,480
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#d86963">Head of the Marines' Special Science Group</font></font></font>
 
 9324
-00:19:36,910 --> 00:19:36,990
+00:19:26,480 --> 00:19:26,560
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#000000">Head of the Marines' Special Science Group</font></font></font>
 
 9325
-00:19:36,910 --> 00:19:36,990
+00:19:26,480 --> 00:19:26,560
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#d86963">Head of the Marines' Special Science Group</font></font></font>
 
 9326
-00:19:36,990 --> 00:19:37,030
+00:19:26,560 --> 00:19:26,600
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#000000">Head of the Marines' Special Science Group</font></font></font>
 
 9327
-00:19:36,990 --> 00:19:37,030
+00:19:26,560 --> 00:19:26,600
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#d86963">Head of the Marines' Special Science Group</font></font></font>
 
 9328
-00:19:37,030 --> 00:19:37,110
+00:19:26,600 --> 00:19:26,690
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#000000">Head of the Marines' Special Science Group</font></font></font>
 
 9329
-00:19:37,030 --> 00:19:37,110
+00:19:26,600 --> 00:19:26,690
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#d86963">Head of the Marines' Special Science Group</font></font></font>
 
 9330
-00:19:37,110 --> 00:19:37,200
+00:19:26,690 --> 00:19:26,770
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#000000">Head of the Marines' Special Science Group</font></font></font>
 
 9331
-00:19:37,110 --> 00:19:37,200
+00:19:26,690 --> 00:19:26,770
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#d86963">Head of the Marines' Special Science Group</font></font></font>
 
 9332
-00:19:37,200 --> 00:19:37,240
+00:19:26,770 --> 00:19:26,810
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#000000">Head of the Marines' Special Science Group</font></font></font>
 
 9333
-00:19:37,200 --> 00:19:37,240
+00:19:26,770 --> 00:19:26,810
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#d86963">Head of the Marines' Special Science Group</font></font></font>
 
 9334
-00:19:37,240 --> 00:19:37,320
+00:19:26,810 --> 00:19:26,900
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#000000">Head of the Marines' Special Science Group</font></font></font>
 
 9335
-00:19:37,240 --> 00:19:37,320
+00:19:26,810 --> 00:19:26,900
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#d86963">Head of the Marines' Special Science Group</font></font></font>
 
 9336
-00:19:37,320 --> 00:19:37,410
+00:19:26,900 --> 00:19:26,980
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#000000">Head of the Marines' Special Science Group</font></font></font>
 
 9337
-00:19:37,320 --> 00:19:37,410
+00:19:26,900 --> 00:19:26,980
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#d86963">Head of the Marines' Special Science Group</font></font></font>
 
 9338
-00:19:37,410 --> 00:19:37,490
+00:19:26,980 --> 00:19:27,060
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#000000">Head of the Marines' Special Science Group</font></font></font>
 
 9339
-00:19:37,410 --> 00:19:37,490
+00:19:26,980 --> 00:19:27,060
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#d86963">Head of the Marines' Special Science Group</font></font></font>
 
 9340
-00:19:37,490 --> 00:19:37,530
+00:19:27,060 --> 00:19:27,100
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#000000">Head of the Marines' Special Science Group</font></font></font>
 
 9341
-00:19:37,490 --> 00:19:37,530
+00:19:27,060 --> 00:19:27,100
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#d86963">Head of the Marines' Special Science Group</font></font></font>
 
 9342
-00:19:37,530 --> 00:19:37,610
+00:19:27,100 --> 00:19:27,190
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#000000">Head of the Marines' Special Science Group</font></font></font>
 
 9343
-00:19:37,530 --> 00:19:37,610
+00:19:27,100 --> 00:19:27,190
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#d86963">Head of the Marines' Special Science Group</font></font></font>
 
 9344
-00:19:37,610 --> 00:19:37,700
+00:19:27,190 --> 00:19:27,270
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#000000">Head of the Marines' Special Science Group</font></font></font>
 
 9345
-00:19:37,610 --> 00:19:37,700
+00:19:27,190 --> 00:19:27,270
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#d86963">Head of the Marines' Special Science Group</font></font></font>
 
 9346
-00:19:37,700 --> 00:19:37,740
+00:19:27,270 --> 00:19:27,310
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#000000">Head of the Marines' Special Science Group</font></font></font>
 
 9347
-00:19:37,700 --> 00:19:37,740
+00:19:27,270 --> 00:19:27,310
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#d86963">Head of the Marines' Special Science Group</font></font></font>
 
 9348
-00:19:37,740 --> 00:19:37,820
+00:19:27,310 --> 00:19:27,400
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#000000">Head of the Marines' Special Science Group</font></font></font>
 
 9349
-00:19:37,740 --> 00:19:37,820
+00:19:27,310 --> 00:19:27,400
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#d86963">Head of the Marines' Special Science Group</font></font></font>
 
 9350
-00:19:37,820 --> 00:19:37,910
+00:19:27,400 --> 00:19:27,480
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#000000">Head of the Marines' Special Science Group</font></font></font>
 
 9351
-00:19:37,820 --> 00:19:37,910
+00:19:27,400 --> 00:19:27,480
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#d86963">Head of the Marines' Special Science Group</font></font></font>
 
 9352
-00:19:37,910 --> 00:19:37,950
+00:19:27,480 --> 00:19:27,520
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#000000">Head of the Marines' Special Science Group</font></font></font>
 
 9353
-00:19:37,910 --> 00:19:37,950
+00:19:27,480 --> 00:19:27,520
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#d86963">Head of the Marines' Special Science Group</font></font></font>
 
 9354
-00:19:37,950 --> 00:19:38,030
+00:19:27,520 --> 00:19:27,600
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#000000">Head of the Marines' Special Science Group</font></font></font>
 
 9355
-00:19:37,950 --> 00:19:38,030
+00:19:27,520 --> 00:19:27,600
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#d86963">Head of the Marines' Special Science Group</font></font></font>
 
 9356
-00:19:38,030 --> 00:19:38,120
+00:19:27,600 --> 00:19:27,690
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#000000">Head of the Marines' Special Science Group</font></font></font>
 
 9357
-00:19:38,030 --> 00:19:38,120
+00:19:27,600 --> 00:19:27,690
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#d86963">Head of the Marines' Special Science Group</font></font></font>
 
 9358
-00:19:38,120 --> 00:19:38,160
+00:19:27,690 --> 00:19:27,730
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#000000">Head of the Marines' Special Science Group</font></font></font>
 
 9359
-00:19:38,120 --> 00:19:38,160
+00:19:27,690 --> 00:19:27,730
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#d86963">Head of the Marines' Special Science Group</font></font></font>
 
 9360
-00:19:38,160 --> 00:19:38,240
+00:19:27,730 --> 00:19:27,810
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#000000">Head of the Marines' Special Science Group</font></font></font>
 
 9361
-00:19:38,160 --> 00:19:38,240
+00:19:27,730 --> 00:19:27,810
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#d86963">Head of the Marines' Special Science Group</font></font></font>
 
 9362
-00:19:38,240 --> 00:19:38,320
+00:19:27,810 --> 00:19:27,900
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#000000">Head of the Marines' Special Science Group</font></font></font>
 
 9363
-00:19:38,240 --> 00:19:38,320
+00:19:27,810 --> 00:19:27,900
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#d86963">Head of the Marines' Special Science Group</font></font></font>
 
 9364
-00:19:38,320 --> 00:19:38,410
+00:19:27,900 --> 00:19:27,980
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#000000">Head of the Marines' Special Science Group</font></font></font>
 
 9365
-00:19:38,320 --> 00:19:38,410
+00:19:27,900 --> 00:19:27,980
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#d86963">Head of the Marines' Special Science Group</font></font></font>
 
 9366
-00:19:38,410 --> 00:19:39,320
+00:19:27,980 --> 00:19:28,900
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#000000">Head of the Marines' Special Science Group</font></font></font>
 
 9367
-00:19:38,410 --> 00:19:39,320
+00:19:27,980 --> 00:19:28,900
 <font face="FOT-Greco Std DB Strp" size="56"><font face="FOT-KafuTechno Std U Strp"><font color="#d86963">Head of the Marines' Special Science Group</font></font></font>
 

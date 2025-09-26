@@ -19,15 +19,18 @@ https://mpv.io</font>
 
 5
 00:00:02,000 --> 00:00:08,000
-<font face="FOT-Greco Std DB Strp" size="55"><font color="#000000">Feeso</font></font>
+<font face="FOT-Greco Std DB Strp" size="55"><font color="#000000">Feeso
+Galaxy 9000</font></font>
 
 6
 00:00:02,000 --> 00:00:08,000
-<font face="FOT-Greco Std DB Strp" size="55">Feeso</font>
+<font face="FOT-Greco Std DB Strp" size="55">Feeso
+Galaxy 9000</font>
 
 7
 00:00:02,000 --> 00:00:08,000
-<font face="FOT-Greco Std DB Strp" size="55">Feeso</font>
+<font face="FOT-Greco Std DB Strp" size="55">Feeso
+Galaxy 9000</font>
 
 8
 00:00:02,190 --> 00:00:04,100
@@ -81,24 +84,33 @@ relentless tempest are…</i></font>
 
 20
 00:00:14,000 --> 00:00:22,000
-<font face="FOT-Greco Std DB Strp" size="55"><font color="#000000">Galaxy 9000
+<font face="FOT-Greco Std DB Strp" size="55"><font color="#000000">Gab
+Galaxy 9000
+Gol D. Rocks
 Grug
 Pepperjack
-Sewil</font></font>
+Sewil
+Villager</font></font>
 
 21
 00:00:14,000 --> 00:00:22,000
-<font face="FOT-Greco Std DB Strp" size="55">Galaxy 9000
+<font face="FOT-Greco Std DB Strp" size="55">Gab
+Galaxy 9000
+Gol D. Rocks
 Grug
 Pepperjack
-Sewil</font>
+Sewil
+Villager</font>
 
 22
 00:00:14,000 --> 00:00:22,000
-<font face="FOT-Greco Std DB Strp" size="55">Galaxy 9000
+<font face="FOT-Greco Std DB Strp" size="55">Gab
+Galaxy 9000
+Gol D. Rocks
 Grug
 Pepperjack
-Sewil</font>
+Sewil
+Villager</font>
 
 23
 00:00:19,990 --> 00:00:21,830
@@ -150,17 +162,20 @@ Sewil</font>
 
 35
 00:00:28,000 --> 00:00:34,000
-<font face="FOT-Greco Std DB Strp" size="55"><font color="#000000">KaitouYahiko
+<font face="FOT-Greco Std DB Strp" size="55"><font color="#000000">Gab
+KaitouYahiko
 PhosCity</font></font>
 
 36
 00:00:28,000 --> 00:00:34,000
-<font face="FOT-Greco Std DB Strp" size="55">KaitouYahiko
+<font face="FOT-Greco Std DB Strp" size="55">Gab
+KaitouYahiko
 PhosCity</font>
 
 37
 00:00:28,000 --> 00:00:34,000
-<font face="FOT-Greco Std DB Strp" size="55">KaitouYahiko
+<font face="FOT-Greco Std DB Strp" size="55">Gab
+KaitouYahiko
 PhosCity</font>
 
 38
@@ -210,17 +225,17 @@ for this quadrennial conference:</i></font>
 
 49
 00:00:40,000 --> 00:00:46,000
-<font face="FOT-Greco Std DB Strp" size="55"><font color="#000000">Crunchyroll 
+<font face="FOT-Greco Std DB Strp" size="55"><font color="#000000">Crunchyroll
 Gaijin</font></font>
 
 50
 00:00:40,000 --> 00:00:46,000
-<font face="FOT-Greco Std DB Strp" size="55">Crunchyroll 
+<font face="FOT-Greco Std DB Strp" size="55">Crunchyroll
 Gaijin</font>
 
 51
 00:00:40,000 --> 00:00:46,000
-<font face="FOT-Greco Std DB Strp" size="55">Crunchyroll 
+<font face="FOT-Greco Std DB Strp" size="55">Crunchyroll
 Gaijin</font>
 
 52
@@ -228,2029 +243,3329 @@ Gaijin</font>
 <font face="Impress BT Pace" size="82"><i>Now is a time of great change.</i></font>
 
 53
-00:00:46,000 --> 00:00:50,000
-<font face="FOT-Greco Std DB Strp" size="55"><font color="#000000">Special Thanks</font></font>
+00:00:46,000 --> 00:00:50,450
+<font face="FOT-Greco Std DB Strp" size="55"><font color="#000000"><font color="#ffffff">Typesetting</font></font></font>
 
 54
-00:00:46,000 --> 00:00:50,000
-<font face="FOT-Greco Std DB Strp" size="55">Special Thanks</font>
+00:00:46,000 --> 00:00:50,450
+<font face="FOT-Greco Std DB Strp" size="55">Typesetting</font>
 
 55
-00:00:46,000 --> 00:00:50,000
-<font face="FOT-Greco Std DB Strp" size="55">Special Thanks</font>
+00:00:46,000 --> 00:00:50,450
+<font face="FOT-Greco Std DB Strp" size="55">Typesetting</font>
 
 56
-00:00:46,000 --> 00:00:50,000
-<font face="FOT-Greco Std DB Strp" size="55"><font color="#000000">Randy Troy</font></font>
+00:00:46,000 --> 00:00:50,450
+<font face="FOT-Greco Std DB Strp" size="55"><font color="#000000"><font color="#ffffff">Gab
+PhosCity</font></font></font>
 
 57
-00:00:46,000 --> 00:00:50,000
-<font face="FOT-Greco Std DB Strp" size="55">Randy Troy</font>
+00:00:46,000 --> 00:00:50,450
+<font face="FOT-Greco Std DB Strp" size="55">Gab
+PhosCity</font>
 
 58
-00:00:46,000 --> 00:00:50,000
-<font face="FOT-Greco Std DB Strp" size="55">Randy Troy</font>
+00:00:46,000 --> 00:00:50,450
+<font face="FOT-Greco Std DB Strp" size="55">Gab
+PhosCity</font>
 
 59
-00:00:55,410 --> 00:01:00,290
-<font face="M+ 1c" size="95" color="#fefefe"><b><font color="#000000">The Empty Throne</font></b></font>
+00:00:46,000 --> 00:00:50,450
+<font face="FOT-Greco Std DB Strp" size="55"><font color="#000000"><font color="#ffffff">Special Thanks</font></font></font>
 
 60
-00:00:55,410 --> 00:01:00,290
-<font face="M+ 1c" size="95" color="#fefefe"><b>The Empty Throne</b></font>
+00:00:46,000 --> 00:00:50,450
+<font face="FOT-Greco Std DB Strp" size="55">Special Thanks</font>
 
 61
+00:00:46,000 --> 00:00:50,450
+<font face="FOT-Greco Std DB Strp" size="55">Special Thanks</font>
+
+62
+00:00:46,000 --> 00:00:50,450
+<font face="FOT-Greco Std DB Strp" size="55"><font color="#000000"><font color="#ffffff">Randy Troy</font></font></font>
+
+63
+00:00:46,000 --> 00:00:50,450
+<font face="FOT-Greco Std DB Strp" size="55">Randy Troy</font>
+
+64
+00:00:46,000 --> 00:00:50,450
+<font face="FOT-Greco Std DB Strp" size="55">Randy Troy</font>
+
+65
+00:00:55,240 --> 00:01:00,290
+<font face="M+ 1c" size="95" color="#fefefe"><b><font color="#010101">The Empty Throne</font></b></font>
+
+66
+00:00:55,240 --> 00:01:00,290
+<font face="M+ 1c" size="95" color="#fefefe"><b><font color="#e6e6e6">The Empty Throne</font></b></font>
+
+67
 00:01:10,670 --> 00:01:12,210
 <font face="Impress BT Pace" size="82">Captain Kaido!</font>
 
-62
-00:01:14,090 --> 00:01:17,720
-<font face="Impress BT Pace" size="82">What is it?! Don't bother me
-when I'm drinking!</font>
+68
+00:01:14,090 --> 00:01:15,100
+<font face="Impress BT Pace" size="82">What is it?!</font>
 
-63
-00:01:17,720 --> 00:01:20,180
-<font face="Impress BT Pace" size="82">No! I didn't mean to!</font>
+69
+00:01:15,100 --> 00:01:17,720
+<font face="Impress BT Pace" size="82">Don't bother me when I'm drinking!</font>
 
-64
+70
+00:01:17,720 --> 00:01:18,890
+<font face="Impress BT Pace" size="82">No!</font>
+
+71
+00:01:18,890 --> 00:01:20,180
+<font face="Impress BT Pace" size="82">I didn't mean to!</font>
+
+72
 00:01:20,180 --> 00:01:21,310
 <font face="Impress BT Pace" size="82">The thing is...</font>
 
-65
-00:01:28,690 --> 00:01:31,940
-<font face="Roboto" size="56"><font size="60"><font color="#000000">Whole Cake Island</font></font></font>
+73
+00:01:28,690 --> 00:01:31,950
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#040404">Whole Cake Island</font></font></font>
 
-66
-00:01:28,690 --> 00:01:31,940
-<font face="Roboto" size="56"><font size="60">Whole Cake Island</font></font>
+74
+00:01:28,690 --> 00:01:31,950
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#fefefd">Whole Cake Island</font></font></font>
 
-67
+75
 00:01:34,150 --> 00:01:36,110
 <font face="Impress BT Pace" size="82"><i>What do you want?!</i></font>
 
-68
+76
 00:01:36,950 --> 00:01:39,320
 <font face="Impress BT Pace" size="82">It's about Straw Hat.</font>
 
-69
+77
 00:01:39,320 --> 00:01:42,540
 <font face="Impress BT Pace" size="82"><i>He's on his way to you.</i></font>
 
-70
+78
 00:01:42,540 --> 00:01:44,910
 <font face="Impress BT Pace" size="82">What are you getting at?</font>
 
-71
+79
 00:01:44,910 --> 00:01:48,210
 <font face="Impress BT Pace" size="82">Listen, keep your hands off him!</font>
 
-72
+80
 00:01:49,380 --> 00:01:53,630
 <font face="Impress BT Pace" size="82">I'm coming to Wano to claim
 Straw Hat's head myself.</font>
 
-73
-00:01:54,260 --> 00:01:57,340
-<font face="Impress BT Pace" size="82">Is this some kind of joke?! Entry denied!</font>
+81
+00:01:54,140 --> 00:01:55,890
+<font face="Impress BT Pace" size="82">Is this some kind of a joke?!</font>
 
-74
+82
+00:01:55,890 --> 00:01:57,340
+<font face="Impress BT Pace" size="82">Entry denied!</font>
+
+83
 00:01:57,340 --> 00:02:00,090
 <font face="Impress BT Pace" size="82"><i>I have no business with you.</i></font>
 
-75
+84
 00:02:00,930 --> 00:02:06,390
 <font face="Impress BT Pace" size="82">If I don't personally squash Straw Hat,
 I'll become a laughingstock.</font>
 
-76
+85
 00:02:06,390 --> 00:02:10,230
 <font face="Impress BT Pace" size="82">Besides, he has something
 that I want back!</font>
 
-77
+86
 00:02:10,230 --> 00:02:11,940
 <font face="Impress BT Pace" size="82"><i>I don't care!</i></font>
 
-78
+87
 00:02:12,320 --> 00:02:15,900
 <font face="Impress BT Pace" size="82"><i>You still owe me big time, don't you?</i></font>
 
-79
+88
 00:02:15,900 --> 00:02:17,530
 <font face="Impress BT Pace" size="82">Owe you?</font>
 
-80
+89
 00:02:17,530 --> 00:02:20,160
 <font face="Impress BT Pace" size="82"><i>Don't tell me you've forgotten.</i></font>
 
-81
+90
 00:02:20,160 --> 00:02:22,370
 <font face="Impress BT Pace" size="82"><i>That was a long time ago!</i></font>
 
-82
+91
 00:02:22,370 --> 00:02:25,240
 <font face="Impress BT Pace" size="82">Even so, it incurred a lifetime debt.</font>
 
-83
+92
 00:02:31,000 --> 00:02:37,050
 <font face="Impress BT Pace" size="82"><i>I'm</i> the one with the grudge
 against that Straw Hat brat!</font>
 
-84
+93
 00:02:37,050 --> 00:02:39,720
 <font face="Impress BT Pace" size="82">So <i>I'm</i> the one who will kill him!</font>
 
-85
+94
 00:02:39,720 --> 00:02:43,430
-<font face="Impress BT Pace" size="82">Show your face,
-and I'll kill you too, Linlin!</font>
+<font face="Impress BT Pace" size="82">Show your face, and I'll kill you too, Linlin!</font>
 
-86
+95
 00:02:43,430 --> 00:02:45,220
 <font face="Impress BT Pace" size="82"><i>I'd like to see you try.</i></font>
 
-87
+96
 00:02:45,220 --> 00:02:48,730
 <font face="Impress BT Pace" size="82"><i>I'm not asking your permission;
 this is merely a courtesy call.</i></font>
 
-88
+97
 00:02:50,600 --> 00:02:54,690
 <font face="Impress BT Pace" size="82">Got that? Straw Hat's head is mine!</font>
 
-89
+98
 00:02:54,690 --> 00:02:58,990
 <font face="Impress BT Pace" size="82">So let's play nice... for old times' sake!</font>
 
-90
-00:03:02,530 --> 00:03:07,410
-<font face="Roboto" size="56"><font color="#000000">New Marineford</font></font>
+99
+00:03:02,580 --> 00:03:07,420
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#040404">New Marineford</font></font></font>
 
-91
-00:03:02,530 --> 00:03:07,410
-<font face="Roboto" size="56">New Marineford</font>
+100
+00:03:02,580 --> 00:03:07,420
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#fefefd">New Marineford</font></font></font>
 
-92
+101
 00:03:02,870 --> 00:03:04,530
 <font face="Impress BT Pace" size="82">Big Mom is on the move!</font>
 
-93
+102
 00:03:04,530 --> 00:03:07,410
 <font face="Impress BT Pace" size="82">It seems she's contacted Kaido!</font>
 
-94
+103
 00:03:07,410 --> 00:03:09,750
 <font face="Impress BT Pace" size="82">They're using an unsecured channel!</font>
 
-95
-00:03:09,750 --> 00:03:14,840
-<font face="Impress BT Pace" size="82">Don't they care if we overhear?!
-Are they <i>trying</i> to provoke us?</font>
+104
+00:03:09,750 --> 00:03:11,920
+<font face="Impress BT Pace" size="82">Don't they care if we overhear?!</font>
 
-96
+105
+00:03:11,920 --> 00:03:14,840
+<font face="Impress BT Pace" size="82">Are they <i>trying</i> to provoke us?</font>
+
+106
 00:03:15,460 --> 00:03:17,920
 <font face="Impress BT Pace" size="82"><i>So let's play nice...</i></font>
 
-97
+107
 00:03:17,920 --> 00:03:22,390
 <font face="Impress BT Pace" size="82">What force could possibly oppose
 Emperors Big Mom and Kaido?</font>
 
-98
+108
 00:03:22,390 --> 00:03:25,260
 <font face="Impress BT Pace" size="82">The admirals? The Seven Warlords?</font>
 
-99
+109
 00:03:27,890 --> 00:03:31,730
 <font face="Impress BT Pace" size="82">Should I head out, Sakazuki?</font>
 
-100
+110
 00:03:31,730 --> 00:03:34,480
 <font face="Impress BT Pace" size="82">Wait, Borsalino.</font>
 
-101
+111
 00:03:34,480 --> 00:03:39,320
 <font face="Impress BT Pace" size="82">We have zero intel on Wano's
 military capabilities.</font>
 
-102
+112
 00:03:40,150 --> 00:03:42,200
 <font face="Impress BT Pace" size="82">Their samurai, you mean?</font>
 
-103
+113
 00:03:44,530 --> 00:03:47,200
 <font face="Impress BT Pace" size="82">Seriously, Garp?!</font>
 
-104
-00:03:44,530 --> 00:03:47,200
-<font face="Roboto" size="56"><font color="#000000">The Red Port</font></font>
+114
+00:03:44,580 --> 00:03:47,210
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#040404">The Red Port</font></font></font>
 
-105
-00:03:44,530 --> 00:03:47,200
-<font face="Roboto" size="56">The Red Port</font>
+115
+00:03:44,580 --> 00:03:47,210
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#fefefd">The Red Port</font></font></font>
 
-106
+116
 00:03:47,200 --> 00:03:51,750
 <font face="Impress BT Pace" size="82">Don't Kaido and Big Mom each have
 a bone to pick with your grandson...</font>
 
-107
+117
 00:03:52,300 --> 00:03:54,380
 <font face="Impress BT Pace" size="82">Straw Hat Luffy?!</font>
 
-108
+118
 00:03:56,090 --> 00:03:57,670
 <font face="Impress BT Pace" size="82">What a riot!</font>
 
-109
+119
 00:03:59,380 --> 00:04:02,180
 <font face="Impress BT Pace" size="82">You realize this isn't a joke, right?</font>
 
-110
+120
 00:04:02,590 --> 00:04:07,140
 <font face="Impress BT Pace" size="82">You'd just let two Emperors team up?</font>
 
-111
+121
 00:04:03,260 --> 00:04:07,140
-<font face="Roboto" size="56"><font color="#000000">Vice Admiral Gion "Momousagi"
-Marine HQ</font></font>
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#050401">Vice Admiral Gion (Momousagi)
+Marine Headquarters</font></font></font>
 
-112
+122
 00:04:03,260 --> 00:04:07,140
-<font face="Roboto" size="56">Vice Admiral Gion "Momousagi"
-Marine HQ</font>
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#fafafa">Vice Admiral Gion (Momousagi)
+Marine Headquarters</font></font></font>
 
-113
+123
 00:04:07,140 --> 00:04:09,560
 <font face="Impress BT Pace" size="82">It's not as if we can do anything right now.</font>
 
-114
+124
 00:04:09,560 --> 00:04:11,390
 <font face="Impress BT Pace" size="82">Not during the Reverie anyway.</font>
 
-115
+125
 00:04:11,390 --> 00:04:15,230
 <font face="Impress BT Pace" size="82">Most of our manpower has been
 assigned to protect royalty!</font>
 
-116
+126
 00:04:15,230 --> 00:04:17,190
 <font face="Impress BT Pace" size="82">But if nothing is done...</font>
 
-117
+127
 00:04:17,190 --> 00:04:19,820
 <font face="Impress BT Pace" size="82">Pardon me, ma'am,</font>
 
-118
+128
 00:04:19,820 --> 00:04:22,070
 <font face="Impress BT Pace" size="82">but this is Big Mom we're talkin' about.</font>
 
-119
+129
 00:04:22,070 --> 00:04:25,410
 <font face="Impress BT Pace" size="82">She must've known the Marines ain't gonna spare a soul,</font>
 
-120
-00:04:22,530 --> 00:04:28,030
-<font face="Roboto" size="56"><font color="#000000">Vice Admiral Tokikake "Chaton"
-Marine HQ</font></font>
+130
+00:04:22,530 --> 00:04:28,040
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#050401">Vice Admiral Tokikake (Chaton)
+Marine Headquarters</font></font></font>
 
-121
-00:04:22,530 --> 00:04:28,030
-<font face="Roboto" size="56">Vice Admiral Tokikake "Chaton"
-Marine HQ</font>
+131
+00:04:22,530 --> 00:04:28,040
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#fafafa">Vice Admiral Tokikake (Chaton)
+Marine Headquarters</font></font></font>
 
-122
+132
 00:04:25,410 --> 00:04:28,030
 <font face="Impress BT Pace" size="82">what with the Reverie!</font>
 
-123
+133
 00:04:28,030 --> 00:04:29,990
 <font face="Impress BT Pace" size="82">You're right, but...</font>
 
-124
+134
 00:04:29,990 --> 00:04:32,540
 <font face="Impress BT Pace" size="82">What did Mr. Sakazuki say?</font>
 
-125
+135
 00:04:32,540 --> 00:04:36,960
 <font face="Impress BT Pace" size="82">He said, "Wano is a not a member country,
 so it's outside our jurisdiction."</font>
 
-126
+136
 00:04:36,960 --> 00:04:38,630
 <font face="Impress BT Pace" size="82">Sounds about right!</font>
 
-127
+137
 00:04:40,380 --> 00:04:42,550
 <font face="Impress BT Pace" size="82">Best not to get involved for now!</font>
 
-128
+138
 00:04:45,510 --> 00:04:47,300
 <font face="Impress BT Pace" size="82">But Garp...</font>
 
-129
-00:04:47,770 --> 00:04:50,100
-<font face="Impress BT Pace" size="82">if Big Mom and Kaido are up to something again,</font>
+139
+00:04:47,770 --> 00:04:52,390
+<font face="Impress BT Pace" size="82">if Big Mom and Kaido are up to something
+again, we shouldn't take it lightly.</font>
 
-130
-00:04:49,260 --> 00:04:53,390
-<font face="Roboto" size="56"><font color="#000000">Rear Admiral Hina
-Marine HQ</font></font>
+140
+00:04:49,270 --> 00:04:53,400
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#050401">Rear Admiral Hina
+Marine Headquarters</font></font></font>
 
-131
-00:04:49,260 --> 00:04:53,390
-<font face="Roboto" size="56">Rear Admiral Hina
-Marine HQ</font>
+141
+00:04:49,270 --> 00:04:53,400
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#fafafa">Rear Admiral Hina
+Marine Headquarters</font></font></font>
 
-132
-00:04:50,100 --> 00:04:52,390
-<font face="Impress BT Pace" size="82">we shouldn't take it lightly.</font>
-
-133
+142
 00:04:52,390 --> 00:04:53,390
 <font face="Impress BT Pace" size="82">After all...</font>
 
-134
+143
 00:04:53,980 --> 00:04:57,310
 <font face="Impress BT Pace" size="82">they're the reason you're known
 as the "Hero of the Marines."</font>
 
-135
+144
 00:04:59,480 --> 00:05:01,280
 <font face="Impress BT Pace" size="82">Rocks, huh?</font>
 
-136
-00:05:04,280 --> 00:05:08,030
+145
+00:05:02,820 --> 00:05:06,790
 <font face="Impress BT Pace" size="82">Hina, that's a bit before your time, isn't it?</font>
 
-137
-00:05:09,280 --> 00:05:13,250
+146
+00:05:07,830 --> 00:05:11,790
 <font face="Impress BT Pace" size="82">Before Roger, that era belonged to <i>them</i>!</font>
 
-138
-00:05:14,000 --> 00:05:18,420
-<font face="Impress BT Pace" size="82">But that was forty years ago.
-The past is in the past.</font>
+147
+00:05:12,540 --> 00:05:15,420
+<font face="Impress BT Pace" size="82">But that was forty years ago.</font>
 
-139
-00:05:18,420 --> 00:05:22,380
+148
+00:05:15,420 --> 00:05:16,960
+<font face="Impress BT Pace" size="82">The past is in the past.</font>
+
+149
+00:05:16,960 --> 00:05:20,930
 <font face="Impress BT Pace" size="82">Though they lost their captain,
 their influence only grows.</font>
 
-140
-00:05:22,380 --> 00:05:24,090
+150
+00:05:20,930 --> 00:05:22,550
 <font face="Impress BT Pace" size="82">Hina's worried.</font>
 
-141
-00:05:24,090 --> 00:05:26,180
+151
+00:05:22,550 --> 00:05:24,640
 <font face="Impress BT Pace" size="82">No point worrying!</font>
 
-142
-00:05:26,180 --> 00:05:31,970
+152
+00:05:24,640 --> 00:05:30,480
 <font face="Impress BT Pace" size="82">True, they'd be a threat if they returned,
 but the future has a way of surprising us...</font>
 
-143
-00:05:31,970 --> 00:05:37,400
-<font face="Impress BT Pace" size="82">But seriously, your grandson's bounty
-is a real nuisance, ain't it?</font>
-
-144
-00:05:37,400 --> 00:05:41,150
-<font face="Impress BT Pace" size="82">I mean, it jumped to 1.5 billion belly.</font>
-
-145
-00:05:43,280 --> 00:05:46,240
-<font face="Impress BT Pace" size="82">Why are you smiling? Hina's confused.</font>
-
-146
-00:05:46,240 --> 00:05:49,280
-<font face="Impress BT Pace" size="82">And he's still just getting started...</font>
-
-147
-00:05:49,410 --> 00:05:53,540
-<font face="Roboto" size="56"><font color="#000000">Pangaea Castle</font></font>
-
-148
-00:05:49,410 --> 00:05:53,540
-<font face="Roboto" size="56">Pangaea Castle</font>
-
-149
-00:05:49,950 --> 00:05:53,540
-<font face="Impress BT Pace" size="82">You may enter, King Sterry of Goa.</font>
-
-150
-00:06:18,520 --> 00:06:21,860
-<font face="Impress BT Pace" size="82">So <i>this</i> is the center of the world!</font>
-
-151
-00:06:36,200 --> 00:06:38,620
-<font face="Impress BT Pace" size="82">Now, swear your oath.</font>
-
-152
-00:06:38,130 --> 00:06:38,620
-<font face="Impress BT Pace" size="82" color="#d6d6d6">What?</font>
-
 153
-00:06:38,620 --> 00:06:40,880
-<font face="Impress BT Pace" size="82">C-Can I sit there?!</font>
+00:05:30,480 --> 00:05:32,560
+<font face="Impress BT Pace" size="82">Why are you smiling?</font>
 
 154
-00:06:40,880 --> 00:06:43,360
-<font face="Impress BT Pace" size="82">Don't joke about such things!</font>
+00:05:32,560 --> 00:05:33,810
+<font face="Impress BT Pace" size="82">Hina's confused.</font>
 
 155
-00:06:44,170 --> 00:06:47,760
-<font face="Impress BT Pace" size="82">No one is allowed to sit upon that throne.</font>
+00:05:33,810 --> 00:05:33,860
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#040404">Pangaea Castle</font></font></font>
 
 156
-00:06:47,760 --> 00:06:48,340
-<font face="Impress BT Pace" size="82">Huh...?</font>
+00:05:33,810 --> 00:05:33,860
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#fefefd">Pangaea Castle</font></font></font>
 
 157
-00:06:48,340 --> 00:06:50,590
-<font face="Impress BT Pace" size="82">It is the Empty Throne.</font>
+00:05:33,860 --> 00:05:33,900
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#040404">Pangaea Castle</font></font></font>
 
 158
-00:06:50,590 --> 00:06:53,430
+00:05:33,860 --> 00:05:33,900
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#fefefd">Pangaea Castle</font></font></font>
+
+159
+00:05:33,900 --> 00:05:33,940
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#040404">Pangaea Castle</font></font></font>
+
+160
+00:05:33,900 --> 00:05:33,940
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#fefefd">Pangaea Castle</font></font></font>
+
+161
+00:05:33,940 --> 00:05:33,980
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#040404">Pangaea Castle</font></font></font>
+
+162
+00:05:33,940 --> 00:05:33,980
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#fefefd">Pangaea Castle</font></font></font>
+
+163
+00:05:33,980 --> 00:05:34,020
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#040404">Pangaea Castle</font></font></font>
+
+164
+00:05:33,980 --> 00:05:34,020
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#fefefd">Pangaea Castle</font></font></font>
+
+165
+00:05:34,020 --> 00:05:34,060
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#040404">Pangaea Castle</font></font></font>
+
+166
+00:05:34,020 --> 00:05:34,060
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#fefefd">Pangaea Castle</font></font></font>
+
+167
+00:05:34,060 --> 00:05:34,110
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#040404">Pangaea Castle</font></font></font>
+
+168
+00:05:34,060 --> 00:05:34,110
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#fefefd">Pangaea Castle</font></font></font>
+
+169
+00:05:34,110 --> 00:05:34,150
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#040404">Pangaea Castle</font></font></font>
+
+170
+00:05:34,110 --> 00:05:34,150
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#fefefd">Pangaea Castle</font></font></font>
+
+171
+00:05:34,150 --> 00:05:34,190
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#040404">Pangaea Castle</font></font></font>
+
+172
+00:05:34,150 --> 00:05:34,190
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#fefefd">Pangaea Castle</font></font></font>
+
+173
+00:05:34,190 --> 00:05:37,940
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#040404">Pangaea Castle</font></font></font>
+
+174
+00:05:34,190 --> 00:05:37,940
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#fefefd">Pangaea Castle</font></font></font>
+
+175
+00:05:34,360 --> 00:05:37,940
+<font face="Impress BT Pace" size="82">You may enter, King Sterry of Goa.</font>
+
+176
+00:06:02,930 --> 00:06:06,260
+<font face="Impress BT Pace" size="82">So <i>this</i> is the center of the world!</font>
+
+177
+00:06:20,610 --> 00:06:23,030
+<font face="Impress BT Pace" size="82">Now, swear your oath.</font>
+
+178
+00:06:22,530 --> 00:06:23,030
+<font face="Impress BT Pace" size="82" color="#d6d6d6">What?</font>
+
+179
+00:06:23,030 --> 00:06:25,280
+<font face="Impress BT Pace" size="82">C-Can I sit there?!</font>
+
+180
+00:06:25,280 --> 00:06:27,740
+<font face="Impress BT Pace" size="82">Don't joke about such things!</font>
+
+181
+00:06:28,580 --> 00:06:32,160
+<font face="Impress BT Pace" size="82">No one is allowed to sit upon that throne.</font>
+
+182
+00:06:32,160 --> 00:06:32,750
+<font face="Impress BT Pace" size="82">Huh...?</font>
+
+183
+00:06:32,750 --> 00:06:35,000
+<font face="Impress BT Pace" size="82">It is the Empty Throne.</font>
+
+184
+00:06:35,000 --> 00:06:37,840
 <font face="Impress BT Pace" size="82">It symbolizes equality
 between the nations' leaders.</font>
 
-159
-00:06:53,430 --> 00:06:56,970
+185
+00:06:37,840 --> 00:06:41,380
 <font face="Impress BT Pace" size="82">The oath affirms that no ruler
 will seek dominion over the rest.</font>
 
-160
-00:06:56,970 --> 00:07:00,390
+186
+00:06:41,380 --> 00:06:44,800
 <font face="Impress BT Pace" size="82">The 20 weapons that
 stand sentinel over the throne</font>
 
-161
-00:07:00,390 --> 00:07:07,570
+187
+00:06:44,800 --> 00:06:51,970
 <font face="Impress BT Pace" size="82">were placed there 800 years ago to represent
 the oaths of the First Twenty, the world's creators.</font>
 
-162
-00:07:07,570 --> 00:07:11,110
+188
+00:06:51,970 --> 00:06:55,520
 <font face="Impress BT Pace" size="82">It is located at the very center of the world.</font>
 
-163
-00:07:11,110 --> 00:07:14,660
+189
+00:06:55,520 --> 00:06:59,070
 <font face="Impress BT Pace" size="82">Its vacancy is evidence of peace.</font>
 
-164
-00:07:14,660 --> 00:07:18,660
+190
+00:06:59,070 --> 00:07:03,070
 <font face="Impress BT Pace" size="82">The greatest authority in the world
 remains with the Five Elders,</font>
 
-165
-00:07:18,660 --> 00:07:23,210
+191
+00:07:03,070 --> 00:07:07,620
 <font face="Impress BT Pace" size="82">the highest-ranking Celestial Dragons.</font>
 
-166
-00:07:23,210 --> 00:07:27,710
+192
+00:07:07,620 --> 00:07:12,120
 <font face="Impress BT Pace" size="82">There is no one ruler of the world.</font>
 
-167
-00:07:32,430 --> 00:07:35,850
+193
+00:07:16,830 --> 00:07:20,250
 <font face="Impress BT Pace" size="82">Now, swear your oath, King Sterry.</font>
 
-168
-00:07:36,260 --> 00:07:40,810
+194
+00:07:20,670 --> 00:07:25,220
 <font face="Impress BT Pace" size="82">If I sit there, I'll be king of the world!</font>
 
-169
-00:07:40,810 --> 00:07:42,560
+195
+00:07:25,220 --> 00:07:26,970
 <font face="Impress BT Pace" size="82">King Sterry?</font>
 
-170
-00:07:43,350 --> 00:07:47,320
+196
+00:07:27,760 --> 00:07:31,720
 <font face="Impress BT Pace" size="82">I wanna sit there!</font>
 
-171
-00:07:47,450 --> 00:07:49,820
-<font face="Roboto" size="56"><font color="#000000">Unity Courtyard
-Pangaea Castle</font></font>
+197
+00:07:31,850 --> 00:07:34,230
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#050401">Unity Courtyard
+Pangaea Castle</font></font></font>
 
-172
-00:07:47,450 --> 00:07:49,820
-<font face="Roboto" size="56">Unity Courtyard
-Pangaea Castle</font>
+198
+00:07:31,850 --> 00:07:34,230
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#fafafa">Unity Courtyard
+Pangaea Castle</font></font></font>
 
-173
-00:07:51,150 --> 00:07:53,490
+199
+00:07:35,560 --> 00:07:37,900
 <font face="Impress BT Pace" size="82">Come on!</font>
 
-174
-00:07:53,490 --> 00:07:54,490
+200
+00:07:37,900 --> 00:07:38,900
 <font face="Impress BT Pace" size="82">What are you...?!</font>
 
-175
-00:07:56,030 --> 00:07:57,950
+201
+00:07:40,440 --> 00:07:42,360
 <font face="Impress BT Pace" size="82">Please stop!</font>
 
-176
-00:08:00,200 --> 00:08:01,960
+202
+00:07:44,610 --> 00:07:46,360
 <font face="Impress BT Pace" size="82">I caught one!</font>
 
-177
-00:08:00,830 --> 00:08:04,830
-<font face="Roboto" size="56"><font size="60"><font color="#000000">Saint Charlos
+203
+00:07:45,240 --> 00:07:49,240
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#050401">Saint Charlos
 World Noble (Celestial Dragon)</font></font></font>
 
-178
-00:08:00,830 --> 00:08:04,830
-<font face="Roboto" size="56"><font size="60">Saint Charlos
-World Noble (Celestial Dragon)</font></font>
+204
+00:07:45,240 --> 00:07:49,240
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#fafafa">Saint Charlos
+World Noble (Celestial Dragon)</font></font></font>
 
-179
-00:08:01,960 --> 00:08:04,830
+205
+00:07:46,360 --> 00:07:49,240
 <font face="Impress BT Pace" size="82">I caught a giant mermaid!</font>
 
-180
-00:08:04,830 --> 00:08:06,710
+206
+00:07:49,240 --> 00:07:51,120
 <font face="Impress BT Pace" size="82">Shirahoshi!</font>
 
-181
-00:08:10,760 --> 00:08:12,220
+207
+00:07:55,160 --> 00:07:56,620
 <font face="Impress BT Pace" size="82">Father...</font>
 
-182
-00:08:12,220 --> 00:08:16,640
+208
+00:07:56,620 --> 00:08:01,040
 <font face="Impress BT Pace" size="82">Do you expect us to overlook
 such disrespect, Father?!</font>
 
-183
-00:08:19,640 --> 00:08:22,060
+209
+00:08:04,050 --> 00:08:06,470
 <font face="Impress BT Pace" size="82">Come on! Calm down!</font>
 
-184
-00:08:22,060 --> 00:08:25,520
-<font face="Impress BT Pace" size="82">What are you doing?! Please stop!</font>
-
-185
-00:08:25,520 --> 00:08:27,900
-<font face="Impress BT Pace" size="82">That's right! Chain her up!</font>
-
-186
-00:08:30,190 --> 00:08:31,190
-<font face="Impress BT Pace" size="82">Shirahoshi!</font>
-
-187
-00:08:31,190 --> 00:08:34,360
-<font face="Impress BT Pace" size="82">Hold it! What are you doing,
-Princess of Arabasta?!</font>
-
-188
-00:08:34,360 --> 00:08:35,780
-<font face="Impress BT Pace" size="82">Shirahoshi!</font>
-
-189
-00:08:35,780 --> 00:08:39,120
-<font face="Impress BT Pace" size="82">Stop, Rebecca! He's a Celestial Dragon!</font>
-
-190
-00:08:39,120 --> 00:08:41,330
-<font face="Impress BT Pace" size="82">So what?! Let go of me!</font>
-
-191
-00:08:41,330 --> 00:08:46,330
-<font face="Impress BT Pace" size="82">They lack perspective! If you
-anger them, they'll destroy Dressrosa!</font>
-
-192
-00:08:54,630 --> 00:08:55,890
-<font face="Impress BT Pace" size="82">That bastard...!</font>
-
-193
-00:08:55,890 --> 00:08:57,220
-<font face="Impress BT Pace" size="82">Don't do it, Leo!</font>
-
-194
-00:08:57,220 --> 00:08:59,180
-<font face="Impress BT Pace" size="82">Shirahoshi...</font>
-
-195
-00:09:08,360 --> 00:09:11,650
-<font face="Impress BT Pace" size="82">Whoa, come on!</font>
-
-196
-00:09:11,650 --> 00:09:13,740
-<font face="Impress BT Pace" size="82">No one interfere!</font>
-
-197
-00:09:15,450 --> 00:09:17,240
-<font face="Impress BT Pace" size="82">Come on!</font>
-
-198
-00:09:24,620 --> 00:09:27,290
-<font face="Impress BT Pace" size="82">Capture it, Slave #3!</font>
-
-199
-00:09:27,290 --> 00:09:30,840
-<font face="Impress BT Pace" size="82">I'll make it my pet!</font>
-
-200
-00:09:33,420 --> 00:09:38,470
-<font face="Impress BT Pace" size="82">No standing around! He's gonna pay
-for doing this to our boss' friend!</font>
-
-201
-00:09:40,470 --> 00:09:41,600
-<font face="Impress BT Pace" size="82">Leo!</font>
-
-202
-00:09:43,270 --> 00:09:45,480
-<font face="Impress BT Pace" size="82">Damn! There's no other way!</font>
-
-203
-00:09:45,480 --> 00:09:48,230
-<font face="Impress BT Pace" size="82">I'm coming for you, Mermaid Princess!</font>
-
-204
-00:09:48,230 --> 00:09:50,360
-<font face="Impress BT Pace" size="82">Don't do it, Kanese soldier!</font>
-
-205
-00:09:50,360 --> 00:09:51,400
-<font face="Impress BT Pace" size="82">Somebody, stop him!</font>
-
-206
-00:09:55,690 --> 00:09:57,610
-<font face="Impress BT Pace" size="82">Let me go!</font>
-
-207
-00:10:00,910 --> 00:10:01,870
-<font face="Impress BT Pace" size="82">Leo!</font>
-
-208
-00:10:01,870 --> 00:10:03,910
-<font face="Impress BT Pace" size="82">Who are you bastards?!</font>
-
-209
-00:10:05,410 --> 00:10:09,290
-<font face="Roboto" size="56"><font color="#000000">Rob Lucci</font></font>
-
 210
-00:10:05,410 --> 00:10:09,290
-<font face="Roboto" size="56">Rob Lucci</font>
+00:08:06,470 --> 00:08:08,470
+<font face="Impress BT Pace" size="82">What are you doing?!</font>
 
 211
-00:10:05,410 --> 00:10:09,290
-<font face="Roboto" size="56"><font color="#000000">Cipher Pol Aigis 0</font></font>
+00:08:08,470 --> 00:08:09,840
+<font face="Impress BT Pace" size="82">Please stop!</font>
 
 212
-00:10:05,410 --> 00:10:09,290
-<font face="Roboto" size="56">Cipher Pol Aigis 0</font>
+00:08:09,840 --> 00:08:10,890
+<font face="Impress BT Pace" size="82">That's right!</font>
 
 213
-00:10:05,870 --> 00:10:09,290
-<font face="Impress BT Pace" size="82">You should be thanking me.</font>
+00:08:10,890 --> 00:08:12,300
+<font face="Impress BT Pace" size="82">Chain her up!</font>
 
 214
-00:10:09,290 --> 00:10:11,630
-<font face="Impress BT Pace" size="82">Cipher Pol 0...</font>
+00:08:14,600 --> 00:08:15,560
+<font face="Impress BT Pace" size="82">Shirahoshi!</font>
 
 215
-00:10:12,550 --> 00:10:14,670
-<font face="Impress BT Pace" size="82">Yes indeedy.</font>
+00:08:15,560 --> 00:08:18,770
+<font face="Impress BT Pace" size="82">Hold it! What are you doing,
+Princess of Alabasta?!</font>
 
 216
-00:10:14,670 --> 00:10:16,920
-<font face="Impress BT Pace" size="82">Stopping you just spared several countries.</font>
+00:08:18,770 --> 00:08:20,190
+<font face="Impress BT Pace" size="82">Shirahoshi!</font>
 
 217
-00:10:14,710 --> 00:10:19,260
-<font face="Roboto" size="56"><font color="#000000">Kaku</font></font>
+00:08:20,190 --> 00:08:21,480
+<font face="Impress BT Pace" size="82">Stop, Rebecca!</font>
 
 218
-00:10:14,710 --> 00:10:19,260
-<font face="Roboto" size="56">Kaku</font>
+00:08:21,480 --> 00:08:23,360
+<font face="Impress BT Pace" size="82">He's a Celestial Dragon!</font>
 
 219
-00:10:16,920 --> 00:10:19,390
-<font face="Impress BT Pace" size="82">Don't ruffle the feathers of Celestial Dragons.</font>
+00:08:23,360 --> 00:08:25,610
+<font face="Impress BT Pace" size="82">So what?! Let go of me!</font>
 
 220
-00:10:19,390 --> 00:10:21,100
-<font face="Impress BT Pace" size="82">Even young'uns know that.</font>
+00:08:25,610 --> 00:08:27,610
+<font face="Impress BT Pace" size="82">They lack perspective!</font>
 
 221
-00:10:21,180 --> 00:10:24,560
-<font face="Roboto" size="56"><font color="#000000">Stussy</font></font>
+00:08:27,610 --> 00:08:30,740
+<font face="Impress BT Pace" size="82">If you anger them, they'll destroy Dressrosa!</font>
 
 222
-00:10:21,180 --> 00:10:24,560
-<font face="Roboto" size="56">Stussy</font>
+00:08:39,040 --> 00:08:40,290
+<font face="Impress BT Pace" size="82">That bastard...!</font>
 
 223
-00:10:25,520 --> 00:10:30,060
+00:08:40,290 --> 00:08:41,630
+<font face="Impress BT Pace" size="82">Don't do it, Leo!</font>
+
+224
+00:08:41,630 --> 00:08:43,590
+<font face="Impress BT Pace" size="82">Shirahoshi...</font>
+
+225
+00:08:52,760 --> 00:08:56,060
+<font face="Impress BT Pace" size="82">Whoa, come on!</font>
+
+226
+00:08:56,060 --> 00:08:58,140
+<font face="Impress BT Pace" size="82">No one interfere!</font>
+
+227
+00:08:59,850 --> 00:09:01,650
+<font face="Impress BT Pace" size="82">Come on!</font>
+
+228
+00:09:09,030 --> 00:09:11,700
+<font face="Impress BT Pace" size="82">Capture it, Slave #3!</font>
+
+229
+00:09:11,700 --> 00:09:15,240
+<font face="Impress BT Pace" size="82">I'll make it my pet!</font>
+
+230
+00:09:17,830 --> 00:09:20,370
+<font face="Impress BT Pace" size="82">No standing around!</font>
+
+231
+00:09:20,370 --> 00:09:22,880
+<font face="Impress BT Pace" size="82">He's gonna pay for doing
+this to our boss' friend!</font>
+
+232
+00:09:24,880 --> 00:09:26,000
+<font face="Impress BT Pace" size="82">Leo!</font>
+
+233
+00:09:27,670 --> 00:09:28,590
+<font face="Impress BT Pace" size="82">Damn!</font>
+
+234
+00:09:28,590 --> 00:09:29,880
+<font face="Impress BT Pace" size="82">There's no other way!</font>
+
+235
+00:09:29,880 --> 00:09:32,640
+<font face="Impress BT Pace" size="82">I'm coming for you, Mermaid Princess!</font>
+
+236
+00:09:32,640 --> 00:09:34,760
+<font face="Impress BT Pace" size="82">Don't do it, Kanese soldier!</font>
+
+237
+00:09:34,760 --> 00:09:35,810
+<font face="Impress BT Pace" size="82">Somebody, stop him!</font>
+
+238
+00:09:40,100 --> 00:09:42,020
+<font face="Impress BT Pace" size="82">Let me go!</font>
+
+239
+00:09:45,310 --> 00:09:46,270
+<font face="Impress BT Pace" size="82">Leo!</font>
+
+240
+00:09:46,270 --> 00:09:48,320
+<font face="Impress BT Pace" size="82">Who are you bastards?!</font>
+
+241
+00:09:49,820 --> 00:09:53,700
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#050401">Rob Lucci
+Cipher Pol 0</font></font></font>
+
+242
+00:09:49,820 --> 00:09:53,700
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#fafafa">Rob Lucci
+Cipher Pol 0</font></font></font>
+
+243
+00:09:50,280 --> 00:09:52,700
+<font face="Impress BT Pace" size="82">You should be thanking me.</font>
+
+244
+00:09:53,700 --> 00:09:56,030
+<font face="Impress BT Pace" size="82">Cipher Pol 0...</font>
+
+245
+00:09:56,950 --> 00:09:59,080
+<font face="Impress BT Pace" size="82">Yes indeedy.</font>
+
+246
+00:09:59,080 --> 00:10:01,330
+<font face="Impress BT Pace" size="82">Stopping you just spared several countries.</font>
+
+247
+00:09:59,120 --> 00:10:03,620
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#040404">Kaku</font></font></font>
+
+248
+00:09:59,120 --> 00:10:03,620
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#fefefd">Kaku</font></font></font>
+
+249
+00:10:01,330 --> 00:10:03,790
+<font face="Impress BT Pace" size="82">Don't ruffle the feathers of Celestial Dragons.</font>
+
+250
+00:10:03,790 --> 00:10:05,500
+<font face="Impress BT Pace" size="82">Even young'uns know that.</font>
+
+251
+00:10:05,580 --> 00:10:08,960
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#040404">Stussy</font></font></font>
+
+252
+00:10:05,580 --> 00:10:08,960
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#fefefd">Stussy</font></font></font>
+
+253
+00:10:09,920 --> 00:10:14,470
 <font face="Impress BT Pace" size="82"><i>Cipher Pol is a secret organization under
 the direct control of the World Government.</i></font>
 
-224
-00:10:30,060 --> 00:10:36,530
+254
+00:10:14,470 --> 00:10:20,930
 <font face="Impress BT Pace" size="82"><i>Aigis 0 is the top unit in the agency,
 boasting the most powerful agents.</i></font>
 
-225
-00:10:41,990 --> 00:10:42,450
+255
+00:10:26,400 --> 00:10:26,860
 <font face="Impress BT Pace" size="82">Sai!</font>
 
-226
-00:10:45,290 --> 00:10:49,290
+256
+00:10:29,690 --> 00:10:33,700
 <font face="Impress BT Pace" size="82">The Celestial Dragons are the gods
 who created this world.</font>
 
-227
-00:10:49,290 --> 00:10:52,710
+257
+00:10:33,700 --> 00:10:37,120
 <font face="Impress BT Pace" size="82">And though you are royalty,
 you merely rule the lower realm.</font>
 
-228
-00:10:52,710 --> 00:10:56,760
+258
+00:10:37,120 --> 00:10:41,160
 <font face="Impress BT Pace" size="82">It's only natural for gods
 to get whatever they want.</font>
 
-229
-00:10:56,760 --> 00:10:59,180
+259
+00:10:41,160 --> 00:10:43,580
 <font face="Impress BT Pace" size="82">He's right, you nincompoops!</font>
 
-230
-00:10:59,180 --> 00:11:02,010
+260
+00:10:43,580 --> 00:10:46,420
 <font face="Impress BT Pace" size="82">Where's the logic in that?!</font>
 
-231
-00:11:02,010 --> 00:11:04,560
+261
+00:10:46,420 --> 00:10:48,960
 <font face="Impress BT Pace" size="82">Why would a god need logic?</font>
 
-232
-00:11:05,010 --> 00:11:06,720
+262
+00:10:49,420 --> 00:10:51,130
 <font face="Impress BT Pace" size="82">Lady Vivi...</font>
 
-233
-00:11:10,770 --> 00:11:12,310
+263
+00:10:55,180 --> 00:10:56,720
 <font face="Impress BT Pace" size="82">Otohime...</font>
 
-234
-00:11:12,310 --> 00:11:16,360
+264
+00:10:56,720 --> 00:11:00,760
 <font face="Impress BT Pace" size="82">your dream was to live
 side-by-side with humans</font>
 
-235
-00:11:16,360 --> 00:11:18,440
+265
+00:11:00,760 --> 00:11:02,850
 <font face="Impress BT Pace" size="82">in a world of sunlight!</font>
 
-236
-00:11:19,780 --> 00:11:22,320
+266
+00:11:04,190 --> 00:11:06,730
 <font face="Impress BT Pace" size="82">Give me back Shirahoshi! She's my friend!</font>
 
-237
-00:11:29,750 --> 00:11:32,170
-<font face="Impress BT Pace" size="82">Wait, Princess of Arabasta!</font>
+267
+00:11:14,150 --> 00:11:16,570
+<font face="Impress BT Pace" size="82">Wait, Princess of Alabasta!</font>
 
-238
-00:11:32,170 --> 00:11:33,790
+268
+00:11:16,570 --> 00:11:18,200
 <font face="Impress BT Pace" size="82">King Neptune!</font>
 
-239
-00:11:33,790 --> 00:11:37,880
-<font face="Impress BT Pace" size="82">Thank you! I'll never forget your kindness!</font>
+269
+00:11:18,200 --> 00:11:19,830
+<font face="Impress BT Pace" size="82">Thank you!</font>
 
-240
-00:11:37,880 --> 00:11:41,970
+270
+00:11:19,830 --> 00:11:22,290
+<font face="Impress BT Pace" size="82">I'll never forget your kindness!</font>
+
+271
+00:11:22,290 --> 00:11:26,370
 <font face="Impress BT Pace" size="82">But I'm afraid I must
 let go of our dreams-<i>jamon</i>!</font>
 
-241
-00:11:41,970 --> 00:11:43,090
+272
+00:11:26,370 --> 00:11:27,500
 <font face="Impress BT Pace" size="82">What?!</font>
 
-242
-00:11:47,180 --> 00:11:51,230
+273
+00:11:31,590 --> 00:11:35,630
 <font face="Impress BT Pace" size="82">I'll crush them, and we'll return
 to our seafloor home-<i>jamon</i>!</font>
 
-243
-00:11:54,230 --> 00:11:56,860
-<font face="Impress BT Pace" size="82">No! Don't hit him!</font>
+274
+00:11:38,640 --> 00:11:39,600
+<font face="Impress BT Pace" size="82">No!</font>
 
-244
-00:11:56,860 --> 00:12:00,990
+275
+00:11:39,600 --> 00:11:41,260
+<font face="Impress BT Pace" size="82">Don't hit him!</font>
+
+276
+00:11:41,260 --> 00:11:45,390
 <font face="Impress BT Pace" size="82">If this is what happens on the surface,
 I can never bring my people here!</font>
 
-245
-00:12:00,990 --> 00:12:03,280
+277
+00:11:45,390 --> 00:11:47,690
 <font face="Impress BT Pace" size="82">No! This isn't how it is!</font>
 
-246
-00:12:03,700 --> 00:12:06,370
+278
+00:11:48,100 --> 00:11:50,770
 <font face="Impress BT Pace" size="82">King Neptune! This is not humanity!</font>
 
-247
-00:12:09,700 --> 00:12:12,790
+279
+00:11:54,110 --> 00:11:57,200
 <font face="Impress BT Pace" size="82">I'm sorry, Otohime...!</font>
 
-248
-00:12:14,580 --> 00:12:17,460
+280
+00:11:58,990 --> 00:12:01,870
 <font face="Impress BT Pace" size="82"><i>Let's face them together!</i></font>
 
-249
-00:12:17,460 --> 00:12:25,720
+281
+00:12:01,870 --> 00:12:10,130
 <font face="Impress BT Pace" size="82"><i>Then maybe we can make a difference
-for the future of the children on this island,</i></font>
+for the future of the children on this island...</i></font>
 
-250
-00:12:27,050 --> 00:12:29,310
+282
+00:12:11,460 --> 00:12:13,670
 <font face="Impress BT Pace" size="82"><i>even just a small one!</i></font>
 
-251
-00:12:30,680 --> 00:12:36,190
+283
+00:12:15,090 --> 00:12:20,590
 <font face="Impress BT Pace" size="82">Even if we gave them our love,
 we can't change human nature!</font>
 
-252
-00:12:36,190 --> 00:12:39,780
-<font face="Impress BT Pace" size="82">I have to save Shirahoshi... Forgive me!</font>
+284
+00:12:20,590 --> 00:12:23,060
+<font face="Impress BT Pace" size="82">I have to save Shirahoshi...</font>
 
-253
-00:12:39,780 --> 00:12:43,360
-<font face="Impress BT Pace" size="82">How dare you defy me? Kill him, Cipher Pol 0!</font>
+285
+00:12:23,060 --> 00:12:24,180
+<font face="Impress BT Pace" size="82">Forgive me!</font>
 
-254
-00:12:43,360 --> 00:12:43,900
+286
+00:12:24,180 --> 00:12:25,430
+<font face="Impress BT Pace" size="82">How dare you defy me?</font>
+
+287
+00:12:25,430 --> 00:12:27,770
+<font face="Impress BT Pace" size="82">Kill him, Cipher Pol 0!</font>
+
+288
+00:12:27,770 --> 00:12:28,310
 <font face="Impress BT Pace" size="82">Roger.</font>
 
-255
-00:12:43,900 --> 00:12:45,410
+289
+00:12:28,310 --> 00:12:29,810
 <font face="Impress BT Pace" size="82">Out of my way!</font>
 
-256
-00:12:45,410 --> 00:12:48,450
-<font face="Impress BT Pace" size="82">Stop it, Great Knight Neptune!
-Don't be a fool!</font>
+290
+00:12:29,810 --> 00:12:31,940
+<font face="Impress BT Pace" size="82">Stop it, Great Knight Neptune!</font>
 
-257
-00:12:50,330 --> 00:12:54,080
-<font face="Impress BT Pace" size="82">Father, no! We can't give in to hatred!</font>
+291
+00:12:31,940 --> 00:12:32,860
+<font face="Impress BT Pace" size="82">Don't be a fool!</font>
 
-258
-00:13:04,760 --> 00:13:06,720
+292
+00:12:34,730 --> 00:12:36,900
+<font face="Impress BT Pace" size="82">Father, no!</font>
+
+293
+00:12:36,900 --> 00:12:38,490
+<font face="Impress BT Pace" size="82">We can't give in to hatred!</font>
+
+294
+00:12:49,160 --> 00:12:50,580
 <font face="Impress BT Pace" size="82">Ugh...</font>
 
-259
-00:13:09,140 --> 00:13:12,270
+295
+00:12:53,540 --> 00:12:56,670
 <font face="Impress BT Pace" size="82">Who hit the Celestial Dragon?!</font>
 
-260
-00:13:12,270 --> 00:13:16,230
+296
+00:12:56,670 --> 00:13:00,630
 <font face="Impress BT Pace" size="82">I-I have nothing to do with these hippos!</font>
 
-261
-00:13:20,730 --> 00:13:22,320
+297
+00:13:05,140 --> 00:13:06,720
 <font face="Impress BT Pace" size="82">I'm so sorry!</font>
 
-262
-00:13:22,320 --> 00:13:24,860
+298
+00:13:06,720 --> 00:13:09,270
 <font face="Impress BT Pace" size="82">As a fellow Celestial Dragon, I am ashamed!</font>
 
-263
-00:13:26,070 --> 00:13:27,910
+299
+00:13:10,480 --> 00:13:12,310
 <font face="Impress BT Pace" size="82">Please forgive us!</font>
 
-264
-00:13:29,370 --> 00:13:31,290
+300
+00:13:13,770 --> 00:13:15,690
 <font face="Impress BT Pace" size="82">Is he a Celestial Dragon?!</font>
 
-265
-00:13:31,290 --> 00:13:34,540
+301
+00:13:15,690 --> 00:13:18,940
 <font face="Impress BT Pace" size="82">Let go of the princess, you idiot!</font>
 
-266
-00:13:36,670 --> 00:13:38,500
+302
+00:13:21,070 --> 00:13:23,320
 <font face="Impress BT Pace" size="82">My apologies, everyone!</font>
 
-267
-00:13:38,500 --> 00:13:41,880
+303
+00:13:23,320 --> 00:13:26,290
 <font face="Impress BT Pace" size="82">This fool brought panic to
 a place meant for socializing!</font>
 
-268
-00:13:44,050 --> 00:13:47,800
+304
+00:13:28,450 --> 00:13:32,210
 <font face="Impress BT Pace" size="82">I assume you don't remember me, Neptune.</font>
 
-269
-00:13:48,470 --> 00:13:54,560
+305
+00:13:32,880 --> 00:13:38,960
 <font face="Impress BT Pace" size="82">But I am indebted to the Ryugu Kingdom
 and have patiently awaited this day.</font>
 
-270
-00:13:54,560 --> 00:13:57,480
+306
+00:13:38,960 --> 00:13:41,880
 <font face="Impress BT Pace" size="82">The day you would arrive here!</font>
 
-271
-00:13:58,400 --> 00:14:00,150
+307
+00:13:42,800 --> 00:13:44,550
 <font face="Impress BT Pace" size="82">That means... you're...</font>
 
-272
-00:14:03,070 --> 00:14:10,030
+308
+00:13:47,470 --> 00:13:54,440
 <font face="Impress BT Pace" size="82">I'm the foolish Celestial Dragon who drifted
 down to the Ryugu Kingdom a decade ago.</font>
 
-273
-00:14:10,660 --> 00:14:14,160
+309
+00:13:55,060 --> 00:13:58,940
 <font face="Impress BT Pace" size="82"><i>Hurry up and save me, you imbeciles!</i></font>
 
-274
-00:14:17,250 --> 00:14:19,380
-<font face="Impress BT Pace" size="82"><i>– Kill him!
-– Make him suffer!</i></font>
-
-275
-00:14:19,380 --> 00:14:20,920
-<font face="Impress BT Pace" size="82"><i>Show him no mercy!</i></font>
-
-276
-00:14:20,920 --> 00:14:22,130
-<font face="Impress BT Pace" size="82"><i>Don't do it!</i></font>
-
-277
-00:14:22,130 --> 00:14:24,050
-<font face="Impress BT Pace" size="82"><i><font color="#000000">You stupid fish!</font></i></font>
-
-278
-00:14:37,060 --> 00:14:39,440
-<font face="Impress BT Pace" size="82"><i>– Queen Otohime!
-– Queen Otohime!</i></font>
-
-279
-00:14:39,440 --> 00:14:41,610
-<font face="Impress BT Pace" size="82"><i>The queen's been shot!</i></font>
-
-280
-00:14:52,410 --> 00:14:53,950
-<font face="Impress BT Pace" size="82"><i>Queen Otohime...</i></font>
-
-281
-00:14:54,410 --> 00:14:55,470
-<font face="Impress BT Pace" size="82"><i>Everybody...</i></font>
-
-282
-00:14:56,710 --> 00:14:58,290
-<font face="Impress BT Pace" size="82"><i>drop your guns!</i></font>
-
-283
-00:15:00,750 --> 00:15:02,750
-<font face="Impress BT Pace" size="82"><i>Children are watching!</i></font>
-
-284
-00:15:09,550 --> 00:15:11,140
-<font face="Impress BT Pace" size="82"><i>Your Majesty...</i></font>
-
-285
-00:15:12,970 --> 00:15:14,890
-<font face="Impress BT Pace" size="82"><i>It's just a scratch.</i></font>
-
-286
-00:15:14,890 --> 00:15:16,390
-<font face="Impress BT Pace" size="82"><i>Why are you protecting him?</i></font>
-
-287
-00:15:16,390 --> 00:15:19,940
-<font face="Impress BT Pace" size="82"><i>Do you remember what he's
-done to us in the past?!</i></font>
-
-288
-00:15:19,940 --> 00:15:24,360
-<font face="Impress BT Pace" size="82"><i>I feel your anguish;
-I feel how hard it must be.</i></font>
-
-289
-00:15:24,980 --> 00:15:27,110
-<font face="Impress BT Pace" size="82"><i>I understand, but...</i></font>
-
-290
-00:15:27,110 --> 00:15:33,370
-<font face="Impress BT Pace" size="82"><i>we mustn't teach our resentment
-of humans to our children!</i></font>
-
-291
-00:15:35,330 --> 00:15:39,080
-<font face="Impress BT Pace" size="82"><i>They should get the chance to meet
-humans and decide for themselves.</i></font>
-
-292
-00:15:43,040 --> 00:15:50,800
-<font face="Roboto" size="56"><font color="#000000">Saint Donquixote Mjosgard
-World Noble (Celestial Dragon)</font></font>
-
-293
-00:15:43,040 --> 00:15:50,800
-<font face="Roboto" size="56">Saint Donquixote Mjosgard
-World Noble (Celestial Dragon)</font>
-
-294
-00:15:43,580 --> 00:15:48,170
-<font face="Impress BT Pace" size="82">The words of the late Queen Otohime gave me my humanity!</font>
-
-295
-00:15:48,170 --> 00:15:50,800
-<font face="Impress BT Pace" size="82">I would do anything to help your people!</font>
-
-296
-00:15:51,340 --> 00:15:56,350
-<font face="Impress BT Pace" size="82">King Neptune, it is an honor to see you again!</font>
-
-297
-00:15:56,350 --> 00:15:59,060
-<font face="Impress BT Pace" size="82">Cipher Pol! Leave this place!</font>
-
-298
-00:16:13,860 --> 00:16:17,240
-<font face="Roboto" size="56"><font size="60"><font color="#000000">The Holy Land
-Mary Geoise</font></font></font>
-
-299
-00:16:13,860 --> 00:16:17,240
-<font face="Roboto" size="56"><font size="60">The Holy Land
-Mary Geoise</font></font>
-
-300
-00:16:17,280 --> 00:16:20,790
-<font face="Roboto" size="56"><font color="#000000">Pangaea Castle</font></font>
-
-301
-00:16:17,280 --> 00:16:20,790
-<font face="Roboto" size="56">Pangaea Castle</font>
-
-302
-00:16:24,790 --> 00:16:28,800
-<font face="Roboto" size="56"><font color="#000000">The Room of Authority</font></font>
-
-303
-00:16:24,790 --> 00:16:28,800
-<font face="Roboto" size="56">The Room of Authority</font>
-
-304
-00:16:31,760 --> 00:16:35,640
-<font face="Roboto" size="56"><font color="#000000">The Five Elders
-Supreme Council of the World Government</font></font>
-
-305
-00:16:31,760 --> 00:16:35,640
-<font face="Roboto" size="56">The Five Elders
-Supreme Council of the World Government</font>
-
-306
-00:16:37,260 --> 00:16:41,310
-<font face="Impress BT Pace" size="82">What would compel you to come all this way?</font>
-
-307
-00:16:41,310 --> 00:16:43,140
-<font face="Impress BT Pace" size="82">The Reverie is at hand.</font>
-
-308
-00:16:43,140 --> 00:16:47,520
-<font face="Impress BT Pace" size="82">Your position normally precludes any political entanglement.</font>
-
-309
-00:16:48,020 --> 00:16:50,730
-<font face="Impress BT Pace" size="82">We only made time because it's you.</font>
-
 310
-00:16:50,730 --> 00:16:54,070
-<font face="Impress BT Pace" size="82">Yes... and I appreciate that.</font>
+00:13:59,530 --> 00:14:07,280
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#050401">Saint Donquixote Mjosgard
+World Noble (Celestial Dragon)</font></font></font>
 
 311
-00:16:54,070 --> 00:16:57,780
-<font face="Impress BT Pace" size="82">Let's hear it, then.
-Guards, would you excuse us?</font>
+00:13:59,530 --> 00:14:07,280
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#fafafa">Saint Donquixote Mjosgard
+World Noble (Celestial Dragon)</font></font></font>
 
 312
-00:16:57,780 --> 00:16:58,700
+00:14:00,070 --> 00:14:04,450
+<font face="Impress BT Pace" size="82">The words of the late Queen Otohime
+gave me my humanity!</font>
+
+313
+00:14:04,450 --> 00:14:07,280
+<font face="Impress BT Pace" size="82">I would do anything to help your people!</font>
+
+314
+00:14:07,830 --> 00:14:12,830
+<font face="Impress BT Pace" size="82">King Neptune, it is an honor to see you again!</font>
+
+315
+00:14:12,830 --> 00:14:15,540
+<font face="Impress BT Pace" size="82">Cipher Pol! Leave this place!</font>
+
+316
+00:14:25,300 --> 00:14:28,680
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#050401">The Holy Land
+Mary Geoise</font></font></font>
+
+317
+00:14:25,300 --> 00:14:28,680
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#fafafa">The Holy Land
+Mary Geoise</font></font></font>
+
+318
+00:14:28,760 --> 00:14:32,230
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#040404">Pangaea Castle</font></font></font>
+
+319
+00:14:28,760 --> 00:14:32,230
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#fefefd">Pangaea Castle</font></font></font>
+
+320
+00:14:36,230 --> 00:14:40,230
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#040404">The Room of Authority</font></font></font>
+
+321
+00:14:36,230 --> 00:14:40,230
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#fefefd">The Room of Authority</font></font></font>
+
+322
+00:14:43,200 --> 00:14:47,070
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#050401">The Five Elders
+Supreme Council of the World Government</font></font></font>
+
+323
+00:14:43,200 --> 00:14:47,070
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#fafafa">The Five Elders
+Supreme Council of the World Government</font></font></font>
+
+324
+00:14:48,700 --> 00:14:52,750
+<font face="Impress BT Pace" size="82">What would compel you to come all this way?</font>
+
+325
+00:14:52,750 --> 00:14:54,580
+<font face="Impress BT Pace" size="82">The Reverie is at hand.</font>
+
+326
+00:14:54,580 --> 00:14:58,960
+<font face="Impress BT Pace" size="82">Your position normally precludes any political entanglement.</font>
+
+327
+00:14:59,460 --> 00:15:02,170
+<font face="Impress BT Pace" size="82">We only made time because it's you.</font>
+
+328
+00:15:02,170 --> 00:15:05,510
+<font face="Impress BT Pace" size="82">Yes... and I appreciate that.</font>
+
+329
+00:15:05,510 --> 00:15:07,260
+<font face="Impress BT Pace" size="82">Let's hear it, then.</font>
+
+330
+00:15:07,260 --> 00:15:09,220
+<font face="Impress BT Pace" size="82">Guards, would you excuse us?</font>
+
+331
+00:15:09,220 --> 00:15:10,140
 <font face="Impress BT Pace" size="82">– Yes, sir!
 – Yes, sir!</font>
 
-313
-00:17:17,180 --> 00:17:20,180
+332
+00:15:28,620 --> 00:15:31,620
 <font face="Impress BT Pace" size="82">I need to talk to you about a certain pirate...</font>
 
-314
-00:17:22,930 --> 00:17:27,940
-<font face="Roboto" size="56"><font color="#000000">Unity Courtyard, Pangaea Castle</font></font>
+333
+00:15:34,330 --> 00:15:39,330
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#040404">Unity Courtyard, Pangaea Castle</font></font></font>
 
-315
-00:17:22,930 --> 00:17:27,940
-<font face="Roboto" size="56">Unity Courtyard, Pangaea Castle</font>
+334
+00:15:34,330 --> 00:15:39,330
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#fefefd">Unity Courtyard, Pangaea Castle</font></font></font>
 
-316
-00:17:27,940 --> 00:17:31,020
+335
+00:15:39,330 --> 00:15:42,420
 <font face="Impress BT Pace" size="82">The crowd's really thinned out...</font>
 
-317
-00:17:31,020 --> 00:17:33,740
+336
+00:15:42,420 --> 00:15:45,130
 <font face="Impress BT Pace" size="82">It's to be expected after a mess like that.</font>
 
-318
-00:17:33,740 --> 00:17:37,910
+337
+00:15:45,130 --> 00:15:49,300
 <font face="Impress BT Pace" size="82">No one wants to get involved in a scandal.</font>
 
-319
-00:17:43,120 --> 00:17:44,540
+338
+00:15:54,520 --> 00:15:55,930
 <font face="Impress BT Pace" size="82">Wow!</font>
 
-320
-00:17:44,540 --> 00:17:47,750
+339
+00:15:55,930 --> 00:15:59,150
 <font face="Impress BT Pace" size="82">How's that, Shirahoshi?</font>
 
-321
-00:17:48,630 --> 00:17:51,920
+340
+00:16:00,020 --> 00:16:03,320
 <font face="Impress BT Pace" size="82">The bruise is completely gone!</font>
 
-322
-00:17:51,920 --> 00:17:55,920
+341
+00:16:03,320 --> 00:16:07,320
 <font face="Impress BT Pace" size="82">Thank you very much, Lady Mansherry!</font>
 
-323
-00:17:55,920 --> 00:17:57,970
+342
+00:16:07,320 --> 00:16:09,360
 <font face="Impress BT Pace" size="82">What a wonderful ability!</font>
 
-324
-00:18:01,930 --> 00:18:07,850
+343
+00:16:13,330 --> 00:16:19,250
 <font face="Impress BT Pace" size="82">I think we have both the world's
 biggest and smallest princesses right here.</font>
 
-325
-00:18:08,270 --> 00:18:11,980
-<font face="Impress BT Pace" size="82">I admit you frightened me
-at first. I'm so sorry.</font>
+344
+00:16:19,670 --> 00:16:21,790
+<font face="Impress BT Pace" size="82">I admit you frightened me at first.</font>
 
-326
-00:18:11,980 --> 00:18:15,990
+345
+00:16:21,790 --> 00:16:23,380
+<font face="Impress BT Pace" size="82">I'm so sorry.</font>
+
+346
+00:16:23,750 --> 00:16:27,380
 <font face="Impress BT Pace" size="82">I'm not bothered in the least, Lady Mansherry!</font>
 
-327
-00:18:17,950 --> 00:18:22,080
+347
+00:16:29,340 --> 00:16:33,470
 <font face="Impress BT Pace" size="82">It seems all countries are comprised
 of both good and bad people.</font>
 
-328
-00:18:22,080 --> 00:18:25,790
+348
+00:16:33,470 --> 00:16:37,180
 <font face="Impress BT Pace" size="82">The fishmen are no exception-<i>jamon</i>!</font>
 
-329
-00:18:25,790 --> 00:18:30,540
+349
+00:16:37,180 --> 00:16:41,940
 <font face="Impress BT Pace" size="82">Thanks to you, I could keep
 my promise to Otohime.</font>
 
-330
-00:18:30,540 --> 00:18:33,880
+350
+00:16:41,940 --> 00:16:45,280
 <font face="Impress BT Pace" size="82">No need to thank me, Neptune!</font>
 
-331
-00:18:33,880 --> 00:18:37,090
+351
+00:16:45,280 --> 00:16:48,490
 <font face="Impress BT Pace" size="82">I want to return the favor
 for saving me ten years ago.</font>
 
-332
-00:18:37,090 --> 00:18:42,180
+352
+00:16:48,490 --> 00:16:53,580
 <font face="Impress BT Pace" size="82">For the next seven days of this conference, I'll look out for Princess Shirahoshi.</font>
 
-333
-00:18:42,180 --> 00:18:46,270
+353
+00:16:53,580 --> 00:16:57,660
 <font face="Impress BT Pace" size="82">If my status can help,
 I'll gladly make use of it!</font>
 
-334
-00:18:46,270 --> 00:18:50,150
+354
+00:16:57,660 --> 00:17:01,540
 <font face="Impress BT Pace" size="82">I've been told that I should keep
 my hands off of the Celestial Dragons,</font>
 
-335
-00:18:50,150 --> 00:18:54,480
+355
+00:17:01,540 --> 00:17:05,880
 <font face="Impress BT Pace" size="82">but if you gave the order,
 could I kick their butts?</font>
 
-336
-00:18:54,480 --> 00:18:58,610
-<font face="Impress BT Pace" size="82">Y-Yes! If it's necessary to protect
-the princess and her companions,</font>
+356
+00:17:05,880 --> 00:17:07,880
+<font face="Impress BT Pace" size="82">Y-Yes!</font>
 
-337
-00:18:58,610 --> 00:19:01,490
-<font face="Impress BT Pace" size="82">I'll take full responsibility!</font>
+357
+00:17:07,880 --> 00:17:12,890
+<font face="Impress BT Pace" size="82">If it's necessary to protect the princess
+and her companions, I'll take full responsibility!</font>
 
-338
-00:19:04,120 --> 00:19:08,710
+358
+00:17:15,760 --> 00:17:20,100
 <font face="Impress BT Pace" size="82">I can't believe an oddball like him exists.</font>
 
-339
-00:19:08,710 --> 00:19:10,830
+359
+00:17:20,100 --> 00:17:22,190
 <font face="Impress BT Pace" size="82">Princess Vivi!</font>
 
-340
-00:19:12,750 --> 00:19:17,380
-<font face="Impress BT Pace" size="82">Apologies, Your Highness.
-I heard there was trouble.</font>
+360
+00:17:24,400 --> 00:17:27,030
+<font face="Impress BT Pace" size="82">Apologies, Your Highness.</font>
 
-341
-00:19:17,380 --> 00:19:19,380
+361
+00:17:27,030 --> 00:17:28,780
+<font face="Impress BT Pace" size="82">I heard there was trouble.</font>
+
+362
+00:17:28,780 --> 00:17:31,030
 <font face="Impress BT Pace" size="82">I should've been at your side.</font>
 
-342
-00:19:19,380 --> 00:19:22,590
-<font face="Impress BT Pace" size="82">Rest easy, Pell. I'm all right.</font>
+363
+00:17:31,030 --> 00:17:32,280
+<font face="Impress BT Pace" size="82">Rest easy, Pell.</font>
 
-343
-00:19:22,590 --> 00:19:24,430
+364
+00:17:32,280 --> 00:17:33,990
+<font face="Impress BT Pace" size="82">I'm all right.</font>
+
+365
+00:17:33,990 --> 00:17:36,160
 <font face="Impress BT Pace" size="82">Anyway, how's Papa?</font>
 
-344
-00:19:24,430 --> 00:19:27,970
-<font face="Impress BT Pace" size="82">His Majesty Cobra is talking
-to the one who sent that letter,</font>
+366
+00:17:36,160 --> 00:17:41,420
+<font face="Impress BT Pace" size="82">His Majesty Cobra is talking to the one
+who sent that letter, Marine Admiral Fujitora.</font>
 
-345
-00:19:27,970 --> 00:19:29,890
-<font face="Impress BT Pace" size="82">Admiral Fujitora of the Marines.</font>
-
-346
-00:19:29,890 --> 00:19:33,270
+367
+00:17:41,420 --> 00:17:44,710
 <font face="Impress BT Pace" size="82">They're conversing with
 King Riku of Dressrosa.</font>
 
-347
-00:19:33,270 --> 00:19:34,690
+368
+00:17:44,710 --> 00:17:45,750
 <font face="Impress BT Pace" size="82">I see...</font>
 
-348
-00:19:37,070 --> 00:19:40,530
-<font face="Roboto" size="56"><font color="#000000">Pangaea Castle</font></font>
+369
+00:17:48,510 --> 00:17:51,970
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#040404">Pangaea Castle</font></font></font>
 
-349
-00:19:37,070 --> 00:19:40,530
-<font face="Roboto" size="56">Pangaea Castle</font>
+370
+00:17:48,510 --> 00:17:51,970
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#fefefd">Pangaea Castle</font></font></font>
 
-350
-00:19:37,650 --> 00:19:40,530
+371
+00:17:49,550 --> 00:17:51,970
 <font face="Impress BT Pace" size="82"><i>To get into Pangaea Castle,</i></font>
 
-351
-00:19:40,530 --> 00:19:45,280
+372
+00:17:52,340 --> 00:17:56,720
 <font face="Impress BT Pace" size="82"><i>there are three outer gates and then
 a main gate, all of which are guarded.</i></font>
 
-352
-00:19:47,660 --> 00:19:51,040
+373
+00:17:59,520 --> 00:18:02,520
 <font face="Impress BT Pace" size="82"><i>One of those gates is
 the Celestial Dragon Gate...</i></font>
 
-353
-00:19:51,040 --> 00:19:54,380
+374
+00:18:02,520 --> 00:18:06,060
 <font face="Impress BT Pace" size="82"><i>which leads to the Land of the Gods,
 home of the Celestial Dragons.</i></font>
 
-354
-00:20:03,180 --> 00:20:05,890
+375
+00:18:14,950 --> 00:18:16,120
 <font face="Impress BT Pace" size="82">Stop! Who goes there?!</font>
 
-355
-00:20:06,300 --> 00:20:10,310
-<font face="Roboto" size="56"><font color="#000000">Queen Dowager Conney
-Kingdom of Sorbet</font></font>
-
-356
-00:20:06,300 --> 00:20:10,310
-<font face="Roboto" size="56">Queen Dowager Conney
-Kingdom of Sorbet</font>
-
-357
-00:20:10,310 --> 00:20:13,200
-<font face="Impress BT Pace" size="82">Why, she's from the Kingdom of Sorbet...</font>
-
-358
-00:20:13,200 --> 00:20:14,900
-<font face="Impress BT Pace" size="82">Queen Dowager Conney!</font>
-
-359
-00:20:19,280 --> 00:20:22,700
-<font face="Impress BT Pace" size="82">The Land of the Gods is beyond this point.</font>
-
-360
-00:20:22,700 --> 00:20:26,620
-<font face="Impress BT Pace" size="82">You can't pass; it's dangerous to be here.
-Please return to the castle.</font>
-
-361
-00:20:26,620 --> 00:20:32,710
-<font face="Impress BT Pace" size="82">It hurts! It's unforgivable!
-Damn that Mjosgard!</font>
-
-362
-00:20:32,710 --> 00:20:35,460
-<font face="Impress BT Pace" size="82">Saint Charlos! Please be calm!</font>
-
-363
-00:20:35,460 --> 00:20:37,420
-<font face="Impress BT Pace" size="82">You'll aggravate your wounds!</font>
-
-364
-00:20:37,420 --> 00:20:41,300
-<font face="Impress BT Pace" size="82">He can't get away with this!</font>
-
-365
-00:20:41,300 --> 00:20:43,380
-<font face="Impress BT Pace" size="82">Open the gate!</font>
-
-366
-00:20:43,380 --> 00:20:46,340
-<font face="Impress BT Pace" size="82">What?! What's going on?!</font>
-
-367
-00:20:46,340 --> 00:20:48,720
-<font face="Impress BT Pace" size="82">Saint Charlos is injured!</font>
-
-368
-00:20:48,720 --> 00:20:51,140
-<font face="Impress BT Pace" size="82">He requires urgent care!</font>
-
-369
-00:20:51,140 --> 00:20:52,270
-<font face="Impress BT Pace" size="82">Right away!</font>
-
-370
-00:21:01,780 --> 00:21:04,650
-<font face="Impress BT Pace" size="82">Hurry up! He requires medical assistance!</font>
-
-371
-00:21:09,530 --> 00:21:14,000
-<font face="Impress BT Pace" size="82">Oh, Charlos! Are you okay?!</font>
-
-372
-00:21:10,200 --> 00:21:14,000
-<font face="Roboto" size="56"><font size="60"><font color="#000000">Saint Rosward
-World Noble (Celestial Dragon)</font></font></font>
-
-373
-00:21:10,200 --> 00:21:14,000
-<font face="Roboto" size="56"><font size="60">Saint Rosward
-World Noble (Celestial Dragon)</font></font>
-
-374
-00:21:14,000 --> 00:21:18,710
-<font face="Impress BT Pace" size="82">I heard what happened.
-I was on my way to pick you up!</font>
-
-375
-00:21:18,710 --> 00:21:20,460
-<font face="Impress BT Pace" size="82">Saint Rosward!</font>
-
 376
-00:21:20,460 --> 00:21:23,590
-<font face="Impress BT Pace" size="82">D-Daddy dearest!</font>
+00:18:16,120 --> 00:18:17,280
+<font face="Impress BT Pace" size="82">Stop! Who goes there?!</font>
 
 377
-00:21:25,630 --> 00:21:28,680
-<font face="Impress BT Pace" size="82">Oh, look at you!</font>
+00:18:17,700 --> 00:18:21,710
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#050401">Queen Dowager Conney
+Kingdom of Sorbet</font></font></font>
 
 378
-00:21:28,680 --> 00:21:31,220
-<font face="Impress BT Pace" size="82">My dearest sonny boy!</font>
+00:18:17,700 --> 00:18:21,710
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#fafafa">Queen Dowager Conney
+Kingdom of Sorbet</font></font></font>
 
 379
-00:21:36,350 --> 00:21:37,690
-<font face="Impress BT Pace" size="82">Huh?</font>
+00:18:21,710 --> 00:18:24,580
+<font face="Impress BT Pace" size="82">Why, she's from the Kingdom of Sorbet...</font>
 
 380
-00:21:37,690 --> 00:21:39,560
-<font face="Impress BT Pace" size="82">Where did the queen dowager go?</font>
+00:18:25,130 --> 00:18:26,840
+<font face="Impress BT Pace" size="82">Queen Dowager Conney!</font>
 
 381
-00:21:40,360 --> 00:21:44,400
-<font face="Impress BT Pace" size="82">Damn that Mjosgard!
-I'll make him pay for this!</font>
+00:18:30,670 --> 00:18:34,470
+<font face="Impress BT Pace" size="82">The Land of the Gods is beyond this point.</font>
 
 382
-00:21:44,400 --> 00:21:46,610
-<font face="Impress BT Pace" size="82">He's always been a strange man...</font>
+00:18:34,470 --> 00:18:36,470
+<font face="Impress BT Pace" size="82">You can't pass; it's dangerous to be here.</font>
 
 383
-00:21:46,610 --> 00:21:49,780
+00:18:36,470 --> 00:18:38,010
+<font face="Impress BT Pace" size="82">Please return to the castle.</font>
+
+384
+00:18:38,010 --> 00:18:40,520
+<font face="Impress BT Pace" size="82">It hurts!</font>
+
+385
+00:18:40,520 --> 00:18:42,520
+<font face="Impress BT Pace" size="82">It's unforgivable!</font>
+
+386
+00:18:42,520 --> 00:18:44,100
+<font face="Impress BT Pace" size="82">Damn that Mjosgard!</font>
+
+387
+00:18:44,100 --> 00:18:46,860
+<font face="Impress BT Pace" size="82">Saint Charlos! Please be calm!</font>
+
+388
+00:18:46,860 --> 00:18:48,820
+<font face="Impress BT Pace" size="82">You'll aggravate your wounds!</font>
+
+389
+00:18:48,820 --> 00:18:52,690
+<font face="Impress BT Pace" size="82">He can't get away with this!</font>
+
+390
+00:18:52,690 --> 00:18:54,780
+<font face="Impress BT Pace" size="82">Open the gate!</font>
+
+391
+00:18:54,780 --> 00:18:56,110
+<font face="Impress BT Pace" size="82">What?!</font>
+
+392
+00:18:56,110 --> 00:18:57,740
+<font face="Impress BT Pace" size="82">What's going on?!</font>
+
+393
+00:18:57,740 --> 00:19:00,120
+<font face="Impress BT Pace" size="82">Saint Charlos is injured!</font>
+
+394
+00:19:00,120 --> 00:19:02,540
+<font face="Impress BT Pace" size="82">He requires urgent care!</font>
+
+395
+00:19:02,540 --> 00:19:03,660
+<font face="Impress BT Pace" size="82">Right away!</font>
+
+396
+00:19:13,170 --> 00:19:16,050
+<font face="Impress BT Pace" size="82">Hurry up! He requires medical assistance!</font>
+
+397
+00:19:20,930 --> 00:19:23,520
+<font face="Impress BT Pace" size="82">Oh, Charlos!</font>
+
+398
+00:19:21,600 --> 00:19:25,390
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#050401">Saint Rosward
+World Noble (Celestial Dragon)</font></font></font>
+
+399
+00:19:21,600 --> 00:19:25,390
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#fafafa">Saint Rosward
+World Noble (Celestial Dragon)</font></font></font>
+
+400
+00:19:23,520 --> 00:19:25,390
+<font face="Impress BT Pace" size="82">Are you okay?!</font>
+
+401
+00:19:25,730 --> 00:19:27,350
+<font face="Impress BT Pace" size="82">I heard what happened.</font>
+
+402
+00:19:27,350 --> 00:19:30,110
+<font face="Impress BT Pace" size="82">I was on my way to pick you up!</font>
+
+403
+00:19:30,110 --> 00:19:31,860
+<font face="Impress BT Pace" size="82">Saint Rosward!</font>
+
+404
+00:19:31,860 --> 00:19:34,990
+<font face="Impress BT Pace" size="82">D-Daddy dearest!</font>
+
+405
+00:19:37,030 --> 00:19:40,080
+<font face="Impress BT Pace" size="82">Oh, look at you!</font>
+
+406
+00:19:40,080 --> 00:19:42,620
+<font face="Impress BT Pace" size="82">My dearest sonny boy!</font>
+
+407
+00:19:47,750 --> 00:19:49,080
+<font face="Impress BT Pace" size="82">Huh?</font>
+
+408
+00:19:49,080 --> 00:19:50,960
+<font face="Impress BT Pace" size="82">Where did the queen dowager go?</font>
+
+409
+00:19:51,750 --> 00:19:53,510
+<font face="Impress BT Pace" size="82">Damn that Mjosgard!</font>
+
+410
+00:19:53,510 --> 00:19:55,800
+<font face="Impress BT Pace" size="82">I'll make him pay for this!</font>
+
+411
+00:19:55,800 --> 00:19:58,010
+<font face="Impress BT Pace" size="82">He's always been a strange man...</font>
+
+412
+00:19:58,010 --> 00:20:01,180
 <font face="Impress BT Pace" size="82">A Celestial Dragon who
 doesn't own a single slave!</font>
 
-384
-00:21:49,780 --> 00:21:54,080
+413
+00:20:01,180 --> 00:20:05,480
 <font face="Impress BT Pace" size="82">Just like Homing who descended
 to the lower realm thirty years ago!</font>
 
-385
-00:21:54,080 --> 00:21:58,750
+414
+00:20:05,480 --> 00:20:10,150
 <font face="Impress BT Pace" size="82">The Donquixote family is full of lunatics!</font>
 
-386
-00:21:59,630 --> 00:22:03,090
+415
+00:20:11,480 --> 00:20:14,190
 <font face="Impress BT Pace" size="82">Daddy dearest, that's...</font>
 
-387
-00:22:03,090 --> 00:22:09,140
-<font face="Roboto" size="56"><font color="#000000">Warlord Bartholomew Kuma
-(Former Revolutionary Officer and Former King of Sorbet)</font></font>
+416
+00:20:14,480 --> 00:20:20,530
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#050401">Warlord Bartholomew Kuma
+(Former Revolutionary Officer)
+(Former King of Sorbet)</font></font></font>
 
-388
-00:22:03,090 --> 00:22:09,140
-<font face="Roboto" size="56">Warlord Bartholomew Kuma
-(Former Revolutionary Officer and Former King of Sorbet)</font>
+417
+00:20:14,480 --> 00:20:20,530
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#fafafa">Warlord Bartholomew Kuma
+(Former Revolutionary Officer)
+(Former King of Sorbet)</font></font></font>
 
-389
-00:22:05,300 --> 00:22:09,140
+418
+00:20:17,240 --> 00:20:20,530
 <font face="Impress BT Pace" size="82">the invincible slave, Kuma!</font>
 
-390
-00:22:09,140 --> 00:22:10,850
+419
+00:20:20,530 --> 00:20:22,240
 <font face="Impress BT Pace" size="82">That's right!</font>
 
-391
-00:22:10,850 --> 00:22:15,560
+420
+00:20:22,240 --> 00:20:26,710
 <font face="Impress BT Pace" size="82">My turn to rent him finally came!</font>
 
-392
-00:22:15,930 --> 00:22:20,280
-<font face="Impress BT Pace" size="82"><i>Bartholomew Kuma, known as “the Tyrant,”</i></font>
-
-393
-00:22:20,280 --> 00:22:23,280
-<font face="Impress BT Pace" size="82"><i>was once a universally feared pirate.</i></font>
-
-394
-00:22:23,280 --> 00:22:29,290
-<font face="Impress BT Pace" size="82"><i>Few have had as checkered a life as his.</i></font>
-
-395
-00:22:29,290 --> 00:22:31,620
-<font face="Impress BT Pace" size="82"><i>Kuma, one of the Seven Warlords,</i></font>
-
-396
-00:22:31,620 --> 00:22:36,540
-<font face="Impress BT Pace" size="82"><i>received a special assignment from the World
-Government to eliminate the Straw Hats.</i></font>
-
-397
-00:22:36,540 --> 00:22:40,510
-<font face="Impress BT Pace" size="82"><i>He suddenly emerged in front of
-Luffy and his crew on Thriller Bark,</i></font>
-
-398
-00:22:40,510 --> 00:22:42,630
-<font face="Impress BT Pace" size="82"><i>right after their hard-fought battle.</i></font>
-
-399
-00:22:53,720 --> 00:22:56,810
-<font face="Impress BT Pace" size="82"><i>Thirty-Six-Pound Phoenix!</i></font>
-
-400
-00:23:00,270 --> 00:23:03,110
-<font face="Impress BT Pace" size="82"><i>So that's your ability?</i></font>
-
-401
-00:23:03,110 --> 00:23:07,070
-<font face="Impress BT Pace" size="82"><i>I have the power to repel things.</i></font>
-
-402
-00:23:07,070 --> 00:23:11,740
-<font face="Impress BT Pace" size="82"><i>I ate the Paw-Paw Fruit
-and became a paw pad man.</i></font>
-
-403
-00:23:13,410 --> 00:23:18,330
-<font face="Impress BT Pace" size="82"><i>Are you truly willing to die for that man?</i></font>
-
-404
-00:23:18,330 --> 00:23:23,790
-<font face="Impress BT Pace" size="82"><i>Right now, it's the only way
-to save my crewmates!</i></font>
-
-405
-00:23:23,790 --> 00:23:27,840
-<font face="Impress BT Pace" size="82"><i>My dream means nothing
-if I can't protect my own captain.</i></font>
-
-406
-00:23:28,840 --> 00:23:31,720
-<font face="Impress BT Pace" size="82"><i>Luffy </i>will<i> be the King of the Pirates!</i></font>
-
-407
-00:23:39,100 --> 00:23:41,560
-<font face="Impress BT Pace" size="82"><i>He has good friends.</i></font>
-
-408
-00:23:42,940 --> 00:23:47,820
-<font face="Impress BT Pace" size="82"><i>I should have expected no less
-from your son, Dragon.</i></font>
-
-409
-00:23:47,820 --> 00:23:52,660
-<font face="Impress BT Pace" size="82"><i>Despite Kuma's status as a Warlord,
-he disobeyed the government's orders,</i></font>
-
-410
-00:23:52,660 --> 00:23:56,660
-<font face="Impress BT Pace" size="82"><i>and for some unknown reason,
-he spared the Straw Hats' lives.</i></font>
-
-411
-00:24:01,250 --> 00:24:03,120
+421
+00:20:28,290 --> 00:20:30,170
 <font face="Impress BT Pace" size="82">This is so exciting!</font>
 
-412
-00:24:03,120 --> 00:24:07,550
+422
+00:20:30,170 --> 00:20:34,590
 <font face="Impress BT Pace" size="82">Daddy dearest finally got to rent
 the invincible slave Kuma!</font>
 
-413
-00:24:07,550 --> 00:24:11,510
+423
+00:20:34,590 --> 00:20:38,010
 <font face="Impress BT Pace" size="82">It's convenient to have a Warlord as a slave!</font>
 
-414
-00:24:11,510 --> 00:24:13,390
+424
+00:20:39,050 --> 00:20:40,430
 <font face="Impress BT Pace" size="82">You can hit him!</font>
 
-415
-00:24:13,390 --> 00:24:16,050
+425
+00:20:40,430 --> 00:20:42,600
 <font face="Impress BT Pace" size="82">You could even stab him!</font>
 
-416
-00:24:18,770 --> 00:24:23,140
-<font face="Impress BT Pace" size="82">Yet he doesn't ever scream.
-He's a top-class slave!</font>
+426
+00:20:45,810 --> 00:20:47,230
+<font face="Impress BT Pace" size="82">Yet he doesn't ever scream.</font>
 
-417
-00:24:23,140 --> 00:24:28,360
-<font face="Impress BT Pace" size="82">Nice, Daddy Dearest! I want one too!</font>
+427
+00:20:47,230 --> 00:20:50,190
+<font face="Impress BT Pace" size="82">He's a top-class slave!</font>
 
-418
-00:24:28,360 --> 00:24:32,280
-<font face="Impress BT Pace" size="82">Ow, ow, ow... I'm gonna die!</font>
+428
+00:20:50,190 --> 00:20:53,400
+<font face="Impress BT Pace" size="82">Nice, Daddy Dearest!</font>
 
-419
-00:24:32,280 --> 00:24:34,950
+429
+00:20:53,400 --> 00:20:55,400
+<font face="Impress BT Pace" size="82">I want one too!</font>
+
+430
+00:20:55,400 --> 00:20:56,990
+<font face="Impress BT Pace" size="82">Ow, ow, ow...</font>
+
+431
+00:20:56,990 --> 00:20:59,320
+<font face="Impress BT Pace" size="82">I'm gonna die!</font>
+
+432
+00:20:59,320 --> 00:21:02,070
 <font face="Impress BT Pace" size="82">Please remain calm, Saint Charlos!</font>
 
-420
-00:24:34,950 --> 00:24:39,450
-<font face="Impress BT Pace" size="82">Ow, ow, ow... He did a number on me!</font>
+433
+00:21:02,070 --> 00:21:03,410
+<font face="Impress BT Pace" size="82">Ow, ow, ow...</font>
 
-421
-00:24:39,450 --> 00:24:42,960
+434
+00:21:03,410 --> 00:21:06,500
+<font face="Impress BT Pace" size="82">He did a number on me!</font>
+
+435
+00:21:06,500 --> 00:21:10,000
 <font face="Impress BT Pace" size="82">Oh, poor Charlos!</font>
 
-422
-00:24:42,960 --> 00:24:46,920
+436
+00:21:10,000 --> 00:21:13,960
 <font face="Impress BT Pace" size="82">Let's get the world's greatest
 doctor to look at you!</font>
 
-423
-00:24:51,050 --> 00:24:54,130
+437
+00:21:18,090 --> 00:21:21,180
 <font face="Impress BT Pace" size="82">I didn't expect I'd see him so soon!</font>
 
-424
-00:24:57,760 --> 00:25:05,020
-<font face="Roboto" size="56"><font size="60"><font color="#000000">Captain Jewelry Bonney
+438
+00:21:24,810 --> 00:21:32,060
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#050401">Captain Jewelry Bonney
 Bonney Pirates
 A Pirate of the Worst Generation</font></font></font>
 
-425
-00:24:57,760 --> 00:25:05,020
-<font face="Roboto" size="56"><font size="60">Captain Jewelry Bonney
-Bonney Pirates
-A Pirate of the Worst Generation</font></font>
-
-426
-00:25:02,980 --> 00:25:05,020
-<font face="Impress BT Pace" size="82">My infiltration was a success.</font>
-
-427
-00:25:09,480 --> 00:25:12,820
-<font face="Impress BT Pace" size="82">I'll never forgive them!</font>
-
-428
-00:25:16,160 --> 00:25:17,820
-<font face="Impress BT Pace" size="82">Not ever!</font>
-
-429
-00:25:22,410 --> 00:25:24,290
-<font face="Impress BT Pace" size="82">Damn!</font>
-
-430
-00:25:25,040 --> 00:25:28,170
-<font face="Impress BT Pace" size="82">Don't get in a tizzy, Sabo!</font>
-
-431
-00:25:25,250 --> 00:25:31,250
-<font face="Roboto" size="56"><font color="#000000">Beneath the Land of the Gods, Home of the Celestial Dragons</font></font>
-
-432
-00:25:25,250 --> 00:25:31,250
-<font face="Roboto" size="56">Beneath the Land of the Gods, Home of the Celestial Dragons</font>
-
-433
-00:25:28,170 --> 00:25:31,250
-<font face="Impress BT Pace" size="82">You boys can all be so scary!</font>
-
-434
-00:25:31,250 --> 00:25:33,630
-<font face="Impress BT Pace" size="82">I can't help but get mad!</font>
-
-435
-00:25:34,170 --> 00:25:37,220
-<font face="Impress BT Pace" size="82">Our comrade is going through hell!</font>
-
-436
-00:25:37,220 --> 00:25:39,600
-<font face="Impress BT Pace" size="82">Our gentle Kuma!</font>
-
-437
-00:25:42,640 --> 00:25:44,850
-<font face="Impress BT Pace" size="82">It's unthinkable...</font>
-
-438
-00:25:46,310 --> 00:25:47,940
-<font face="Impress BT Pace" size="82">Calm down.</font>
-
 439
-00:25:47,940 --> 00:25:51,570
-<font face="Impress BT Pace" size="82">We get it. We all feel the same way.</font>
+00:21:24,810 --> 00:21:32,060
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#fafafa">Captain Jewelry Bonney
+Bonney Pirates
+A Pirate of the Worst Generation</font></font></font>
 
 440
-00:25:51,570 --> 00:25:54,150
-<font face="Impress BT Pace" size="82">We won't leave Kuma to this fate!</font>
+00:21:30,020 --> 00:21:32,060
+<font face="Impress BT Pace" size="82">My infiltration was a success.</font>
 
 441
-00:25:54,150 --> 00:25:57,320
+00:21:36,530 --> 00:21:39,860
+<font face="Impress BT Pace" size="82">I'll never forgive them!</font>
+
+442
+00:21:43,200 --> 00:21:44,870
+<font face="Impress BT Pace" size="82">Not ever!</font>
+
+443
+00:21:49,450 --> 00:21:51,330
+<font face="Impress BT Pace" size="82">Damn!</font>
+
+444
+00:21:52,080 --> 00:21:54,840
+<font face="Impress BT Pace" size="82">Don't get in a tizzy, Sabo!</font>
+
+445
+00:21:52,290 --> 00:21:58,300
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#040404">Beneath the Land of the Gods, Home of the Celestial Dragons</font></font></font>
+
+446
+00:21:52,290 --> 00:21:58,300
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#fefefd">Beneath the Land of the Gods, Home of the Celestial Dragons</font></font></font>
+
+447
+00:21:54,840 --> 00:21:58,300
+<font face="Impress BT Pace" size="82">You boys can all be so scary!</font>
+
+448
+00:21:58,300 --> 00:22:00,670
+<font face="Impress BT Pace" size="82">I can't help but get mad!</font>
+
+449
+00:22:01,170 --> 00:22:04,260
+<font face="Impress BT Pace" size="82">Our comrade is going through hell!</font>
+
+450
+00:22:04,260 --> 00:22:06,640
+<font face="Impress BT Pace" size="82">Our gentle Kuma!</font>
+
+451
+00:22:09,680 --> 00:22:11,560
+<font face="Impress BT Pace" size="82">It's unthinkable...</font>
+
+452
+00:22:13,350 --> 00:22:14,980
+<font face="Impress BT Pace" size="82">Calm down.</font>
+
+453
+00:22:14,980 --> 00:22:16,520
+<font face="Impress BT Pace" size="82">We get it.</font>
+
+454
+00:22:16,520 --> 00:22:18,610
+<font face="Impress BT Pace" size="82">We all feel the same way.</font>
+
+455
+00:22:18,610 --> 00:22:21,190
+<font face="Impress BT Pace" size="82">We won't leave Kuma to this fate!</font>
+
+456
+00:22:21,190 --> 00:22:24,360
 <font face="Impress BT Pace" size="82">After all, he's one of
 the reasons we came here.</font>
 
-442
-00:25:59,370 --> 00:26:05,580
+457
+00:22:26,580 --> 00:22:32,210
 <font face="Impress BT Pace" size="82">Having said that, even if we set him free,
 he'll never return to his old self.</font>
 
-443
-00:26:06,500 --> 00:26:12,500
+458
+00:22:33,870 --> 00:22:39,550
 <font face="Impress BT Pace" size="82">Still, let's not forget that our Kuma is a prime
 example of the World Government's oppression!</font>
 
-444
-00:26:12,500 --> 00:26:16,170
+459
+00:22:39,550 --> 00:22:43,220
 <font face="Impress BT Pace" size="82">Since Kuma is the former king
 of a member nation,</font>
 
-445
-00:26:16,170 --> 00:26:19,840
+460
+00:22:43,220 --> 00:22:46,890
 <font face="Impress BT Pace" size="82">they wanted to make an example
 out of him as a warning.</font>
 
-446
-00:26:19,840 --> 00:26:25,060
+461
+00:22:47,260 --> 00:22:52,100
 <font face="Impress BT Pace" size="82">To show that no matter how tough you are,
 this is how you end up if you disobey the gods!</font>
 
-447
-00:26:25,060 --> 00:26:29,150
-<font face="Impress BT Pace" size="82">The Celestial Dragons have CP-0
+462
+00:22:52,430 --> 00:22:56,190
+<font face="Impress BT Pace" size="82">The Celestial Dragons have CP0
 and Marine Headquarters in their corner.</font>
 
-448
-00:26:29,810 --> 00:26:32,520
-<font face="Impress BT Pace" size="82">If we fail and get caught–</font>
-
-449
-00:26:32,520 --> 00:26:35,360
-<font face="Impress BT Pace" size="82">No. Failure is not an option.</font>
-
-450
-00:26:35,860 --> 00:26:37,510
-<font face="Impress BT Pace" size="82">We either succeed...</font>
-
-451
-00:26:38,160 --> 00:26:39,240
-<font face="Impress BT Pace" size="82">or we die!</font>
-
-452
-00:26:45,790 --> 00:26:50,250
-<font face="Roboto" size="56"><font color="#000000">The Holy Land, Mary Geoise</font></font>
-
-453
-00:26:45,790 --> 00:26:50,250
-<font face="Roboto" size="56">The Holy Land, Mary Geoise</font>
-
-454
-00:26:46,660 --> 00:26:50,270
-<font face="Impress BT Pace" size="82"><i>At long last, the Reverie is here!</i></font>
-
-455
-00:26:50,290 --> 00:26:53,670
-<font face="Roboto" size="56"><font color="#000000">Pangaea Castle</font></font>
-
-456
-00:26:50,290 --> 00:26:53,670
-<font face="Roboto" size="56">Pangaea Castle</font>
-
-457
-00:26:51,840 --> 00:26:53,670
-<font face="Impress BT Pace" size="82"><i>The four oceans of the world...</i></font>
-
-458
-00:26:53,670 --> 00:27:06,640
-<font face="Roboto" size="56"><font color="#3c3b40">EAST BLUE</font></font>
-
-459
-00:26:53,670 --> 00:27:06,640
-<font face="Roboto" size="56">EAST BLUE</font>
-
-460
-00:26:53,670 --> 00:27:06,640
-<font face="Roboto" size="56"><font color="#3c3b40">NORTH BLUE</font></font>
-
-461
-00:26:53,670 --> 00:27:06,640
-<font face="Roboto" size="56">NORTH BLUE</font>
-
-462
-00:26:53,670 --> 00:27:06,640
-<font face="Roboto" size="56"><font color="#3c3b40">SOUTH BLUE</font></font>
-
 463
-00:26:53,670 --> 00:27:06,640
-<font face="Roboto" size="56">SOUTH BLUE</font>
+00:22:57,020 --> 00:22:59,570
+<font face="Impress BT Pace" size="82">If we fail and get caught...</font>
 
 464
-00:26:53,670 --> 00:27:06,640
-<font face="Roboto" size="56"><font color="#3c3b40">WEST BLUE</font></font>
+00:22:59,570 --> 00:23:02,400
+<font face="Impress BT Pace" size="82">No. Failure is not an option.</font>
 
 465
-00:26:53,670 --> 00:27:06,640
-<font face="Roboto" size="56">WEST BLUE</font>
+00:23:02,940 --> 00:23:04,530
+<font face="Impress BT Pace" size="82">We either succeed...</font>
 
 466
-00:26:53,670 --> 00:27:06,640
-<font face="Roboto" size="56"><font color="#3c3b40">NEW WORLD</font></font>
+00:23:05,070 --> 00:23:06,280
+<font face="Impress BT Pace" size="82">or we die!</font>
 
 467
-00:26:53,670 --> 00:27:06,640
-<font face="Roboto" size="56">NEW WORLD</font>
+00:23:12,830 --> 00:23:17,290
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#040404">The Holy Land, Mary Geoise</font></font></font>
 
 468
-00:26:53,670 --> 00:27:06,640
-<font face="Roboto" size="56"><font color="#3c3b40">MARY GEOISE</font></font>
+00:23:12,830 --> 00:23:17,290
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#fefefd">The Holy Land, Mary Geoise</font></font></font>
 
 469
-00:26:53,670 --> 00:27:06,640
-<font face="Roboto" size="56">MARY GEOISE</font>
+00:23:13,710 --> 00:23:17,290
+<font face="Impress BT Pace" size="82"><i>At long last, the Reverie is here!</i></font>
 
 470
-00:26:55,260 --> 00:26:58,090
-<font face="Impress BT Pace" size="82"><i>are separated by a continental wall—the Red Line—</i></font>
+00:23:17,330 --> 00:23:20,710
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#040404">Pangaea Castle</font></font></font>
 
 471
-00:26:58,090 --> 00:27:02,930
-<font face="Impress BT Pace" size="82"><i>and the deadly seas of the Grand Line and the New World,</i></font>
+00:23:17,330 --> 00:23:20,710
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#fefefd">Pangaea Castle</font></font></font>
 
 472
-00:27:02,930 --> 00:27:06,640
-<font face="Impress BT Pace" size="82"><i>which is where Luffy and his crew are adventuring.</i></font>
+00:23:18,840 --> 00:23:20,710
+<font face="Impress BT Pace" size="82"><i>The four oceans of the world...</i></font>
 
 473
-00:27:07,480 --> 00:27:11,100
+00:23:20,710 --> 00:23:33,680
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#474a49">Mary
+Geoise</font></font></font>
+
+474
+00:23:20,710 --> 00:23:33,680
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#f5f5f6">Mary
+Geoise</font></font></font>
+
+475
+00:23:20,710 --> 00:23:33,680
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#e0ddc8">m 391 453 l 558 453 558 651 391 651</font></font>
+
+476
+00:23:20,710 --> 00:23:33,680
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#474a49">East Blue</font></font></font>
+
+477
+00:23:20,710 --> 00:23:33,680
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#f5f5f6">East Blue</font></font></font>
+
+478
+00:23:20,710 --> 00:23:33,680
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#3e3f3f">North Blue</font></font></font>
+
+479
+00:23:20,710 --> 00:23:33,680
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#f5f5f6">North Blue</font></font></font>
+
+480
+00:23:20,710 --> 00:23:33,680
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#3b3937">South Blue</font></font></font>
+
+481
+00:23:20,710 --> 00:23:33,680
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#f5f5f6">South Blue</font></font></font>
+
+482
+00:23:20,710 --> 00:23:33,680
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#3b3937">West Blue</font></font></font>
+
+483
+00:23:20,710 --> 00:23:33,680
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#f5f5f6">West Blue</font></font></font>
+
+484
+00:23:20,710 --> 00:23:33,680
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#424242">New World</font></font></font>
+
+485
+00:23:20,710 --> 00:23:33,680
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#f5f5f6">New World</font></font></font>
+
+486
+00:23:20,710 --> 00:23:20,750
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+487
+00:23:20,750 --> 00:23:20,790
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+488
+00:23:20,790 --> 00:23:20,830
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+489
+00:23:20,830 --> 00:23:20,870
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+490
+00:23:20,870 --> 00:23:20,920
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+491
+00:23:20,920 --> 00:23:20,960
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+492
+00:23:20,960 --> 00:23:21,000
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+493
+00:23:21,000 --> 00:23:21,040
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+494
+00:23:21,040 --> 00:23:21,080
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+495
+00:23:21,080 --> 00:23:21,120
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+496
+00:23:21,120 --> 00:23:21,170
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+497
+00:23:21,170 --> 00:23:21,210
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+498
+00:23:21,210 --> 00:23:21,250
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+499
+00:23:21,250 --> 00:23:21,290
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+500
+00:23:21,290 --> 00:23:21,330
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+501
+00:23:21,330 --> 00:23:21,370
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+502
+00:23:21,370 --> 00:23:21,420
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+503
+00:23:21,420 --> 00:23:21,460
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+504
+00:23:21,460 --> 00:23:21,500
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+505
+00:23:21,500 --> 00:23:21,540
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+506
+00:23:21,540 --> 00:23:21,580
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+507
+00:23:21,580 --> 00:23:21,630
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+508
+00:23:21,630 --> 00:23:21,670
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+509
+00:23:21,670 --> 00:23:21,710
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+510
+00:23:21,710 --> 00:23:21,750
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+511
+00:23:21,750 --> 00:23:21,790
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+512
+00:23:21,790 --> 00:23:21,830
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+513
+00:23:21,830 --> 00:23:21,880
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+514
+00:23:21,880 --> 00:23:21,920
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+515
+00:23:21,920 --> 00:23:21,960
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+516
+00:23:21,960 --> 00:23:22,000
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+517
+00:23:22,000 --> 00:23:22,040
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+518
+00:23:22,040 --> 00:23:22,080
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+519
+00:23:22,080 --> 00:23:22,130
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+520
+00:23:22,130 --> 00:23:22,170
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+521
+00:23:22,170 --> 00:23:22,210
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+522
+00:23:22,210 --> 00:23:22,250
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+523
+00:23:22,250 --> 00:23:22,290
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+524
+00:23:22,290 --> 00:23:22,330
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+525
+00:23:22,330 --> 00:23:22,380
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+526
+00:23:22,340 --> 00:23:25,050
+<font face="Impress BT Pace" size="82"><i>are separated by a continental wall—the Red Line—</i></font>
+
+527
+00:23:22,380 --> 00:23:22,420
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+528
+00:23:22,420 --> 00:23:22,460
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+529
+00:23:22,460 --> 00:23:22,500
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+530
+00:23:22,500 --> 00:23:22,540
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+531
+00:23:22,540 --> 00:23:22,580
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+532
+00:23:22,580 --> 00:23:22,630
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+533
+00:23:22,630 --> 00:23:22,670
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+534
+00:23:22,670 --> 00:23:22,710
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+535
+00:23:22,710 --> 00:23:22,750
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+536
+00:23:22,750 --> 00:23:22,790
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+537
+00:23:22,790 --> 00:23:22,830
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+538
+00:23:22,830 --> 00:23:22,880
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+539
+00:23:22,880 --> 00:23:22,920
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+540
+00:23:22,920 --> 00:23:22,960
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+541
+00:23:22,960 --> 00:23:23,000
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+542
+00:23:23,000 --> 00:23:23,040
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+543
+00:23:23,040 --> 00:23:23,080
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+544
+00:23:23,080 --> 00:23:23,130
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+545
+00:23:23,130 --> 00:23:23,170
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+546
+00:23:23,170 --> 00:23:23,210
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+547
+00:23:23,210 --> 00:23:23,250
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+548
+00:23:23,250 --> 00:23:23,290
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+549
+00:23:23,290 --> 00:23:23,340
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+550
+00:23:23,340 --> 00:23:23,380
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+551
+00:23:23,380 --> 00:23:23,420
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+552
+00:23:23,420 --> 00:23:23,460
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+553
+00:23:23,460 --> 00:23:23,500
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+554
+00:23:23,500 --> 00:23:23,540
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+555
+00:23:23,540 --> 00:23:23,590
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+556
+00:23:23,590 --> 00:23:23,630
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+557
+00:23:23,630 --> 00:23:23,670
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+558
+00:23:23,670 --> 00:23:23,710
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+559
+00:23:23,710 --> 00:23:23,750
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+560
+00:23:23,750 --> 00:23:23,790
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+561
+00:23:23,790 --> 00:23:23,840
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+562
+00:23:23,840 --> 00:23:23,880
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+563
+00:23:23,880 --> 00:23:23,920
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+564
+00:23:23,920 --> 00:23:23,960
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+565
+00:23:23,960 --> 00:23:24,000
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+566
+00:23:24,000 --> 00:23:24,040
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+567
+00:23:24,040 --> 00:23:24,090
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+568
+00:23:24,090 --> 00:23:24,130
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+569
+00:23:24,130 --> 00:23:24,170
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+570
+00:23:24,170 --> 00:23:24,210
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+571
+00:23:24,210 --> 00:23:24,250
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+572
+00:23:24,250 --> 00:23:24,290
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+573
+00:23:24,290 --> 00:23:24,340
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+574
+00:23:24,340 --> 00:23:24,380
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+575
+00:23:24,380 --> 00:23:24,420
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+576
+00:23:24,420 --> 00:23:24,460
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+577
+00:23:24,460 --> 00:23:24,500
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+578
+00:23:24,500 --> 00:23:24,540
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+579
+00:23:24,540 --> 00:23:24,590
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+580
+00:23:24,590 --> 00:23:24,630
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+581
+00:23:24,630 --> 00:23:24,670
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+582
+00:23:24,670 --> 00:23:24,710
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+583
+00:23:24,710 --> 00:23:24,750
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+584
+00:23:24,750 --> 00:23:24,790
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+585
+00:23:24,790 --> 00:23:24,840
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+586
+00:23:24,840 --> 00:23:24,880
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+587
+00:23:24,880 --> 00:23:24,920
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+588
+00:23:24,920 --> 00:23:24,960
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+589
+00:23:24,960 --> 00:23:25,000
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+590
+00:23:25,000 --> 00:23:25,050
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+591
+00:23:25,050 --> 00:23:29,680
+<font face="Impress BT Pace" size="82"><i>and the deadly seas of the Grand Line and the New World,</i></font>
+
+592
+00:23:25,050 --> 00:23:25,090
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+593
+00:23:25,090 --> 00:23:25,130
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+594
+00:23:25,130 --> 00:23:25,170
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+595
+00:23:25,170 --> 00:23:25,210
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+596
+00:23:25,210 --> 00:23:25,250
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+597
+00:23:25,250 --> 00:23:25,300
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+598
+00:23:25,300 --> 00:23:25,340
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+599
+00:23:25,340 --> 00:23:25,380
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+600
+00:23:25,380 --> 00:23:25,420
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+601
+00:23:25,420 --> 00:23:25,460
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+602
+00:23:25,460 --> 00:23:25,500
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+603
+00:23:25,500 --> 00:23:25,550
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+604
+00:23:25,550 --> 00:23:25,590
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+605
+00:23:25,590 --> 00:23:25,630
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+606
+00:23:25,630 --> 00:23:25,670
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+607
+00:23:25,670 --> 00:23:25,710
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+608
+00:23:25,710 --> 00:23:25,750
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+609
+00:23:25,750 --> 00:23:25,800
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+610
+00:23:25,800 --> 00:23:25,840
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+611
+00:23:25,840 --> 00:23:25,880
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+612
+00:23:25,880 --> 00:23:25,920
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+613
+00:23:25,920 --> 00:23:25,960
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+614
+00:23:25,960 --> 00:23:26,000
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+615
+00:23:26,000 --> 00:23:26,050
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+616
+00:23:26,050 --> 00:23:26,090
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+617
+00:23:26,090 --> 00:23:26,130
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+618
+00:23:26,130 --> 00:23:26,170
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+619
+00:23:26,170 --> 00:23:26,210
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+620
+00:23:26,210 --> 00:23:26,250
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+621
+00:23:26,250 --> 00:23:26,300
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+622
+00:23:26,300 --> 00:23:26,340
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+623
+00:23:26,340 --> 00:23:26,380
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+624
+00:23:26,380 --> 00:23:26,420
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+625
+00:23:26,420 --> 00:23:26,460
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+626
+00:23:26,460 --> 00:23:26,500
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+627
+00:23:26,500 --> 00:23:26,550
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+628
+00:23:26,550 --> 00:23:26,590
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+629
+00:23:26,590 --> 00:23:26,630
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+630
+00:23:26,630 --> 00:23:26,670
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+631
+00:23:26,670 --> 00:23:26,710
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+632
+00:23:26,710 --> 00:23:26,760
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+633
+00:23:26,760 --> 00:23:26,800
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+634
+00:23:26,800 --> 00:23:26,840
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+635
+00:23:26,840 --> 00:23:26,880
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+636
+00:23:26,880 --> 00:23:26,920
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+637
+00:23:26,920 --> 00:23:26,960
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+638
+00:23:26,960 --> 00:23:27,010
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+639
+00:23:27,010 --> 00:23:27,050
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+640
+00:23:27,050 --> 00:23:27,090
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+641
+00:23:27,090 --> 00:23:27,130
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+642
+00:23:27,130 --> 00:23:27,170
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+643
+00:23:27,170 --> 00:23:27,210
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+644
+00:23:27,210 --> 00:23:27,260
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+645
+00:23:27,260 --> 00:23:27,300
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+646
+00:23:27,300 --> 00:23:27,340
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+647
+00:23:27,340 --> 00:23:27,380
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+648
+00:23:27,380 --> 00:23:27,420
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+649
+00:23:27,420 --> 00:23:27,460
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+650
+00:23:27,460 --> 00:23:27,510
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+651
+00:23:27,510 --> 00:23:27,550
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+652
+00:23:27,550 --> 00:23:27,590
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+653
+00:23:27,590 --> 00:23:27,630
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+654
+00:23:27,630 --> 00:23:27,670
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+655
+00:23:27,670 --> 00:23:27,710
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+656
+00:23:27,710 --> 00:23:27,760
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+657
+00:23:27,760 --> 00:23:27,800
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+658
+00:23:27,800 --> 00:23:27,840
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+659
+00:23:27,840 --> 00:23:27,880
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+660
+00:23:27,880 --> 00:23:27,920
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+661
+00:23:27,920 --> 00:23:27,960
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+662
+00:23:27,960 --> 00:23:28,010
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+663
+00:23:28,010 --> 00:23:28,050
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+664
+00:23:28,050 --> 00:23:28,090
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+665
+00:23:28,090 --> 00:23:28,130
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+666
+00:23:28,130 --> 00:23:28,170
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+667
+00:23:28,170 --> 00:23:28,210
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+668
+00:23:28,210 --> 00:23:28,260
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+669
+00:23:28,260 --> 00:23:28,300
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+670
+00:23:28,300 --> 00:23:28,340
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+671
+00:23:28,340 --> 00:23:28,380
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+672
+00:23:28,380 --> 00:23:28,420
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+673
+00:23:28,420 --> 00:23:28,470
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+674
+00:23:28,470 --> 00:23:28,510
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+675
+00:23:28,510 --> 00:23:28,550
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+676
+00:23:28,550 --> 00:23:28,590
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+677
+00:23:28,590 --> 00:23:28,630
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+678
+00:23:28,630 --> 00:23:28,670
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+679
+00:23:28,670 --> 00:23:28,720
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+680
+00:23:28,720 --> 00:23:28,760
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+681
+00:23:28,760 --> 00:23:28,800
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+682
+00:23:28,800 --> 00:23:28,840
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+683
+00:23:28,840 --> 00:23:28,880
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+684
+00:23:28,880 --> 00:23:28,920
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+685
+00:23:28,920 --> 00:23:28,970
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+686
+00:23:28,970 --> 00:23:29,010
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+687
+00:23:29,010 --> 00:23:29,050
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+688
+00:23:29,050 --> 00:23:29,090
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+689
+00:23:29,090 --> 00:23:29,130
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+690
+00:23:29,130 --> 00:23:29,170
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+691
+00:23:29,170 --> 00:23:29,220
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+692
+00:23:29,220 --> 00:23:29,260
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+693
+00:23:29,260 --> 00:23:29,300
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+694
+00:23:29,300 --> 00:23:29,340
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+695
+00:23:29,340 --> 00:23:29,380
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+696
+00:23:29,380 --> 00:23:29,420
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+697
+00:23:29,420 --> 00:23:29,470
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+698
+00:23:29,470 --> 00:23:29,510
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+699
+00:23:29,510 --> 00:23:29,550
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+700
+00:23:29,550 --> 00:23:29,590
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+701
+00:23:29,590 --> 00:23:29,630
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+702
+00:23:29,630 --> 00:23:29,670
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+703
+00:23:29,670 --> 00:23:29,720
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+704
+00:23:29,680 --> 00:23:33,680
+<font face="Impress BT Pace" size="82"><i>which is where Luffy and his crew are adventuring.</i></font>
+
+705
+00:23:29,720 --> 00:23:29,760
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+706
+00:23:29,760 --> 00:23:29,800
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+707
+00:23:29,800 --> 00:23:29,840
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+708
+00:23:29,840 --> 00:23:29,880
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+709
+00:23:29,880 --> 00:23:29,930
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+710
+00:23:29,930 --> 00:23:29,970
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+711
+00:23:29,970 --> 00:23:30,010
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+712
+00:23:30,010 --> 00:23:30,050
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+713
+00:23:30,050 --> 00:23:30,090
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+714
+00:23:30,090 --> 00:23:30,130
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+715
+00:23:30,130 --> 00:23:30,180
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+716
+00:23:30,180 --> 00:23:30,220
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+717
+00:23:30,220 --> 00:23:30,260
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+718
+00:23:30,260 --> 00:23:30,300
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+719
+00:23:30,300 --> 00:23:30,340
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+720
+00:23:30,340 --> 00:23:30,380
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+721
+00:23:30,380 --> 00:23:30,430
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+722
+00:23:30,430 --> 00:23:30,470
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+723
+00:23:30,470 --> 00:23:30,510
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+724
+00:23:30,510 --> 00:23:30,550
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+725
+00:23:30,550 --> 00:23:30,590
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+726
+00:23:30,590 --> 00:23:30,630
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+727
+00:23:30,630 --> 00:23:30,680
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+728
+00:23:30,680 --> 00:23:30,720
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+729
+00:23:30,720 --> 00:23:30,760
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+730
+00:23:30,760 --> 00:23:30,800
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+731
+00:23:30,800 --> 00:23:30,840
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+732
+00:23:30,840 --> 00:23:30,880
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+733
+00:23:30,880 --> 00:23:30,930
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+734
+00:23:30,930 --> 00:23:30,970
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+735
+00:23:30,970 --> 00:23:31,010
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+736
+00:23:31,010 --> 00:23:31,050
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+737
+00:23:31,050 --> 00:23:31,090
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+738
+00:23:31,090 --> 00:23:31,130
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+739
+00:23:31,130 --> 00:23:31,180
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+740
+00:23:31,180 --> 00:23:31,220
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+741
+00:23:31,220 --> 00:23:31,260
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+742
+00:23:31,260 --> 00:23:31,300
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+743
+00:23:31,300 --> 00:23:31,340
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+744
+00:23:31,340 --> 00:23:31,380
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+745
+00:23:31,380 --> 00:23:31,430
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+746
+00:23:31,430 --> 00:23:31,470
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+747
+00:23:31,470 --> 00:23:31,510
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+748
+00:23:31,510 --> 00:23:31,550
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+749
+00:23:31,550 --> 00:23:31,590
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+750
+00:23:31,590 --> 00:23:31,640
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+751
+00:23:31,640 --> 00:23:31,680
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+752
+00:23:31,680 --> 00:23:31,720
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+753
+00:23:31,720 --> 00:23:31,760
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+754
+00:23:31,760 --> 00:23:31,800
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+755
+00:23:31,800 --> 00:23:31,840
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+756
+00:23:31,840 --> 00:23:31,890
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+757
+00:23:31,890 --> 00:23:31,930
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+758
+00:23:31,930 --> 00:23:31,970
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+759
+00:23:31,970 --> 00:23:32,010
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+760
+00:23:32,010 --> 00:23:32,050
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+761
+00:23:32,050 --> 00:23:32,090
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+762
+00:23:32,090 --> 00:23:32,140
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+763
+00:23:32,140 --> 00:23:32,180
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+764
+00:23:32,180 --> 00:23:32,220
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+765
+00:23:32,220 --> 00:23:32,260
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+766
+00:23:32,260 --> 00:23:32,300
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+767
+00:23:32,300 --> 00:23:32,340
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+768
+00:23:32,340 --> 00:23:32,390
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+769
+00:23:32,390 --> 00:23:32,430
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+770
+00:23:32,430 --> 00:23:32,470
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+771
+00:23:32,470 --> 00:23:32,510
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+772
+00:23:32,510 --> 00:23:32,550
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+773
+00:23:32,550 --> 00:23:32,590
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+774
+00:23:32,590 --> 00:23:32,640
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+775
+00:23:32,640 --> 00:23:32,680
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+776
+00:23:32,680 --> 00:23:32,720
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+777
+00:23:32,720 --> 00:23:32,760
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+778
+00:23:32,760 --> 00:23:32,800
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+779
+00:23:32,800 --> 00:23:32,840
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+780
+00:23:32,840 --> 00:23:32,890
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+781
+00:23:32,890 --> 00:23:32,930
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+782
+00:23:32,930 --> 00:23:32,970
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+783
+00:23:32,970 --> 00:23:33,010
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+784
+00:23:33,010 --> 00:23:33,050
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+785
+00:23:33,050 --> 00:23:33,090
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+786
+00:23:33,090 --> 00:23:33,140
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+787
+00:23:33,140 --> 00:23:33,180
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+788
+00:23:33,180 --> 00:23:33,220
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+789
+00:23:33,220 --> 00:23:33,260
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+790
+00:23:33,260 --> 00:23:33,300
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+791
+00:23:33,300 --> 00:23:33,350
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+792
+00:23:33,350 --> 00:23:33,390
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+793
+00:23:33,390 --> 00:23:33,430
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+794
+00:23:33,430 --> 00:23:33,470
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+795
+00:23:33,470 --> 00:23:33,510
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+796
+00:23:33,510 --> 00:23:33,550
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+797
+00:23:33,550 --> 00:23:33,600
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+798
+00:23:33,600 --> 00:23:33,640
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+799
+00:23:33,640 --> 00:23:33,680
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#d1e5ed">m -52 60 l -31 53 69 7 74 -28 51 -57 29 -52 12 -46 -29 -26 -74 -2 -64 45</font></font>
+
+800
+00:23:34,520 --> 00:23:38,150
 <font face="Impress BT Pace" size="82"><i>The World Government is
 a truly massive organization.</i></font>
 
-474
-00:27:11,100 --> 00:27:15,020
+801
+00:23:38,150 --> 00:23:42,070
 <font face="Impress BT Pace" size="82"><i>Most countries in the world
 are members: 170 nations total!</i></font>
 
-475
-00:27:15,860 --> 00:27:24,160
+802
+00:23:42,900 --> 00:23:50,240
 <font face="Impress BT Pace" size="82"><i>Of those, fifty monarchs are chosen as representatives
 to assemble in the Holy Land every four years.</i></font>
 
-476
-00:27:30,460 --> 00:27:32,880
+803
+00:23:57,670 --> 00:23:59,580
 <font face="Impress BT Pace" size="82">Wh-Where's my seat?!</font>
 
-477
-00:27:40,430 --> 00:27:41,970
+804
+00:24:07,470 --> 00:24:08,840
 <font face="Impress BT Pace" size="82">Finally.</font>
 
-478
-00:27:41,970 --> 00:27:43,090
+805
+00:24:08,840 --> 00:24:10,140
 <font face="Impress BT Pace" size="82">Yeah.</font>
 
-479
-00:27:43,090 --> 00:27:45,310
+806
+00:24:10,140 --> 00:24:12,350
 <font face="Impress BT Pace" size="82">How's your country been?</font>
 
-480
-00:27:45,310 --> 00:27:48,520
+807
+00:24:12,350 --> 00:24:15,560
 <font face="Impress BT Pace" size="82">You said it was ravaged
 by pirates four years ago?</font>
 
-481
-00:27:48,520 --> 00:27:52,980
+808
+00:24:15,560 --> 00:24:20,020
 <font face="Impress BT Pace" size="82">Thanks to Fleet Admiral Sakazuki,
 they were sent to Impel Down.</font>
 
-482
-00:27:52,980 --> 00:27:58,280
+809
+00:24:20,020 --> 00:24:23,860
 <font face="Impress BT Pace" size="82">Speaking of pirates, lately there's been
-one name on everyone's lips. I think it was...</font>
+one name on everyone's lips.</font>
 
-483
-00:27:58,280 --> 00:28:00,400
+810
+00:24:23,860 --> 00:24:25,320
+<font face="Impress BT Pace" size="82">I think it was...</font>
+
+811
+00:24:25,320 --> 00:24:27,450
 <font face="Impress BT Pace" size="82">Straw Hat Luffy, right?</font>
 
-484
-00:28:01,570 --> 00:28:04,160
-<font face="Impress BT Pace" size="82">He attempted to assassinate Big Mom,</font>
+812
+00:24:28,610 --> 00:24:35,250
+<font face="Impress BT Pace" size="82">He attempted to assassinate Big Mom,
+and rumor has it that he's going after Kaido next.</font>
 
-485
-00:28:04,160 --> 00:28:08,200
-<font face="Impress BT Pace" size="82">and rumor has it that
-he's going after Kaido next.</font>
+813
+00:24:35,250 --> 00:24:36,790
+<font face="Impress BT Pace" size="82">Kaido?!</font>
 
-486
-00:28:08,200 --> 00:28:13,000
-<font face="Impress BT Pace" size="82">Kaido?! Does that mean Wano
+814
+00:24:36,790 --> 00:24:40,040
+<font face="Impress BT Pace" size="82">Does that mean Wano
 is next in line for disaster?</font>
 
-487
-00:28:13,000 --> 00:28:18,590
+815
+00:24:40,040 --> 00:24:45,630
 <font face="Impress BT Pace" size="82">Wano is not affiliated with the World Government,
 which effectively makes it a lawless land.</font>
 
-488
-00:28:18,590 --> 00:28:23,590
+816
+00:24:45,630 --> 00:24:50,640
 <font face="Impress BT Pace" size="82">We don't even know
 if it operates as a country.</font>
 
-489
-00:28:23,590 --> 00:28:27,010
+817
+00:24:50,640 --> 00:24:53,260
 <font face="Impress BT Pace" size="82">Is there nothing we can do?!</font>
 
-490
-00:28:27,010 --> 00:28:30,640
+818
+00:24:54,060 --> 00:24:58,180
 <font face="Impress BT Pace" size="82">Sending the Marines would cost money.</font>
 
-491
-00:28:34,980 --> 00:28:41,440
+819
+00:25:02,520 --> 00:25:08,490
 <font face="Impress BT Pace" size="82">Trouble seems to follow this
 Straw Hat Luffy wherever he goes.</font>
 
-492
-00:28:41,440 --> 00:28:43,070
+820
+00:25:08,490 --> 00:25:10,160
 <font face="Impress BT Pace" size="82">You've got that right!</font>
 
-493
-00:28:44,360 --> 00:28:46,320
+821
+00:25:11,410 --> 00:25:13,370
 <font face="Impress BT Pace" size="82">What's so funny, Prodence?</font>
 
-494
-00:28:47,160 --> 00:28:49,200
+822
+00:25:14,200 --> 00:25:16,240
 <font face="Impress BT Pace" size="82">Luffy...</font>
 
-495
-00:28:49,870 --> 00:28:52,250
+823
+00:25:16,910 --> 00:25:19,290
 <font face="Impress BT Pace" size="82">The position of chairman always rotates.</font>
 
-496
-00:28:52,250 --> 00:28:53,870
+824
+00:25:19,290 --> 00:25:21,170
 <font face="Impress BT Pace" size="82">Who is it this time?</font>
 
-497
-00:28:54,870 --> 00:28:56,380
+825
+00:25:21,920 --> 00:25:23,420
 <font face="Impress BT Pace" size="82">That would be me!</font>
 
-498
-00:28:56,380 --> 00:28:58,630
+826
+00:25:23,420 --> 00:25:25,670
 <font face="Impress BT Pace" size="82">Everyone, it will be my honor.</font>
 
-499
-00:28:58,630 --> 00:29:00,340
+827
+00:25:25,670 --> 00:25:27,380
 <font face="Impress BT Pace" size="82">Ballywood, huh?</font>
 
-500
-00:29:00,340 --> 00:29:02,050
+828
+00:25:27,380 --> 00:25:29,090
 <font face="Impress BT Pace" size="82">Sounds good.</font>
 
-501
-00:29:02,050 --> 00:29:05,430
+829
+00:25:29,090 --> 00:25:32,470
 <font face="Impress BT Pace" size="82">This should run smoothly, then.</font>
 
-502
-00:29:05,430 --> 00:29:09,220
+830
+00:25:32,470 --> 00:25:36,260
 <font face="Impress BT Pace" size="82">Even if we have a full seven days,
 we have so much to address.</font>
 
-503
-00:29:09,220 --> 00:29:12,770
+831
+00:25:36,260 --> 00:25:39,810
 <font face="Impress BT Pace" size="82"><i>This is the great conference
 that determines the order of the world.</i></font>
 
-504
-00:29:13,430 --> 00:29:16,850
+832
+00:25:40,480 --> 00:25:43,900
 <font face="Impress BT Pace" size="82"><i>It is known as...</i></font>
 
-505
-00:29:17,650 --> 00:29:21,860
-<font face="Impress BT Pace" size="82">Well then... my fellow monarchs...</font>
+833
+00:25:44,690 --> 00:25:48,900
+<font face="Impress BT Pace" size="82">Well then, my fellow monarchs...</font>
 
-506
-00:29:23,240 --> 00:29:29,280
+834
+00:25:50,280 --> 00:25:56,330
 <font face="Impress BT Pace" size="82">let us carefully discuss
 the future of this beautiful world!</font>
 
-507
-00:29:34,040 --> 00:29:35,960
+835
+00:26:01,080 --> 00:26:02,500
 <font face="Impress BT Pace" size="82"><i>...the Reverie!</i></font>
 
-508
-00:29:36,670 --> 00:29:39,840
+836
+00:26:03,790 --> 00:26:06,880
 <font face="Impress BT Pace" size="82">And so the conference begins...</font>
 
-509
-00:29:39,840 --> 00:29:46,720
-<font face="Impress BT Pace" size="82">Apparently, King Cobra of Arabasta
+837
+00:26:06,880 --> 00:26:13,760
+<font face="Impress BT Pace" size="82">Apparently, King Cobra of Alabasta
 is requesting an audience with us.</font>
 
-510
-00:29:46,720 --> 00:29:52,680
+838
+00:26:13,760 --> 00:26:19,720
 <font face="Impress BT Pace" size="82">The Nefertari family was the only
 member of the First Twenty</font>
 
-511
-00:29:52,680 --> 00:29:55,640
+839
+00:26:19,720 --> 00:26:22,690
 <font face="Impress BT Pace" size="82">that stayed in the lower realm 800 years ago.</font>
 
-512
-00:29:55,640 --> 00:30:00,480
-<font face="Impress BT Pace" size="82">In a sense, they're traitors.
-Has he noticed something?</font>
+840
+00:26:22,690 --> 00:26:25,190
+<font face="Impress BT Pace" size="82">In a sense, they're traitors.</font>
 
-513
-00:30:00,480 --> 00:30:03,530
+841
+00:26:25,190 --> 00:26:27,520
+<font face="Impress BT Pace" size="82">Has he noticed something?</font>
+
+842
+00:26:27,520 --> 00:26:30,570
 <font face="Impress BT Pace" size="82">Let's hope he doesn't
 complicate matters.</font>
 
-514
-00:30:03,530 --> 00:30:07,660
+843
+00:26:30,570 --> 00:26:34,700
 <font face="Impress BT Pace" size="82">You could say the same about
 the situation with Big Mom and Kaido.</font>
 
-515
-00:30:07,660 --> 00:30:13,540
-<font face="Impress BT Pace" size="82">It's been two years since the Summit War.
-Yet this maelstrom will not cease.</font>
+844
+00:26:34,700 --> 00:26:37,030
+<font face="Impress BT Pace" size="82">It's been two years since the Summit War.</font>
 
-516
-00:30:13,540 --> 00:30:18,880
+845
+00:26:37,030 --> 00:26:40,580
+<font face="Impress BT Pace" size="82">Yet this maelstrom will not cease.</font>
+
+846
+00:26:40,580 --> 00:26:45,920
 <font face="Impress BT Pace" size="82">This world's equilibrium
 cannot be maintained indefinitely.</font>
 
-517
-00:30:18,880 --> 00:30:24,670
+847
+00:26:45,920 --> 00:26:51,710
 <font face="Impress BT Pace" size="82">The time has come for a great cleansing.</font>
 
-518
-00:30:31,550 --> 00:30:36,560
-<font face="Roboto" size="56"><font size="60"><font color="#000000">The Chamber of Flowers
+848
+00:26:58,600 --> 00:27:03,600
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#050401">The Chamber of Flowers
 Pangaea Castle</font></font></font>
 
-519
-00:30:31,550 --> 00:30:36,560
-<font face="Roboto" size="56"><font size="60">The Chamber of Flowers
-Pangaea Castle</font></font>
+849
+00:26:58,600 --> 00:27:03,600
+<font face="FOT-Greco Std DB Strp" size="56"><font face="Kakumin Web"><font color="#fafafa">The Chamber of Flowers
+Pangaea Castle</font></font></font>
 
-520
-00:30:36,640 --> 00:30:37,520
+850
+00:27:03,690 --> 00:27:04,560
 <font face="Impress BT Pace" size="82">Lord Imu.</font>
 
-521
-00:30:38,140 --> 00:30:40,980
+851
+00:27:05,190 --> 00:27:08,020
 <font face="Impress BT Pace" size="82">The Five Elders have arrived.</font>
 
-522
-00:31:37,950 --> 00:31:42,580
+852
+00:28:10,000 --> 00:28:14,630
 <font face="Impress BT Pace" size="82">Have you discovered another light
 to be erased from history?</font>
 
-523
-00:31:42,580 --> 00:31:45,250
+853
+00:28:14,630 --> 00:28:17,300
 <font face="Impress BT Pace" size="82">Is it decided, then?</font>
 
-524
-00:31:49,010 --> 00:31:52,180
+854
+00:28:21,050 --> 00:28:24,220
 <font face="Impress BT Pace" size="82">If so, you need only give us the name!</font>
 

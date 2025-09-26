@@ -15,11 +15,11 @@
 <font face="FOT-Greco Std B Strp" size="48">Meggo</font>
 
 5
-00:00:01,190 --> 00:00:01,310
+00:00:01,190 --> 00:00:01,370
 <font face="Impress BT Pace" size="82"><i>Reichtum, Macht und Ruhm.</i></font>
 
 6
-00:00:01,310 --> 00:00:01,440
+00:00:01,370 --> 00:00:01,440
 <font face="Impress BT Pace" size="82"><i>Reichtum, Macht und Ruhm.</i></font>
 
 7
@@ -188,8 +188,7 @@ arch1t3cht</font>
 
 42
 00:00:16,660 --> 00:00:19,290
-<font face="Impress BT Pace" size="82">Irgendwo hab ich den
-größten Schatz der Welt versteckt!“</font>
+<font face="Impress BT Pace" size="82">Irgendwo hab ich den größten Schatz der Welt versteckt!“</font>
 
 43
 00:00:17,490 --> 00:00:19,290
@@ -214,8 +213,7 @@ er liegt irgendwo auf der Grand Line.</i></font>
 
 48
 00:00:26,420 --> 00:00:29,720
-<font face="Impress BT Pace" size="82"><i>Damit brach
-das große Piratenzeitalter an!</i></font>
+<font face="Impress BT Pace" size="82"><i>Damit brach das große Piratenzeitalter an!</i></font>
 
 49
 00:00:29,970 --> 00:00:30,370

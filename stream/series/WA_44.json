@@ -1,0 +1,19 @@
+{
+  "streams": [
+    {
+      "infoHash": "15ad09f1b9bbf4b438194eac7be8f63a38e82ea7",
+      "subtitles": [
+        {
+          "id": "WA_44_ger",
+          "lang": "ger",
+          "url": "https://onepace.arl.sh/static/WA_44_ger.srt"
+        },
+        {
+          "id": "WA_44_eng",
+          "lang": "eng",
+          "url": "https://onepace.arl.sh/static/WA_44_eng.srt"
+        }
+      ]
+    }
+  ]
+}

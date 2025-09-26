@@ -1,0 +1,5113 @@
+1
+00:00:00,000 --> 00:00:09,990
+<font face="Rosario SemiBold" size="90">Twój odtwarzacz nie obsługuje formatu napisów użytego w tym odcinku.
+Napisy prawdopodobnie nie będą działać prawidłowo.
+Użyj jednego z zalecanych odtwarzaczy, najlepiej mpv:
+https://mpv.io
+</font>
+
+2
+00:00:01,520 --> 00:00:03,650
+<font face="Rosario SemiBold" size="82"><i>Bogactwo, sława, władza...</i></font>
+
+3
+00:00:01,610 --> 00:00:02,060
+<font face="Duality" size="72" color="#378fdc"></font>
+
+4
+00:00:01,660 --> 00:00:02,060
+<font face="Duality" size="72" color="#378fdc"></font>
+
+5
+00:00:01,770 --> 00:00:04,280
+<font face="Caslon" size="55"><b><font color="#000000">Edycja wideo</font></b></font>
+
+6
+00:00:01,770 --> 00:00:04,280
+<font face="Caslon" size="55"><b>Edycja wideo</b></font>
+
+7
+00:00:01,770 --> 00:00:04,280
+<font face="Caslon" size="55"><b><font color="#000000">Feeso
+Galaxy 9000</font></b></font>
+
+8
+00:00:01,770 --> 00:00:04,280
+<font face="Caslon" size="55"><b>Feeso
+Galaxy 9000</b></font>
+
+9
+00:00:02,060 --> 00:00:02,310
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8"></font></font>
+
+10
+00:00:02,060 --> 00:00:02,310
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8"></font></font>
+
+11
+00:00:03,650 --> 00:00:07,820
+<font face="Rosario SemiBold" size="82"><i>Oto człowiek, który ongiś zdobył wszystko,
+co było do zdobycia. Król Piratów, Gold Roger.</i></font>
+
+12
+00:00:04,280 --> 00:00:06,780
+<font face="Caslon" size="55"><b><font color="#000000">Ścieżka dźwiękowa</font></b></font>
+
+13
+00:00:04,280 --> 00:00:06,780
+<font face="Caslon" size="55"><b>Ścieżka dźwiękowa</b></font>
+
+14
+00:00:04,280 --> 00:00:06,780
+<font face="Caslon" size="55"><b><font color="#000000">Halee</font></b></font>
+
+15
+00:00:04,280 --> 00:00:06,780
+<font face="Caslon" size="55"><b>Halee</b></font>
+
+16
+00:00:04,280 --> 00:00:06,780
+<font face="Caslon" size="55"><b><font color="#000000">Grafika</font></b></font>
+
+17
+00:00:04,280 --> 00:00:06,780
+<font face="Caslon" size="55"><b>Grafika</b></font>
+
+18
+00:00:04,280 --> 00:00:06,780
+<font face="Caslon" size="55"><b><font color="#000000">Datenshi</font></b></font>
+
+19
+00:00:04,280 --> 00:00:06,780
+<font face="Caslon" size="55"><b>Datenshi</b></font>
+
+20
+00:00:06,780 --> 00:00:10,280
+<font face="Caslon" size="55"><b><font color="#000000">Kontrola jakości</font></b></font>
+
+21
+00:00:06,780 --> 00:00:10,280
+<font face="Caslon" size="55"><b>Kontrola jakości</b></font>
+
+22
+00:00:06,780 --> 00:00:10,280
+<font face="Caslon" size="55"><b><font color="#000000">Gab
+Gol D. Rocks
+Pepperjack
+TheFVGuy
+Westfal
+Villager
+Zenef</font></b></font>
+
+23
+00:00:06,780 --> 00:00:10,280
+<font face="Caslon" size="55"><b>Gab
+Gol D. Rocks
+Pepperjack
+TheFVGuy
+Westfal
+Villager
+Zenef</b></font>
+
+24
+00:00:07,820 --> 00:00:11,660
+<font face="Rosario SemiBold" size="82"><i>Słowa które wypowiedział przed śmiercią,
+skłoniły rzeszę ludzi do wypłynięcia w morze.</i></font>
+
+25
+00:00:10,280 --> 00:00:12,780
+<font face="Caslon" size="55"><b><font color="#000000">Karaoke</font></b></font>
+
+26
+00:00:10,280 --> 00:00:12,780
+<font face="Caslon" size="55"><b>Karaoke</b></font>
+
+27
+00:00:10,280 --> 00:00:12,780
+<font face="Caslon" size="55"><b><font color="#000000">KaitouYahiko</font></b></font>
+
+28
+00:00:10,280 --> 00:00:12,780
+<font face="Caslon" size="55"><b>KaitouYahiko</b></font>
+
+29
+00:00:10,280 --> 00:00:12,780
+<font face="Caslon" size="55"><b><font color="#000000">Synchronizacja</font></b></font>
+
+30
+00:00:10,280 --> 00:00:12,780
+<font face="Caslon" size="55"><b>Synchronizacja</b></font>
+
+31
+00:00:10,280 --> 00:00:12,780
+<font face="Caslon" size="55"><b><font color="#000000">Gab
+PhosCity</font></b></font>
+
+32
+00:00:10,280 --> 00:00:12,780
+<font face="Caslon" size="55"><b>Gab
+PhosCity</b></font>
+
+33
+00:00:11,660 --> 00:00:13,660
+<font face="Rosario SemiBold" size="82">Chcecie moich skarbów?</font>
+
+34
+00:00:12,780 --> 00:00:15,290
+<font face="Caslon" size="55"><b><font color="#000000">Edycja napisów</font></b></font>
+
+35
+00:00:12,780 --> 00:00:15,290
+<font face="Caslon" size="55"><b>Edycja napisów</b></font>
+
+36
+00:00:12,780 --> 00:00:15,290
+<font face="Caslon" size="55"><b><font color="#000000">Burn Wolfdog
+szeflimak</font></b></font>
+
+37
+00:00:12,780 --> 00:00:15,290
+<font face="Caslon" size="55"><b>Burn Wolfdog
+szeflimak</b></font>
+
+38
+00:00:13,660 --> 00:00:15,450
+<font face="Rosario SemiBold" size="82">Nie ma sprawy.</font>
+
+39
+00:00:15,290 --> 00:00:19,250
+<font face="Caslon" size="55"><b><font color="#000000">Źródła</font></b></font>
+
+40
+00:00:15,290 --> 00:00:19,250
+<font face="Caslon" size="55"><b>Źródła</b></font>
+
+41
+00:00:15,290 --> 00:00:19,250
+<font face="Caslon" size="55"><b><font color="#000000">Neo-Raws</font></b></font>
+
+42
+00:00:15,290 --> 00:00:19,250
+<font face="Caslon" size="55"><b>Neo-Raws</b></font>
+
+43
+00:00:15,290 --> 00:00:19,250
+<font face="Caslon" size="55"><b><font color="#000000">Tłumaczenie</font></b></font>
+
+44
+00:00:15,290 --> 00:00:19,250
+<font face="Caslon" size="55"><b>Tłumaczenie</b></font>
+
+45
+00:00:15,290 --> 00:00:19,250
+<font face="Caslon" size="55"><b><font color="#000000">szeflimak</font></b></font>
+
+46
+00:00:15,290 --> 00:00:19,250
+<font face="Caslon" size="55"><b>szeflimak</b></font>
+
+47
+00:00:15,450 --> 00:00:16,660
+<font face="Rosario SemiBold" size="82">Szukajcie ich!</font>
+
+48
+00:00:16,660 --> 00:00:19,250
+<font face="Rosario SemiBold" size="82">Ukryłem tam wszystkie bogactwa tego świata!</font>
+
+49
+00:00:21,670 --> 00:00:26,380
+<font face="Rosario SemiBold" size="82"><i>W pogoni za marzeniami,
+ludzie skupiają swój wzrok na Grand Line.</i></font>
+
+50
+00:00:26,380 --> 00:00:29,630
+<font face="Rosario SemiBold" size="82"><i>Świat zaprawdę wstąpił w Wielką Erę Piratów!</i></font>
+
+51
+00:00:29,890 --> 00:00:30,340
+<font face="Duality" size="72" color="#378fdc"></font>
+
+52
+00:00:29,940 --> 00:00:30,340
+<font face="Duality" size="72" color="#378fdc">W</font>
+
+53
+00:00:29,970 --> 00:00:30,420
+<font face="Duality" size="72" color="#378fdc"></font>
+
+54
+00:00:29,990 --> 00:00:32,340
+<font face="Duality" size="72" color="#378fdc">ska</font>
+
+55
+00:00:30,010 --> 00:00:30,460
+<font face="Duality" size="72" color="#378fdc"></font>
+
+56
+00:00:30,020 --> 00:00:30,420
+<font face="Duality" size="72" color="#378fdc">A</font>
+
+57
+00:00:30,040 --> 00:00:32,390
+<font face="Duality" size="72" color="#378fdc">kuj </font>
+
+58
+00:00:30,060 --> 00:00:30,460
+<font face="Duality" size="72" color="#378fdc"></font>
+
+59
+00:00:30,070 --> 00:00:30,510
+<font face="Duality" size="72" color="#378fdc">ri</font>
+
+60
+00:00:30,090 --> 00:00:32,440
+<font face="Duality" size="72" color="#378fdc">na </font>
+
+61
+00:00:30,120 --> 00:00:30,600
+<font face="Duality" size="72" color="#378fdc">tta</font>
+
+62
+00:00:30,140 --> 00:00:32,490
+<font face="Duality" size="72" color="#378fdc">po</font>
+
+63
+00:00:30,170 --> 00:00:30,790
+<font face="Duality" size="72" color="#378fdc">ke </font>
+
+64
+00:00:30,190 --> 00:00:32,540
+<font face="Duality" size="72" color="#378fdc">kł</font>
+
+65
+00:00:30,220 --> 00:00:30,990
+<font face="Duality" size="72" color="#378fdc">no </font>
+
+66
+00:00:30,240 --> 00:00:32,590
+<font face="Duality" size="72" color="#378fdc">ad </font>
+
+67
+00:00:30,270 --> 00:00:31,510
+<font face="Duality" size="72" color="#378fdc">yu</font>
+
+68
+00:00:30,290 --> 00:00:32,640
+<font face="Duality" size="72" color="#378fdc">i </font>
+
+69
+00:00:30,320 --> 00:00:31,850
+<font face="Duality" size="72" color="#378fdc">me </font>
+
+70
+00:00:30,340 --> 00:00:30,590
+<font face="Duality" size="72" color="#378fdc"></font>
+
+71
+00:00:30,340 --> 00:00:32,590
+<font face="Duality" size="72" color="#378fdc">W</font>
+
+72
+00:00:30,340 --> 00:00:32,690
+<font face="Duality" size="72" color="#378fdc">za</font>
+
+73
+00:00:30,370 --> 00:00:32,050
+<font face="Duality" size="72" color="#378fdc">wo</font>
+
+74
+00:00:30,390 --> 00:00:32,740
+<font face="Duality" size="72" color="#378fdc">bi</font>
+
+75
+00:00:30,420 --> 00:00:30,670
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8"></font></font>
+
+76
+00:00:30,420 --> 00:00:30,760
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">A</font></font>
+
+77
+00:00:30,420 --> 00:00:33,010
+<font face="Duality" size="72" color="#378fdc"> </font>
+
+78
+00:00:30,440 --> 00:00:32,790
+<font face="Duality" size="72" color="#378fdc">erz </font>
+
+79
+00:00:30,460 --> 00:00:30,710
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8"></font></font>
+
+80
+00:00:30,460 --> 00:00:30,710
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8"></font></font>
+
+81
+00:00:30,470 --> 00:00:33,320
+<font face="Duality" size="72" color="#378fdc">ka</font>
+
+82
+00:00:30,490 --> 00:00:32,840
+<font face="Duality" size="72" color="#378fdc">ze </font>
+
+83
+00:00:30,510 --> 00:00:30,850
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ri</font></font>
+
+84
+00:00:30,520 --> 00:00:33,460
+<font face="Duality" size="72" color="#378fdc">ki </font>
+
+85
+00:00:30,540 --> 00:00:32,890
+<font face="Duality" size="72" color="#378fdc">so</font>
+
+86
+00:00:30,570 --> 00:00:33,650
+<font face="Duality" size="72" color="#378fdc">a</font>
+
+87
+00:00:30,590 --> 00:00:32,940
+<font face="Duality" size="72" color="#378fdc">bą </font>
+
+88
+00:00:30,600 --> 00:00:31,040
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">tta</font></font>
+
+89
+00:00:30,620 --> 00:00:33,930
+<font face="Duality" size="72" color="#378fdc">tsu</font>
+
+90
+00:00:30,640 --> 00:00:32,990
+<font face="Duality" size="72" color="#378fdc"></font>
+
+91
+00:00:30,670 --> 00:00:34,150
+<font face="Duality" size="72" color="#378fdc">me</font>
+
+92
+00:00:30,790 --> 00:00:31,240
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ke </font></font>
+
+93
+00:00:30,990 --> 00:00:31,760
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">no </font></font>
+
+94
+00:00:31,510 --> 00:00:32,100
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">yu</font></font>
+
+95
+00:00:31,850 --> 00:00:32,300
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">me </font></font>
+
+96
+00:00:32,050 --> 00:00:33,260
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">wo</font></font>
+
+97
+00:00:32,340 --> 00:00:32,640
+<font face="Duality" size="72" color="#378fdc">ska</font>
+
+98
+00:00:32,390 --> 00:00:32,690
+<font face="Duality" size="72" color="#378fdc">kuj </font>
+
+99
+00:00:32,440 --> 00:00:32,740
+<font face="Duality" size="72" color="#378fdc">na </font>
+
+100
+00:00:32,490 --> 00:00:32,790
+<font face="Duality" size="72" color="#378fdc">po</font>
+
+101
+00:00:32,540 --> 00:00:32,840
+<font face="Duality" size="72" color="#378fdc">kł</font>
+
+102
+00:00:32,590 --> 00:00:32,890
+<font face="Duality" size="72" color="#378fdc">ad </font>
+
+103
+00:00:32,640 --> 00:00:32,940
+<font face="Duality" size="72" color="#378fdc">i </font>
+
+104
+00:00:32,640 --> 00:00:33,090
+<font face="Duality" size="72" color="#378fdc"></font>
+
+105
+00:00:32,690 --> 00:00:32,990
+<font face="Duality" size="72" color="#378fdc">za</font>
+
+106
+00:00:32,690 --> 00:00:33,090
+<font face="Duality" size="72" color="#378fdc">wsz</font>
+
+107
+00:00:32,740 --> 00:00:33,040
+<font face="Duality" size="72" color="#378fdc">bi</font>
+
+108
+00:00:32,740 --> 00:00:34,890
+<font face="Duality" size="72" color="#378fdc">yst</font>
+
+109
+00:00:32,790 --> 00:00:33,090
+<font face="Duality" size="72" color="#378fdc">erz </font>
+
+110
+00:00:32,790 --> 00:00:34,940
+<font face="Duality" size="72" color="#378fdc">kie </font>
+
+111
+00:00:32,840 --> 00:00:33,140
+<font face="Duality" size="72" color="#378fdc">ze </font>
+
+112
+00:00:32,840 --> 00:00:34,990
+<font face="Duality" size="72" color="#378fdc">ma</font>
+
+113
+00:00:32,890 --> 00:00:33,190
+<font face="Duality" size="72" color="#378fdc">so</font>
+
+114
+00:00:32,890 --> 00:00:35,040
+<font face="Duality" size="72" color="#378fdc">rz</font>
+
+115
+00:00:32,940 --> 00:00:33,240
+<font face="Duality" size="72" color="#378fdc">bą </font>
+
+116
+00:00:32,940 --> 00:00:35,090
+<font face="Duality" size="72" color="#378fdc">en</font>
+
+117
+00:00:32,990 --> 00:00:33,290
+<font face="Duality" size="72" color="#378fdc"></font>
+
+118
+00:00:32,990 --> 00:00:35,140
+<font face="Duality" size="72" color="#378fdc">ia,</font>
+
+119
+00:00:33,010 --> 00:00:33,570
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8"> </font></font>
+
+120
+00:00:33,040 --> 00:00:35,190
+<font face="Duality" size="72" color="#378fdc"></font>
+
+121
+00:00:33,090 --> 00:00:33,340
+<font face="Duality" size="72" color="#378fdc"></font>
+
+122
+00:00:33,090 --> 00:00:35,140
+<font face="Duality" size="72" color="#378fdc">wsz</font>
+
+123
+00:00:33,320 --> 00:00:33,710
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ka</font></font>
+
+124
+00:00:33,460 --> 00:00:33,900
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ki </font></font>
+
+125
+00:00:33,650 --> 00:00:34,180
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">a</font></font>
+
+126
+00:00:33,930 --> 00:00:34,400
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">tsu</font></font>
+
+127
+00:00:34,150 --> 00:00:35,840
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">me</font></font>
+
+128
+00:00:34,890 --> 00:00:35,190
+<font face="Duality" size="72" color="#378fdc">yst</font>
+
+129
+00:00:34,940 --> 00:00:35,240
+<font face="Duality" size="72" color="#378fdc">kie </font>
+
+130
+00:00:34,990 --> 00:00:35,290
+<font face="Duality" size="72" color="#378fdc">ma</font>
+
+131
+00:00:35,040 --> 00:00:35,340
+<font face="Duality" size="72" color="#378fdc">rz</font>
+
+132
+00:00:35,090 --> 00:00:35,390
+<font face="Duality" size="72" color="#378fdc">en</font>
+
+133
+00:00:35,140 --> 00:00:35,440
+<font face="Duality" size="72" color="#378fdc">ia,</font>
+
+134
+00:00:35,190 --> 00:00:35,490
+<font face="Duality" size="72" color="#378fdc"></font>
+
+135
+00:00:35,350 --> 00:00:35,800
+<font face="Duality" size="72" color="#378fdc"></font>
+
+136
+00:00:35,350 --> 00:00:35,800
+<font face="Duality" size="72" color="#378fdc"></font>
+
+137
+00:00:35,400 --> 00:00:35,800
+<font face="Duality" size="72" color="#378fdc">ra</font>
+
+138
+00:00:35,400 --> 00:00:35,800
+<font face="Duality" size="72" color="#378fdc"></font>
+
+139
+00:00:35,450 --> 00:00:37,800
+<font face="Duality" size="72" color="#378fdc">zem </font>
+
+140
+00:00:35,450 --> 00:00:35,930
+<font face="Duality" size="72" color="#378fdc">Sa</font>
+
+141
+00:00:35,500 --> 00:00:37,850
+<font face="Duality" size="72" color="#378fdc">zn</font>
+
+142
+00:00:35,500 --> 00:00:36,150
+<font face="Duality" size="72" color="#378fdc">ga</font>
+
+143
+00:00:35,550 --> 00:00:37,900
+<font face="Duality" size="72" color="#378fdc">aj</font>
+
+144
+00:00:35,550 --> 00:00:36,280
+<font face="Duality" size="72" color="#378fdc">shi </font>
+
+145
+00:00:35,600 --> 00:00:37,950
+<font face="Duality" size="72" color="#378fdc">dz</font>
+
+146
+00:00:35,600 --> 00:00:36,510
+<font face="Duality" size="72" color="#378fdc">mo</font>
+
+147
+00:00:35,650 --> 00:00:38,000
+<font face="Duality" size="72" color="#378fdc">ie</font>
+
+148
+00:00:35,650 --> 00:00:36,730
+<font face="Duality" size="72" color="#378fdc">no </font>
+
+149
+00:00:35,700 --> 00:00:38,050
+<font face="Duality" size="72" color="#378fdc">my </font>
+
+150
+00:00:35,700 --> 00:00:36,880
+<font face="Duality" size="72" color="#378fdc">wo </font>
+
+151
+00:00:35,750 --> 00:00:38,100
+<font face="Duality" size="72" color="#378fdc">wsz</font>
+
+152
+00:00:35,750 --> 00:00:37,170
+<font face="Duality" size="72" color="#378fdc">sa</font>
+
+153
+00:00:35,800 --> 00:00:36,050
+<font face="Duality" size="72" color="#378fdc"></font>
+
+154
+00:00:35,800 --> 00:00:38,050
+<font face="Duality" size="72" color="#378fdc">ra</font>
+
+155
+00:00:35,800 --> 00:00:38,150
+<font face="Duality" size="72" color="#378fdc">yst</font>
+
+156
+00:00:35,800 --> 00:00:36,050
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8"></font></font>
+
+157
+00:00:35,800 --> 00:00:36,180
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8"></font></font>
+
+158
+00:00:35,800 --> 00:00:37,590
+<font face="Duality" size="72" color="#378fdc">ga</font>
+
+159
+00:00:35,850 --> 00:00:38,200
+<font face="Duality" size="72" color="#378fdc">ko,</font>
+
+160
+00:00:35,850 --> 00:00:37,680
+<font face="Duality" size="72" color="#378fdc">shi </font>
+
+161
+00:00:35,900 --> 00:00:38,250
+<font face="Duality" size="72" color="#378fdc"></font>
+
+162
+00:00:35,900 --> 00:00:38,300
+<font face="Duality" size="72" color="#378fdc">ni </font>
+
+163
+00:00:35,930 --> 00:00:36,400
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">Sa</font></font>
+
+164
+00:00:35,950 --> 00:00:38,660
+<font face="Duality" size="72" color="#378fdc">yu</font>
+
+165
+00:00:36,000 --> 00:00:39,020
+<font face="Duality" size="72" color="#378fdc">ku </font>
+
+166
+00:00:36,050 --> 00:00:39,350
+<font face="Duality" size="72" color="#378fdc">no </font>
+
+167
+00:00:36,100 --> 00:00:39,610
+<font face="Duality" size="72" color="#378fdc">sa</font>
+
+168
+00:00:36,150 --> 00:00:36,530
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ga</font></font>
+
+169
+00:00:36,280 --> 00:00:36,760
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">shi </font></font>
+
+170
+00:00:36,510 --> 00:00:36,980
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">mo</font></font>
+
+171
+00:00:36,730 --> 00:00:37,130
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">no </font></font>
+
+172
+00:00:36,880 --> 00:00:37,420
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">wo </font></font>
+
+173
+00:00:37,170 --> 00:00:37,840
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">sa</font></font>
+
+174
+00:00:37,590 --> 00:00:37,930
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ga</font></font>
+
+175
+00:00:37,680 --> 00:00:38,550
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">shi </font></font>
+
+176
+00:00:37,800 --> 00:00:38,100
+<font face="Duality" size="72" color="#378fdc">zem </font>
+
+177
+00:00:37,850 --> 00:00:38,150
+<font face="Duality" size="72" color="#378fdc">zn</font>
+
+178
+00:00:37,900 --> 00:00:38,200
+<font face="Duality" size="72" color="#378fdc">aj</font>
+
+179
+00:00:37,950 --> 00:00:38,250
+<font face="Duality" size="72" color="#378fdc">dz</font>
+
+180
+00:00:38,000 --> 00:00:38,300
+<font face="Duality" size="72" color="#378fdc">ie</font>
+
+181
+00:00:38,050 --> 00:00:38,350
+<font face="Duality" size="72" color="#378fdc">my </font>
+
+182
+00:00:38,100 --> 00:00:38,400
+<font face="Duality" size="72" color="#378fdc">wsz</font>
+
+183
+00:00:38,100 --> 00:00:38,550
+<font face="Duality" size="72" color="#378fdc"></font>
+
+184
+00:00:38,150 --> 00:00:38,450
+<font face="Duality" size="72" color="#378fdc">yst</font>
+
+185
+00:00:38,150 --> 00:00:38,550
+<font face="Duality" size="72" color="#378fdc">cze</font>
+
+186
+00:00:38,200 --> 00:00:38,500
+<font face="Duality" size="72" color="#378fdc">ko,</font>
+
+187
+00:00:38,200 --> 00:00:40,790
+<font face="Duality" size="72" color="#378fdc">go </font>
+
+188
+00:00:38,250 --> 00:00:38,550
+<font face="Duality" size="72" color="#378fdc"></font>
+
+189
+00:00:38,250 --> 00:00:40,840
+<font face="Duality" size="72" color="#378fdc">tak </font>
+
+190
+00:00:38,300 --> 00:00:40,890
+<font face="Duality" size="72" color="#378fdc">bar</font>
+
+191
+00:00:38,300 --> 00:00:38,910
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ni </font></font>
+
+192
+00:00:38,350 --> 00:00:40,940
+<font face="Duality" size="72" color="#378fdc">dzo </font>
+
+193
+00:00:38,400 --> 00:00:40,990
+<font face="Duality" size="72" color="#378fdc">pra</font>
+
+194
+00:00:38,450 --> 00:00:41,040
+<font face="Duality" size="72" color="#378fdc">gn</font>
+
+195
+00:00:38,500 --> 00:00:41,090
+<font face="Duality" size="72" color="#378fdc">ie</font>
+
+196
+00:00:38,550 --> 00:00:38,800
+<font face="Duality" size="72" color="#378fdc"></font>
+
+197
+00:00:38,550 --> 00:00:41,040
+<font face="Duality" size="72" color="#378fdc">cze</font>
+
+198
+00:00:38,550 --> 00:00:41,140
+<font face="Duality" size="72" color="#378fdc">my.</font>
+
+199
+00:00:38,600 --> 00:00:41,190
+<font face="Duality" size="72" color="#378fdc"></font>
+
+200
+00:00:38,660 --> 00:00:39,270
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">yu</font></font>
+
+201
+00:00:39,020 --> 00:00:39,600
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ku </font></font>
+
+202
+00:00:39,350 --> 00:00:39,860
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">no </font></font>
+
+203
+00:00:39,610 --> 00:00:41,660
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">sa</font></font>
+
+204
+00:00:40,790 --> 00:00:41,090
+<font face="Duality" size="72" color="#378fdc">go </font>
+
+205
+00:00:40,840 --> 00:00:41,140
+<font face="Duality" size="72" color="#378fdc">tak </font>
+
+206
+00:00:40,890 --> 00:00:41,190
+<font face="Duality" size="72" color="#378fdc">bar</font>
+
+207
+00:00:40,940 --> 00:00:41,240
+<font face="Duality" size="72" color="#378fdc">dzo </font>
+
+208
+00:00:40,990 --> 00:00:41,290
+<font face="Duality" size="72" color="#378fdc">pra</font>
+
+209
+00:00:41,040 --> 00:00:41,340
+<font face="Duality" size="72" color="#378fdc">gn</font>
+
+210
+00:00:41,090 --> 00:00:41,390
+<font face="Duality" size="72" color="#378fdc">ie</font>
+
+211
+00:00:41,140 --> 00:00:41,440
+<font face="Duality" size="72" color="#378fdc">my.</font>
+
+212
+00:00:41,190 --> 00:00:41,490
+<font face="Duality" size="72" color="#378fdc"></font>
+
+213
+00:00:41,270 --> 00:00:41,720
+<font face="Duality" size="72" color="#378fdc"></font>
+
+214
+00:00:41,270 --> 00:00:41,720
+<font face="Duality" size="72" color="#378fdc"></font>
+
+215
+00:00:41,320 --> 00:00:41,720
+<font face="Duality" size="72" color="#378fdc">ON</font>
+
+216
+00:00:41,320 --> 00:00:41,720
+<font face="Duality" size="72" color="#378fdc"></font>
+
+217
+00:00:41,370 --> 00:00:42,520
+<font face="Duality" size="72" color="#378fdc">E </font>
+
+218
+00:00:41,370 --> 00:00:41,850
+<font face="Duality" size="72" color="#378fdc">ONE </font>
+
+219
+00:00:41,420 --> 00:00:42,570
+<font face="Duality" size="72" color="#378fdc">PI</font>
+
+220
+00:00:41,420 --> 00:00:42,200
+<font face="Duality" size="72" color="#378fdc">PIECE</font>
+
+221
+00:00:41,470 --> 00:00:42,620
+<font face="Duality" size="72" color="#378fdc">EC</font>
+
+222
+00:00:41,520 --> 00:00:42,670
+<font face="Duality" size="72" color="#378fdc">E!</font>
+
+223
+00:00:41,570 --> 00:00:42,720
+<font face="Duality" size="72" color="#378fdc"></font>
+
+224
+00:00:41,720 --> 00:00:41,970
+<font face="Duality" size="72" color="#378fdc"></font>
+
+225
+00:00:41,720 --> 00:00:42,770
+<font face="Duality" size="72" color="#378fdc">ON</font>
+
+226
+00:00:41,720 --> 00:00:41,970
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8"></font></font>
+
+227
+00:00:41,720 --> 00:00:42,100
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8"></font></font>
+
+228
+00:00:41,850 --> 00:00:42,450
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ONE </font></font>
+
+229
+00:00:42,200 --> 00:00:42,870
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">PIECE</font></font>
+
+230
+00:00:42,520 --> 00:00:42,820
+<font face="Duality" size="72" color="#378fdc">E </font>
+
+231
+00:00:42,570 --> 00:00:42,870
+<font face="Duality" size="72" color="#378fdc">PI</font>
+
+232
+00:00:42,620 --> 00:00:42,920
+<font face="Duality" size="72" color="#378fdc">EC</font>
+
+233
+00:00:42,670 --> 00:00:42,970
+<font face="Duality" size="72" color="#378fdc">E!</font>
+
+234
+00:00:42,720 --> 00:00:43,020
+<font face="Duality" size="72" color="#378fdc"></font>
+
+235
+00:00:47,400 --> 00:00:47,850
+<font face="Duality" size="72" color="#378fdc"></font>
+
+236
+00:00:47,400 --> 00:00:47,850
+<font face="Duality" size="72" color="#378fdc"></font>
+
+237
+00:00:47,450 --> 00:00:47,850
+<font face="Duality" size="72" color="#378fdc">Po </font>
+
+238
+00:00:47,450 --> 00:00:47,850
+<font face="Duality" size="72" color="#378fdc"></font>
+
+239
+00:00:47,500 --> 00:00:51,550
+<font face="Duality" size="72" color="#378fdc">co </font>
+
+240
+00:00:47,500 --> 00:00:47,960
+<font face="Duality" size="72" color="#378fdc">Ra</font>
+
+241
+00:00:47,550 --> 00:00:51,600
+<font face="Duality" size="72" color="#378fdc">mi </font>
+
+242
+00:00:47,550 --> 00:00:48,160
+<font face="Duality" size="72" color="#378fdc">shin</font>
+
+243
+00:00:47,600 --> 00:00:51,650
+<font face="Duality" size="72" color="#378fdc">ko</font>
+
+244
+00:00:47,600 --> 00:00:48,500
+<font face="Duality" size="72" color="#378fdc">ba</font>
+
+245
+00:00:47,650 --> 00:00:51,700
+<font face="Duality" size="72" color="#378fdc">mp</font>
+
+246
+00:00:47,650 --> 00:00:48,700
+<font face="Duality" size="72" color="#378fdc">n </font>
+
+247
+00:00:47,700 --> 00:00:51,750
+<font face="Duality" size="72" color="#378fdc">as? </font>
+
+248
+00:00:47,700 --> 00:00:49,010
+<font face="Duality" size="72" color="#378fdc">nan</font>
+
+249
+00:00:47,750 --> 00:00:51,800
+<font face="Duality" size="72" color="#378fdc">Ty</font>
+
+250
+00:00:47,750 --> 00:00:49,370
+<font face="Duality" size="72" color="#378fdc">te</font>
+
+251
+00:00:47,800 --> 00:00:51,850
+<font face="Duality" size="72" color="#378fdc">lko </font>
+
+252
+00:00:47,800 --> 00:00:49,610
+<font face="Duality" size="72" color="#378fdc"> </font>
+
+253
+00:00:47,850 --> 00:00:48,100
+<font face="Duality" size="72" color="#378fdc"></font>
+
+254
+00:00:47,850 --> 00:00:51,800
+<font face="Duality" size="72" color="#378fdc">Po </font>
+
+255
+00:00:47,850 --> 00:00:51,900
+<font face="Duality" size="72" color="#378fdc">by </font>
+
+256
+00:00:47,850 --> 00:00:48,100
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8"></font></font>
+
+257
+00:00:47,850 --> 00:00:48,210
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8"></font></font>
+
+258
+00:00:47,850 --> 00:00:50,780
+<font face="Duality" size="72" color="#378fdc">juu</font>
+
+259
+00:00:47,900 --> 00:00:51,950
+<font face="Duality" size="72" color="#378fdc">mn</font>
+
+260
+00:00:47,900 --> 00:00:51,160
+<font face="Duality" size="72" color="#378fdc">tai </font>
+
+261
+00:00:47,950 --> 00:00:52,000
+<font face="Duality" size="72" color="#378fdc">ie </font>
+
+262
+00:00:47,950 --> 00:00:51,510
+<font face="Duality" size="72" color="#378fdc">no </font>
+
+263
+00:00:47,960 --> 00:00:48,410
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">Ra</font></font>
+
+264
+00:00:48,000 --> 00:00:52,050
+<font face="Duality" size="72" color="#378fdc">spo</font>
+
+265
+00:00:48,000 --> 00:00:51,860
+<font face="Duality" size="72" color="#378fdc">mo</font>
+
+266
+00:00:48,050 --> 00:00:52,100
+<font face="Duality" size="72" color="#378fdc">wa</font>
+
+267
+00:00:48,050 --> 00:00:52,230
+<font face="Duality" size="72" color="#378fdc">to</font>
+
+268
+00:00:48,100 --> 00:00:52,150
+<font face="Duality" size="72" color="#378fdc">ln</font>
+
+269
+00:00:48,150 --> 00:00:52,200
+<font face="Duality" size="72" color="#378fdc">iał.</font>
+
+270
+00:00:48,160 --> 00:00:48,750
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">shin</font></font>
+
+271
+00:00:48,200 --> 00:00:52,250
+<font face="Duality" size="72" color="#378fdc"></font>
+
+272
+00:00:48,500 --> 00:00:48,950
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ba</font></font>
+
+273
+00:00:48,700 --> 00:00:49,260
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">n </font></font>
+
+274
+00:00:49,010 --> 00:00:49,620
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">nan</font></font>
+
+275
+00:00:49,370 --> 00:00:49,860
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">te</font></font>
+
+276
+00:00:49,610 --> 00:00:51,030
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8"> </font></font>
+
+277
+00:00:50,780 --> 00:00:51,410
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">juu</font></font>
+
+278
+00:00:51,160 --> 00:00:51,760
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">tai </font></font>
+
+279
+00:00:51,510 --> 00:00:52,110
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">no </font></font>
+
+280
+00:00:51,550 --> 00:00:51,850
+<font face="Duality" size="72" color="#378fdc">co </font>
+
+281
+00:00:51,600 --> 00:00:51,900
+<font face="Duality" size="72" color="#378fdc">mi </font>
+
+282
+00:00:51,650 --> 00:00:51,950
+<font face="Duality" size="72" color="#378fdc">ko</font>
+
+283
+00:00:51,700 --> 00:00:52,000
+<font face="Duality" size="72" color="#378fdc">mp</font>
+
+284
+00:00:51,750 --> 00:00:52,050
+<font face="Duality" size="72" color="#378fdc">as? </font>
+
+285
+00:00:51,800 --> 00:00:52,100
+<font face="Duality" size="72" color="#378fdc">Ty</font>
+
+286
+00:00:51,850 --> 00:00:52,150
+<font face="Duality" size="72" color="#378fdc">lko </font>
+
+287
+00:00:51,860 --> 00:00:52,480
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">mo</font></font>
+
+288
+00:00:51,900 --> 00:00:52,200
+<font face="Duality" size="72" color="#378fdc">by </font>
+
+289
+00:00:51,950 --> 00:00:52,250
+<font face="Duality" size="72" color="#378fdc">mn</font>
+
+290
+00:00:52,000 --> 00:00:52,300
+<font face="Duality" size="72" color="#378fdc">ie </font>
+
+291
+00:00:52,050 --> 00:00:52,350
+<font face="Duality" size="72" color="#378fdc">spo</font>
+
+292
+00:00:52,100 --> 00:00:52,400
+<font face="Duality" size="72" color="#378fdc">wa</font>
+
+293
+00:00:52,150 --> 00:00:52,450
+<font face="Duality" size="72" color="#378fdc">ln</font>
+
+294
+00:00:52,200 --> 00:00:52,500
+<font face="Duality" size="72" color="#378fdc">iał.</font>
+
+295
+00:00:52,230 --> 00:00:52,910
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">to</font></font>
+
+296
+00:00:52,250 --> 00:00:52,550
+<font face="Duality" size="72" color="#378fdc"></font>
+
+297
+00:00:53,080 --> 00:00:53,530
+<font face="Duality" size="72" color="#378fdc"></font>
+
+298
+00:00:53,080 --> 00:00:53,530
+<font face="Duality" size="72" color="#378fdc"></font>
+
+299
+00:00:53,130 --> 00:00:53,530
+<font face="Duality" size="72" color="#378fdc">Go</font>
+
+300
+00:00:53,130 --> 00:00:53,530
+<font face="Duality" size="72" color="#378fdc"></font>
+
+301
+00:00:53,180 --> 00:00:57,150
+<font face="Duality" size="72" color="#378fdc">rą</font>
+
+302
+00:00:53,180 --> 00:00:53,630
+<font face="Duality" size="72" color="#378fdc">Ne</font>
+
+303
+00:00:53,230 --> 00:00:57,200
+<font face="Duality" size="72" color="#378fdc">cz</font>
+
+304
+00:00:53,230 --> 00:00:53,850
+<font face="Duality" size="72" color="#378fdc">tsu </font>
+
+305
+00:00:53,280 --> 00:00:57,250
+<font face="Duality" size="72" color="#378fdc">ka </font>
+
+306
+00:00:53,280 --> 00:00:54,000
+<font face="Duality" size="72" color="#378fdc">ni </font>
+
+307
+00:00:53,330 --> 00:00:57,300
+<font face="Duality" size="72" color="#378fdc">ra</font>
+
+308
+00:00:53,330 --> 00:00:54,170
+<font face="Duality" size="72" color="#378fdc">u</font>
+
+309
+00:00:53,380 --> 00:00:57,350
+<font face="Duality" size="72" color="#378fdc">do</font>
+
+310
+00:00:53,380 --> 00:00:54,350
+<font face="Duality" size="72" color="#378fdc">ka</font>
+
+311
+00:00:53,430 --> 00:00:57,400
+<font face="Duality" size="72" color="#378fdc">ści </font>
+
+312
+00:00:53,430 --> 00:00:54,670
+<font face="Duality" size="72" color="#378fdc">sa</font>
+
+313
+00:00:53,480 --> 00:00:57,450
+<font face="Duality" size="72" color="#378fdc">ro</font>
+
+314
+00:00:53,480 --> 00:00:55,090
+<font face="Duality" size="72" color="#378fdc">re</font>
+
+315
+00:00:53,530 --> 00:00:53,780
+<font face="Duality" size="72" color="#378fdc"></font>
+
+316
+00:00:53,530 --> 00:00:57,400
+<font face="Duality" size="72" color="#378fdc">Go</font>
+
+317
+00:00:53,530 --> 00:00:57,500
+<font face="Duality" size="72" color="#378fdc">zn</font>
+
+318
+00:00:53,530 --> 00:00:53,780
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8"></font></font>
+
+319
+00:00:53,530 --> 00:00:53,880
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8"></font></font>
+
+320
+00:00:53,530 --> 00:00:55,320
+<font face="Duality" size="72" color="#378fdc"> </font>
+
+321
+00:00:53,580 --> 00:00:57,550
+<font face="Duality" size="72" color="#378fdc">osi </font>
+
+322
+00:00:53,580 --> 00:00:55,760
+<font face="Duality" size="72" color="#378fdc">ka</font>
+
+323
+00:00:53,630 --> 00:00:57,600
+<font face="Duality" size="72" color="#378fdc">mn</font>
+
+324
+00:00:53,630 --> 00:00:54,100
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">Ne</font></font>
+
+325
+00:00:53,630 --> 00:00:56,140
+<font face="Duality" size="72" color="#378fdc">ji </font>
+
+326
+00:00:53,680 --> 00:00:57,650
+<font face="Duality" size="72" color="#378fdc">ie, </font>
+
+327
+00:00:53,680 --> 00:00:56,510
+<font face="Duality" size="72" color="#378fdc">wo </font>
+
+328
+00:00:53,730 --> 00:00:57,700
+<font face="Duality" size="72" color="#378fdc">prz</font>
+
+329
+00:00:53,730 --> 00:00:57,220
+<font face="Duality" size="72" color="#378fdc">to</font>
+
+330
+00:00:53,780 --> 00:00:57,750
+<font face="Duality" size="72" color="#378fdc">ej</font>
+
+331
+00:00:53,780 --> 00:00:57,400
+<font face="Duality" size="72" color="#378fdc">ru </font>
+
+332
+00:00:53,830 --> 00:00:57,800
+<font face="Duality" size="72" color="#378fdc">mu</font>
+
+333
+00:00:53,830 --> 00:00:57,570
+<font face="Duality" size="72" color="#378fdc">no </font>
+
+334
+00:00:53,850 --> 00:00:54,250
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">tsu </font></font>
+
+335
+00:00:53,880 --> 00:00:57,850
+<font face="Duality" size="72" color="#378fdc">ję </font>
+
+336
+00:00:53,880 --> 00:00:57,710
+<font face="Duality" size="72" color="#378fdc">sa</font>
+
+337
+00:00:53,930 --> 00:00:57,900
+<font face="Duality" size="72" color="#378fdc">st</font>
+
+338
+00:00:53,980 --> 00:00:57,950
+<font face="Duality" size="72" color="#378fdc">er.</font>
+
+339
+00:00:54,000 --> 00:00:54,420
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ni </font></font>
+
+340
+00:00:54,030 --> 00:00:58,000
+<font face="Duality" size="72" color="#378fdc"></font>
+
+341
+00:00:54,170 --> 00:00:54,600
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">u</font></font>
+
+342
+00:00:54,350 --> 00:00:54,920
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ka</font></font>
+
+343
+00:00:54,670 --> 00:00:55,340
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">sa</font></font>
+
+344
+00:00:55,090 --> 00:00:55,570
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">re</font></font>
+
+345
+00:00:55,320 --> 00:00:56,010
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8"> </font></font>
+
+346
+00:00:55,760 --> 00:00:56,390
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ka</font></font>
+
+347
+00:00:56,140 --> 00:00:56,760
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ji </font></font>
+
+348
+00:00:56,510 --> 00:00:57,470
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">wo </font></font>
+
+349
+00:00:57,150 --> 00:00:57,450
+<font face="Duality" size="72" color="#378fdc">rą</font>
+
+350
+00:00:57,200 --> 00:00:57,500
+<font face="Duality" size="72" color="#378fdc">cz</font>
+
+351
+00:00:57,220 --> 00:00:57,650
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">to</font></font>
+
+352
+00:00:57,250 --> 00:00:57,550
+<font face="Duality" size="72" color="#378fdc">ka </font>
+
+353
+00:00:57,300 --> 00:00:57,600
+<font face="Duality" size="72" color="#378fdc">ra</font>
+
+354
+00:00:57,350 --> 00:00:57,650
+<font face="Duality" size="72" color="#378fdc">do</font>
+
+355
+00:00:57,400 --> 00:00:57,700
+<font face="Duality" size="72" color="#378fdc">ści </font>
+
+356
+00:00:57,400 --> 00:00:57,820
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ru </font></font>
+
+357
+00:00:57,450 --> 00:00:57,750
+<font face="Duality" size="72" color="#378fdc">ro</font>
+
+358
+00:00:57,500 --> 00:00:57,800
+<font face="Duality" size="72" color="#378fdc">zn</font>
+
+359
+00:00:57,550 --> 00:00:57,850
+<font face="Duality" size="72" color="#378fdc">osi </font>
+
+360
+00:00:57,570 --> 00:00:57,960
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">no </font></font>
+
+361
+00:00:57,600 --> 00:00:57,900
+<font face="Duality" size="72" color="#378fdc">mn</font>
+
+362
+00:00:57,650 --> 00:00:57,950
+<font face="Duality" size="72" color="#378fdc">ie, </font>
+
+363
+00:00:57,700 --> 00:00:58,000
+<font face="Duality" size="72" color="#378fdc">prz</font>
+
+364
+00:00:57,710 --> 00:00:58,690
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">sa</font></font>
+
+365
+00:00:57,750 --> 00:00:58,050
+<font face="Duality" size="72" color="#378fdc">ej</font>
+
+366
+00:00:57,800 --> 00:00:58,100
+<font face="Duality" size="72" color="#378fdc">mu</font>
+
+367
+00:00:57,850 --> 00:00:58,150
+<font face="Duality" size="72" color="#378fdc">ję </font>
+
+368
+00:00:57,900 --> 00:00:58,200
+<font face="Duality" size="72" color="#378fdc">st</font>
+
+369
+00:00:57,950 --> 00:00:58,250
+<font face="Duality" size="72" color="#378fdc">er.</font>
+
+370
+00:00:58,000 --> 00:00:58,300
+<font face="Duality" size="72" color="#378fdc"></font>
+
+371
+00:00:58,830 --> 00:00:59,280
+<font face="Duality" size="72" color="#378fdc"></font>
+
+372
+00:00:58,830 --> 00:00:59,280
+<font face="Duality" size="72" color="#378fdc"></font>
+
+373
+00:00:58,880 --> 00:00:59,280
+<font face="Duality" size="72" color="#378fdc">Na </font>
+
+374
+00:00:58,880 --> 00:00:59,280
+<font face="Duality" size="72" color="#378fdc"></font>
+
+375
+00:00:58,930 --> 00:01:01,080
+<font face="Duality" size="72" color="#378fdc">za</font>
+
+376
+00:00:58,930 --> 00:00:59,370
+<font face="Duality" size="72" color="#378fdc">Ho</font>
+
+377
+00:00:58,980 --> 00:01:01,130
+<font face="Duality" size="72" color="#378fdc">ku</font>
+
+378
+00:00:58,980 --> 00:00:59,620
+<font face="Duality" size="72" color="#378fdc">ko</font>
+
+379
+00:00:59,030 --> 00:01:01,180
+<font face="Duality" size="72" color="#378fdc">rz</font>
+
+380
+00:00:59,030 --> 00:00:59,720
+<font face="Duality" size="72" color="#378fdc">ri </font>
+
+381
+00:00:59,080 --> 00:01:01,230
+<font face="Duality" size="72" color="#378fdc">on</font>
+
+382
+00:00:59,080 --> 00:00:59,910
+<font face="Duality" size="72" color="#378fdc">ka</font>
+
+383
+00:00:59,130 --> 00:01:01,280
+<font face="Duality" size="72" color="#378fdc">ej </font>
+
+384
+00:00:59,130 --> 00:01:00,080
+<font face="Duality" size="72" color="#378fdc">bu</font>
+
+385
+00:00:59,180 --> 00:01:01,330
+<font face="Duality" size="72" color="#378fdc">ma</font>
+
+386
+00:00:59,180 --> 00:01:00,450
+<font face="Duality" size="72" color="#378fdc">tte</font>
+
+387
+00:00:59,230 --> 00:01:01,380
+<font face="Duality" size="72" color="#378fdc">pie </font>
+
+388
+00:00:59,230 --> 00:01:00,770
+<font face="Duality" size="72" color="#378fdc">ta</font>
+
+389
+00:00:59,280 --> 00:00:59,530
+<font face="Duality" size="72" color="#378fdc"></font>
+
+390
+00:00:59,280 --> 00:01:01,330
+<font face="Duality" size="72" color="#378fdc">Na </font>
+
+391
+00:00:59,280 --> 00:01:01,430
+<font face="Duality" size="72" color="#378fdc">sz</font>
+
+392
+00:00:59,280 --> 00:00:59,530
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8"></font></font>
+
+393
+00:00:59,280 --> 00:00:59,620
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8"></font></font>
+
+394
+00:00:59,280 --> 00:01:01,030
+<font face="Duality" size="72" color="#378fdc"> </font>
+
+395
+00:00:59,330 --> 00:01:01,480
+<font face="Duality" size="72" color="#378fdc">lak,</font>
+
+396
+00:00:59,330 --> 00:01:01,870
+<font face="Duality" size="72" color="#378fdc">ta</font>
+
+397
+00:00:59,370 --> 00:00:59,870
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">Ho</font></font>
+
+398
+00:00:59,380 --> 00:01:01,530
+<font face="Duality" size="72" color="#378fdc"></font>
+
+399
+00:00:59,380 --> 00:01:02,050
+<font face="Duality" size="72" color="#378fdc">ka</font>
+
+400
+00:00:59,430 --> 00:01:02,200
+<font face="Duality" size="72" color="#378fdc">ra </font>
+
+401
+00:00:59,480 --> 00:01:02,570
+<font face="Duality" size="72" color="#378fdc">no </font>
+
+402
+00:00:59,530 --> 00:01:02,890
+<font face="Duality" size="72" color="#378fdc">chi</font>
+
+403
+00:00:59,580 --> 00:01:03,310
+<font face="Duality" size="72" color="#378fdc">zu </font>
+
+404
+00:00:59,620 --> 00:00:59,970
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ko</font></font>
+
+405
+00:00:59,630 --> 00:01:03,490
+<font face="Duality" size="72" color="#378fdc">mo</font>
+
+406
+00:00:59,720 --> 00:01:00,160
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ri </font></font>
+
+407
+00:00:59,910 --> 00:01:00,330
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ka</font></font>
+
+408
+00:01:00,080 --> 00:01:00,700
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">bu</font></font>
+
+409
+00:01:00,450 --> 00:01:01,020
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">tte</font></font>
+
+410
+00:01:00,770 --> 00:01:01,280
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ta</font></font>
+
+411
+00:01:01,030 --> 00:01:02,120
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8"> </font></font>
+
+412
+00:01:01,080 --> 00:01:01,380
+<font face="Duality" size="72" color="#378fdc">za</font>
+
+413
+00:01:01,130 --> 00:01:01,430
+<font face="Duality" size="72" color="#378fdc">ku</font>
+
+414
+00:01:01,180 --> 00:01:01,480
+<font face="Duality" size="72" color="#378fdc">rz</font>
+
+415
+00:01:01,230 --> 00:01:01,530
+<font face="Duality" size="72" color="#378fdc">on</font>
+
+416
+00:01:01,280 --> 00:01:01,580
+<font face="Duality" size="72" color="#378fdc">ej </font>
+
+417
+00:01:01,330 --> 00:01:01,630
+<font face="Duality" size="72" color="#378fdc">ma</font>
+
+418
+00:01:01,330 --> 00:01:01,780
+<font face="Duality" size="72" color="#378fdc"></font>
+
+419
+00:01:01,380 --> 00:01:01,680
+<font face="Duality" size="72" color="#378fdc">pie </font>
+
+420
+00:01:01,380 --> 00:01:01,780
+<font face="Duality" size="72" color="#378fdc">mo</font>
+
+421
+00:01:01,430 --> 00:01:01,730
+<font face="Duality" size="72" color="#378fdc">sz</font>
+
+422
+00:01:01,430 --> 00:01:03,780
+<font face="Duality" size="72" color="#378fdc">że </font>
+
+423
+00:01:01,480 --> 00:01:01,780
+<font face="Duality" size="72" color="#378fdc">lak,</font>
+
+424
+00:01:01,480 --> 00:01:03,830
+<font face="Duality" size="72" color="#378fdc">cze</font>
+
+425
+00:01:01,530 --> 00:01:01,830
+<font face="Duality" size="72" color="#378fdc"></font>
+
+426
+00:01:01,530 --> 00:01:03,880
+<font face="Duality" size="72" color="#378fdc">ka </font>
+
+427
+00:01:01,580 --> 00:01:03,930
+<font face="Duality" size="72" color="#378fdc">nas </font>
+
+428
+00:01:01,630 --> 00:01:03,980
+<font face="Duality" size="72" color="#378fdc">tam </font>
+
+429
+00:01:01,680 --> 00:01:04,030
+<font face="Duality" size="72" color="#378fdc">ska</font>
+
+430
+00:01:01,730 --> 00:01:04,080
+<font face="Duality" size="72" color="#378fdc">rb.</font>
+
+431
+00:01:01,780 --> 00:01:02,030
+<font face="Duality" size="72" color="#378fdc"></font>
+
+432
+00:01:01,780 --> 00:01:04,030
+<font face="Duality" size="72" color="#378fdc">mo</font>
+
+433
+00:01:01,780 --> 00:01:04,130
+<font face="Duality" size="72" color="#378fdc"></font>
+
+434
+00:01:01,870 --> 00:01:02,300
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ta</font></font>
+
+435
+00:01:02,050 --> 00:01:02,450
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ka</font></font>
+
+436
+00:01:02,200 --> 00:01:02,820
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ra </font></font>
+
+437
+00:01:02,570 --> 00:01:03,140
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">no </font></font>
+
+438
+00:01:02,890 --> 00:01:03,560
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">chi</font></font>
+
+439
+00:01:03,310 --> 00:01:03,740
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">zu </font></font>
+
+440
+00:01:03,490 --> 00:01:04,730
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">mo</font></font>
+
+441
+00:01:03,780 --> 00:01:04,080
+<font face="Duality" size="72" color="#378fdc">że </font>
+
+442
+00:01:03,830 --> 00:01:04,130
+<font face="Duality" size="72" color="#378fdc">cze</font>
+
+443
+00:01:03,880 --> 00:01:04,180
+<font face="Duality" size="72" color="#378fdc">ka </font>
+
+444
+00:01:03,930 --> 00:01:04,230
+<font face="Duality" size="72" color="#378fdc">nas </font>
+
+445
+00:01:03,980 --> 00:01:04,280
+<font face="Duality" size="72" color="#378fdc">tam </font>
+
+446
+00:01:04,030 --> 00:01:04,330
+<font face="Duality" size="72" color="#378fdc">ska</font>
+
+447
+00:01:04,040 --> 00:01:04,490
+<font face="Duality" size="72" color="#378fdc"></font>
+
+448
+00:01:04,040 --> 00:01:04,490
+<font face="Duality" size="72" color="#378fdc"></font>
+
+449
+00:01:04,080 --> 00:01:04,380
+<font face="Duality" size="72" color="#378fdc">rb.</font>
+
+450
+00:01:04,090 --> 00:01:04,490
+<font face="Duality" size="72" color="#378fdc">Sp</font>
+
+451
+00:01:04,090 --> 00:01:04,490
+<font face="Duality" size="72" color="#378fdc"></font>
+
+452
+00:01:04,130 --> 00:01:04,430
+<font face="Duality" size="72" color="#378fdc"></font>
+
+453
+00:01:04,140 --> 00:01:06,590
+<font face="Duality" size="72" color="#378fdc">ra</font>
+
+454
+00:01:04,140 --> 00:01:04,710
+<font face="Duality" size="72" color="#378fdc">Ta</font>
+
+455
+00:01:04,190 --> 00:01:06,640
+<font face="Duality" size="72" color="#378fdc">wdź </font>
+
+456
+00:01:04,190 --> 00:01:04,820
+<font face="Duality" size="72" color="#378fdc">shi</font>
+
+457
+00:01:04,240 --> 00:01:06,690
+<font face="Duality" size="72" color="#378fdc">i </font>
+
+458
+00:01:04,240 --> 00:01:05,090
+<font face="Duality" size="72" color="#378fdc">ka</font>
+
+459
+00:01:04,290 --> 00:01:06,740
+<font face="Duality" size="72" color="#378fdc">się </font>
+
+460
+00:01:04,290 --> 00:01:05,450
+<font face="Duality" size="72" color="#378fdc">me</font>
+
+461
+00:01:04,340 --> 00:01:06,790
+<font face="Duality" size="72" color="#378fdc">prz</font>
+
+462
+00:01:04,340 --> 00:01:05,760
+<font face="Duality" size="72" color="#378fdc">ta </font>
+
+463
+00:01:04,390 --> 00:01:06,840
+<font face="Duality" size="72" color="#378fdc">ek</font>
+
+464
+00:01:04,390 --> 00:01:06,170
+<font face="Duality" size="72" color="#378fdc">no </font>
+
+465
+00:01:04,440 --> 00:01:06,890
+<font face="Duality" size="72" color="#378fdc">on</font>
+
+466
+00:01:04,440 --> 00:01:06,510
+<font face="Duality" size="72" color="#378fdc">na</font>
+
+467
+00:01:04,490 --> 00:01:04,740
+<font face="Duality" size="72" color="#378fdc"></font>
+
+468
+00:01:04,490 --> 00:01:06,840
+<font face="Duality" size="72" color="#378fdc">Sp</font>
+
+469
+00:01:04,490 --> 00:01:06,940
+<font face="Duality" size="72" color="#378fdc">aj,</font>
+
+470
+00:01:04,490 --> 00:01:04,740
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8"></font></font>
+
+471
+00:01:04,490 --> 00:01:04,960
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8"></font></font>
+
+472
+00:01:04,490 --> 00:01:07,050
+<font face="Duality" size="72" color="#378fdc">ra </font>
+
+473
+00:01:04,540 --> 00:01:06,990
+<font face="Duality" size="72" color="#378fdc"></font>
+
+474
+00:01:04,540 --> 00:01:07,600
+<font face="Duality" size="72" color="#378fdc">den</font>
+
+475
+00:01:04,590 --> 00:01:07,860
+<font face="Duality" size="72" color="#378fdc">se</font>
+
+476
+00:01:04,640 --> 00:01:08,240
+<font face="Duality" size="72" color="#378fdc">tsu </font>
+
+477
+00:01:04,690 --> 00:01:08,650
+<font face="Duality" size="72" color="#378fdc">ja</font>
+
+478
+00:01:04,710 --> 00:01:05,070
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">Ta</font></font>
+
+479
+00:01:04,740 --> 00:01:09,010
+<font face="Duality" size="72" color="#378fdc">na</font>
+
+480
+00:01:04,790 --> 00:01:09,250
+<font face="Duality" size="72" color="#378fdc">i!</font>
+
+481
+00:01:04,820 --> 00:01:05,340
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">shi</font></font>
+
+482
+00:01:05,090 --> 00:01:05,700
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ka</font></font>
+
+483
+00:01:05,450 --> 00:01:06,010
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">me</font></font>
+
+484
+00:01:05,760 --> 00:01:06,420
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ta </font></font>
+
+485
+00:01:06,170 --> 00:01:06,760
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">no </font></font>
+
+486
+00:01:06,510 --> 00:01:07,300
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">na</font></font>
+
+487
+00:01:06,590 --> 00:01:06,890
+<font face="Duality" size="72" color="#378fdc">ra</font>
+
+488
+00:01:06,640 --> 00:01:06,940
+<font face="Duality" size="72" color="#378fdc">wdź </font>
+
+489
+00:01:06,690 --> 00:01:06,990
+<font face="Duality" size="72" color="#378fdc">i </font>
+
+490
+00:01:06,740 --> 00:01:07,040
+<font face="Duality" size="72" color="#378fdc">się </font>
+
+491
+00:01:06,790 --> 00:01:07,090
+<font face="Duality" size="72" color="#378fdc">prz</font>
+
+492
+00:01:06,840 --> 00:01:07,140
+<font face="Duality" size="72" color="#378fdc">ek</font>
+
+493
+00:01:06,890 --> 00:01:07,190
+<font face="Duality" size="72" color="#378fdc">on</font>
+
+494
+00:01:06,940 --> 00:01:07,240
+<font face="Duality" size="72" color="#378fdc">aj,</font>
+
+495
+00:01:06,990 --> 00:01:07,290
+<font face="Duality" size="72" color="#378fdc"></font>
+
+496
+00:01:07,050 --> 00:01:07,500
+<font face="Duality" size="72" color="#378fdc"></font>
+
+497
+00:01:07,050 --> 00:01:07,850
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ra </font></font>
+
+498
+00:01:07,100 --> 00:01:07,500
+<font face="Duality" size="72" color="#378fdc">że </font>
+
+499
+00:01:07,150 --> 00:01:09,350
+<font face="Duality" size="72" color="#378fdc">le</font>
+
+500
+00:01:07,200 --> 00:01:09,400
+<font face="Duality" size="72" color="#378fdc">gen</font>
+
+501
+00:01:07,250 --> 00:01:09,450
+<font face="Duality" size="72" color="#378fdc">da </font>
+
+502
+00:01:07,300 --> 00:01:09,500
+<font face="Duality" size="72" color="#378fdc">zi</font>
+
+503
+00:01:07,350 --> 00:01:09,550
+<font face="Duality" size="72" color="#378fdc">ar</font>
+
+504
+00:01:07,400 --> 00:01:09,600
+<font face="Duality" size="72" color="#378fdc">no </font>
+
+505
+00:01:07,450 --> 00:01:09,650
+<font face="Duality" size="72" color="#378fdc">pr</font>
+
+506
+00:01:07,500 --> 00:01:07,750
+<font face="Duality" size="72" color="#378fdc"></font>
+
+507
+00:01:07,500 --> 00:01:09,600
+<font face="Duality" size="72" color="#378fdc">że </font>
+
+508
+00:01:07,500 --> 00:01:09,700
+<font face="Duality" size="72" color="#378fdc">aw</font>
+
+509
+00:01:07,550 --> 00:01:09,750
+<font face="Duality" size="72" color="#378fdc">dy </font>
+
+510
+00:01:07,600 --> 00:01:09,800
+<font face="Duality" size="72" color="#378fdc">ma.</font>
+
+511
+00:01:07,600 --> 00:01:08,110
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">den</font></font>
+
+512
+00:01:07,650 --> 00:01:09,850
+<font face="Duality" size="72" color="#378fdc"></font>
+
+513
+00:01:07,860 --> 00:01:08,490
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">se</font></font>
+
+514
+00:01:08,240 --> 00:01:08,900
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">tsu </font></font>
+
+515
+00:01:08,650 --> 00:01:09,260
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ja</font></font>
+
+516
+00:01:09,010 --> 00:01:09,500
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">na</font></font>
+
+517
+00:01:09,250 --> 00:01:09,990
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">i!</font></font>
+
+518
+00:01:09,350 --> 00:01:09,650
+<font face="Duality" size="72" color="#378fdc">le</font>
+
+519
+00:01:09,400 --> 00:01:09,700
+<font face="Duality" size="72" color="#378fdc">gen</font>
+
+520
+00:01:09,450 --> 00:01:09,750
+<font face="Duality" size="72" color="#378fdc">da </font>
+
+521
+00:01:09,500 --> 00:01:09,800
+<font face="Duality" size="72" color="#378fdc">zi</font>
+
+522
+00:01:09,550 --> 00:01:09,850
+<font face="Duality" size="72" color="#378fdc">ar</font>
+
+523
+00:01:09,600 --> 00:01:09,900
+<font face="Duality" size="72" color="#378fdc">no </font>
+
+524
+00:01:09,650 --> 00:01:09,950
+<font face="Duality" size="72" color="#378fdc">pr</font>
+
+525
+00:01:09,700 --> 00:01:10,000
+<font face="Duality" size="72" color="#378fdc">aw</font>
+
+526
+00:01:09,750 --> 00:01:10,050
+<font face="Duality" size="72" color="#378fdc">dy </font>
+
+527
+00:01:09,800 --> 00:01:10,100
+<font face="Duality" size="72" color="#378fdc">ma.</font>
+
+528
+00:01:09,850 --> 00:01:10,150
+<font face="Duality" size="72" color="#378fdc"></font>
+
+529
+00:01:10,880 --> 00:01:11,330
+<font face="Duality" size="72" color="#378fdc"></font>
+
+530
+00:01:10,880 --> 00:01:11,330
+<font face="Duality" size="72" color="#378fdc"></font>
+
+531
+00:01:10,930 --> 00:01:11,330
+<font face="Duality" size="72" color="#378fdc">Je</font>
+
+532
+00:01:10,930 --> 00:01:11,330
+<font face="Duality" size="72" color="#378fdc"></font>
+
+533
+00:01:10,980 --> 00:01:12,910
+<font face="Duality" size="72" color="#378fdc">śli </font>
+
+534
+00:01:10,980 --> 00:01:11,460
+<font face="Duality" size="72" color="#378fdc">Ko</font>
+
+535
+00:01:11,030 --> 00:01:12,960
+<font face="Duality" size="72" color="#378fdc">pr</font>
+
+536
+00:01:11,030 --> 00:01:11,830
+<font face="Duality" size="72" color="#378fdc">ji</font>
+
+537
+00:01:11,080 --> 00:01:13,010
+<font face="Duality" size="72" color="#378fdc">ob</font>
+
+538
+00:01:11,080 --> 00:01:12,210
+<font face="Duality" size="72" color="#378fdc">n </font>
+
+539
+00:01:11,130 --> 00:01:13,060
+<font face="Duality" size="72" color="#378fdc">lem </font>
+
+540
+00:01:11,130 --> 00:01:12,890
+<font face="Duality" size="72" color="#378fdc">te</font>
+
+541
+00:01:11,180 --> 00:01:13,110
+<font face="Duality" size="72" color="#378fdc">ja</font>
+
+542
+00:01:11,180 --> 00:01:12,980
+<font face="Duality" size="72" color="#378fdc">ki </font>
+
+543
+00:01:11,230 --> 00:01:13,160
+<font face="Duality" size="72" color="#378fdc">kiś </font>
+
+544
+00:01:11,230 --> 00:01:13,470
+<font face="Duality" size="72" color="#378fdc">na </font>
+
+545
+00:01:11,280 --> 00:01:13,210
+<font face="Duality" size="72" color="#378fdc">ma</font>
+
+546
+00:01:11,280 --> 00:01:14,180
+<font face="Duality" size="72" color="#378fdc">a</font>
+
+547
+00:01:11,330 --> 00:01:11,580
+<font face="Duality" size="72" color="#378fdc"></font>
+
+548
+00:01:11,330 --> 00:01:13,160
+<font face="Duality" size="72" color="#378fdc">Je</font>
+
+549
+00:01:11,330 --> 00:01:13,260
+<font face="Duality" size="72" color="#378fdc">sz,</font>
+
+550
+00:01:11,330 --> 00:01:11,580
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8"></font></font>
+
+551
+00:01:11,330 --> 00:01:11,710
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8"></font></font>
+
+552
+00:01:11,330 --> 00:01:14,510
+<font face="Duality" size="72" color="#378fdc">ra</font>
+
+553
+00:01:11,380 --> 00:01:13,310
+<font face="Duality" size="72" color="#378fdc"></font>
+
+554
+00:01:11,380 --> 00:01:14,660
+<font face="Duality" size="72" color="#378fdc">shi </font>
+
+555
+00:01:11,430 --> 00:01:14,780
+<font face="Duality" size="72" color="#378fdc">wa </font>
+
+556
+00:01:11,460 --> 00:01:12,080
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">Ko</font></font>
+
+557
+00:01:11,480 --> 00:01:15,400
+<font face="Duality" size="72" color="#378fdc">da</font>
+
+558
+00:01:11,530 --> 00:01:15,930
+<font face="Duality" size="72" color="#378fdc">re </font>
+
+559
+00:01:11,580 --> 00:01:16,120
+<font face="Duality" size="72" color="#378fdc">ka </font>
+
+560
+00:01:11,630 --> 00:01:16,310
+<font face="Duality" size="72" color="#378fdc">no</font>
+
+561
+00:01:11,830 --> 00:01:12,460
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ji</font></font>
+
+562
+00:01:12,210 --> 00:01:13,140
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">n </font></font>
+
+563
+00:01:12,890 --> 00:01:13,230
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">te</font></font>
+
+564
+00:01:12,910 --> 00:01:13,210
+<font face="Duality" size="72" color="#378fdc">śli </font>
+
+565
+00:01:12,960 --> 00:01:13,260
+<font face="Duality" size="72" color="#378fdc">pr</font>
+
+566
+00:01:12,980 --> 00:01:13,720
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ki </font></font>
+
+567
+00:01:13,010 --> 00:01:13,310
+<font face="Duality" size="72" color="#378fdc">ob</font>
+
+568
+00:01:13,060 --> 00:01:13,360
+<font face="Duality" size="72" color="#378fdc">lem </font>
+
+569
+00:01:13,110 --> 00:01:13,410
+<font face="Duality" size="72" color="#378fdc">ja</font>
+
+570
+00:01:13,160 --> 00:01:13,460
+<font face="Duality" size="72" color="#378fdc">kiś </font>
+
+571
+00:01:13,210 --> 00:01:13,510
+<font face="Duality" size="72" color="#378fdc">ma</font>
+
+572
+00:01:13,210 --> 00:01:13,660
+<font face="Duality" size="72" color="#378fdc"></font>
+
+573
+00:01:13,260 --> 00:01:13,560
+<font face="Duality" size="72" color="#378fdc">sz,</font>
+
+574
+00:01:13,260 --> 00:01:13,660
+<font face="Duality" size="72" color="#378fdc">nie </font>
+
+575
+00:01:13,310 --> 00:01:13,610
+<font face="Duality" size="72" color="#378fdc"></font>
+
+576
+00:01:13,310 --> 00:01:15,800
+<font face="Duality" size="72" color="#378fdc">sie</font>
+
+577
+00:01:13,360 --> 00:01:15,850
+<font face="Duality" size="72" color="#378fdc">dz</font>
+
+578
+00:01:13,410 --> 00:01:15,900
+<font face="Duality" size="72" color="#378fdc">isz </font>
+
+579
+00:01:13,460 --> 00:01:15,950
+<font face="Duality" size="72" color="#378fdc">w </font>
+
+580
+00:01:13,470 --> 00:01:14,430
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">na </font></font>
+
+581
+00:01:13,510 --> 00:01:16,000
+<font face="Duality" size="72" color="#378fdc">tym </font>
+
+582
+00:01:13,560 --> 00:01:16,050
+<font face="Duality" size="72" color="#378fdc">sam.</font>
+
+583
+00:01:13,610 --> 00:01:16,100
+<font face="Duality" size="72" color="#378fdc"></font>
+
+584
+00:01:13,660 --> 00:01:13,910
+<font face="Duality" size="72" color="#378fdc"></font>
+
+585
+00:01:13,660 --> 00:01:16,050
+<font face="Duality" size="72" color="#378fdc">nie </font>
+
+586
+00:01:14,180 --> 00:01:14,760
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">a</font></font>
+
+587
+00:01:14,510 --> 00:01:14,910
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ra</font></font>
+
+588
+00:01:14,660 --> 00:01:15,030
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">shi </font></font>
+
+589
+00:01:14,780 --> 00:01:15,650
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">wa </font></font>
+
+590
+00:01:15,400 --> 00:01:16,180
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">da</font></font>
+
+591
+00:01:15,800 --> 00:01:16,100
+<font face="Duality" size="72" color="#378fdc">sie</font>
+
+592
+00:01:15,850 --> 00:01:16,150
+<font face="Duality" size="72" color="#378fdc">dz</font>
+
+593
+00:01:15,900 --> 00:01:16,200
+<font face="Duality" size="72" color="#378fdc">isz </font>
+
+594
+00:01:15,930 --> 00:01:16,370
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">re </font></font>
+
+595
+00:01:15,950 --> 00:01:16,250
+<font face="Duality" size="72" color="#378fdc">w </font>
+
+596
+00:01:16,000 --> 00:01:16,300
+<font face="Duality" size="72" color="#378fdc">tym </font>
+
+597
+00:01:16,050 --> 00:01:16,350
+<font face="Duality" size="72" color="#378fdc">sam.</font>
+
+598
+00:01:16,100 --> 00:01:16,400
+<font face="Duality" size="72" color="#378fdc"></font>
+
+599
+00:01:16,120 --> 00:01:16,560
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ka </font></font>
+
+600
+00:01:16,310 --> 00:01:17,050
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">no</font></font>
+
+601
+00:01:16,680 --> 00:01:17,130
+<font face="Duality" size="72" color="#378fdc"></font>
+
+602
+00:01:16,680 --> 00:01:17,130
+<font face="Duality" size="72" color="#378fdc"></font>
+
+603
+00:01:16,730 --> 00:01:17,130
+<font face="Duality" size="72" color="#378fdc">Ta</font>
+
+604
+00:01:16,730 --> 00:01:17,130
+<font face="Duality" size="72" color="#378fdc"></font>
+
+605
+00:01:16,780 --> 00:01:21,190
+<font face="Duality" size="72" color="#378fdc">ki </font>
+
+606
+00:01:16,780 --> 00:01:17,220
+<font face="Duality" size="72" color="#378fdc">B</font>
+
+607
+00:01:16,830 --> 00:01:21,240
+<font face="Duality" size="72" color="#378fdc">już </font>
+
+608
+00:01:16,830 --> 00:01:17,580
+<font face="Duality" size="72" color="#378fdc">I</font>
+
+609
+00:01:16,880 --> 00:01:21,290
+<font face="Duality" size="72" color="#378fdc">ży</font>
+
+610
+00:01:16,880 --> 00:01:17,900
+<font face="Duality" size="72" color="#378fdc">O</font>
+
+611
+00:01:16,930 --> 00:01:21,340
+<font face="Duality" size="72" color="#378fdc">cia cykl,</font>
+
+612
+00:01:16,930 --> 00:01:18,640
+<font face="Duality" size="72" color="#378fdc">RHY</font>
+
+613
+00:01:16,980 --> 00:01:21,390
+<font face="Duality" size="72" color="#378fdc"></font>
+
+614
+00:01:16,980 --> 00:01:18,920
+<font face="Duality" size="72" color="#378fdc">TH</font>
+
+615
+00:01:17,030 --> 00:01:19,180
+<font face="Duality" size="72" color="#378fdc">M </font>
+
+616
+00:01:17,080 --> 00:01:19,720
+<font face="Duality" size="72" color="#378fdc">no</font>
+
+617
+00:01:17,130 --> 00:01:17,380
+<font face="Duality" size="72" color="#378fdc"></font>
+
+618
+00:01:17,130 --> 00:01:21,440
+<font face="Duality" size="72" color="#378fdc">Ta</font>
+
+619
+00:01:17,130 --> 00:01:17,380
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8"></font></font>
+
+620
+00:01:17,130 --> 00:01:17,470
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8"></font></font>
+
+621
+00:01:17,130 --> 00:01:19,980
+<font face="Duality" size="72" color="#378fdc">kka</font>
+
+622
+00:01:17,180 --> 00:01:20,260
+<font face="Duality" size="72" color="#378fdc">t</font>
+
+623
+00:01:17,220 --> 00:01:17,830
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">B</font></font>
+
+624
+00:01:17,230 --> 00:01:20,600
+<font face="Duality" size="72" color="#378fdc">te</font>
+
+625
+00:01:17,580 --> 00:01:18,150
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">I</font></font>
+
+626
+00:01:17,900 --> 00:01:18,890
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">O</font></font>
+
+627
+00:01:18,640 --> 00:01:19,170
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">RHY</font></font>
+
+628
+00:01:18,920 --> 00:01:19,430
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">TH</font></font>
+
+629
+00:01:19,180 --> 00:01:19,970
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">M </font></font>
+
+630
+00:01:19,720 --> 00:01:20,230
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">no</font></font>
+
+631
+00:01:19,980 --> 00:01:20,510
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">kka</font></font>
+
+632
+00:01:20,260 --> 00:01:20,850
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">t</font></font>
+
+633
+00:01:20,600 --> 00:01:22,390
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">te</font></font>
+
+634
+00:01:21,190 --> 00:01:21,490
+<font face="Duality" size="72" color="#378fdc">ki </font>
+
+635
+00:01:21,240 --> 00:01:21,540
+<font face="Duality" size="72" color="#378fdc">już </font>
+
+636
+00:01:21,290 --> 00:01:21,590
+<font face="Duality" size="72" color="#378fdc">ży</font>
+
+637
+00:01:21,340 --> 00:01:21,640
+<font face="Duality" size="72" color="#378fdc">cia cykl,</font>
+
+638
+00:01:21,390 --> 00:01:21,690
+<font face="Duality" size="72" color="#378fdc"></font>
+
+639
+00:01:21,900 --> 00:01:22,350
+<font face="Duality" size="72" color="#378fdc"></font>
+
+640
+00:01:21,900 --> 00:01:22,350
+<font face="Duality" size="72" color="#378fdc"></font>
+
+641
+00:01:21,950 --> 00:01:22,350
+<font face="Duality" size="72" color="#378fdc">nie</font>
+
+642
+00:01:21,950 --> 00:01:22,350
+<font face="Duality" size="72" color="#378fdc"></font>
+
+643
+00:01:22,000 --> 00:01:23,430
+<font face="Duality" size="72" color="#378fdc"> ma </font>
+
+644
+00:01:22,000 --> 00:01:22,420
+<font face="Duality" size="72" color="#378fdc">O</font>
+
+645
+00:01:22,050 --> 00:01:23,480
+<font face="Duality" size="72" color="#378fdc">się </font>
+
+646
+00:01:22,050 --> 00:01:22,590
+<font face="Duality" size="72" color="#378fdc">mo</font>
+
+647
+00:01:22,100 --> 00:01:23,530
+<font face="Duality" size="72" color="#378fdc">cz</font>
+
+648
+00:01:22,100 --> 00:01:22,750
+<font face="Duality" size="72" color="#378fdc">i </font>
+
+649
+00:01:22,150 --> 00:01:23,580
+<font face="Duality" size="72" color="#378fdc">ego </font>
+
+650
+00:01:22,150 --> 00:01:22,860
+<font face="Duality" size="72" color="#378fdc">su</font>
+
+651
+00:01:22,200 --> 00:01:23,630
+<font face="Duality" size="72" color="#378fdc">bać!</font>
+
+652
+00:01:22,200 --> 00:01:23,120
+<font face="Duality" size="72" color="#378fdc">go</font>
+
+653
+00:01:22,250 --> 00:01:23,680
+<font face="Duality" size="72" color="#378fdc"></font>
+
+654
+00:01:22,250 --> 00:01:23,280
+<font face="Duality" size="72" color="#378fdc">se</font>
+
+655
+00:01:22,300 --> 00:01:23,510
+<font face="Duality" size="72" color="#378fdc">ba </font>
+
+656
+00:01:22,350 --> 00:01:22,600
+<font face="Duality" size="72" color="#378fdc"></font>
+
+657
+00:01:22,350 --> 00:01:23,680
+<font face="Duality" size="72" color="#378fdc">nie</font>
+
+658
+00:01:22,350 --> 00:01:22,600
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8"></font></font>
+
+659
+00:01:22,350 --> 00:01:22,670
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8"></font></font>
+
+660
+00:01:22,350 --> 00:01:23,680
+<font face="Duality" size="72" color="#378fdc">ii!</font>
+
+661
+00:01:22,420 --> 00:01:22,840
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">O</font></font>
+
+662
+00:01:22,590 --> 00:01:23,000
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">mo</font></font>
+
+663
+00:01:22,750 --> 00:01:23,110
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">i </font></font>
+
+664
+00:01:22,860 --> 00:01:23,370
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">su</font></font>
+
+665
+00:01:23,120 --> 00:01:23,530
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">go</font></font>
+
+666
+00:01:23,280 --> 00:01:23,760
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">se</font></font>
+
+667
+00:01:23,430 --> 00:01:23,730
+<font face="Duality" size="72" color="#378fdc"> ma </font>
+
+668
+00:01:23,480 --> 00:01:23,780
+<font face="Duality" size="72" color="#378fdc">się </font>
+
+669
+00:01:23,510 --> 00:01:23,930
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ba </font></font>
+
+670
+00:01:23,530 --> 00:01:23,830
+<font face="Duality" size="72" color="#378fdc">cz</font>
+
+671
+00:01:23,580 --> 00:01:23,880
+<font face="Duality" size="72" color="#378fdc">ego </font>
+
+672
+00:01:23,630 --> 00:01:23,930
+<font face="Duality" size="72" color="#378fdc">bać!</font>
+
+673
+00:01:23,680 --> 00:01:23,980
+<font face="Duality" size="72" color="#378fdc"></font>
+
+674
+00:01:23,680 --> 00:01:24,440
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ii!</font></font>
+
+675
+00:01:25,610 --> 00:01:26,060
+<font face="Duality" size="72" color="#378fdc"></font>
+
+676
+00:01:25,610 --> 00:01:26,060
+<font face="Duality" size="72" color="#378fdc"></font>
+
+677
+00:01:25,660 --> 00:01:26,060
+<font face="Duality" size="72" color="#378fdc">W</font>
+
+678
+00:01:25,660 --> 00:01:26,060
+<font face="Duality" size="72" color="#378fdc"></font>
+
+679
+00:01:25,710 --> 00:01:28,060
+<font face="Duality" size="72" color="#378fdc">ska</font>
+
+680
+00:01:25,710 --> 00:01:26,130
+<font face="Duality" size="72" color="#378fdc">A</font>
+
+681
+00:01:25,760 --> 00:01:28,110
+<font face="Duality" size="72" color="#378fdc">kuj </font>
+
+682
+00:01:25,760 --> 00:01:26,220
+<font face="Duality" size="72" color="#378fdc">ri</font>
+
+683
+00:01:25,810 --> 00:01:28,160
+<font face="Duality" size="72" color="#378fdc">na </font>
+
+684
+00:01:25,810 --> 00:01:26,310
+<font face="Duality" size="72" color="#378fdc">tta</font>
+
+685
+00:01:25,860 --> 00:01:28,210
+<font face="Duality" size="72" color="#378fdc">po</font>
+
+686
+00:01:25,860 --> 00:01:26,500
+<font face="Duality" size="72" color="#378fdc">ke </font>
+
+687
+00:01:25,910 --> 00:01:28,260
+<font face="Duality" size="72" color="#378fdc">kł</font>
+
+688
+00:01:25,910 --> 00:01:26,700
+<font face="Duality" size="72" color="#378fdc">no </font>
+
+689
+00:01:25,960 --> 00:01:28,310
+<font face="Duality" size="72" color="#378fdc">ad </font>
+
+690
+00:01:25,960 --> 00:01:27,220
+<font face="Duality" size="72" color="#378fdc">yu</font>
+
+691
+00:01:26,010 --> 00:01:28,360
+<font face="Duality" size="72" color="#378fdc">i </font>
+
+692
+00:01:26,010 --> 00:01:27,560
+<font face="Duality" size="72" color="#378fdc">me </font>
+
+693
+00:01:26,060 --> 00:01:26,310
+<font face="Duality" size="72" color="#378fdc"></font>
+
+694
+00:01:26,060 --> 00:01:28,310
+<font face="Duality" size="72" color="#378fdc">W</font>
+
+695
+00:01:26,060 --> 00:01:28,410
+<font face="Duality" size="72" color="#378fdc">za</font>
+
+696
+00:01:26,060 --> 00:01:26,310
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8"></font></font>
+
+697
+00:01:26,060 --> 00:01:26,380
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8"></font></font>
+
+698
+00:01:26,060 --> 00:01:27,760
+<font face="Duality" size="72" color="#378fdc">wo</font>
+
+699
+00:01:26,110 --> 00:01:28,460
+<font face="Duality" size="72" color="#378fdc">bi</font>
+
+700
+00:01:26,110 --> 00:01:28,720
+<font face="Duality" size="72" color="#378fdc"> </font>
+
+701
+00:01:26,130 --> 00:01:26,470
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">A</font></font>
+
+702
+00:01:26,160 --> 00:01:28,510
+<font face="Duality" size="72" color="#378fdc">erz </font>
+
+703
+00:01:26,160 --> 00:01:29,030
+<font face="Duality" size="72" color="#378fdc">ka</font>
+
+704
+00:01:26,210 --> 00:01:28,560
+<font face="Duality" size="72" color="#378fdc">ze </font>
+
+705
+00:01:26,210 --> 00:01:29,170
+<font face="Duality" size="72" color="#378fdc">ki </font>
+
+706
+00:01:26,220 --> 00:01:26,560
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ri</font></font>
+
+707
+00:01:26,260 --> 00:01:28,610
+<font face="Duality" size="72" color="#378fdc">so</font>
+
+708
+00:01:26,260 --> 00:01:29,360
+<font face="Duality" size="72" color="#378fdc">a</font>
+
+709
+00:01:26,310 --> 00:01:28,660
+<font face="Duality" size="72" color="#378fdc">bą </font>
+
+710
+00:01:26,310 --> 00:01:26,750
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">tta</font></font>
+
+711
+00:01:26,310 --> 00:01:29,640
+<font face="Duality" size="72" color="#378fdc">tsu</font>
+
+712
+00:01:26,360 --> 00:01:28,710
+<font face="Duality" size="72" color="#378fdc"></font>
+
+713
+00:01:26,360 --> 00:01:29,860
+<font face="Duality" size="72" color="#378fdc">me</font>
+
+714
+00:01:26,500 --> 00:01:26,950
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ke </font></font>
+
+715
+00:01:26,700 --> 00:01:27,470
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">no </font></font>
+
+716
+00:01:27,220 --> 00:01:27,810
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">yu</font></font>
+
+717
+00:01:27,560 --> 00:01:28,010
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">me </font></font>
+
+718
+00:01:27,760 --> 00:01:28,970
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">wo</font></font>
+
+719
+00:01:28,060 --> 00:01:28,360
+<font face="Duality" size="72" color="#378fdc">ska</font>
+
+720
+00:01:28,110 --> 00:01:28,410
+<font face="Duality" size="72" color="#378fdc">kuj </font>
+
+721
+00:01:28,160 --> 00:01:28,460
+<font face="Duality" size="72" color="#378fdc">na </font>
+
+722
+00:01:28,210 --> 00:01:28,510
+<font face="Duality" size="72" color="#378fdc">po</font>
+
+723
+00:01:28,260 --> 00:01:28,560
+<font face="Duality" size="72" color="#378fdc">kł</font>
+
+724
+00:01:28,310 --> 00:01:28,610
+<font face="Duality" size="72" color="#378fdc">ad </font>
+
+725
+00:01:28,360 --> 00:01:28,660
+<font face="Duality" size="72" color="#378fdc">i </font>
+
+726
+00:01:28,410 --> 00:01:28,710
+<font face="Duality" size="72" color="#378fdc">za</font>
+
+727
+00:01:28,460 --> 00:01:28,760
+<font face="Duality" size="72" color="#378fdc">bi</font>
+
+728
+00:01:28,490 --> 00:01:28,940
+<font face="Duality" size="72" color="#378fdc"></font>
+
+729
+00:01:28,510 --> 00:01:28,810
+<font face="Duality" size="72" color="#378fdc">erz </font>
+
+730
+00:01:28,540 --> 00:01:28,940
+<font face="Duality" size="72" color="#378fdc">wsz</font>
+
+731
+00:01:28,560 --> 00:01:28,860
+<font face="Duality" size="72" color="#378fdc">ze </font>
+
+732
+00:01:28,590 --> 00:01:30,740
+<font face="Duality" size="72" color="#378fdc">yst</font>
+
+733
+00:01:28,610 --> 00:01:28,910
+<font face="Duality" size="72" color="#378fdc">so</font>
+
+734
+00:01:28,640 --> 00:01:30,790
+<font face="Duality" size="72" color="#378fdc">kie </font>
+
+735
+00:01:28,660 --> 00:01:28,960
+<font face="Duality" size="72" color="#378fdc">bą </font>
+
+736
+00:01:28,690 --> 00:01:30,840
+<font face="Duality" size="72" color="#378fdc">ma</font>
+
+737
+00:01:28,710 --> 00:01:29,010
+<font face="Duality" size="72" color="#378fdc"></font>
+
+738
+00:01:28,720 --> 00:01:29,280
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8"> </font></font>
+
+739
+00:01:28,740 --> 00:01:30,890
+<font face="Duality" size="72" color="#378fdc">rz</font>
+
+740
+00:01:28,790 --> 00:01:30,940
+<font face="Duality" size="72" color="#378fdc">en</font>
+
+741
+00:01:28,840 --> 00:01:30,990
+<font face="Duality" size="72" color="#378fdc">ia,</font>
+
+742
+00:01:28,890 --> 00:01:31,040
+<font face="Duality" size="72" color="#378fdc"></font>
+
+743
+00:01:28,940 --> 00:01:29,190
+<font face="Duality" size="72" color="#378fdc"></font>
+
+744
+00:01:28,940 --> 00:01:30,990
+<font face="Duality" size="72" color="#378fdc">wsz</font>
+
+745
+00:01:29,030 --> 00:01:29,420
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ka</font></font>
+
+746
+00:01:29,170 --> 00:01:29,610
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ki </font></font>
+
+747
+00:01:29,360 --> 00:01:29,890
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">a</font></font>
+
+748
+00:01:29,640 --> 00:01:30,110
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">tsu</font></font>
+
+749
+00:01:29,860 --> 00:01:31,540
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">me</font></font>
+
+750
+00:01:30,740 --> 00:01:31,040
+<font face="Duality" size="72" color="#378fdc">yst</font>
+
+751
+00:01:30,790 --> 00:01:31,090
+<font face="Duality" size="72" color="#378fdc">kie </font>
+
+752
+00:01:30,840 --> 00:01:31,140
+<font face="Duality" size="72" color="#378fdc">ma</font>
+
+753
+00:01:30,890 --> 00:01:31,190
+<font face="Duality" size="72" color="#378fdc">rz</font>
+
+754
+00:01:30,940 --> 00:01:31,240
+<font face="Duality" size="72" color="#378fdc">en</font>
+
+755
+00:01:30,990 --> 00:01:31,290
+<font face="Duality" size="72" color="#378fdc">ia,</font>
+
+756
+00:01:31,040 --> 00:01:31,340
+<font face="Duality" size="72" color="#378fdc"></font>
+
+757
+00:01:31,110 --> 00:01:31,560
+<font face="Duality" size="72" color="#378fdc"></font>
+
+758
+00:01:31,110 --> 00:01:31,560
+<font face="Duality" size="72" color="#378fdc"></font>
+
+759
+00:01:31,160 --> 00:01:31,560
+<font face="Duality" size="72" color="#378fdc">ra</font>
+
+760
+00:01:31,160 --> 00:01:31,560
+<font face="Duality" size="72" color="#378fdc"></font>
+
+761
+00:01:31,210 --> 00:01:33,560
+<font face="Duality" size="72" color="#378fdc">zem </font>
+
+762
+00:01:31,210 --> 00:01:31,630
+<font face="Duality" size="72" color="#378fdc">Sa</font>
+
+763
+00:01:31,260 --> 00:01:33,610
+<font face="Duality" size="72" color="#378fdc">zn</font>
+
+764
+00:01:31,260 --> 00:01:31,850
+<font face="Duality" size="72" color="#378fdc">ga</font>
+
+765
+00:01:31,310 --> 00:01:33,660
+<font face="Duality" size="72" color="#378fdc">aj</font>
+
+766
+00:01:31,310 --> 00:01:31,980
+<font face="Duality" size="72" color="#378fdc">shi </font>
+
+767
+00:01:31,360 --> 00:01:33,710
+<font face="Duality" size="72" color="#378fdc">dz</font>
+
+768
+00:01:31,360 --> 00:01:32,210
+<font face="Duality" size="72" color="#378fdc">mo</font>
+
+769
+00:01:31,410 --> 00:01:33,760
+<font face="Duality" size="72" color="#378fdc">ie</font>
+
+770
+00:01:31,410 --> 00:01:32,430
+<font face="Duality" size="72" color="#378fdc">no </font>
+
+771
+00:01:31,460 --> 00:01:33,810
+<font face="Duality" size="72" color="#378fdc">my </font>
+
+772
+00:01:31,460 --> 00:01:32,580
+<font face="Duality" size="72" color="#378fdc">wo </font>
+
+773
+00:01:31,510 --> 00:01:33,860
+<font face="Duality" size="72" color="#378fdc">wsz</font>
+
+774
+00:01:31,510 --> 00:01:32,870
+<font face="Duality" size="72" color="#378fdc">sa</font>
+
+775
+00:01:31,560 --> 00:01:31,810
+<font face="Duality" size="72" color="#378fdc"></font>
+
+776
+00:01:31,560 --> 00:01:33,810
+<font face="Duality" size="72" color="#378fdc">ra</font>
+
+777
+00:01:31,560 --> 00:01:33,910
+<font face="Duality" size="72" color="#378fdc">yst</font>
+
+778
+00:01:31,560 --> 00:01:31,810
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8"></font></font>
+
+779
+00:01:31,560 --> 00:01:31,880
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8"></font></font>
+
+780
+00:01:31,560 --> 00:01:33,290
+<font face="Duality" size="72" color="#378fdc">ga</font>
+
+781
+00:01:31,610 --> 00:01:33,960
+<font face="Duality" size="72" color="#378fdc">ko,</font>
+
+782
+00:01:31,610 --> 00:01:33,380
+<font face="Duality" size="72" color="#378fdc">shi </font>
+
+783
+00:01:31,630 --> 00:01:32,100
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">Sa</font></font>
+
+784
+00:01:31,660 --> 00:01:34,010
+<font face="Duality" size="72" color="#378fdc"></font>
+
+785
+00:01:31,660 --> 00:01:34,000
+<font face="Duality" size="72" color="#378fdc">ni </font>
+
+786
+00:01:31,710 --> 00:01:34,360
+<font face="Duality" size="72" color="#378fdc">yu</font>
+
+787
+00:01:31,760 --> 00:01:34,720
+<font face="Duality" size="72" color="#378fdc">ku </font>
+
+788
+00:01:31,810 --> 00:01:35,050
+<font face="Duality" size="72" color="#378fdc">no </font>
+
+789
+00:01:31,850 --> 00:01:32,230
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ga</font></font>
+
+790
+00:01:31,860 --> 00:01:35,310
+<font face="Duality" size="72" color="#378fdc">sa</font>
+
+791
+00:01:31,980 --> 00:01:32,460
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">shi </font></font>
+
+792
+00:01:32,210 --> 00:01:32,680
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">mo</font></font>
+
+793
+00:01:32,430 --> 00:01:32,830
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">no </font></font>
+
+794
+00:01:32,580 --> 00:01:33,120
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">wo </font></font>
+
+795
+00:01:32,870 --> 00:01:33,540
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">sa</font></font>
+
+796
+00:01:33,290 --> 00:01:33,630
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ga</font></font>
+
+797
+00:01:33,380 --> 00:01:34,250
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">shi </font></font>
+
+798
+00:01:33,560 --> 00:01:33,860
+<font face="Duality" size="72" color="#378fdc">zem </font>
+
+799
+00:01:33,610 --> 00:01:33,910
+<font face="Duality" size="72" color="#378fdc">zn</font>
+
+800
+00:01:33,660 --> 00:01:33,960
+<font face="Duality" size="72" color="#378fdc">aj</font>
+
+801
+00:01:33,710 --> 00:01:34,010
+<font face="Duality" size="72" color="#378fdc">dz</font>
+
+802
+00:01:33,760 --> 00:01:34,060
+<font face="Duality" size="72" color="#378fdc">ie</font>
+
+803
+00:01:33,780 --> 00:01:34,230
+<font face="Duality" size="72" color="#378fdc"></font>
+
+804
+00:01:33,810 --> 00:01:34,110
+<font face="Duality" size="72" color="#378fdc">my </font>
+
+805
+00:01:33,830 --> 00:01:34,230
+<font face="Duality" size="72" color="#378fdc">cze</font>
+
+806
+00:01:33,860 --> 00:01:34,160
+<font face="Duality" size="72" color="#378fdc">wsz</font>
+
+807
+00:01:33,880 --> 00:01:36,470
+<font face="Duality" size="72" color="#378fdc">go </font>
+
+808
+00:01:33,910 --> 00:01:34,210
+<font face="Duality" size="72" color="#378fdc">yst</font>
+
+809
+00:01:33,930 --> 00:01:36,520
+<font face="Duality" size="72" color="#378fdc">tak </font>
+
+810
+00:01:33,960 --> 00:01:34,260
+<font face="Duality" size="72" color="#378fdc">ko,</font>
+
+811
+00:01:33,980 --> 00:01:36,570
+<font face="Duality" size="72" color="#378fdc">bar</font>
+
+812
+00:01:34,000 --> 00:01:34,610
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ni </font></font>
+
+813
+00:01:34,010 --> 00:01:34,310
+<font face="Duality" size="72" color="#378fdc"></font>
+
+814
+00:01:34,030 --> 00:01:36,620
+<font face="Duality" size="72" color="#378fdc">dzo </font>
+
+815
+00:01:34,080 --> 00:01:36,670
+<font face="Duality" size="72" color="#378fdc">pra</font>
+
+816
+00:01:34,130 --> 00:01:36,720
+<font face="Duality" size="72" color="#378fdc">gn</font>
+
+817
+00:01:34,180 --> 00:01:36,770
+<font face="Duality" size="72" color="#378fdc">ie</font>
+
+818
+00:01:34,230 --> 00:01:34,480
+<font face="Duality" size="72" color="#378fdc"></font>
+
+819
+00:01:34,230 --> 00:01:36,720
+<font face="Duality" size="72" color="#378fdc">cze</font>
+
+820
+00:01:34,230 --> 00:01:36,820
+<font face="Duality" size="72" color="#378fdc">my.</font>
+
+821
+00:01:34,280 --> 00:01:36,870
+<font face="Duality" size="72" color="#378fdc"></font>
+
+822
+00:01:34,360 --> 00:01:34,970
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">yu</font></font>
+
+823
+00:01:34,720 --> 00:01:35,300
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ku </font></font>
+
+824
+00:01:35,050 --> 00:01:35,560
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">no </font></font>
+
+825
+00:01:35,310 --> 00:01:37,360
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">sa</font></font>
+
+826
+00:01:36,470 --> 00:01:36,770
+<font face="Duality" size="72" color="#378fdc">go </font>
+
+827
+00:01:36,520 --> 00:01:36,820
+<font face="Duality" size="72" color="#378fdc">tak </font>
+
+828
+00:01:36,570 --> 00:01:36,870
+<font face="Duality" size="72" color="#378fdc">bar</font>
+
+829
+00:01:36,620 --> 00:01:36,920
+<font face="Duality" size="72" color="#378fdc">dzo </font>
+
+830
+00:01:36,670 --> 00:01:36,970
+<font face="Duality" size="72" color="#378fdc">pra</font>
+
+831
+00:01:36,720 --> 00:01:37,020
+<font face="Duality" size="72" color="#378fdc">gn</font>
+
+832
+00:01:36,770 --> 00:01:37,070
+<font face="Duality" size="72" color="#378fdc">ie</font>
+
+833
+00:01:36,820 --> 00:01:37,120
+<font face="Duality" size="72" color="#378fdc">my.</font>
+
+834
+00:01:36,830 --> 00:01:37,280
+<font face="Duality" size="72" color="#378fdc"></font>
+
+835
+00:01:36,830 --> 00:01:37,280
+<font face="Duality" size="72" color="#378fdc"></font>
+
+836
+00:01:36,870 --> 00:01:37,170
+<font face="Duality" size="72" color="#378fdc"></font>
+
+837
+00:01:36,880 --> 00:01:37,280
+<font face="Duality" size="72" color="#378fdc">Mam </font>
+
+838
+00:01:36,880 --> 00:01:37,280
+<font face="Duality" size="72" color="#378fdc"></font>
+
+839
+00:01:36,930 --> 00:01:39,290
+<font face="Duality" size="72" color="#378fdc">tr</font>
+
+840
+00:01:36,930 --> 00:01:37,370
+<font face="Duality" size="72" color="#378fdc">POC</font>
+
+841
+00:01:36,980 --> 00:01:39,340
+<font face="Duality" size="72" color="#378fdc">och</font>
+
+842
+00:01:36,980 --> 00:01:37,550
+<font face="Duality" size="72" color="#378fdc">KE</font>
+
+843
+00:01:37,030 --> 00:01:39,390
+<font face="Duality" size="72" color="#378fdc">ę </font>
+
+844
+00:01:37,030 --> 00:01:37,920
+<font face="Duality" size="72" color="#378fdc">T </font>
+
+845
+00:01:37,080 --> 00:01:39,440
+<font face="Duality" size="72" color="#378fdc">gr</font>
+
+846
+00:01:37,080 --> 00:01:38,490
+<font face="Duality" size="72" color="#378fdc">no </font>
+
+847
+00:01:37,130 --> 00:01:39,490
+<font face="Duality" size="72" color="#378fdc">osz</font>
+
+848
+00:01:37,130 --> 00:01:39,010
+<font face="Duality" size="72" color="#378fdc">CO</font>
+
+849
+00:01:37,180 --> 00:01:39,540
+<font face="Duality" size="72" color="#378fdc">a </font>
+
+850
+00:01:37,180 --> 00:01:39,290
+<font face="Duality" size="72" color="#378fdc">IN</font>
+
+851
+00:01:37,230 --> 00:01:39,590
+<font face="Duality" size="72" color="#378fdc">w </font>
+
+852
+00:01:37,280 --> 00:01:37,530
+<font face="Duality" size="72" color="#378fdc"></font>
+
+853
+00:01:37,280 --> 00:01:39,540
+<font face="Duality" size="72" color="#378fdc">Mam </font>
+
+854
+00:01:37,280 --> 00:01:39,640
+<font face="Duality" size="72" color="#378fdc">ki</font>
+
+855
+00:01:37,280 --> 00:01:37,530
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8"></font></font>
+
+856
+00:01:37,280 --> 00:01:37,620
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8"></font></font>
+
+857
+00:01:37,330 --> 00:01:39,690
+<font face="Duality" size="72" color="#378fdc">esz</font>
+
+858
+00:01:37,370 --> 00:01:37,800
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">POC</font></font>
+
+859
+00:01:37,380 --> 00:01:39,740
+<font face="Duality" size="72" color="#378fdc">eni,</font>
+
+860
+00:01:37,430 --> 00:01:39,790
+<font face="Duality" size="72" color="#378fdc"></font>
+
+861
+00:01:37,550 --> 00:01:38,170
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">KE</font></font>
+
+862
+00:01:37,920 --> 00:01:38,740
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">T </font></font>
+
+863
+00:01:38,490 --> 00:01:39,260
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">no </font></font>
+
+864
+00:01:39,010 --> 00:01:39,540
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">CO</font></font>
+
+865
+00:01:39,290 --> 00:01:39,590
+<font face="Duality" size="72" color="#378fdc">tr</font>
+
+866
+00:01:39,290 --> 00:01:40,240
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">IN</font></font>
+
+867
+00:01:39,340 --> 00:01:39,640
+<font face="Duality" size="72" color="#378fdc">och</font>
+
+868
+00:01:39,390 --> 00:01:39,690
+<font face="Duality" size="72" color="#378fdc">ę </font>
+
+869
+00:01:39,440 --> 00:01:39,740
+<font face="Duality" size="72" color="#378fdc">gr</font>
+
+870
+00:01:39,490 --> 00:01:39,790
+<font face="Duality" size="72" color="#378fdc">osz</font>
+
+871
+00:01:39,540 --> 00:01:39,840
+<font face="Duality" size="72" color="#378fdc">a </font>
+
+872
+00:01:39,540 --> 00:01:39,990
+<font face="Duality" size="72" color="#378fdc"></font>
+
+873
+00:01:39,540 --> 00:01:39,990
+<font face="Duality" size="72" color="#378fdc"></font>
+
+874
+00:01:39,590 --> 00:01:39,890
+<font face="Duality" size="72" color="#378fdc">w </font>
+
+875
+00:01:39,590 --> 00:01:39,990
+<font face="Duality" size="72" color="#378fdc">mo</font>
+
+876
+00:01:39,590 --> 00:01:39,990
+<font face="Duality" size="72" color="#378fdc"></font>
+
+877
+00:01:39,640 --> 00:01:39,940
+<font face="Duality" size="72" color="#378fdc">ki</font>
+
+878
+00:01:39,640 --> 00:01:42,350
+<font face="Duality" size="72" color="#378fdc">że </font>
+
+879
+00:01:39,640 --> 00:01:40,190
+<font face="Duality" size="72" color="#378fdc">So</font>
+
+880
+00:01:39,690 --> 00:01:39,990
+<font face="Duality" size="72" color="#378fdc">esz</font>
+
+881
+00:01:39,690 --> 00:01:42,400
+<font face="Duality" size="72" color="#378fdc">ch</font>
+
+882
+00:01:39,690 --> 00:01:40,430
+<font face="Duality" size="72" color="#378fdc">re</font>
+
+883
+00:01:39,740 --> 00:01:40,040
+<font face="Duality" size="72" color="#378fdc">eni,</font>
+
+884
+00:01:39,740 --> 00:01:42,450
+<font face="Duality" size="72" color="#378fdc">ce</font>
+
+885
+00:01:39,740 --> 00:01:40,610
+<font face="Duality" size="72" color="#378fdc">to </font>
+
+886
+00:01:39,790 --> 00:01:40,090
+<font face="Duality" size="72" color="#378fdc"></font>
+
+887
+00:01:39,790 --> 00:01:42,500
+<font face="Duality" size="72" color="#378fdc">sz </font>
+
+888
+00:01:39,790 --> 00:01:40,720
+<font face="Duality" size="72" color="#378fdc">YOU </font>
+
+889
+00:01:39,840 --> 00:01:42,550
+<font face="Duality" size="72" color="#378fdc">być </font>
+
+890
+00:01:39,840 --> 00:01:40,980
+<font face="Duality" size="72" color="#378fdc">WAN</font>
+
+891
+00:01:39,890 --> 00:01:42,600
+<font face="Duality" size="72" color="#378fdc">mo</font>
+
+892
+00:01:39,890 --> 00:01:41,120
+<font face="Duality" size="72" color="#378fdc">NA </font>
+
+893
+00:01:39,940 --> 00:01:42,650
+<font face="Duality" size="72" color="#378fdc">im </font>
+
+894
+00:01:39,940 --> 00:01:41,310
+<font face="Duality" size="72" color="#378fdc">BE </font>
+
+895
+00:01:39,990 --> 00:01:40,240
+<font face="Duality" size="72" color="#378fdc"></font>
+
+896
+00:01:39,990 --> 00:01:42,600
+<font face="Duality" size="72" color="#378fdc">mo</font>
+
+897
+00:01:39,990 --> 00:01:42,700
+<font face="Duality" size="72" color="#378fdc">prz</font>
+
+898
+00:01:39,990 --> 00:01:40,240
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8"></font></font>
+
+899
+00:01:39,990 --> 00:01:40,440
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8"></font></font>
+
+900
+00:01:39,990 --> 00:01:41,670
+<font face="Duality" size="72" color="#378fdc">MY </font>
+
+901
+00:01:40,040 --> 00:01:42,750
+<font face="Duality" size="72" color="#378fdc">yj</font>
+
+902
+00:01:40,040 --> 00:01:41,970
+<font face="Duality" size="72" color="#378fdc">FRIEND?</font>
+
+903
+00:01:40,090 --> 00:01:42,800
+<font face="Duality" size="72" color="#378fdc">a</font>
+
+904
+00:01:40,140 --> 00:01:42,850
+<font face="Duality" size="72" color="#378fdc">ci</font>
+
+905
+00:01:40,190 --> 00:01:42,900
+<font face="Duality" size="72" color="#378fdc">el</font>
+
+906
+00:01:40,190 --> 00:01:40,680
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">So</font></font>
+
+907
+00:01:40,240 --> 00:01:42,950
+<font face="Duality" size="72" color="#378fdc">em?</font>
+
+908
+00:01:40,290 --> 00:01:43,000
+<font face="Duality" size="72" color="#378fdc"></font>
+
+909
+00:01:40,430 --> 00:01:40,860
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">re</font></font>
+
+910
+00:01:40,610 --> 00:01:40,970
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">to </font></font>
+
+911
+00:01:40,720 --> 00:01:41,230
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">YOU </font></font>
+
+912
+00:01:40,980 --> 00:01:41,370
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">WAN</font></font>
+
+913
+00:01:41,120 --> 00:01:41,560
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">NA </font></font>
+
+914
+00:01:41,310 --> 00:01:41,920
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">BE </font></font>
+
+915
+00:01:41,670 --> 00:01:42,220
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">MY </font></font>
+
+916
+00:01:41,970 --> 00:01:43,430
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">FRIEND?</font></font>
+
+917
+00:01:42,350 --> 00:01:42,650
+<font face="Duality" size="72" color="#378fdc">że </font>
+
+918
+00:01:42,400 --> 00:01:42,700
+<font face="Duality" size="72" color="#378fdc">ch</font>
+
+919
+00:01:42,450 --> 00:01:42,750
+<font face="Duality" size="72" color="#378fdc">ce</font>
+
+920
+00:01:42,500 --> 00:01:42,800
+<font face="Duality" size="72" color="#378fdc">sz </font>
+
+921
+00:01:42,550 --> 00:01:42,850
+<font face="Duality" size="72" color="#378fdc">być </font>
+
+922
+00:01:42,600 --> 00:01:42,900
+<font face="Duality" size="72" color="#378fdc">mo</font>
+
+923
+00:01:42,650 --> 00:01:42,950
+<font face="Duality" size="72" color="#378fdc">im </font>
+
+924
+00:01:42,700 --> 00:01:43,000
+<font face="Duality" size="72" color="#378fdc">prz</font>
+
+925
+00:01:42,750 --> 00:01:43,050
+<font face="Duality" size="72" color="#378fdc">yj</font>
+
+926
+00:01:42,800 --> 00:01:43,100
+<font face="Duality" size="72" color="#378fdc">a</font>
+
+927
+00:01:42,850 --> 00:01:43,150
+<font face="Duality" size="72" color="#378fdc">ci</font>
+
+928
+00:01:42,900 --> 00:01:43,200
+<font face="Duality" size="72" color="#378fdc">el</font>
+
+929
+00:01:42,950 --> 00:01:43,250
+<font face="Duality" size="72" color="#378fdc">em?</font>
+
+930
+00:01:43,000 --> 00:01:43,300
+<font face="Duality" size="72" color="#378fdc"></font>
+
+931
+00:01:43,040 --> 00:01:43,490
+<font face="Duality" size="72" color="#378fdc"></font>
+
+932
+00:01:43,040 --> 00:01:43,490
+<font face="Duality" size="72" color="#378fdc"></font>
+
+933
+00:01:43,090 --> 00:01:43,490
+<font face="Duality" size="72" color="#378fdc">Pł</font>
+
+934
+00:01:43,090 --> 00:01:43,490
+<font face="Duality" size="72" color="#378fdc"></font>
+
+935
+00:01:43,140 --> 00:01:47,490
+<font face="Duality" size="72" color="#378fdc">yń</font>
+
+936
+00:01:43,140 --> 00:01:43,610
+<font face="Duality" size="72" color="#378fdc">WE </font>
+
+937
+00:01:43,190 --> 00:01:47,540
+<font face="Duality" size="72" color="#378fdc">my, </font>
+
+938
+00:01:43,190 --> 00:01:44,150
+<font face="Duality" size="72" color="#378fdc">ARE, </font>
+
+939
+00:01:43,240 --> 00:01:47,590
+<font face="Duality" size="72" color="#378fdc">pł</font>
+
+940
+00:01:43,240 --> 00:01:45,060
+<font face="Duality" size="72" color="#378fdc">WE </font>
+
+941
+00:01:43,290 --> 00:01:47,640
+<font face="Duality" size="72" color="#378fdc">yń</font>
+
+942
+00:01:43,290 --> 00:01:45,590
+<font face="Duality" size="72" color="#378fdc">ARE </font>
+
+943
+00:01:43,340 --> 00:01:47,690
+<font face="Duality" size="72" color="#378fdc">my </font>
+
+944
+00:01:43,340 --> 00:01:46,090
+<font face="Duality" size="72" color="#378fdc">ON </font>
+
+945
+00:01:43,390 --> 00:01:47,740
+<font face="Duality" size="72" color="#378fdc">w </font>
+
+946
+00:01:43,390 --> 00:01:46,290
+<font face="Duality" size="72" color="#378fdc">THE </font>
+
+947
+00:01:43,440 --> 00:01:47,790
+<font face="Duality" size="72" color="#378fdc">re</font>
+
+948
+00:01:43,440 --> 00:01:46,460
+<font face="Duality" size="72" color="#378fdc">CRUISE!</font>
+
+949
+00:01:43,490 --> 00:01:43,740
+<font face="Duality" size="72" color="#378fdc"></font>
+
+950
+00:01:43,490 --> 00:01:47,740
+<font face="Duality" size="72" color="#378fdc">Pł</font>
+
+951
+00:01:43,490 --> 00:01:47,840
+<font face="Duality" size="72" color="#378fdc">js!</font>
+
+952
+00:01:43,490 --> 00:01:43,740
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8"></font></font>
+
+953
+00:01:43,490 --> 00:01:43,860
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8"></font></font>
+
+954
+00:01:43,540 --> 00:01:47,890
+<font face="Duality" size="72" color="#378fdc"></font>
+
+955
+00:01:43,610 --> 00:01:44,400
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">WE </font></font>
+
+956
+00:01:44,150 --> 00:01:45,310
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ARE, </font></font>
+
+957
+00:01:45,060 --> 00:01:45,840
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">WE </font></font>
+
+958
+00:01:45,590 --> 00:01:46,340
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ARE </font></font>
+
+959
+00:01:46,090 --> 00:01:46,540
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ON </font></font>
+
+960
+00:01:46,290 --> 00:01:46,710
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">THE </font></font>
+
+961
+00:01:46,460 --> 00:01:48,310
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">CRUISE!</font></font>
+
+962
+00:01:47,490 --> 00:01:47,790
+<font face="Duality" size="72" color="#378fdc">yń</font>
+
+963
+00:01:47,540 --> 00:01:47,840
+<font face="Duality" size="72" color="#378fdc">my, </font>
+
+964
+00:01:47,590 --> 00:01:47,890
+<font face="Duality" size="72" color="#378fdc">pł</font>
+
+965
+00:01:47,640 --> 00:01:47,940
+<font face="Duality" size="72" color="#378fdc">yń</font>
+
+966
+00:01:47,690 --> 00:01:47,990
+<font face="Duality" size="72" color="#378fdc">my </font>
+
+967
+00:01:47,740 --> 00:01:48,040
+<font face="Duality" size="72" color="#378fdc">w </font>
+
+968
+00:01:47,790 --> 00:01:48,090
+<font face="Duality" size="72" color="#378fdc">re</font>
+
+969
+00:01:47,840 --> 00:01:48,140
+<font face="Duality" size="72" color="#378fdc">js!</font>
+
+970
+00:01:47,890 --> 00:01:48,190
+<font face="Duality" size="72" color="#378fdc"></font>
+
+971
+00:01:48,420 --> 00:01:48,870
+<font face="Duality" size="72" color="#378fdc"></font>
+
+972
+00:01:48,420 --> 00:01:48,870
+<font face="Duality" size="72" color="#378fdc"></font>
+
+973
+00:01:48,470 --> 00:01:48,870
+<font face="Duality" size="72" color="#378fdc">Pł</font>
+
+974
+00:01:48,470 --> 00:01:48,870
+<font face="Duality" size="72" color="#378fdc"></font>
+
+975
+00:01:48,520 --> 00:01:49,670
+<font face="Duality" size="72" color="#378fdc">yń</font>
+
+976
+00:01:48,520 --> 00:01:49,040
+<font face="Duality" size="72" color="#378fdc">WE </font>
+
+977
+00:01:48,570 --> 00:01:49,720
+<font face="Duality" size="72" color="#378fdc">my!</font>
+
+978
+00:01:48,570 --> 00:01:49,340
+<font face="Duality" size="72" color="#378fdc">ARE!</font>
+
+979
+00:01:48,620 --> 00:01:49,770
+<font face="Duality" size="72" color="#378fdc"></font>
+
+980
+00:01:48,870 --> 00:01:49,120
+<font face="Duality" size="72" color="#378fdc"></font>
+
+981
+00:01:48,870 --> 00:01:49,920
+<font face="Duality" size="72" color="#378fdc">Pł</font>
+
+982
+00:01:48,870 --> 00:01:49,120
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8"></font></font>
+
+983
+00:01:48,870 --> 00:01:49,290
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8"></font></font>
+
+984
+00:01:49,040 --> 00:01:49,590
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">WE </font></font>
+
+985
+00:01:49,340 --> 00:01:49,970
+<font face="Duality" size="72" color="#378fdc"><font color="#a1d4f8">ARE!</font></font>
+
+986
+00:01:49,670 --> 00:01:49,970
+<font face="Duality" size="72" color="#378fdc">yń</font>
+
+987
+00:01:49,720 --> 00:01:50,020
+<font face="Duality" size="72" color="#378fdc">my!</font>
+
+988
+00:01:49,770 --> 00:01:50,070
+<font face="Duality" size="72" color="#378fdc"></font>
+
+989
+00:01:50,170 --> 00:02:00,170
+<font face="Rosario SemiBold" size="90">Twój odtwarzacz nie obsługuje formatu napisów użytego w tym odcinku.
+Napisy prawdopodobnie nie będą działać prawidłowo.
+Użyj jednego z zalecanych odtwarzaczy, najlepiej mpv:
+https://mpv.io
+</font>
+
+990
+00:01:50,210 --> 00:01:57,470
+<font face="Open Sans" size="95" color="#fefefe"><b><font color="#1e1e1e">Oto "Słomkowy Kapelusz" Luffy</font></b></font>
+
+991
+00:01:50,210 --> 00:01:57,470
+<font face="Open Sans" size="95" color="#fefefe"><b><font color="#e6e6e7">Oto "Słomkowy Kapelusz" Luffy</font></b></font>
+
+992
+00:02:02,310 --> 00:02:04,080
+<font face="Rosario SemiBold" size="82">Ale widok...</font>
+
+993
+00:02:13,110 --> 00:02:14,610
+<font face="Rosario SemiBold" size="82">No dobra!</font>
+
+994
+00:02:17,030 --> 00:02:19,410
+<font face="Rosario SemiBold" size="82">No nie, znowu?</font>
+
+995
+00:02:19,410 --> 00:02:20,620
+<font face="Rosario SemiBold" size="82">Pudło!</font>
+
+996
+00:02:20,620 --> 00:02:22,250
+<font face="Rosario SemiBold" size="82">Co ty wyrabiasz?</font>
+
+997
+00:02:22,250 --> 00:02:23,640
+<font face="Rosario SemiBold" size="82">Jesteś do bani!</font>
+
+998
+00:02:30,880 --> 00:02:32,630
+<font face="Rosario SemiBold" size="82">Strasznie to ciężkie!</font>
+
+999
+00:02:32,630 --> 00:02:36,340
+<font face="Rosario SemiBold" size="82">Pewnie sporo tam gorzały!</font>
+
+1000
+00:02:47,310 --> 00:02:49,070
+<font face="Rosario SemiBold" size="82">Statek na prawej burcie!</font>
+
+1001
+00:02:49,400 --> 00:02:51,730
+<font face="Rosario SemiBold" size="82">Ma piracką flagę!</font>
+
+1002
+00:02:51,730 --> 00:02:55,610
+<font face="Rosario SemiBold" size="82">To statek piratów!
+Wróg atakuje! Wróg atakuje!</font>
+
+1003
+00:03:19,390 --> 00:03:20,890
+<font face="Rosario SemiBold" size="82">Koby!</font>
+
+1004
+00:03:20,930 --> 00:03:25,640
+<font face="Caslon" size="99"><b><font color="#000000">Koby
+Chłopiec okrętowy</font></b></font>
+
+1005
+00:03:20,930 --> 00:03:25,640
+<font face="Caslon" size="99"><b><font color="#e7e6e7">Koby
+Chłopiec okrętowy</font></b></font>
+
+1006
+00:03:21,140 --> 00:03:22,350
+<font face="Rosario SemiBold" size="82">T-Tak, proszę pani?!</font>
+
+1007
+00:03:22,350 --> 00:03:25,890
+<font face="Rosario SemiBold" size="82">Któż jest najpiękniejszy na tych wodach?</font>
+
+1008
+00:03:25,890 --> 00:03:30,610
+<font face="Rosario SemiBold" size="82">O-Oczywiście jest to kapitan
+tego statku, wielmożna Alvida!</font>
+
+1009
+00:03:35,570 --> 00:03:39,780
+<font face="Caslon" size="99"><b><font color="#000000">"Żelazna Maczuga" Alvida
+Szefowa piratów</font></b></font>
+
+1010
+00:03:35,570 --> 00:03:39,780
+<font face="Caslon" size="99"><b><font color="#e7e6e7">"Żelazna Maczuga" Alvida
+Szefowa piratów</font></b></font>
+
+1011
+00:03:36,650 --> 00:03:37,820
+<font face="Rosario SemiBold" size="82">I tu masz rację!</font>
+
+1012
+00:03:37,820 --> 00:03:39,820
+<font face="Rosario SemiBold" size="82">B-Bardzo dziękuję!</font>
+
+1013
+00:03:39,820 --> 00:03:42,450
+<font face="Rosario SemiBold" size="82">Wielmożna Alvido. Minęło sporo
+czasu, odkąd coś złupiliśmy.</font>
+
+1014
+00:03:42,450 --> 00:03:43,540
+<font face="Rosario SemiBold" size="82">Ano minęło.</font>
+
+1015
+00:03:44,040 --> 00:03:46,660
+<font face="Rosario SemiBold" size="82">Dobra! Walcie w ten statek!</font>
+
+1016
+00:03:46,660 --> 00:03:48,890
+<font face="Rosario SemiBold" size="82">– Tak jest!
+– Tak jest!</font>
+
+1017
+00:04:12,020 --> 00:04:17,320
+<font face="Rosario SemiBold" size="82">Dalej psubraty! Pokażcie im grozę
+szefowej piratów, Żelaznej Maczugi Alvidy!</font>
+
+1018
+00:04:27,660 --> 00:04:29,920
+<font face="Rosario SemiBold" size="82">Koby! Na co ty czekasz?!</font>
+
+1019
+00:04:29,920 --> 00:04:32,290
+<font face="Rosario SemiBold" size="82">J-Ja nie jestem za dobry w czymś takim.</font>
+
+1020
+00:04:32,290 --> 00:04:33,540
+<font face="Rosario SemiBold" size="82">Co...?!</font>
+
+1021
+00:04:33,540 --> 00:04:36,210
+<font face="Rosario SemiBold" size="82">Śmiesz do mnie pyskować?!</font>
+
+1022
+00:04:37,050 --> 00:04:39,970
+<font face="Rosario SemiBold" size="82">P-Proszę, wszystko tylko nie maczuga!</font>
+
+1023
+00:04:40,930 --> 00:04:43,600
+<font face="Rosario SemiBold" size="82">To lepiej rusz tyłek!</font>
+
+1024
+00:05:04,450 --> 00:05:09,620
+<font face="Rosario SemiBold" size="82">Nie odbierzemy wam życia,
+ale <i>odbierzemy</i> wam wszystkie błyskotki!</font>
+
+1025
+00:05:09,620 --> 00:05:14,420
+<font face="Rosario SemiBold" size="82">Spróbujcie się stawiać,
+a skończycie na dnie oceanu!</font>
+
+1026
+00:05:14,840 --> 00:05:17,210
+<font face="Rosario SemiBold" size="82">Dzień dobry...?</font>
+
+1027
+00:05:18,840 --> 00:05:22,050
+<font face="Rosario SemiBold" size="82">Nikogo tu nie na, prawda?</font>
+
+1028
+00:05:22,680 --> 00:05:24,800
+<font face="Rosario SemiBold" size="82">Całe szczęście... Hm?</font>
+
+1029
+00:05:26,890 --> 00:05:29,930
+<font face="Rosario SemiBold" size="82">Całkiem wielka ta beczka...</font>
+
+1030
+00:05:36,320 --> 00:05:37,940
+<font face="Rosario SemiBold" size="82">Hej, ciamajdo!</font>
+
+1031
+00:05:37,940 --> 00:05:40,610
+<font face="Rosario SemiBold" size="82">Znów się ukrywasz,
+żeby pominąć obowiązki, co?!</font>
+
+1032
+00:05:40,610 --> 00:05:44,820
+<font face="Rosario SemiBold" size="82">N-Nie! Pomyślałem, że warto
+przyturlać tę beczkę z gorzałą...</font>
+
+1033
+00:05:45,950 --> 00:05:47,950
+<font face="Rosario SemiBold" size="82">To pozwól, że ci trochę pomożemy!</font>
+
+1034
+00:05:47,950 --> 00:05:49,450
+<font face="Rosario SemiBold" size="82">Akurat mi się zachciało pić...</font>
+
+1035
+00:05:49,450 --> 00:05:52,920
+<font face="Rosario SemiBold" size="82">Tylko nie to! Jak wielmożna Alvida
+się dowie, to nas pozabija!</font>
+
+1036
+00:05:52,920 --> 00:05:55,670
+<font face="Rosario SemiBold" size="82">Więc wystarczy, że będziesz siedział cicho!</font>
+
+1037
+00:05:55,670 --> 00:05:57,420
+<font face="Rosario SemiBold" size="82">Co nie, Koby?</font>
+
+1038
+00:05:57,420 --> 00:06:00,880
+<font face="Rosario SemiBold" size="82">T-Tak! Oczywiście!</font>
+
+1039
+00:06:00,880 --> 00:06:02,170
+<font face="Rosario SemiBold" size="82">Swoje waży...</font>
+
+1040
+00:06:02,170 --> 00:06:03,340
+<font face="Rosario SemiBold" size="82">Nie mogę się doczekać!</font>
+
+1041
+00:06:03,340 --> 00:06:05,470
+<font face="Rosario SemiBold" size="82">Zaraz ją otworzę!</font>
+
+1042
+00:06:15,060 --> 00:06:22,650
+<font face="Rosario SemiBold" size="82">Ale się wyspałem!</font>
+
+1043
+00:06:25,950 --> 00:06:26,740
+<font face="Rosario SemiBold" size="82">A to co?</font>
+
+1044
+00:06:30,870 --> 00:06:31,700
+<font face="Rosario SemiBold" size="82">Coście za jedni?</font>
+
+1045
+00:06:31,700 --> 00:06:33,620
+<font face="Rosario SemiBold" size="82">– A coś <i>ty</i> za jeden?!
+– A coś <i>ty</i> za jeden?!</font>
+
+1046
+00:06:33,620 --> 00:06:35,630
+<font face="Rosario SemiBold" size="82">Jak ten facet będzie tu spał, to się przeziębi.</font>
+
+1047
+00:06:35,630 --> 00:06:37,460
+<font face="Rosario SemiBold" size="82">– A <i>kto</i> go tak urządził?!
+– A <i>kto</i> go tak urządził?!</font>
+
+1048
+00:06:39,130 --> 00:06:43,970
+<font face="Rosario SemiBold" size="82">Draniu...! Za kogo ty się masz,
+igrając sobie z piratami, co?!</font>
+
+1049
+00:06:44,260 --> 00:06:47,930
+<font face="Rosario SemiBold" size="82">Ale jestem głodny! Masz coś na ząb?</font>
+
+1050
+00:06:45,890 --> 00:06:47,930
+<font face="Rosario SemiBold" size="82" color="#d6d6d6">Nie ignoruj nas!</font>
+
+1051
+00:06:48,300 --> 00:06:50,430
+<font face="Rosario SemiBold" size="82">Ty cholerny bachorze!</font>
+
+1052
+00:06:52,680 --> 00:06:54,060
+<font face="Rosario SemiBold" size="82">Zdychaj!</font>
+
+1053
+00:07:10,410 --> 00:07:12,500
+<font face="Rosario SemiBold" size="82">O co wam chodzi?</font>
+
+1054
+00:07:12,830 --> 00:07:14,710
+<font face="Rosario SemiBold" size="82">K-Kim ty jesteś?!</font>
+
+1055
+00:07:14,710 --> 00:07:15,460
+<font face="Rosario SemiBold" size="82">Ja?</font>
+
+1056
+00:07:16,000 --> 00:07:19,710
+<font face="Rosario SemiBold" size="82">Jestem Monkey D. Luffy. Miło poznać!</font>
+
+1057
+00:07:27,390 --> 00:07:29,640
+<font face="Rosario SemiBold" size="82">Co się...? Co się właśnie stało?</font>
+
+1058
+00:07:29,640 --> 00:07:31,390
+<font face="Rosario SemiBold" size="82">A z nimi co?</font>
+
+1059
+00:07:31,390 --> 00:07:33,020
+<font face="Rosario SemiBold" size="82">Sz-Szybko! Uciekaj stąd!</font>
+
+1060
+00:07:33,020 --> 00:07:36,020
+<font face="Rosario SemiBold" size="82">Jak tu wrócą z kumplami, to cię zabiją!</font>
+
+1061
+00:07:36,020 --> 00:07:38,020
+<font face="Rosario SemiBold" size="82">Ale serio, jestem taki głodny!</font>
+
+1062
+00:07:38,020 --> 00:07:41,020
+<font face="Rosario SemiBold" size="82">Jak możesz być taki beztroski?!</font>
+
+1063
+00:07:41,020 --> 00:07:44,610
+<font face="Rosario SemiBold" size="82">Na pokładzie jest ich znacznie więcej!</font>
+
+1064
+00:07:44,610 --> 00:07:47,360
+<font face="Rosario SemiBold" size="82">Chodź! Tędy!</font>
+
+1065
+00:07:47,360 --> 00:07:48,820
+<font face="Rosario SemiBold" size="82">Ch-Ch-Chwila!</font>
+
+1066
+00:07:48,820 --> 00:07:51,780
+<font face="Rosario SemiBold" size="82">Tylko nie tędy!</font>
+
+1067
+00:07:56,960 --> 00:08:00,330
+<font face="Rosario SemiBold" size="82">Żarcie! Żarcie! Żarcie! Tak! Żarcie!</font>
+
+1068
+00:08:00,330 --> 00:08:04,670
+<font face="Rosario SemiBold" size="82">W sumie może nas tutaj nie znajdą!</font>
+
+1069
+00:08:05,210 --> 00:08:08,630
+<font face="Rosario SemiBold" size="82">Co powinienem wziąć?
+To pudło? O, strzał w dziesiątkę!</font>
+
+1070
+00:08:08,630 --> 00:08:10,390
+<font face="Rosario SemiBold" size="82">Wyglądają przepysznie!</font>
+
+1071
+00:08:10,390 --> 00:08:13,010
+<font face="Rosario SemiBold" size="82">M-Mam na imię Koby.</font>
+
+1072
+00:08:13,010 --> 00:08:14,770
+<font face="Rosario SemiBold" size="82">Ty jesteś Luffy, tak?</font>
+
+1073
+00:08:14,770 --> 00:08:17,640
+<font face="Rosario SemiBold" size="82">To wcześniej było niesamowite!
+Jak ty to zrobiłeś?!</font>
+
+1074
+00:08:18,390 --> 00:08:19,600
+<font face="Rosario SemiBold" size="82">Są przepyszne!</font>
+
+1075
+00:08:21,230 --> 00:08:22,980
+<font face="Rosario SemiBold" size="82">To statek piratów?</font>
+
+1076
+00:08:22,980 --> 00:08:29,950
+<font face="Rosario SemiBold" size="82">Nie, to statek pasażerski plądrowany
+właśnie przez wielmożną Alvidę.</font>
+
+1077
+00:08:29,950 --> 00:08:31,740
+<font face="Rosario SemiBold" size="82">Dla mnie bez różnicy.</font>
+
+1078
+00:08:31,740 --> 00:08:33,950
+<font face="Rosario SemiBold" size="82">Mają tu jakieś łódki na pokładzie?</font>
+
+1079
+00:08:33,950 --> 00:08:36,500
+<font face="Rosario SemiBold" size="82">P-Pewnie tak, ale...</font>
+
+1080
+00:08:36,500 --> 00:08:38,960
+<font face="Rosario SemiBold" size="82">Moją łódkę wciągnął ten wielki wir wodny!</font>
+
+1081
+00:08:38,960 --> 00:08:42,590
+<font face="Rosario SemiBold" size="82">Masz na myśli <i>ten</i> wir?! To cud, że przeżyłeś!</font>
+
+1082
+00:08:42,590 --> 00:08:46,050
+<font face="Rosario SemiBold" size="82">Człowieku, to dopiero była niespodzianka!</font>
+
+1083
+00:08:47,420 --> 00:08:50,430
+<font face="Rosario SemiBold" size="82">Ty też jesteś jednym z tych piratów?</font>
+
+1084
+00:08:49,680 --> 00:08:50,430
+<font face="Rosario SemiBold" size="82" color="#d6d6d6">Hm?</font>
+
+1085
+00:08:53,890 --> 00:08:56,970
+<font face="Rosario SemiBold" size="82">To było tego pamiętnego dnia...</font>
+
+1086
+00:08:57,480 --> 00:09:02,940
+<font face="Rosario SemiBold" size="82">Tego dnia wszedłem na łódź na
+obrzeżach, żeby złowić trochę ryb...</font>
+
+1087
+00:09:08,320 --> 00:09:14,740
+<font face="Rosario SemiBold" size="82">ale okazało się, że ta łódź nie płynie
+na ryby, tylko do pirackiego statku.</font>
+
+1088
+00:09:14,740 --> 00:09:16,620
+<font face="Rosario SemiBold" size="82">To już dwa lata.</font>
+
+1089
+00:09:16,620 --> 00:09:20,540
+<font face="Rosario SemiBold" size="82">W zamian za moje życie muszę
+pracować jako chłopiec okrętowy.</font>
+
+1090
+00:09:21,080 --> 00:09:23,210
+<font face="Rosario SemiBold" size="82">Człowieku, serio jesteś głupi!</font>
+
+1091
+00:09:23,210 --> 00:09:25,250
+<font face="Rosario SemiBold" size="82">Jesteś szczery do bólu.</font>
+
+1092
+00:09:25,250 --> 00:09:26,500
+<font face="Rosario SemiBold" size="82">Po prostu ucieknij!</font>
+
+1093
+00:09:26,500 --> 00:09:29,300
+<font face="Rosario SemiBold" size="82">N-Nie mogę! Za nic! Za nic!</font>
+
+1094
+00:09:29,300 --> 00:09:33,050
+<font face="Rosario SemiBold" size="82">Wizja znajdującej mnie wielmożnej
+Alvidy sprawia, że mam nogi z waty.</font>
+
+1095
+00:09:33,300 --> 00:09:35,930
+<font face="Rosario SemiBold" size="82">A, czyli na dodatek jesteś mięczak?</font>
+
+1096
+00:09:35,930 --> 00:09:38,810
+<font face="Rosario SemiBold" size="82">Wiesz co, chyba cię nie lubię!</font>
+
+1097
+00:09:40,520 --> 00:09:43,150
+<font face="Rosario SemiBold" size="82">Dalej! Nie ociągać się!</font>
+
+1098
+00:09:43,150 --> 00:09:46,020
+<font face="Rosario SemiBold" size="82">Przenieście wszystko,
+zanim zjawi się tu Marynarka!</font>
+
+1099
+00:09:46,980 --> 00:09:50,950
+<font face="Rosario SemiBold" size="82">Każda guzdrała posmakuje mojej maczugi!</font>
+
+1100
+00:09:49,690 --> 00:09:50,950
+<font face="Rosario SemiBold" size="82" color="#d6d6d6">Ale się obłowimy!</font>
+
+1101
+00:09:56,870 --> 00:09:58,080
+<font face="Rosario SemiBold" size="82">– Wielmożna Alvido!
+– Wielmożna Alvido!</font>
+
+1102
+00:09:59,370 --> 00:10:00,040
+<font face="Rosario SemiBold" size="82">– Kłopoty!
+– Kłopoty!</font>
+
+1103
+00:10:00,410 --> 00:10:02,210
+<font face="Rosario SemiBold" size="82">Co znowu?! Wkurzacie mnie!</font>
+
+1104
+00:10:02,210 --> 00:10:03,620
+<font face="Rosario SemiBold" size="82">B-B-Beczka!</font>
+
+1105
+00:10:03,620 --> 00:10:05,420
+<font face="Rosario SemiBold" size="82">P-P-Potwór!</font>
+
+1106
+00:10:05,420 --> 00:10:06,460
+<font face="Rosario SemiBold" size="82">Co?!</font>
+
+1107
+00:10:08,300 --> 00:10:10,420
+<font face="Rosario SemiBold" size="82">Kogo nazywacie "potworem"?!</font>
+
+1108
+00:10:17,930 --> 00:10:19,680
+<font face="Rosario SemiBold" size="82">T-To nie tak...</font>
+
+1109
+00:10:19,680 --> 00:10:22,640
+<font face="Rosario SemiBold" size="82">Jakiś dziwak wyskoczył z beczki...</font>
+
+1110
+00:10:22,640 --> 00:10:26,310
+<font face="Rosario SemiBold" size="82">Może to łowca nagród...</font>
+
+1111
+00:10:26,310 --> 00:10:27,940
+<font face="Rosario SemiBold" size="82">Że co?!</font>
+
+1112
+00:10:28,980 --> 00:10:30,320
+<font face="Rosario SemiBold" size="82">Masz rację.</font>
+
+1113
+00:10:30,570 --> 00:10:31,820
+<font face="Rosario SemiBold" size="82">Sama prawda.</font>
+
+1114
+00:10:31,820 --> 00:10:36,320
+<font face="Rosario SemiBold" size="82">Jakbym miał taką odwagę jak ty,
+by płynąć przez morze w beczce...</font>
+
+1115
+00:10:36,320 --> 00:10:40,330
+<font face="Rosario SemiBold" size="82">to wtedy może bym osiągnął to,
+czego naprawdę pragnę.</font>
+
+1116
+00:10:40,330 --> 00:10:44,580
+<font face="Rosario SemiBold" size="82">Luffy... co cię skłoniło do
+wypłynięcia w morze?</font>
+
+1117
+00:10:44,580 --> 00:10:45,290
+<font face="Rosario SemiBold" size="82">Co?</font>
+
+1118
+00:10:45,790 --> 00:10:48,090
+<font face="Rosario SemiBold" size="82">Zostanę Królem Piratów!</font>
+
+1119
+00:10:50,210 --> 00:10:52,340
+<font face="Rosario SemiBold" size="82">K-K-Królem Piratów?!</font>
+
+1120
+00:10:52,340 --> 00:10:52,760
+<font face="Rosario SemiBold" size="82">Tak.</font>
+
+1121
+00:10:52,760 --> 00:10:53,840
+<font face="Rosario SemiBold" size="82">Mówisz serio?!</font>
+
+1122
+00:10:53,840 --> 00:10:54,470
+<font face="Rosario SemiBold" size="82">Serio.</font>
+
+1123
+00:10:54,470 --> 00:10:57,260
+<font face="Rosario SemiBold" size="82">Znaczy się, że jesteś piratem, Luffy?!</font>
+
+1124
+00:10:57,260 --> 00:10:58,220
+<font face="Rosario SemiBold" size="82">Tak.</font>
+
+1125
+00:10:58,220 --> 00:10:59,100
+<font face="Rosario SemiBold" size="82">A twoja załoga...?</font>
+
+1126
+00:10:59,100 --> 00:11:01,270
+<font face="Rosario SemiBold" size="82">Jeszcze nie mam, ale szukam.</font>
+
+1127
+00:11:05,850 --> 00:11:11,980
+<font face="Rosario SemiBold" size="82">K-K-Król Piratów to człowiek, który
+zdobędzie wszystko, co jest do zdobycia!</font>
+
+1128
+00:11:11,980 --> 00:11:15,910
+<font face="Rosario SemiBold" size="82">To ten, który odnajdzie skarb
+dający bogactwo, sławę i władzę—</font>
+
+1129
+00:11:15,910 --> 00:11:18,570
+<font face="Rosario SemiBold" size="82">One Piece największy ukryty gdzieś skarb!</font>
+
+1130
+00:11:18,570 --> 00:11:19,070
+<font face="Rosario SemiBold" size="82">Zgadza się!</font>
+
+1131
+00:11:19,070 --> 00:11:23,540
+<font face="Rosario SemiBold" size="82">"Zgadza się"?! Piraci z całego
+świata polują na ten skarb!</font>
+
+1132
+00:11:23,540 --> 00:11:24,580
+<font face="Rosario SemiBold" size="82">No i ja też!</font>
+
+1133
+00:11:24,580 --> 00:11:28,420
+<font face="Rosario SemiBold" size="82">Niemożliwe! Za nic, za nic, za nic!
+Absolutnie niemożliwe!</font>
+
+1134
+00:11:28,420 --> 00:11:32,090
+<font face="Rosario SemiBold" size="82">Nie ma takiej opcji, abyś stanął
+na szczycie Wielkiej Ery Piratów!</font>
+
+1135
+00:11:32,090 --> 00:11:33,170
+<font face="Rosario SemiBold" size="82">Niemożliwe! Niemożliwe!</font>
+
+1136
+00:11:35,510 --> 00:11:37,640
+<font face="Rosario SemiBold" size="82">Dlaczego mnie uderzyłeś?</font>
+
+1137
+00:11:37,640 --> 00:11:39,010
+<font face="Rosario SemiBold" size="82">Dla zasady.</font>
+
+1138
+00:11:39,760 --> 00:11:42,640
+<font face="Rosario SemiBold" size="82">W sumie nieważne... I tak już przywykłem.</font>
+
+1139
+00:11:46,230 --> 00:11:48,100
+<font face="Rosario SemiBold" size="82">Tu nie chodzi o to, czy mogę...</font>
+
+1140
+00:11:48,100 --> 00:11:48,730
+<font face="Rosario SemiBold" size="82">Co?</font>
+
+1141
+00:11:48,730 --> 00:11:50,400
+<font face="Rosario SemiBold" size="82">Zrobię to, bo tak chcę.</font>
+
+1142
+00:11:53,230 --> 00:11:56,740
+<font face="Rosario SemiBold" size="82">Zdecydowałem, że zostanę Królem Piratów...</font>
+
+1143
+00:11:56,740 --> 00:11:59,950
+<font face="Rosario SemiBold" size="82">więc nie przeszkadza mi,
+jeśli walcząc o to, umrę!</font>
+
+1144
+00:12:02,950 --> 00:12:07,160
+<font face="Rosario SemiBold" size="82">No to się najadłem! Pora znaleźć jakąś łódkę.</font>
+
+1145
+00:12:07,160 --> 00:12:08,870
+<font face="Rosario SemiBold" size="82">Ciekawe czy mi jakąś pożyczą.</font>
+
+1146
+00:12:08,870 --> 00:12:11,130
+<font face="Rosario SemiBold" size="82">Mam nadzieję, że hojni z nich ludzie.</font>
+
+1147
+00:12:12,040 --> 00:12:14,670
+<font face="Rosario SemiBold" size="82">Nigdy się nad tym tak nie zastanawiałem...</font>
+
+1148
+00:12:16,050 --> 00:12:18,260
+<font face="Rosario SemiBold" size="82">Myślisz, że ja też mógłbym...</font>
+
+1149
+00:12:19,180 --> 00:12:20,890
+<font face="Rosario SemiBold" size="82">jeśli byłbym gotów umrzeć?</font>
+
+1150
+00:12:20,890 --> 00:12:21,720
+<font face="Rosario SemiBold" size="82">Co takiego?</font>
+
+1151
+00:12:22,390 --> 00:12:23,510
+<font face="Rosario SemiBold" size="82">Czy myślisz...</font>
+
+1152
+00:12:24,010 --> 00:12:26,140
+<font face="Rosario SemiBold" size="82">że mógłbym dołączyć do Marynarki?</font>
+
+1153
+00:12:27,100 --> 00:12:27,940
+<font face="Rosario SemiBold" size="82">Do Marynarki?</font>
+
+1154
+00:12:27,940 --> 00:12:31,730
+<font face="Rosario SemiBold" size="82">Tak! Łapanie przestępców to moje marzenie!</font>
+
+1155
+00:12:31,980 --> 00:12:34,190
+<font face="Rosario SemiBold" size="82">Marzyłem o tym, odkąd byłem mały!</font>
+
+1156
+00:12:34,190 --> 00:12:35,940
+<font face="Rosario SemiBold" size="82">Myślisz, że mi się uda?!</font>
+
+1157
+00:12:35,940 --> 00:12:37,070
+<font face="Rosario SemiBold" size="82">A skąd mam to wiedzieć?</font>
+
+1158
+00:12:37,070 --> 00:12:38,570
+<font face="Rosario SemiBold" size="82">Nie! Zrobię to!</font>
+
+1159
+00:12:38,570 --> 00:12:42,830
+<font face="Rosario SemiBold" size="82">Albo na zawsze zostanę chłopcem na posyłki,
+albo ucieknę i aresztuję wielmożną Alvidę!</font>
+
+1160
+00:12:42,830 --> 00:12:45,200
+<font face="Rosario SemiBold" size="82">Nie, po prostu Alvidę!</font>
+
+1161
+00:12:52,040 --> 00:12:54,710
+<font face="Rosario SemiBold" size="82">Chcesz się bratać z <i>tym</i> gnojkiem?!</font>
+
+1162
+00:12:54,710 --> 00:12:57,170
+<font face="Rosario SemiBold" size="82">I <i>kogo</i> to chcesz aresztować?!</font>
+
+1163
+00:12:57,170 --> 00:12:59,930
+<font face="Rosario SemiBold" size="82">Co, Koby?!</font>
+
+1164
+00:13:13,900 --> 00:13:16,400
+<font face="Rosario SemiBold" size="82">Nie wyglądasz mi na Łowcę Piratów Zoro.</font>
+
+1165
+00:13:17,400 --> 00:13:18,190
+<font face="Rosario SemiBold" size="82">Zoro?</font>
+
+1166
+00:13:18,190 --> 00:13:19,860
+<font face="Rosario SemiBold" size="82">Koby!</font>
+
+1167
+00:13:20,110 --> 00:13:24,120
+<font face="Rosario SemiBold" size="82">Któż jest najpiękniejszy na tych wodach?!</font>
+
+1168
+00:13:25,330 --> 00:13:27,290
+<font face="Rosario SemiBold" size="82">O-Oczywiście jest to–</font>
+
+1169
+00:13:27,910 --> 00:13:29,750
+<font face="Rosario SemiBold" size="82">Kim jest ten spasiony paszczur?</font>
+
+1170
+00:13:36,210 --> 00:13:37,050
+<font face="Rosario SemiBold" size="82">"Spasiony"?</font>
+
+1171
+00:13:37,050 --> 00:13:38,170
+<font face="Rosario SemiBold" size="82">Powiedział to...</font>
+
+1172
+00:13:40,970 --> 00:13:44,140
+<font face="Rosario SemiBold" size="82">Gnojku!</font>
+
+1173
+00:13:47,100 --> 00:13:48,060
+<font face="Rosario SemiBold" size="82">Chodźmy!</font>
+
+1174
+00:13:56,570 --> 00:13:57,690
+<font face="Rosario SemiBold" size="82">Oż ty...!</font>
+
+1175
+00:14:18,380 --> 00:14:21,800
+<font face="Rosario SemiBold" size="82">Nieładnie tak atakować od tyłu!</font>
+
+1176
+00:14:28,930 --> 00:14:32,980
+<font face="Rosario SemiBold" size="82">A jeszcze gorzej atakować jednego w kilku!</font>
+
+1177
+00:14:42,280 --> 00:14:43,280
+<font face="Rosario SemiBold" size="82">Mam was!</font>
+
+1178
+00:14:45,160 --> 00:14:50,410
+<font face="Rosario SemiBold" size="82">Gum-Gumowa...</font>
+
+1179
+00:14:51,750 --> 00:14:55,250
+<font face="Rosario SemiBold" size="82">Rakieta!</font>
+
+1180
+00:14:56,170 --> 00:14:57,750
+<font face="Rosario SemiBold" size="82">Co?!</font>
+
+1181
+00:15:03,050 --> 00:15:06,260
+<font face="Rosario SemiBold" size="82">L-Luffy... Czym ty jesteś?</font>
+
+1182
+00:15:06,260 --> 00:15:06,720
+<font face="Rosario SemiBold" size="82">Ja?</font>
+
+1183
+00:15:07,510 --> 00:15:09,180
+<font face="Rosario SemiBold" size="82">Jestem Człowiekiem-Gumą!</font>
+
+1184
+00:15:09,810 --> 00:15:13,680
+<font face="Rosario SemiBold" size="82">Człowiekiem-Gumą...? Nie może być!</font>
+
+1185
+00:15:16,770 --> 00:15:19,440
+<font face="Rosario SemiBold" size="82">Zjadłeś diabelski owoc, mam rację?</font>
+
+1186
+00:15:20,190 --> 00:15:22,280
+<font face="Rosario SemiBold" size="82">Tak! Gum-Gumowoc!</font>
+
+1187
+00:15:22,530 --> 00:15:24,280
+<font face="Rosario SemiBold" size="82">Rozumiem!</font>
+
+1188
+00:15:24,280 --> 00:15:29,490
+<font face="Rosario SemiBold" size="82">Słyszałam o nich tylko plotki,
+ale wygląda na to, że istnieją!</font>
+
+1189
+00:15:29,830 --> 00:15:32,040
+<font face="Rosario SemiBold" size="82">Na dodatek coś tam umiesz.</font>
+
+1190
+00:15:32,040 --> 00:15:33,410
+<font face="Rosario SemiBold" size="82">Jesteś łowcą nagród?</font>
+
+1191
+00:15:33,790 --> 00:15:34,960
+<font face="Rosario SemiBold" size="82">Jestem piratem!</font>
+
+1192
+00:15:34,960 --> 00:15:36,710
+<font face="Rosario SemiBold" size="82">Piratem?! Ha!</font>
+
+1193
+00:15:36,710 --> 00:15:37,790
+<font face="Rosario SemiBold" size="82">Sam jeden?!</font>
+
+1194
+00:15:37,790 --> 00:15:41,630
+<font face="Rosario SemiBold" size="82">Póki co jestem tylko ja,
+ale właśnie zbieram załogę!</font>
+
+1195
+00:15:41,630 --> 00:15:44,470
+<font face="Rosario SemiBold" size="82">Pomyślmy... dziesięcioro powinno wystarczyć!</font>
+
+1196
+00:15:44,470 --> 00:15:48,430
+<font face="Rosario SemiBold" size="82">Więc wychodzi na to,
+że jesteśmy wrogami, co?</font>
+
+1197
+00:15:48,430 --> 00:15:50,800
+<font face="Rosario SemiBold" size="82">L-Luffy! Wynośmy się stąd!</font>
+
+1198
+00:15:50,800 --> 00:15:51,310
+<font face="Rosario SemiBold" size="82">Dlaczego?</font>
+
+1199
+00:15:51,310 --> 00:15:53,470
+<font face="Rosario SemiBold" size="82">Sam widziałeś moc jej maczugi!</font>
+
+1200
+00:15:53,850 --> 00:15:56,690
+<font face="Rosario SemiBold" size="82">Na tych morzach ona jest najbardziej...</font>
+
+1201
+00:15:59,150 --> 00:16:02,900
+<font face="Rosario SemiBold" size="82"><i>Zdecydowałem, że zostanę Królem Piratów...</i></font>
+
+1202
+00:16:02,900 --> 00:16:06,070
+<font face="Rosario SemiBold" size="82"><i>więc nie przeszkadza mi,
+jeśli walcząc o to, umrę!</i></font>
+
+1203
+00:16:09,360 --> 00:16:11,870
+<font face="Rosario SemiBold" size="82">Jestem najbardziej... <i>jaka</i>?</font>
+
+1204
+00:16:11,870 --> 00:16:14,620
+<font face="Rosario SemiBold" size="82">N-N-Naj...</font>
+
+1205
+00:16:15,500 --> 00:16:21,290
+<font face="Rosario SemiBold" size="82">Najbardziej spasionym,
+najwredniejszym paszczurem!</font>
+
+1206
+00:16:32,850 --> 00:16:35,140
+<font face="Rosario SemiBold" size="82">C-Coś ty powiedział?!</font>
+
+1207
+00:16:35,770 --> 00:16:38,140
+<font face="Rosario SemiBold" size="82">D-Dołączę do Marynarki!</font>
+
+1208
+00:16:38,140 --> 00:16:41,150
+<font face="Rosario SemiBold" size="82">A potem mnie popamiętacie, piraci!</font>
+
+1209
+00:16:41,150 --> 00:16:43,520
+<font face="Rosario SemiBold" size="82">Czy ty zdajesz sobie
+sprawę z tego co wygadujesz?!</font>
+
+1210
+00:16:43,520 --> 00:16:47,150
+<font face="Rosario SemiBold" size="82">Zdaję! I zrobię to, co <i>sobie</i> postanowiłem!</font>
+
+1211
+00:16:47,150 --> 00:16:49,150
+<font face="Rosario SemiBold" size="82">Kiedy... Kiedy już wstąpię do Marynarki...</font>
+
+1212
+00:16:49,150 --> 00:16:51,820
+<font face="Rosario SemiBold" size="82">to zamknę cię na dobre!</font>
+
+1213
+00:16:51,820 --> 00:16:54,870
+<font face="Rosario SemiBold" size="82">Ty przeklęty gówniarzu!</font>
+
+1214
+00:16:54,870 --> 00:16:59,370
+<font face="Rosario SemiBold" size="82">Nie żałuję! Nie żałuję!
+Zrobiłem to! Zawalczyłem o marzenie!</font>
+
+1215
+00:16:59,370 --> 00:17:00,460
+<font face="Rosario SemiBold" size="82">Dobrze powiedziane!</font>
+
+1216
+00:17:13,010 --> 00:17:14,350
+<font face="Rosario SemiBold" size="82">Nic z tego!</font>
+
+1217
+00:17:14,350 --> 00:17:15,470
+<font face="Rosario SemiBold" size="82">Że co?!</font>
+
+1218
+00:17:15,470 --> 00:17:17,100
+<font face="Rosario SemiBold" size="82">W końcu jestem z gumy.</font>
+
+1219
+00:17:19,480 --> 00:17:23,730
+<font face="Rosario SemiBold" size="82">Gum-Gumowy...</font>
+
+1220
+00:17:24,730 --> 00:17:30,150
+<font face="Rosario SemiBold" size="82">Pistolet!</font>
+
+1221
+00:17:48,260 --> 00:17:51,170
+<font face="Rosario SemiBold" size="82">Niebo jest takie niebieskie...</font>
+
+1222
+00:18:02,850 --> 00:18:03,520
+<font face="Rosario SemiBold" size="82">Ej!</font>
+
+1223
+00:18:03,520 --> 00:18:04,400
+<font face="Rosario SemiBold" size="82">– Tak?!
+– Tak?!</font>
+
+1224
+00:18:04,400 --> 00:18:07,110
+<font face="Rosario SemiBold" size="82">Dajcie Koby'emu małą łódkę!</font>
+
+1225
+00:18:07,110 --> 00:18:09,230
+<font face="Rosario SemiBold" size="82">On dołączy do Marynarki!</font>
+
+1226
+00:18:09,230 --> 00:18:10,690
+<font face="Rosario SemiBold" size="82">Pozwólcie mu odejść.</font>
+
+1227
+00:18:11,450 --> 00:18:13,160
+<font face="Rosario SemiBold" size="82">– T-Tak jest!
+– T-Tak jest!</font>
+
+1228
+00:18:14,870 --> 00:18:16,200
+<font face="Rosario SemiBold" size="82">Luffy...!</font>
+
+1229
+00:18:23,210 --> 00:18:25,330
+<font face="Rosario SemiBold" size="82">To Marynarka!</font>
+
+1230
+00:18:25,330 --> 00:18:26,340
+<font face="Rosario SemiBold" size="82">O!</font>
+
+1231
+00:18:26,590 --> 00:18:29,380
+<font face="Rosario SemiBold" size="82">Rychło w czas! Płyń do nich! To twoja okazja!</font>
+
+1232
+00:18:29,380 --> 00:18:29,960
+<font face="Rosario SemiBold" size="82">Co?</font>
+
+1233
+00:18:29,960 --> 00:18:31,340
+<font face="Rosario SemiBold" size="82">Jestem piratem, więc zwiewam!</font>
+
+1234
+00:18:31,340 --> 00:18:32,340
+<font face="Rosario SemiBold" size="82">Żartujesz sobie?!</font>
+
+1235
+00:18:32,340 --> 00:18:36,050
+<font face="Rosario SemiBold" size="82">Jakbym teraz spróbował,
+to też bym został aresztowany!</font>
+
+1236
+00:18:48,730 --> 00:18:50,940
+<font face="Rosario SemiBold" size="82">Jakoś udało nam się uciec, co?</font>
+
+1237
+00:18:50,940 --> 00:18:53,280
+<font face="Rosario SemiBold" size="82">Fiu! To dopiero ubaw!</font>
+
+1238
+00:18:54,280 --> 00:18:55,660
+<font face="Rosario SemiBold" size="82">Ehm, Luffy....</font>
+
+1239
+00:18:55,660 --> 00:18:56,410
+<font face="Rosario SemiBold" size="82">Co jest?</font>
+
+1240
+00:18:56,410 --> 00:19:01,200
+<font face="Rosario SemiBold" size="82">Skoro szukasz One Piece, to pewnie
+płyniesz na Grand Line, prawda?</font>
+
+1241
+00:19:01,200 --> 00:19:01,790
+<font face="Rosario SemiBold" size="82">Tak.</font>
+
+1242
+00:19:01,790 --> 00:19:04,920
+<font face="Rosario SemiBold" size="82">Wiesz, to miejsce nazywają
+też "Grobowcem Piratów."</font>
+
+1243
+00:19:04,920 --> 00:19:07,790
+<font face="Rosario SemiBold" size="82">Wiem. Dlatego potrzebuję silnej załogi.</font>
+
+1244
+00:19:08,250 --> 00:19:10,500
+<font face="Rosario SemiBold" size="82">Może ten cały Łowca Piratów?</font>
+
+1245
+00:19:10,500 --> 00:19:11,590
+<font face="Rosario SemiBold" size="82">Jaki on jest?</font>
+
+1246
+00:19:12,170 --> 00:19:13,670
+<font face="Rosario SemiBold" size="82">Masz na myśli Zoro?</font>
+
+1247
+00:19:13,670 --> 00:19:17,340
+<font face="Rosario SemiBold" size="82">Słyszałem, że trzymają go
+jako więźnia w bazie Marynarki.</font>
+
+1248
+00:19:17,340 --> 00:19:19,260
+<font face="Rosario SemiBold" size="82">Co? Taki z niego cienias?</font>
+
+1249
+00:19:19,260 --> 00:19:20,600
+<font face="Rosario SemiBold" size="82">W żadnym wypadku!</font>
+
+1250
+00:19:20,600 --> 00:19:24,390
+<font face="Rosario SemiBold" size="82">To bestia wcielona, prawdziwy demon!</font>
+
+1251
+00:19:25,350 --> 00:19:27,690
+<font face="Rosario SemiBold" size="82">Dlaczego mnie o niego pytasz?</font>
+
+1252
+00:19:28,690 --> 00:19:31,650
+<font face="Rosario SemiBold" size="82">Jeśli to dobry facet,
+to mógłby do mnie dołączyć!</font>
+
+1253
+00:19:32,980 --> 00:19:35,110
+<font face="Rosario SemiBold" size="82">Znowu jesteś lekkomyślny!</font>
+
+1254
+00:19:35,110 --> 00:19:36,860
+<font face="Rosario SemiBold" size="82">Daj spokój! Może jest dobry!</font>
+
+1255
+00:19:36,860 --> 00:19:39,120
+<font face="Rosario SemiBold" size="82">Złapali go właśnie <i>dlatego</i>, że nie jest!</font>
+
+1256
+00:19:39,120 --> 00:19:42,080
+<font face="Rosario SemiBold" size="82">Nie! Nie ma mowy,
+nie ma mowy! Absolutnie nie–</font>
+
+1257
+00:19:43,120 --> 00:19:45,370
+<font face="Rosario SemiBold" size="82">Dlaczego mnie uderzyłeś?</font>
+
+1258
+00:19:45,370 --> 00:19:46,580
+<font face="Rosario SemiBold" size="82">Dla zasady.</font>
+
