@@ -12,17 +12,17 @@
 
 4
 00:00:31,890 --> 00:00:37,270
-<font face="FOT-Greco Std B" size="34">{\an7}Translation
+<font face="FOT-Greco Std B" size="34">Translation
 Funimation</font>
 
 5
 00:00:31,890 --> 00:00:37,270
-<font face="FOT-Greco Std B" size="34">{\an7}Soundtracking
+<font face="FOT-Greco Std B" size="34">Soundtracking
 Halee</font>
 
 6
 00:00:31,890 --> 00:00:37,270
-<font face="FOT-Greco Std B" size="34">{\an7}Quality-checking
+<font face="FOT-Greco Std B" size="34">Quality-checking
 alasta</font>
 
 7
@@ -31,23 +31,23 @@ alasta</font>
 
 8
 00:00:37,380 --> 00:00:42,140
-<font face="FOT-Greco Std B" size="34">{\an7}Editing
+<font face="FOT-Greco Std B" size="34">Editing
 Sewil
 Feeso</font>
 
 9
 00:00:37,380 --> 00:00:42,140
-<font face="FOT-Greco Std B" size="34">{\an7}Infoboxes
+<font face="FOT-Greco Std B" size="34">Infoboxes
 BernieCrane</font>
 
 10
 00:00:37,380 --> 00:00:42,140
-<font face="FOT-Greco Std B" size="34">{\an7}Subtitling
+<font face="FOT-Greco Std B" size="34">Subtitling
 Sewil</font>
 
 11
 00:00:37,380 --> 00:00:42,140
-<font face="FOT-Greco Std B" size="34">{\an7}Edit-checking
+<font face="FOT-Greco Std B" size="34">Edit-checking
 Galaxy 9000</font>
 
 12
@@ -757,7 +757,7 @@ Snake Pit Dance is about to start!</font>
 
 184
 00:12:05,310 --> 00:12:09,460
-<font face="Impress BT" size="55">{\an8}I can't wait to see Marigold-sama's
+<font face="Impress BT" size="55">I can't wait to see Marigold-sama's
 "Salamander" with my own eyes!</font>
 
 185
@@ -767,7 +767,7 @@ Fruit Model King Cobra</font>
 
 186
 00:12:11,760 --> 00:12:15,050
-<font face="Impress BT" size="55">{\an8}And Sandersonia-sama's
+<font face="Impress BT" size="55">And Sandersonia-sama's
 "Eight-Headed Serpent"!</font>
 
 187

@@ -48,7 +48,7 @@
 
 13
 00:00:39,810 --> 00:00:43,070
-<font face="Times New Roman" size="34">{\an1}Translation & initial timing
+<font face="Times New Roman" size="34">Translation & initial timing
 <font size="40">Yibis Fansubs</font></font>
 
 14
@@ -57,7 +57,7 @@
 
 15
 00:00:45,240 --> 00:00:48,840
-<font face="Times New Roman" size="34">{\an1}Timing
+<font face="Times New Roman" size="34">Timing
 <font size="40">Galaxy 9000
 
 </font>Time-checking
@@ -69,7 +69,7 @@
 
 17
 00:00:50,200 --> 00:00:54,260
-<font face="Times New Roman" size="34">{\an1}Quality-checking
+<font face="Times New Roman" size="34">Quality-checking
 <font size="40">Sewil
 Galaxy 9000
 Feeso</font></font>
@@ -80,7 +80,7 @@ Feeso</font></font>
 
 19
 00:00:54,590 --> 00:00:58,790
-<font face="Times New Roman" size="34">{\an1}Soundtracking
+<font face="Times New Roman" size="34">Soundtracking
 <font size="40">Halee</font></font>
 
 20
@@ -105,7 +105,7 @@ Feeso</font></font>
 
 25
 00:01:16,420 --> 00:01:18,520
-<font face="Times New Roman" size="34">{\an1}Video editing
+<font face="Times New Roman" size="34">Video editing
 <font size="40">Sewil</font></font>
 
 26
@@ -178,7 +178,7 @@ Feeso</font></font>
 
 43
 00:02:30,030 --> 00:02:38,950
-<font face="impress bt" size="63" color="#fefefe"><b>{\an5}Adventure in the Ocean Depths!
+<font face="impress bt" size="63" color="#fefefe"><b>Adventure in the Ocean Depths!
 10 Kilometers Below the Surface!
 </b></font>
 
@@ -271,7 +271,7 @@ and because Nami's wearing a coat!</font>
 
 65
 00:03:41,100 --> 00:03:45,100
-<font face="Impress BT" size="55">This ship is dangerous!  I have to save myself! { def: madhouse instead of dangerous? }</font>
+<font face="Impress BT" size="55">This ship is dangerous!  I have to save myself! </font>
 
 66
 00:03:45,520 --> 00:03:47,340
@@ -403,7 +403,7 @@ that stupid captain of yours doesn't listen, does he?</font>
 97
 00:05:29,880 --> 00:05:34,040
 <font face="Impress BT" size="55">Would you rather he went wild while
-he was still on the ship?!{ tlc: "Would you rather it went wild while we were still on the ship?!" makes it easier to understand }{ def: that changes the meaning quite a bit, the original makes more sense to me }</font>
+he was still on the ship?!</font>
 
 98
 00:05:34,430 --> 00:05:37,150
@@ -516,7 +516,7 @@ then get away from the ship!</font>
 
 125
 00:06:46,560 --> 00:06:47,480
-<font face="Impress BT" size="38"><i>{\an8}One Thousand Flowers</i></font>
+<font face="Impress BT" size="38"><i>One Thousand Flowers</i></font>
 
 126
 00:06:48,920 --> 00:06:50,390
@@ -524,7 +524,7 @@ then get away from the ship!</font>
 
 127
 00:06:48,920 --> 00:06:50,390
-<font face="Impress BT" size="38"><i>{\an8}Gigantic Hand</i></font>
+<font face="Impress BT" size="38"><i>Gigantic Hand</i></font>
 
 128
 00:06:52,000 --> 00:06:53,720
@@ -603,7 +603,7 @@ this thing barely even qualifies as a monster.</font>
 
 146
 00:07:52,130 --> 00:07:53,890
-<font face="Impress BT" size="38"><i>{\an8}Devil Leg</i></font>
+<font face="Impress BT" size="38"><i>Devil Leg</i></font>
 
 147
 00:07:57,890 --> 00:07:58,790
@@ -611,7 +611,7 @@ this thing barely even qualifies as a monster.</font>
 
 148
 00:07:57,890 --> 00:07:58,790
-<font face="Impress BT" size="38"><i>{\an8}Well Cooked</i></font>
+<font face="Impress BT" size="38"><i>Well Cooked</i></font>
 
 149
 00:07:59,790 --> 00:08:01,060
@@ -872,7 +872,7 @@ it's 10 kilometers beneath the surface.</font>
 
 212
 00:11:35,650 --> 00:11:37,420
-<font face="Impress BT" size="55">{\an8}Let's get out of here!</font>
+<font face="Impress BT" size="55">Let's get out of here!</font>
 
 213
 00:11:40,510 --> 00:11:45,330
@@ -1450,7 +1450,7 @@ This is not good!</font>
 
 353
 00:19:52,630 --> 00:19:56,970
-<font face="Impress BT" size="55">Dead men tell no tales and know no greed. {Gil: Going for the English idiom here, since it seems to hold the same meaning.}</font>
+<font face="Impress BT" size="55">Dead men tell no tales and know no greed. </font>
 
 354
 00:19:56,270 --> 00:19:56,970
@@ -1479,7 +1479,7 @@ This is not good!</font>
 360
 00:20:14,700 --> 00:20:23,180
 <font face="Impress BT" size="55">Search for it!  Search for it!
-All sunken treasure belongs to me! { def: originally "Search!  Search!  The sunken treasures belongs to me!" from manga: "So, a-huntin'! Go a-huntin'! For the deep, deep treasure troves" }</font>
+All sunken treasure belongs to me! </font>
 
 361
 00:20:23,180 --> 00:20:30,730
@@ -1587,7 +1587,7 @@ tortured for all eternity!</font>
 
 386
 00:22:17,210 --> 00:22:18,760
-<font face="Impress BT" size="55">The Kraken?! { def: lol, the Kraken punches people? }</font>
+<font face="Impress BT" size="55">The Kraken?! </font>
 
 387
 00:22:23,910 --> 00:22:26,580
@@ -1595,7 +1595,7 @@ tortured for all eternity!</font>
 
 388
 00:22:26,580 --> 00:22:28,210
-<font face="Impress BT" size="55">Ya bastard! {Gil : Mudamudamudamudamudamudamudada! Za Warudo!}</font>
+<font face="Impress BT" size="55">Ya bastard! </font>
 
 389
 00:22:32,060 --> 00:22:34,350
@@ -1647,7 +1647,7 @@ tortured for all eternity!</font>
 
 401
 00:23:10,350 --> 00:23:14,960
-<font face="Impress BT" size="55">Me and Sanji's bubbles burst, so we got into Zoro's. { def: stuck with "Me" because it's the kind of mistake Luffy would make and correcting it makes Luffy sound too formal. willing to change it tho } {Gil: No, I tend to agree that "Sanji and myself", while ultimately correct, is rarely used correctly in informal conversation anyway. Particularly considering Luffy has no kind of formal education whatsoever, I can't help but feel this is better.}</font>
+<font face="Impress BT" size="55">Me and Sanji's bubbles burst, so we got into Zoro's.  </font>
 
 402
 00:23:16,150 --> 00:23:17,710

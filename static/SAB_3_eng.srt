@@ -12,12 +12,12 @@
 
 4
 00:00:31,890 --> 00:00:37,270
-<font face="FOT-Greco Std B" size="34">{\an4}Translation
+<font face="FOT-Greco Std B" size="34">Translation
 Yibis</font>
 
 5
 00:00:31,890 --> 00:00:37,270
-<font face="FOT-Greco Std B" size="34">{\an4}Soundtracking
+<font face="FOT-Greco Std B" size="34">Soundtracking
 Halee</font>
 
 6
@@ -26,22 +26,22 @@ Halee</font>
 
 7
 00:00:37,380 --> 00:00:42,140
-<font face="FOT-Greco Std B" size="34">{\an4}Editing
+<font face="FOT-Greco Std B" size="34">Editing
 Sewil</font>
 
 8
 00:00:37,380 --> 00:00:42,140
-<font face="FOT-Greco Std B" size="34">{\an4}Infoboxes
+<font face="FOT-Greco Std B" size="34">Infoboxes
 Sewil</font>
 
 9
 00:00:37,380 --> 00:00:42,140
-<font face="FOT-Greco Std B" size="34">{\an4}Timing
+<font face="FOT-Greco Std B" size="34">Timing
 Datenshi</font>
 
 10
 00:00:37,380 --> 00:00:42,140
-<font face="FOT-Greco Std B" size="34">{\an4}Edit-checking
+<font face="FOT-Greco Std B" size="34">Edit-checking
 Galaxy 9000</font>
 
 11
@@ -1218,7 +1218,7 @@ If we get'em into the water, they're ours!</font>
 
 303
 00:18:01,100 --> 00:18:03,960
-<font face="Impress BT" size="38"><i>{\an8}Gaon: Lion's roar</i></font>
+<font face="Impress BT" size="38"><i>Gaon: Lion's roar</i></font>
 
 304
 00:18:01,100 --> 00:18:02,960
@@ -1562,7 +1562,7 @@ If we get'em into the water, they're ours!</font>
 
 389
 00:22:43,430 --> 00:22:44,000
-<font face="Impress BT" size="38"><i>{\an8}Eye</i></font>
+<font face="Impress BT" size="38"><i>Eye</i></font>
 
 390
 00:22:45,010 --> 00:22:45,680
@@ -1570,7 +1570,7 @@ If we get'em into the water, they're ours!</font>
 
 391
 00:22:45,010 --> 00:22:45,680
-<font face="Impress BT" size="38"><i>{\an8}Nose</i></font>
+<font face="Impress BT" size="38"><i>Nose</i></font>
 
 392
 00:22:46,360 --> 00:22:46,840
@@ -1578,7 +1578,7 @@ If we get'em into the water, they're ours!</font>
 
 393
 00:22:46,360 --> 00:22:46,840
-<font face="Impress BT" size="38"><i>{\an8}Cheek</i></font>
+<font face="Impress BT" size="38"><i>Cheek</i></font>
 
 394
 00:22:47,170 --> 00:22:47,720
@@ -1586,7 +1586,7 @@ If we get'em into the water, they're ours!</font>
 
 395
 00:22:47,170 --> 00:22:47,720
-<font face="Impress BT" size="38"><i>{\an8}Mouth</i></font>
+<font face="Impress BT" size="38"><i>Mouth</i></font>
 
 396
 00:22:47,950 --> 00:22:48,490
@@ -1594,7 +1594,7 @@ If we get'em into the water, they're ours!</font>
 
 397
 00:22:47,950 --> 00:22:48,490
-<font face="Impress BT" size="38"><i>{\an8}Teeth</i></font>
+<font face="Impress BT" size="38"><i>Teeth</i></font>
 
 398
 00:22:48,890 --> 00:22:49,650
@@ -1602,7 +1602,7 @@ If we get'em into the water, they're ours!</font>
 
 399
 00:22:48,890 --> 00:22:49,650
-<font face="Impress BT" size="38"><i>{\an8}Jaw</i></font>
+<font face="Impress BT" size="38"><i>Jaw</i></font>
 
 400
 00:22:55,260 --> 00:22:56,440
@@ -1614,7 +1614,7 @@ If we get'em into the water, they're ours!</font>
 
 402
 00:22:56,440 --> 00:23:00,320
-<font face="Impress BT" size="38"><i>{\an8}Trimming Shot</i></font>
+<font face="Impress BT" size="38"><i>Trimming Shot</i></font>
 
 403
 00:23:18,600 --> 00:23:23,680

@@ -1204,7 +1204,7 @@ How is she doing?!</font>
 
 294
 00:19:09,020 --> 00:19:12,290
-<font face="Impress BT" size="38"><i>{\an8}From inside, Unlock...</i></font>
+<font face="Impress BT" size="38"><i>From inside, Unlock...</i></font>
 
 295
 00:19:13,540 --> 00:19:17,720
@@ -1213,7 +1213,7 @@ I said work, idiots!</font>
 
 296
 00:19:17,170 --> 00:19:18,420
-<font face="Impress BT" size="38"><i>{\an8}From inside, Unlock...</i></font>
+<font face="Impress BT" size="38"><i>From inside, Unlock...</i></font>
 
 297
 00:19:17,720 --> 00:19:21,120
@@ -1221,7 +1221,7 @@ I said work, idiots!</font>
 
 298
 00:19:21,810 --> 00:19:22,970
-<font face="Impress BT" size="38"><i>{\an8}...The door!</i></font>
+<font face="Impress BT" size="38"><i>...The door!</i></font>
 
 299
 00:19:23,130 --> 00:19:24,240
@@ -1229,7 +1229,7 @@ I said work, idiots!</font>
 
 300
 00:19:24,240 --> 00:19:28,590
-<font face="Impress BT" size="38"><i>{\an8}...The door!</i></font>
+<font face="Impress BT" size="38"><i>...The door!</i></font>
 
 301
 00:19:34,490 --> 00:19:36,520
@@ -1254,7 +1254,7 @@ Pink Bees, the next message!</font>
 
 306
 00:19:55,500 --> 00:19:57,610
-<font face="Impress BT" size="38"><i>{\an8}We got fooled!!!</i></font>
+<font face="Impress BT" size="38"><i>We got fooled!!!</i></font>
 
 307
 00:19:57,610 --> 00:20:00,410
@@ -1279,7 +1279,7 @@ Is it about the princess' illness?</font>
 
 312
 00:20:15,570 --> 00:20:17,170
-<font face="Impress BT" size="38"><i>{\an8}Fight!!!</i></font>
+<font face="Impress BT" size="38"><i>Fight!!!</i></font>
 
 313
 00:20:17,960 --> 00:20:21,540
@@ -1601,7 +1601,7 @@ You jerk!</font>
 
 390
 00:24:47,300 --> 00:24:50,460
-<font face="Impress BT" size="38"><i>{\an8}Blade of Beauty: Stardust Prince</i></font>
+<font face="Impress BT" size="38"><i>Blade of Beauty: Stardust Prince</i></font>
 
 391
 00:24:56,240 --> 00:25:01,200
@@ -1609,7 +1609,7 @@ You jerk!</font>
 
 392
 00:25:12,300 --> 00:25:15,990
-<font face="Impress BT" size="26">{\an1}Editing: Galaxy 9000
+<font face="Impress BT" size="26">Editing: Galaxy 9000
 Timing: Datenshi
 QC: Mr Luffy,
 Sewil

@@ -1,6 +1,6 @@
 1
 00:00:00,910 --> 00:00:02,370
-<font face="Times New Roman" size="34">{\an1}Translation & initial timing
+<font face="Times New Roman" size="34">Translation & initial timing
 <font size="40">Yibis</font></font>
 
 2
@@ -9,7 +9,7 @@
 
 3
 00:00:02,370 --> 00:00:04,180
-<font face="Times New Roman" size="34">{\an1}Timing and typesetting
+<font face="Times New Roman" size="34">Timing and typesetting
 <font size="40">Halee
  Galaxy 9000</font></font>
 
@@ -19,13 +19,13 @@
 
 5
 00:00:04,180 --> 00:00:05,660
-<font face="Times New Roman" size="34">{\an1}Quality-checking
+<font face="Times New Roman" size="34">Quality-checking
 <font size="40">Simon
 Galaxy 9000</font></font>
 
 6
 00:00:05,660 --> 00:00:07,480
-<font face="Times New Roman" size="34">{\an1}Soundtracking
+<font face="Times New Roman" size="34">Soundtracking
 <font size="40">Halee</font></font>
 
 7
@@ -34,13 +34,13 @@ Galaxy 9000</font></font>
 
 8
 00:00:07,480 --> 00:00:09,130
-<font face="Times New Roman" size="34">{\an1}Video editing
+<font face="Times New Roman" size="34">Video editing
 <font size="40">Simon
  Galaxy 9000</font></font>
 
 9
 00:00:09,130 --> 00:00:10,750
-<font face="Times New Roman" size="34">{\an1}Raw provider
+<font face="Times New Roman" size="34">Raw provider
 <font size="40">GS-Raws</font></font>
 
 10
@@ -49,7 +49,7 @@ Galaxy 9000</font></font>
 
 11
 00:00:10,750 --> 00:00:12,420
-<font face="Times New Roman" size="34">{\an1}Infoboxes & Title Cards
+<font face="Times New Roman" size="34">Infoboxes & Title Cards
 <font size="40">Simon</font></font>
 
 12
@@ -172,7 +172,7 @@ It's a stone giant!</font>
 
 41
 00:02:22,190 --> 00:02:23,790
-<font face="Impress BT" size="55">Here it comes! {Halee: Custom infobox up next.}</font>
+<font face="Impress BT" size="55">Here it comes! </font>
 
 42
 00:03:07,070 --> 00:03:09,230
@@ -488,7 +488,7 @@ Second in Command, Boo</font>
 
 119
 00:07:23,760 --> 00:07:25,960
-<font face="Impress BT" size="55">Why do you run? {Xemnas: Yes I translated this awkwardly on purpose}</font>
+<font face="Impress BT" size="55">Why do you run? </font>
 
 120
 00:07:28,160 --> 00:07:30,830

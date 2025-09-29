@@ -28,7 +28,7 @@
 
 8
 00:00:23,750 --> 00:00:28,070
-<font face="Times New Roman" size="34">{\an1}Translation & initial timing
+<font face="Times New Roman" size="34">Translation & initial timing
 <font size="40">Tsuki
 Yibis (Opening)</font></font>
 
@@ -38,7 +38,7 @@ Yibis (Opening)</font></font>
 
 10
 00:00:28,150 --> 00:00:32,160
-<font face="Times New Roman" size="34">{\an1}Timing
+<font face="Times New Roman" size="34">Timing
 <font size="40">Galaxy 9000
 
 </font>Time-checking
@@ -50,14 +50,14 @@ Yibis (Opening)</font></font>
 
 12
 00:00:34,660 --> 00:00:37,600
-<font face="Times New Roman" size="34">{\an1}Quality-checking
+<font face="Times New Roman" size="34">Quality-checking
 <font size="40">Sewil
 Galaxy 9000
 Halee</font></font>
 
 13
 00:00:39,030 --> 00:00:42,630
-<font face="Times New Roman" size="34">{\an1}Soundtracking
+<font face="Times New Roman" size="34">Soundtracking
 <font size="40">Halee</font></font>
 
 14
@@ -70,7 +70,7 @@ Halee</font></font>
 
 16
 00:00:45,500 --> 00:00:48,170
-<font face="Times New Roman" size="34">{\an1}Video editing
+<font face="Times New Roman" size="34">Video editing
 <font size="40">Sewil</font></font>
 
 17
@@ -87,7 +87,7 @@ Halee</font></font>
 
 20
 00:01:00,420 --> 00:01:04,520
-<font face="Times New Roman" size="34">{\an1}Raw provider
+<font face="Times New Roman" size="34">Raw provider
 <font size="40">Crunchyroll</font></font>
 
 21
@@ -188,7 +188,7 @@ Halee</font></font>
 
 45
 00:02:30,030 --> 00:02:38,530
-<font face="impress bt" size="63" color="#fefefe"><b>{\an5}C Block's Blazing Battle and
+<font face="impress bt" size="63" color="#fefefe"><b>C Block's Blazing Battle and
 the Forgotten of Dressrosa!</b></font>
 
 46
@@ -241,7 +241,7 @@ the Forgotten of Dressrosa!</b></font>
 
 58
 00:03:24,930 --> 00:03:30,720
-<font face="Impress BT" size="55"><i>I show my fighting skills and brutality at full with his body! {Halee: The "if" condition is never stated, or the sentence is worded poorly in these 4 last lines}</i></font>
+<font face="Impress BT" size="55"><i>I show my fighting skills and brutality at full with his body! </i></font>
 
 59
 00:03:33,600 --> 00:03:37,610
@@ -456,7 +456,7 @@ but he took him down with a single kick!</font>
 
 111
 00:07:15,450 --> 00:07:20,360
-<font face="Impress BT" size="55">The legendary pirate - Don Chinjao head-butted him! {Halee: Maybe a comma after "Don Chinjao"?}</font>
+<font face="Impress BT" size="55">The legendary pirate - Don Chinjao head-butted him! </font>
 
 112
 00:07:20,360 --> 00:07:22,950
@@ -605,7 +605,7 @@ I can't win unless I beat you.</font>
 
 148
 00:09:57,810 --> 00:10:02,510
-<font face="Impress BT" size="55">It seems like all these famous, tough warriors have been knocked out by {Halee: Removed the ellipsis at the end since the next line seems to begin immediately afterwards. If not, restore it.}</font>
+<font face="Impress BT" size="55">It seems like all these famous, tough warriors have been knocked out by </font>
 
 149
 00:10:02,510 --> 00:10:06,720
@@ -705,7 +705,7 @@ I can't win unless I beat you.</font>
 
 173
 00:11:45,920 --> 00:11:48,690
-<font face="Impress BT" size="55">I thought the plan was to let big brother advance to the final! {Halee: Maybe "the big brother"?}</font>
+<font face="Impress BT" size="55">I thought the plan was to let big brother advance to the final! </font>
 
 174
 00:11:49,360 --> 00:11:51,510
@@ -1122,7 +1122,7 @@ Shark Cutter Bastille</font>
 
 277
 00:17:34,580 --> 00:17:39,440
-<font face="Impress BT" size="55">A Devil Fruit user who Doflamingo brought 10 years ago, {Halee: Maybe ellipsis instead of comma?}</font>
+<font face="Impress BT" size="55">A Devil Fruit user who Doflamingo brought 10 years ago, </font>
 
 278
 00:17:40,120 --> 00:17:43,210
@@ -1167,7 +1167,7 @@ Tontatta Kingdom</font>
 
 288
 00:18:24,980 --> 00:18:27,380
-<font face="Impress BT" size="55">{\an8}It's Usoland's Haki!</font>
+<font face="Impress BT" size="55">It's Usoland's Haki!</font>
 
 289
 00:18:27,880 --> 00:18:30,820

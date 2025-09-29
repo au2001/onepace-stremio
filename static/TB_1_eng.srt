@@ -20,7 +20,7 @@
 
 6
 00:00:23,470 --> 00:00:29,010
-<font face="Impress BT" size="34">{\an1}Translation & initial timing
+<font face="Impress BT" size="34">Translation & initial timing
 <font size="40">Vegapunk Fansubs</font></font>
 
 7
@@ -37,7 +37,7 @@
 
 10
 00:00:35,610 --> 00:00:40,720
-<font face="Impress BT" size="34">{\an1}Timing
+<font face="Impress BT" size="34">Timing
 <font size="40">Galaxy 9000
 
 </font>Time-checking
@@ -49,14 +49,14 @@
 
 12
 00:00:40,950 --> 00:00:44,160
-<font face="Impress BT" size="34">{\an1}Quality-checking
+<font face="Impress BT" size="34">Quality-checking
 <font size="40">Sewil
 Galaxy 9000
 Halee</font></font>
 
 13
 00:00:44,320 --> 00:00:47,490
-<font face="Impress BT" size="34">{\an1}Video editing
+<font face="Impress BT" size="34">Video editing
 <font size="40">Sewil</font></font>
 
 14
@@ -69,7 +69,7 @@ Halee</font></font>
 
 16
 00:00:53,070 --> 00:00:56,870
-<font face="Impress BT" size="34">{\an1}Soundtracking
+<font face="Impress BT" size="34">Soundtracking
 <font size="40">Halee</font></font>
 
 17
@@ -78,7 +78,7 @@ Halee</font></font>
 
 18
 00:00:57,240 --> 00:01:01,540
-<font face="Impress BT" size="34">{\an1}Raw provider
+<font face="Impress BT" size="34">Raw provider
 <font size="40">SOFCJ-Raws</font></font>
 
 19
@@ -159,7 +159,7 @@ Halee</font></font>
 
 38
 00:02:29,900 --> 00:02:38,570
-<font face="impress bt" size="63" color="#fefefe"><b>{\an5}The Mysterious Sea and
+<font face="impress bt" size="63" color="#fefefe"><b>The Mysterious Sea and
 The Skeleton Brook!</b></font>
 
 39
@@ -185,7 +185,7 @@ New Pirate Ship</font>
 
 44
 00:02:57,710 --> 00:02:59,570
-<font face="Impress BT" size="55">{\an8}This is my room.</font>
+<font face="Impress BT" size="55">This is my room.</font>
 
 45
 00:02:57,730 --> 00:03:00,390
@@ -266,19 +266,19 @@ favorable voyage.</font>
 
 64
 00:03:43,740 --> 00:03:44,910
-<font face="Impress BT" size="55">{\an8}Damn it!</font>
+<font face="Impress BT" size="55">Damn it!</font>
 
 65
 00:03:44,910 --> 00:03:47,010
-<font face="Impress BT" size="55">{\an8}Turn this bastard into dinner!</font>
+<font face="Impress BT" size="55">Turn this bastard into dinner!</font>
 
 66
 00:03:47,010 --> 00:03:50,080
-<font face="Impress BT" size="55">{\an8}Sanji! Make BBQ out of this stupid shark!</font>
+<font face="Impress BT" size="55">Sanji! Make BBQ out of this stupid shark!</font>
 
 67
 00:03:50,080 --> 00:03:51,240
-<font face="Impress BT" size="55">{\an8}Wait up, you novice!</font>
+<font face="Impress BT" size="55">Wait up, you novice!</font>
 
 68
 00:03:51,880 --> 00:03:54,050
@@ -490,7 +490,7 @@ favorable voyage.</font>
 
 120
 00:06:20,150 --> 00:06:25,100
-<font face="Impress BT" size="55">By opening the barrel, we've informed someone that we're here?! {maybe it could be reworded, like "We've informed someone that we're here by opening the barrel?!"}</font>
+<font face="Impress BT" size="55">By opening the barrel, we've informed someone that we're here?! </font>
 
 121
 00:06:25,100 --> 00:06:26,790
@@ -530,7 +530,7 @@ favorable voyage.</font>
 
 130
 00:06:42,770 --> 00:06:46,140
-<font face="Impress BT" size="55">If she says so, it must be very close! {shouldn't it be "I can't see it," as 1st line and "but if she says so, it must be very close!" as 2nd line?}</font>
+<font face="Impress BT" size="55">If she says so, it must be very close! </font>
 
 131
 00:06:46,140 --> 00:06:47,720
@@ -654,7 +654,7 @@ favorable voyage.</font>
 
 161
 00:08:12,840 --> 00:08:17,560
-<font face="Impress BT" size="55">Without a doubt... this area is already... the famous... {already?}</font>
+<font face="Impress BT" size="55">Without a doubt... this area is already... the famous... </font>
 
 162
 00:08:17,560 --> 00:08:20,180
@@ -862,7 +862,7 @@ favorable voyage.</font>
 
 213
 00:11:59,630 --> 00:12:03,050
-<font face="Impress BT" size="55">{\an8}Nice to meet you! Yohohoho!</font>
+<font face="Impress BT" size="55">Nice to meet you! Yohohoho!</font>
 
 214
 00:12:00,020 --> 00:12:06,220
@@ -871,31 +871,31 @@ Brook</font>
 
 215
 00:12:03,050 --> 00:12:08,140
-<font face="Impress BT" size="55">{\an8}Forgive my discourtesy, I couldn't greet you when we first met.</font>
+<font face="Impress BT" size="55">Forgive my discourtesy, I couldn't greet you when we first met.</font>
 
 216
 00:12:08,140 --> 00:12:09,870
-<font face="Impress BT" size="55">{\an8}You surprised me!</font>
+<font face="Impress BT" size="55">You surprised me!</font>
 
 217
 00:12:09,870 --> 00:12:13,660
-<font face="Impress BT" size="55">{\an8}It's been many decades since the last time I met a person.</font>
+<font face="Impress BT" size="55">It's been many decades since the last time I met a person.</font>
 
 218
 00:12:13,660 --> 00:12:16,660
-<font face="Impress BT" size="55">{\an8}Ship after ship, it's the same, just ghost ships wandering around here.</font>
+<font face="Impress BT" size="55">Ship after ship, it's the same, just ghost ships wandering around here.</font>
 
 219
 00:12:16,660 --> 00:12:18,570
-<font face="Impress BT" size="55">{\an8}It's kind of scary!</font>
+<font face="Impress BT" size="55">It's kind of scary!</font>
 
 220
 00:12:18,570 --> 00:12:21,620
-<font face="Impress BT" size="55">{\an8}Well, make yourselves at home and come inside.</font>
+<font face="Impress BT" size="55">Well, make yourselves at home and come inside.</font>
 
 221
 00:12:21,620 --> 00:12:23,050
-<font face="Impress BT" size="55">{\an8}We'll be able to talk more relaxed.</font>
+<font face="Impress BT" size="55">We'll be able to talk more relaxed.</font>
 
 222
 00:12:23,050 --> 00:12:25,150
@@ -1735,7 +1735,7 @@ Brook</font>
 
 431
 00:23:59,480 --> 00:24:05,250
-<font face="Impress BT" size="55">If I were to leave this ocean with you, it would only be a matter of time before my body disappeared. {should this and the previous line be merged?}</font>
+<font face="Impress BT" size="55">If I were to leave this ocean with you, it would only be a matter of time before my body disappeared. </font>
 
 432
 00:24:05,250 --> 00:24:10,590

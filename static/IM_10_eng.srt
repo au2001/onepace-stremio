@@ -180,7 +180,7 @@
 
 46
 00:05:21,540 --> 00:05:22,990
-<font face="Impress BT" size="38"><i>{\an8}Supa Supa: Sound of slicing</i></font>
+<font face="Impress BT" size="38"><i>Supa Supa: Sound of slicing</i></font>
 
 47
 00:05:26,880 --> 00:05:28,900
@@ -604,7 +604,7 @@
 
 152
 00:13:49,760 --> 00:13:53,920
-<font face="Impress BT" size="55">It's like I'm dreaming! I never thought I'd make it out of Impel Down! {here}</font>
+<font face="Impress BT" size="55">It's like I'm dreaming! I never thought I'd make it out of Impel Down! </font>
 
 153
 00:13:54,290 --> 00:13:56,380
@@ -680,7 +680,7 @@
 
 171
 00:14:57,160 --> 00:14:58,130
-<font face="Impress BT" size="55">Understood.{here}</font>
+<font face="Impress BT" size="55">Understood.</font>
 
 172
 00:14:58,130 --> 00:15:03,390
@@ -716,7 +716,7 @@
 
 180
 00:15:35,730 --> 00:15:37,050
-<font face="Impress BT" size="55">We're hit!{here}</font>
+<font face="Impress BT" size="55">We're hit!</font>
 
 181
 00:15:38,240 --> 00:15:43,460
@@ -744,17 +744,15 @@
 
 187
 00:16:10,220 --> 00:16:13,460
-<font face="Impress BT" size="55">This is bad! These gates will never open for us! {Trying to implement Mr. 3's "randomly ending his words with the word money"-speech quirk in these next few lines so that this dialogue will make sense...}</font>
+<font face="Impress BT" size="55">This is bad! These gates will never open for us! </font>
 
 188
 00:16:14,400 --> 00:16:17,060
-<font face="Impress BT" size="55">Oh no! We've made it this far, and now we've hit a dead end!{it's too subtle to translate Mr 3's speech quirk. And I think he's just saying the
-2 particles "ga" and "ne" instead of "money". For the "dont imitate me" part we can
-just make Luffy sound all panicky instead of introducing all these extra lines.}</font>
+<font face="Impress BT" size="55">Oh no! We've made it this far, and now we've hit a dead end!</font>
 
 189
 00:16:17,060 --> 00:16:19,270
-<font face="Impress BT" size="55">Don't imitate me! {here}</font>
+<font face="Impress BT" size="55">Don't imitate me! </font>
 
 190
 00:16:19,790 --> 00:16:21,440
@@ -794,7 +792,7 @@ just make Luffy sound all panicky instead of introducing all these extra lines.}
 
 199
 00:16:51,640 --> 00:16:53,360
-<font face="Impress BT" size="55">That was gonna be my suggestion! {here}</font>
+<font face="Impress BT" size="55">That was gonna be my suggestion! </font>
 
 200
 00:16:53,640 --> 00:16:56,530
@@ -890,7 +888,7 @@ just make Luffy sound all panicky instead of introducing all these extra lines.}
 
 223
 00:18:45,630 --> 00:18:49,240
-<font face="Impress BT" size="55">Yes, this will do. Have my orders ever been wrong? {releasing that rain dude seemed like a winner}</font>
+<font face="Impress BT" size="55">Yes, this will do. Have my orders ever been wrong? </font>
 
 224
 00:18:49,240 --> 00:18:51,270

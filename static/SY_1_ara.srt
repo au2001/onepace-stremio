@@ -8,36 +8,36 @@ https://mpv.io</b></font>
 
 2
 00:00:01,770 --> 00:00:04,280
-<font face="Khalid Art bold" size="60">{\an7}مونتاج</font>
+<font face="Khalid Art bold" size="60">مونتاج</font>
 
 3
 00:00:01,770 --> 00:00:04,280
-<font face="FOT-Greco Std DB Strp" size="50">{\an7}Feeso
+<font face="FOT-Greco Std DB Strp" size="50">Feeso
 Galaxy 9000</font>
 
 4
 00:00:04,280 --> 00:00:06,780
-<font face="Khalid Art bold" size="60">{\an7}الصوت</font>
+<font face="Khalid Art bold" size="60">الصوت</font>
 
 5
 00:00:04,280 --> 00:00:06,780
-<font face="FOT-Greco Std DB Strp" size="50">{\an7}Halee</font>
+<font face="FOT-Greco Std DB Strp" size="50">Halee</font>
 
 6
 00:00:04,280 --> 00:00:06,780
-<font face="Khalid Art bold" size="60">{\an7}جرافيك</font>
+<font face="Khalid Art bold" size="60">جرافيك</font>
 
 7
 00:00:04,280 --> 00:00:06,780
-<font face="FOT-Greco Std DB Strp" size="50">{\an7}Datenshi</font>
+<font face="FOT-Greco Std DB Strp" size="50">Datenshi</font>
 
 8
 00:00:06,780 --> 00:00:10,780
-<font face="Khalid Art bold" size="60">{\an7}ضبط الجودة</font>
+<font face="Khalid Art bold" size="60">ضبط الجودة</font>
 
 9
 00:00:06,780 --> 00:00:10,780
-<font face="FOT-Greco Std DB Strp" size="50">{\an7}Gab
+<font face="FOT-Greco Std DB Strp" size="50">Gab
 Gol D. Rocks
 Grug
 Mr. Luffy
@@ -49,47 +49,47 @@ Zenef</font>
 
 10
 00:00:10,780 --> 00:00:13,280
-<font face="Khalid Art bold" size="60">{\an7}كاريوكي</font>
+<font face="Khalid Art bold" size="60">كاريوكي</font>
 
 11
 00:00:10,780 --> 00:00:13,280
-<font face="FOT-Greco Std DB Strp" size="50">{\an7}Rocks-Team</font>
+<font face="FOT-Greco Std DB Strp" size="50">Rocks-Team</font>
 
 12
 00:00:10,780 --> 00:00:13,280
-<font face="Khalid Art bold" size="60">{\an7}مزامنة الترجمة</font>
+<font face="Khalid Art bold" size="60">مزامنة الترجمة</font>
 
 13
 00:00:10,780 --> 00:00:13,280
-<font face="FOT-Greco Std DB Strp" size="50">{\an7}Gab
+<font face="FOT-Greco Std DB Strp" size="50">Gab
 Lance</font>
 
 14
 00:00:13,280 --> 00:00:16,790
-<font face="Khalid Art bold" size="60">{\an7}التدقيق اللغوي</font>
+<font face="Khalid Art bold" size="60">التدقيق اللغوي</font>
 
 15
 00:00:13,280 --> 00:00:16,790
-<font face="FOT-Greco Std DB Strp" size="50">{\an7}Mska Flash
+<font face="FOT-Greco Std DB Strp" size="50">Mska Flash
 s3eedmq
 FiberAhmed
 NayefTranslations</font>
 
 16
 00:00:16,790 --> 00:00:19,250
-<font face="Khalid Art bold" size="60">{\an7}الخام</font>
+<font face="Khalid Art bold" size="60">الخام</font>
 
 17
 00:00:16,790 --> 00:00:19,250
-<font face="FOT-Greco Std DB Strp" size="50">{\an7}Neo-Raws</font>
+<font face="FOT-Greco Std DB Strp" size="50">Neo-Raws</font>
 
 18
 00:00:16,790 --> 00:00:19,250
-<font face="Khalid Art bold" size="60">{\an7}ترجمة</font>
+<font face="Khalid Art bold" size="60">ترجمة</font>
 
 19
 00:00:16,790 --> 00:00:19,250
-<font face="FOT-Greco Std DB Strp" size="50">{\an7}Mska Flash</font>
+<font face="FOT-Greco Std DB Strp" size="50">Mska Flash</font>
 
 20
 00:01:49,960 --> 00:01:59,950
@@ -326,7 +326,7 @@ https://mpv.io</b></font>
 
 75
 00:04:40,300 --> 00:04:43,430
-<font face="Bahij Nassim" size="111"><b>{\an8}!قراصنة أوسوب قد وصلوا</b></font>
+<font face="Bahij Nassim" size="111"><b>!قراصنة أوسوب قد وصلوا</b></font>
 
 76
 00:04:45,560 --> 00:04:46,810
@@ -334,7 +334,7 @@ https://mpv.io</b></font>
 
 77
 00:04:45,560 --> 00:04:46,810
-<font face="Hacen Digital Arabia LT" size="60">{\an8}بيمان تعني الفلفل الحلو باليابانية ونينجين تعني الجزر</font>
+<font face="Hacen Digital Arabia LT" size="60">بيمان تعني الفلفل الحلو باليابانية ونينجين تعني الجزر</font>
 
 78
 00:04:46,810 --> 00:04:49,440
@@ -342,7 +342,7 @@ https://mpv.io</b></font>
 
 79
 00:04:46,810 --> 00:04:49,440
-<font face="Hacen Digital Arabia LT" size="60">{\an8}تامانيغي تعني البصل باليابانية</font>
+<font face="Hacen Digital Arabia LT" size="60">تامانيغي تعني البصل باليابانية</font>
 
 80
 00:04:53,060 --> 00:04:56,650
@@ -366,7 +366,7 @@ https://mpv.io</b></font>
 
 85
 00:05:03,870 --> 00:05:06,200
-<font face="Bahij Nassim" size="111"><b>{\an8}!كارثة! كارثة</b></font>
+<font face="Bahij Nassim" size="111"><b>!كارثة! كارثة</b></font>
 
 86
 00:05:03,910 --> 00:05:09,830
@@ -380,15 +380,15 @@ https://mpv.io</b></font>
 
 88
 00:05:06,200 --> 00:05:07,540
-<font face="Bahij Nassim" size="111"><b>{\an8}!كارثة</b></font>
+<font face="Bahij Nassim" size="111"><b>!كارثة</b></font>
 
 89
 00:05:07,540 --> 00:05:09,120
-<font face="Bahij Nassim" size="111"><b>{\an8}!القـ- القراصنة قد أتوا</b></font>
+<font face="Bahij Nassim" size="111"><b>!القـ- القراصنة قد أتوا</b></font>
 
 90
 00:05:09,120 --> 00:05:12,710
-<font face="Bahij Nassim" size="111"><b>{\an8}!هناك قارب به علامة جمجمة عند الميناء الشمالي</b></font>
+<font face="Bahij Nassim" size="111"><b>!هناك قارب به علامة جمجمة عند الميناء الشمالي</b></font>
 
 91
 00:05:12,710 --> 00:05:13,750
@@ -970,12 +970,12 @@ https://mpv.io</b></font>
 
 231
 00:14:20,420 --> 00:14:23,430
-<font face="Agency-Jazeera" size="80"><b>{\an8}<font color="#000000">كايا
+<font face="Agency-Jazeera" size="80"><b><font color="#000000">كايا
 مالكة القصر</font></b></font>
 
 232
 00:14:20,420 --> 00:14:23,430
-<font face="Agency-Jazeera" size="80"><b>{\an8}</b>كايا
+<font face="Agency-Jazeera" size="80"><b></b>كايا
 مالكة القصر</font>
 
 233
@@ -988,12 +988,12 @@ https://mpv.io</b></font>
 
 235
 00:14:23,470 --> 00:14:28,720
-<font face="Agency-Jazeera" size="80"><b>{\an8}<font color="#000000">كلاهادور
+<font face="Agency-Jazeera" size="80"><b><font color="#000000">كلاهادور
 خادم القصر</font></b></font>
 
 236
 00:14:23,470 --> 00:14:28,720
-<font face="Agency-Jazeera" size="80"><b>{\an8}</b>كلاهادور
+<font face="Agency-Jazeera" size="80"><b></b>كلاهادور
 خادم القصر</font>
 
 237
@@ -1161,11 +1161,11 @@ https://mpv.io</b></font>
 
 277
 00:16:27,550 --> 00:16:29,260
-<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>{\an8}،اعترضت السمكة ذهبيّة سفينة</b></font>
+<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>،اعترضت السمكة ذهبيّة سفينة</b></font>
 
 278
 00:16:29,260 --> 00:16:33,890
-<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>{\an8}وعلى متن تلك السفينة كان
+<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>وعلى متن تلك السفينة كان
 !هناك قرصان طوله يفوق الجبال</b></font>
 
 279
@@ -1175,7 +1175,7 @@ https://mpv.io</b></font>
 
 280
 00:16:33,890 --> 00:16:36,390
-<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>{\an8}!كان وجهه مضحكًا للغاية</b></font>
+<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>!كان وجهه مضحكًا للغاية</b></font>
 
 281
 00:16:35,640 --> 00:16:39,940
@@ -1191,7 +1191,7 @@ https://mpv.io</b></font>
 
 284
 00:16:48,280 --> 00:16:51,200
-<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>{\an8}لم تسمعي عن قرصان بوجه
+<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>لم تسمعي عن قرصان بوجه
 كهذا من قبل، أليس كذلك؟</b></font>
 
 285
@@ -1260,7 +1260,7 @@ https://mpv.io</b></font>
 
 301
 00:17:22,600 --> 00:17:25,360
-<font face="Bahij Nassim" size="70" color="#f9f7e3">{\an8}فاكهة المطاط</font>
+<font face="Bahij Nassim" size="70" color="#f9f7e3">فاكهة المطاط</font>
 
 302
 00:17:27,150 --> 00:17:30,610
@@ -1272,7 +1272,7 @@ https://mpv.io</b></font>
 
 304
 00:17:30,610 --> 00:17:34,370
-<font face="Bahij Nassim" size="111"><b>{the Intrusion! - OG}!على الاقتحام</b></font>
+<font face="Bahij Nassim" size="111"><b>!على الاقتحام</b></font>
 
 305
 00:17:35,450 --> 00:17:42,040
@@ -1377,7 +1377,7 @@ https://mpv.io</b></font>
 
 330
 00:18:52,320 --> 00:18:53,740
-<font face="Bahij Nassim" size="70" color="#f9f7e3">{\an8}كن: لقب شرفي ياباني يدل على العلاقة الطيبة والودّية، يُستخدم
+<font face="Bahij Nassim" size="70" color="#f9f7e3">كن: لقب شرفي ياباني يدل على العلاقة الطيبة والودّية، يُستخدم
 
 مع الذكور الأصغر سنًا أو الأصدقاء، وهو أقل رسمية من سان</font>
 

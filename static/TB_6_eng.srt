@@ -20,7 +20,7 @@
 
 6
 00:00:23,440 --> 00:00:28,960
-<font face="Times New Roman" size="34">{\an1}Translation & initial syncing
+<font face="Times New Roman" size="34">Translation & initial syncing
 <font size="40">Vegapunk Fansubs</font></font>
 
 7
@@ -33,7 +33,7 @@
 
 9
 00:00:29,360 --> 00:00:34,530
-<font face="Times New Roman" size="34">{\an1}Syncing
+<font face="Times New Roman" size="34">Syncing
 <font size="40">Galaxy 9000
 
 </font>Sync-checking
@@ -45,7 +45,7 @@
 
 11
 00:00:35,570 --> 00:00:40,680
-<font face="Times New Roman" size="34">{\an1}Quality checking
+<font face="Times New Roman" size="34">Quality checking
 <font size="40">Sewil</font></font>
 
 12
@@ -54,12 +54,12 @@
 
 13
 00:00:40,910 --> 00:00:44,080
-<font face="Times New Roman" size="34">{\an1}Video editing
+<font face="Times New Roman" size="34">Video editing
 <font size="40">Sewil</font></font>
 
 14
 00:00:44,250 --> 00:00:47,460
-<font face="Times New Roman" size="34">{\an1}Soundtracking
+<font face="Times New Roman" size="34">Soundtracking
 <font size="40">Halee</font></font>
 
 15
@@ -152,7 +152,7 @@
 
 37
 00:02:29,830 --> 00:02:38,610
-<font face="impress bt" size="63" color="#fefefe"><b>{\an5}Number 900?!
+<font face="impress bt" size="63" color="#fefefe"><b>Number 900?!
 Lola's Pursuit and the Humming Swordsman</b></font>
 
 38
@@ -685,7 +685,7 @@ Lola's Pursuit and the Humming Swordsman</b></font>
 
 170
 00:09:43,300 --> 00:09:45,230
-<font face="Impress BT" size="38"><i>{\an8}One Hundred Flowers</i></font>
+<font face="Impress BT" size="38"><i>One Hundred Flowers</i></font>
 
 171
 00:09:49,230 --> 00:09:50,340
@@ -1401,7 +1401,7 @@ Lola's Pursuit and the Humming Swordsman</b></font>
 
 349
 00:17:42,060 --> 00:17:43,220
-<font face="Impress BT" size="38"><i>{\an8}Six Flowers</i></font>
+<font face="Impress BT" size="38"><i>Six Flowers</i></font>
 
 350
 00:17:47,620 --> 00:17:48,290

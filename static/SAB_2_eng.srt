@@ -12,12 +12,12 @@
 
 4
 00:00:31,890 --> 00:00:37,270
-<font face="FOT-Greco Std B" size="34">{\an4}Translation
+<font face="FOT-Greco Std B" size="34">Translation
 Yibis</font>
 
 5
 00:00:31,890 --> 00:00:37,270
-<font face="FOT-Greco Std B" size="34">{\an4}Soundtracking
+<font face="FOT-Greco Std B" size="34">Soundtracking
 Halee</font>
 
 6
@@ -26,22 +26,22 @@ Halee</font>
 
 7
 00:00:37,380 --> 00:00:42,140
-<font face="FOT-Greco Std B" size="34">{\an4}Editing
+<font face="FOT-Greco Std B" size="34">Editing
 Sewil</font>
 
 8
 00:00:37,380 --> 00:00:42,140
-<font face="FOT-Greco Std B" size="34">{\an4}Infoboxes
+<font face="FOT-Greco Std B" size="34">Infoboxes
 Sewil</font>
 
 9
 00:00:37,380 --> 00:00:42,140
-<font face="FOT-Greco Std B" size="34">{\an4}Timing
+<font face="FOT-Greco Std B" size="34">Timing
 Datenshi</font>
 
 10
 00:00:37,380 --> 00:00:42,140
-<font face="FOT-Greco Std B" size="34">{\an4}Edit-checking
+<font face="FOT-Greco Std B" size="34">Edit-checking
 Galaxy 9000</font>
 
 11
@@ -185,7 +185,7 @@ Head
 
 44
 00:03:00,680 --> 00:03:05,620
-<font face="Impress BT" size="55">{\an8}Do you have any idea how long I've been anticipating...</font>
+<font face="Impress BT" size="55">Do you have any idea how long I've been anticipating...</font>
 
 45
 00:03:06,540 --> 00:03:09,420
@@ -197,7 +197,7 @@ Head
 
 47
 00:03:13,160 --> 00:03:15,980
-<font face="Impress BT" size="55">Whenever I think of dat man... {Note that Duval's strange accent is intentional. Do not change it.}</font>
+<font face="Impress BT" size="55">Whenever I think of dat man... </font>
 
 48
 00:03:17,020 --> 00:03:22,460
@@ -269,7 +269,7 @@ Head
 
 65
 00:04:19,670 --> 00:04:22,400
-<font face="Impress BT" size="55">{\an8}Heh, "Duva", that's funny!</font>
+<font face="Impress BT" size="55">Heh, "Duva", that's funny!</font>
 
 66
 00:04:19,720 --> 00:04:27,000
@@ -292,7 +292,7 @@ Fishman)</font>
 
 69
 00:04:22,700 --> 00:04:26,840
-<font face="Impress BT" size="55">{\an8}Geez! Oh, you called, Master Duval?!</font>
+<font face="Impress BT" size="55">Geez! Oh, you called, Master Duval?!</font>
 
 70
 00:04:26,900 --> 00:04:29,720
@@ -395,7 +395,7 @@ Former Officer of the Arlong Pirates</font></font>
 
 94
 00:05:42,040 --> 00:05:45,320
-<font face="Impress BT" size="55">{\an8}Are you saying that Camie has been captured by the Straw Hat Pirates?!</font>
+<font face="Impress BT" size="55">Are you saying that Camie has been captured by the Straw Hat Pirates?!</font>
 
 95
 00:05:47,160 --> 00:05:51,940

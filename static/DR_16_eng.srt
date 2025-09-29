@@ -28,7 +28,7 @@
 
 8
 00:00:23,750 --> 00:00:28,070
-<font face="Impress BT" size="34">{\an1}Translation & initial timing
+<font face="Impress BT" size="34">Translation & initial timing
 <font size="40">Yibis</font></font>
 
 9
@@ -37,7 +37,7 @@
 
 10
 00:00:28,160 --> 00:00:32,160
-<font face="Impress BT" size="34">{\an1}Timing
+<font face="Impress BT" size="34">Timing
 <font size="40">Sewil
 Galaxy 9000</font></font>
 
@@ -47,7 +47,7 @@ Galaxy 9000</font></font>
 
 12
 00:00:34,660 --> 00:00:37,600
-<font face="Impress BT" size="34">{\an1}Quality-checking
+<font face="Impress BT" size="34">Quality-checking
 <font size="40">Sewil
 Galaxy 9000
 Halee</font></font>
@@ -58,7 +58,7 @@ Halee</font></font>
 
 14
 00:00:39,020 --> 00:00:42,640
-<font face="Impress BT" size="34">{\an1}Soundtracking
+<font face="Impress BT" size="34">Soundtracking
 <font size="40">Halee</font></font>
 
 15
@@ -67,11 +67,11 @@ Halee</font></font>
 
 16
 00:00:45,870 --> 00:00:48,560
-<font face="Impress BT" size="34">{\an1}Video editing         <font size="40">Sewil</font></font>
+<font face="Impress BT" size="34">Video editing         <font size="40">Sewil</font></font>
 
 17
 00:00:45,870 --> 00:00:48,560
-<font face="Impress BT" size="34">{\an1}Raw provider      <font size="40">GS-Raws</font></font>
+<font face="Impress BT" size="34">Raw provider      <font size="40">GS-Raws</font></font>
 
 18
 00:00:51,200 --> 00:00:56,050
@@ -215,7 +215,7 @@ Halee</font></font>
 
 53
 00:03:13,970 --> 00:03:18,910
-<font face="Impress BT" size="55">Law-dono has been shot by Doflamingo right before our eyes.{I'm not so sure about the word "defeated" here... I mean yeah, WE know he's not dead, and Luffy confirms he's not dead later, but this word could just as easily be interpreted as "killed"... and really, that seems to fit better with both how seriously Kin is taking it, and how the others react... -Starfish}{Isis: okay, so I didn't get what Starfish was trying to say here, but just in case he wasn't satisfied with the word "defeated" then how about using "shot" instead, it might be more fitting to what he wants to deliver to the viewers}</font>
+<font face="Impress BT" size="55">Law-dono has been shot by Doflamingo right before our eyes.</font>
 
 54
 00:03:20,740 --> 00:03:22,600
@@ -248,11 +248,11 @@ Halee</font></font>
 61
 00:03:51,680 --> 00:03:59,000
 <font face="Impress BT" size="55"><i>It would seem... 
-that it'd be better for the both of us if I didn't tell you.{end copy paste}</i></font>
+that it'd be better for the both of us if I didn't tell you.</i></font>
 
 62
 00:04:06,730 --> 00:04:08,840
-<font face="Impress BT" size="55">Zoro!{Isis: I used the SD.mkv workraw and it just stops working right after Luffy says Zoro and til Kin'emon's line "Zoro-dono has disappeared." also on a second note, the video seems to be in sync with the audio just fine using other players, but when working with Aegisub it's not the case after this line anymore}</font>
+<font face="Impress BT" size="55">Zoro!</font>
 
 63
 00:04:09,850 --> 00:04:11,530
@@ -296,7 +296,7 @@ that it'd be better for the both of us if I didn't tell you.{end copy paste}</i>
 
 73
 00:04:57,390 --> 00:04:59,410
-<font face="Impress BT" size="55">This one's{aka, Zoro. Not the attack he used -Starfish} quite strong.</font>
+<font face="Impress BT" size="55">This one's quite strong.</font>
 
 74
 00:05:00,190 --> 00:05:05,280
@@ -320,7 +320,7 @@ that it'd be better for the both of us if I didn't tell you.{end copy paste}</i>
 
 79
 00:05:16,430 --> 00:05:19,860
-<font face="Impress BT" size="55">This job often brings bad karma. {This is ugly, editor please fix this. "inga" means karma, and "tosei" means livlyhood or occupation. So he's talking about how his job as a marine has brought about this karmic situation.}</font>
+<font face="Impress BT" size="55">This job often brings bad karma. </font>
 
 80
 00:05:20,200 --> 00:05:25,260
@@ -392,7 +392,7 @@ that it'd be better for the both of us if I didn't tell you.{end copy paste}</i>
 
 97
 00:06:38,110 --> 00:06:42,020
-<font face="Impress BT" size="55">This is Kin'emon, Law-dono has been taken by them! {EEEHHHHHHHHHHHHHHHHHHHHHHHHHHHHH???}</font>
+<font face="Impress BT" size="55">This is Kin'emon, Law-dono has been taken by them! </font>
 
 98
 00:06:48,150 --> 00:06:51,130
@@ -408,7 +408,7 @@ that it'd be better for the both of us if I didn't tell you.{end copy paste}</i>
 
 101
 00:06:55,750 --> 00:06:58,250
-<font face="Impress BT" size="55">I can still sense Traf{Referring to how he can still sense his thoughts and stuff with his Haki -Starfish}.  He's alive.</font>
+<font face="Impress BT" size="55">I can still sense Traf.  He's alive.</font>
 
 102
 00:07:00,200 --> 00:07:01,500
@@ -440,7 +440,7 @@ that it'd be better for the both of us if I didn't tell you.{end copy paste}</i>
 
 109
 00:07:16,840 --> 00:07:18,730
-<font face="Impress BT" size="55">It's Big Mom's... {Considering it says "BIG MOM" on the sail, maybe we should be calling her that?}{Cecil: Obviously that's in japanese, so it translates to Big Mam. (Even though its spelled Mom in american english)}</font>
+<font face="Impress BT" size="55">It's Big Mom's... </font>
 
 110
 00:07:20,350 --> 00:07:25,180
@@ -452,7 +452,7 @@ that it'd be better for the both of us if I didn't tell you.{end copy paste}</i>
 
 112
 00:07:33,140 --> 00:07:36,650
-<font face="Impress BT" size="55">What is the ship of one of the Four Emperors doing here?!{No really, am I the only one who thinks that the period is an extremely unfitting form of punctuation when the person speaking is very clearly freaking out? Not to mention that was a question. -Starfish}</font>
+<font face="Impress BT" size="55">What is the ship of one of the Four Emperors doing here?!</font>
 
 113
 00:07:38,260 --> 00:07:40,070
@@ -484,7 +484,7 @@ that it'd be better for the both of us if I didn't tell you.{end copy paste}</i>
 
 120
 00:07:59,430 --> 00:08:02,490
-<font face="Impress BT" size="55">As we thought, he was with them -<i>bon. {Cecil: This is italicized because of how he says it, right? We don't usually italicize speech quirks but I actually like the idea of doing so. But ven you get Charaters vike Ivankov who von't have seperate quirks.}</i></font>
+<font face="Impress BT" size="55">As we thought, he was with them -<i>bon. </i></font>
 
 121
 00:08:02,970 --> 00:08:07,600
@@ -528,7 +528,7 @@ that it'd be better for the both of us if I didn't tell you.{end copy paste}</i>
 
 131
 00:08:36,590 --> 00:08:40,160
-<font face="Impress BT" size="55">by tricking her and ripping her off! {Cecil: I split this from the previous line for dramatic effect, and also padded out this line cause it seemed too short for what he says. Anyway can TLC check that it's still ok and if not, provide a literal trans?}</font>
+<font face="Impress BT" size="55">by tricking her and ripping her off! </font>
 
 132
 00:08:40,160 --> 00:08:41,300
@@ -608,7 +608,7 @@ that it'd be better for the both of us if I didn't tell you.{end copy paste}</i>
 
 151
 00:09:53,420 --> 00:09:59,640
-<font face="Impress BT" size="55">Caesar, the Smile factory, and for some reason, Momonosuke. {Cecil: For some reason indeed! WHY?! Cause Doflamingo said his name once and he's as important as Caesar clown or the Smile Factory?!}{Giolla also specifically demanded that they hand Momonosuke over, so it's pretty clear that Doffy sees him as an important part of his plans... for... whatever reason. -Starfish}</font>
+<font face="Impress BT" size="55">Caesar, the Smile factory, and for some reason, Momonosuke. </font>
 
 152
 00:09:59,640 --> 00:10:04,080
@@ -888,7 +888,7 @@ that it'd be better for the both of us if I didn't tell you.{end copy paste}</i>
 
 221
 00:14:35,490 --> 00:14:40,190
-<font face="Impress BT" size="55"><i>So if I win this tournament, I'll become a commander in the Family? {I THINK this is new dialogue... -Starfish}</i></font>
+<font face="Impress BT" size="55"><i>So if I win this tournament, I'll become a commander in the Family? </i></font>
 
 222
 00:14:41,940 --> 00:14:42,960
@@ -952,7 +952,7 @@ that it'd be better for the both of us if I didn't tell you.{end copy paste}</i>
 
 237
 00:15:34,780 --> 00:15:37,430
-<font face="Impress BT" size="55">The situation is like I explained. {Cecil: I hate redundant lines like this. "Everything is exactly how I just said it is."}</font>
+<font face="Impress BT" size="55">The situation is like I explained. </font>
 
 238
 00:15:38,850 --> 00:15:41,840
@@ -988,7 +988,7 @@ that it'd be better for the both of us if I didn't tell you.{end copy paste}</i>
 
 246
 00:16:05,000 --> 00:16:07,590
-<font face="Impress BT" size="55">as well as the mysterious factory. {Xemnas: The actual wording says "mysterious factory" but I like factory of darkness, and the whole darkness does give the impression of mystery anyway. Just thought I'd mention it.}</font>
+<font face="Impress BT" size="55">as well as the mysterious factory. </font>
 
 247
 00:16:07,590 --> 00:16:09,130
@@ -1097,7 +1097,7 @@ via tunnel</font>
 
 273
 00:17:41,870 --> 00:17:43,220
-<font face="Impress BT" size="55">The only thing we can say for sure, {Cecil: Does this give any context to the awkwardly edited previous set of lines? I'll fix it up after QC}{Xemnas: Well the next line, line 198 should start here. Fixed it.}</font>
+<font face="Impress BT" size="55">The only thing we can say for sure, </font>
 
 274
 00:17:43,220 --> 00:17:46,740
@@ -1113,7 +1113,7 @@ via tunnel</font>
 
 277
 00:17:54,740 --> 00:17:56,750
-<font face="Impress BT" size="55">According to the Tontatta reconnaissance unit, {Cecil: didn't we call this the scout unit? I'll check it later}</font>
+<font face="Impress BT" size="55">According to the Tontatta reconnaissance unit, </font>
 
 278
 00:17:57,550 --> 00:18:00,470
@@ -1137,11 +1137,11 @@ via tunnel</font>
 
 283
 00:18:23,150 --> 00:18:25,300
-<font face="Impress BT" size="55">She is regarded as one of Doflamingo's most valuable subordinates, {I'm a little confused about this line because it looks like way more text than belongs here, and I don't hear a "Doflamingo", but this is the only place I can see it going}{Xemnas: It's good as is.}</font>
+<font face="Impress BT" size="55">She is regarded as one of Doflamingo's most valuable subordinates, </font>
 
 284
 00:18:25,300 --> 00:18:29,020
-<font face="Impress BT" size="55">so one of his top commanders, Trébol, is guarding her at all times. {Cecil: I'd like to say executives here, since he's a rank above sugar who was also just referred to as commander.}{Xemnas: You could, how have we referred to them in the past?}</font>
+<font face="Impress BT" size="55">so one of his top commanders, Trébol, is guarding her at all times. </font>
 
 285
 00:18:29,020 --> 00:18:34,290
@@ -1241,7 +1241,7 @@ via tunnel</font>
 
 309
 00:19:48,930 --> 00:19:54,590
-<font face="Impress BT" size="55">Someday, I will work under Luffy-senpai. {Xemnas: "Shatei" is a yakuza term and means underling. Not sure if this wording fits completely, if anyone's got anything  better feel free to change it.}</font>
+<font face="Impress BT" size="55">Someday, I will work under Luffy-senpai. </font>
 
 310
 00:19:54,590 --> 00:19:56,290
@@ -1393,7 +1393,7 @@ via tunnel</font>
 
 347
 00:21:51,760 --> 00:21:54,370
-<font face="Impress BT" size="55">can't betray Doflamingo! {Sewil: Suck more flamingo dick please}</font>
+<font face="Impress BT" size="55">can't betray Doflamingo! </font>
 
 348
 00:21:54,370 --> 00:21:57,730
@@ -1469,7 +1469,7 @@ via tunnel</font>
 
 366
 00:22:47,260 --> 00:22:50,420
-<font face="Impress BT" size="55">I won't let you have the Flame Fruit...{For the record, the opening credits to the episode literally refers to him as such. -Starfish}</font>
+<font face="Impress BT" size="55">I won't let you have the Flame Fruit...</font>
 
 367
 00:22:50,420 --> 00:22:53,400
@@ -1477,7 +1477,7 @@ via tunnel</font>
 
 368
 00:22:54,170 --> 00:22:55,550
-<font face="Impress BT" size="55">Who're you?{Oh, and that previous comment about his accent slipping, he seems to have recovered now... Though he's always spoken with a bit of an accent that I can't quite define which has been all but completely ignored in our subs... -Starfish}</font>
+<font face="Impress BT" size="55">Who're you?</font>
 
 369
 00:22:57,390 --> 00:23:02,060
@@ -1501,7 +1501,7 @@ via tunnel</font>
 
 374
 00:23:26,180 --> 00:23:29,220
-<font face="Impress BT" size="55">You'd better make it to the final round! { def: wait, wouldn't that mean that she's hoping to be eliminated herself?  that seems mighty nice of her }</font>
+<font face="Impress BT" size="55">You'd better make it to the final round! </font>
 
 375
 00:23:31,830 --> 00:23:32,920
@@ -1529,7 +1529,7 @@ via tunnel</font>
 
 381
 00:24:22,360 --> 00:24:24,910
-<font face="Impress BT" size="55">Didn't I tell you to keep your guard up?! {Man, they sure are running ridiculously slowly. -Starfish}{Xemnas" Dat slow mo running.}</font>
+<font face="Impress BT" size="55">Didn't I tell you to keep your guard up?! </font>
 
 382
 00:24:24,910 --> 00:24:26,300
@@ -1553,7 +1553,7 @@ via tunnel</font>
 
 387
 00:24:40,220 --> 00:24:43,330
-<font face="Impress BT" size="55">I thought these animals were <i>kewl!</i> Especially, carps? {Yeah I just copied FUNi verbatim here, because while I got that he was making some sort of lame pun, I didn't get WHAT the lame pun was... So here, have the lame pun FUNi used. -Starfish}{Cecil: Xemnas pls, I'd rather we understood this than use funi's translation :D}{Xemnas: Funi seems to have done a good job, since this looks fine. I think "Poppi" is slang for hip, or like "the in thing" and "Koi" means carp, so this works really well.}</font>
+<font face="Impress BT" size="55">I thought these animals were <i>kewl!</i> Especially, carps? </font>
 
 388
 00:24:47,050 --> 00:24:50,310
@@ -1646,7 +1646,7 @@ Koala</font>
 
 410
 00:26:02,170 --> 00:26:04,300
-<font face="impress bt" size="45">{\an8}The Straw Hats are Back</font>
+<font face="impress bt" size="45">The Straw Hats are Back</font>
 
 411
 00:26:02,900 --> 00:26:07,580

@@ -20,7 +20,7 @@
 
 6
 00:00:23,420 --> 00:00:28,940
-<font face="Times New Roman" size="34">{\an1}Translation & initial timing
+<font face="Times New Roman" size="34">Translation & initial timing
 <font size="40">Vegapunk Fansubs</font></font>
 
 7
@@ -33,7 +33,7 @@
 
 9
 00:00:29,360 --> 00:00:34,480
-<font face="Times New Roman" size="34">{\an1}Timing
+<font face="Times New Roman" size="34">Timing
 <font size="40">Galaxy 9000
 
 </font>Time-checking
@@ -45,7 +45,7 @@
 
 11
 00:00:35,560 --> 00:00:40,690
-<font face="Times New Roman" size="34">{\an1}Quality-checking
+<font face="Times New Roman" size="34">Quality-checking
 <font size="40">Sewil
 Galaxy 9000
 Feeso</font></font>
@@ -56,12 +56,12 @@ Feeso</font></font>
 
 13
 00:00:40,900 --> 00:00:44,070
-<font face="Times New Roman" size="34">{\an1}Video editing
+<font face="Times New Roman" size="34">Video editing
 <font size="40">Sewil</font></font>
 
 14
 00:00:44,240 --> 00:00:47,440
-<font face="Times New Roman" size="34">{\an1}Soundtracking
+<font face="Times New Roman" size="34">Soundtracking
 <font size="40">Halee</font></font>
 
 15
@@ -74,7 +74,7 @@ Feeso</font></font>
 
 17
 00:00:52,980 --> 00:00:56,820
-<font face="Times New Roman" size="34">{\an1}Raw provider
+<font face="Times New Roman" size="34">Raw provider
 <font size="40">SOFCJ-Raws</font></font>
 
 18
@@ -159,7 +159,7 @@ Feeso</font></font>
 
 38
 00:02:29,860 --> 00:02:38,520
-<font face="impress bt" size="63" color="#fefefe"><b>{\an5}The Crew's Annihilation!
+<font face="impress bt" size="63" color="#fefefe"><b>The Crew's Annihilation!
 Oars vs. Nightmare Luffy</b></font>
 
 39
@@ -196,7 +196,7 @@ Oars vs. Nightmare Luffy</b></font>
 
 47
 00:03:12,130 --> 00:03:13,690
-<font face="Impress BT" size="38"><i>{\an8}Twenty Flowers</i></font>
+<font face="Impress BT" size="38"><i>Twenty Flowers</i></font>
 
 48
 00:03:14,730 --> 00:03:15,660
@@ -204,7 +204,7 @@ Oars vs. Nightmare Luffy</b></font>
 
 49
 00:03:14,730 --> 00:03:15,660
-<font face="Impress BT" size="38"><i>{\an8}Marigold</i></font>
+<font face="Impress BT" size="38"><i>Marigold</i></font>
 
 50
 00:03:20,080 --> 00:03:21,450
@@ -240,7 +240,7 @@ Oars vs. Nightmare Luffy</b></font>
 
 58
 00:04:06,730 --> 00:04:07,960
-<font face="Impress BT" size="38"><i>{\an8}Four Hands</i></font>
+<font face="Impress BT" size="38"><i>Four Hands</i></font>
 
 59
 00:04:10,330 --> 00:04:13,440
@@ -324,7 +324,7 @@ Oars vs. Nightmare Luffy</b></font>
 
 79
 00:05:46,110 --> 00:05:47,710
-<font face="Impress BT" size="38"><i>{\an8}Devil Leg</i></font>
+<font face="Impress BT" size="38"><i>Devil Leg</i></font>
 
 80
 00:05:48,750 --> 00:05:51,110
@@ -340,7 +340,7 @@ Oars vs. Nightmare Luffy</b></font>
 
 83
 00:05:56,820 --> 00:05:58,320
-<font face="Impress BT" size="38"><i>{\an8}Highest-Rate Mincemeat</i></font>
+<font face="Impress BT" size="38"><i>Highest-Rate Mincemeat</i></font>
 
 84
 00:05:58,320 --> 00:05:59,710
@@ -416,7 +416,7 @@ Oars vs. Nightmare Luffy</b></font>
 
 102
 00:06:58,080 --> 00:06:59,920
-<font face="Impress BT" size="38"><i>{\an8}Fried Assortment</i></font>
+<font face="Impress BT" size="38"><i>Fried Assortment</i></font>
 
 103
 00:07:08,800 --> 00:07:10,240
@@ -572,7 +572,7 @@ Oars vs. Nightmare Luffy</b></font>
 
 141
 00:09:09,790 --> 00:09:11,600
-<font face="Impress BT" size="38"><i>{\an8}Air Force</i></font>
+<font face="Impress BT" size="38"><i>Air Force</i></font>
 
 142
 00:09:12,980 --> 00:09:14,520
@@ -584,7 +584,7 @@ Oars vs. Nightmare Luffy</b></font>
 
 144
 00:09:15,090 --> 00:09:16,870
-<font face="Impress BT" size="38"><i>{\an8}Cherry Blossom Shoot</i></font>
+<font face="Impress BT" size="38"><i>Cherry Blossom Shoot</i></font>
 
 145
 00:09:23,860 --> 00:09:26,410

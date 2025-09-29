@@ -12,12 +12,12 @@
 
 4
 00:00:31,890 --> 00:00:37,270
-<font face="FOT-Greco Std B" size="34">{\an4}Translation
+<font face="FOT-Greco Std B" size="34">Translation
 Yibis</font>
 
 5
 00:00:31,890 --> 00:00:37,270
-<font face="FOT-Greco Std B" size="34">{\an4}Soundtracking
+<font face="FOT-Greco Std B" size="34">Soundtracking
 Halee</font>
 
 6
@@ -26,22 +26,22 @@ Halee</font>
 
 7
 00:00:37,380 --> 00:00:42,140
-<font face="FOT-Greco Std B" size="34">{\an4}Editing
+<font face="FOT-Greco Std B" size="34">Editing
 Sewil</font>
 
 8
 00:00:37,380 --> 00:00:42,140
-<font face="FOT-Greco Std B" size="34">{\an4}Infoboxes
+<font face="FOT-Greco Std B" size="34">Infoboxes
 Sewil</font>
 
 9
 00:00:37,380 --> 00:00:42,140
-<font face="FOT-Greco Std B" size="34">{\an4}Timing
+<font face="FOT-Greco Std B" size="34">Timing
 Datenshi</font>
 
 10
 00:00:37,380 --> 00:00:42,140
-<font face="FOT-Greco Std B" size="34">{\an4}Edit-checking
+<font face="FOT-Greco Std B" size="34">Edit-checking
 Galaxy 9000</font>
 
 11
@@ -987,7 +987,7 @@ Sabaody Archipelago</font>
 
 243
 00:12:04,440 --> 00:12:06,340
-<font face="Impress BT" size="38"><i>{\an8}"Yaru ki manman": To be pumped up.</i></font>
+<font face="Impress BT" size="38"><i>"Yaru ki manman": To be pumped up.</i></font>
 
 244
 00:12:04,440 --> 00:12:06,280
@@ -1131,7 +1131,7 @@ Sabaody Archipelago</font>
 
 279
 00:13:58,820 --> 00:14:03,300
-<font face="Impress BT" size="55">So, when the trees "breathe out", the resin {gets}is blown out as well, and forms these soap-bubbles.</font>
+<font face="Impress BT" size="55">So, when the trees "breathe out", the resin is blown out as well, and forms these soap-bubbles.</font>
 
 280
 00:14:03,550 --> 00:14:04,620
@@ -1887,7 +1887,7 @@ Sabaody Archipelago</font>
 
 468
 00:22:42,940 --> 00:22:44,670
-<font face="Impress BT" size="38"><i>{\an8}Manjuu: Steamed bun</i></font>
+<font face="Impress BT" size="38"><i>Manjuu: Steamed bun</i></font>
 
 469
 00:22:42,940 --> 00:22:44,670

@@ -868,7 +868,7 @@ thinking of the consequences</i></font>
 
 216
 00:18:01,420 --> 00:18:02,560
-<font face="Impress BT" size="38"><i>{\an8}Newspaper: Ace is dead</i></font>
+<font face="Impress BT" size="38"><i>Newspaper: Ace is dead</i></font>
 
 217
 00:18:06,490 --> 00:18:07,340
@@ -1263,7 +1263,7 @@ right in front of the Palace!</font>
 
 314
 00:24:49,830 --> 00:24:54,760
-<font face="Impress BT" size="30">{\an1}Editing: Sewil
+<font face="Impress BT" size="30">Editing: Sewil
 Timing: Datenshi
 QC: Mr Luffy,
 Galaxy 9000

@@ -12,7 +12,7 @@
 
 4
 00:00:30,330 --> 00:00:34,600
-<font face="Impress BT" size="34">{\an1}Translation & initial timing
+<font face="Impress BT" size="34">Translation & initial timing
 <font size="40">VS</font></font>
 
 5
@@ -21,7 +21,7 @@
 
 6
 00:00:34,910 --> 00:00:38,570
-<font face="Impress BT" size="34">{\an1}Timing
+<font face="Impress BT" size="34">Timing
 <font size="40">Galaxy 9000
 
 </font>Time-checking
@@ -29,7 +29,7 @@
 
 7
 00:00:38,750 --> 00:00:43,740
-<font face="Impress BT" size="34">{\an1}Quality-checking
+<font face="Impress BT" size="34">Quality-checking
 <font size="40">Sewil
 Galaxy 9000
 Halee</font></font>
@@ -44,7 +44,7 @@ Halee</font></font>
 
 10
 00:00:50,730 --> 00:00:54,150
-<font face="Impress BT" size="34">{\an1}Soundtracking
+<font face="Impress BT" size="34">Soundtracking
 <font size="40">Halee</font></font>
 
 11
@@ -53,12 +53,12 @@ Halee</font></font>
 
 12
 00:00:54,320 --> 00:00:58,020
-<font face="Impress BT" size="34">{\an1}Video editing
+<font face="Impress BT" size="34">Video editing
 <font size="40">Sewil</font></font>
 
 13
 00:00:54,320 --> 00:00:58,020
-<font face="Impress BT" size="34">{\an1}Raw provider
+<font face="Impress BT" size="34">Raw provider
 <font size="40">SOFCJ-Raws</font></font>
 
 14
@@ -127,7 +127,7 @@ Halee</font></font>
 
 30
 00:02:29,860 --> 00:02:38,200
-<font face="impress bt" size="63" color="#fefefe"><b>{\an5}Brook's Past!
+<font face="impress bt" size="63" color="#fefefe"><b>Brook's Past!
 The Rumbar Pirates and Laboon!</b></font>
 
 31
@@ -164,7 +164,7 @@ The Rumbar Pirates and Laboon!</b></font>
 
 39
 00:03:08,430 --> 00:03:14,120
-<font face="Impress BT" size="55">Tyrant Kuma came to deliver the news about the successor of the former Warlord Crocodile. {Sewil: changed from "Tyrant Kuma came to deliver the news about the former Warlord, Crocodile's successor."}</font>
+<font face="Impress BT" size="55">Tyrant Kuma came to deliver the news about the successor of the former Warlord Crocodile. </font>
 
 40
 00:03:14,120 --> 00:03:15,830
@@ -236,11 +236,11 @@ The Rumbar Pirates and Laboon!</b></font>
 
 57
 00:04:09,590 --> 00:04:13,560
-<font face="Impress BT" size="55">{\an8}Man, I guess we ended up all sleeping a whole day right out there in the courtyard...</font>
+<font face="Impress BT" size="55">Man, I guess we ended up all sleeping a whole day right out there in the courtyard...</font>
 
 58
 00:04:13,560 --> 00:04:16,990
-<font face="Impress BT" size="55">{\an8}Well, ya know, we did stay up that whole night fighting!</font>
+<font face="Impress BT" size="55">Well, ya know, we did stay up that whole night fighting!</font>
 
 59
 00:04:15,400 --> 00:04:20,440
@@ -248,11 +248,11 @@ The Rumbar Pirates and Laboon!</b></font>
 
 60
 00:04:16,990 --> 00:04:18,830
-<font face="Impress BT" size="55">{\an8}I'm hungry, Sanji!</font>
+<font face="Impress BT" size="55">I'm hungry, Sanji!</font>
 
 61
 00:04:18,830 --> 00:04:20,440
-<font face="Impress BT" size="55">{\an8}Go eat some cheese or something!</font>
+<font face="Impress BT" size="55">Go eat some cheese or something!</font>
 
 62
 00:04:22,750 --> 00:04:26,350
@@ -544,11 +544,11 @@ The Rumbar Pirates and Laboon!</b></font>
 
 134
 00:07:44,910 --> 00:07:46,640
-<font face="Impress BT" size="55">It's about what happened back then! {Halee: Added "It's" at the beginning of the sentence so that it doesn't sound too weird when connected to the previous one.}</font>
+<font face="Impress BT" size="55">It's about what happened back then! </font>
 
 135
 00:07:47,470 --> 00:07:48,190
-<font face="Impress BT" size="55">Come. {Sewil: changed from "Hey." as he says "koi" not "oi"}</font>
+<font face="Impress BT" size="55">Come. </font>
 
 136
 00:07:50,160 --> 00:07:51,120
@@ -713,7 +713,7 @@ What did you see?</font>
 
 176
 00:10:19,810 --> 00:10:22,600
-<font face="Impress BT" size="55">We haven't eaten a proper meal in years! {Sewil: changed "for years" to "in years"}</font>
+<font face="Impress BT" size="55">We haven't eaten a proper meal in years! </font>
 
 177
 00:10:22,900 --> 00:10:25,400
@@ -778,7 +778,7 @@ Don't go leaving leftovers, you hear?!</font>
 
 192
 00:11:24,300 --> 00:11:27,900
-<font face="Impress BT" size="55">He's not waking up even with this much noise... {Halee: Was "Even if it's this noisy, he's still not waking up..."}</font>
+<font face="Impress BT" size="55">He's not waking up even with this much noise... </font>
 
 193
 00:11:27,900 --> 00:11:30,800
@@ -886,7 +886,7 @@ Don't go leaving leftovers, you hear?!</font>
 
 219
 00:12:50,080 --> 00:12:54,290
-<font face="Impress BT" size="43">{\an8}Yo-hohoho, Yohohohoo,</font>
+<font face="Impress BT" size="43">Yo-hohoho, Yohohohoo,</font>
 
 220
 00:12:53,400 --> 00:12:55,420
@@ -894,11 +894,11 @@ Don't go leaving leftovers, you hear?!</font>
 
 221
 00:12:54,290 --> 00:12:58,460
-<font face="Impress BT" size="43">{\an8}Yo-hohoho, Yohohohoo,</font>
+<font face="Impress BT" size="43">Yo-hohoho, Yohohohoo,</font>
 
 222
 00:12:58,460 --> 00:13:02,920
-<font face="Impress BT" size="43">{\an8}Going to deliver Binks' Sake!</font>
+<font face="Impress BT" size="43">Going to deliver Binks' Sake!</font>
 
 223
 00:12:59,470 --> 00:13:05,700
@@ -906,7 +906,7 @@ Don't go leaving leftovers, you hear?!</font>
 
 224
 00:13:02,920 --> 00:13:07,320
-<font face="Impress BT" size="43">{\an8}Following the sea breeze! Riding on the waves!</font>
+<font face="Impress BT" size="43">Following the sea breeze! Riding on the waves!</font>
 
 225
 00:13:26,450 --> 00:13:31,990
@@ -1144,7 +1144,7 @@ Musician, swordsman</font>
 
 283
 00:17:45,420 --> 00:17:49,510
-<font face="Impress BT" size="55">{\an8}Hi, good day, everyone! It's morning!</font>
+<font face="Impress BT" size="55">Hi, good day, everyone! It's morning!</font>
 
 284
 00:17:48,680 --> 00:17:51,850
@@ -1194,11 +1194,11 @@ Musician, swordsman</font>
 
 295
 00:18:23,100 --> 00:18:26,040
-<font face="Impress BT" size="55">{\an8}P-Please stop making that noise so early in the morning!</font>
+<font face="Impress BT" size="55">P-Please stop making that noise so early in the morning!</font>
 
 296
 00:18:26,040 --> 00:18:28,620
-<font face="Impress BT" size="55">{\an8}We're getting up! We're getting up, Brook!</font>
+<font face="Impress BT" size="55">We're getting up! We're getting up, Brook!</font>
 
 297
 00:18:27,710 --> 00:18:31,060
@@ -1206,7 +1206,7 @@ Musician, swordsman</font>
 
 298
 00:18:28,620 --> 00:18:31,170
-<font face="Impress BT" size="55">{\an8}Ugh, we're awake! We're awake!</font>
+<font face="Impress BT" size="55">Ugh, we're awake! We're awake!</font>
 
 299
 00:18:31,060 --> 00:18:36,230
@@ -1465,7 +1465,7 @@ but we've gotta turn our backs on him, okay?</font>
 
 362
 00:24:03,760 --> 00:24:05,920
-<font face="Impress BT" size="55">{\an8}Welcome to the Pirate Graveyard.</font>
+<font face="Impress BT" size="55">Welcome to the Pirate Graveyard.</font>
 
 363
 00:24:04,490 --> 00:24:09,290
@@ -1474,7 +1474,7 @@ Twin Capes</font>
 
 364
 00:24:05,920 --> 00:24:09,290
-<font face="Impress BT" size="55">{\an8}Hey, hey, this isn't some kind of show, you know!</font>
+<font face="Impress BT" size="55">Hey, hey, this isn't some kind of show, you know!</font>
 
 365
 00:24:09,290 --> 00:24:13,630
@@ -1541,7 +1541,7 @@ Laboon! You love that song too, right?</font>
 
 380
 00:25:27,500 --> 00:25:31,840
-<font face="Impress BT" size="55">{\an8}Following the sea breeze, riding on the waves</font>
+<font face="Impress BT" size="55">Following the sea breeze, riding on the waves</font>
 
 381
 00:25:28,950 --> 00:25:31,970
@@ -1549,7 +1549,7 @@ Laboon! You love that song too, right?</font>
 
 382
 00:25:31,840 --> 00:25:35,910
-<font face="Impress BT" size="55">{\an8}Far across the salty deeps, the merry evening sun</font>
+<font face="Impress BT" size="55">Far across the salty deeps, the merry evening sun</font>
 
 383
 00:25:31,970 --> 00:25:34,390
@@ -1561,15 +1561,15 @@ Laboon! You love that song too, right?</font>
 
 385
 00:25:35,910 --> 00:25:40,380
-<font face="Impress BT" size="55">{\an8}Painting circles in the sky, birds singing along</font>
+<font face="Impress BT" size="55">Painting circles in the sky, birds singing along</font>
 
 386
 00:25:40,380 --> 00:25:44,690
-<font face="Impress BT" size="55">{\an8}Farewell to the harbour, to my old hometown</font>
+<font face="Impress BT" size="55">Farewell to the harbour, to my old hometown</font>
 
 387
 00:25:44,690 --> 00:25:48,860
-<font face="Impress BT" size="55">{\an8}Let's all sing out with a DON, as the ship sets sail</font>
+<font face="Impress BT" size="55">Let's all sing out with a DON, as the ship sets sail</font>
 
 388
 00:25:49,000 --> 00:25:51,090

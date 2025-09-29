@@ -12,7 +12,7 @@
 
 4
 00:00:30,330 --> 00:00:34,600
-<font face="Times New Roman" size="34">{\an1}Translation & initial timing
+<font face="Times New Roman" size="34">Translation & initial timing
 <font size="40">Vanillapunk</font></font>
 
 5
@@ -21,7 +21,7 @@
 
 6
 00:00:34,910 --> 00:00:38,570
-<font face="Times New Roman" size="34">{\an1}Timing
+<font face="Times New Roman" size="34">Timing
 <font size="40">Galaxy 9000
 
 </font>Time-checking
@@ -29,7 +29,7 @@
 
 7
 00:00:38,750 --> 00:00:43,740
-<font face="Times New Roman" size="34">{\an1}Quality-checking
+<font face="Times New Roman" size="34">Quality-checking
 <font size="40">Sewil
 Galaxy 9000
 Feeso</font></font>
@@ -44,7 +44,7 @@ Feeso</font></font>
 
 10
 00:00:50,750 --> 00:00:54,150
-<font face="Times New Roman" size="34">{\an1}Soundtracking
+<font face="Times New Roman" size="34">Soundtracking
 <font size="40">Halee</font></font>
 
 11
@@ -53,12 +53,12 @@ Feeso</font></font>
 
 12
 00:00:54,320 --> 00:00:58,020
-<font face="Times New Roman" size="34">{\an1}Video editing
+<font face="Times New Roman" size="34">Video editing
 <font size="40">Sewil</font></font>
 
 13
 00:00:54,320 --> 00:00:58,020
-<font face="Times New Roman" size="34">{\an1}Raw provider
+<font face="Times New Roman" size="34">Raw provider
 <font size="40">SOFCJ-Raws</font></font>
 
 14
@@ -127,7 +127,7 @@ Feeso</font></font>
 
 30
 00:02:29,860 --> 00:02:34,280
-<font face="impress bt" size="63" color="#fefefe"><b>{\an5}Morning Comes!
+<font face="impress bt" size="63" color="#fefefe"><b>Morning Comes!
 The Straw Hats' Ultimate Attack!</b></font>
 
 31
@@ -505,7 +505,7 @@ Straw Hat to do that for us, but...</font>
 
 124
 00:07:18,280 --> 00:07:19,800
-<font face="Impress BT" size="38"><i>{\an8}Leg Flower</i></font>
+<font face="Impress BT" size="38"><i>Leg Flower</i></font>
 
 125
 00:07:25,300 --> 00:07:26,900
@@ -1090,7 +1090,7 @@ current state, you would have only found death!</font>
 
 269
 00:16:12,870 --> 00:16:16,650
-<font face="Impress BT" size="38"><i>{\an8}Asgard: heavenly residence of the gods and slain heroes in Norse mythology</i></font>
+<font face="Impress BT" size="38"><i>Asgard: heavenly residence of the gods and slain heroes in Norse mythology</i></font>
 
 270
 00:16:12,870 --> 00:16:16,650

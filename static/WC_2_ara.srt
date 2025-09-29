@@ -1,26 +1,26 @@
 1
 00:00:00,000 --> 00:00:03,660
-<font face="Khalid Art bold" size="47">{\an4}<font color="#000000">فريق</font></font>
+<font face="Khalid Art bold" size="47"><font color="#000000">فريق</font></font>
 
 2
 00:00:00,000 --> 00:00:03,660
-<font face="Khalid Art bold" size="47">{\an4}فريق</font>
+<font face="Khalid Art bold" size="47">فريق</font>
 
 3
 00:00:00,000 --> 00:00:03,660
-<font face="Khalid Art bold" size="47">{\an4}فريق</font>
+<font face="Khalid Art bold" size="47">فريق</font>
 
 4
 00:00:00,000 --> 00:00:03,660
-<font face="FOT-Greco Std DB Strp" size="39">{\an7}<font color="#000000">One Pace</font></font>
+<font face="FOT-Greco Std DB Strp" size="39"><font color="#000000">One Pace</font></font>
 
 5
 00:00:00,000 --> 00:00:03,660
-<font face="FOT-Greco Std DB Strp" size="39">{\an7}One Pace</font>
+<font face="FOT-Greco Std DB Strp" size="39">One Pace</font>
 
 6
 00:00:00,000 --> 00:00:03,660
-<font face="FOT-Greco Std DB Strp" size="39">{\an7}One Pace</font>
+<font face="FOT-Greco Std DB Strp" size="39">One Pace</font>
 
 7
 00:00:00,000 --> 00:00:05,000
@@ -28,59 +28,59 @@
 
 8
 00:00:00,520 --> 00:00:00,820
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998"></font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
 
 9
 00:00:00,550 --> 00:00:00,820
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998"></font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
 
 10
 00:00:00,580 --> 00:00:01,120
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">こ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">こ</font></font>
 
 11
 00:00:00,610 --> 00:00:01,290
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">の</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">の</font></font>
 
 12
 00:00:00,640 --> 00:00:01,360
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">世</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">世</font></font>
 
 13
 00:00:00,640 --> 00:00:01,360
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">せ</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">せ</font></font>
 
 14
 00:00:00,670 --> 00:00:01,600
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">界</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">界</font></font>
 
 15
 00:00:00,670 --> 00:00:01,600
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">か</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">か</font></font>
 
 16
 00:00:00,670 --> 00:00:01,790
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">い</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">い</font></font>
 
 17
 00:00:00,700 --> 00:00:02,120
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">の</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">の</font></font>
 
 18
 00:00:00,730 --> 00:00:02,310
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">果</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">果</font></font>
 
 19
 00:00:00,730 --> 00:00:02,310
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">は</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">は</font></font>
 
 20
 00:00:00,760 --> 00:00:02,660
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">て</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">て</font></font>
 
 21
 00:00:00,790 --> 00:00:02,980
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">な</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">な</font></font>
 
 22
 00:00:00,820 --> 00:00:06,820
@@ -88,258 +88,258 @@
 
 23
 00:00:00,820 --> 00:00:03,310
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">ん</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">ん</font></font>
 
 24
 00:00:00,850 --> 00:00:03,430
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">て</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">て</font></font>
 
 25
 00:00:01,120 --> 00:00:01,590
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">こ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">こ</font></font>
 
 26
 00:00:01,290 --> 00:00:01,660
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">の</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">の</font></font>
 
 27
 00:00:01,360 --> 00:00:01,900
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">世</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">世</font></font>
 
 28
 00:00:01,360 --> 00:00:01,900
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">せ</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">せ</font></font>
 
 29
 00:00:01,600 --> 00:00:02,090
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">界</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">界</font></font>
 
 30
 00:00:01,600 --> 00:00:02,090
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">か</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">か</font></font>
 
 31
 00:00:01,790 --> 00:00:02,420
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">界</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">界</font></font>
 
 32
 00:00:01,790 --> 00:00:02,420
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">い</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">い</font></font>
 
 33
 00:00:02,120 --> 00:00:02,610
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">の</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">の</font></font>
 
 34
 00:00:02,310 --> 00:00:02,960
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">果</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">果</font></font>
 
 35
 00:00:02,310 --> 00:00:02,960
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">は</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">は</font></font>
 
 36
 00:00:02,660 --> 00:00:03,280
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">て</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">て</font></font>
 
 37
 00:00:02,980 --> 00:00:03,610
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">な</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">な</font></font>
 
 38
 00:00:03,310 --> 00:00:03,730
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">ん</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">ん</font></font>
 
 39
 00:00:03,340 --> 00:00:03,640
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998"></font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
 
 40
 00:00:03,370 --> 00:00:03,640
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998"></font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
 
 41
 00:00:03,400 --> 00:00:03,750
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">こ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">こ</font></font>
 
 42
 00:00:03,430 --> 00:00:03,970
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">て</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">て</font></font>
 
 43
 00:00:03,430 --> 00:00:03,920
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">の</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">の</font></font>
 
 44
 00:00:03,460 --> 00:00:04,110
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">目</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">目</font></font>
 
 45
 00:00:03,460 --> 00:00:04,110
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">め</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">め</font></font>
 
 46
 00:00:03,490 --> 00:00:04,270
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">で</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">で</font></font>
 
 47
 00:00:03,520 --> 00:00:04,400
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">見</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">見</font></font>
 
 48
 00:00:03,520 --> 00:00:04,400
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">み</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">み</font></font>
 
 49
 00:00:03,550 --> 00:00:04,780
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">た</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">た</font></font>
 
 50
 00:00:03,580 --> 00:00:04,970
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">わ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">わ</font></font>
 
 51
 00:00:03,610 --> 00:00:05,310
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">け</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">け</font></font>
 
 52
 00:00:03,640 --> 00:00:05,590
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">じゃ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">じゃ</font></font>
 
 53
 00:00:03,670 --> 00:00:05,920
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">な</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">な</font></font>
 
 54
 00:00:03,700 --> 00:00:06,250
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">い</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">い</font></font>
 
 55
 00:00:03,750 --> 00:00:04,220
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">こ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">こ</font></font>
 
 56
 00:00:03,920 --> 00:00:04,410
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">の</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">の</font></font>
 
 57
 00:00:04,110 --> 00:00:04,570
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">目</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">目</font></font>
 
 58
 00:00:04,110 --> 00:00:04,570
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">め</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">め</font></font>
 
 59
 00:00:04,270 --> 00:00:04,700
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">で</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">で</font></font>
 
 60
 00:00:04,400 --> 00:00:05,080
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">見</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">見</font></font>
 
 61
 00:00:04,400 --> 00:00:05,080
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">み</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">み</font></font>
 
 62
 00:00:04,780 --> 00:00:05,270
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">た</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">た</font></font>
 
 63
 00:00:04,970 --> 00:00:05,610
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">わ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">わ</font></font>
 
 64
 00:00:05,310 --> 00:00:05,890
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">け</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">け</font></font>
 
 65
 00:00:05,590 --> 00:00:06,220
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">じゃ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">じゃ</font></font>
 
 66
 00:00:05,920 --> 00:00:06,550
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">な</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">な</font></font>
 
 67
 00:00:06,250 --> 00:00:07,120
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">い</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">い</font></font>
 
 68
 00:00:06,520 --> 00:00:06,820
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998"></font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
 
 69
 00:00:06,550 --> 00:00:06,820
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998"></font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
 
 70
 00:00:06,580 --> 00:00:07,120
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">だ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">だ</font></font>
 
 71
 00:00:06,610 --> 00:00:07,260
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">か</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">か</font></font>
 
 72
 00:00:06,640 --> 00:00:07,440
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">ら</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">ら</font></font>
 
 73
 00:00:06,670 --> 00:00:07,610
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">旅</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">旅</font></font>
 
 74
 00:00:06,670 --> 00:00:07,610
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">た</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">た</font></font>
 
 75
 00:00:06,670 --> 00:00:07,780
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">び</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">び</font></font>
 
 76
 00:00:06,700 --> 00:00:08,090
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">立</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">立</font></font>
 
 77
 00:00:06,700 --> 00:00:08,090
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">だ</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">だ</font></font>
 
 78
 00:00:06,710 --> 00:00:09,380
-<font face="Khalid Art bold" size="47">{\an4}<font color="#000000">مونتاج</font></font>
+<font face="Khalid Art bold" size="47"><font color="#000000">مونتاج</font></font>
 
 79
 00:00:06,710 --> 00:00:09,380
-<font face="Khalid Art bold" size="47">{\an4}مونتاج</font>
+<font face="Khalid Art bold" size="47">مونتاج</font>
 
 80
 00:00:06,710 --> 00:00:09,380
-<font face="FOT-Greco Std DB Strp" size="39">{\an7}<font color="#000000">Feeso
+<font face="FOT-Greco Std DB Strp" size="39"><font color="#000000">Feeso
 Galaxy 9000</font></font>
 
 81
 00:00:06,710 --> 00:00:09,380
-<font face="FOT-Greco Std DB Strp" size="39">{\an7}Feeso
+<font face="FOT-Greco Std DB Strp" size="39">Feeso
 Galaxy 9000</font>
 
 82
 00:00:06,710 --> 00:00:09,380
-<font face="FOT-Greco Std DB Strp" size="39">{\an7}Feeso
+<font face="FOT-Greco Std DB Strp" size="39">Feeso
 Galaxy 9000</font>
 
 83
 00:00:06,730 --> 00:00:08,290
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">つ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">つ</font></font>
 
 84
 00:00:06,760 --> 00:00:08,600
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">ん</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">ん</font></font>
 
 85
 00:00:06,790 --> 00:00:08,970
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">だ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">だ</font></font>
 
 86
 00:00:06,820 --> 00:00:13,950
@@ -347,171 +347,171 @@ Galaxy 9000</font>
 
 87
 00:00:06,820 --> 00:00:09,400
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998"></font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
 
 88
 00:00:06,850 --> 00:00:09,730
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">君</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">君</font></font>
 
 89
 00:00:06,850 --> 00:00:09,730
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">き</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">き</font></font>
 
 90
 00:00:06,850 --> 00:00:10,080
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">み</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">み</font></font>
 
 91
 00:00:06,880 --> 00:00:10,430
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">と</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">と</font></font>
 
 92
 00:00:06,910 --> 00:00:11,730
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">ウィー</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">ウィー</font></font>
 
 93
 00:00:06,940 --> 00:00:13,030
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">キャン！</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">キャン！</font></font>
 
 94
 00:00:07,120 --> 00:00:07,560
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">だ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">だ</font></font>
 
 95
 00:00:07,260 --> 00:00:07,740
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">か</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">か</font></font>
 
 96
 00:00:07,440 --> 00:00:07,910
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">ら</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">ら</font></font>
 
 97
 00:00:07,610 --> 00:00:08,080
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">旅</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">旅</font></font>
 
 98
 00:00:07,610 --> 00:00:08,080
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">た</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">た</font></font>
 
 99
 00:00:07,780 --> 00:00:08,390
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">旅</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">旅</font></font>
 
 100
 00:00:07,780 --> 00:00:08,390
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">び</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">び</font></font>
 
 101
 00:00:08,090 --> 00:00:08,590
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">立</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">立</font></font>
 
 102
 00:00:08,090 --> 00:00:08,590
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">だ</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">だ</font></font>
 
 103
 00:00:08,290 --> 00:00:08,900
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">つ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">つ</font></font>
 
 104
 00:00:08,600 --> 00:00:09,270
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">ん</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">ん</font></font>
 
 105
 00:00:08,970 --> 00:00:09,700
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">だ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">だ</font></font>
 
 106
 00:00:09,730 --> 00:00:10,380
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">君</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">君</font></font>
 
 107
 00:00:09,730 --> 00:00:10,380
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">き</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">き</font></font>
 
 108
 00:00:10,080 --> 00:00:10,730
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">君</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">君</font></font>
 
 109
 00:00:10,080 --> 00:00:10,730
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">み</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">み</font></font>
 
 110
 00:00:10,430 --> 00:00:12,030
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">と</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">と</font></font>
 
 111
 00:00:11,730 --> 00:00:13,330
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">ウィー</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">ウィー</font></font>
 
 112
 00:00:13,030 --> 00:00:14,250
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">キャン！</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">キャン！</font></font>
 
 113
 00:00:23,370 --> 00:00:23,670
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998"></font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
 
 114
 00:00:23,400 --> 00:00:23,670
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998"></font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
 
 115
 00:00:23,430 --> 00:00:24,060
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">海</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">海</font></font>
 
 116
 00:00:23,430 --> 00:00:24,060
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">う</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">う</font></font>
 
 117
 00:00:23,430 --> 00:00:24,210
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">み</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">み</font></font>
 
 118
 00:00:23,460 --> 00:00:24,420
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">か</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">か</font></font>
 
 119
 00:00:23,490 --> 00:00:24,620
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">ら</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">ら</font></font>
 
 120
 00:00:23,520 --> 00:00:24,970
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">海</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">海</font></font>
 
 121
 00:00:23,520 --> 00:00:24,970
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">う</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">う</font></font>
 
 122
 00:00:23,520 --> 00:00:25,260
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">み</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">み</font></font>
 
 123
 00:00:23,550 --> 00:00:25,420
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">を</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">を</font></font>
 
 124
 00:00:23,580 --> 00:00:25,540
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">股</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">股</font></font>
 
 125
 00:00:23,580 --> 00:00:25,540
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">ま</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">ま</font></font>
 
 126
 00:00:23,580 --> 00:00:25,660
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">た</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">た</font></font>
 
 127
 00:00:23,610 --> 00:00:25,930
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">に</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">に</font></font>
 
 128
 00:00:23,640 --> 00:00:26,080
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">か</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">か</font></font>
 
 129
 00:00:23,670 --> 00:00:27,000
@@ -519,143 +519,143 @@ Galaxy 9000</font>
 
 130
 00:00:23,670 --> 00:00:26,260
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">け</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">け</font></font>
 
 131
 00:00:23,700 --> 00:00:26,420
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">て</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">て</font></font>
 
 132
 00:00:24,060 --> 00:00:24,510
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">海</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">海</font></font>
 
 133
 00:00:24,060 --> 00:00:24,510
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">う</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">う</font></font>
 
 134
 00:00:24,210 --> 00:00:24,720
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">海</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">海</font></font>
 
 135
 00:00:24,210 --> 00:00:24,720
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">み</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">み</font></font>
 
 136
 00:00:24,420 --> 00:00:24,920
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">か</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">か</font></font>
 
 137
 00:00:24,620 --> 00:00:25,270
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">ら</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">ら</font></font>
 
 138
 00:00:24,970 --> 00:00:25,560
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">海</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">海</font></font>
 
 139
 00:00:24,970 --> 00:00:25,560
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">う</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">う</font></font>
 
 140
 00:00:25,260 --> 00:00:25,720
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">海</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">海</font></font>
 
 141
 00:00:25,260 --> 00:00:25,720
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">み</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">み</font></font>
 
 142
 00:00:25,420 --> 00:00:25,840
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">を</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">を</font></font>
 
 143
 00:00:25,540 --> 00:00:25,960
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">股</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">股</font></font>
 
 144
 00:00:25,540 --> 00:00:25,960
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">ま</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">ま</font></font>
 
 145
 00:00:25,660 --> 00:00:26,230
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">股</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">股</font></font>
 
 146
 00:00:25,660 --> 00:00:26,230
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">た</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">た</font></font>
 
 147
 00:00:25,930 --> 00:00:26,380
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">に</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">に</font></font>
 
 148
 00:00:26,080 --> 00:00:26,560
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">か</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">か</font></font>
 
 149
 00:00:26,260 --> 00:00:26,720
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">け</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">け</font></font>
 
 150
 00:00:26,420 --> 00:00:27,300
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">て</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">て</font></font>
 
 151
 00:00:28,760 --> 00:00:29,060
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998"></font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
 
 152
 00:00:28,790 --> 00:00:29,060
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998"></font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
 
 153
 00:00:28,820 --> 00:00:29,510
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">誰</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">誰</font></font>
 
 154
 00:00:28,820 --> 00:00:29,510
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">だ</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">だ</font></font>
 
 155
 00:00:28,820 --> 00:00:29,690
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">れ</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">れ</font></font>
 
 156
 00:00:28,850 --> 00:00:29,840
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">も</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">も</font></font>
 
 157
 00:00:28,880 --> 00:00:30,010
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">が</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">が</font></font>
 
 158
 00:00:28,910 --> 00:00:30,360
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">笑</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">笑</font></font>
 
 159
 00:00:28,910 --> 00:00:30,360
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">わ</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">わ</font></font>
 
 160
 00:00:28,910 --> 00:00:30,700
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">ら</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">ら</font></font>
 
 161
 00:00:28,940 --> 00:00:30,850
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">っ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">っ</font></font>
 
 162
 00:00:28,970 --> 00:00:31,030
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">て</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">て</font></font>
 
 163
 00:00:29,000 --> 00:00:31,170
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">い</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">い</font></font>
 
 164
 00:00:29,030 --> 00:00:31,360
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">る</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">る</font></font>
 
 165
 00:00:29,060 --> 00:00:31,850
@@ -663,119 +663,119 @@ Galaxy 9000</font>
 
 166
 00:00:29,060 --> 00:00:31,520
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">け</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">け</font></font>
 
 167
 00:00:29,090 --> 00:00:31,700
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">ど</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">ど</font></font>
 
 168
 00:00:29,510 --> 00:00:29,990
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">誰</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">誰</font></font>
 
 169
 00:00:29,510 --> 00:00:29,990
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">だ</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">だ</font></font>
 
 170
 00:00:29,690 --> 00:00:30,140
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">誰</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">誰</font></font>
 
 171
 00:00:29,690 --> 00:00:30,140
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">れ</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">れ</font></font>
 
 172
 00:00:29,840 --> 00:00:30,310
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">も</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">も</font></font>
 
 173
 00:00:30,010 --> 00:00:30,660
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">が</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">が</font></font>
 
 174
 00:00:30,360 --> 00:00:31,000
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">笑</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">笑</font></font>
 
 175
 00:00:30,360 --> 00:00:31,000
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">わ</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">わ</font></font>
 
 176
 00:00:30,700 --> 00:00:31,150
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">笑</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">笑</font></font>
 
 177
 00:00:30,700 --> 00:00:31,150
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">ら</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">ら</font></font>
 
 178
 00:00:30,850 --> 00:00:31,330
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">っ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">っ</font></font>
 
 179
 00:00:31,030 --> 00:00:31,470
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">て</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">て</font></font>
 
 180
 00:00:31,170 --> 00:00:31,660
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">い</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">い</font></font>
 
 181
 00:00:31,360 --> 00:00:31,820
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">る</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">る</font></font>
 
 182
 00:00:31,520 --> 00:00:32,000
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">け</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">け</font></font>
 
 183
 00:00:31,620 --> 00:00:31,920
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998"></font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
 
 184
 00:00:31,650 --> 00:00:31,920
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998"></font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
 
 185
 00:00:31,680 --> 00:00:32,180
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">想</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">想</font></font>
 
 186
 00:00:31,680 --> 00:00:32,180
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">そう</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">そう</font></font>
 
 187
 00:00:31,700 --> 00:00:32,210
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">ど</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">ど</font></font>
 
 188
 00:00:31,710 --> 00:00:32,540
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">像</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">像</font></font>
 
 189
 00:00:31,710 --> 00:00:32,540
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">ぞ</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">ぞ</font></font>
 
 190
 00:00:31,710 --> 00:00:32,730
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">う</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">う</font></font>
 
 191
 00:00:31,740 --> 00:00:32,990
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">つ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">つ</font></font>
 
 192
 00:00:31,770 --> 00:00:33,390
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">か</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">か</font></font>
 
 193
 00:00:31,800 --> 00:00:33,730
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">な</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">な</font></font>
 
 194
 00:00:31,830 --> 00:00:34,100
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">い</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">い</font></font>
 
 195
 00:00:31,850 --> 00:00:38,780
@@ -783,238 +783,238 @@ Galaxy 9000</font>
 
 196
 00:00:31,860 --> 00:00:34,400
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">真</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">真</font></font>
 
 197
 00:00:31,860 --> 00:00:34,400
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">こ</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">こ</font></font>
 
 198
 00:00:31,890 --> 00:00:34,580
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">実</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">実</font></font>
 
 199
 00:00:31,890 --> 00:00:34,580
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">と</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">と</font></font>
 
 200
 00:00:31,920 --> 00:00:34,950
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998"></font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
 
 201
 00:00:31,950 --> 00:00:35,920
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">ば</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">ば</font></font>
 
 202
 00:00:31,980 --> 00:00:36,210
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">か</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">か</font></font>
 
 203
 00:00:32,010 --> 00:00:36,580
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">り</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">り</font></font>
 
 204
 00:00:32,040 --> 00:00:36,900
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">だ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">だ</font></font>
 
 205
 00:00:32,070 --> 00:00:37,230
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">ろ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">ろ</font></font>
 
 206
 00:00:32,180 --> 00:00:32,840
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">想</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">想</font></font>
 
 207
 00:00:32,180 --> 00:00:32,840
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">そう</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">そう</font></font>
 
 208
 00:00:32,200 --> 00:00:35,560
-<font face="Khalid Art bold" size="47">{\an4}<font color="#000000">ضبط الجودة</font></font>
+<font face="Khalid Art bold" size="47"><font color="#000000">ضبط الجودة</font></font>
 
 209
 00:00:32,200 --> 00:00:35,560
-<font face="Khalid Art bold" size="47">{\an4}ضبط الجودة</font>
+<font face="Khalid Art bold" size="47">ضبط الجودة</font>
 
 210
 00:00:32,200 --> 00:00:35,560
-<font face="FOT-Greco Std DB Strp" size="39">{\an7}<font color="#000000">Ibfinity
+<font face="FOT-Greco Std DB Strp" size="39"><font color="#000000">Ibfinity
 Zenef</font></font>
 
 211
 00:00:32,200 --> 00:00:35,560
-<font face="FOT-Greco Std DB Strp" size="39">{\an7}Ibfinity
+<font face="FOT-Greco Std DB Strp" size="39">Ibfinity
 Zenef</font>
 
 212
 00:00:32,200 --> 00:00:35,560
-<font face="FOT-Greco Std DB Strp" size="39">{\an7}Ibfinity
+<font face="FOT-Greco Std DB Strp" size="39">Ibfinity
 Zenef</font>
 
 213
 00:00:32,540 --> 00:00:33,030
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">像</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">像</font></font>
 
 214
 00:00:32,540 --> 00:00:33,030
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">ぞ</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">ぞ</font></font>
 
 215
 00:00:32,730 --> 00:00:33,290
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">像</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">像</font></font>
 
 216
 00:00:32,730 --> 00:00:33,290
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">う</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">う</font></font>
 
 217
 00:00:32,990 --> 00:00:33,690
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">つ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">つ</font></font>
 
 218
 00:00:33,390 --> 00:00:34,030
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">か</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">か</font></font>
 
 219
 00:00:33,730 --> 00:00:34,400
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">な</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">な</font></font>
 
 220
 00:00:34,100 --> 00:00:34,700
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">い</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">い</font></font>
 
 221
 00:00:34,400 --> 00:00:34,880
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">真</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">真</font></font>
 
 222
 00:00:34,400 --> 00:00:34,880
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">こ</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">こ</font></font>
 
 223
 00:00:34,580 --> 00:00:35,250
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">実</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">実</font></font>
 
 224
 00:00:34,580 --> 00:00:35,250
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">と</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">と</font></font>
 
 225
 00:00:35,560 --> 00:00:39,820
-<font face="Khalid Art bold" size="47">{\an4}<font color="#000000">الصوت</font></font>
+<font face="Khalid Art bold" size="47"><font color="#000000">الصوت</font></font>
 
 226
 00:00:35,560 --> 00:00:39,820
-<font face="Khalid Art bold" size="47">{\an4}الصوت</font>
+<font face="Khalid Art bold" size="47">الصوت</font>
 
 227
 00:00:35,560 --> 00:00:39,820
-<font face="Khalid Art bold" size="47">{\an4}الصوت</font>
+<font face="Khalid Art bold" size="47">الصوت</font>
 
 228
 00:00:35,560 --> 00:00:39,820
-<font face="FOT-Greco Std DB Strp" size="39">{\an7}<font color="#000000">Halee</font></font>
+<font face="FOT-Greco Std DB Strp" size="39"><font color="#000000">Halee</font></font>
 
 229
 00:00:35,560 --> 00:00:39,820
-<font face="FOT-Greco Std DB Strp" size="39">{\an7}Halee</font>
+<font face="FOT-Greco Std DB Strp" size="39">Halee</font>
 
 230
 00:00:35,560 --> 00:00:39,820
-<font face="FOT-Greco Std DB Strp" size="39">{\an7}Halee</font>
+<font face="FOT-Greco Std DB Strp" size="39">Halee</font>
 
 231
 00:00:35,920 --> 00:00:36,510
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">ば</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">ば</font></font>
 
 232
 00:00:36,210 --> 00:00:36,880
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">か</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">か</font></font>
 
 233
 00:00:36,580 --> 00:00:37,200
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">り</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">り</font></font>
 
 234
 00:00:36,900 --> 00:00:37,530
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">だ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">だ</font></font>
 
 235
 00:00:37,230 --> 00:00:39,080
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">ろ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">ろ</font></font>
 
 236
 00:00:39,640 --> 00:00:39,940
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998"></font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
 
 237
 00:00:39,670 --> 00:00:39,940
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998"></font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
 
 238
 00:00:39,700 --> 00:00:40,230
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">見</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">見</font></font>
 
 239
 00:00:39,700 --> 00:00:40,230
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">み</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">み</font></font>
 
 240
 00:00:39,730 --> 00:00:40,350
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">て</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">て</font></font>
 
 241
 00:00:39,760 --> 00:00:40,560
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">見</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">見</font></font>
 
 242
 00:00:39,760 --> 00:00:40,560
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">み</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">み</font></font>
 
 243
 00:00:39,790 --> 00:00:40,750
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">ぬ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">ぬ</font></font>
 
 244
 00:00:39,820 --> 00:00:42,870
-<font face="Khalid Art bold" size="47">{\an4}<font color="#000000">مزامنة الترجمة</font></font>
+<font face="Khalid Art bold" size="47"><font color="#000000">مزامنة الترجمة</font></font>
 
 245
 00:00:39,820 --> 00:00:42,870
-<font face="Khalid Art bold" size="47">{\an4}مزامنة الترجمة</font>
+<font face="Khalid Art bold" size="47">مزامنة الترجمة</font>
 
 246
 00:00:39,820 --> 00:00:42,870
-<font face="FOT-Greco Std DB Strp" size="39">{\an7}<font color="#000000">Halee/Qasim</font></font>
+<font face="FOT-Greco Std DB Strp" size="39"><font color="#000000">Halee/Qasim</font></font>
 
 247
 00:00:39,820 --> 00:00:42,870
-<font face="FOT-Greco Std DB Strp" size="39">{\an7}Halee/Qasim</font>
+<font face="FOT-Greco Std DB Strp" size="39">Halee/Qasim</font>
 
 248
 00:00:39,820 --> 00:00:42,870
-<font face="FOT-Greco Std DB Strp" size="39">{\an7}Halee/Qasim</font>
+<font face="FOT-Greco Std DB Strp" size="39">Halee/Qasim</font>
 
 249
 00:00:39,820 --> 00:00:40,950
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">振</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">振</font></font>
 
 250
 00:00:39,820 --> 00:00:40,950
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">ふ</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">ふ</font></font>
 
 251
 00:00:39,850 --> 00:00:41,410
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">り</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">り</font></font>
 
 252
 00:00:39,880 --> 00:00:41,590
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">す</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">す</font></font>
 
 253
 00:00:39,910 --> 00:00:42,080
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">る</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">る</font></font>
 
 254
 00:00:39,940 --> 00:00:43,560
@@ -1022,151 +1022,151 @@ Zenef</font>
 
 255
 00:00:39,940 --> 00:00:42,420
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">な</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">な</font></font>
 
 256
 00:00:39,970 --> 00:00:42,580
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">よ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">よ</font></font>
 
 257
 00:00:40,230 --> 00:00:40,650
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">見</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">見</font></font>
 
 258
 00:00:40,230 --> 00:00:40,650
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">み</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">み</font></font>
 
 259
 00:00:40,350 --> 00:00:40,860
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">て</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">て</font></font>
 
 260
 00:00:40,560 --> 00:00:41,050
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">見</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">見</font></font>
 
 261
 00:00:40,560 --> 00:00:41,050
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">み</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">み</font></font>
 
 262
 00:00:40,750 --> 00:00:41,250
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">ぬ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">ぬ</font></font>
 
 263
 00:00:40,950 --> 00:00:41,710
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">振</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">振</font></font>
 
 264
 00:00:40,950 --> 00:00:41,710
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">ふ</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">ふ</font></font>
 
 265
 00:00:41,410 --> 00:00:41,890
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">り</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">り</font></font>
 
 266
 00:00:41,590 --> 00:00:42,380
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">す</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">す</font></font>
 
 267
 00:00:42,080 --> 00:00:42,720
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">る</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">る</font></font>
 
 268
 00:00:42,420 --> 00:00:42,880
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">な</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">な</font></font>
 
 269
 00:00:42,580 --> 00:00:43,860
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">よ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">よ</font></font>
 
 270
 00:00:42,870 --> 00:00:45,140
-<font face="Khalid Art bold" size="47">{\an4}<font color="#000000">كاريوكي</font></font>
+<font face="Khalid Art bold" size="47"><font color="#000000">كاريوكي</font></font>
 
 271
 00:00:42,870 --> 00:00:45,140
-<font face="Khalid Art bold" size="47">{\an4}كاريوكي</font>
+<font face="Khalid Art bold" size="47">كاريوكي</font>
 
 272
 00:00:42,870 --> 00:00:45,140
-<font face="FOT-Greco Std DB Strp" size="39">{\an7}<font color="#000000">KaitouYahiko</font></font>
+<font face="FOT-Greco Std DB Strp" size="39"><font color="#000000">KaitouYahiko</font></font>
 
 273
 00:00:42,870 --> 00:00:45,140
-<font face="FOT-Greco Std DB Strp" size="39">{\an7}KaitouYahiko</font>
+<font face="FOT-Greco Std DB Strp" size="39">KaitouYahiko</font>
 
 274
 00:00:42,870 --> 00:00:45,140
-<font face="FOT-Greco Std DB Strp" size="39">{\an7}KaitouYahiko</font>
+<font face="FOT-Greco Std DB Strp" size="39">KaitouYahiko</font>
 
 275
 00:00:43,260 --> 00:00:43,560
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998"></font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
 
 276
 00:00:43,290 --> 00:00:43,560
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998"></font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
 
 277
 00:00:43,320 --> 00:00:43,810
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">常</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">常</font></font>
 
 278
 00:00:43,320 --> 00:00:43,810
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">じょ</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">じょ</font></font>
 
 279
 00:00:43,320 --> 00:00:44,240
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">う</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">う</font></font>
 
 280
 00:00:43,350 --> 00:00:44,450
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">識</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">識</font></font>
 
 281
 00:00:43,350 --> 00:00:44,450
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">し</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">し</font></font>
 
 282
 00:00:43,350 --> 00:00:44,860
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">き</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">き</font></font>
 
 283
 00:00:43,380 --> 00:00:45,230
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">な</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">な</font></font>
 
 284
 00:00:43,410 --> 00:00:46,160
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">ん</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">ん</font></font>
 
 285
 00:00:43,440 --> 00:00:46,390
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">て</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">て</font></font>
 
 286
 00:00:43,470 --> 00:00:46,500
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">さ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">さ</font></font>
 
 287
 00:00:43,500 --> 00:00:47,570
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">多</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">多</font></font>
 
 288
 00:00:43,500 --> 00:00:47,570
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">た</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">た</font></font>
 
 289
 00:00:43,530 --> 00:00:47,780
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">数</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">数</font></font>
 
 290
 00:00:43,530 --> 00:00:47,780
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">す</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">す</font></font>
 
 291
 00:00:43,530 --> 00:00:48,890
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">う</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">う</font></font>
 
 292
 00:00:43,560 --> 00:00:50,040
@@ -1174,205 +1174,205 @@ Zenef</font>
 
 293
 00:00:43,560 --> 00:00:49,040
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">決</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">決</font></font>
 
 294
 00:00:43,560 --> 00:00:49,040
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">け</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">け</font></font>
 
 295
 00:00:43,560 --> 00:00:49,230
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">つ</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">つ</font></font>
 
 296
 00:00:43,810 --> 00:00:44,540
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">常</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">常</font></font>
 
 297
 00:00:43,810 --> 00:00:44,540
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">じょ</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">じょ</font></font>
 
 298
 00:00:44,240 --> 00:00:44,750
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">常</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">常</font></font>
 
 299
 00:00:44,240 --> 00:00:44,750
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">う</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">う</font></font>
 
 300
 00:00:44,450 --> 00:00:45,160
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">識</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">識</font></font>
 
 301
 00:00:44,450 --> 00:00:45,160
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">し</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">し</font></font>
 
 302
 00:00:44,860 --> 00:00:45,530
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">識</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">識</font></font>
 
 303
 00:00:44,860 --> 00:00:45,530
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">き</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">き</font></font>
 
 304
 00:00:45,140 --> 00:00:47,640
-<font face="Khalid Art bold" size="47">{\an4}<font color="#000000">جرافيك</font></font>
+<font face="Khalid Art bold" size="47"><font color="#000000">جرافيك</font></font>
 
 305
 00:00:45,140 --> 00:00:47,640
-<font face="Khalid Art bold" size="47">{\an4}جرافيك</font>
+<font face="Khalid Art bold" size="47">جرافيك</font>
 
 306
 00:00:45,140 --> 00:00:47,640
-<font face="FOT-Greco Std DB Strp" size="39">{\an7}<font color="#000000">Datenshi</font></font>
+<font face="FOT-Greco Std DB Strp" size="39"><font color="#000000">Datenshi</font></font>
 
 307
 00:00:45,140 --> 00:00:47,640
-<font face="FOT-Greco Std DB Strp" size="39">{\an7}Datenshi</font>
+<font face="FOT-Greco Std DB Strp" size="39">Datenshi</font>
 
 308
 00:00:45,140 --> 00:00:47,640
-<font face="FOT-Greco Std DB Strp" size="39">{\an7}Datenshi</font>
+<font face="FOT-Greco Std DB Strp" size="39">Datenshi</font>
 
 309
 00:00:45,230 --> 00:00:46,460
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">な</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">な</font></font>
 
 310
 00:00:46,160 --> 00:00:46,690
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">ん</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">ん</font></font>
 
 311
 00:00:46,390 --> 00:00:46,800
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">て</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">て</font></font>
 
 312
 00:00:46,500 --> 00:00:47,870
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">さ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">さ</font></font>
 
 313
 00:00:47,570 --> 00:00:48,080
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">多</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">多</font></font>
 
 314
 00:00:47,570 --> 00:00:48,080
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">た</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">た</font></font>
 
 315
 00:00:47,720 --> 00:00:50,350
-<font face="Khalid Art bold" size="47">{\an4}<font color="#000000">التدقيق اللغوي{subtitle editing}</font></font>
+<font face="Khalid Art bold" size="47"><font color="#000000">التدقيق اللغوي</font></font>
 
 316
 00:00:47,720 --> 00:00:50,350
-<font face="Khalid Art bold" size="47">{\an4}التدقيق اللغوي</font>
+<font face="Khalid Art bold" size="47">التدقيق اللغوي</font>
 
 317
 00:00:47,720 --> 00:00:50,350
-<font face="FOT-Greco Std DB Strp" size="39">{\an7}<font color="#000000">Rocks D.Xebec
+<font face="FOT-Greco Std DB Strp" size="39"><font color="#000000">Rocks D.Xebec
 Qasim
 Ibfinity</font></font>
 
 318
 00:00:47,720 --> 00:00:50,350
-<font face="FOT-Greco Std DB Strp" size="39">{\an7}Rocks D.Xebec
+<font face="FOT-Greco Std DB Strp" size="39">Rocks D.Xebec
 Qasim
 Ibfinity</font>
 
 319
 00:00:47,720 --> 00:00:50,350
-<font face="FOT-Greco Std DB Strp" size="39">{\an7}Rocks D.Xebec
+<font face="FOT-Greco Std DB Strp" size="39">Rocks D.Xebec
 Qasim
 Ibfinity</font>
 
 320
 00:00:47,780 --> 00:00:49,190
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">数</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">数</font></font>
 
 321
 00:00:47,780 --> 00:00:49,190
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">す</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">す</font></font>
 
 322
 00:00:48,890 --> 00:00:49,340
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">数</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">数</font></font>
 
 323
 00:00:48,890 --> 00:00:49,340
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">う</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">う</font></font>
 
 324
 00:00:49,040 --> 00:00:49,530
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">決</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">決</font></font>
 
 325
 00:00:49,040 --> 00:00:49,530
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">け</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">け</font></font>
 
 326
 00:00:49,230 --> 00:00:50,340
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">決</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">決</font></font>
 
 327
 00:00:49,230 --> 00:00:50,340
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">つ</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">つ</font></font>
 
 328
 00:00:51,060 --> 00:00:51,360
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998"></font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
 
 329
 00:00:51,090 --> 00:00:51,360
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998"></font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
 
 330
 00:00:51,120 --> 00:00:51,540
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">こ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">こ</font></font>
 
 331
 00:00:51,150 --> 00:00:51,740
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">の</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">の</font></font>
 
 332
 00:00:51,180 --> 00:00:51,830
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">世</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">世</font></font>
 
 333
 00:00:51,180 --> 00:00:51,830
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">せ</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">せ</font></font>
 
 334
 00:00:51,210 --> 00:00:52,050
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">界</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">界</font></font>
 
 335
 00:00:51,210 --> 00:00:52,050
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">か</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">か</font></font>
 
 336
 00:00:51,210 --> 00:00:52,220
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">い</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">い</font></font>
 
 337
 00:00:51,240 --> 00:00:52,530
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">の</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">の</font></font>
 
 338
 00:00:51,270 --> 00:00:52,700
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">果</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">果</font></font>
 
 339
 00:00:51,270 --> 00:00:52,700
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">は</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">は</font></font>
 
 340
 00:00:51,300 --> 00:00:53,090
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">て</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">て</font></font>
 
 341
 00:00:51,330 --> 00:00:53,420
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">な</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">な</font></font>
 
 342
 00:00:51,360 --> 00:00:57,410
@@ -1380,227 +1380,227 @@ Ibfinity</font>
 
 343
 00:00:51,360 --> 00:00:53,680
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">ん</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">ん</font></font>
 
 344
 00:00:51,390 --> 00:00:53,850
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">て</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">て</font></font>
 
 345
 00:00:51,540 --> 00:00:52,040
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">こ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">こ</font></font>
 
 346
 00:00:51,740 --> 00:00:52,130
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">の</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">の</font></font>
 
 347
 00:00:51,830 --> 00:00:52,350
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">世</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">世</font></font>
 
 348
 00:00:51,830 --> 00:00:52,350
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">せ</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">せ</font></font>
 
 349
 00:00:52,050 --> 00:00:52,520
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">界</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">界</font></font>
 
 350
 00:00:52,050 --> 00:00:52,520
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">か</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">か</font></font>
 
 351
 00:00:52,220 --> 00:00:52,830
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">界</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">界</font></font>
 
 352
 00:00:52,220 --> 00:00:52,830
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">い</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">い</font></font>
 
 353
 00:00:52,530 --> 00:00:53,000
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">の</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">の</font></font>
 
 354
 00:00:52,700 --> 00:00:53,390
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">果</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">果</font></font>
 
 355
 00:00:52,700 --> 00:00:53,390
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">は</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">は</font></font>
 
 356
 00:00:53,090 --> 00:00:53,720
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">て</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">て</font></font>
 
 357
 00:00:53,420 --> 00:00:53,980
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">な</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">な</font></font>
 
 358
 00:00:53,680 --> 00:00:54,150
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">ん</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">ん</font></font>
 
 359
 00:00:53,770 --> 00:00:54,070
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998"></font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
 
 360
 00:00:53,800 --> 00:00:54,070
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998"></font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
 
 361
 00:00:53,830 --> 00:00:54,210
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">こ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">こ</font></font>
 
 362
 00:00:53,850 --> 00:00:54,380
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">て</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">て</font></font>
 
 363
 00:00:53,860 --> 00:00:54,380
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">の</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">の</font></font>
 
 364
 00:00:53,890 --> 00:00:54,570
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">目</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">目</font></font>
 
 365
 00:00:53,890 --> 00:00:54,570
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">め</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">め</font></font>
 
 366
 00:00:53,920 --> 00:00:54,710
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">で</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">で</font></font>
 
 367
 00:00:53,950 --> 00:00:54,870
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">見</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">見</font></font>
 
 368
 00:00:53,950 --> 00:00:54,870
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">み</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">み</font></font>
 
 369
 00:00:53,980 --> 00:00:55,190
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">た</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">た</font></font>
 
 370
 00:00:54,010 --> 00:00:55,410
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">わ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">わ</font></font>
 
 371
 00:00:54,040 --> 00:00:55,690
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">け</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">け</font></font>
 
 372
 00:00:54,070 --> 00:00:56,040
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">じゃ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">じゃ</font></font>
 
 373
 00:00:54,100 --> 00:00:56,380
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">な</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">な</font></font>
 
 374
 00:00:54,130 --> 00:00:56,720
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">い</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">い</font></font>
 
 375
 00:00:54,210 --> 00:00:54,680
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">こ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">こ</font></font>
 
 376
 00:00:54,380 --> 00:00:54,870
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">の</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">の</font></font>
 
 377
 00:00:54,570 --> 00:00:55,010
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">目</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">目</font></font>
 
 378
 00:00:54,570 --> 00:00:55,010
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">め</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">め</font></font>
 
 379
 00:00:54,710 --> 00:00:55,170
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">で</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">で</font></font>
 
 380
 00:00:54,870 --> 00:00:55,490
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">見</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">見</font></font>
 
 381
 00:00:54,870 --> 00:00:55,490
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">み</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">み</font></font>
 
 382
 00:00:55,190 --> 00:00:55,710
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">た</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">た</font></font>
 
 383
 00:00:55,410 --> 00:00:55,990
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">わ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">わ</font></font>
 
 384
 00:00:55,690 --> 00:00:56,340
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">け</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">け</font></font>
 
 385
 00:00:56,040 --> 00:00:56,680
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">じゃ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">じゃ</font></font>
 
 386
 00:00:56,380 --> 00:00:57,020
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">な</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">な</font></font>
 
 387
 00:00:56,720 --> 00:00:57,710
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">い</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">い</font></font>
 
 388
 00:00:57,110 --> 00:00:57,410
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998"></font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
 
 389
 00:00:57,140 --> 00:00:57,410
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998"></font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
 
 390
 00:00:57,170 --> 00:00:57,550
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">だ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">だ</font></font>
 
 391
 00:00:57,200 --> 00:00:57,700
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">か</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">か</font></font>
 
 392
 00:00:57,230 --> 00:00:57,880
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">ら</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">ら</font></font>
 
 393
 00:00:57,260 --> 00:00:58,080
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">行</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">行</font></font>
 
 394
 00:00:57,260 --> 00:00:58,080
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">い</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">い</font></font>
 
 395
 00:00:57,290 --> 00:00:58,220
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">こ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">こ</font></font>
 
 396
 00:00:57,320 --> 00:00:58,710
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">う</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">う</font></font>
 
 397
 00:00:57,350 --> 00:00:58,860
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">ぜ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">ぜ</font></font>
 
 398
 00:00:57,380 --> 00:00:59,230
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998"></font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
 
 399
 00:00:57,410 --> 00:01:01,960
@@ -1608,163 +1608,163 @@ Ibfinity</font>
 
 400
 00:00:57,410 --> 00:00:59,560
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">ア</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">ア</font></font>
 
 401
 00:00:57,440 --> 00:00:59,870
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">マ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">マ</font></font>
 
 402
 00:00:57,470 --> 00:01:00,210
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">ノ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">ノ</font></font>
 
 403
 00:00:57,500 --> 00:01:00,510
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">ジャ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">ジャ</font></font>
 
 404
 00:00:57,530 --> 00:01:00,850
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">ッ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">ッ</font></font>
 
 405
 00:00:57,550 --> 00:00:58,000
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">だ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">だ</font></font>
 
 406
 00:00:57,560 --> 00:01:01,130
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">ク</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">ク</font></font>
 
 407
 00:00:57,590 --> 00:01:01,290
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">船</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">船</font></font>
 
 408
 00:00:57,590 --> 00:01:01,290
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">せん</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">せん</font></font>
 
 409
 00:00:57,620 --> 00:01:01,680
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">長</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">長</font></font>
 
 410
 00:00:57,620 --> 00:01:01,680
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">ちょう</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">ちょう</font></font>
 
 411
 00:00:57,700 --> 00:00:58,180
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">か</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">か</font></font>
 
 412
 00:00:57,880 --> 00:00:58,380
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">ら</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">ら</font></font>
 
 413
 00:00:58,080 --> 00:00:58,520
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">行</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">行</font></font>
 
 414
 00:00:58,080 --> 00:00:58,520
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">い</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">い</font></font>
 
 415
 00:00:58,220 --> 00:00:59,010
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">こ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">こ</font></font>
 
 416
 00:00:58,710 --> 00:00:59,160
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">う</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">う</font></font>
 
 417
 00:00:58,860 --> 00:00:59,530
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">ぜ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">ぜ</font></font>
 
 418
 00:00:59,560 --> 00:01:00,170
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">ア</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">ア</font></font>
 
 419
 00:00:59,870 --> 00:01:00,510
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">マ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">マ</font></font>
 
 420
 00:01:00,210 --> 00:01:00,810
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">ノ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">ノ</font></font>
 
 421
 00:01:00,510 --> 00:01:01,150
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">ジャ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">ジャ</font></font>
 
 422
 00:01:00,850 --> 00:01:01,430
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">ッ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">ッ</font></font>
 
 423
 00:01:01,130 --> 00:01:01,590
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">ク</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">ク</font></font>
 
 424
 00:01:01,290 --> 00:01:01,980
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">船</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">船</font></font>
 
 425
 00:01:01,290 --> 00:01:01,980
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">せん</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">せん</font></font>
 
 426
 00:01:01,660 --> 00:01:01,960
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998"></font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
 
 427
 00:01:01,680 --> 00:01:02,260
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">長</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">長</font></font>
 
 428
 00:01:01,680 --> 00:01:02,260
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">ちょう</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">ちょう</font></font>
 
 429
 00:01:01,690 --> 00:01:01,960
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998"></font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
 
 430
 00:01:01,720 --> 00:01:02,230
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">出</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">出</font></font>
 
 431
 00:01:01,720 --> 00:01:02,230
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">で</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">で</font></font>
 
 432
 00:01:01,750 --> 00:01:02,360
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">来</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">来</font></font>
 
 433
 00:01:01,750 --> 00:01:02,360
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">き</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">き</font></font>
 
 434
 00:01:01,780 --> 00:01:02,520
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">や</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">や</font></font>
 
 435
 00:01:01,810 --> 00:01:02,620
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">し</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">し</font></font>
 
 436
 00:01:01,840 --> 00:01:02,880
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">な</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">な</font></font>
 
 437
 00:01:01,870 --> 00:01:03,170
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">い</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">い</font></font>
 
 438
 00:01:01,900 --> 00:01:03,380
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">こ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">こ</font></font>
 
 439
 00:01:01,930 --> 00:01:03,730
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">と</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">と</font></font>
 
 440
 00:01:01,960 --> 00:01:04,720
@@ -1772,139 +1772,139 @@ Ibfinity</font>
 
 441
 00:01:01,960 --> 00:01:04,040
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">って</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">って</font></font>
 
 442
 00:01:01,990 --> 00:01:04,390
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">何</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">何</font></font>
 
 443
 00:01:01,990 --> 00:01:04,390
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">な</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">な</font></font>
 
 444
 00:01:01,990 --> 00:01:04,540
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">に</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">に</font></font>
 
 445
 00:01:02,020 --> 00:01:04,720
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">？</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">？</font></font>
 
 446
 00:01:02,230 --> 00:01:02,660
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">出</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">出</font></font>
 
 447
 00:01:02,230 --> 00:01:02,660
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">で</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">で</font></font>
 
 448
 00:01:02,360 --> 00:01:02,820
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">来</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">来</font></font>
 
 449
 00:01:02,360 --> 00:01:02,820
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">き</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">き</font></font>
 
 450
 00:01:02,520 --> 00:01:02,920
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">や</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">や</font></font>
 
 451
 00:01:02,620 --> 00:01:03,180
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">し</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">し</font></font>
 
 452
 00:01:02,880 --> 00:01:03,470
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">な</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">な</font></font>
 
 453
 00:01:03,170 --> 00:01:03,680
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">い</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">い</font></font>
 
 454
 00:01:03,380 --> 00:01:04,030
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">こ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">こ</font></font>
 
 455
 00:01:03,730 --> 00:01:04,340
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">と</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">と</font></font>
 
 456
 00:01:04,040 --> 00:01:04,690
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">って</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">って</font></font>
 
 457
 00:01:04,390 --> 00:01:04,840
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">何</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">何</font></font>
 
 458
 00:01:04,390 --> 00:01:04,840
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">な</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">な</font></font>
 
 459
 00:01:04,410 --> 00:01:04,710
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998"></font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
 
 460
 00:01:04,440 --> 00:01:04,710
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998"></font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
 
 461
 00:01:04,470 --> 00:01:04,860
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">ま</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">ま</font></font>
 
 462
 00:01:04,500 --> 00:01:05,020
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">だ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">だ</font></font>
 
 463
 00:01:04,530 --> 00:01:05,210
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">何</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">何</font></font>
 
 464
 00:01:04,530 --> 00:01:05,210
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">な</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">な</font></font>
 
 465
 00:01:04,530 --> 00:01:05,370
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">に</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">に</font></font>
 
 466
 00:01:04,540 --> 00:01:05,020
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">何</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">何</font></font>
 
 467
 00:01:04,540 --> 00:01:05,020
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">に</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">に</font></font>
 
 468
 00:01:04,560 --> 00:01:05,530
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">も</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">も</font></font>
 
 469
 00:01:04,590 --> 00:01:05,870
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">始</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">始</font></font>
 
 470
 00:01:04,590 --> 00:01:05,870
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">は</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">は</font></font>
 
 471
 00:01:04,590 --> 00:01:05,990
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">じ</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">じ</font></font>
 
 472
 00:01:04,620 --> 00:01:06,320
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">ま</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">ま</font></font>
 
 473
 00:01:04,650 --> 00:01:06,690
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">って</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">って</font></font>
 
 474
 00:01:04,680 --> 00:01:07,010
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">な</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">な</font></font>
 
 475
 00:01:04,710 --> 00:01:07,750
@@ -1912,95 +1912,95 @@ Ibfinity</font>
 
 476
 00:01:04,710 --> 00:01:07,340
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">い</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">い</font></font>
 
 477
 00:01:04,860 --> 00:01:05,320
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">ま</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">ま</font></font>
 
 478
 00:01:05,020 --> 00:01:05,510
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">だ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">だ</font></font>
 
 479
 00:01:05,210 --> 00:01:05,670
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">何</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">何</font></font>
 
 480
 00:01:05,210 --> 00:01:05,670
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">な</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">な</font></font>
 
 481
 00:01:05,370 --> 00:01:05,830
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">何</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">何</font></font>
 
 482
 00:01:05,370 --> 00:01:05,830
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">に</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">に</font></font>
 
 483
 00:01:05,530 --> 00:01:06,170
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">も</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">も</font></font>
 
 484
 00:01:05,870 --> 00:01:06,290
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">始</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">始</font></font>
 
 485
 00:01:05,870 --> 00:01:06,290
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">は</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">は</font></font>
 
 486
 00:01:05,990 --> 00:01:06,620
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">始</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">始</font></font>
 
 487
 00:01:05,990 --> 00:01:06,620
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">じ</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">じ</font></font>
 
 488
 00:01:06,320 --> 00:01:06,990
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">ま</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">ま</font></font>
 
 489
 00:01:06,690 --> 00:01:07,310
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">って</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">って</font></font>
 
 490
 00:01:07,010 --> 00:01:07,640
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">な</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">な</font></font>
 
 491
 00:01:07,340 --> 00:01:08,190
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">い</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">い</font></font>
 
 492
 00:01:07,580 --> 00:01:07,880
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998"></font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
 
 493
 00:01:07,610 --> 00:01:07,880
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998"></font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
 
 494
 00:01:07,640 --> 00:01:08,150
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">す</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">す</font></font>
 
 495
 00:01:07,670 --> 00:01:08,380
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">べ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">べ</font></font>
 
 496
 00:01:07,700 --> 00:01:08,510
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">て</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">て</font></font>
 
 497
 00:01:07,730 --> 00:01:08,620
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">知</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">知</font></font>
 
 498
 00:01:07,730 --> 00:01:08,620
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">し</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">し</font></font>
 
 499
 00:01:07,750 --> 00:01:12,720
@@ -2008,159 +2008,159 @@ Ibfinity</font>
 
 500
 00:01:07,760 --> 00:01:08,910
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">り</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">り</font></font>
 
 501
 00:01:07,790 --> 00:01:09,200
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">た</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">た</font></font>
 
 502
 00:01:07,820 --> 00:01:09,390
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">い</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">い</font></font>
 
 503
 00:01:07,850 --> 00:01:09,700
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">ん</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">ん</font></font>
 
 504
 00:01:07,880 --> 00:01:10,010
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">だ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">だ</font></font>
 
 505
 00:01:07,910 --> 00:01:10,410
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998"></font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
 
 506
 00:01:07,940 --> 00:01:10,870
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">今</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">今</font></font>
 
 507
 00:01:07,940 --> 00:01:10,870
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">い</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">い</font></font>
 
 508
 00:01:07,940 --> 00:01:11,200
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">ま</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">ま</font></font>
 
 509
 00:01:07,970 --> 00:01:11,490
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">イエス・</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">イエス・</font></font>
 
 510
 00:01:08,000 --> 00:01:12,040
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">ウィー</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">ウィー</font></font>
 
 511
 00:01:08,030 --> 00:01:12,330
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">キャン！</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">キャン！</font></font>
 
 512
 00:01:08,150 --> 00:01:08,680
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">す</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">す</font></font>
 
 513
 00:01:08,380 --> 00:01:08,810
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">べ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">べ</font></font>
 
 514
 00:01:08,510 --> 00:01:08,920
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">て</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">て</font></font>
 
 515
 00:01:08,620 --> 00:01:09,210
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">知</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">知</font></font>
 
 516
 00:01:08,620 --> 00:01:09,210
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">し</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">し</font></font>
 
 517
 00:01:08,910 --> 00:01:09,500
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">り</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">り</font></font>
 
 518
 00:01:09,200 --> 00:01:09,690
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">た</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">た</font></font>
 
 519
 00:01:09,390 --> 00:01:10,000
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">い</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">い</font></font>
 
 520
 00:01:09,700 --> 00:01:10,310
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">ん</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">ん</font></font>
 
 521
 00:01:10,010 --> 00:01:10,710
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">だ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">だ</font></font>
 
 522
 00:01:10,870 --> 00:01:11,500
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">今</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">今</font></font>
 
 523
 00:01:10,870 --> 00:01:11,500
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">い</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">い</font></font>
 
 524
 00:01:11,200 --> 00:01:11,790
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">今</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">今</font></font>
 
 525
 00:01:11,200 --> 00:01:11,790
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">ま</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">ま</font></font>
 
 526
 00:01:11,490 --> 00:01:12,340
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">イエス・</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">イエス・</font></font>
 
 527
 00:01:12,040 --> 00:01:12,630
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">ウィー</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">ウィー</font></font>
 
 528
 00:01:12,330 --> 00:01:13,020
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">キャン！</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">キャン！</font></font>
 
 529
 00:01:12,420 --> 00:01:12,720
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998"></font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
 
 530
 00:01:12,450 --> 00:01:12,720
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998"></font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
 
 531
 00:01:12,480 --> 00:01:12,770
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">イエス</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">イエス</font></font>
 
 532
 00:01:12,510 --> 00:01:13,510
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">・</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">・</font></font>
 
 533
 00:01:12,540 --> 00:01:13,920
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">ウィー</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">ウィー</font></font>
 
 534
 00:01:12,570 --> 00:01:14,180
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">キャン！</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">キャン！</font></font>
 
 535
 00:01:12,600 --> 00:01:14,620
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998"></font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
 
 536
 00:01:12,630 --> 00:01:15,190
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">ユー・</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">ユー・</font></font>
 
 537
 00:01:12,660 --> 00:01:15,550
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">キャン！</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">キャン！</font></font>
 
 538
 00:01:12,690 --> 00:01:16,210
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">こ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">こ</font></font>
 
 539
 00:01:12,720 --> 00:01:18,680
@@ -2168,143 +2168,143 @@ Ibfinity</font>
 
 540
 00:01:12,720 --> 00:01:16,870
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">の</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">の</font></font>
 
 541
 00:01:12,750 --> 00:01:17,110
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">瞬</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">瞬</font></font>
 
 542
 00:01:12,750 --> 00:01:17,110
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">しゅ</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">しゅ</font></font>
 
 543
 00:01:12,750 --> 00:01:17,520
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">ん</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">ん</font></font>
 
 544
 00:01:12,770 --> 00:01:13,810
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">イエス</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">イエス</font></font>
 
 545
 00:01:12,780 --> 00:01:17,860
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">間</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">間</font></font>
 
 546
 00:01:12,780 --> 00:01:17,860
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">か</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">か</font></font>
 
 547
 00:01:12,780 --> 00:01:18,160
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">ん</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">ん</font></font>
 
 548
 00:01:13,510 --> 00:01:14,220
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">・</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">・</font></font>
 
 549
 00:01:13,920 --> 00:01:14,480
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">ウィー</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">ウィー</font></font>
 
 550
 00:01:14,180 --> 00:01:14,920
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">キャン！</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">キャン！</font></font>
 
 551
 00:01:15,190 --> 00:01:15,850
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">ユー・</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">ユー・</font></font>
 
 552
 00:01:15,550 --> 00:01:16,510
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">キャン！</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">キャン！</font></font>
 
 553
 00:01:16,210 --> 00:01:17,170
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">こ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">こ</font></font>
 
 554
 00:01:16,870 --> 00:01:17,410
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">の</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">の</font></font>
 
 555
 00:01:17,110 --> 00:01:17,820
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">瞬</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">瞬</font></font>
 
 556
 00:01:17,110 --> 00:01:17,820
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">しゅ</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">しゅ</font></font>
 
 557
 00:01:17,520 --> 00:01:18,160
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">瞬</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">瞬</font></font>
 
 558
 00:01:17,520 --> 00:01:18,160
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">ん</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">ん</font></font>
 
 559
 00:01:17,860 --> 00:01:18,460
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">間</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">間</font></font>
 
 560
 00:01:17,860 --> 00:01:18,460
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">か</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">か</font></font>
 
 561
 00:01:18,160 --> 00:01:18,980
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">間</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">間</font></font>
 
 562
 00:01:18,160 --> 00:01:18,980
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">ん</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">ん</font></font>
 
 563
 00:01:18,760 --> 00:01:19,060
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998"></font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
 
 564
 00:01:18,790 --> 00:01:19,060
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998"></font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
 
 565
 00:01:18,820 --> 00:01:19,200
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">ウィー</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">ウィー</font></font>
 
 566
 00:01:18,850 --> 00:01:19,510
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">キャン！</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">キャン！</font></font>
 
 567
 00:01:18,880 --> 00:01:19,940
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998"></font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
 
 568
 00:01:18,910 --> 00:01:20,530
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">アイ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">アイ</font></font>
 
 569
 00:01:18,940 --> 00:01:20,880
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">キャン！</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">キャン！</font></font>
 
 570
 00:01:18,970 --> 00:01:21,500
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">こ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">こ</font></font>
 
 571
 00:01:19,000 --> 00:01:22,190
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">の</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">の</font></font>
 
 572
 00:01:19,030 --> 00:01:22,490
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">快</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">快</font></font>
 
 573
 00:01:19,030 --> 00:01:22,490
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">か</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">か</font></font>
 
 574
 00:01:19,030 --> 00:01:22,850
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">い</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">い</font></font>
 
 575
 00:01:19,060 --> 00:01:24,100
@@ -2312,127 +2312,127 @@ Ibfinity</font>
 
 576
 00:01:19,060 --> 00:01:23,160
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">感</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">感</font></font>
 
 577
 00:01:19,060 --> 00:01:23,160
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">か</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">か</font></font>
 
 578
 00:01:19,060 --> 00:01:23,510
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">ん</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">ん</font></font>
 
 579
 00:01:19,200 --> 00:01:19,810
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">ウィー</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">ウィー</font></font>
 
 580
 00:01:19,510 --> 00:01:20,240
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">キャン！</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">キャン！</font></font>
 
 581
 00:01:20,530 --> 00:01:21,180
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">アイ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">アイ</font></font>
 
 582
 00:01:20,880 --> 00:01:21,800
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">キャン！</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">キャン！</font></font>
 
 583
 00:01:21,500 --> 00:01:22,490
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">こ</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">こ</font></font>
 
 584
 00:01:22,190 --> 00:01:22,790
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">の</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">の</font></font>
 
 585
 00:01:22,490 --> 00:01:23,150
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">快</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">快</font></font>
 
 586
 00:01:22,490 --> 00:01:23,150
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">か</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">か</font></font>
 
 587
 00:01:22,850 --> 00:01:23,460
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">快</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">快</font></font>
 
 588
 00:01:22,850 --> 00:01:23,460
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">い</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">い</font></font>
 
 589
 00:01:23,160 --> 00:01:23,810
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">感</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">感</font></font>
 
 590
 00:01:23,160 --> 00:01:23,810
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">か</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">か</font></font>
 
 591
 00:01:23,510 --> 00:01:24,400
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">感</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">感</font></font>
 
 592
 00:01:23,510 --> 00:01:24,400
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">ん</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">ん</font></font>
 
 593
 00:01:24,090 --> 00:01:24,390
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998"></font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
 
 594
 00:01:24,120 --> 00:01:24,390
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998"></font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
 
 595
 00:01:24,150 --> 00:01:24,540
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">今</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">今</font></font>
 
 596
 00:01:24,150 --> 00:01:24,540
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">い</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">い</font></font>
 
 597
 00:01:24,150 --> 00:01:24,860
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">ま</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">ま</font></font>
 
 598
 00:01:24,180 --> 00:01:25,340
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998"></font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
 
 599
 00:01:24,210 --> 00:01:25,870
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">今</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">今</font></font>
 
 600
 00:01:24,210 --> 00:01:25,870
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">い</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">い</font></font>
 
 601
 00:01:24,210 --> 00:01:26,210
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#4e5998">ま</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#4e5998">ま</font></font>
 
 602
 00:01:24,240 --> 00:01:26,870
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998"></font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
 
 603
 00:01:24,270 --> 00:01:26,870
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">オー・</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">オー・</font></font>
 
 604
 00:01:24,300 --> 00:01:27,470
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">イエス・</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">イエス・</font></font>
 
 605
 00:01:24,330 --> 00:01:28,870
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">ウィー</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">ウィー</font></font>
 
 606
 00:01:24,360 --> 00:01:30,160
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">キャン！</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">キャン！</font></font>
 
 607
 00:01:24,390 --> 00:01:31,320
@@ -2440,103 +2440,103 @@ Ibfinity</font>
 
 608
 00:01:24,540 --> 00:01:25,160
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">今</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">今</font></font>
 
 609
 00:01:24,540 --> 00:01:25,160
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">い</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">い</font></font>
 
 610
 00:01:24,860 --> 00:01:25,640
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">今</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">今</font></font>
 
 611
 00:01:24,860 --> 00:01:25,640
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">ま</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">ま</font></font>
 
 612
 00:01:25,870 --> 00:01:26,510
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">今</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">今</font></font>
 
 613
 00:01:25,870 --> 00:01:26,510
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">い</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">い</font></font>
 
 614
 00:01:26,210 --> 00:01:27,170
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">今</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">今</font></font>
 
 615
 00:01:26,210 --> 00:01:27,170
-<font face="Duality" size="27" color="#4e5998">{\an8}<font color="#ffffff">ま</font></font>
+<font face="Duality" size="27" color="#4e5998"><font color="#ffffff">ま</font></font>
 
 616
 00:01:26,490 --> 00:01:28,580
-<font face="FOT-Greco Std DB Strp" size="39">{\an7}{Credit Here}</font>
+<font face="FOT-Greco Std DB Strp" size="39"></font>
 
 617
 00:01:26,870 --> 00:01:27,770
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">オー・</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">オー・</font></font>
 
 618
 00:01:27,470 --> 00:01:29,170
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">イエス・</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">イエス・</font></font>
 
 619
 00:01:28,870 --> 00:01:30,460
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">ウィー</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">ウィー</font></font>
 
 620
 00:01:30,130 --> 00:01:32,750
-<font face="FOT-Greco Std DB Strp" size="39">{\an7}{Credit Here}</font>
+<font face="FOT-Greco Std DB Strp" size="39"></font>
 
 621
 00:01:30,160 --> 00:01:31,620
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">キャン！</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">キャン！</font></font>
 
 622
 00:01:32,900 --> 00:01:37,390
-<font face="Khalid Art bold" size="47">{\an4}<font color="#000000">ترجمة</font></font>
+<font face="Khalid Art bold" size="47"><font color="#000000">ترجمة</font></font>
 
 623
 00:01:32,900 --> 00:01:37,390
-<font face="Khalid Art bold" size="47">{\an4}ترجمة</font>
+<font face="Khalid Art bold" size="47">ترجمة</font>
 
 624
 00:01:32,900 --> 00:01:37,390
-<font face="Khalid Art bold" size="47">{\an4}ترجمة</font>
+<font face="Khalid Art bold" size="47">ترجمة</font>
 
 625
 00:01:32,900 --> 00:01:37,390
-<font face="FOT-Greco Std DB Strp" size="39">{\an7}<font color="#000000">Al-Phantom</font></font>
+<font face="FOT-Greco Std DB Strp" size="39"><font color="#000000">Al-Phantom</font></font>
 
 626
 00:01:32,900 --> 00:01:37,390
-<font face="FOT-Greco Std DB Strp" size="39">{\an7}Al-Phantom</font>
+<font face="FOT-Greco Std DB Strp" size="39">Al-Phantom</font>
 
 627
 00:01:32,900 --> 00:01:37,390
-<font face="FOT-Greco Std DB Strp" size="39">{\an7}Al-Phantom</font>
+<font face="FOT-Greco Std DB Strp" size="39">Al-Phantom</font>
 
 628
 00:01:37,040 --> 00:01:37,340
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998"></font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
 
 629
 00:01:37,070 --> 00:01:37,340
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998"></font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998"></font></font>
 
 630
 00:01:37,100 --> 00:01:37,410
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">イエス・</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">イエス・</font></font>
 
 631
 00:01:37,130 --> 00:01:37,760
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">ウィー</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">ウィー</font></font>
 
 632
 00:01:37,160 --> 00:01:37,890
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#4e5998">キャン！</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#4e5998">キャン！</font></font>
 
 633
 00:01:37,340 --> 00:01:38,640
@@ -2544,15 +2544,15 @@ Ibfinity</font>
 
 634
 00:01:37,410 --> 00:01:38,060
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">イエス・</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">イエス・</font></font>
 
 635
 00:01:37,760 --> 00:01:38,190
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">ウィー</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">ウィー</font></font>
 
 636
 00:01:37,890 --> 00:01:38,940
-<font face="Duality" size="55" color="#4e5998">{\an8}<font color="#ffffff">キャン！</font></font>
+<font face="Duality" size="55" color="#4e5998"><font color="#ffffff">キャン！</font></font>
 
 637
 00:01:42,280 --> 00:01:51,750
@@ -2568,7 +2568,7 @@ Ibfinity</font>
 
 640
 00:02:07,540 --> 00:02:11,420
-<font face="Bahij Nassim" size="75"><b>{بالمناسبة، هل قرأت الماع سابقًا؟}بالمناسبة، هل قرأت الماع من قبل؟</b></font>
+<font face="Bahij Nassim" size="75"><b>بالمناسبة، هل قرأت الماع من قبل؟</b></font>
 
 641
 00:02:11,420 --> 00:02:15,680
@@ -2581,7 +2581,7 @@ Ibfinity</font>
 
 643
 00:02:18,380 --> 00:02:21,240
-<font face="Bahij Nassim" size="75"><b>{!كانت توجد تلك القصة المصورة في الماع}!كانت في الماع تلك القصة المصورة</b></font>
+<font face="Bahij Nassim" size="75"><b>!كانت في الماع تلك القصة المصورة</b></font>
 
 644
 00:02:21,240 --> 00:02:25,700
@@ -2607,7 +2607,7 @@ Ibfinity</font>
 
 649
 00:02:41,390 --> 00:02:43,720
-<font face="Bahij Nassim" size="75"><b>!له معجبون من جميع أنحاء العالم{ترجمة-الموقع}</b></font>
+<font face="Bahij Nassim" size="75"><b>!له معجبون من جميع أنحاء العالم</b></font>
 
 650
 00:02:43,720 --> 00:02:50,770
@@ -2615,7 +2615,7 @@ Ibfinity</font>
 
 651
 00:02:50,810 --> 00:02:58,740
-<font face="AD-Rsail" size="41"><b>{\an8}<font size="60"><font color="#000000">"البحرية"</font></font></b></font>
+<font face="AD-Rsail" size="41"><b><font size="60"><font color="#000000">"البحرية"</font></font></b></font>
 
 652
 00:02:51,240 --> 00:02:54,480
@@ -2623,7 +2623,7 @@ Ibfinity</font>
 
 653
 00:02:54,480 --> 00:02:57,690
-<font face="Bahij Nassim" size="75"><b>{!"لتعليمهم بأن "البحرية دائماً محقةٌ و قوية}!"لتعليمهم بأن "البحرية دائمًا على الحق وقوية</b></font>
+<font face="Bahij Nassim" size="75"><b>!"لتعليمهم بأن "البحرية دائمًا على الحق وقوية</b></font>
 
 654
 00:02:58,690 --> 00:03:02,450
@@ -2635,7 +2635,7 @@ Ibfinity</font>
 
 656
 00:03:06,080 --> 00:03:11,290
-<font face="Bahij Nassim" size="75"><b>{!جيوشهم_الشريرة_التي_تحاصر_سورا_بالزاوية_دائماً_بكل_الطرق_الممكنة}!جيشهم الشرير الذي يحاصر سورا دائمًا وبأي سبيل</b></font>
+<font face="Bahij Nassim" size="75"><b>!جيشهم الشرير الذي يحاصر سورا دائمًا وبأي سبيل</b></font>
 
 657
 00:03:11,290 --> 00:03:14,170
@@ -2677,7 +2677,7 @@ Ibfinity</font>
 
 666
 00:03:49,240 --> 00:03:51,370
-<font face="Hacen Digital Arabia LT" size="45">{\an8}دوور=باب</font>
+<font face="Hacen Digital Arabia LT" size="45">دوور=باب</font>
 
 667
 00:03:59,320 --> 00:04:01,170
@@ -2721,7 +2721,7 @@ Ibfinity</font>
 
 677
 00:04:39,750 --> 00:04:43,720
-<font face="Bahij Nassim" size="75"><b>{\an8}لقد كان لئيمًا مع فيتو للتو</b></font>
+<font face="Bahij Nassim" size="75"><b>لقد كان لئيمًا مع فيتو للتو</b></font>
 
 678
 00:04:41,670 --> 00:04:45,130
@@ -2771,11 +2771,11 @@ Ibfinity</font>
 
 689
 00:05:08,200 --> 00:05:09,820
-<font face="Bahij Nassim" size="75"><b>{يمكنك أن تقول ما تشاء لي}فلتقل ما تشاء عني</b></font>
+<font face="Bahij Nassim" size="75"><b>فلتقل ما تشاء عني</b></font>
 
 690
 00:05:09,820 --> 00:05:12,960
-<font face="Bahij Nassim" size="75"><b>{لكن لا يمكنني احتمال أن يهين أي شخصٍ أصدقائي}ولكن لا أتحمل أن يهين أي شخصٍ أصدقائي</b></font>
+<font face="Bahij Nassim" size="75"><b>ولكن لا أتحمل أن يهين أي شخصٍ أصدقائي</b></font>
 
 691
 00:05:12,960 --> 00:05:16,170
@@ -2787,7 +2787,7 @@ Ibfinity</font>
 
 693
 00:05:19,130 --> 00:05:21,960
-<font face="Bahij Nassim" size="75"><b>{ليس كما لو أنني أرغب بمصادقتك}لم أكن أرغب بمصادقتك أصلًا</b></font>
+<font face="Bahij Nassim" size="75"><b>لم أكن أرغب بمصادقتك أصلًا</b></font>
 
 694
 00:05:21,960 --> 00:05:24,280
@@ -2871,7 +2871,7 @@ Ibfinity</font>
 
 714
 00:07:08,740 --> 00:07:13,200
-<font face="Bahij Nassim" size="75"><b>{\an8}...لا يمكنني الاحتمال أكثر... سأموت</b></font>
+<font face="Bahij Nassim" size="75"><b>...لا يمكنني الاحتمال أكثر... سأموت</b></font>
 
 715
 00:07:12,320 --> 00:07:17,040
@@ -2919,7 +2919,7 @@ Ibfinity</font>
 
 726
 00:07:54,070 --> 00:07:56,490
-<font face="Bahij Nassim" size="75"><b>{it'd be a little bit of a resurrection for me, wouldn't it?}ستكون هذه كعودةٍ للحياة نوعًا ما بالنسبة لي، صحيح؟</b></font>
+<font face="Bahij Nassim" size="75"><b>ستكون هذه كعودةٍ للحياة نوعًا ما بالنسبة لي، صحيح؟</b></font>
 
 727
 00:07:55,780 --> 00:07:56,490
@@ -3007,7 +3007,7 @@ Ibfinity</font>
 
 748
 00:09:32,800 --> 00:09:34,880
-<font face="Bahij Nassim" size="75"><b>{يمكنك فعلها، لوفي}اجتهد يا لوفي</b></font>
+<font face="Bahij Nassim" size="75"><b>اجتهد يا لوفي</b></font>
 
 749
 00:09:34,880 --> 00:09:36,720
@@ -3039,7 +3039,7 @@ Ibfinity</font>
 
 756
 00:10:09,580 --> 00:10:12,120
-<font face="Bahij Nassim" size="75"><b>{لا يبدو لونها جيداً}لونها يبدو غريب</b></font>
+<font face="Bahij Nassim" size="75"><b>لونها يبدو غريب</b></font>
 
 757
 00:10:12,600 --> 00:10:14,170
@@ -3047,7 +3047,7 @@ Ibfinity</font>
 
 758
 00:10:14,170 --> 00:10:16,480
-<font face="Bahij Nassim" size="75"><b>{ماذا تقولون؟ }لا يوجد ما يسمى بسمكٍ لا يصلح للأكل</b></font>
+<font face="Bahij Nassim" size="75"><b>لا يوجد ما يسمى بسمكٍ لا يصلح للأكل</b></font>
 
 759
 00:10:16,480 --> 00:10:19,520
@@ -3203,7 +3203,7 @@ Ibfinity</font>
 
 797
 00:12:38,730 --> 00:12:39,980
-<font face="Bahij Nassim" size="75"><b>نعم{أجل}</b></font>
+<font face="Bahij Nassim" size="75"><b>نعم</b></font>
 
 798
 00:12:39,980 --> 00:12:40,820
@@ -3215,7 +3215,7 @@ Ibfinity</font>
 
 800
 00:12:45,440 --> 00:12:48,430
-<font face="Bahij Nassim" size="75"><b>{يملك-إحدى-أفضل-القوى-الحياتية-من-بين-البشرية-جمعاء}قدرته على البقاء على قيد الحياة من الأفضل في العالم</b></font>
+<font face="Bahij Nassim" size="75"><b>قدرته على البقاء على قيد الحياة من الأفضل في العالم</b></font>
 
 801
 00:12:48,430 --> 00:12:50,730
@@ -3407,7 +3407,7 @@ Ibfinity</font>
 
 848
 00:16:00,230 --> 00:16:01,140
-<font face="Bahij Nassim" size="75"><b>{ماذا؟}</b></font>
+<font face="Bahij Nassim" size="75"><b></b></font>
 
 849
 00:16:26,300 --> 00:16:27,840
@@ -3515,7 +3515,7 @@ Ibfinity</font>
 
 875
 00:19:00,110 --> 00:19:02,700
-<font face="Bahij Nassim" size="75"><b>{\an8}اسمي يونجي</b></font>
+<font face="Bahij Nassim" size="75"><b>اسمي يونجي</b></font>
 
 876
 00:19:01,950 --> 00:19:06,490
@@ -3555,7 +3555,7 @@ Ibfinity</font>
 
 885
 00:19:28,360 --> 00:19:31,230
-<font face="Bahij Nassim" size="75"><b>{ماذا؟ كيف يمكن أن تعلموا بأنه أخوه الأصغر؟}ماذا؟ كيف تعلمون أنه أخوه الأصغر؟</b></font>
+<font face="Bahij Nassim" size="75"><b>ماذا؟ كيف تعلمون أنه أخوه الأصغر؟</b></font>
 
 886
 00:19:33,400 --> 00:19:36,110
@@ -3707,7 +3707,7 @@ Ibfinity</font>
 
 923
 00:21:54,120 --> 00:21:55,660
-<font face="Bahij Nassim" size="75"><b>لوفي-سان{- كلا-}</b></font>
+<font face="Bahij Nassim" size="75"><b>لوفي-سان</b></font>
 
 924
 00:22:07,620 --> 00:22:09,390
@@ -3787,7 +3787,7 @@ Ibfinity</font>
 
 943
 00:23:30,300 --> 00:23:33,260
-<font face="Bahij Nassim" size="75"><b>إنهم فرقةٌ مقاتلةٌ علمية، إن صح التعبير{إن أردتم تسميتهم بهذا}</b></font>
+<font face="Bahij Nassim" size="75"><b>إنهم فرقةٌ مقاتلةٌ علمية، إن صح التعبير</b></font>
 
 944
 00:23:35,560 --> 00:23:37,390
@@ -3815,7 +3815,7 @@ Ibfinity</font>
 
 950
 00:24:02,620 --> 00:24:07,090
-<font face="Bahij Nassim" size="75"><b>{بـ"عائلةٍ مالكة"، }هل تعني بقولك "عائلة مالكة" أنهم مثل فيفي و نيبتون؟</b></font>
+<font face="Bahij Nassim" size="75"><b>هل تعني بقولك "عائلة مالكة" أنهم مثل فيفي و نيبتون؟</b></font>
 
 951
 00:24:08,130 --> 00:24:09,800
@@ -3831,7 +3831,7 @@ Ibfinity</font>
 
 954
 00:24:18,340 --> 00:24:21,270
-<font face="Bahij Nassim" size="75"><b>أيها الهيكل العظمي-سان، إنك ملم بالتاريخ{تملك_الكثير_من_المعرفة_التاريخية}</b></font>
+<font face="Bahij Nassim" size="75"><b>أيها الهيكل العظمي-سان، إنك ملم بالتاريخ</b></font>
 
 955
 00:24:21,270 --> 00:24:23,310
@@ -3839,7 +3839,7 @@ Ibfinity</font>
 
 956
 00:24:23,310 --> 00:24:25,020
-<font face="Bahij Nassim" size="75"><b>{لقد مت الآن ع ذلك}مع أني ميت</b></font>
+<font face="Bahij Nassim" size="75"><b>مع أني ميت</b></font>
 
 957
 00:24:25,020 --> 00:24:32,110
@@ -3859,7 +3859,7 @@ Ibfinity</font>
 
 961
 00:24:45,630 --> 00:24:50,340
-<font face="Bahij Nassim" size="75"><b>إن كان الأمر هكذا، هل تسمحين لي ب{يمكنني }رؤية ملابسك الداخلية؟</b></font>
+<font face="Bahij Nassim" size="75"><b>إن كان الأمر هكذا، هل تسمحين لي برؤية ملابسك الداخلية؟</b></font>
 
 962
 00:24:51,420 --> 00:24:52,880
@@ -3903,7 +3903,7 @@ Ibfinity</font>
 
 972
 00:25:37,920 --> 00:25:40,680
-<font face="Bahij Nassim" size="75"><b>{أحد أشيائي }من أكلاتي المفضلة...</b></font>
+<font face="Bahij Nassim" size="75"><b>من أكلاتي المفضلة...</b></font>
 
 973
 00:25:43,640 --> 00:25:45,640
@@ -3935,7 +3935,7 @@ Ibfinity</font>
 
 980
 00:26:33,270 --> 00:26:34,320
-<font face="Bahij Nassim" size="75"><b>{ماذا؟}</b></font>
+<font face="Bahij Nassim" size="75"><b></b></font>
 
 981
 00:27:05,640 --> 00:27:09,190
@@ -3951,7 +3951,7 @@ Ibfinity</font>
 
 984
 00:27:12,360 --> 00:27:16,210
-<font face="Hacen Digital Arabia LT" size="45">{\an8}بويزن بينك : السم الوردي</font>
+<font face="Hacen Digital Arabia LT" size="45">بويزن بينك : السم الوردي</font>
 
 985
 00:27:17,320 --> 00:27:18,860
@@ -3995,7 +3995,7 @@ Ibfinity</font>
 
 995
 00:27:56,610 --> 00:27:59,440
-<font face="Bahij Nassim" size="75"><b>أوه؟ هل نمت وأنا آكل السمك؟ {بينما }</b></font>
+<font face="Bahij Nassim" size="75"><b>أوه؟ هل نمت وأنا آكل السمك؟ </b></font>
 
 996
 00:27:59,440 --> 00:28:02,960

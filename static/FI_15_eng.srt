@@ -33,7 +33,7 @@ the legendary Pirate King Gold Roger.</i></font>
 
 9
 00:02:29,720 --> 00:02:37,170
-<font face="Agency FB" size="63" color="#fefefe"><b>{\an5}Hody's Dark Secret!
+<font face="Agency FB" size="63" color="#fefefe"><b>Hody's Dark Secret!
 The Straw Hats' Arrival</b></font>
 
 10
@@ -94,7 +94,7 @@ The Straw Hats' Arrival</b></font>
 
 24
 00:03:32,680 --> 00:03:35,360
-<font face="Impress BT" size="55">What did those pirates do? {Literally "the subordinates of that pirate crew", but that strikes me as kind of redundant.}</font>
+<font face="Impress BT" size="55">What did those pirates do? </font>
 
 25
 00:03:35,880 --> 00:03:38,700
@@ -312,7 +312,7 @@ enraged by the death of their companions...</font>
 
 76
 00:06:58,200 --> 00:07:02,790
-<font face="Impress BT" size="55">we'll be ready for them. { def: is there a way to tweak this line to match his speech pattern? }</font>
+<font face="Impress BT" size="55">we'll be ready for them. </font>
 
 77
 00:07:02,790 --> 00:07:09,060
@@ -321,7 +321,7 @@ on the ocean floor for the past month...</font>
 
 78
 00:07:09,060 --> 00:07:10,660
-<font face="Impress BT" size="55">Thirty thousand of them! {...Seriously? THIRTY THOUSAND in the past month? Is he really saying that an average of a thousand people travel to Fishman Island daily? :/}</font>
+<font face="Impress BT" size="55">Thirty thousand of them! </font>
 
 79
 00:07:19,130 --> 00:07:24,300
@@ -545,7 +545,7 @@ Fishman District looked up to your brother, Arlong.</font>
 
 132
 00:12:00,850 --> 00:12:02,030
-<font face="Impress BT" size="55">by me! {WHAT A TWEEST!!!}</font>
+<font face="Impress BT" size="55">by me! </font>
 
 133
 00:12:08,930 --> 00:12:10,500
@@ -614,7 +614,7 @@ but if the pay's good, I'll gladly take any job.</i></font>
 
 149
 00:13:23,080 --> 00:13:25,720
-<font face="Impress BT" size="55"><i>Get back!  They're going up in flames! {Copy-paste from 546. Just this line. For some reason the rest of them appear to be different from that episode...}</i></font>
+<font face="Impress BT" size="55"><i>Get back!  They're going up in flames! </i></font>
 
 150
 00:13:25,720 --> 00:13:26,950
@@ -662,7 +662,7 @@ but if the pay's good, I'll gladly take any job.</i></font>
 
 161
 00:14:19,020 --> 00:14:20,770
-<font face="Impress BT" size="55"><i>A human... {Copy-paste from 547}</i></font>
+<font face="Impress BT" size="55"><i>A human... </i></font>
 
 162
 00:14:21,820 --> 00:14:25,780
@@ -670,7 +670,7 @@ but if the pay's good, I'll gladly take any job.</i></font>
 
 163
 00:14:25,780 --> 00:14:33,100
-<font face="Impress BT" size="55"><i>Queen Otohime's killer was human! {End copy-paste from 547}</i></font>
+<font face="Impress BT" size="55"><i>Queen Otohime's killer was human! </i></font>
 
 164
 00:14:33,870 --> 00:14:36,970
@@ -878,7 +878,7 @@ Princess Shirahoshi?!</font>
 
 214
 00:18:27,740 --> 00:18:31,170
-<font face="Impress BT" size="55"><i>So, whoever the culprit is... {Copy-paste from 546}</i></font>
+<font face="Impress BT" size="55"><i>So, whoever the culprit is... </i></font>
 
 215
 00:18:31,840 --> 00:18:35,710
@@ -886,7 +886,7 @@ Princess Shirahoshi?!</font>
 
 216
 00:18:36,300 --> 00:18:42,270
-<font face="Impress BT" size="55"><i>Don't lose yourself in anger and hatred because of me. {End copy-paste from 546... Also man what a bloody pointless flashback.}</i></font>
+<font face="Impress BT" size="55"><i>Don't lose yourself in anger and hatred because of me. </i></font>
 
 217
 00:18:43,810 --> 00:18:46,390
@@ -1375,7 +1375,7 @@ I just heard Princess Shirahoshi asking him for help...</font>
 
 336
 00:27:31,020 --> 00:27:33,730
-<font face="Impress BT" size="38"><i>{\an8}Lion's Roar Cannon</i></font>
+<font face="Impress BT" size="38"><i>Lion's Roar Cannon</i></font>
 
 337
 00:27:38,520 --> 00:27:40,360

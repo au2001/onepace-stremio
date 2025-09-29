@@ -29,72 +29,72 @@ https://mpv.io/
 
 7
 00:01:27,190 --> 00:01:30,320
-<font face="Khalid Art bold" size="60">{\an7}مونتاج</font>
+<font face="Khalid Art bold" size="60">مونتاج</font>
 
 8
 00:01:27,190 --> 00:01:30,320
-<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}Sewil</b></font>
+<font face="FOT-Greco Std B Strp" size="43"><b>Sewil</b></font>
 
 9
 00:01:30,320 --> 00:01:33,040
-<font face="Khalid Art bold" size="60">{\an7}جرافيك</font>
+<font face="Khalid Art bold" size="60">جرافيك</font>
 
 10
 00:01:30,320 --> 00:01:33,040
-<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}Datenshi</b></font>
+<font face="FOT-Greco Std B Strp" size="43"><b>Datenshi</b></font>
 
 11
 00:01:33,040 --> 00:01:36,240
-<font face="Khalid Art bold" size="60">{\an7}ضبط الجودة</font>
+<font face="Khalid Art bold" size="60">ضبط الجودة</font>
 
 12
 00:01:33,040 --> 00:01:36,240
-<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}Galaxy 9000
+<font face="FOT-Greco Std B Strp" size="43"><b>Galaxy 9000
 Pepperjack
 Raiyan
 Zenef</b></font>
 
 13
 00:01:36,240 --> 00:01:39,490
-<font face="Khalid Art bold" size="60">{\an7}كاريوكي</font>
+<font face="Khalid Art bold" size="60">كاريوكي</font>
 
 14
 00:01:36,240 --> 00:01:39,490
-<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}KaitouYahiko</b></font>
+<font face="FOT-Greco Std B Strp" size="43"><b>KaitouYahiko</b></font>
 
 15
 00:01:39,490 --> 00:01:42,300
-<font face="Khalid Art bold" size="60">{\an7}الصوت</font>
+<font face="Khalid Art bold" size="60">الصوت</font>
 
 16
 00:01:39,490 --> 00:01:42,300
-<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}Halee</b></font>
+<font face="FOT-Greco Std B Strp" size="43"><b>Halee</b></font>
 
 17
 00:01:42,300 --> 00:01:45,520
-<font face="Khalid Art bold" size="60">{\an7}مزامنة الترجمة</font>
+<font face="Khalid Art bold" size="60">مزامنة الترجمة</font>
 
 18
 00:01:42,300 --> 00:01:45,520
-<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}PhosCity
+<font face="FOT-Greco Std B Strp" size="43"><b>PhosCity
 Raven-</b></font>
 
 19
 00:01:45,520 --> 00:01:48,330
-<font face="Khalid Art bold" size="60">{\an7}التدقيق اللغوي</font>
+<font face="Khalid Art bold" size="60">التدقيق اللغوي</font>
 
 20
 00:01:45,520 --> 00:01:48,330
-<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}Raven-
+<font face="FOT-Greco Std B Strp" size="43"><b>Raven-
 FiberAhmed</b></font>
 
 21
 00:01:48,330 --> 00:01:51,200
-<font face="Khalid Art bold" size="60">{\an7}ترجمة</font>
+<font face="Khalid Art bold" size="60">ترجمة</font>
 
 22
 00:01:48,330 --> 00:01:51,200
-<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}Crunchyroll
+<font face="FOT-Greco Std B Strp" size="43"><b>Crunchyroll
 ESPADAS-3ASQ</b></font>
 
 23
@@ -116,11 +116,11 @@ https://mpv.io/
 
 26
 00:02:39,850 --> 00:02:40,810
-<font face="Bahij Nassim" size="111"><b>{Hang on!! - OG}{Hold on to something! - arch}{Grab a hold! - Evo: considered changing the end tiiming of this but that felt off.}!تشبّثوا{arch}</b></font>
+<font face="Bahij Nassim" size="111"><b>!تشبّثوا</b></font>
 
 27
 00:02:41,310 --> 00:02:42,690
-<font face="Bahij Nassim" size="111"><b>{Hold on to the ship!! - OG}!تشبّثوا بالسّفينة{arch: lit. It's again "hold on to the ship!", but I don't want to be repetitive.}</b></font>
+<font face="Bahij Nassim" size="111"><b>!تشبّثوا بالسّفينة</b></font>
 
 28
 00:02:45,060 --> 00:02:47,820
@@ -144,26 +144,23 @@ https://mpv.io/
 
 33
 00:03:05,040 --> 00:03:06,880
-<font face="Bahij Nassim" size="111"><b>{Turn the rudder! The rudder! - OG}{Turn the ship around, quick! - arch}!أدر الدّفّة بسرعة{arch/Z}</b></font>
+<font face="Bahij Nassim" size="111"><b>!أدر الدّفّة بسرعة</b></font>
 
 34
 00:03:06,880 --> 00:03:08,500
-<font face="Bahij Nassim" size="111"><b>{No way that'll work in these waves! - OG}{How can we in these waves?! - arch}{There's no way in these waves! - arch/muffinman}!لن يصمد ذلك أمام هذه الأمواج{Z}</b></font>
+<font face="Bahij Nassim" size="111"><b>!لن يصمد ذلك أمام هذه الأمواج</b></font>
 
 35
 00:03:08,500 --> 00:03:10,670
-<font face="Bahij Nassim" size="111"><b>{Luffy, protect the ship!
-It can't take this any longer! - OG}{Luffy, protect the ship!
-She'll break! - arch: lit: she won't endure this [for much longer]}{Luffy, protect the ship!
-She'll fall apart! - arch}احمِ السفينة يا لوفي، لا يُمكنها الصمود أمام كل هذا{arch}</b></font>
+<font face="Bahij Nassim" size="111"><b>احمِ السفينة يا لوفي، لا يُمكنها الصمود أمام كل هذا</b></font>
 
 36
 00:03:10,670 --> 00:03:11,420
-<font face="Bahij Nassim" size="111"><b>{Got it! - OG}{Alright! - arch}!حسنًا{arch/Z}</b></font>
+<font face="Bahij Nassim" size="111"><b>!حسنًا</b></font>
 
 37
 00:03:11,420 --> 00:03:12,840
-<font face="Bahij Nassim" size="111"><b>{Hm? Usopp? - OG}!أوسوب؟{arch}</b></font>
+<font face="Bahij Nassim" size="111"><b>!أوسوب؟</b></font>
 
 38
 00:03:13,170 --> 00:03:17,550
@@ -257,7 +254,7 @@ She'll fall apart! - arch}احمِ السفينة يا لوفي، لا يُمك�
 
 60
 00:04:10,400 --> 00:04:12,360
-<font face="Bahij Nassim" size="111"><b>{A floating island?! - OG}{You're saying islands can fly? - arch: lit. "float"}!أهي جزيرة طافية؟{arch/Z}</b></font>
+<font face="Bahij Nassim" size="111"><b>!أهي جزيرة طافية؟</b></font>
 
 61
 00:04:12,360 --> 00:04:15,950
@@ -300,7 +297,7 @@ She'll fall apart! - arch}احمِ السفينة يا لوفي، لا يُمك�
 
 70
 00:04:39,300 --> 00:04:41,550
-<font face="Bahij Nassim" size="111"><b>{Upwards rudder full! - OG}{We're heading to the sky! - arch: They're saying uwakaji ("up-rudder"), which is a play on omokaji/torikaji (starboard/port). I can't find a way to make this work except for "Rudder straight up", which might not work too well since "Rudder straight X" doesn't seem to be a set phrase. So I'd just replace it with some standard enthusiastic phrase about heading upwards.}{arch: Later I had the idea of substituting some other pun along the lines of "shoot for the moon" or "the sky's the limit", if we can find one that works.}{Evo: how about saying *star*board with italics around star to convey the impossible upward movement while using nautical terms?}!أديروا الدّفّة للأعلى{arch/Gaijin}</b></font>
+<font face="Bahij Nassim" size="111"><b>!أديروا الدّفّة للأعلى</b></font>
 
 71
 00:04:43,560 --> 00:04:46,520
@@ -331,8 +328,7 @@ She'll fall apart! - arch}احمِ السفينة يا لوفي، لا يُمك�
 
 77
 00:05:09,790 --> 00:05:17,010
-<font face="Bahij Nassim" size="111"><b>{No matter what weird situations
-this ship gets caught up in, or how panicked we get, - OG}{No matter what bizarre circumstances befall your ship, or what panics it descends into, - arch: "panic" needn't be kept one-to-one here, but I also can't find any good equivalent.}{No matter what bizarre circumstances befall your ship, or what crises it descends into, - Evo}...مهما يحدث للسفينة، ومهما واجهتنا من أزمات{arch/muffinman/Z}</b></font>
+<font face="Bahij Nassim" size="111"><b>...مهما يحدث للسفينة، ومهما واجهتنا من أزمات</b></font>
 
 78
 00:05:17,010 --> 00:05:20,890
@@ -341,10 +337,8 @@ this ship gets caught up in, or how panicked we get, - OG}{No matter what bizarr
 
 79
 00:05:21,430 --> 00:05:25,850
-<font face="Bahij Nassim" size="111"><b>{What we should doubt is rather
-the common sense in our heads. - OG}{[/q2]In these seas, it's your own common sense
-that you should rather be doubting. - arch}ما علينا أن نشكّك به هو ما
-نعتبره منطقًا في عقولنا{Evo}</b></font>
+<font face="Bahij Nassim" size="111"><b>ما علينا أن نشكّك به هو ما
+نعتبره منطقًا في عقولنا</b></font>
 
 80
 00:05:27,310 --> 00:05:30,650
@@ -357,11 +351,11 @@ that you should rather be doubting. - arch}ما علينا أن نشكّك به 
 
 82
 00:05:47,080 --> 00:05:48,500
-<font face="Bahij Nassim" size="111"><b>{Can you learn something from that? - OG}{Did you find something out? - arch}أوجدتِ شيئًا؟{arch}</b></font>
+<font face="Bahij Nassim" size="111"><b>أوجدتِ شيئًا؟</b></font>
 
 83
 00:05:48,500 --> 00:05:49,370
-<font face="Bahij Nassim" size="111"><b>{I don't know. - OG}...لا أعلم{arch}</b></font>
+<font face="Bahij Nassim" size="111"><b>...لا أعلم</b></font>
 
 84
 00:05:49,370 --> 00:05:52,170
@@ -398,10 +392,8 @@ that you should rather be doubting. - arch}ما علينا أن نشكّك به 
 
 92
 00:06:11,310 --> 00:06:14,810
-<font face="Bahij Nassim" size="111"><b>{I see... then this guy was
-pierced there and died, huh? - OG}{I see. So this person died
-after being stabbed in the head. - arch}فهمت، إذًا فهذا الرّجل مات
-بسبب ما اخترق رأسه{arch/Z}</b></font>
+<font face="Bahij Nassim" size="111"><b>فهمت، إذًا فهذا الرّجل مات
+بسبب ما اخترق رأسه</b></font>
 
 93
 00:06:15,360 --> 00:06:18,320
@@ -409,20 +401,16 @@ after being stabbed in the head. - arch}فهمت، إذًا فهذا الرّج�
 
 94
 00:06:18,320 --> 00:06:20,530
-<font face="Bahij Nassim" size="111"><b>{It's craterization, isn't it, Doctor? - OG}{It's called trepanation.
-Isn't it, Ship's Doctor? - arch}{Evo: might be good to just use "Doctor" for CPS, how important is it to keep the "Ship's"?}إنّه حفر الأُقنة، صحيح أيّها الطّبيب؟{arch: Yeah probably a good idea.}</b></font>
+<font face="Bahij Nassim" size="111"><b>إنّه حفر الأُقنة، صحيح أيّها الطّبيب؟</b></font>
 
 95
 00:06:20,860 --> 00:06:25,870
-<font face="Bahij Nassim" size="111"><b>{Yeah, in the past, they made holes in the
-skull in order to constrain a brain tumor. - OG}نعم، كانوا في الماضي يثقبون 
-الجمجمة لعلاج أورام الدّماغ{arch: Really, "treat" is more like "hold back" or "control". I'd love to write "treat the symptoms of", but that doesn't fit.}</b></font>
+<font face="Bahij Nassim" size="111"><b>نعم، كانوا في الماضي يثقبون 
+الجمجمة لعلاج أورام الدّماغ</b></font>
 
 96
 00:06:25,870 --> 00:06:28,490
-<font face="Bahij Nassim" size="111"><b>{But that's a medical
-technique from very long ago. - OG}{But I read that it hadn't been
-used for centuries! - arch: Or "heard that" or even "thought that". Really, I'm considering just taking the indirect reporting out entirely, since it makes Chopper seem less credible and reads like the statement could be wrong.}!لكن ذلك الإجراء لم يعد يُستخدم منذ قرون{arch}</b></font>
+<font face="Bahij Nassim" size="111"><b>!لكن ذلك الإجراء لم يعد يُستخدم منذ قرون</b></font>
 
 97
 00:06:29,040 --> 00:06:33,500
@@ -457,9 +445,8 @@ used for centuries! - arch: Or "heard that" or even "thought that". Really, I'm 
 
 104
 00:07:08,280 --> 00:07:13,750
-<font face="Bahij Nassim" size="111"><b>{Here it is. The "St. Briss" of Briss,
-a kingdom in the South Blue. - OG}ها هو ذا، القدّيس بريس، سفينة
-من مملكة بريس في الأزرق الجنوبيّ{arch}</b></font>
+<font face="Bahij Nassim" size="111"><b>ها هو ذا، القدّيس بريس، سفينة
+من مملكة بريس في الأزرق الجنوبيّ</b></font>
 
 105
 00:07:13,750 --> 00:07:15,500
@@ -485,19 +472,13 @@ a kingdom in the South Blue. - OG}ها هو ذا، القدّيس بريس، س�
 
 110
 00:07:28,640 --> 00:07:32,220
-<font face="Bahij Nassim" size="111"><b>{Dead people may not speak,
-but they do hold information. - OG}{Corpses cannot talk,
-but they still tell plenty of tales. - arch}{Though corpses do not talk,
-they tell plenty of tales. - arch}{Even though they do not talk,
-dead men tell plenty of tales. - Evo, I'd like the recognizable quote to be somewhere in here. I didn't want to deviate from the OG too much but I was even thinking something like "Those who say dead men tell no tales
-simply don't know how to listen."}{Hmm. The original Japanese line doesn't directly reference the quote, so I didn't want to make it that explicit. I actually didn't have that quote in mind when first writing the line and only saw the parallels later on. So I'm gonna revert this. - arch}،لا يستطيع الأموات التّكلّم
-لكنّهم يحملون معلومات كثيرة{arch}</b></font>
+<font face="Bahij Nassim" size="111"><b>،لا يستطيع الأموات التّكلّم
+لكنّهم يحملون معلومات كثيرة</b></font>
 
 111
 00:07:32,220 --> 00:07:37,060
-<font face="Bahij Nassim" size="111"><b>{If the ship was for an exploration party, it should still hold various
-records and evidence. - OG}{An expedition ship like this one - arch}،إن كانت السّفينة لفريق استكشاف
-فلا بدّ بوجود سجلات تُفصّل رحلتها{"detailing its journey" isn't in the original line, but of course implied. But lit. it's "plenty of evidence and records" which sounds a bit dry at the end}</b></font>
+<font face="Bahij Nassim" size="111"><b>،إن كانت السّفينة لفريق استكشاف
+فلا بدّ بوجود سجلات تُفصّل رحلتها</b></font>
 
 112
 00:07:37,060 --> 00:07:39,690
@@ -509,11 +490,11 @@ records and evidence. - OG}{An expedition ship like this one - arch}،إن كا�
 
 114
 00:07:40,520 --> 00:07:42,690
-<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>{\an8}!لوفي! تماسك</b></font>
+<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>!لوفي! تماسك</b></font>
 
 115
 00:07:42,690 --> 00:07:44,400
-<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>{\an8}!ساعدني</b></font>
+<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>!ساعدني</b></font>
 
 116
 00:07:46,160 --> 00:07:47,990
@@ -533,12 +514,11 @@ records and evidence. - OG}{An expedition ship like this one - arch}،إن كا�
 
 120
 00:07:56,460 --> 00:07:58,960
-<font face="Bahij Nassim" size="111"><b>!خريطة جزيرة السّماء؟{OG}{– A map of a sky island?!
-– A map of a sky island?! - arch: or "the Sky Island"}{Z - should likely go with "the" because of Nami's line in Skypiea 01 @11:49}</b></font>
+<font face="Bahij Nassim" size="111"><b>!خريطة جزيرة السّماء؟</b></font>
 
 121
 00:07:59,420 --> 00:08:00,670
-<font face="Bahij Nassim" size="111"><b>{Skypiea... - OG}{"Skypiea" - arch}...«سكايبيا»{arch}</b></font>
+<font face="Bahij Nassim" size="111"><b>...«سكايبيا»</b></font>
 
 122
 00:08:00,670 --> 00:08:01,710
@@ -568,9 +548,8 @@ records and evidence. - OG}{An expedition ship like this one - arch}،إن كا�
 
 128
 00:08:16,230 --> 00:08:20,150
-<font face="Bahij Nassim" size="111"><b>{Don't get so carried away!
-This only means it might be possible. - OG}!لا تنجرفا كثيرًا
-هذا ليس سوى احتمال{arch}</b></font>
+<font face="Bahij Nassim" size="111"><b>!لا تنجرفا كثيرًا
+هذا ليس سوى احتمال</b></font>
 
 129
 00:08:20,150 --> 00:08:22,610
@@ -578,7 +557,7 @@ This only means it might be possible. - OG}!لا تنجرفا كثيرًا
 
 130
 00:08:24,940 --> 00:08:28,610
-<font face="Bahij Nassim" size="111"><b>{Er... Sorry! It exists! I'm sure it exists, but... - OG}{Ah, sorry! It's real! I'm sure it's real! - arch}!آ-آسفة! إنها موجودة، موجودة حتمًا{arch/Z}</b></font>
+<font face="Bahij Nassim" size="111"><b>!آ-آسفة! إنها موجودة، موجودة حتمًا</b></font>
 
 131
 00:08:29,450 --> 00:08:30,530
@@ -590,12 +569,11 @@ This only means it might be possible. - OG}!لا تنجرفا كثيرًا
 
 133
 00:08:30,990 --> 00:08:32,490
-<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>{Uhm, Nami, - OG}{\an8}...مهلًا يا نامي{arch}</b></font>
+<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>...مهلًا يا نامي</b></font>
 
 134
 00:08:32,490 --> 00:08:34,330
-<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>{please treat
-the ship with care. - OG}{\an8}،عاملي السّفينة بلطف{arch}</b></font>
+<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>،عاملي السّفينة بلطف</b></font>
 
 135
 00:08:33,450 --> 00:08:35,540
@@ -603,12 +581,11 @@ the ship with care. - OG}{\an8}،عاملي السّفينة بلطف{arch}</b><
 
 136
 00:08:34,870 --> 00:08:35,790
-<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>{\an8}رجاءً{arch - We can just comment this if it feels too out of place}</b></font>
+<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>رجاءً</b></font>
 
 137
 00:08:35,540 --> 00:08:38,460
-<font face="Bahij Nassim" size="111"><b>{There are some things you can't
-just "figure out," you know! - OG}ثمة أمور غير منطقية لا يُمكن إيجاد حلٍ لها{arch - This is a full rewrite to carry on naturally from the previous line, so the second line can be any angry line}</b></font>
+<font face="Bahij Nassim" size="111"><b>ثمة أمور غير منطقية لا يُمكن إيجاد حلٍ لها</b></font>
 
 138
 00:08:36,080 --> 00:08:40,500
@@ -620,7 +597,7 @@ just "figure out," you know! - OG}ثمة أمور غير منطقية لا يُ�
 
 140
 00:08:42,000 --> 00:08:43,630
-<font face="Bahij Nassim" size="111"><b>لن نصل لنتيجةٍ هكذا{OG}{We're getting nowhere with this! - arch}{Z - word order of OG won't feel redundant with the "this" at the end of the next line}</b></font>
+<font face="Bahij Nassim" size="111"><b>لن نصل لنتيجةٍ هكذا</b></font>
 
 141
 00:08:43,630 --> 00:08:46,220
@@ -684,7 +661,7 @@ just "figure out," you know! - OG}ثمة أمور غير منطقية لا يُ�
 
 155
 00:09:28,970 --> 00:09:29,590
-<font face="Bahij Nassim" size="111"><b>{Er... - OG}.فعلًا{arch}</b></font>
+<font face="Bahij Nassim" size="111"><b>.فعلًا</b></font>
 
 156
 00:09:29,590 --> 00:09:34,060
@@ -726,11 +703,11 @@ just "figure out," you know! - OG}ثمة أمور غير منطقية لا يُ�
 
 165
 00:10:06,500 --> 00:10:07,380
-<font face="Bahij Nassim" size="111"><b>{Okay. - OG}{OK. - Understood. - arch: I'm not sure I like translating OK literally here, but it also plays into a joke in the next line. So here's two options - the first is pretty literal.}{Evo: I really like the simplicity of the dry "OK"}جيّد{arch/Z}</b></font>
+<font face="Bahij Nassim" size="111"><b>جيّد</b></font>
 
 166
 00:10:07,380 --> 00:10:08,090
-<font face="Bahij Nassim" size="111"><b>{Okay?! - OG}{No way that's OK! - arch}!ما الجيّد؟{arch}</b></font>
+<font face="Bahij Nassim" size="111"><b>!ما الجيّد؟</b></font>
 
 167
 00:10:08,760 --> 00:10:11,090
@@ -742,7 +719,7 @@ just "figure out," you know! - OG}ثمة أمور غير منطقية لا يُ�
 
 169
 00:10:14,010 --> 00:10:14,760
-<font face="Bahij Nassim" size="111"><b>{Okay! - OG}حسنًا{arch}</b></font>
+<font face="Bahij Nassim" size="111"><b>حسنًا</b></font>
 
 170
 00:10:14,760 --> 00:10:16,970
@@ -770,7 +747,7 @@ just "figure out," you know! - OG}ثمة أمور غير منطقية لا يُ�
 
 176
 00:10:44,710 --> 00:10:49,960
-<font face="Bahij Nassim" size="111" color="#d6d6d6"><b><font face="Bahij Nassim"><font size="115"><b>{\an8}♪  !إنقاذ! إنقاذ  ♪</b></font></font></b></font>
+<font face="Bahij Nassim" size="111" color="#d6d6d6"><b><font face="Bahij Nassim"><font size="115"><b>♪  !إنقاذ! إنقاذ  ♪</b></font></font></b></font>
 
 177
 00:10:44,710 --> 00:10:48,210
@@ -807,16 +784,16 @@ just "figure out," you know! - OG}ثمة أمور غير منطقية لا يُ�
 
 184
 00:11:03,520 --> 00:11:05,310
-<font face="Bahij Nassim" size="111"><b>{\an8}!استعدّوا لإنقاذ السّفينة</b></font>
+<font face="Bahij Nassim" size="111"><b>!استعدّوا لإنقاذ السّفينة</b></font>
 
 185
 00:11:05,310 --> 00:11:08,360
-<font face="Bahij Nassim" size="111"><b>{\an8}،السّفينة الغارقة ملك لي
+<font face="Bahij Nassim" size="111"><b>،السّفينة الغارقة ملك لي
 ملك عمليّات الإنقاذ</b></font>
 
 186
 00:11:08,360 --> 00:11:11,280
-<font face="Bahij Nassim" size="111"><b>{\an8}!وزعيم قراصنة ماسيرا</b></font>
+<font face="Bahij Nassim" size="111"><b>!وزعيم قراصنة ماسيرا</b></font>
 
 187
 00:11:15,570 --> 00:11:18,870
@@ -828,11 +805,11 @@ just "figure out," you know! - OG}ثمة أمور غير منطقية لا يُ�
 
 189
 00:11:21,700 --> 00:11:23,580
-<font face="Bahij Nassim" size="111"><b>{ This is my turf! - OG}{This is [/i1]my[/i0] territory!}{This is [/i1]my[/i0] turf! - arch}!هذه منطقتي أنا{arch/Z}</b></font>
+<font face="Bahij Nassim" size="111"><b>!هذه منطقتي أنا</b></font>
 
 190
 00:11:23,960 --> 00:11:25,040
-<font face="Bahij Nassim" size="111"><b>{Your turf? - OG}{"Territory"?}{"Turf"? - arch}{[/i1]His[/i0]waters? - arch/Z}منطقتك؟{arch/Z}</b></font>
+<font face="Bahij Nassim" size="111"><b>منطقتك؟</b></font>
 
 191
 00:11:25,290 --> 00:11:30,340
@@ -857,11 +834,11 @@ just "figure out," you know! - OG}ثمة أمور غير منطقية لا يُ�
 
 196
 00:11:41,600 --> 00:11:43,520
-<font face="Bahij Nassim" size="111"><b>{Quit mumbling! - OG}!كفاكم ثرثرة{arch}</b></font>
+<font face="Bahij Nassim" size="111"><b>!كفاكم ثرثرة</b></font>
 
 197
 00:11:43,520 --> 00:11:46,900
-<font face="Bahij Nassim" size="111"><b>{Answer my question! - OG}!أجيبوا على سؤالي{arch}</b></font>
+<font face="Bahij Nassim" size="111"><b>!أجيبوا على سؤالي</b></font>
 
 198
 00:11:47,520 --> 00:11:50,150
@@ -881,27 +858,27 @@ just "figure out," you know! - OG}ثمة أمور غير منطقية لا يُ�
 
 202
 00:11:57,160 --> 00:11:58,070
-<font face="Bahij Nassim" size="111"><b>{Looks? - OG}أقلتِ قرد؟{arch}</b></font>
+<font face="Bahij Nassim" size="111"><b>أقلتِ قرد؟</b></font>
 
 203
 00:12:00,990 --> 00:12:04,660
-<font face="Bahij Nassim" size="111"><b>{Hey... Do you find me that "monkeyful"? - OG}مهلًا، هل تجدينني أشبه القرد؟{arch}</b></font>
+<font face="Bahij Nassim" size="111"><b>مهلًا، هل تجدينني أشبه القرد؟</b></font>
 
 204
 00:12:04,660 --> 00:12:05,500
-<font face="Bahij Nassim" size="111"><b>{Monkeyful? - OG}تشبه القرد؟{arch}</b></font>
+<font face="Bahij Nassim" size="111"><b>تشبه القرد؟</b></font>
 
 205
 00:12:05,500 --> 00:12:08,000
-<font face="Bahij Nassim" size="111"><b>{That means "handsome." Do you think I am? - OG}ذلك يعني أنّني وسيم ألا تظنّين ذلك؟{arch}</b></font>
+<font face="Bahij Nassim" size="111"><b>ذلك يعني أنّني وسيم ألا تظنّين ذلك؟</b></font>
 
 206
 00:12:08,750 --> 00:12:09,790
-<font face="Bahij Nassim" size="111"><b>{Yeah! - OG}!نعم{arch}</b></font>
+<font face="Bahij Nassim" size="111"><b>!نعم</b></font>
 
 207
 00:12:09,790 --> 00:12:12,670
-<font face="Bahij Nassim" size="111"><b>{Oh, come on, stop it! - OG}!هيّا، توقّفي{arch}</b></font>
+<font face="Bahij Nassim" size="111"><b>!هيّا، توقّفي</b></font>
 
 208
 00:12:12,670 --> 00:12:14,300
@@ -980,7 +957,7 @@ just "figure out," you know! - OG}ثمة أمور غير منطقية لا يُ�
 
 226
 00:13:05,430 --> 00:13:06,980
-<font face="Bahij Nassim" size="111"><b>{This isn't good. - OG}.هذا سيّئ{arch}</b></font>
+<font face="Bahij Nassim" size="111"><b>.هذا سيّئ</b></font>
 
 227
 00:13:06,980 --> 00:13:10,230
@@ -988,7 +965,7 @@ just "figure out," you know! - OG}ثمة أمور غير منطقية لا يُ�
 
 228
 00:13:10,230 --> 00:13:11,360
-<font face="Bahij Nassim" size="111"><b>{Ah... well... - OG}...مهلًا{arch}</b></font>
+<font face="Bahij Nassim" size="111"><b>...مهلًا</b></font>
 
 229
 00:13:11,360 --> 00:13:14,530
@@ -1083,19 +1060,19 @@ just "figure out," you know! - OG}ثمة أمور غير منطقية لا يُ�
 
 251
 00:16:03,490 --> 00:16:04,740
-<font face="Bahij Nassim" size="111"><b>{What's going on?! - OG}<i>{What?! - arch: This line needs to be one that Usopp can salvage (heh) into some question that he'd ask at 16:08. Otherwise I'd have gone for "What's happening?!"}!ما الّذي يحدث؟{Evo, switched to en dash to convey the interruption}</i></b></font>
+<font face="Bahij Nassim" size="111"><b><i>!ما الّذي يحدث؟</i></b></font>
 
 252
 00:16:07,320 --> 00:16:08,700
-<font face="Bahij Nassim" size="111"><b>...ما{arch}</b></font>
+<font face="Bahij Nassim" size="111"><b>...ما</b></font>
 
 253
 00:16:08,700 --> 00:16:10,280
-<font face="Bahij Nassim" size="111"><b>{What's that monkey?! - OG}{What's that? That monkey? - arch}!ما ذلك القرد؟{arch/muffinman}</b></font>
+<font face="Bahij Nassim" size="111"><b>!ما ذلك القرد؟</b></font>
 
 254
 00:16:10,620 --> 00:16:12,620
-<font face="Bahij Nassim" size="111"><b>{What's that monkey for?! - OG}!ما وظيفة ذلك القرد؟{arch}</b></font>
+<font face="Bahij Nassim" size="111"><b>!ما وظيفة ذلك القرد؟</b></font>
 
 255
 00:16:12,620 --> 00:16:13,750
@@ -1115,7 +1092,7 @@ just "figure out," you know! - OG}ثمة أمور غير منطقية لا يُ�
 
 259
 00:16:23,590 --> 00:16:25,170
-<font face="Bahij Nassim" size="111"><b>{Barco-hunter! - OG}!صائد السّفن{arch}</b></font>
+<font face="Bahij Nassim" size="111"><b>!صائد السّفن</b></font>
 
 260
 00:16:25,550 --> 00:16:27,800
@@ -1123,59 +1100,59 @@ just "figure out," you know! - OG}ثمة أمور غير منطقية لا يُ�
 
 261
 00:16:30,350 --> 00:16:30,850
-<font face="Bahij Nassim" size="111"><b>،قرد !قرد، قرد{arch - I couldn't resist.}</b></font>
+<font face="Bahij Nassim" size="111"><b>،قرد !قرد، قرد</b></font>
 
 262
 00:16:30,850 --> 00:16:31,350
-<font face="Bahij Nassim" size="111"><b>،قرد، قرد !قرد{arch}</b></font>
+<font face="Bahij Nassim" size="111"><b>،قرد، قرد !قرد</b></font>
 
 263
 00:16:31,350 --> 00:16:33,640
-<font face="Bahij Nassim" size="111"><b>!قرد، قرد، قرد{arch}</b></font>
+<font face="Bahij Nassim" size="111"><b>!قرد، قرد، قرد</b></font>
 
 264
 00:16:32,100 --> 00:16:32,640
-<font face="Bahij Nassim" size="111"><b>،قرد !قرد، قرد{arch}</b></font>
+<font face="Bahij Nassim" size="111"><b>،قرد !قرد، قرد</b></font>
 
 265
 00:16:32,640 --> 00:16:33,100
-<font face="Bahij Nassim" size="111"><b>،قرد، قرد !قرد{arch}</b></font>
+<font face="Bahij Nassim" size="111"><b>،قرد، قرد !قرد</b></font>
 
 266
 00:16:33,100 --> 00:16:35,310
-<font face="Bahij Nassim" size="111"><b>!قرد، قرد، قرد{arch}</b></font>
+<font face="Bahij Nassim" size="111"><b>!قرد، قرد، قرد</b></font>
 
 267
 00:16:34,140 --> 00:16:34,430
-<font face="Bahij Nassim" size="111"><b>،قرد !قرد، قرد{arch}</b></font>
+<font face="Bahij Nassim" size="111"><b>،قرد !قرد، قرد</b></font>
 
 268
 00:16:34,430 --> 00:16:34,810
-<font face="Bahij Nassim" size="111"><b>،قرد، قرد !قرد{arch}</b></font>
+<font face="Bahij Nassim" size="111"><b>،قرد، قرد !قرد</b></font>
 
 269
 00:16:34,810 --> 00:16:37,100
-<font face="Bahij Nassim" size="111"><b>!قرد، قرد! قرد{arch}</b></font>
+<font face="Bahij Nassim" size="111"><b>!قرد، قرد! قرد</b></font>
 
 270
 00:16:35,770 --> 00:16:36,270
-<font face="Bahij Nassim" size="111"><b>،قرد !قرد، قرد{arch}</b></font>
+<font face="Bahij Nassim" size="111"><b>،قرد !قرد، قرد</b></font>
 
 271
 00:16:36,270 --> 00:16:36,690
-<font face="Bahij Nassim" size="111"><b>،قرد، قرد !قرد{arch}</b></font>
+<font face="Bahij Nassim" size="111"><b>،قرد، قرد !قرد</b></font>
 
 272
 00:16:36,690 --> 00:16:37,100
-<font face="Bahij Nassim" size="111"><b>!قرد، قرد، قرد{arch}</b></font>
+<font face="Bahij Nassim" size="111"><b>!قرد، قرد، قرد</b></font>
 
 273
 00:16:37,100 --> 00:16:40,900
-<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>{\an8}!قرد! قرد! قرد{arch}</b></font>
+<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>!قرد! قرد! قرد</b></font>
 
 274
 00:16:42,650 --> 00:16:44,190
-<font face="Bahij Nassim" size="111"><b>{Wow! Amazing! - OG}!مذهل{arch}</b></font>
+<font face="Bahij Nassim" size="111"><b>!مذهل</b></font>
 
 275
 00:16:44,190 --> 00:16:46,150
@@ -1301,7 +1278,7 @@ just "figure out," you know! - OG}ثمة أمور غير منطقية لا يُ�
 
 305
 00:19:12,260 --> 00:19:14,300
-<font face="Hacen Digital Arabia LT" size="60">{\an8}لكمة القرد</font>
+<font face="Hacen Digital Arabia LT" size="60">لكمة القرد</font>
 
 306
 00:19:12,260 --> 00:19:14,300
@@ -1338,7 +1315,7 @@ just "figure out," you know! - OG}ثمة أمور غير منطقية لا يُ�
 
 314
 00:19:48,290 --> 00:19:50,050
-<font face="Bahij Nassim" size="111"><b>{Oh, it's a monkey. - OG}{Ah... it's a monkey. - Evo: if we want to makee another pun here we could have Luffy say "An ape or something?" but that would probably change the meaning a bit too much.}!إ-إنه قرد{arch}</b></font>
+<font face="Bahij Nassim" size="111"><b>!إ-إنه قرد</b></font>
 
 315
 00:19:51,050 --> 00:19:53,510
@@ -1395,7 +1372,7 @@ just "figure out," you know! - OG}ثمة أمور غير منطقية لا يُ�
 
 328
 00:20:52,980 --> 00:20:53,860
-<font face="Bahij Nassim" size="111"><b>{Ma– - arch: Don't know what she was trying to say here... Could also replace this with the start of some fitting English sentence or just drop it.}{Evo: I bracketed the "Ma-" for now as I think leaving this blank is the safer option. I'd be open to replacing it with something like "Wha-"}{Wha– - arch: Yup, let's just do that}...ما هـ{Z - Robin's not easily perturbed, so maybe this is the closest we'll see of her edge slipping a bit for now}</b></font>
+<font face="Bahij Nassim" size="111"><b>...ما هـ</b></font>
 
 329
 00:20:55,990 --> 00:20:59,870

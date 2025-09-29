@@ -28,7 +28,7 @@
 
 8
 00:00:23,750 --> 00:00:28,070
-<font face="Impress BT" size="34">{\an1}Translation & initial timing
+<font face="Impress BT" size="34">Translation & initial timing
 <font size="40">Tsuki
 Yibis (Opening)</font></font>
 
@@ -38,7 +38,7 @@ Yibis (Opening)</font></font>
 
 10
 00:00:28,150 --> 00:00:32,160
-<font face="Impress BT" size="34">{\an1}Timing
+<font face="Impress BT" size="34">Timing
 <font size="40">Galaxy 9000
 
 </font>Time-checking
@@ -50,14 +50,14 @@ Yibis (Opening)</font></font>
 
 12
 00:00:34,660 --> 00:00:37,600
-<font face="Impress BT" size="34">{\an1}Quality-checking
+<font face="Impress BT" size="34">Quality-checking
 <font size="40">Sewil
 Galaxy 9000
 Halee</font></font>
 
 13
 00:00:39,030 --> 00:00:42,630
-<font face="Impress BT" size="34">{\an1}Soundtracking
+<font face="Impress BT" size="34">Soundtracking
 <font size="40">Halee</font></font>
 
 14
@@ -70,7 +70,7 @@ Halee</font></font>
 
 16
 00:00:45,500 --> 00:00:48,170
-<font face="Impress BT" size="34">{\an1}Video editing
+<font face="Impress BT" size="34">Video editing
 <font size="40">Sewil</font></font>
 
 17
@@ -87,7 +87,7 @@ Halee</font></font>
 
 20
 00:01:00,420 --> 00:01:04,520
-<font face="Impress BT" size="34">{\an1}Raw provider
+<font face="Impress BT" size="34">Raw provider
 <font size="40">Crunchyroll</font></font>
 
 21
@@ -188,7 +188,7 @@ Halee</font></font>
 
 45
 00:02:30,030 --> 00:02:38,500
-<font face="impress bt" size="63" color="#fefefe"><b>{\an5}Closely Contested Block C!
+<font face="impress bt" size="63" color="#fefefe"><b>Closely Contested Block C!
 Lucy and Ucy!</b></font>
 
 46
@@ -330,7 +330,7 @@ Lucy and Ucy!</b></font>
 80
 00:05:00,380 --> 00:05:07,700
 <font face="Impress BT" size="55">Indeed, now there is no way for you
-Straw Hats to escape from Dressrosa! {Halee: Shall we remove the comma?}</font>
+Straw Hats to escape from Dressrosa! </font>
 
 81
 00:05:18,500 --> 00:05:21,480
@@ -338,7 +338,7 @@ Straw Hats to escape from Dressrosa! {Halee: Shall we remove the comma?}</font>
 
 82
 00:05:21,600 --> 00:05:23,490
-<font face="Impress BT" size="55">{\an8}I don't need any medical attention!</font>
+<font face="Impress BT" size="55">I don't need any medical attention!</font>
 
 83
 00:05:22,020 --> 00:05:25,340
@@ -346,7 +346,7 @@ Straw Hats to escape from Dressrosa! {Halee: Shall we remove the comma?}</font>
 
 84
 00:05:23,490 --> 00:05:25,340
-<font face="Impress BT" size="55">{\an8}I'm leaving!</font>
+<font face="Impress BT" size="55">I'm leaving!</font>
 
 85
 00:05:25,340 --> 00:05:28,540
@@ -419,7 +419,7 @@ Donquixote Family waiting room</font>
 
 102
 00:06:34,020 --> 00:06:38,010
-<font face="Impress BT" size="55">{\an8}Straw Hat is participating in the tournament, Diamante.</font>
+<font face="Impress BT" size="55">Straw Hat is participating in the tournament, Diamante.</font>
 
 103
 00:06:38,830 --> 00:06:41,250
@@ -574,7 +574,7 @@ showing no fear for all those tough contenders!</font>
 
 140
 00:09:35,860 --> 00:09:41,710
-<font face="Impress BT" size="55">Bursting into prominence, with his cool strength, he has instantly became a crowd favorite! {Halee: Remove the first comma?}</font>
+<font face="Impress BT" size="55">Bursting into prominence, with his cool strength, he has instantly became a crowd favorite! </font>
 
 141
 00:09:41,710 --> 00:09:43,100
@@ -743,7 +743,7 @@ Block C still has many strong fighters!</font>
 
 182
 00:13:57,050 --> 00:13:59,850
-<font face="Impress BT" size="55">{\an8}The one who blew away the Giant's huge body was...</font>
+<font face="Impress BT" size="55">The one who blew away the Giant's huge body was...</font>
 
 183
 00:13:58,650 --> 00:14:05,070
@@ -752,7 +752,7 @@ Destruction Cannon Ideo</font>
 
 184
 00:13:59,850 --> 00:14:05,070
-<font face="Impress BT" size="55">{\an8}the two-time champion of the
+<font face="Impress BT" size="55">the two-time champion of the
 New World Central Fighting Tournament!</font>
 
 185
@@ -761,7 +761,7 @@ New World Central Fighting Tournament!</font>
 
 186
 00:14:09,290 --> 00:14:13,600
-<font face="Impress BT" size="55">However, that's not the only fight you want to keep an eye on! {This line makes no sense in context - Galaxy}{Hajrudin vs. Ideo fight, even tho it's over they had their eyes on it - Sewil}</font>
+<font face="Impress BT" size="55">However, that's not the only fight you want to keep an eye on! </font>
 
 187
 00:14:14,000 --> 00:14:16,570
@@ -777,11 +777,11 @@ New World Central Fighting Tournament!</font>
 
 190
 00:14:38,220 --> 00:14:40,080
-<font face="Impress BT" size="55">{\an8}There you go!</font>
+<font face="Impress BT" size="55">There you go!</font>
 
 191
 00:14:40,080 --> 00:14:41,480
-<font face="Impress BT" size="55">{\an8}You can't protect yourself from it!</font>
+<font face="Impress BT" size="55">You can't protect yourself from it!</font>
 
 192
 00:14:41,230 --> 00:14:47,530
@@ -790,15 +790,15 @@ New World Central Fighting Tournament!</font>
 
 193
 00:14:41,480 --> 00:14:44,350
-<font face="Impress BT" size="55">{\an8}Allowing him to manipulate the impact, The Eight-Impact Fist,</font>
+<font face="Impress BT" size="55">Allowing him to manipulate the impact, The Eight-Impact Fist,</font>
 
 194
 00:14:44,350 --> 00:14:47,530
-<font face="Impress BT" size="55">{\an8}Shields and armor are useless against them!</font>
+<font face="Impress BT" size="55">Shields and armor are useless against them!</font>
 
 195
 00:14:56,120 --> 00:15:01,340
-<font face="Impress BT" size="55">{\an8}With centuries of history, the Happou Navy is...</font>
+<font face="Impress BT" size="55">With centuries of history, the Happou Navy is...</font>
 
 196
 00:14:58,430 --> 00:15:04,900
@@ -807,15 +807,15 @@ Vice Commander of the Happou Navy - Boo</font>
 
 197
 00:15:01,340 --> 00:15:04,900
-<font face="Impress BT" size="55">{\an8}just unbeatable!</font>
+<font face="Impress BT" size="55">just unbeatable!</font>
 
 198
 00:15:10,830 --> 00:15:12,420
-<font face="Impress BT" size="55">If we are able to kill you,{Halee: Not very natural English, how about "If we kill you..."}{Sewil: Changed it}</font>
+<font face="Impress BT" size="55">If we are able to kill you,</font>
 
 199
 00:15:12,830 --> 00:15:16,790
-<font face="Impress BT" size="55">it's going to be almost as big as winning the prize of this competition, Chinjao!{Halee: Continuing from the first line, how about "it'd be something almost as big as winning the prize of this competition, Chinjao!"}</font>
+<font face="Impress BT" size="55">it's going to be almost as big as winning the prize of this competition, Chinjao!</font>
 
 200
 00:15:16,790 --> 00:15:18,760
@@ -865,7 +865,7 @@ There are so many nice weapons to choose from now!</font>
 
 211
 00:16:03,300 --> 00:16:05,420
-<font face="Impress BT" size="55">{\an8}And he's picking up weapons in the ring!</font>
+<font face="Impress BT" size="55">And he's picking up weapons in the ring!</font>
 
 212
 00:16:04,520 --> 00:16:10,010
@@ -874,7 +874,7 @@ Jean the Bandit</font>
 
 213
 00:16:05,420 --> 00:16:10,010
-<font face="Impress BT" size="55">{\an8}He is a dark horse in this competition, Jean the Bandit!</font>
+<font face="Impress BT" size="55">He is a dark horse in this competition, Jean the Bandit!</font>
 
 214
 00:16:10,380 --> 00:16:17,200
@@ -906,7 +906,7 @@ Jean the Bandit</font>
 
 221
 00:16:39,300 --> 00:16:42,740
-<font face="Impress BT" size="55">you should've shown spirit like you were raiding a prison! {Halee: Sounds weird in English, how about "you should have fought like you were raiding a prison!"}</font>
+<font face="Impress BT" size="55">you should've shown spirit like you were raiding a prison! </font>
 
 222
 00:16:42,740 --> 00:16:45,660
@@ -938,7 +938,7 @@ Jean the Bandit</font>
 
 229
 00:17:16,270 --> 00:17:20,360
-<font face="Impress BT" size="55">{\an8}Hey, Bobby, am I a shrimp?! Huh?!</font>
+<font face="Impress BT" size="55">Hey, Bobby, am I a shrimp?! Huh?!</font>
 
 230
 00:17:16,390 --> 00:17:23,070
@@ -947,7 +947,7 @@ Assassins - The Funk Brothers</font>
 
 231
 00:17:20,360 --> 00:17:24,750
-<font face="Impress BT" size="55">{\an8}No, you're not! You're a big man!</font>
+<font face="Impress BT" size="55">No, you're not! You're a big man!</font>
 
 232
 00:17:24,750 --> 00:17:27,550
@@ -963,7 +963,7 @@ Assassins - The Funk Brothers</font>
 
 235
 00:17:34,990 --> 00:17:38,880
-<font face="Impress BT" size="55">{\an8}If I ever hear you say it again, I'll gouge your eyes out!</font>
+<font face="Impress BT" size="55">If I ever hear you say it again, I'll gouge your eyes out!</font>
 
 236
 00:17:35,110 --> 00:17:39,870
@@ -972,7 +972,7 @@ Kelly Funk</font>
 
 237
 00:17:38,880 --> 00:17:42,970
-<font face="Impress BT" size="55">{\an8}Don't keep trying to stop me, Bobby!</font>
+<font face="Impress BT" size="55">Don't keep trying to stop me, Bobby!</font>
 
 238
 00:17:40,910 --> 00:17:45,740
@@ -981,7 +981,7 @@ Bobby</font>
 
 239
 00:17:42,970 --> 00:17:45,740
-<font face="Impress BT" size="55">{\an8}But this is a competition, brother.</font>
+<font face="Impress BT" size="55">But this is a competition, brother.</font>
 
 240
 00:17:45,740 --> 00:17:48,670

@@ -28,7 +28,7 @@
 
 8
 00:00:23,750 --> 00:00:28,070
-<font face="Impress BT" size="34">{\an1}Translation & initial timing
+<font face="Impress BT" size="34">Translation & initial timing
 <font size="40">Yibis</font></font>
 
 9
@@ -37,7 +37,7 @@
 
 10
 00:00:28,160 --> 00:00:32,160
-<font face="Impress BT" size="34">{\an1}Fine timing & typesetting
+<font face="Impress BT" size="34">Fine timing & typesetting
 <font size="40">Sewil
 
 </font>Timing
@@ -49,7 +49,7 @@
 
 12
 00:00:34,660 --> 00:00:37,600
-<font face="Impress BT" size="34">{\an1}Quality-checking
+<font face="Impress BT" size="34">Quality-checking
 <font size="40">Sewil
 Galaxy 9000
 Halee</font></font>
@@ -60,7 +60,7 @@ Halee</font></font>
 
 14
 00:00:39,020 --> 00:00:42,640
-<font face="Impress BT" size="34">{\an1}Soundtracking
+<font face="Impress BT" size="34">Soundtracking
 <font size="40">Halee</font></font>
 
 15
@@ -69,11 +69,11 @@ Halee</font></font>
 
 16
 00:00:45,870 --> 00:00:48,560
-<font face="Impress BT" size="34">{\an1}Video editing         <font size="40">Sewil</font></font>
+<font face="Impress BT" size="34">Video editing         <font size="40">Sewil</font></font>
 
 17
 00:00:45,870 --> 00:00:48,560
-<font face="Impress BT" size="34">{\an1}Raw provider      <font size="40">GS-Raws</font></font>
+<font face="Impress BT" size="34">Raw provider      <font size="40">GS-Raws</font></font>
 
 18
 00:00:51,200 --> 00:00:56,050
@@ -141,7 +141,7 @@ Halee</font></font>
 
 34
 00:01:52,800 --> 00:01:55,610
-<font face="Impress BT" size="55">Captain Vergo said that he would handle things. {Cecil: LOL REKT}</font>
+<font face="Impress BT" size="55">Captain Vergo said that he would handle things. </font>
 
 35
 00:01:57,130 --> 00:01:58,600
@@ -153,7 +153,7 @@ Halee</font></font>
 
 37
 00:02:15,360 --> 00:02:18,880
-<font face="Impress BT" size="55">Monet? What are you doing here? {MAI WAIFU!!}</font>
+<font face="Impress BT" size="55">Monet? What are you doing here? </font>
 
 38
 00:02:18,880 --> 00:02:22,220
@@ -197,7 +197,7 @@ Halee</font></font>
 
 48
 00:02:59,630 --> 00:03:02,730
-<font face="Impress BT" size="55">It's a palace worthy of the young master -in! {Cecil: I really hate his speech quirk}</font>
+<font face="Impress BT" size="55">It's a palace worthy of the young master -in! </font>
 
 49
 00:03:02,910 --> 00:03:04,510
@@ -333,7 +333,7 @@ Halee</font></font>
 
 82
 00:05:54,970 --> 00:05:59,340
-<font face="Impress BT" size="55">My name is Donquixote Doflamingo.{we're backstreet boys, the ones who sing "I don't care who you're, where you're from, what you did as long as you save me" ^^}</font>
+<font face="Impress BT" size="55">My name is Donquixote Doflamingo.</font>
 
 83
 00:05:59,340 --> 00:06:01,470
@@ -570,7 +570,7 @@ and it goes for us toys as well.</font>
 
 141
 00:10:53,260 --> 00:10:59,400
-<font face="Impress BT" size="55">That unknown number of tragedies{Yeah this phrasing might be a bit awkward, but I really feel we should keep this line in... Partially because the manga-chapter this episode was based off was literally NAMED "Number of tragedies". -Starfish} is the key to our plan.</font>
+<font face="Impress BT" size="55">That unknown number of tragedies is the key to our plan.</font>
 
 142
 00:10:59,400 --> 00:11:01,140
@@ -578,7 +578,7 @@ and it goes for us toys as well.</font>
 
 143
 00:11:01,140 --> 00:11:04,290
-<font face="Impress BT" size="55">That's what you meant when you said you still have a chance.{Isis: I changed the line a bit to match what was said in ep 652, and I didn't like the previous phrasing anyway :P }</font>
+<font face="Impress BT" size="55">That's what you meant when you said you still have a chance.</font>
 
 144
 00:11:04,290 --> 00:11:09,310
@@ -671,7 +671,7 @@ then that would make for quite the fighting force.</font>
 
 166
 00:12:18,550 --> 00:12:21,720
-<font face="Impress BT" size="55">{\an8}Even though you're retired, you brought a ship over here?</font>
+<font face="Impress BT" size="55">Even though you're retired, you brought a ship over here?</font>
 
 167
 00:12:18,810 --> 00:12:21,720
@@ -775,7 +775,7 @@ then that would make for quite the fighting force.</font>
 
 192
 00:13:39,510 --> 00:13:43,010
-<font face="Impress BT" size="55"><i>Joker wants me to kill Straw Hat?{Copy-paste from 644}</i></font>
+<font face="Impress BT" size="55"><i>Joker wants me to kill Straw Hat?</i></font>
 
 193
 00:13:43,010 --> 00:13:45,970
@@ -783,7 +783,7 @@ then that would make for quite the fighting force.</font>
 
 194
 00:13:45,970 --> 00:13:49,790
-<font face="Impress BT" size="55"><i>Do so, and you'll finally be a member of the Family. {End copy-paste from 644}</i></font>
+<font face="Impress BT" size="55"><i>Do so, and you'll finally be a member of the Family. </i></font>
 
 195
 00:13:52,090 --> 00:13:54,100
@@ -840,7 +840,7 @@ Combatant, Dellinger</font></font>
 
 208
 00:14:40,690 --> 00:14:44,660
-<font face="Impress BT" size="55">The assassination order was just one of his whims. {Xemnas: Nuance and all}</font>
+<font face="Impress BT" size="55">The assassination order was just one of his whims. </font>
 
 209
 00:14:44,660 --> 00:14:47,530
@@ -848,11 +848,11 @@ Combatant, Dellinger</font></font>
 
 210
 00:14:47,530 --> 00:14:50,650
-<font face="Impress BT" size="55">so I'm meant to kill you right here. {Cecil4: I put in "kill" cause "take you out" seems a bit weird in this context.. but if he said something that dosen't infer killing, beating up or w/e, feel free to change it back.}</font>
+<font face="Impress BT" size="55">so I'm meant to kill you right here. </font>
 
 211
 00:14:51,360 --> 00:14:52,990
-<font face="Impress BT" size="55">Under the young master's orders.{If this sounded a bit weird, feel free to add "under" at the beginning .Isis}</font>
+<font face="Impress BT" size="55">Under the young master's orders.</font>
 
 212
 00:14:53,760 --> 00:14:55,620
@@ -948,7 +948,7 @@ Combatant, Dellinger</font></font>
 
 235
 00:16:20,610 --> 00:16:23,010
-<font face="Impress BT" size="55">Oh, you talk as if I'm some kind of prodigy. {Yet another Oda running gag, lol}</font>
+<font face="Impress BT" size="55">Oh, you talk as if I'm some kind of prodigy. </font>
 
 236
 00:16:23,010 --> 00:16:24,870
@@ -980,7 +980,7 @@ Combatant, Dellinger</font></font>
 
 243
 00:16:49,590 --> 00:16:54,230
-<font face="Impress BT" size="55">Having lost the Smiles, I would get killed by Kaidou. {His head is bobbing like a freaking pigeon O_O}</font>
+<font face="Impress BT" size="55">Having lost the Smiles, I would get killed by Kaidou. </font>
 
 244
 00:16:54,230 --> 00:16:56,330
@@ -988,7 +988,7 @@ Combatant, Dellinger</font></font>
 
 245
 00:16:57,900 --> 00:17:02,600
-<font face="Impress BT" size="55">But you were defeated much sooner than you anticipated, {Cecil: aka he didn't expect to have to face Fujitora ALONGSIDE Doflamingo}</font>
+<font face="Impress BT" size="55">But you were defeated much sooner than you anticipated, </font>
 
 246
 00:17:02,600 --> 00:17:05,170
@@ -1016,7 +1016,7 @@ Combatant, Dellinger</font></font>
 
 252
 00:17:27,820 --> 00:17:31,200
-<font face="Impress BT" size="55">cause another storm! {Cecil: Doffy's reaction to this isn't canon btw, so don't read into it like he knows the secret to the D and is mad about it. Talking to you, Isis!}{Wakarimashita Senpai  >.<}</font>
+<font face="Impress BT" size="55">cause another storm! </font>
 
 253
 00:17:31,200 --> 00:17:33,500
@@ -1037,7 +1037,7 @@ In front of the Corrida Colosseum</font>
 
 257
 00:17:39,940 --> 00:17:43,070
-<font face="Impress BT" size="55">{\an8}Here we are running all over town while you're just having fun!</font>
+<font face="Impress BT" size="55">Here we are running all over town while you're just having fun!</font>
 
 258
 00:17:43,410 --> 00:17:46,490
@@ -1146,11 +1146,11 @@ Shark-Slicer Bastille</font>
 
 284
 00:19:05,790 --> 00:19:09,070
-<font face="Impress BT" size="55">The navy has surrounded the colosseum.{Isis: I'm not sure if it should be marines or the navy. I forgot, so shoot me}</font>
+<font face="Impress BT" size="55">The navy has surrounded the colosseum.</font>
 
 285
 00:19:10,170 --> 00:19:12,630
-<font face="Impress BT" size="55">So casual! That's what we came to say!{Cecil: Is he trying to say "That's why we came to see you?" cause if so I don't really think it shows}{Xemnas: Yeah, that's pretty much what he means.}</font>
+<font face="Impress BT" size="55">So casual! That's what we came to say!</font>
 
 286
 00:19:12,760 --> 00:19:17,080
@@ -1234,7 +1234,7 @@ Shark-Slicer Bastille</font>
 
 306
 00:19:54,420 --> 00:19:56,910
-<font face="Impress BT" size="55"><i>Excuse us!</i>{Xemnas: Dem tails}</font>
+<font face="Impress BT" size="55"><i>Excuse us!</i></font>
 
 307
 00:19:58,000 --> 00:19:58,940
@@ -1262,11 +1262,11 @@ Shark-Slicer Bastille</font>
 
 313
 00:20:16,280 --> 00:20:18,630
-<font face="Impress BT" size="55"><i>He intends to sacrifice his own life...{Copy-paste from 650}</i></font>
+<font face="Impress BT" size="55"><i>He intends to sacrifice his own life...</i></font>
 
 314
 00:20:18,630 --> 00:20:20,660
-<font face="Impress BT" size="55"><i>to bring down this kingdom!{End copy-paste from 650}</i></font>
+<font face="Impress BT" size="55"><i>to bring down this kingdom!</i></font>
 
 315
 00:20:20,830 --> 00:20:23,800
@@ -1302,7 +1302,7 @@ Shark-Slicer Bastille</font>
 
 323
 00:20:41,080 --> 00:20:45,880
-<font face="Impress BT" size="55"><i>But once she entered the fight, the audience started really pissing me off! {Cecil: Does he specify that they peppered her with insults? Cause I'd think that would be worth stating in this line}</i>{Xemnas: No he doesn't}</font>
+<font face="Impress BT" size="55"><i>But once she entered the fight, the audience started really pissing me off! </i></font>
 
 324
 00:20:45,880 --> 00:20:48,430
@@ -1382,7 +1382,7 @@ Shark-Slicer Bastille</font>
 
 343
 00:22:07,740 --> 00:22:09,540
-<font face="Impress BT" size="55">I won't back down! {Previously: I will do this! I edited this a bit liberally}</font>
+<font face="Impress BT" size="55">I won't back down! </font>
 
 344
 00:22:10,140 --> 00:22:11,210
@@ -1390,7 +1390,7 @@ Shark-Slicer Bastille</font>
 
 345
 00:22:13,150 --> 00:22:16,180
-<font face="Impress BT" size="55"><i>Soldier-san's gonna die.{Copy-paste from 651.}</i></font>
+<font face="Impress BT" size="55"><i>Soldier-san's gonna die.</i></font>
 
 346
 00:22:17,960 --> 00:22:19,480

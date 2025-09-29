@@ -9,72 +9,72 @@ https://mpv.io/
 
 2
 00:00:54,190 --> 00:00:57,320
-<font face="Khalid Art bold" size="60">{\an7}مونتاج</font>
+<font face="Khalid Art bold" size="60">مونتاج</font>
 
 3
 00:00:54,190 --> 00:00:57,320
-<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}Sewil</b></font>
+<font face="FOT-Greco Std B Strp" size="43"><b>Sewil</b></font>
 
 4
 00:00:57,320 --> 00:01:00,040
-<font face="Khalid Art bold" size="60">{\an7}جرافيك</font>
+<font face="Khalid Art bold" size="60">جرافيك</font>
 
 5
 00:00:57,320 --> 00:01:00,040
-<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}Datenshi</b></font>
+<font face="FOT-Greco Std B Strp" size="43"><b>Datenshi</b></font>
 
 6
 00:01:00,040 --> 00:01:03,240
-<font face="Khalid Art bold" size="60">{\an7}ضبط الجودة</font>
+<font face="Khalid Art bold" size="60">ضبط الجودة</font>
 
 7
 00:01:00,040 --> 00:01:03,240
-<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}Galaxy 9000
+<font face="FOT-Greco Std B Strp" size="43"><b>Galaxy 9000
 Pepperjack
 Zenef
 PhosCity</b></font>
 
 8
 00:01:03,240 --> 00:01:06,490
-<font face="Khalid Art bold" size="60">{\an7}كاريوكي</font>
+<font face="Khalid Art bold" size="60">كاريوكي</font>
 
 9
 00:01:03,240 --> 00:01:06,490
-<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}KaitouYahiko</b></font>
+<font face="FOT-Greco Std B Strp" size="43"><b>KaitouYahiko</b></font>
 
 10
 00:01:06,490 --> 00:01:09,300
-<font face="Khalid Art bold" size="60">{\an7}الصوت</font>
+<font face="Khalid Art bold" size="60">الصوت</font>
 
 11
 00:01:06,490 --> 00:01:09,300
-<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}Halee</b></font>
+<font face="FOT-Greco Std B Strp" size="43"><b>Halee</b></font>
 
 12
 00:01:09,300 --> 00:01:12,520
-<font face="Khalid Art bold" size="60">{\an7}مزامنة الترجمة</font>
+<font face="Khalid Art bold" size="60">مزامنة الترجمة</font>
 
 13
 00:01:09,300 --> 00:01:12,520
-<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}Gab
+<font face="FOT-Greco Std B Strp" size="43"><b>Gab
 Raven-</b></font>
 
 14
 00:01:12,520 --> 00:01:15,330
-<font face="Khalid Art bold" size="60">{\an7}التدقيق اللغوي</font>
+<font face="Khalid Art bold" size="60">التدقيق اللغوي</font>
 
 15
 00:01:12,520 --> 00:01:15,330
-<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}Raven-
+<font face="FOT-Greco Std B Strp" size="43"><b>Raven-
 FiberAhmed</b></font>
 
 16
 00:01:15,330 --> 00:01:18,200
-<font face="Khalid Art bold" size="60">{\an7}ترجمة</font>
+<font face="Khalid Art bold" size="60">ترجمة</font>
 
 17
 00:01:15,330 --> 00:01:18,200
-<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}Crunchyroll
+<font face="FOT-Greco Std B Strp" size="43"><b>Crunchyroll
 ESPADAS-3ASQ</b></font>
 
 18
@@ -122,21 +122,19 @@ https://mpv.io/
 
 27
 00:02:13,000 --> 00:02:16,070
-<font face="Bahij Nassim" size="111"><b>{I know, Usopp.
-Complaining won't get us anywhere. - OG}أعلم يا أوسوب، لن تفيدنا الشّكوى بأيّ شيء{Ravenfire}</b></font>
+<font face="Bahij Nassim" size="111"><b>أعلم يا أوسوب، لن تفيدنا الشّكوى بأيّ شيء</b></font>
 
 28
 00:02:16,670 --> 00:02:20,040
-<font face="Bahij Nassim" size="111"><b>{Going Merry is an important part of the team. - OG}{The [/i1]Going Merry[/i0] is a major
-part of the team. - Ravenfire}،غوينغ ميري رفيق قيّم لنا{Ravenfire; Jasmine note: important here is more in line w/ cherished}</b></font>
+<font face="Bahij Nassim" size="111"><b>،غوينغ ميري رفيق قيّم لنا</b></font>
 
 29
 00:02:18,180 --> 00:02:19,680
-<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>{[/an8]You know exactly...! - OG}{\an8}!...تعرف تمامًا{Jasmine}</b></font>
+<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>!...تعرف تمامًا</b></font>
 
 30
 00:02:19,680 --> 00:02:21,200
-<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>{\an8}...تعرف... تعرف</b></font>
+<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>...تعرف... تعرف</b></font>
 
 31
 00:02:20,040 --> 00:02:23,250
@@ -144,7 +142,7 @@ part of the team. - Ravenfire}،غوينغ ميري رفيق قيّم لنا{Rav
 
 32
 00:02:22,370 --> 00:02:26,290
-<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>{[/an8]How we... How... How... How we...! - OG}{\an8}!...تمامًا كيف... تمامًا كيف... تمامًا كيف{Jasmine}</b></font>
+<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>!...تمامًا كيف... تمامًا كيف... تمامًا كيف</b></font>
 
 33
 00:02:23,260 --> 00:02:26,290
@@ -161,7 +159,7 @@ part of the team. - Ravenfire}،غوينغ ميري رفيق قيّم لنا{Rav
 
 36
 00:02:36,030 --> 00:02:38,180
-<font face="Bahij Nassim" size="111"><b>{We're almost here on the map. - OG}سنصل إلى الموقع المحدد على الخريطة قريبًا{Ravenfire}</b></font>
+<font face="Bahij Nassim" size="111"><b>سنصل إلى الموقع المحدد على الخريطة قريبًا</b></font>
 
 37
 00:02:38,200 --> 00:02:40,520
@@ -173,10 +171,8 @@ part of the team. - Ravenfire}،غوينغ ميري رفيق قيّم لنا{Rav
 
 39
 00:02:42,730 --> 00:02:45,830
-<font face="Bahij Nassim" size="111"><b>{similar to Jaya 03 @13:02}{So that man who talks of
-dreams lives there, huh? - OG}{So that man who spoke
-of his dreams lives there? - Ravenfire}إذًا فالرّجل الّذي يتحدّث 
-عن الأحلام هناك، صحيح؟{Ravenfire/Jasmine}</b></font>
+<font face="Bahij Nassim" size="111"><b>إذًا فالرّجل الّذي يتحدّث 
+عن الأحلام هناك، صحيح؟</b></font>
 
 40
 00:02:46,560 --> 00:02:48,770
@@ -200,7 +196,7 @@ of his dreams lives there? - Ravenfire}إذًا فالرّجل الّذي يتح
 
 45
 00:03:05,920 --> 00:03:06,790
-<font face="Bahij Nassim" size="111"><b>لماذا؟{- OG}{What? - Jasmine}{What do you mean? - PJ}{Reverting to OG for Skypiea 07 CPS~Poppy}</b></font>
+<font face="Bahij Nassim" size="111"><b>لماذا؟</b></font>
 
 46
 00:03:10,010 --> 00:03:13,420
@@ -350,7 +346,7 @@ of his dreams lives there? - Ravenfire}إذًا فالرّجل الّذي يتح
 
 81
 00:04:35,510 --> 00:04:45,350
-<font face="Hacen Digital Arabia LT" size="60">{\an8}«نولاند الكذاب»</font>
+<font face="Hacen Digital Arabia LT" size="60">«نولاند الكذاب»</font>
 
 82
 00:04:36,440 --> 00:04:39,380
@@ -358,15 +354,12 @@ of his dreams lives there? - Ravenfire}إذًا فالرّجل الّذي يتح
 
 83
 00:04:39,380 --> 00:04:40,590
-<font face="Bahij Nassim" size="111"><b>{It's a fairy tale, - OG}{It might be a folk tale, - Ravenfire}،إنّها قصّة خياليّة{Ravenfire}</b></font>
+<font face="Bahij Nassim" size="111"><b>،إنّها قصّة خياليّة</b></font>
 
 84
 00:04:40,590 --> 00:04:46,930
-<font face="Bahij Nassim" size="111"><b>{but I've heard that this
-Noland guy actually existed long ago. - OG}{but I've heard this Noland guy
-was a real person that lived long ago. - Ravenfire}{but I've heard that this Noland guy
-was really alive once upon a time. - Ravenfire}لكن سمعتُ أنّ نولاند هذا
-عاش حقًّا قبل زمن بعيد{Ravenfire/Zen}</b></font>
+<font face="Bahij Nassim" size="111"><b>لكن سمعتُ أنّ نولاند هذا
+عاش حقًّا قبل زمن بعيد</b></font>
 
 85
 00:04:47,660 --> 00:04:50,520
@@ -374,98 +367,93 @@ was really alive once upon a time. - Ravenfire}لكن سمعتُ أنّ نولا
 
 86
 00:04:50,520 --> 00:04:54,610
-<font face="Bahij Nassim" size="111"><b>{A story that took place 400 long years ago. - OG}قصة تعود أحداثها لأربعمائة عام من الآن{Ravenfire}</b></font>
+<font face="Bahij Nassim" size="111"><b>قصة تعود أحداثها لأربعمائة عام من الآن</b></font>
 
 87
 00:04:54,610 --> 00:04:54,650
-<font face="Bahij Nassim" size="111"><b>{A story that took place 400 long years ago. - OG}قصة تعود أحداثها لأربعمائة عام من الآن{Ravenfire}</b></font>
+<font face="Bahij Nassim" size="111"><b>قصة تعود أحداثها لأربعمائة عام من الآن</b></font>
 
 88
 00:04:54,650 --> 00:04:54,690
-<font face="Bahij Nassim" size="111"><b>{A story that took place 400 long years ago. - OG}قصة تعود أحداثها لأربعمائة عام من الآن{Ravenfire}</b></font>
+<font face="Bahij Nassim" size="111"><b>قصة تعود أحداثها لأربعمائة عام من الآن</b></font>
 
 89
 00:04:54,690 --> 00:04:54,730
-<font face="Bahij Nassim" size="111"><b>{A story that took place 400 long years ago. - OG}قصة تعود أحداثها لأربعمائة عام من الآن{Ravenfire}</b></font>
+<font face="Bahij Nassim" size="111"><b>قصة تعود أحداثها لأربعمائة عام من الآن</b></font>
 
 90
 00:04:54,730 --> 00:04:54,770
-<font face="Bahij Nassim" size="111"><b>{A story that took place 400 long years ago. - OG}قصة تعود أحداثها لأربعمائة عام من الآن{Ravenfire}</b></font>
+<font face="Bahij Nassim" size="111"><b>قصة تعود أحداثها لأربعمائة عام من الآن</b></font>
 
 91
 00:04:55,330 --> 00:05:01,070
-<font face="Bahij Nassim" size="111"><b>{A man named Mont Blanc 
-Noland lived in a North Blue country. - OG}{In part of the North Blue, there 
-was a man named Mont Blanc Noland. - Ravenfire}لرجل يُدعى مونبلان نولاند
+<font face="Bahij Nassim" size="111"><b>لرجل يُدعى مونبلان نولاند
 من بلادٍ في الأزرق الشمالي</b></font>
 
 92
 00:05:01,070 --> 00:05:01,110
 <font face="Bahij Nassim" size="111"><b>لرجل يُدعى مونبلان نولاند
-من بلادٍ في الأزرق الشمالي{Ravenfire/Jasmine}</b></font>
+من بلادٍ في الأزرق الشمالي</b></font>
 
 93
 00:05:01,110 --> 00:05:01,160
 <font face="Bahij Nassim" size="111"><b>لرجل يُدعى مونبلان نولاند
-من بلادٍ في الأزرق الشمالي{Ravenfire/Jasmine}</b></font>
+من بلادٍ في الأزرق الشمالي</b></font>
 
 94
 00:05:01,160 --> 00:05:01,200
 <font face="Bahij Nassim" size="111"><b>لرجل يُدعى مونبلان نولاند
-من بلادٍ في الأزرق الشمالي{Ravenfire/Jasmine}</b></font>
+من بلادٍ في الأزرق الشمالي</b></font>
 
 95
 00:05:01,670 --> 00:05:07,250
-<font face="Bahij Nassim" size="111"><b>{Noland, an explorer, always talked
-about his incredible adventures. - OG}{Noland was an explorer that always
-spoke of his incredible adventures. - Ravenfire}{Noland was an explorer that always
-spoke of his fantastical adventures. -Ravenfire}كان نولاند مكتشفًا كثير الحديث 
-عن مغامراته المدهشة{T}{Skypiea 21 01:57}</b></font>
+<font face="Bahij Nassim" size="111"><b>كان نولاند مكتشفًا كثير الحديث 
+عن مغامراته المدهشة</b></font>
 
 96
 00:05:07,250 --> 00:05:12,000
 <font face="Bahij Nassim" size="111"><b>ولكن القرويّون لم يكن بوسعهم
- معرفة صحّة تلك القصص من عدمها{rangicus}</b></font>
+ معرفة صحّة تلك القصص من عدمها</b></font>
 
 97
 00:05:12,000 --> 00:05:12,040
 <font face="Bahij Nassim" size="111"><b>ولكن القرويّون لم يكن بوسعهم
- معرفة صحّة تلك القصص من عدمها{rangicus}</b></font>
+ معرفة صحّة تلك القصص من عدمها</b></font>
 
 98
 00:05:12,040 --> 00:05:12,080
 <font face="Bahij Nassim" size="111"><b>ولكن القرويّون لم يكن بوسعهم
- معرفة صحّة تلك القصص من عدمها{rangicus}</b></font>
+ معرفة صحّة تلك القصص من عدمها</b></font>
 
 99
 00:05:12,080 --> 00:05:12,120
 <font face="Bahij Nassim" size="111"><b>ولكن القرويّون لم يكن بوسعهم
- معرفة صحّة تلك القصص من عدمها{rangicus}</b></font>
+ معرفة صحّة تلك القصص من عدمها</b></font>
 
 100
 00:05:12,120 --> 00:05:12,170
 <font face="Bahij Nassim" size="111"><b>ولكن القرويّون لم يكن بوسعهم
- معرفة صحّة تلك القصص من عدمها{rangicus}</b></font>
+ معرفة صحّة تلك القصص من عدمها</b></font>
 
 101
 00:05:13,000 --> 00:05:17,960
 <font face="Bahij Nassim" size="111"><b>وذات يوم، ذهب للقاء الملك 
-:بعد عودته من ترحاله وقال له{Ravenfire/Westfal}</b></font>
+:بعد عودته من ترحاله وقال له</b></font>
 
 102
 00:05:17,960 --> 00:05:18,010
 <font face="Bahij Nassim" size="111"><b>وذات يوم، ذهب للقاء الملك 
-:بعد عودته من ترحاله وقال له{Ravenfire/Westfal}</b></font>
+:بعد عودته من ترحاله وقال له</b></font>
 
 103
 00:05:18,010 --> 00:05:18,050
 <font face="Bahij Nassim" size="111"><b>وذات يوم، ذهب للقاء الملك 
-:بعد عودته من ترحاله وقال له{Ravenfire/Westfal}</b></font>
+:بعد عودته من ترحاله وقال له</b></font>
 
 104
 00:05:18,050 --> 00:05:18,090
 <font face="Bahij Nassim" size="111"><b>وذات يوم، ذهب للقاء الملك 
-:بعد عودته من ترحاله وقال له{Ravenfire/Westfal}</b></font>
+:بعد عودته من ترحاله وقال له</b></font>
 
 105
 00:05:18,860 --> 00:05:24,180
@@ -523,68 +511,68 @@ spoke of his fantastical adventures. -Ravenfire}كان نولاند مكتشفً
 118
 00:05:33,100 --> 00:05:36,820
 <font face="Bahij Nassim" size="111"><b>بعد نجاتهم من عواصف عظيمة
-،ومقاتلتهم لوحوش كثيرة{Ravenfire/Jasmine}</b></font>
+،ومقاتلتهم لوحوش كثيرة</b></font>
 
 119
 00:05:36,820 --> 00:05:36,860
 <font face="Bahij Nassim" size="111"><b>بعد نجاتهم من عواصف عظيمة
-،ومقاتلتهم لوحوش كثيرة{Ravenfire/Jasmine}</b></font>
+،ومقاتلتهم لوحوش كثيرة</b></font>
 
 120
 00:05:36,820 --> 00:05:36,860
 <font face="Bahij Nassim" size="111"><b>لم يصل منهم سوى الملك 
-ونولاند ومائة جنديّ فحسب للجزيرة{Ravenfire}</b></font>
+ونولاند ومائة جنديّ فحسب للجزيرة</b></font>
 
 121
 00:05:36,860 --> 00:05:36,900
 <font face="Bahij Nassim" size="111"><b>بعد نجاتهم من عواصف عظيمة
-،ومقاتلتهم لوحوش كثيرة{Ravenfire/Jasmine}</b></font>
+،ومقاتلتهم لوحوش كثيرة</b></font>
 
 122
 00:05:36,860 --> 00:05:36,900
 <font face="Bahij Nassim" size="111"><b>لم يصل منهم سوى الملك 
-ونولاند ومائة جنديّ فحسب للجزيرة{Ravenfire}</b></font>
+ونولاند ومائة جنديّ فحسب للجزيرة</b></font>
 
 123
 00:05:36,900 --> 00:05:36,940
 <font face="Bahij Nassim" size="111"><b>بعد نجاتهم من عواصف عظيمة
-،ومقاتلتهم لوحوش كثيرة{Ravenfire/Jasmine}</b></font>
+،ومقاتلتهم لوحوش كثيرة</b></font>
 
 124
 00:05:36,900 --> 00:05:36,940
 <font face="Bahij Nassim" size="111"><b>لم يصل منهم سوى الملك 
-ونولاند ومائة جنديّ فحسب للجزيرة{Ravenfire}</b></font>
+ونولاند ومائة جنديّ فحسب للجزيرة</b></font>
 
 125
 00:05:36,940 --> 00:05:36,980
 <font face="Bahij Nassim" size="111"><b>بعد نجاتهم من عواصف عظيمة
-،ومقاتلتهم لوحوش كثيرة{Ravenfire/Jasmine}</b></font>
+،ومقاتلتهم لوحوش كثيرة</b></font>
 
 126
 00:05:36,940 --> 00:05:36,980
 <font face="Bahij Nassim" size="111"><b>لم يصل منهم سوى الملك 
-ونولاند ومائة جنديّ فحسب للجزيرة{Ravenfire}</b></font>
+ونولاند ومائة جنديّ فحسب للجزيرة</b></font>
 
 127
 00:05:36,980 --> 00:05:44,530
 <font face="Bahij Nassim" size="111"><b>لم يصل منهم سوى الملك 
-ونولاند ومائة جنديّ فحسب للجزيرة{Ravenfire}</b></font>
+ونولاند ومائة جنديّ فحسب للجزيرة</b></font>
 
 128
 00:05:44,530 --> 00:05:49,290
-<font face="Bahij Nassim" size="111"><b>ولكن، ما وجدوه كان مجرّد غابة{Westfal}</b></font>
+<font face="Bahij Nassim" size="111"><b>ولكن، ما وجدوه كان مجرّد غابة</b></font>
 
 129
 00:05:49,290 --> 00:05:49,330
-<font face="Bahij Nassim" size="111"><b>ولكن، ما وجدوه كان مجرّد غابة{Westfal}</b></font>
+<font face="Bahij Nassim" size="111"><b>ولكن، ما وجدوه كان مجرّد غابة</b></font>
 
 130
 00:05:49,330 --> 00:05:49,370
-<font face="Bahij Nassim" size="111"><b>ولكن، ما وجدوه كان مجرّد غابة{Westfal}</b></font>
+<font face="Bahij Nassim" size="111"><b>ولكن، ما وجدوه كان مجرّد غابة</b></font>
 
 131
 00:05:49,370 --> 00:05:49,410
-<font face="Bahij Nassim" size="111"><b>ولكن، ما وجدوه كان مجرّد غابة{Westfal}</b></font>
+<font face="Bahij Nassim" size="111"><b>ولكن، ما وجدوه كان مجرّد غابة</b></font>
 
 132
 00:05:50,050 --> 00:05:54,830
@@ -593,46 +581,41 @@ spoke of his fantastical adventures. -Ravenfire}كان نولاند مكتشفً
 
 133
 00:05:54,830 --> 00:05:57,710
-<font face="Bahij Nassim" size="111"><b>{Noland's last words were as follows: - OG}:وقد كانت كلمات نولاند الأخيرة كالتّالي{Ravenfire}</b></font>
+<font face="Bahij Nassim" size="111"><b>:وقد كانت كلمات نولاند الأخيرة كالتّالي</b></font>
 
 134
 00:05:57,710 --> 00:05:57,750
-<font face="Bahij Nassim" size="111"><b>{Noland's last words were as follows: - OG}:وقد كانت كلمات نولاند الأخيرة كالتّالي{Ravenfire}</b></font>
+<font face="Bahij Nassim" size="111"><b>:وقد كانت كلمات نولاند الأخيرة كالتّالي</b></font>
 
 135
 00:05:57,750 --> 00:05:57,800
-<font face="Bahij Nassim" size="111"><b>{Noland's last words were as follows: - OG}:وقد كانت كلمات نولاند الأخيرة كالتّالي{Ravenfire}</b></font>
+<font face="Bahij Nassim" size="111"><b>:وقد كانت كلمات نولاند الأخيرة كالتّالي</b></font>
 
 136
 00:05:57,800 --> 00:05:57,840
-<font face="Bahij Nassim" size="111"><b>{Noland's last words were as follows: - OG}:وقد كانت كلمات نولاند الأخيرة كالتّالي{Ravenfire}</b></font>
+<font face="Bahij Nassim" size="111"><b>:وقد كانت كلمات نولاند الأخيرة كالتّالي</b></font>
 
 137
 00:05:58,560 --> 00:06:02,590
-<font face="Bahij Nassim" size="111"><b>{"That's right! The mountain of gold sank in the sea!" - OG}هذا صحيح! غرق جبل الذّهب»
-«!عميقًا في البحر{Ravenfire}</b></font>
+<font face="Bahij Nassim" size="111"><b>هذا صحيح! غرق جبل الذّهب»
+«!عميقًا في البحر</b></font>
 
 138
 00:06:02,610 --> 00:06:05,470
-<font face="Bahij Nassim" size="111"><b>{The king and the others
-were dumbfounded. - OG}كان الملك والآخرون مصدومين{Ravenfire}</b></font>
+<font face="Bahij Nassim" size="111"><b>كان الملك والآخرون مصدومين</b></font>
 
 139
 00:06:05,470 --> 00:06:08,560
-<font face="Bahij Nassim" size="111"><b>{No one believed Noland any longer - OG}لم يصدّق أحد نولاند بعد ذلك{Jasmine}</b></font>
+<font face="Bahij Nassim" size="111"><b>لم يصدّق أحد نولاند بعد ذلك</b></font>
 
 140
 00:06:08,560 --> 00:06:13,850
-<font face="Bahij Nassim" size="111"><b>{because Noland continued
-to lie until his very death. - OG}{because Noland continued
-to lie until his dying breath. - Ravenfire}لأنّه واصل كذبه حتّى لحظة مماته{Ravenfire/Jasmine}</b></font>
+<font face="Bahij Nassim" size="111"><b>لأنّه واصل كذبه حتّى لحظة مماته</b></font>
 
 141
 00:06:13,850 --> 00:06:16,980
-<font face="Bahij Nassim" size="111"><b>{This book is based on the North Blue
-fairy tale "Noland the Liar." - OG}{This book is based on the North Blue
-folk tale "Noland the Liar." - Ravenfire}«عن قصص «نولاند الكذّاب
-من الأزرق الشّماليّ الخياليّة{Ravenfire}</b></font>
+<font face="Bahij Nassim" size="111"><b>«عن قصص «نولاند الكذّاب
+من الأزرق الشّماليّ الخياليّة</b></font>
 
 142
 00:06:17,190 --> 00:06:20,480
@@ -675,17 +658,13 @@ folk tale "Noland the Liar." - Ravenfire}«عن قصص «نولاند الكذّ
 
 151
 00:06:45,220 --> 00:06:48,550
-<font face="Bahij Nassim" size="111"><b>{I never would've imagined that
-Jaya was the island in that fairy tale. - OG}{I never would've guessed
-Jaya was the island in that folk tale. - Ravenfire}{I never would've guessed Jaya was
-the island in a children's story. - Ravenfire/Jasmine}ما كنتُ لأتخيّل أبدًا أنّ جايا
-هي الجزيرة المذكورة في القصّة{Ravenfire/Jasmine/PJ}</b></font>
+<font face="Bahij Nassim" size="111"><b>ما كنتُ لأتخيّل أبدًا أنّ جايا
+هي الجزيرة المذكورة في القصّة</b></font>
 
 152
 00:06:48,550 --> 00:06:51,720
-<font face="Bahij Nassim" size="111"><b>{And after 400 years,
-a descendant of Noland the Liar - OG}،وبعد أربعمائة سنة
-يبحث سليل نولاند الكذّاب{Ravenfire}</b></font>
+<font face="Bahij Nassim" size="111"><b>،وبعد أربعمائة سنة
+يبحث سليل نولاند الكذّاب</b></font>
 
 153
 00:06:51,720 --> 00:06:55,900
@@ -744,13 +723,13 @@ a descendant of Noland the Liar - OG}،وبعد أربعمائة سنة
 
 166
 00:07:52,200 --> 00:07:55,660
-<font face="Bahij Nassim" size="111"><b>{\an8}يا لجرأتكم وأنتم تسترخون 
+<font face="Bahij Nassim" size="111"><b>يا لجرأتكم وأنتم تسترخون 
 !في منزل غيركم دون إذن</b></font>
 
 167
 00:07:52,370 --> 00:07:57,750
 <font face="Al-Jazeera-Arabic-Bold" size="70"><font size="70">«القرصان «مونبلان كريكت
-أحد قادّة تحالف ساروياما{Gaijin/Ravenfire}</font></font>
+أحد قادّة تحالف ساروياما</font></font>
 
 168
 00:07:52,370 --> 00:07:57,750
@@ -764,7 +743,7 @@ a descendant of Noland the Liar - OG}،وبعد أربعمائة سنة
 
 170
 00:07:55,660 --> 00:07:57,750
-<font face="Bahij Nassim" size="111"><b>{\an8}!هذا الجزء من البحر ضمن منطقتي</b></font>
+<font face="Bahij Nassim" size="111"><b>!هذا الجزء من البحر ضمن منطقتي</b></font>
 
 171
 00:07:57,750 --> 00:08:00,290
@@ -952,7 +931,7 @@ a descendant of Noland the Liar - OG}،وبعد أربعمائة سنة
 
 214
 00:10:35,380 --> 00:10:36,490
-<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>{\an8}...أنتم</b></font>
+<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>...أنتم</b></font>
 
 215
 00:10:37,700 --> 00:10:39,660
@@ -1160,42 +1139,37 @@ a descendant of Noland the Liar - OG}،وبعد أربعمائة سنة
 
 263
 00:13:17,400 --> 00:13:22,030
-<font face="Bahij Nassim" size="111"><b>{match to 05:58}{"That's right! The mountain of gold sank in the sea!" - OG}هذا صحيح! غرق جبل الذّهب»
-«!عميقًا في البحر{Ravenfire}</b></font>
+<font face="Bahij Nassim" size="111"><b>هذا صحيح! غرق جبل الذّهب»
+«!عميقًا في البحر</b></font>
 
 264
 00:13:22,030 --> 00:13:24,830
-<font face="Bahij Nassim" size="111"><b>{A stupid-looking face is drawn in this book... - OG}<font color="#808181">رُسم وجه تعلوه ملامح 
-الغباء في الكتاب{Ravenfire/PJ}</font></b></font>
+<font face="Bahij Nassim" size="111"><b><font color="#808181">رُسم وجه تعلوه ملامح 
+الغباء في الكتاب</font></b></font>
 
 265
 00:13:24,830 --> 00:13:30,660
-<font face="Bahij Nassim" size="111"><b>{but he shed many tears
-and died a regrettable death. - OG}<font color="#808181"><font color="#ffffff">لكنّه ذرف دموعًا كثيرة 
-ومات ميتة يملؤها النّدم{Ravenfire/Westfal; Jasmine note: he was crying profusely as he died instead of crying and then dying.}</font></font></b></font>
+<font face="Bahij Nassim" size="111"><b><font color="#808181"><font color="#ffffff">لكنّه ذرف دموعًا كثيرة 
+ومات ميتة يملؤها النّدم</font></font></b></font>
 
 266
 00:13:30,660 --> 00:13:33,000
-<font face="Bahij Nassim" size="111"><b>{He was sure that the island
-he reached was Jaya, - OG}{He was positive that
-the island he landed on - Ravenfire}كان واثقًا أنّ الجزيرة 
-،الّتي وصل إليها كانت جايا{Ravenfire/Jasmine}</b></font>
+<font face="Bahij Nassim" size="111"><b>كان واثقًا أنّ الجزيرة 
+،الّتي وصل إليها كانت جايا</b></font>
 
 267
 00:13:33,000 --> 00:13:36,250
-<font face="Bahij Nassim" size="111"><b>{where he found the wreckage of a city of gold. - OG}{was the same as the ruined
-City of Gold he had discovered: Jaya. - Ravenfire}حيث وجد أطلال مدينة من الذّهب{Ravenfire}</b></font>
+<font face="Bahij Nassim" size="111"><b>حيث وجد أطلال مدينة من الذّهب</b></font>
 
 268
 00:13:36,250 --> 00:13:39,440
-<font face="Bahij Nassim" size="111"><b>{He felt that there was no way it was just an illusion. - OG}شعر أنّه كان من المستحيل
-أنّها كانت مجرّد وهم{Jasmine/Westfal}</b></font>
+<font face="Bahij Nassim" size="111"><b>شعر أنّه كان من المستحيل
+أنّها كانت مجرّد وهم</b></font>
 
 269
 00:13:41,090 --> 00:13:45,010
-<font face="Bahij Nassim" size="111"><b>{Noland insisted that the ruins had
-submerged due to crustal movements, - OG}أصرّ نولاند أنّ الأطلال غرقت 
-،بسبب تحرّكات القشرة الأرضيّة{Ravenfire}</b></font>
+<font face="Bahij Nassim" size="111"><b>أصرّ نولاند أنّ الأطلال غرقت 
+،بسبب تحرّكات القشرة الأرضيّة</b></font>
 
 270
 00:13:45,010 --> 00:13:49,390
@@ -1247,9 +1221,7 @@ submerged due to crustal movements, - OG}أصرّ نولاند أنّ الأطل
 
 281
 00:14:20,710 --> 00:14:22,840
-<font face="Bahij Nassim" size="111"><b>{just because he's the
-descendant of such an idiot?! - OG, 18 CPS}{for being the descendant
-of such an idiot?! - Ravenfire}!فقط لأنّه سليل لذلك الغبيّ؟{Westfal}</b></font>
+<font face="Bahij Nassim" size="111"><b>!فقط لأنّه سليل لذلك الغبيّ؟</b></font>
 
 282
 00:14:22,840 --> 00:14:24,760
@@ -1308,27 +1280,21 @@ of such an idiot?! - Ravenfire}!فقط لأنّه سليل لذلك الغبيّ
 
 295
 00:15:12,490 --> 00:15:15,690
-<font face="Bahij Nassim" size="111"><b>{Strangely enough, only I, - OG}{Strangely enough, it was only me, - Ravenfire}{I hated the Mont Blanc family,
-especially Noland. - Ravenfire}،رغم كرهي لعائلة مونبلان ونولاند أكثر من غيري{Ravenfire}</b></font>
+<font face="Bahij Nassim" size="111"><b>،رغم كرهي لعائلة مونبلان ونولاند أكثر من غيري</b></font>
 
 296
 00:15:15,690 --> 00:15:19,270
-<font face="Bahij Nassim" size="111"><b>{[/q2]who continued to hate the Mont Blanc
-family and Noland the most, made it here. - OG}{[/q2]who always hated the Mont Blanc family
-and Noland most of all, that made it here. - Ravenfire}كنتُ أنا وحدي من وصل إلى هنا وبشكل غريب{Jasmine/Ravenfire}</b></font>
+<font face="Bahij Nassim" size="111"><b>كنتُ أنا وحدي من وصل إلى هنا وبشكل غريب</b></font>
 
 297
 00:15:19,270 --> 00:15:24,570
-<font face="Bahij Nassim" size="111"><b>{The island didn't have a city of gold,
-just like the picture book said. - OG}{Just like the picture book said,
-the island didn't have a city of gold. - Ravenfire}لم تكن هنالك مدينة من الذّهب 
-على الجزيرة، كما ذُكر في الكتاب{Ravenfire/Jasmine}</b></font>
+<font face="Bahij Nassim" size="111"><b>لم تكن هنالك مدينة من الذّهب 
+على الجزيرة، كما ذُكر في الكتاب</b></font>
 
 298
 00:15:24,570 --> 00:15:27,360
-<font face="Bahij Nassim" size="111"><b>{As I stood on a cape of the island,
-I felt that it was destiny. - OG}،وبينما أنا واقف على رأس الجزيرة
-شعرتُ أنّ هذا كان قدري{Ravenfire}</b></font>
+<font face="Bahij Nassim" size="111"><b>،وبينما أنا واقف على رأس الجزيرة
+شعرتُ أنّ هذا كان قدري</b></font>
 
 299
 00:15:27,360 --> 00:15:29,490
@@ -1340,8 +1306,7 @@ I felt that it was destiny. - OG}،وبينما أنا واقف على رأس ا
 
 301
 00:15:33,660 --> 00:15:36,060
-<font face="Bahij Nassim" size="111"><b>{[/q2]Hell, no, Captain! We're not gonna have
-anything to do with your family's problem! - OG}،مستحيل! أيّها القبطان</b></font>
+<font face="Bahij Nassim" size="111"><b>،مستحيل! أيّها القبطان</b></font>
 
 302
 00:15:36,060 --> 00:15:38,630
@@ -1536,9 +1501,8 @@ anything to do with your family's problem! - OG}،مستحيل! أيّها ال�
 
 346
 00:18:25,230 --> 00:18:29,420
-<font face="Bahij Nassim" size="111"><b>{We got a rare item from a bumboat
-that we came across during the day. - OG}اشتريتُ شيئًا نادرًا من بائع متجول
- عثرنا عليه خلال النّهار{rangicus}</b></font>
+<font face="Bahij Nassim" size="111"><b>اشتريتُ شيئًا نادرًا من بائع متجول
+ عثرنا عليه خلال النّهار</b></font>
 
 347
 00:18:29,420 --> 00:18:32,840
@@ -1612,10 +1576,8 @@ that we came across during the day. - OG}اشتريتُ شيئًا نادرًا 
 
 363
 00:19:17,970 --> 00:19:21,520
-<font face="Bahij Nassim" size="111"><b>{[/q2]And it sounds like the sky island was a
-pretty normal thing for people back then. - OG, 18 CPS}{[/q2]And the sky island was seemingly
-pretty normal to people back then. - Ravenfire}ويبدو أنّ جزيرة السّماء كانت 
-!أمرًا عاديًّا للغاية للنّاس في الماضي{Ravenfire/Jasmine}</b></font>
+<font face="Bahij Nassim" size="111"><b>ويبدو أنّ جزيرة السّماء كانت 
+!أمرًا عاديًّا للغاية للنّاس في الماضي</b></font>
 
 364
 00:19:21,970 --> 00:19:23,640

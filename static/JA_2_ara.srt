@@ -9,72 +9,72 @@ https://mpv.io/
 
 2
 00:00:54,190 --> 00:00:57,320
-<font face="Khalid Art bold" size="60">{\an7}مونتاج</font>
+<font face="Khalid Art bold" size="60">مونتاج</font>
 
 3
 00:00:54,190 --> 00:00:57,320
-<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}Sewil</b></font>
+<font face="FOT-Greco Std B Strp" size="43"><b>Sewil</b></font>
 
 4
 00:00:57,320 --> 00:01:00,040
-<font face="Khalid Art bold" size="60">{\an7}جرافيك</font>
+<font face="Khalid Art bold" size="60">جرافيك</font>
 
 5
 00:00:57,320 --> 00:01:00,040
-<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}Datenshi</b></font>
+<font face="FOT-Greco Std B Strp" size="43"><b>Datenshi</b></font>
 
 6
 00:01:00,040 --> 00:01:03,240
-<font face="Khalid Art bold" size="60">{\an7}ضبط الجودة</font>
+<font face="Khalid Art bold" size="60">ضبط الجودة</font>
 
 7
 00:01:00,040 --> 00:01:03,240
-<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}Galaxy 9000
+<font face="FOT-Greco Std B Strp" size="43"><b>Galaxy 9000
 Pepperjack
 Scolines
 Zenef</b></font>
 
 8
 00:01:03,240 --> 00:01:06,490
-<font face="Khalid Art bold" size="60">{\an7}كاريوكي</font>
+<font face="Khalid Art bold" size="60">كاريوكي</font>
 
 9
 00:01:03,240 --> 00:01:06,490
-<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}KaitouYahiko</b></font>
+<font face="FOT-Greco Std B Strp" size="43"><b>KaitouYahiko</b></font>
 
 10
 00:01:06,490 --> 00:01:09,300
-<font face="Khalid Art bold" size="60">{\an7}الصوت</font>
+<font face="Khalid Art bold" size="60">الصوت</font>
 
 11
 00:01:06,490 --> 00:01:09,300
-<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}Halee</b></font>
+<font face="FOT-Greco Std B Strp" size="43"><b>Halee</b></font>
 
 12
 00:01:09,300 --> 00:01:12,520
-<font face="Khalid Art bold" size="60">{\an7}مزامنة الترجمة</font>
+<font face="Khalid Art bold" size="60">مزامنة الترجمة</font>
 
 13
 00:01:09,300 --> 00:01:12,520
-<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}PhosCity
+<font face="FOT-Greco Std B Strp" size="43"><b>PhosCity
 Raven-</b></font>
 
 14
 00:01:12,520 --> 00:01:15,330
-<font face="Khalid Art bold" size="60">{\an7}التدقيق اللغوي</font>
+<font face="Khalid Art bold" size="60">التدقيق اللغوي</font>
 
 15
 00:01:12,520 --> 00:01:15,330
-<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}Raven-
+<font face="FOT-Greco Std B Strp" size="43"><b>Raven-
 FiberAhmed</b></font>
 
 16
 00:01:15,330 --> 00:01:18,200
-<font face="Khalid Art bold" size="60">{\an7}ترجمة</font>
+<font face="Khalid Art bold" size="60">ترجمة</font>
 
 17
 00:01:15,330 --> 00:01:18,200
-<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}Crunchyroll</b></font>
+<font face="FOT-Greco Std B Strp" size="43"><b>Crunchyroll</b></font>
 
 18
 00:01:49,710 --> 00:01:53,930
@@ -141,7 +141,7 @@ https://mpv.io/
 
 32
 00:02:33,100 --> 00:02:37,470
-<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>...تو-قـ...ــفي{\an8}</b></font>
+<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>...تو-قـ...ــفي</b></font>
 
 33
 00:02:46,520 --> 00:02:51,150
@@ -281,8 +281,7 @@ https://mpv.io/
 
 65
 00:04:56,610 --> 00:04:58,820
-<font face="Bahij Nassim" size="111"><b>{Turtle? No, there was
-a monkey in the sea! - OG}!سلحفاة؟ لا، هنالك قرد في البحر{arch}</b></font>
+<font face="Bahij Nassim" size="111"><b>!سلحفاة؟ لا، هنالك قرد في البحر</b></font>
 
 66
 00:04:58,820 --> 00:04:58,860
@@ -290,11 +289,11 @@ a monkey in the sea! - OG}!سلحفاة؟ لا، هنالك قرد في البح
 
 67
 00:04:59,450 --> 00:05:00,950
-<font face="Bahij Nassim" size="111"><b>{He must be one of the sea animals. - OG}لا بدّ أنّه من حيوانات البحر{Z}{Maybe move the subs along with the video?}</b></font>
+<font face="Bahij Nassim" size="111"><b>لا بدّ أنّه من حيوانات البحر</b></font>
 
 68
 00:05:00,950 --> 00:05:00,990
-<font face="Bahij Nassim" size="111"><b>{He must be one of the sea animals. - OG}لا بدّ أنّه من حيوانات البحر</b></font>
+<font face="Bahij Nassim" size="111"><b>لا بدّ أنّه من حيوانات البحر</b></font>
 
 69
 00:05:00,990 --> 00:05:01,030
@@ -326,7 +325,7 @@ a monkey in the sea! - OG}!سلحفاة؟ لا، هنالك قرد في البح
 
 76
 00:05:05,690 --> 00:05:06,580
-<font face="Bahij Nassim" size="111"><b>{Since they're both monkeys. - OG}.فكلاهما قردة{Z}</b></font>
+<font face="Bahij Nassim" size="111"><b>.فكلاهما قردة</b></font>
 
 77
 00:05:07,430 --> 00:05:10,090
@@ -335,7 +334,7 @@ a monkey in the sea! - OG}!سلحفاة؟ لا، هنالك قرد في البح
 
 78
 00:05:10,090 --> 00:05:11,710
-<font face="Bahij Nassim" size="111"><b>{he suddenly started going on a rampage. - OG}!هاج فجأةً{Z}</b></font>
+<font face="Bahij Nassim" size="111"><b>!هاج فجأةً</b></font>
 
 79
 00:05:11,790 --> 00:05:11,830
@@ -806,7 +805,7 @@ a monkey in the sea! - OG}!سلحفاة؟ لا، هنالك قرد في البح
 
 190
 00:13:08,160 --> 00:13:11,050
-<font face="Bahij Nassim" size="111"><b>{\an8}.نفد المال منكم جميعًا الآن</b></font>
+<font face="Bahij Nassim" size="111"><b>.نفد المال منكم جميعًا الآن</b></font>
 
 191
 00:13:08,310 --> 00:13:15,480
@@ -822,7 +821,7 @@ a monkey in the sea! - OG}!سلحفاة؟ لا، هنالك قرد في البح
 
 193
 00:13:11,050 --> 00:13:15,480
-<font face="Bahij Nassim" size="111"><b>{\an8}لذلك... هل تريد أن تراهن بسروالك 
+<font face="Bahij Nassim" size="111"><b>لذلك... هل تريد أن تراهن بسروالك 
 أو ما شابه يا أخي؟</b></font>
 
 194
@@ -1283,8 +1282,7 @@ a monkey in the sea! - OG}!سلحفاة؟ لا، هنالك قرد في البح
 
 301
 00:19:27,270 --> 00:19:29,060
-<font face="Bahij Nassim" size="111"><b>{You're not going to get up
-by yourself, are you? - OG}ألن تحاول بنفسك؟{Z}</b></font>
+<font face="Bahij Nassim" size="111"><b>ألن تحاول بنفسك؟</b></font>
 
 302
 00:19:30,590 --> 00:19:31,820
@@ -1343,9 +1341,8 @@ by yourself, are you? - OG}ألن تحاول بنفسك؟{Z}</b></font>
 
 315
 00:20:06,980 --> 00:20:12,770
-<font face="Bahij Nassim" size="111"><b>{Well, some guys were eating apples
-that they got from a strange man, and then they exploded. Five of them! - OG}كان هناك أشخاص يأكلون تفّاحًا أعطاهم
-إياه رجل غريب لكنّ خمستهم انفجروا فجأةً{Z}</b></font>
+<font face="Bahij Nassim" size="111"><b>كان هناك أشخاص يأكلون تفّاحًا أعطاهم
+إياه رجل غريب لكنّ خمستهم انفجروا فجأةً</b></font>
 
 316
 00:20:13,900 --> 00:20:15,610
@@ -1565,11 +1562,11 @@ that they got from a strange man, and then they exploded. Five of them! - OG}ك�
 
 365
 00:22:52,870 --> 00:22:54,730
-<font face="Bahij Nassim" size="111"><b>{\an8}!لا نهتمّ لأعذارك! تخلّص منهم فحسب</b></font>
+<font face="Bahij Nassim" size="111"><b>!لا نهتمّ لأعذارك! تخلّص منهم فحسب</b></font>
 
 366
 00:22:54,730 --> 00:22:56,810
-<font face="Bahij Nassim" size="111"><b>{\an8}!كم ندفع في رأيك لاستئجار هذا المكان؟</b></font>
+<font face="Bahij Nassim" size="111"><b>!كم ندفع في رأيك لاستئجار هذا المكان؟</b></font>
 
 367
 00:22:57,280 --> 00:23:00,780
@@ -1649,12 +1646,12 @@ that they got from a strange man, and then they exploded. Five of them! - OG}ك�
 
 385
 00:23:45,250 --> 00:23:47,570
-<font face="Bahij Nassim" size="111"><b>{\an8}إنّهم يبلون حسنًا بالنّسبة 
+<font face="Bahij Nassim" size="111"><b>إنّهم يبلون حسنًا بالنّسبة 
 لكونهم أشخاصًا عاديّين</b></font>
 
 386
 00:23:47,570 --> 00:23:51,530
-<font face="Bahij Nassim" size="111"><b>{\an8}نعم، وعلى الأرجح لن يستطيعوا النّجاة 
+<font face="Bahij Nassim" size="111"><b>نعم، وعلى الأرجح لن يستطيعوا النّجاة 
 .في العصر الجديد الّذي يوشك أن يبدأ</b></font>
 
 387
@@ -1697,7 +1694,7 @@ that they got from a strange man, and then they exploded. Five of them! - OG}ك�
 
 396
 00:24:22,460 --> 00:24:25,240
-<font face="Bahij Nassim" size="111"><b>{But if you get bothered by it each time, you can't get by in this town. - OG}،إذا كان ذلك يزعجك كثيرًا، فهذه البلدة لا تناسبك{Z}</b></font>
+<font face="Bahij Nassim" size="111"><b>،إذا كان ذلك يزعجك كثيرًا، فهذه البلدة لا تناسبك</b></font>
 
 397
 00:24:25,240 --> 00:24:28,470
@@ -1741,7 +1738,7 @@ that they got from a strange man, and then they exploded. Five of them! - OG}ك�
 
 406
 00:24:48,880 --> 00:24:50,090
-<font face="Bahij Nassim" size="111"><b>{\an8}!أيّها العجوز</b></font>
+<font face="Bahij Nassim" size="111"><b>!أيّها العجوز</b></font>
 
 407
 00:24:48,880 --> 00:24:50,090
@@ -1753,7 +1750,7 @@ that they got from a strange man, and then they exploded. Five of them! - OG}ك�
 
 409
 00:24:51,850 --> 00:24:54,850
-<font face="Bahij Nassim" size="111"><b>{\an8}!مذاق فطيرة التّوت هذه لذيذ جدًّا</b></font>
+<font face="Bahij Nassim" size="111"><b>!مذاق فطيرة التّوت هذه لذيذ جدًّا</b></font>
 
 410
 00:24:51,850 --> 00:24:54,850
@@ -1761,7 +1758,7 @@ that they got from a strange man, and then they exploded. Five of them! - OG}ك�
 
 411
 00:25:05,610 --> 00:25:08,950
-<font face="Bahij Nassim" size="111"><b>{\an8}!مذاق هذا الشّراب سيّئ للغاية</b></font>
+<font face="Bahij Nassim" size="111"><b>!مذاق هذا الشّراب سيّئ للغاية</b></font>
 
 412
 00:25:05,610 --> 00:25:08,950
@@ -1819,7 +1816,7 @@ that they got from a strange man, and then they exploded. Five of them! - OG}ك�
 
 425
 00:25:37,180 --> 00:25:37,850
-<font face="Bahij Nassim" size="111"><b>!مئة{Z- these numbers broke all the rules, and I think we're going to need to be okay with it, lmao}</b></font>
+<font face="Bahij Nassim" size="111"><b>!مئة</b></font>
 
 426
 00:25:38,960 --> 00:25:40,940
@@ -1901,7 +1898,7 @@ that they got from a strange man, and then they exploded. Five of them! - OG}ك�
 
 445
 00:26:47,290 --> 00:26:48,420
-<font face="Bahij Nassim" size="111"><b>{What's this about? - OG}ماذا هنالك؟{Z}</b></font>
+<font face="Bahij Nassim" size="111"><b>ماذا هنالك؟</b></font>
 
 446
 00:26:48,420 --> 00:26:50,630
@@ -2033,7 +2030,7 @@ that they got from a strange man, and then they exploded. Five of them! - OG}ك�
 
 477
 00:28:30,110 --> 00:28:31,190
-<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>{Shut up! - OG}!اخرسي</b></font>
+<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>!اخرسي</b></font>
 
 478
 00:28:31,190 --> 00:28:33,270
@@ -2195,8 +2192,7 @@ that they got from a strange man, and then they exploded. Five of them! - OG}ك�
 
 515
 00:30:58,550 --> 00:31:01,790
-<font face="Bahij Nassim" size="111"><b>{The era where pirates
-dream about things is over! - OG}!إنّ العصر الّذي يحلم فيه القراصنة قد ولّى{Z - should match BB's words in Jaya 03 @06:35}</b></font>
+<font face="Bahij Nassim" size="111"><b>!إنّ العصر الّذي يحلم فيه القراصنة قد ولّى</b></font>
 
 516
 00:31:01,790 --> 00:31:06,140

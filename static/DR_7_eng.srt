@@ -28,7 +28,7 @@
 
 8
 00:00:23,780 --> 00:00:28,100
-<font face="Times New Roman" size="34">{\an1}Translation & initial timing
+<font face="Times New Roman" size="34">Translation & initial timing
 <font size="40">Tsuki
 Yibis (Opening)</font></font>
 
@@ -38,7 +38,7 @@ Yibis (Opening)</font></font>
 
 10
 00:00:28,180 --> 00:00:32,190
-<font face="Times New Roman" size="34">{\an1}Timing
+<font face="Times New Roman" size="34">Timing
 <font size="40">Galaxy 9000
 
 </font>Time-checking
@@ -50,14 +50,14 @@ Yibis (Opening)</font></font>
 
 12
 00:00:34,690 --> 00:00:37,630
-<font face="Times New Roman" size="34">{\an1}Quality-checking
+<font face="Times New Roman" size="34">Quality-checking
 <font size="40">Sewil
 Galaxy 9000
 Halee</font></font>
 
 13
 00:00:39,060 --> 00:00:42,660
-<font face="Times New Roman" size="34">{\an1}Soundtracking
+<font face="Times New Roman" size="34">Soundtracking
 <font size="40">Halee</font></font>
 
 14
@@ -70,7 +70,7 @@ Halee</font></font>
 
 16
 00:00:45,530 --> 00:00:48,200
-<font face="Times New Roman" size="34">{\an1}Video editing
+<font face="Times New Roman" size="34">Video editing
 <font size="40">Sewil</font></font>
 
 17
@@ -87,7 +87,7 @@ Halee</font></font>
 
 20
 00:01:00,450 --> 00:01:04,550
-<font face="Times New Roman" size="34">{\an1}Raw provider
+<font face="Times New Roman" size="34">Raw provider
 <font size="40">Crunchyroll</font></font>
 
 21
@@ -188,7 +188,7 @@ Halee</font></font>
 
 45
 00:02:30,060 --> 00:02:38,680
-<font face="impress bt" size="63" color="#fefefe"><b>{\an5}Doflamingo Arrives!
+<font face="impress bt" size="63" color="#fefefe"><b>Doflamingo Arrives!
 The Ultimate Schemer!</b></font>
 
 46
@@ -231,11 +231,11 @@ but I didn't expect it to be this soft.</i></font>
 
 55
 00:03:15,910 --> 00:03:19,520
-<font face="Impress BT" size="55"><i>{\an8}You're a good-for-nothing man, "Black Foot" Sanji!</i></font>
+<font face="Impress BT" size="55"><i>You're a good-for-nothing man, "Black Foot" Sanji!</i></font>
 
 56
 00:03:19,520 --> 00:03:24,680
-<font face="Impress BT" size="55"><i>{\an8}Did you really think that a guy like you could win my heart?</i></font>
+<font face="Impress BT" size="55"><i>Did you really think that a guy like you could win my heart?</i></font>
 
 57
 00:03:19,530 --> 00:03:24,680
@@ -445,7 +445,7 @@ against me while looking for a way to escape.</i></font>
 
 108
 00:07:03,760 --> 00:07:05,040
-<font face="Impress BT" size="38"><i>{\an8}Iron Tear</i></font>
+<font face="Impress BT" size="38"><i>Iron Tear</i></font>
 
 109
 00:07:06,940 --> 00:07:09,210
@@ -617,7 +617,7 @@ against me while looking for a way to escape.</i></font>
 
 151
 00:10:24,110 --> 00:10:28,060
-<font face="Impress BT" size="55"><i>What's with this cunning deceit that seems plotted by a fox?! {This one CR has totally ignored and put stupid "What's with this? I'm so confused!". The line i wrote seems better and the most thing, it's far more accurate. The Black Adder line: Is It A Cunning Plan?}</i></font>
+<font face="Impress BT" size="55"><i>What's with this cunning deceit that seems plotted by a fox?! </i></font>
 
 152
 00:10:28,060 --> 00:10:29,880
@@ -1027,7 +1027,7 @@ or an assumption, which leaves a blind spot.</font>
 
 252
 00:16:35,600 --> 00:16:40,460
-<font face="Impress BT" size="38"><i>{\an8}Ryokugyu: Green Bull</i></font>
+<font face="Impress BT" size="38"><i>Ryokugyu: Green Bull</i></font>
 
 253
 00:16:40,460 --> 00:16:42,850

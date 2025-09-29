@@ -28,7 +28,7 @@
 
 8
 00:00:23,730 --> 00:00:28,050
-<font face="Times New Roman" size="34">{\an1}Translation & initial timing
+<font face="Times New Roman" size="34">Translation & initial timing
 <font size="40">Tsuki
 Yibis (Opening)</font></font>
 
@@ -38,7 +38,7 @@ Yibis (Opening)</font></font>
 
 10
 00:00:28,130 --> 00:00:32,140
-<font face="Times New Roman" size="34">{\an1}Timing
+<font face="Times New Roman" size="34">Timing
 <font size="40">Galaxy 9000
 
 </font>Time-checking
@@ -50,14 +50,14 @@ Yibis (Opening)</font></font>
 
 12
 00:00:34,640 --> 00:00:37,580
-<font face="Times New Roman" size="34">{\an1}Quality-checking
+<font face="Times New Roman" size="34">Quality-checking
 <font size="40">Sewil
 Galaxy 9000
 Halee</font></font>
 
 13
 00:00:39,010 --> 00:00:42,610
-<font face="Times New Roman" size="34">{\an1}Soundtracking
+<font face="Times New Roman" size="34">Soundtracking
 <font size="40">Halee</font></font>
 
 14
@@ -70,7 +70,7 @@ Halee</font></font>
 
 16
 00:00:45,480 --> 00:00:48,150
-<font face="Times New Roman" size="34">{\an1}Video editing
+<font face="Times New Roman" size="34">Video editing
 <font size="40">Sewil</font></font>
 
 17
@@ -87,7 +87,7 @@ Halee</font></font>
 
 20
 00:01:00,400 --> 00:01:04,500
-<font face="Times New Roman" size="34">{\an1}Raw provider
+<font face="Times New Roman" size="34">Raw provider
 <font size="40">Crunchyroll</font></font>
 
 21
@@ -180,7 +180,7 @@ Halee</font></font>
 
 43
 00:02:30,030 --> 00:02:38,510
-<font face="impress bt" size="63" color="#fefefe"><b>{\an5}B Block on Fire!
+<font face="impress bt" size="63" color="#fefefe"><b>B Block on Fire!
 Outlandish Competitors and King Punch!</b></font>
 
 44
@@ -1192,15 +1192,15 @@ Passages to the Audience Seating</font>
 
 295
 00:20:22,840 --> 00:20:24,130
-<font face="Impress BT" size="55">{\an8}Then, you, too?!</font>
+<font face="Impress BT" size="55">Then, you, too?!</font>
 
 296
 00:20:24,130 --> 00:20:25,510
-<font face="Impress BT" size="55">{\an8}Shh! Shh!</font>
+<font face="Impress BT" size="55">Shh! Shh!</font>
 
 297
 00:20:25,510 --> 00:20:26,670
-<font face="Impress BT" size="55">{\an8}Not so loud!</font>
+<font face="Impress BT" size="55">Not so loud!</font>
 
 298
 00:20:29,100 --> 00:20:32,750

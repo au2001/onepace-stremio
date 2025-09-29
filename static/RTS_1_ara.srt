@@ -1,15 +1,15 @@
 1
 00:00:09,790 --> 00:00:13,010
-<font face="Al-Jazeera-Arabic-Bold" size="75" color="#fffce7"><b>{\an8}...مضت سنتين على الحرب بين</b></font>
+<font face="Al-Jazeera-Arabic-Bold" size="75" color="#fffce7"><b>...مضت سنتين على الحرب بين</b></font>
 
 2
 00:00:13,010 --> 00:00:18,550
-<font face="Al-Jazeera-Arabic-Bold" size="75" color="#fffce7"><b>{\an8}مقر البحريّة الرئيسي، الشيتشبوكاي السبعة
+<font face="Al-Jazeera-Arabic-Bold" size="75" color="#fffce7"><b>مقر البحريّة الرئيسي، الشيتشبوكاي السبعة
 وقراصنة اللّحية البيضاء</b></font>
 
 3
 00:00:20,140 --> 00:00:25,710
-<font face="Al-Jazeera-Arabic-Bold" size="75" color="#fffce7"><b>{\an8}على الجزيرة المهجورة شمال غرب جزيرة النساء، روسكاينا</b></font>
+<font face="Al-Jazeera-Arabic-Bold" size="75" color="#fffce7"><b>على الجزيرة المهجورة شمال غرب جزيرة النساء، روسكاينا</b></font>
 
 4
 00:00:26,440 --> 00:00:28,500
@@ -21,7 +21,7 @@
 
 6
 00:00:38,960 --> 00:00:43,930
-<font face="Bahij Nassim" size="90"><b>{هذا سريع، مضت سنتين بالفعل}مضت سنتين على مجيئي، ما أسرع مرور الأيام</b></font>
+<font face="Bahij Nassim" size="90"><b>مضت سنتين على مجيئي، ما أسرع مرور الأيام</b></font>
 
 7
 00:01:25,570 --> 00:01:28,510
@@ -47,8 +47,7 @@
 12
 00:01:47,880 --> 00:01:54,680
 <font face="Bahij Nassim" size="90"><b>لكنني أصبحت صديقًا لهؤلاء
-فلم أستطع أكلهم{لكن لأنني أصبحت صديقًا لهم
-لم أستطع أكلهم}</b></font>
+فلم أستطع أكلهم</b></font>
 
 13
 00:01:54,680 --> 00:01:57,000
@@ -96,253 +95,253 @@
 
 23
 00:02:38,930 --> 00:02:43,910
-<font face="Al-Jazeera-Arabic-Bold" size="75" color="#fffce7"><b>{\an8}الرجل الذي حصل على كل شيءٍ في العالم، القرصان الأسطوري، غولد روجر</b></font>
+<font face="Al-Jazeera-Arabic-Bold" size="75" color="#fffce7"><b>الرجل الذي حصل على كل شيءٍ في العالم، القرصان الأسطوري، غولد روجر</b></font>
 
 24
 00:02:44,410 --> 00:02:48,640
-<font face="Al-Jazeera-Arabic-Bold" size="75" color="#fffce7"><b>{\an8}{الكلمات التي قالها قبل إعدامه جعلت الناس في أنحاء العالم يذهبون إلى البحار}قادت كلماته الّتي ألقاها قبل
+<font face="Al-Jazeera-Arabic-Bold" size="75" color="#fffce7"><b>قادت كلماته الّتي ألقاها قبل
 موته بالنّاس إلى البحار</b></font>
 
 25
 00:02:48,870 --> 00:02:52,110
-<font face="International Playboy" size="81" color="#010000">{كنوزي؟ إذا كنتم تريدونها ، يمكنكم أخذها}كنزي؟ سأعطيكم إيّاه إن أردتموه</font>
+<font face="International Playboy" size="81" color="#010000">كنزي؟ سأعطيكم إيّاه إن أردتموه</font>
 
 26
 00:02:52,110 --> 00:02:55,880
-<font face="International Playboy" size="81" color="#010000">{ابحثوا عنه لقد تركت كل شيء امتلكته هناك}ابحثوا عنه
+<font face="International Playboy" size="81" color="#010000">ابحثوا عنه
 لقد تركته بذلك المكان</font>
 
 27
 00:02:55,880 --> 00:02:58,820
-<font face="Al-Jazeera-Arabic-Bold" size="75" color="#fffce7"><b>{\an8}{والآن الجميع بدأ بالبحث الخيالي}شد الناس رحالهم راغبون المغامرة</b></font>
+<font face="Al-Jazeera-Arabic-Bold" size="75" color="#fffce7"><b>شد الناس رحالهم راغبون المغامرة</b></font>
 
 28
 00:02:58,820 --> 00:03:01,490
-<font face="Al-Jazeera-Arabic-Bold" size="75" color="#fffce7"><b>{\an8}{العالم قد دخل عصر القراصنة العظيم بالفعل}العالم الآن يعيش عصر القراصنة العظيم</b></font>
+<font face="Al-Jazeera-Arabic-Bold" size="75" color="#fffce7"><b>العالم الآن يعيش عصر القراصنة العظيم</b></font>
 
 29
 00:03:01,490 --> 00:03:05,360
-<font face="Dubai Medium" size="75" color="#4e5998"><b>{I can’t stand still، I can’t stop}لا أستطيع النهوض، لا أستطيع التوقف</b></font>
+<font face="Dubai Medium" size="75" color="#4e5998"><b>لا أستطيع النهوض، لا أستطيع التوقف</b></font>
 
 30
 00:03:05,460 --> 00:03:09,830
-<font face="Dubai Medium" size="75" color="#4e5998"><b>لا يمكنني الانتظار حتى بزوغ الفجر{Daybreak hasn’t come yet and I can’t wait}</b></font>
+<font face="Dubai Medium" size="75" color="#4e5998"><b>لا يمكنني الانتظار حتى بزوغ الفجر</b></font>
 
 31
 00:03:09,900 --> 00:03:13,560
-<font face="Dubai Medium" size="75" color="#4e5998"><b>{One، two، Sunshine four...WE GO}واحد، اثنان، شروق الشمس، أربعة... هيا بنا</b></font>
+<font face="Dubai Medium" size="75" color="#4e5998"><b>واحد، اثنان، شروق الشمس، أربعة... هيا بنا</b></font>
 
 32
 00:03:14,980 --> 00:03:18,680
-<font face="Khalid Art bold" size="78">{\an4}<font color="#000000">مونتاج</font></font>
+<font face="Khalid Art bold" size="78"><font color="#000000">مونتاج</font></font>
 
 33
 00:03:14,980 --> 00:03:18,680
-<font face="Khalid Art bold" size="78">{\an4}مونتاج</font>
+<font face="Khalid Art bold" size="78">مونتاج</font>
 
 34
 00:03:14,980 --> 00:03:18,680
-<font face="FOT-Greco Std DB Strp" size="56">{\an7}<font color="#000000">Gigglebot
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#000000">Gigglebot
 Galaxy 9000</font></font>
 
 35
 00:03:14,980 --> 00:03:18,680
-<font face="FOT-Greco Std DB Strp" size="56">{\an7}Gigglebot
+<font face="FOT-Greco Std DB Strp" size="56">Gigglebot
 Galaxy 9000</font>
 
 36
 00:03:15,060 --> 00:03:19,070
-<font face="Dubai Medium" size="75" color="#4e5998"><b>{Fly the flag، Break of Romance Dawn}فليرفرف العلم، ولتبدأ فجر الرومانسية</b></font>
+<font face="Dubai Medium" size="75" color="#4e5998"><b>فليرفرف العلم، ولتبدأ فجر الرومانسية</b></font>
 
 37
 00:03:20,150 --> 00:03:24,990
-<font face="Khalid Art bold" size="78">{\an4}<font color="#000000">كاريوكي</font></font>
+<font face="Khalid Art bold" size="78"><font color="#000000">كاريوكي</font></font>
 
 38
 00:03:20,150 --> 00:03:24,990
-<font face="Khalid Art bold" size="78">{\an4}كاريوكي</font>
+<font face="Khalid Art bold" size="78">كاريوكي</font>
 
 39
 00:03:20,150 --> 00:03:24,990
-<font face="FOT-Greco Std DB Strp" size="56">{\an7}<font color="#000000">KaitouYahiko</font></font>
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#000000">KaitouYahiko</font></font>
 
 40
 00:03:20,150 --> 00:03:24,990
-<font face="FOT-Greco Std DB Strp" size="56">{\an7}KaitouYahiko</font>
+<font face="FOT-Greco Std DB Strp" size="56">KaitouYahiko</font>
 
 41
 00:03:20,510 --> 00:03:25,740
-<font face="Dubai Medium" size="75" color="#4e5998"><b>{Make waves، jump from your sleep}فاستيقظ من النوم لتُبحر مع الأمواج</b></font>
+<font face="Dubai Medium" size="75" color="#4e5998"><b>فاستيقظ من النوم لتُبحر مع الأمواج</b></font>
 
 42
 00:03:25,840 --> 00:03:30,280
-<font face="Dubai Medium" size="75" color="#4e5998"><b>{If you want to go to the unbelievable world}إن أردت الذهاب إلى عالم الأعجوبة</b></font>
+<font face="Dubai Medium" size="75" color="#4e5998"><b>إن أردت الذهاب إلى عالم الأعجوبة</b></font>
 
 43
 00:03:26,320 --> 00:03:30,280
-<font face="Khalid Art bold" size="78">{\an4}<font color="#000000">ضبط الجودة</font></font>
+<font face="Khalid Art bold" size="78"><font color="#000000">ضبط الجودة</font></font>
 
 44
 00:03:26,320 --> 00:03:30,280
-<font face="Khalid Art bold" size="78">{\an4}ضبط الجودة</font>
+<font face="Khalid Art bold" size="78">ضبط الجودة</font>
 
 45
 00:03:26,320 --> 00:03:30,280
-<font face="FOT-Greco Std DB Strp" size="56">{\an7}<font color="#000000">Ibfinity
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#000000">Ibfinity
 Qasim
 Zenef</font></font>
 
 46
 00:03:26,320 --> 00:03:30,280
-<font face="FOT-Greco Std DB Strp" size="56">{\an7}Ibfinity
+<font face="FOT-Greco Std DB Strp" size="56">Ibfinity
 Qasim
 Zenef</font>
 
 47
 00:03:30,280 --> 00:03:34,900
-<font face="Khalid Art bold" size="78">{\an4}<font color="#000000">جرافيك</font></font>
+<font face="Khalid Art bold" size="78"><font color="#000000">جرافيك</font></font>
 
 48
 00:03:30,280 --> 00:03:34,900
-<font face="Khalid Art bold" size="78">{\an4}جرافيك</font>
+<font face="Khalid Art bold" size="78">جرافيك</font>
 
 49
 00:03:30,280 --> 00:03:34,900
-<font face="FOT-Greco Std DB Strp" size="56">{\an7}<font color="#000000">Datenshi</font></font>
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#000000">Datenshi</font></font>
 
 50
 00:03:30,280 --> 00:03:34,900
-<font face="FOT-Greco Std DB Strp" size="56">{\an7}Datenshi</font>
+<font face="FOT-Greco Std DB Strp" size="56">Datenshi</font>
 
 51
 00:03:30,380 --> 00:03:34,720
-<font face="Dubai Medium" size="75" color="#4e5998"><b>{your toughness، that’s what it takes}فعليك أن تكون قويًا، فهذا هو المطلوب</b></font>
+<font face="Dubai Medium" size="75" color="#4e5998"><b>فعليك أن تكون قويًا، فهذا هو المطلوب</b></font>
 
 52
 00:03:35,130 --> 00:03:37,690
-<font face="Dubai Medium" size="75" color="#4e5998"><b>{Being brazen، is it a crime?}{الوقاحة هل هي جريمة؟}هل كثرة الإبراز جريمة؟</b></font>
+<font face="Dubai Medium" size="75" color="#4e5998"><b>هل كثرة الإبراز جريمة؟</b></font>
 
 53
 00:03:37,840 --> 00:03:40,730
-<font face="Dubai Medium" size="75" color="#4e5998"><b>{Wanted->means Winner:D}مطلوب تعني منتصر</b></font>
+<font face="Dubai Medium" size="75" color="#4e5998"><b>مطلوب تعني منتصر</b></font>
 
 54
 00:03:40,890 --> 00:03:46,500
-<font face="Dubai Medium" size="75" color="#4e5998"><b>{Freedom is our only rule}الحرية هي قاعدتنا الوحيدة</b></font>
+<font face="Dubai Medium" size="75" color="#4e5998"><b>الحرية هي قاعدتنا الوحيدة</b></font>
 
 55
 00:03:46,600 --> 00:03:52,020
-<font face="Dubai Medium" size="75" color="#4e5998"><b>{It's not our way to worry}نحن لا نتسِمُ بالقلق</b></font>
+<font face="Dubai Medium" size="75" color="#4e5998"><b>نحن لا نتسِمُ بالقلق</b></font>
 
 56
 00:03:52,060 --> 00:03:54,520
-<font face="Dubai Medium" size="75" color="#4e5998"><b>{Keep going forward, that's our pledge}التطلع للأمام هو ما نسعى إليه</b></font>
+<font face="Dubai Medium" size="75" color="#4e5998"><b>التطلع للأمام هو ما نسعى إليه</b></font>
 
 57
 00:03:54,600 --> 00:03:58,340
-<font face="Dubai Medium" size="75" color="#4e5998"><b>{Since the day that the dream began}منذ اليوم الذي بدأ فيه حلمنا</b></font>
+<font face="Dubai Medium" size="75" color="#4e5998"><b>منذ اليوم الذي بدأ فيه حلمنا</b></font>
 
 58
 00:03:58,540 --> 00:04:02,920
-<font face="Dubai Medium" size="75" color="#4e5998"><b>{the future that I'm aiming for hasn't changed}المستقبل الذي أسعى إليه لم يتغير</b></font>
+<font face="Dubai Medium" size="75" color="#4e5998"><b>المستقبل الذي أسعى إليه لم يتغير</b></font>
 
 59
 00:04:02,360 --> 00:04:06,420
-<font face="Khalid Art bold" size="78">{\an4}<font color="#000000">الصوت</font></font>
+<font face="Khalid Art bold" size="78"><font color="#000000">الصوت</font></font>
 
 60
 00:04:02,360 --> 00:04:06,420
-<font face="Khalid Art bold" size="78">{\an4}الصوت</font>
+<font face="Khalid Art bold" size="78">الصوت</font>
 
 61
 00:04:02,360 --> 00:04:06,420
-<font face="FOT-Greco Std DB Strp" size="56">{\an7}<font color="#000000">Halee</font></font>
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#000000">Halee</font></font>
 
 62
 00:04:02,360 --> 00:04:06,420
-<font face="FOT-Greco Std DB Strp" size="56">{\an7}Halee</font>
+<font face="FOT-Greco Std DB Strp" size="56">Halee</font>
 
 63
 00:04:03,020 --> 00:04:05,420
-<font face="Dubai Medium" size="75" color="#4e5998"><b>{I can’t stand still، I can’t stop}لا أستطيع النهوض، لا أستطيع التوقف</b></font>
+<font face="Dubai Medium" size="75" color="#4e5998"><b>لا أستطيع النهوض، لا أستطيع التوقف</b></font>
 
 64
 00:04:05,520 --> 00:04:09,580
-<font face="Dubai Medium" size="75" color="#4e5998"><b>{The sun of my heart will never set}شمس قلبي المشرقة لن تغرب أبدًا</b></font>
+<font face="Dubai Medium" size="75" color="#4e5998"><b>شمس قلبي المشرقة لن تغرب أبدًا</b></font>
 
 65
 00:04:06,420 --> 00:04:09,840
-<font face="Khalid Art bold" size="78">{\an4}<font color="#000000">مزامنة الترجمة</font></font>
+<font face="Khalid Art bold" size="78"><font color="#000000">مزامنة الترجمة</font></font>
 
 66
 00:04:06,420 --> 00:04:09,840
-<font face="Khalid Art bold" size="78">{\an4}مزامنة الترجمة</font>
+<font face="Khalid Art bold" size="78">مزامنة الترجمة</font>
 
 67
 00:04:06,420 --> 00:04:09,840
-<font face="FOT-Greco Std DB Strp" size="56">{\an7}<font color="#000000">PhosCity
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#000000">PhosCity
 Qasim</font></font>
 
 68
 00:04:06,420 --> 00:04:09,840
-<font face="FOT-Greco Std DB Strp" size="56">{\an7}PhosCity
+<font face="FOT-Greco Std DB Strp" size="56">PhosCity
 Qasim</font>
 
 69
 00:04:09,700 --> 00:04:13,130
-<font face="Dubai Medium" size="75" color="#4e5998"><b>{One، two، Sunshine...}...واحد، اثنان، شروق الشمس</b></font>
+<font face="Dubai Medium" size="75" color="#4e5998"><b>...واحد، اثنان، شروق الشمس</b></font>
 
 70
 00:04:14,070 --> 00:04:16,840
-<font face="Dubai Medium" size="75" color="#4e5998"><b>{One، two، Sunshine}...واحد، اثنان، شروق الشمس</b></font>
+<font face="Dubai Medium" size="75" color="#4e5998"><b>...واحد، اثنان، شروق الشمس</b></font>
 
 71
 00:04:17,940 --> 00:04:20,440
-<font face="Khalid Art bold" size="78">{\an4}<font color="#000000">التدقيق اللغوي</font></font>
+<font face="Khalid Art bold" size="78"><font color="#000000">التدقيق اللغوي</font></font>
 
 72
 00:04:17,940 --> 00:04:20,440
-<font face="Khalid Art bold" size="78">{\an4}التدقيق اللغوي</font>
+<font face="Khalid Art bold" size="78">التدقيق اللغوي</font>
 
 73
 00:04:17,940 --> 00:04:20,440
-<font face="FOT-Greco Std DB Strp" size="56">{\an7}<font color="#000000">Mohammed
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#000000">Mohammed
 Qasim</font></font>
 
 74
 00:04:17,940 --> 00:04:20,440
-<font face="FOT-Greco Std DB Strp" size="56">{\an7}Mohammed
+<font face="FOT-Greco Std DB Strp" size="56">Mohammed
 Qasim</font>
 
 75
 00:04:18,050 --> 00:04:24,140
-<font face="Dubai Medium" size="75" color="#4e5998"><b>{One، two، Sunshine four...WE GO}واحد، اثنان، شروق الشمس، أربعة... هيا بنا</b></font>
+<font face="Dubai Medium" size="75" color="#4e5998"><b>واحد، اثنان، شروق الشمس، أربعة... هيا بنا</b></font>
 
 76
 00:04:20,440 --> 00:04:24,650
-<font face="Khalid Art bold" size="78">{\an4}<font color="#000000">ترجمة</font></font>
+<font face="Khalid Art bold" size="78"><font color="#000000">ترجمة</font></font>
 
 77
 00:04:20,440 --> 00:04:24,650
-<font face="Khalid Art bold" size="78">{\an4}ترجمة</font>
+<font face="Khalid Art bold" size="78">ترجمة</font>
 
 78
 00:04:20,440 --> 00:04:24,650
-<font face="FOT-Greco Std DB Strp" size="56">{\an7}<font color="#000000">Op-Arab
+<font face="FOT-Greco Std DB Strp" size="56"><font color="#000000">Op-Arab
 Qasim</font></font>
 
 79
 00:04:20,440 --> 00:04:24,650
-<font face="FOT-Greco Std DB Strp" size="56">{\an7}Op-Arab
+<font face="FOT-Greco Std DB Strp" size="56">Op-Arab
 Qasim</font>
 
 80
 00:04:26,540 --> 00:04:29,280
-<font face="Dubai Medium" size="75" color="#4e5998"><b>{WE GO}هيا بنا</b></font>
+<font face="Dubai Medium" size="75" color="#4e5998"><b>هيا بنا</b></font>
 
 81
 00:04:30,050 --> 00:04:33,780
-<font face="Al-Jazeera-Arabic-Bold" size="60">{\an8}{More Than 10 Days Later at a Bar*} بعد أكثر من 10 أيام
+<font face="Al-Jazeera-Arabic-Bold" size="60"> بعد أكثر من 10 أيام
 في حانة</font>
 
 82
@@ -380,7 +379,7 @@ Qasim</font>
 
 90
 00:05:11,960 --> 00:05:17,330
-<font face="Bahij Nassim" size="90"><b>{همم ~ }لا عجب أنّ هذه المدينة تبدو أكثر فوضى مما كانت عليه قبل سنتين</b></font>
+<font face="Bahij Nassim" size="90"><b>لا عجب أنّ هذه المدينة تبدو أكثر فوضى مما كانت عليه قبل سنتين</b></font>
 
 91
 00:05:17,330 --> 00:05:19,140
@@ -388,7 +387,7 @@ Qasim</font>
 
 92
 00:05:19,140 --> 00:05:21,040
-<font face="Bahij Nassim" size="90"><b>{صُدِمت}أجل لقد تفاجأت أنا أيضًا</b></font>
+<font face="Bahij Nassim" size="90"><b>أجل لقد تفاجأت أنا أيضًا</b></font>
 
 93
 00:05:21,040 --> 00:05:25,440
@@ -401,19 +400,19 @@ Qasim</font>
 
 95
 00:05:30,780 --> 00:05:34,190
-<font face="Al-Jazeera-Arabic-Bold" size="60">{\an8}حاجة عاجلة للطاقم</font>
+<font face="Al-Jazeera-Arabic-Bold" size="60">حاجة عاجلة للطاقم</font>
 
 96
 00:05:31,080 --> 00:05:34,180
-<font face="Bahij Nassim" size="90"><b>{لا يمكنني التصديق بأنهم قد طلبوا أعضاء جدد}وإنهم يطلبون أعضاء  جدد</b></font>
+<font face="Bahij Nassim" size="90"><b>وإنهم يطلبون أعضاء  جدد</b></font>
 
 97
 00:05:34,180 --> 00:05:40,790
-<font face="Bahij Nassim" size="90"><b>القراصنة الذين نجوا من النصف الأول من الغراند لاين {دائمًا}يأتون إلى هذه الجزيرة دومًا</b></font>
+<font face="Bahij Nassim" size="90"><b>القراصنة الذين نجوا من النصف الأول من الغراند لاين يأتون إلى هذه الجزيرة دومًا</b></font>
 
 98
 00:05:40,790 --> 00:05:45,800
-<font face="Bahij Nassim" size="90"><b>لذلك قد يريد توسيع طاقمه هنا ليثير الضجّة في العالم الجديد{لذلك-قد-أو-من-الممكن-اسخدام-إذًا}</b></font>
+<font face="Bahij Nassim" size="90"><b>لذلك قد يريد توسيع طاقمه هنا ليثير الضجّة في العالم الجديد</b></font>
 
 99
 00:05:45,800 --> 00:05:49,230
@@ -431,21 +430,21 @@ Qasim</font>
 
 102
 00:05:54,240 --> 00:05:57,410
-<font face="Bahij Nassim" size="90"><b>لن يقبلوا بك أبدًا{أشك-بقبولهم-لشخصٍ-مثلك}</b></font>
+<font face="Bahij Nassim" size="90"><b>لن يقبلوا بك أبدًا</b></font>
 
 103
 00:05:59,510 --> 00:06:03,010
-<font face="Al-Jazeera-Arabic-Bold" size="60">{\an8}البستان #33
+<font face="Al-Jazeera-Arabic-Bold" size="60">البستان #33
 متنزه شابوندي</font>
 
 104
 00:06:03,310 --> 00:06:06,180
-<font face="Al-Jazeera-Arabic-Bold" size="60">{\an8}ساحة الاحتفالات
+<font face="Al-Jazeera-Arabic-Bold" size="60">ساحة الاحتفالات
 قبّة شابوندي</font>
 
 105
 00:06:06,180 --> 00:06:08,360
-<font face="Bahij Nassim" size="90"><b>{أنت، لا تقل ذلك}هيا، تساهل معي</b></font>
+<font face="Bahij Nassim" size="90"><b>هيا، تساهل معي</b></font>
 
 106
 00:06:08,360 --> 00:06:09,820
@@ -461,7 +460,7 @@ Qasim</font>
 
 109
 00:06:18,450 --> 00:06:24,120
-<font face="Bahij Nassim" size="90"><b>{واليوم آخر عرض، المكان ممتلئ بالفعل}واليوم آخر عرض، المكان ممتلئ</b></font>
+<font face="Bahij Nassim" size="90"><b>واليوم آخر عرض، المكان ممتلئ</b></font>
 
 110
 00:06:29,010 --> 00:06:30,710
@@ -486,7 +485,7 @@ Qasim</font>
 
 115
 00:06:49,120 --> 00:06:58,000
-<font face="Bahij Nassim" size="90" color="#d6d6d6"><b>{\an8}سول كينغ سول كينغ
+<font face="Bahij Nassim" size="90" color="#d6d6d6"><b>سول كينغ سول كينغ
 سول كينغ سول كينغ</b></font>
 
 116
@@ -511,7 +510,7 @@ Qasim</font>
 
 121
 00:07:11,830 --> 00:07:13,750
-<font face="Bahij Nassim" size="90" color="#d6d6d6"><b>{\an8}يااه</b></font>
+<font face="Bahij Nassim" size="90" color="#d6d6d6"><b>يااه</b></font>
 
 122
 00:07:13,750 --> 00:07:16,050
@@ -519,7 +518,7 @@ Qasim</font>
 
 123
 00:07:16,050 --> 00:07:18,420
-<font face="Bahij Nassim" size="90" color="#d6d6d6"><b>{\an8}عظام</b></font>
+<font face="Bahij Nassim" size="90" color="#d6d6d6"><b>عظام</b></font>
 
 124
 00:07:18,420 --> 00:07:19,290
@@ -527,7 +526,7 @@ Qasim</font>
 
 125
 00:07:19,290 --> 00:07:20,390
-<font face="Bahij Nassim" size="90" color="#d6d6d6"><b>{\an8}عظام</b></font>
+<font face="Bahij Nassim" size="90" color="#d6d6d6"><b>عظام</b></font>
 
 126
 00:07:20,390 --> 00:07:21,360
@@ -535,7 +534,7 @@ Qasim</font>
 
 127
 00:07:21,360 --> 00:07:22,530
-<font face="Bahij Nassim" size="90" color="#d6d6d6"><b>{\an8}عظام</b></font>
+<font face="Bahij Nassim" size="90" color="#d6d6d6"><b>عظام</b></font>
 
 128
 00:07:22,530 --> 00:07:22,920
@@ -543,7 +542,7 @@ Qasim</font>
 
 129
 00:07:22,920 --> 00:07:23,530
-<font face="Bahij Nassim" size="90" color="#d6d6d6"><b>{\an8}عظام</b></font>
+<font face="Bahij Nassim" size="90" color="#d6d6d6"><b>عظام</b></font>
 
 130
 00:07:23,530 --> 00:07:23,890
@@ -551,7 +550,7 @@ Qasim</font>
 
 131
 00:07:23,890 --> 00:07:24,430
-<font face="Bahij Nassim" size="90" color="#d6d6d6"><b>{\an8}عظام</b></font>
+<font face="Bahij Nassim" size="90" color="#d6d6d6"><b>عظام</b></font>
 
 132
 00:07:24,430 --> 00:07:24,830
@@ -571,7 +570,7 @@ Qasim</font>
 
 136
 00:07:34,710 --> 00:07:40,010
-<font face="Bahij Nassim" size="82" color="#25a6a7"><b>{\an8}عظام</b></font>
+<font face="Bahij Nassim" size="82" color="#25a6a7"><b>عظام</b></font>
 
 137
 00:07:38,980 --> 00:07:43,160
@@ -604,8 +603,7 @@ Qasim</font>
 
 144
 00:08:21,060 --> 00:08:26,920
-<font face="Bahij Nassim" size="90"><b>{إنهن السيّدات الحقيقيّات الذين كنت أتوق
-لهن كل يوم على هذه الجزيرة}السيّدات الحقيقيّات الذين كنت أتوق
+<font face="Bahij Nassim" size="90"><b>السيّدات الحقيقيّات الذين كنت أتوق
 لهن كل يوم هن على هذه الجزيرة</b></font>
 
 145
@@ -622,7 +620,7 @@ Qasim</font>
 
 148
 00:08:34,630 --> 00:08:36,810
-<font face="Bahij Nassim" size="90"><b>سنودعك هنا{سندعك}</b></font>
+<font face="Bahij Nassim" size="90"><b>سنودعك هنا</b></font>
 
 149
 00:08:36,810 --> 00:08:39,980
@@ -676,8 +674,7 @@ Qasim</font>
 
 161
 00:09:19,880 --> 00:09:30,090
-<font face="Al-Jazeera-Arabic-Bold" size="60">{\an8}{A PIRATE "STRAW HATS"
-CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
+<font face="Al-Jazeera-Arabic-Bold" size="60">كابتن قراصنة قبعة القش
 مونكي دي لوفي</font>
 
 162
@@ -686,7 +683,7 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 163
 00:09:26,340 --> 00:09:30,090
-<font face="Bahij Nassim" size="90"><b>لن نقبل أيّ قبطان بأقل من ذلك{قبطان=كابتن}{قبطان=كابتن}</b></font>
+<font face="Bahij Nassim" size="90"><b>لن نقبل أيّ قبطان بأقل من ذلك</b></font>
 
 164
 00:09:30,090 --> 00:09:34,510
@@ -702,11 +699,11 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 167
 00:09:39,130 --> 00:09:42,400
-<font face="Bahij Nassim" size="90"><b>ألا تعلم بأنني ابن الثوري دراغون؟{دراجون-أو-دراقون}</b></font>
+<font face="Bahij Nassim" size="90"><b>ألا تعلم بأنني ابن الثوري دراغون؟</b></font>
 
 168
 00:09:42,370 --> 00:09:45,370
-<font face="Al-Jazeera-Arabic-Bold" size="60">{\an8}الملاحة-نامي</font>
+<font face="Al-Jazeera-Arabic-Bold" size="60">الملاحة-نامي</font>
 
 169
 00:09:45,370 --> 00:09:48,200
@@ -714,7 +711,7 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 170
 00:09:45,400 --> 00:09:50,510
-<font face="Al-Jazeera-Arabic-Bold" size="60">{\an8}صانع السفن-فرانكي</font>
+<font face="Al-Jazeera-Arabic-Bold" size="60">صانع السفن-فرانكي</font>
 
 171
 00:09:48,200 --> 00:09:50,510
@@ -726,7 +723,7 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 173
 00:09:50,640 --> 00:09:56,180
-<font face="Al-Jazeera-Arabic-Bold" size="60">{\an8}القناص-سوغيكينغ</font>
+<font face="Al-Jazeera-Arabic-Bold" size="60">القناص-سوغيكينغ</font>
 
 174
 00:09:52,750 --> 00:09:56,180
@@ -734,7 +731,7 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 175
 00:09:57,930 --> 00:09:58,780
-<font face="Bahij Nassim" size="90"><b>وداعًا{اغرب-عن-وجهي}</b></font>
+<font face="Bahij Nassim" size="90"><b>وداعًا</b></font>
 
 176
 00:10:04,190 --> 00:10:06,800
@@ -811,7 +808,7 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 193
 00:11:08,720 --> 00:11:11,690
 <font face="Bahij Nassim" size="90"><b>لا، شكرًا
-أنا انتظر رجلًا ما{ترجمة-مانجا}</b></font>
+أنا انتظر رجلًا ما</b></font>
 
 194
 00:11:13,990 --> 00:11:15,390
@@ -835,16 +832,16 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 199
 00:11:25,540 --> 00:11:26,640
-<font face="Bahij Nassim" size="90"><b>{أنتِ تعرفينه صحيح؟}سمعتِ به، صحيح؟</b></font>
+<font face="Bahij Nassim" size="90"><b>سمعتِ به، صحيح؟</b></font>
 
 200
 00:11:28,340 --> 00:11:30,070
-<font face="Bahij Nassim" size="90"><b>تنتظرين رجُلًا؟{أحدهم}</b></font>
+<font face="Bahij Nassim" size="90"><b>تنتظرين رجُلًا؟</b></font>
 
 201
 00:11:30,070 --> 00:11:35,450
 <font face="Bahij Nassim" size="90"><b>لابد أنه جبانٌ سيعتذر باكيًا
-فور سماع اسم الكابتن{القائد} لوفي</b></font>
+فور سماع اسم الكابتن لوفي</b></font>
 
 202
 00:11:35,450 --> 00:11:37,810
@@ -893,15 +890,15 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 213
 00:12:35,100 --> 00:12:37,910
-<font face="Bahij Nassim" size="90"><b>هل ستقبلين دعوة الكابتن{القائد-أو-القبطان} لوفي؟</b></font>
+<font face="Bahij Nassim" size="90"><b>هل ستقبلين دعوة الكابتن لوفي؟</b></font>
 
 214
 00:12:37,910 --> 00:12:39,880
-<font face="Bahij Nassim" size="90"><b>{أو هل تريدين الموت؟}أَوَ تريدين الموت؟</b></font>
+<font face="Bahij Nassim" size="90"><b>أَوَ تريدين الموت؟</b></font>
 
 215
 00:12:41,240 --> 00:12:43,510
-<font face="Bahij Nassim" size="90"><b>{ولمعلوماتكِ، لدي مكافأة أيضًا}ولعلمك، لدي مكافأة أيضًا</b></font>
+<font face="Bahij Nassim" size="90"><b>ولعلمك، لدي مكافأة أيضًا</b></font>
 
 216
 00:12:43,510 --> 00:12:45,720
@@ -929,7 +926,7 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 222
 00:13:05,240 --> 00:13:07,070
-<font face="Bahij Nassim" size="90"><b>ساعدني، أيها القائد{القائد-أو-القبطان}</b></font>
+<font face="Bahij Nassim" size="90"><b>ساعدني، أيها القائد</b></font>
 
 223
 00:13:07,070 --> 00:13:09,070
@@ -950,7 +947,7 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 227
 00:13:25,760 --> 00:13:29,190
-<font face="Bahij Nassim" size="90"><b>{لا أستطيع تصديق هذا، لقد أصبحت أقوى}فاجأتَني كم أصبحت قويًا</b></font>
+<font face="Bahij Nassim" size="90"><b>فاجأتَني كم أصبحت قويًا</b></font>
 
 228
 00:13:29,190 --> 00:13:33,660
@@ -1018,7 +1015,7 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 243
 00:14:12,370 --> 00:14:14,470
-<font face="Bahij Nassim" size="90"><b>مهلًا، أيتها السيدة، لم تدفعي بعد{بالنسبة-لي-مفروض-ينكتب-الزبونة-بدلًا-من-السيدة-لكن-الوضع-اوك}</b></font>
+<font face="Bahij Nassim" size="90"><b>مهلًا، أيتها السيدة، لم تدفعي بعد</b></font>
 
 244
 00:14:14,470 --> 00:14:15,770
@@ -1026,7 +1023,7 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 245
 00:14:17,170 --> 00:14:19,580
-<font face="Bahij Nassim" size="90"><b>{اللّعنة، هذا سيجعلنا نبدو سيئين أمام الآخرين}اللّعنة، هذا سيشوه سمعتنا أمام الآخرين</b></font>
+<font face="Bahij Nassim" size="90"><b>اللّعنة، هذا سيشوه سمعتنا أمام الآخرين</b></font>
 
 246
 00:14:19,580 --> 00:14:20,480
@@ -1050,7 +1047,7 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 251
 00:14:53,340 --> 00:14:56,810
-<font face="Bahij Nassim" size="90"><b>{ودرست عن التكنولوجيا الجديدة...}وحصلت على تكنولوجيا جديدة...</b></font>
+<font face="Bahij Nassim" size="90"><b>وحصلت على تكنولوجيا جديدة...</b></font>
 
 252
 00:14:56,810 --> 00:14:59,450
@@ -1062,7 +1059,7 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 254
 00:15:33,850 --> 00:15:37,520
-<font face="Al-Jazeera-Arabic-Bold" size="60">{\an8}مارينفورد 
+<font face="Al-Jazeera-Arabic-Bold" size="60">مارينفورد 
  مقر البحرية الرئيس سابقًا</font>
 
 255
@@ -1084,7 +1081,7 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 259
 00:15:48,230 --> 00:15:50,270
-<font face="Bahij Nassim" size="90"><b>{إن-كان-على-قيد-الحياة-فستُصبح-الأمور-سيئة}إن كان حقاً على قيد الحياة، فهذا ليس جيّدًا</b></font>
+<font face="Bahij Nassim" size="90"><b>إن كان حقاً على قيد الحياة، فهذا ليس جيّدًا</b></font>
 
 260
 00:15:50,930 --> 00:15:52,840
@@ -1096,11 +1093,11 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 262
 00:16:17,190 --> 00:16:18,630
-<font face="Bahij Nassim" size="90"><b>هل أضعتهم يا ترى؟{هل-تخلصت-منهم-يا-ترى}</b></font>
+<font face="Bahij Nassim" size="90"><b>هل أضعتهم يا ترى؟</b></font>
 
 263
 00:16:20,960 --> 00:16:23,400
-<font face="Al-Jazeera-Arabic-Bold" size="60">{\an8}حاجة عاجلة للطاقم</font>
+<font face="Al-Jazeera-Arabic-Bold" size="60">حاجة عاجلة للطاقم</font>
 
 264
 00:16:21,300 --> 00:16:22,770
@@ -1120,7 +1117,7 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 268
 00:16:35,080 --> 00:16:40,620
-<font face="Al-Jazeera-Arabic-Bold" size="60">{\an8}البستان رقم 13 - حانة شاكّي</font>
+<font face="Al-Jazeera-Arabic-Bold" size="60">البستان رقم 13 - حانة شاكّي</font>
 
 269
 00:16:37,750 --> 00:16:40,620
@@ -1128,7 +1125,7 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 270
 00:16:40,620 --> 00:16:42,520
-<font face="Bahij Nassim" size="90"><b>{أنني-لا-أصدق-هذا}{يا إلهي}يا للأسف</b></font>
+<font face="Bahij Nassim" size="90"><b>يا للأسف</b></font>
 
 271
 00:16:42,520 --> 00:16:44,850
@@ -1144,7 +1141,7 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 274
 00:16:52,930 --> 00:16:57,470
-<font face="Bahij Nassim" size="90"><b>بالطبع، لم تصب بخدش واحد، ولقد انتهى تغليفها{بالفعل}</b></font>
+<font face="Bahij Nassim" size="90"><b>بالطبع، لم تصب بخدش واحد، ولقد انتهى تغليفها</b></font>
 
 275
 00:16:57,470 --> 00:16:58,840
@@ -1156,15 +1153,15 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 277
 00:17:01,370 --> 00:17:03,840
-<font face="Bahij Nassim" size="90"><b>{لا أشعر بأي ندم حول هذه الجروح الشريفة}لا أشعر بأي ندم بشأن هذه الجروح الشريفة</b></font>
+<font face="Bahij Nassim" size="90"><b>لا أشعر بأي ندم بشأن هذه الجروح الشريفة</b></font>
 
 278
 00:17:04,210 --> 00:17:07,010
-<font face="Bahij Nassim" size="90"><b>{أجل  لقد تعافى في عام كامل}سيحتاج إلى عام حتى يتعافى كاملا</b></font>
+<font face="Bahij Nassim" size="90"><b>سيحتاج إلى عام حتى يتعافى كاملا</b></font>
 
 279
 00:17:07,010 --> 00:17:10,110
-<font face="Bahij Nassim" size="90"><b>{لم أعتقد بأنك قد تفعل شيئًا شريفًا كهذا}...ما ظننتك رجلًا شريفًا وصاحب واجب إلى هذه الدرجة{*}</b></font>
+<font face="Bahij Nassim" size="90"><b>...ما ظننتك رجلًا شريفًا وصاحب واجب إلى هذه الدرجة</b></font>
 
 280
 00:17:11,250 --> 00:17:12,850
@@ -1192,7 +1189,7 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 286
 00:17:26,930 --> 00:17:29,130
-<font face="Bahij Nassim" size="90"><b>{لقد كان هذا قاسيًا}كانت أيامًا قاسية</b></font>
+<font face="Bahij Nassim" size="90"><b>كانت أيامًا قاسية</b></font>
 
 287
 00:17:29,570 --> 00:17:31,400
@@ -1225,7 +1222,7 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 294
 00:17:46,850 --> 00:17:49,390
-<font face="Bahij Nassim" size="90"><b>{قد ذهبت للتسوّق لتضييع الوقت}ذهبت للتسوّق لتمضية الوقت</b></font>
+<font face="Bahij Nassim" size="90"><b>ذهبت للتسوّق لتمضية الوقت</b></font>
 
 295
 00:17:49,390 --> 00:17:51,350
@@ -1277,7 +1274,7 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 307
 00:18:28,360 --> 00:18:33,260
-<font face="Bahij Nassim" size="90"><b>{صحيح، ولكنني لا أُصدقُ أنك من درَّب لوفي}صحيح، ولكنني فوجئتُ أنْ عرفت أنك من درَّب لوفي</b></font>
+<font face="Bahij Nassim" size="90"><b>صحيح، ولكنني فوجئتُ أنْ عرفت أنك من درَّب لوفي</b></font>
 
 308
 00:18:33,260 --> 00:18:35,800
@@ -1289,7 +1286,7 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 310
 00:18:40,500 --> 00:18:43,340
-<font face="Bahij Nassim" size="90"><b>{"مدى... تقدمه"}"مدى... تقدم"</b></font>
+<font face="Bahij Nassim" size="90"><b>"مدى... تقدم"</b></font>
 
 311
 00:18:43,340 --> 00:18:47,540
@@ -1305,7 +1302,7 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 314
 00:18:57,720 --> 00:19:00,620
-<font face="Bahij Nassim" size="90"><b>{لقد التقينا أخيرًا، ما بالكم ؟}وأخيرًا التقينا فما بالكم؟</b></font>
+<font face="Bahij Nassim" size="90"><b>وأخيرًا التقينا فما بالكم؟</b></font>
 
 315
 00:19:01,520 --> 00:19:05,330
@@ -1313,7 +1310,7 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 316
 00:19:05,330 --> 00:19:08,730
-<font face="Bahij Nassim" size="90"><b>{ولكن، ما الأمر الذي يجعلهم لا يتحدثون معي؟}ولكن ما الأمر الذي يجعلكم لا تتحدثون معي؟</b></font>
+<font face="Bahij Nassim" size="90"><b>ولكن ما الأمر الذي يجعلكم لا تتحدثون معي؟</b></font>
 
 317
 00:19:09,170 --> 00:19:10,830
@@ -1321,7 +1318,7 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 318
 00:19:11,230 --> 00:19:14,040
-<font face="Bahij Nassim" size="90"><b>{أنتما خجولان جدًا أيها الأحمقان}أتخجلان أيها الأحمقان</b></font>
+<font face="Bahij Nassim" size="90"><b>أتخجلان أيها الأحمقان</b></font>
 
 319
 00:19:14,040 --> 00:19:19,440
@@ -1329,11 +1326,11 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 320
 00:19:19,440 --> 00:19:25,250
-<font face="Bahij Nassim" size="90"><b>{إنني أفكر حول هذا الأمر أيضًا ولكن ربما... انظر هنا}إنني أفكر بشأن هذا الأمر أيضًا... انظر</b></font>
+<font face="Bahij Nassim" size="90"><b>إنني أفكر بشأن هذا الأمر أيضًا... انظر</b></font>
 
 321
 00:19:22,410 --> 00:19:25,250
-<font face="Al-Jazeera-Arabic-Bold" size="60">{\an8}قبعات القش: زورو، سانجي، روبين، تشوبر</font>
+<font face="Al-Jazeera-Arabic-Bold" size="60">قبعات القش: زورو، سانجي، روبين، تشوبر</font>
 
 322
 00:19:25,750 --> 00:19:27,350
@@ -1345,7 +1342,7 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 324
 00:19:34,420 --> 00:19:35,490
-<font face="Bahij Nassim" size="90"><b>{إذًأ، هذا هو حيوانهم الأليف}حيوانهم الأليف</b></font>
+<font face="Bahij Nassim" size="90"><b>حيوانهم الأليف</b></font>
 
 325
 00:19:35,490 --> 00:19:38,790
@@ -1353,7 +1350,7 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 326
 00:19:39,560 --> 00:19:44,030
-<font face="Bahij Nassim" size="90"><b>{إنه الناجي الوحيد منهم في هذه الجزيرة، وقد عاش فيها ضالًا طريقه}لا بد أنهم تخلصوا منه في هذه الجزيرة قبل موتهم فعاش ضالا الطريق وحده</b></font>
+<font face="Bahij Nassim" size="90"><b>لا بد أنهم تخلصوا منه في هذه الجزيرة قبل موتهم فعاش ضالا الطريق وحده</b></font>
 
 327
 00:19:44,030 --> 00:19:48,910
@@ -1365,11 +1362,11 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 329
 00:19:52,110 --> 00:19:55,880
-<font face="Bahij Nassim" size="90"><b>{إن كان كما في الصورة، فالشكّ سيقل حولنا أكثر}إن كان كما في الصورة، فالشكّ بأمرنا سيقل أكثر</b></font>
+<font face="Bahij Nassim" size="90"><b>إن كان كما في الصورة، فالشكّ بأمرنا سيقل أكثر</b></font>
 
 330
 00:19:55,880 --> 00:19:57,910
-<font face="Bahij Nassim" size="90"><b>{نرميه؟ إذًا ما الذي سنطعمه أياه؟}سنربيه؟ إذًا ما الذي سنطعمه أياه؟</b></font>
+<font face="Bahij Nassim" size="90"><b>سنربيه؟ إذًا ما الذي سنطعمه أياه؟</b></font>
 
 331
 00:19:57,910 --> 00:19:59,350
@@ -1381,7 +1378,7 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 333
 00:20:02,490 --> 00:20:04,890
-<font face="Bahij Nassim" size="90"><b>{لسنا بحاجتك أكثر من ذلك، انصرف فورًا}هيا انصرف فلم نعد بحاجة إليك</b></font>
+<font face="Bahij Nassim" size="90"><b>هيا انصرف فلم نعد بحاجة إليك</b></font>
 
 334
 00:20:08,930 --> 00:20:10,560
@@ -1417,15 +1414,15 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 342
 00:20:28,780 --> 00:20:30,950
-<font face="Bahij Nassim" size="90"><b>{أنهم المختطفون}إنهم الخاطفون</b></font>
+<font face="Bahij Nassim" size="90"><b>إنهم الخاطفون</b></font>
 
 343
 00:20:30,950 --> 00:20:34,920
-<font face="Bahij Nassim" size="90"><b>{قائد-أو-كابتن}مهلًا، ألا ينبغي علينا إخبار القائد لوفي؟</b></font>
+<font face="Bahij Nassim" size="90"><b>مهلًا، ألا ينبغي علينا إخبار القائد لوفي؟</b></font>
 
 344
 00:20:34,920 --> 00:20:37,620
-<font face="Bahij Nassim" size="90"><b>{ماذا؟ أنتم قابلتم لوفي يا رفاق؟}ماذا؟ قابلتم لوفي يا رفاق؟</b></font>
+<font face="Bahij Nassim" size="90"><b>ماذا؟ قابلتم لوفي يا رفاق؟</b></font>
 
 345
 00:20:37,620 --> 00:20:38,650
@@ -1437,7 +1434,7 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 347
 00:20:40,860 --> 00:20:43,760
-<font face="Bahij Nassim" size="90"><b>{هذا صحيح، من الأفضل إنقاذ روبين؟}هذا صحيح، يجب علينا أن نسرع بإنقاذ روبين</b></font>
+<font face="Bahij Nassim" size="90"><b>هذا صحيح، يجب علينا أن نسرع بإنقاذ روبين</b></font>
 
 348
 00:20:43,760 --> 00:20:44,990
@@ -1453,7 +1450,7 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 351
 00:20:56,410 --> 00:20:59,980
-<font face="Bahij Nassim" size="90"><b>{من الأفضل أن أسرع، فمن المؤكد أنّ الجميع ينتظرني}من الأفضل أن أسرع، فمن الممكن أنّ الجميع ينتظرني</b></font>
+<font face="Bahij Nassim" size="90"><b>من الأفضل أن أسرع، فمن الممكن أنّ الجميع ينتظرني</b></font>
 
 352
 00:21:04,110 --> 00:21:06,880
@@ -1465,7 +1462,7 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 354
 00:21:08,850 --> 00:21:10,690
-<font face="Bahij Nassim" size="90"><b>{لقد أطلقَ عليها من دون سبب}أطلقَ عليها من دون سبب</b></font>
+<font face="Bahij Nassim" size="90"><b>أطلقَ عليها من دون سبب</b></font>
 
 355
 00:21:10,690 --> 00:21:11,790
@@ -1473,7 +1470,7 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 356
 00:21:11,790 --> 00:21:14,760
-<font face="Bahij Nassim" size="90"><b>{أنتِ، }تماسكي</b></font>
+<font face="Bahij Nassim" size="90"><b>تماسكي</b></font>
 
 357
 00:21:14,760 --> 00:21:16,460
@@ -1485,7 +1482,7 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 359
 00:21:19,560 --> 00:21:21,030
-<font face="Bahij Nassim" size="90"><b>{لقد اعتذرت سلفًا}ألم أعتذر سلفًا؟</b></font>
+<font face="Bahij Nassim" size="90"><b>ألم أعتذر سلفًا؟</b></font>
 
 360
 00:21:21,030 --> 00:21:23,000
@@ -1493,8 +1490,7 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 361
 00:21:23,000 --> 00:21:27,400
-<font face="Bahij Nassim" size="90"><b>{أنا آسف
-لقد كنت أبحث عن ثنائي يشبهكما}أنا آسف
+<font face="Bahij Nassim" size="90"><b>أنا آسف
 كنت أبحث عن ثنائي يشبهكما</b></font>
 
 362
@@ -1503,8 +1499,7 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 363
 00:21:31,070 --> 00:21:34,080
-<font face="Bahij Nassim" size="90"><b>{أعتقدت أنها شخصٌ آخر تقول؟
-مع ذلك أطقلت النار}اعتقدتَ أنها شخصٌ آخر تقول؟
+<font face="Bahij Nassim" size="90"><b>اعتقدتَ أنها شخصٌ آخر تقول؟
 ولذلك فقط أطقلت النار؟</b></font>
 
 364
@@ -1581,7 +1576,7 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 382
 00:23:12,410 --> 00:23:13,840
-<font face="Bahij Nassim" size="90"><b>{...فلتضع هذا}فلترتدِ هذا</b></font>
+<font face="Bahij Nassim" size="90"><b>فلترتدِ هذا</b></font>
 
 383
 00:23:14,980 --> 00:23:16,250
@@ -1617,7 +1612,7 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 391
 00:23:34,330 --> 00:23:37,870
-<font face="Bahij Nassim" size="90"><b>{تعرف ما فعلته قبل السنتين}تعرف وجهك بسبب ما فعلته قبل سنتين</b></font>
+<font face="Bahij Nassim" size="90"><b>تعرف وجهك بسبب ما فعلته قبل سنتين</b></font>
 
 392
 00:23:37,870 --> 00:23:41,340
@@ -1646,7 +1641,7 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 398
 00:23:59,220 --> 00:24:01,890
-<font face="Bahij Nassim" size="90"><b>من المفترض أن تكون أخفَّ وزنًا{اخف-أو-خفيفة-الوزن}</b></font>
+<font face="Bahij Nassim" size="90"><b>من المفترض أن تكون أخفَّ وزنًا</b></font>
 
 399
 00:24:04,330 --> 00:24:06,500
@@ -1666,7 +1661,7 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 403
 00:24:17,110 --> 00:24:22,440
-<font face="Bahij Nassim" size="90"><b>نعم، ولهذا السبب كثّفت البحرية الاهتمام هناك {أكثر}</b></font>
+<font face="Bahij Nassim" size="90"><b>نعم، ولهذا السبب كثّفت البحرية الاهتمام هناك </b></font>
 
 404
 00:24:22,440 --> 00:24:24,610
@@ -1690,7 +1685,7 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 409
 00:24:38,690 --> 00:24:41,130
-<font face="Bahij Nassim" size="90"><b>{ماذا؟ لا أخطِّط للتزوِّج بك}ما هو؟ لا أريد أن أتزوج</b></font>
+<font face="Bahij Nassim" size="90"><b>ما هو؟ لا أريد أن أتزوج</b></font>
 
 410
 00:24:41,130 --> 00:24:47,800
@@ -1706,7 +1701,7 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 413
 00:24:57,750 --> 00:25:00,020
-<font face="Bahij Nassim" size="90"><b>{~ حسنًا إذًأ، سأغادر}حسنًا إذًا، سأغادر</b></font>
+<font face="Bahij Nassim" size="90"><b>حسنًا إذًا، سأغادر</b></font>
 
 414
 00:25:00,020 --> 00:25:00,980
@@ -1758,7 +1753,7 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 426
 00:26:29,540 --> 00:26:31,940
-<font face="Bahij Nassim" size="90"><b>{يا لكِ من امرأة جذابة }{يا-لجمالك-الخلاب}أيتها الامرأة الجذابة</b></font>
+<font face="Bahij Nassim" size="90"><b>أيتها الامرأة الجذابة</b></font>
 
 427
 00:26:31,940 --> 00:26:36,250
@@ -1778,7 +1773,7 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 431
 00:27:08,210 --> 00:27:12,350
-<font face="Bahij Nassim" size="90"><b>{انظري لجسدي، إنه مليءٌ بالرومانسية الرجولية}انظري إلى جسدي، إنه مركب مما يحلم به الرجال</b></font>
+<font face="Bahij Nassim" size="90"><b>انظري إلى جسدي، إنه مركب مما يحلم به الرجال</b></font>
 
 432
 00:27:12,350 --> 00:27:17,550
@@ -1790,7 +1785,7 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 434
 00:27:24,390 --> 00:27:28,500
-<font face="Bahij Nassim" size="90"><b>{نعم، لابد وأنه من الصعب رؤيتك كإنسانٍ عاديٍ الآن}نعم، لابد وأنه من الصعب رؤيتك رؤية إنسانٍ الآن</b></font>
+<font face="Bahij Nassim" size="90"><b>نعم، لابد وأنه من الصعب رؤيتك رؤية إنسانٍ الآن</b></font>
 
 435
 00:27:29,260 --> 00:27:33,000
@@ -1802,7 +1797,7 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 437
 00:27:43,450 --> 00:27:45,180
-<font face="Bahij Nassim" size="90"><b>هل هذا هو الغطاء{الغلاف-أو-طلاء}؟</b></font>
+<font face="Bahij Nassim" size="90"><b>هل هذا هو الغطاء؟</b></font>
 
 438
 00:27:46,550 --> 00:27:47,750
@@ -1818,7 +1813,7 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 441
 00:27:54,220 --> 00:27:56,660
-<font face="Bahij Nassim" size="90"><b>{يا لها من تقنية}ما أذهل ماهاراته</b></font>
+<font face="Bahij Nassim" size="90"><b>ما أذهل ماهاراته</b></font>
 
 442
 00:27:57,330 --> 00:27:59,860
@@ -1846,11 +1841,11 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 448
 00:28:16,650 --> 00:28:19,250
-<font face="Bahij Nassim" size="90"><b>والسلاح الجديد على أتم الاستعداد أيضًا {بالإضافة-إلى-السلاح-الجديد}</b></font>
+<font face="Bahij Nassim" size="90"><b>والسلاح الجديد على أتم الاستعداد أيضًا </b></font>
 
 449
 00:28:20,720 --> 00:28:22,520
-<font face="Bahij Nassim" size="90"><b>{لا يمكنني الانتظار}تحمست جدا</b></font>
+<font face="Bahij Nassim" size="90"><b>تحمست جدا</b></font>
 
 450
 00:28:22,520 --> 00:28:24,790
@@ -1894,7 +1889,7 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 460
 00:28:59,720 --> 00:29:03,690
-<font face="Bahij Nassim" size="90"><b>{قام بخطواتٍ لامعة في المسرح حيثُ ينال تشجيع الجميع}قامتٍ في المسرح اللامع حيثُ ينال تشجيع الجميع</b></font>
+<font face="Bahij Nassim" size="90"><b>قامتٍ في المسرح اللامع حيثُ ينال تشجيع الجميع</b></font>
 
 461
 00:29:10,170 --> 00:29:12,170
@@ -1902,11 +1897,11 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 462
 00:29:13,770 --> 00:29:19,810
-<font face="Bahij Nassim" size="90"><b>أن لا يعودَ قرصانًا {كما كان}</b></font>
+<font face="Bahij Nassim" size="90"><b>أن لا يعودَ قرصانًا </b></font>
 
 463
 00:29:16,570 --> 00:29:20,580
-<font face="Al-Jazeera-Arabic-Bold" size="60">{\an8}البستان رقم 33، قبّة شابوندي</font>
+<font face="Al-Jazeera-Arabic-Bold" size="60">البستان رقم 33، قبّة شابوندي</font>
 
 464
 00:29:21,280 --> 00:29:25,580
@@ -1946,7 +1941,7 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 473
 00:30:05,290 --> 00:30:08,390
-<font face="Bahij Nassim" size="90"><b>{أترى، أنك تنظر إليّ كالأحمق}أترى، جعلت منظري منظر الأحمق</b></font>
+<font face="Bahij Nassim" size="90"><b>أترى، جعلت منظري منظر الأحمق</b></font>
 
 474
 00:30:09,120 --> 00:30:12,230
@@ -1967,7 +1962,7 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 478
 00:30:21,440 --> 00:30:23,770
-<font face="Bahij Nassim" size="90"><b>وتتوسل لتبقى حيًا {تتوسل-أو-تعتذر}</b></font>
+<font face="Bahij Nassim" size="90"><b>وتتوسل لتبقى حيًا </b></font>
 
 479
 00:30:30,780 --> 00:30:35,780
@@ -1987,7 +1982,7 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 483
 00:30:45,060 --> 00:30:47,030
-<font face="Bahij Nassim" size="90"><b>لقد ذهب{لقد-اختفى}</b></font>
+<font face="Bahij Nassim" size="90"><b>لقد ذهب</b></font>
 
 484
 00:30:47,030 --> 00:30:48,800
@@ -2004,7 +1999,7 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 487
 00:30:57,610 --> 00:31:00,310
-<font face="Bahij Nassim" size="90"><b>أيها العم، أريد الإبحار لأجل الصيد{أُريدُ-الصيد}</b></font>
+<font face="Bahij Nassim" size="90"><b>أيها العم، أريد الإبحار لأجل الصيد</b></font>
 
 488
 00:31:02,180 --> 00:31:05,910
@@ -2012,7 +2007,7 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 489
 00:31:06,380 --> 00:31:09,520
-<font face="Bahij Nassim" size="90"><b>لقد وعدتُ أصدقائي بلقائهم على هذه الجزيرة{لقد-كنتُ-بصدد-الالتقاء-بأصدقائي}</b></font>
+<font face="Bahij Nassim" size="90"><b>لقد وعدتُ أصدقائي بلقائهم على هذه الجزيرة</b></font>
 
 490
 00:31:09,520 --> 00:31:13,360
@@ -2028,7 +2023,7 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 493
 00:31:19,090 --> 00:31:23,300
-<font face="Bahij Nassim" size="90"><b>حسنا، سنخرج إلى البحر في قارب الصيد هناك، فاركب فيه وانتظرني{بالتأكيد، سأدعك تأخذ القارب الذي هناك فاذهب وانتظرني فيه}</b></font>
+<font face="Bahij Nassim" size="90"><b>حسنا، سنخرج إلى البحر في قارب الصيد هناك، فاركب فيه وانتظرني</b></font>
 
 494
 00:31:25,230 --> 00:31:27,600
@@ -2060,7 +2055,7 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 501
 00:31:43,620 --> 00:31:45,920
-<font face="Bahij Nassim" size="90"><b>{حسنًا، }أنا أعرفه فقط قليلًا</b></font>
+<font face="Bahij Nassim" size="90"><b>أنا أعرفه فقط قليلًا</b></font>
 
 502
 00:31:45,920 --> 00:31:49,490
@@ -2092,11 +2087,11 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 509
 00:32:08,710 --> 00:32:11,150
-<font face="Bahij Nassim" size="90"><b>{أنت على السفينة الخطأ}أخطأت في ركوبك</b></font>
+<font face="Bahij Nassim" size="90"><b>أخطأت في ركوبك</b></font>
 
 510
 00:32:11,150 --> 00:32:16,750
-<font face="Bahij Nassim" size="90"><b>لذا أعتقد أنه الآن يتجه نحو جزيرة البرمائيين{اليوجين}</b></font>
+<font face="Bahij Nassim" size="90"><b>لذا أعتقد أنه الآن يتجه نحو جزيرة البرمائيين</b></font>
 
 511
 00:32:21,320 --> 00:32:22,860
@@ -2104,7 +2099,7 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 512
 00:32:27,860 --> 00:32:30,570
-<font face="Bahij Nassim" size="90"><b>{اعتقدتُ أنه من غير عادته أن يصل أولًا}{تحتاج-تدقيق}من المستحيل أن يصل أولًا دون أن يضيع الطريق</b></font>
+<font face="Bahij Nassim" size="90"><b>من المستحيل أن يصل أولًا دون أن يضيع الطريق</b></font>
 
 513
 00:32:30,570 --> 00:32:34,740
@@ -2118,8 +2113,7 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 515
 00:32:37,840 --> 00:32:41,710
 <font face="Bahij Nassim" size="90"><b>لا، لا تبالي
-لم يكن خطأك{لا، لا، أنه بخير
-لم يكن خطأك}</b></font>
+لم يكن خطأك</b></font>
 
 516
 00:32:42,410 --> 00:32:46,280
@@ -2128,15 +2122,15 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 517
 00:32:46,280 --> 00:32:47,880
-<font face="Bahij Nassim" size="90"><b>الأهم من ذلك، أعندك سمك تبيعه؟{إلى جانب ذلك، هل يمكنني الحصول على بعض السمك؟}</b></font>
+<font face="Bahij Nassim" size="90"><b>الأهم من ذلك، أعندك سمك تبيعه؟</b></font>
 
 518
 00:32:47,880 --> 00:32:49,790
-<font face="Bahij Nassim" size="90"><b>{...حسنًا، ولكن}...أتسألني عن السمك</b></font>
+<font face="Bahij Nassim" size="90"><b>...أتسألني عن السمك</b></font>
 
 519
 00:32:49,790 --> 00:32:51,120
-<font face="Bahij Nassim" size="90" color="#d6d6d6"><b>{\an8}{أنت، }انظر، ما ذلك الشيء؟</b></font>
+<font face="Bahij Nassim" size="90" color="#d6d6d6"><b>انظر، ما ذلك الشيء؟</b></font>
 
 520
 00:32:52,550 --> 00:32:55,190
@@ -2162,7 +2156,7 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 525
 00:33:17,650 --> 00:33:19,310
-<font face="Bahij Nassim" size="90"><b>{أو هوجمت بواسطة ملوك البحر؟}أم هاجمتها ملوك البحر؟</b></font>
+<font face="Bahij Nassim" size="90"><b>أم هاجمتها ملوك البحر؟</b></font>
 
 526
 00:33:19,310 --> 00:33:22,990
@@ -2182,7 +2176,7 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 530
 00:33:28,290 --> 00:33:32,330
-<font face="Bahij Nassim" size="90"><b>كيف تجرؤ على تدمير حلمنا للذهاب إلى العالم الجديد؟{كيف سمحَ لك ضميرُك بمنعنا من تحقيق حلمنا للذهاب إلى العالم الجديد؟}</b></font>
+<font face="Bahij Nassim" size="90"><b>كيف تجرؤ على تدمير حلمنا للذهاب إلى العالم الجديد؟</b></font>
 
 531
 00:33:33,900 --> 00:33:35,930
@@ -2207,8 +2201,7 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 536
 00:33:45,310 --> 00:33:49,750
 <font face="Bahij Nassim" size="90"><b>لقد عاد 
-ولكن لم أكن لأبالي لو لم يعد{لقد عاد 
-لم أكن قلقًا عليه ابدًا}</b></font>
+ولكن لم أكن لأبالي لو لم يعد</b></font>
 
 537
 00:33:58,420 --> 00:33:59,620
@@ -2216,5 +2209,5 @@ CAPTAIN - MONKEY D. LUFFY}كابتن قراصنة قبعة القش
 
 538
 00:34:01,160 --> 00:34:02,890
-<font face="Bahij Nassim" size="90"><b>في السفينة الخطأ{...على السفينة الخطأ}</b></font>
+<font face="Bahij Nassim" size="90"><b>في السفينة الخطأ</b></font>
 

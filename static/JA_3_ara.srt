@@ -9,72 +9,72 @@ https://mpv.io/
 
 2
 00:00:54,190 --> 00:00:57,320
-<font face="Khalid Art bold" size="60">{\an7}مونتاج</font>
+<font face="Khalid Art bold" size="60">مونتاج</font>
 
 3
 00:00:54,190 --> 00:00:57,320
-<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}Sewil</b></font>
+<font face="FOT-Greco Std B Strp" size="43"><b>Sewil</b></font>
 
 4
 00:00:57,320 --> 00:01:00,040
-<font face="Khalid Art bold" size="60">{\an7}جرافيك</font>
+<font face="Khalid Art bold" size="60">جرافيك</font>
 
 5
 00:00:57,320 --> 00:01:00,040
-<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}Datenshi</b></font>
+<font face="FOT-Greco Std B Strp" size="43"><b>Datenshi</b></font>
 
 6
 00:01:00,040 --> 00:01:03,240
-<font face="Khalid Art bold" size="60">{\an7}ضبط الجودة</font>
+<font face="Khalid Art bold" size="60">ضبط الجودة</font>
 
 7
 00:01:00,040 --> 00:01:03,240
-<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}Galaxy 9000
+<font face="FOT-Greco Std B Strp" size="43"><b>Galaxy 9000
 Pepperjack
 Scolines
 Zenef</b></font>
 
 8
 00:01:03,240 --> 00:01:06,490
-<font face="Khalid Art bold" size="60">{\an7}كاريوكي</font>
+<font face="Khalid Art bold" size="60">كاريوكي</font>
 
 9
 00:01:03,240 --> 00:01:06,490
-<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}KaitouYahiko</b></font>
+<font face="FOT-Greco Std B Strp" size="43"><b>KaitouYahiko</b></font>
 
 10
 00:01:06,490 --> 00:01:09,300
-<font face="Khalid Art bold" size="60">{\an7}الصوت</font>
+<font face="Khalid Art bold" size="60">الصوت</font>
 
 11
 00:01:06,490 --> 00:01:09,300
-<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}Halee</b></font>
+<font face="FOT-Greco Std B Strp" size="43"><b>Halee</b></font>
 
 12
 00:01:09,300 --> 00:01:12,520
-<font face="Khalid Art bold" size="60">{\an7}مزامنة الترجمة</font>
+<font face="Khalid Art bold" size="60">مزامنة الترجمة</font>
 
 13
 00:01:09,300 --> 00:01:12,520
-<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}Galaxy 9000
+<font face="FOT-Greco Std B Strp" size="43"><b>Galaxy 9000
 Raven-</b></font>
 
 14
 00:01:12,520 --> 00:01:15,330
-<font face="Khalid Art bold" size="60">{\an7}التدقيق اللغوي</font>
+<font face="Khalid Art bold" size="60">التدقيق اللغوي</font>
 
 15
 00:01:12,520 --> 00:01:15,330
-<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}Raven-
+<font face="FOT-Greco Std B Strp" size="43"><b>Raven-
 FiberAhmed</b></font>
 
 16
 00:01:15,330 --> 00:01:18,200
-<font face="Khalid Art bold" size="60">{\an7}ترجمة</font>
+<font face="Khalid Art bold" size="60">ترجمة</font>
 
 17
 00:01:15,330 --> 00:01:18,200
-<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}Crunchyroll</b></font>
+<font face="FOT-Greco Std B Strp" size="43"><b>Crunchyroll</b></font>
 
 18
 00:01:49,760 --> 00:01:55,300
@@ -158,8 +158,7 @@ https://mpv.io/
 
 36
 00:02:58,240 --> 00:03:03,020
-<font face="Bahij Nassim" size="111"><b>{The doctrine of nonresistance...
-Sounds nice, doesn't it? - OG}مبدأ عدم المقاومة... مدهش، أليس كذلك؟{Z/rangicus}</b></font>
+<font face="Bahij Nassim" size="111"><b>مبدأ عدم المقاومة... مدهش، أليس كذلك؟</b></font>
 
 37
 00:03:08,500 --> 00:03:11,130
@@ -320,9 +319,8 @@ Sounds nice, doesn't it? - OG}مبدأ عدم المقاومة... مدهش، أ�
 
 75
 00:06:35,500 --> 00:06:40,460
-<font face="Bahij Nassim" size="111"><b>{The era where pirates have dreams
-will be over, they say?! Huh?! - OG}العصر الّذي يحلم فيه القراصنة 
-!قد ولّى، أهذا ما قالوه؟{Z - should match Bellamy's words in Jaya 02 @30:58}</b></font>
+<font face="Bahij Nassim" size="111"><b>العصر الّذي يحلم فيه القراصنة 
+!قد ولّى، أهذا ما قالوه؟</b></font>
 
 76
 00:06:40,460 --> 00:06:41,550
@@ -560,16 +558,15 @@ will be over, they say?! Huh?! - OG}العصر الّذي يحلم فيه الق
 
 132
 00:10:10,460 --> 00:10:33,610
-<font face="Bahij Nassim" size="111"><b>{\an8}<b></b></b></font><font size="115">♪  !إنقاذ! إنقاذ  ♪</font>
+<font face="Bahij Nassim" size="111"><b><b></b></b></font><font size="115">♪  !إنقاذ! إنقاذ  ♪</font>
 
 133
 00:10:10,960 --> 00:10:14,920
-<font face="Bahij Nassim" size="111"><b>{Ahhh! We do! Sanji-[/i1]kun[/i0]! - OG}!لا! بل جائعان! جائعان يا سانجي-كن{arch}</b></font>
+<font face="Bahij Nassim" size="111"><b>!لا! بل جائعان! جائعان يا سانجي-كن</b></font>
 
 134
 00:10:11,580 --> 00:10:14,930
-<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>{Now, I wonder how the seagull
-stock soup is coming along. - OG}حسنًا، أتساءل هل نضج حساء النّوارس{Z}</b></font>
+<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>حسنًا، أتساءل هل نضج حساء النّوارس</b></font>
 
 135
 00:10:14,920 --> 00:10:15,810
@@ -577,13 +574,11 @@ stock soup is coming along. - OG}حسنًا، أتساءل هل نضج حساء 
 
 136
 00:10:14,930 --> 00:10:15,800
-<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>{Now, I wonder how the seagull
-stock soup is coming along. - OG}حسنًا، أتساءل هل نضج حساء النّوارس{Z}</b></font>
+<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>حسنًا، أتساءل هل نضج حساء النّوارس</b></font>
 
 137
 00:10:15,800 --> 00:10:16,760
-<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>{Now, I wonder how the seagull
-stock soup is coming along. - OG}حسنًا، أتساءل هل نضج حساء النّوارس{Z}</b></font>
+<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>حسنًا، أتساءل هل نضج حساء النّوارس</b></font>
 
 138
 00:10:15,810 --> 00:10:18,970
@@ -738,13 +733,12 @@ stock soup is coming along. - OG}حسنًا، أتساءل هل نضج حساء 
 
 173
 00:12:22,640 --> 00:12:24,090
-<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>{\an8}!نقطة تعزيز القفز</b></font>
+<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>!نقطة تعزيز القفز</b></font>
 
 174
 00:12:22,640 --> 00:12:25,980
-<font face="Bahij Nassim" size="111"><b>{This all happened because you
-started talking about that sky island! - OG}حدث كلّ هذا لأنّك بدأت الحديث 
-!عن جزيرة السّماء تلك{Z}</b></font>
+<font face="Bahij Nassim" size="111"><b>حدث كلّ هذا لأنّك بدأت الحديث 
+!عن جزيرة السّماء تلك</b></font>
 
 175
 00:12:25,980 --> 00:12:29,380
@@ -930,8 +924,7 @@ started talking about that sky island! - OG}حدث كلّ هذا لأنّك بد
 
 216
 00:15:08,800 --> 00:15:13,100
-<font face="Bahij Nassim" size="111"><b>{Ha! Honestly, I got all worked up
-wondering who you guys were! - OG}{\an8}!يا إلهي، تحمّست كثيرًا متسائلًا من تكونون{arch/Z}</b></font>
+<font face="Bahij Nassim" size="111"><b>!يا إلهي، تحمّست كثيرًا متسائلًا من تكونون</b></font>
 
 217
 00:15:15,100 --> 00:15:18,480
@@ -1013,9 +1006,8 @@ wondering who you guys were! - OG}{\an8}!يا إلهي، تحمّست كثيرً
 
 235
 00:16:19,380 --> 00:16:26,630
-<font face="Bahij Nassim" size="111"><b>{Listen. You will come out of the tunnel
-that is my anger into a sea of blood. - OG}اسمعوا، من عمق نفق غيظي ينتظركم
- بحر تفيض به الدماء{Z}</b></font>
+<font face="Bahij Nassim" size="111"><b>اسمعوا، من عمق نفق غيظي ينتظركم
+ بحر تفيض به الدماء</b></font>
 
 236
 00:16:27,300 --> 00:16:30,260
@@ -1081,7 +1073,7 @@ that is my anger into a sea of blood. - OG}اسمعوا، من عمق نفق غ�
 
 251
 00:17:06,080 --> 00:17:08,380
-<font face="Hacen Digital Arabia LT" size="60">{\an8}الموجة الصّوتيّة</font>
+<font face="Hacen Digital Arabia LT" size="60">الموجة الصّوتيّة</font>
 
 252
 00:17:06,080 --> 00:17:08,380
@@ -1089,7 +1081,7 @@ that is my anger into a sea of blood. - OG}اسمعوا، من عمق نفق غ�
 
 253
 00:17:08,420 --> 00:17:10,500
-<font face="Hacen Digital Arabia LT" size="60">{\an8}سونار الدّمار</font>
+<font face="Hacen Digital Arabia LT" size="60">سونار الدّمار</font>
 
 254
 00:17:08,420 --> 00:17:10,500
@@ -1117,7 +1109,7 @@ that is my anger into a sea of blood. - OG}اسمعوا، من عمق نفق غ�
 
 260
 00:17:37,790 --> 00:17:41,000
-<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>{\an8}!كلّا! لقد أعماه الغضب</b></font>
+<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>!كلّا! لقد أعماه الغضب</b></font>
 
 261
 00:17:38,230 --> 00:17:41,000

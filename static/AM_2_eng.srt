@@ -12,17 +12,17 @@
 
 4
 00:00:31,890 --> 00:00:37,270
-<font face="FOT-Greco Std B" size="34">{\an7}Translation
+<font face="FOT-Greco Std B" size="34">Translation
 Funimation</font>
 
 5
 00:00:31,890 --> 00:00:37,270
-<font face="FOT-Greco Std B" size="34">{\an7}Soundtracking
+<font face="FOT-Greco Std B" size="34">Soundtracking
 Halee</font>
 
 6
 00:00:31,890 --> 00:00:37,270
-<font face="FOT-Greco Std B" size="34">{\an7}Quality-checking
+<font face="FOT-Greco Std B" size="34">Quality-checking
 alasta</font>
 
 7
@@ -31,23 +31,23 @@ alasta</font>
 
 8
 00:00:37,380 --> 00:00:42,140
-<font face="FOT-Greco Std B" size="34">{\an7}Editing
+<font face="FOT-Greco Std B" size="34">Editing
 Sewil
 Feeso</font>
 
 9
 00:00:37,380 --> 00:00:42,140
-<font face="FOT-Greco Std B" size="34">{\an7}Infoboxes
+<font face="FOT-Greco Std B" size="34">Infoboxes
 BernieCrane</font>
 
 10
 00:00:37,380 --> 00:00:42,140
-<font face="FOT-Greco Std B" size="34">{\an7}Formatting
+<font face="FOT-Greco Std B" size="34">Formatting
 Datenshi</font>
 
 11
 00:00:37,380 --> 00:00:42,140
-<font face="FOT-Greco Std B" size="34">{\an7}Edit-checking
+<font face="FOT-Greco Std B" size="34">Edit-checking
 Galaxy 9000</font>
 
 12
@@ -618,7 +618,7 @@ Warlord of the Sea –‘Empress’ Boa Hancock</font>
 
 143
 00:09:00,340 --> 00:09:02,800
-<font face="Impress BT" size="55">{\an8}So you've finally come for me...</font>
+<font face="Impress BT" size="55">So you've finally come for me...</font>
 
 144
 00:09:05,260 --> 00:09:07,180
@@ -641,7 +641,7 @@ Boa Marigold</font>
 
 146
 00:09:09,300 --> 00:09:12,100
-<font face="Impress BT" size="55">{\an8}My recent replies were lies.</font>
+<font face="Impress BT" size="55">My recent replies were lies.</font>
 
 147
 00:09:12,300 --> 00:09:16,680
@@ -660,7 +660,7 @@ Boa Sandersonia</font>
 
 148
 00:09:13,300 --> 00:09:16,080
-<font face="Impress BT" size="55">{\an8}I will not go to war!</font>
+<font face="Impress BT" size="55">I will not go to war!</font>
 
 149
 00:09:17,340 --> 00:09:18,200
@@ -892,7 +892,7 @@ Boa Sandersonia</font>
 
 206
 00:12:18,820 --> 00:12:20,500
-<font face="Impress BT" size="55">Love Mellow! {No idea what to translate her attacks as, thoughts? Original was "Love-Love Beam"}</font>
+<font face="Impress BT" size="55">Love Mellow! </font>
 
 207
 00:12:23,940 --> 00:12:24,600
@@ -1351,7 +1351,7 @@ Kuja Castle</font>
 
 316
 00:19:21,260 --> 00:19:24,780
-<font face="Impress BT" size="38"><i>{\an8}"Go!"</i></font>
+<font face="Impress BT" size="38"><i>"Go!"</i></font>
 
 317
 00:19:26,510 --> 00:19:27,590
@@ -1557,7 +1557,7 @@ so it's about to get packed in here!</font>
 
 366
 00:22:00,960 --> 00:22:07,710
-<font face="Impress BT" size="38"><i>{\an8}Bath</i></font>
+<font face="Impress BT" size="38"><i>Bath</i></font>
 
 367
 00:22:02,380 --> 00:22:03,850
