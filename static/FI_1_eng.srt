@@ -48,7 +48,7 @@
 
 13
 00:00:39,790 --> 00:00:43,050
-<font face="Times New Roman" size="34">Translation & initial timing
+<font face="Times New Roman" size="34">{\an1}Translation & initial timing
 <font size="40">Yibis Fansubs</font></font>
 
 14
@@ -57,7 +57,7 @@
 
 15
 00:00:45,220 --> 00:00:48,820
-<font face="Times New Roman" size="34">Timing
+<font face="Times New Roman" size="34">{\an1}Timing
 <font size="40">Galaxy 9000
 
 </font>Time-checking
@@ -69,7 +69,7 @@
 
 17
 00:00:50,200 --> 00:00:54,280
-<font face="Times New Roman" size="34">Quality-checking
+<font face="Times New Roman" size="34">{\an1}Quality-checking
 <font size="40">Sewil
 Galaxy 9000
 Feeso</font></font>
@@ -80,7 +80,7 @@ Feeso</font></font>
 
 19
 00:00:54,590 --> 00:00:58,790
-<font face="Times New Roman" size="34">Soundtracking
+<font face="Times New Roman" size="34">{\an1}Soundtracking
 <font size="40">Halee</font></font>
 
 20
@@ -105,7 +105,7 @@ Feeso</font></font>
 
 25
 00:01:16,420 --> 00:01:18,530
-<font face="Times New Roman" size="34">Video editing
+<font face="Times New Roman" size="34">{\an1}Video editing
 <font size="40">Sewil</font></font>
 
 26
@@ -178,12 +178,12 @@ Feeso</font></font>
 
 43
 00:02:30,040 --> 00:02:37,560
-<font face="impress bt" size="63" color="#fefefe"><b>Into the Depths!
+<font face="impress bt" size="63" color="#fefefe"><b>{\an5}Into the Depths!
 The Kraken and the Caribou Pirates</b></font>
 
 44
 00:02:39,620 --> 00:02:41,800
-<font face="Impress BT" size="55">Bro, it's difficult to dig here!</font>
+<font face="Impress BT" size="55">{\an8}Bro, it's difficult to dig here!</font>
 
 45
 00:02:39,720 --> 00:02:43,650
@@ -191,11 +191,11 @@ The Kraken and the Caribou Pirates</b></font>
 
 46
 00:02:41,800 --> 00:02:42,950
-<font face="Impress BT" size="55">Of course it is.</font>
+<font face="Impress BT" size="55">{\an8}Of course it is.</font>
 
 47
 00:02:42,950 --> 00:02:45,340
-<font face="Impress BT" size="55">These islands are mostly just tree roots.</font>
+<font face="Impress BT" size="55">{\an8}These islands are mostly just tree roots.</font>
 
 48
 00:02:45,340 --> 00:02:48,210
@@ -300,7 +300,7 @@ with my own eyes.</font>
 
 73
 00:04:09,900 --> 00:04:14,030
-<font face="Impress BT" size="55">As I said, there was nothing we could do.</font>
+<font face="Impress BT" size="55">{\an8}As I said, there was nothing we could do.</font>
 
 74
 00:04:14,640 --> 00:04:17,580
@@ -441,7 +441,7 @@ worthy to wear that hat.</font>
 
 107
 00:06:18,120 --> 00:06:20,600
-<font face="Impress BT" size="55">The surface is already so far away.</font>
+<font face="Impress BT" size="55">{\an8}The surface is already so far away.</font>
 
 108
 00:06:20,600 --> 00:06:26,210
@@ -904,12 +904,12 @@ scattered us 2 years ago, in fact.</font>
 
 217
 00:12:28,050 --> 00:12:30,800
-<font face="Impress BT" size="55"><i>I am an officer in the Revolutionary Army. </i></font>
+<font face="Impress BT" size="55"><i>I am an officer in the Revolutionary Army. {Copy-paste from 507}</i></font>
 
 218
 00:12:30,800 --> 00:12:34,340
 <font face="Impress BT" size="55"><i>Because of this,
-I wish to let this crew escape. </i></font>
+I wish to let this crew escape. {End copy-paste from 507}</i></font>
 
 219
 00:12:34,340 --> 00:12:38,060
@@ -925,7 +925,7 @@ I wish to let this crew escape. </i></font>
 
 222
 00:12:48,270 --> 00:12:52,590
-<font face="Impress BT" size="55"><i>The time I have left... is running out. </i></font>
+<font face="Impress BT" size="55"><i>The time I have left... is running out. {Copy-paste from 507.}</i></font>
 
 223
 00:12:52,590 --> 00:12:55,490
@@ -1270,7 +1270,7 @@ Don't mess this up, you guys!</font>
 
 305
 00:17:13,080 --> 00:17:14,720
-<font face="Impress BT" size="55">Hey, Mohmoo!  </font>
+<font face="Impress BT" size="55">Hey, Mohmoo! {Gil: Timing appeared one frame early. Hope I changed it correctly.} {Yup, it's good now -FAb}</font>
 
 306
 00:17:14,720 --> 00:17:16,920
@@ -1391,7 +1391,7 @@ Captain Caribou was left behind!</font>
 
 335
 00:18:54,030 --> 00:18:55,320
-<font face="Impress BT" size="55">God! </font>
+<font face="Impress BT" size="55">God! { def: i'm going with consistency here and sticking with "God" (unless we get a confirmed plural translation).  it works with his crusaderish insignia as well. }</font>
 
 336
 00:18:55,320 --> 00:18:57,130
@@ -1538,7 +1538,7 @@ since they don't have as much of an impact.</font>
 371
 00:20:42,060 --> 00:20:45,500
 <font face="Impress BT" size="55">Are we going in a different direction
-from the one the Log Pose is pointing in? </font>
+from the one the Log Pose is pointing in? {zzz}</font>
 
 372
 00:20:45,500 --> 00:20:46,900

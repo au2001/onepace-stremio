@@ -142,7 +142,7 @@ I can't guarantee this girl's safety!</font>
 
 36
 00:04:21,260 --> 00:04:26,900
-<font face="Agency FB" size="63" color="#fefefe"><b>Otohime, Fisher Tiger, and the Sun Pirates!
+<font face="Agency FB" size="63" color="#fefefe"><b>{\an5}Otohime, Fisher Tiger, and the Sun Pirates!
 The Fateful Encounter!</b></font>
 
 37
@@ -1959,6 +1959,6 @@ and Tiger is confronted by Strawberry.</font>
 
 469
 00:35:39,620 --> 00:35:46,800
-<font face="Agency FB" size="63" color="#fefefe"><b>The Shocking Truth of Tiger!
+<font face="Agency FB" size="63" color="#fefefe"><b>{\an5}The Shocking Truth of Tiger!
 The End of the Sun Pirates</b></font>
 

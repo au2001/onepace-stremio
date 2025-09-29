@@ -12,17 +12,17 @@
 
 4
 00:00:31,890 --> 00:00:37,270
-<font face="FOT-Greco Std B" size="34">Translation
+<font face="FOT-Greco Std B" size="34">{\an7}Translation
 Funimation</font>
 
 5
 00:00:31,890 --> 00:00:37,270
-<font face="FOT-Greco Std B" size="34">Soundtracking
+<font face="FOT-Greco Std B" size="34">{\an7}Soundtracking
 Halee</font>
 
 6
 00:00:31,890 --> 00:00:37,270
-<font face="FOT-Greco Std B" size="34">Quality-checking
+<font face="FOT-Greco Std B" size="34">{\an7}Quality-checking
 alasta</font>
 
 7
@@ -31,23 +31,23 @@ alasta</font>
 
 8
 00:00:37,380 --> 00:00:42,140
-<font face="FOT-Greco Std B" size="34">Editing
+<font face="FOT-Greco Std B" size="34">{\an7}Editing
 Sewil
 Feeso</font>
 
 9
 00:00:37,380 --> 00:00:42,140
-<font face="FOT-Greco Std B" size="34">Infoboxes
+<font face="FOT-Greco Std B" size="34">{\an7}Infoboxes
 BernieCrane</font>
 
 10
 00:00:37,380 --> 00:00:42,140
-<font face="FOT-Greco Std B" size="34">Formatting
+<font face="FOT-Greco Std B" size="34">{\an7}Formatting
 Sewil</font>
 
 11
 00:00:37,380 --> 00:00:42,140
-<font face="FOT-Greco Std B" size="34">Edit-checking
+<font face="FOT-Greco Std B" size="34">{\an7}Edit-checking
 Galaxy 9000</font>
 
 12
@@ -442,11 +442,11 @@ I gotta get back there!</font>
 
 104
 00:07:27,900 --> 00:07:29,360
-<font face="Impress BT" size="38"><i>"Stomach rumble"</i></font>
+<font face="Impress BT" size="38"><i>{\an8}"Stomach rumble"</i></font>
 
 105
 00:07:29,620 --> 00:07:31,030
-<font face="Impress BT" size="38"><i>"Stomach rumble"
+<font face="Impress BT" size="38"><i>{\an8}"Stomach rumble"
 "Stomach rumble"
 "Stomach rumble"</i></font>
 
@@ -843,7 +843,7 @@ on this girl that won't come off!</font>
 
 200
 00:12:50,570 --> 00:12:57,030
-<font face="Impress BT" size="38"><i>"Kuja"</i></font>
+<font face="Impress BT" size="38"><i>{\an8}"Kuja"</i></font>
 
 201
 00:12:52,990 --> 00:12:57,030
@@ -864,7 +864,7 @@ female warriors known as the Kuja.</font>
 
 205
 00:13:23,620 --> 00:13:28,730
-<font face="Impress BT" size="55">This is the all-female land of Amazon Lily.</font>
+<font face="Impress BT" size="55">{\an8}This is the all-female land of Amazon Lily.</font>
 
 206
 00:13:30,250 --> 00:13:34,890
@@ -878,7 +878,7 @@ they only give birth to girls.</font>
 
 208
 00:13:37,040 --> 00:13:40,180
-<font face="Impress BT" size="38"><i>"Kuja"</i></font>
+<font face="Impress BT" size="38"><i>{\an8}"Kuja"</i></font>
 
 209
 00:13:39,530 --> 00:13:44,450
@@ -949,7 +949,7 @@ for greedy foolish men at all.</font>
 
 224
 00:14:57,310 --> 00:15:02,850
-<font face="Impress BT" size="38"><i>"Fighting"</i></font>
+<font face="Impress BT" size="38"><i>{\an8}"Fighting"</i></font>
 
 225
 00:14:57,770 --> 00:15:02,850
@@ -982,7 +982,7 @@ women of this island are strong.</font>
 
 232
 00:15:29,810 --> 00:15:31,840
-<font face="Impress BT" size="38"><i>"Prison"</i></font>
+<font face="Impress BT" size="38"><i>{\an8}"Prison"</i></font>
 
 233
 00:15:32,320 --> 00:15:33,970

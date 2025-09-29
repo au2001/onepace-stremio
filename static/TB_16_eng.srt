@@ -20,7 +20,7 @@
 
 6
 00:00:23,450 --> 00:00:28,990
-<font face="Times New Roman" size="34">Translation & initial syncing
+<font face="Times New Roman" size="34">{\an1}Translation & initial syncing
 <font size="40">Vegapunk Fansubs</font></font>
 
 7
@@ -33,7 +33,7 @@
 
 9
 00:00:29,390 --> 00:00:34,510
-<font face="Times New Roman" size="34">Timing
+<font face="Times New Roman" size="34">{\an1}Timing
 <font size="40">Galaxy 9000
 
 </font>Time-checking
@@ -45,7 +45,7 @@
 
 11
 00:00:35,600 --> 00:00:40,740
-<font face="Times New Roman" size="34">Quality-checking
+<font face="Times New Roman" size="34">{\an1}Quality-checking
 <font size="40">Sewil
 Galaxy 9000
 Feeso</font></font>
@@ -56,12 +56,12 @@ Feeso</font></font>
 
 13
 00:00:40,940 --> 00:00:44,110
-<font face="Times New Roman" size="34">Video editing
+<font face="Times New Roman" size="34">{\an1}Video editing
 <font size="40">Sewil</font></font>
 
 14
 00:00:44,270 --> 00:00:47,480
-<font face="Times New Roman" size="34">Soundtracking
+<font face="Times New Roman" size="34">{\an1}Soundtracking
 <font size="40">Halee</font></font>
 
 15
@@ -74,7 +74,7 @@ Feeso</font></font>
 
 17
 00:00:53,010 --> 00:00:56,850
-<font face="Times New Roman" size="34">Raw provider
+<font face="Times New Roman" size="34">{\an1}Raw provider
 <font size="40">SOFCJ-Raws</font></font>
 
 18
@@ -159,7 +159,7 @@ Feeso</font></font>
 
 38
 00:02:29,900 --> 00:02:38,690
-<font face="impress bt" size="63" color="#fefefe"><b>The Mysterious Visitor!
+<font face="impress bt" size="63" color="#fefefe"><b>{\an5}The Mysterious Visitor!
 The Two Warlords Meet!</b></font>
 
 39
@@ -192,11 +192,11 @@ The Two Warlords Meet!</b></font>
 
 46
 00:02:53,000 --> 00:02:55,900
-<font face="Impress BT" size="55">Then again, we told her about the shortcut.</font>
+<font face="Impress BT" size="55">{\an8}Then again, we told her about the shortcut.</font>
 
 47
 00:02:55,900 --> 00:02:57,200
-<font face="Impress BT" size="55">She got us.</font>
+<font face="Impress BT" size="55">{\an8}She got us.</font>
 
 48
 00:02:59,340 --> 00:03:01,340
@@ -432,7 +432,7 @@ The Two Warlords Meet!</b></font>
 
 106
 00:06:09,370 --> 00:06:14,120
-<font face="Impress BT" size="38"><i>Shuusui: Clear Autumn Water</i></font>
+<font face="Impress BT" size="38"><i>{\an8}Shuusui: Clear Autumn Water</i></font>
 
 107
 00:06:15,210 --> 00:06:17,410
@@ -833,11 +833,11 @@ The Shadow Recovery Time Limit Approaches</font>
 
 206
 00:11:44,960 --> 00:11:47,600
-<font face="Impress BT" size="55">D-Damn it!</font>
+<font face="Impress BT" size="55">{\an8}D-Damn it!</font>
 
 207
 00:11:47,600 --> 00:11:50,490
-<font face="Impress BT" size="55">He tricked me!</font>
+<font face="Impress BT" size="55">{\an8}He tricked me!</font>
 
 208
 00:11:50,490 --> 00:11:51,500
@@ -913,7 +913,7 @@ The Shadow Recovery Time Limit Approaches</font>
 
 226
 00:12:56,300 --> 00:13:02,180
-<font face="Impress BT" size="38"><i>Yubashiri: Snow Run</i></font>
+<font face="Impress BT" size="38"><i>{\an8}Yubashiri: Snow Run</i></font>
 
 227
 00:13:02,180 --> 00:13:03,630

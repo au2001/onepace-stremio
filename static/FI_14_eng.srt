@@ -62,7 +62,7 @@ for my precious snack time?!</font>
 
 16
 00:03:12,030 --> 00:03:13,940
-<font face="Impress BT" size="55">You think I'm some sort of office lady?! </font>
+<font face="Impress BT" size="55">You think I'm some sort of office lady?!{It's hard to explain the stereotypes of an OL, but imagine a Japanese woman who enjoys foreign cakes and coffee.  Of course, the stereotype goes *far* beyond that, but that's as far as it's relevant to this line.} {Gil : Look, he says Office Lady in English. It makes as much sense as "20-something female" to an English speaking viewer and still gets the idea that it's some stereotype across. I don't see why we should translate English to English.}</font>
 
 17
 00:03:13,940 --> 00:03:16,100
@@ -118,7 +118,7 @@ for my precious snack time?!</font>
 
 30
 00:04:01,380 --> 00:04:06,860
-<font face="Agency FB" size="63" color="#fefefe"><b>Gyoncorde Plaza Gathering!
+<font face="Agency FB" size="63" color="#fefefe"><b>{\an5}Gyoncorde Plaza Gathering!
 The Evil Drug's True Power</b></font>
 
 31
@@ -131,7 +131,7 @@ The Evil Drug's True Power</b></font>
 
 33
 00:04:16,540 --> 00:04:19,020
-<font face="Impress BT" size="55">On top of that, one is a giant squid.</font>
+<font face="Impress BT" size="55">On top of that, one is a giant squid.{That is, he is a "giant squid"-type, not a giant "squid-type".}</font>
 
 34
 00:04:19,020 --> 00:04:25,580
@@ -143,7 +143,7 @@ The Evil Drug's True Power</b></font>
 
 36
 00:04:28,180 --> 00:04:30,500
-<font face="Impress BT" size="55">the three Neptune brothers. </font>
+<font face="Impress BT" size="55">the three Neptune brothers. {Gil : Fade out on this line?}</font>
 
 37
 00:04:30,860 --> 00:04:34,020
@@ -187,12 +187,12 @@ The Evil Drug's True Power</b></font>
 
 47
 00:05:01,310 --> 00:05:04,760
-<font face="Impress BT" size="55">Boss Hody is a callous man -kotsun.</font>
+<font face="Impress BT" size="55">Boss Hody is a callous man -kotsun.{He changed from -dosun to -kotsun}</font>
 
 48
 00:05:04,760 --> 00:05:10,490
 <font face="Impress BT" size="55">If we're hostages,
-then he'll just throw our lives away -kotsun.</font>
+then he'll just throw our lives away -kotsun.{He refers to *kirisute*, literally, "cutting and throwing away", or slightly more liberally, "cutting and walking away", the ancient Japanese right of samurai to kill lesser samurai and peasants.}{ def: sacrafice our lives }</font>
 
 49
 00:05:11,520 --> 00:05:13,360
@@ -204,7 +204,7 @@ then he'll just throw our lives away -kotsun.</font>
 
 51
 00:05:15,790 --> 00:05:19,320
-<font face="Impress BT" size="55">Dosun-san's power gauge has fallen all the way down to "kotsun".</font>
+<font face="Impress BT" size="55">Dosun-san's power gauge has fallen all the way down to "kotsun".{What does the scouter say about his power level, Vegeta?!}</font>
 
 52
 00:05:19,320 --> 00:05:21,310
@@ -265,7 +265,7 @@ who've done business with human pirates -posun.</font>
 
 66
 00:06:08,120 --> 00:06:12,640
-<font face="Impress BT" size="55"><i>are interfering with our ambitions!</i></font>
+<font face="Impress BT" size="55"><i>are interfering with our ambitions!{Something a bit more emphatic than "noble cause" would be better, but I couldn't think of anything.}</i></font>
 
 67
 00:06:12,640 --> 00:06:13,980
@@ -317,7 +317,7 @@ who've done business with human pirates -posun.</font>
 
 79
 00:07:09,380 --> 00:07:12,780
-<font face="Impress BT" size="55">Eh?  Who's drunk?</font>
+<font face="Impress BT" size="55">{Drunkenly}Eh?  Who's drunk?</font>
 
 80
 00:07:12,780 --> 00:07:14,940
@@ -378,11 +378,11 @@ the Neptune Army, led by Fukaboshi.</font>
 
 94
 00:07:57,040 --> 00:08:01,540
-<font face="Impress BT" size="55">When Hyouzou's this wasted, he starts cutting things down indiscriminately!</font>
+<font face="Impress BT" size="55">When Hyouzou's this wasted, he starts cutting things down indiscriminately!{Lit. the drunker he gets, the more he cuts people indiscriminately with reckless abandon.  Also, I think this is a direct reference to the Kurosawa film, "Seven samurai" (七人の侍).}</font>
 
 95
 00:08:01,540 --> 00:08:03,300
-<font face="Impress BT" size="55">He's a <i>murderous</i> drunk!</font>
+<font face="Impress BT" size="55">He's a <i>murderous</i> drunk!{as opposed to a violent drunk}</font>
 
 96
 00:08:03,300 --> 00:08:05,390
@@ -398,7 +398,7 @@ the Neptune Army, led by Fukaboshi.</font>
 
 99
 00:08:43,630 --> 00:08:45,950
-<font face="Impress BT" size="55">I still wanna kill more people!</font>
+<font face="Impress BT" size="55">I still wanna kill more people!{I still want to cut more people!}</font>
 
 100
 00:08:50,890 --> 00:08:53,670
@@ -427,7 +427,7 @@ Just what do you think you can do?</font>
 
 106
 00:09:14,870 --> 00:09:20,480
-<font face="Impress BT" size="55">Zeo-san can change his color to mimic his environment, like a chameleon.</font>
+<font face="Impress BT" size="55">Zeo-san can change his color to mimic his environment, like a chameleon.{that's not what chameleons can do! >:O}</font>
 
 107
 00:09:20,480 --> 00:09:24,920
@@ -447,7 +447,7 @@ Just what do you think you can do?</font>
 
 111
 00:09:37,720 --> 00:09:40,660
-<font face="Impress BT" size="55">But even they are going to die.</font>
+<font face="Impress BT" size="55">But even they are going to die.{Particularly closely TLC these lines.}</font>
 
 112
 00:09:41,440 --> 00:09:44,810
@@ -558,7 +558,7 @@ and with it, the birth of a new king.</font>
 138
 00:11:20,500 --> 00:11:24,980
 <font face="Impress BT" size="55">I'm worried that we haven't received
-any information on her -fa-so-la-ti-do!</font>
+any information on her -fa-so-la-ti-do!{TLC check this. あいつ is not the normal word for his sister.}</font>
 
 139
 00:11:25,410 --> 00:11:29,190
@@ -637,7 +637,7 @@ to read personalities is quite sharp.</font>
 
 157
 00:12:28,530 --> 00:12:30,580
-<font face="Impress BT" size="55">Get fire!  Sea beasts are weak against fire!</font>
+<font face="Impress BT" size="55">Get fire!  Sea beasts are weak against fire!{It's super effective!}</font>
 
 158
 00:12:31,050 --> 00:12:31,710
@@ -665,7 +665,7 @@ to read personalities is quite sharp.</font>
 
 164
 00:13:03,870 --> 00:13:06,570
-<font face="Impress BT" size="55">I'm going to become grilled squid -hi!</font>
+<font face="Impress BT" size="55">I'm going to become grilled squid -hi!{Uh, how familiar are Western audiences with grilled squid?  Japanese eat it all the time, but I think this gag might not go over so well with Western audiences...}{Gil: Well, it's not like "western audiences" are all retards who can't work out such a simple gag.}</font>
 
 165
 00:13:06,570 --> 00:13:08,750
@@ -702,7 +702,7 @@ Oh, excuse me.</font>
 
 173
 00:13:32,480 --> 00:13:36,270
-<font face="Impress BT" size="55">Daidaros!</font>
+<font face="Impress BT" size="55">Daidaros!{the name of his squid friend}</font>
 
 174
 00:13:36,270 --> 00:13:39,530
@@ -742,7 +742,7 @@ Oh, excuse me.</font>
 
 183
 00:14:19,620 --> 00:14:21,820
-<font face="Impress BT" size="55">Indeed!</font>
+<font face="Impress BT" size="55">Indeed!{Note, this is a Japanese play on words, since it could also mean, "All the way to a squid!"}{Gil : Muhi- Indeed.}</font>
 
 184
 00:14:21,820 --> 00:14:24,740
@@ -891,7 +891,7 @@ but they are from the Fishman District!</font>
 
 220
 00:16:35,160 --> 00:16:41,400
-<font face="Impress BT" size="55">Hody's control, but I've never seen such fear in their eyes.</font>
+<font face="Impress BT" size="55">Hody's control, but I've never seen such fear in their eyes.{lit. body posture}</font>
 
 221
 00:17:01,860 --> 00:17:04,700
@@ -925,7 +925,7 @@ I could fulfill my ancestors' dreams.</font>
 
 228
 00:17:41,170 --> 00:17:42,770
-<font face="Impress BT" size="55"><i>You're just not my type. </i></font>
+<font face="Impress BT" size="55"><i>You're just not my type. {Copy-paste from 537.}</i></font>
 
 229
 00:17:46,910 --> 00:17:48,860
@@ -1027,11 +1027,11 @@ the items I throw still fly at her!</font>
 
 253
 00:19:19,240 --> 00:19:21,500
-<font face="Impress BT" size="55">Neptune-sama... </font>
+<font face="Impress BT" size="55">Neptune-sama... {Swashbuckla: Seems like this sub appears too early imo}</font>
 
 254
 00:19:27,510 --> 00:19:29,160
-<font face="Impress BT" size="55">Almost... </font>
+<font face="Impress BT" size="55">Almost... {Swashbuckla: This sub appears a little early too.}</font>
 
 255
 00:19:30,940 --> 00:19:33,110
@@ -1124,7 +1124,7 @@ even one of Hody's men before the Princes get here!</font>
 
 276
 00:22:21,220 --> 00:22:22,820
-<font face="Impress BT" size="38"><i>Shooting water</i></font>
+<font face="Impress BT" size="38"><i>{\an8}Shooting water</i></font>
 
 277
 00:22:39,720 --> 00:22:41,140
@@ -1241,19 +1241,19 @@ and committed themselves to change the future...</font>
 
 304
 00:25:55,500 --> 00:25:57,140
-<font face="Impress BT" size="38"><i>Merman Combat</i></font>
+<font face="Impress BT" size="38"><i>{\an8}Merman Combat</i></font>
 
 305
 00:25:57,580 --> 00:25:59,780
-<font face="Impress BT" size="38"><i>Flying Time Spear</i></font>
+<font face="Impress BT" size="38"><i>{\an8}Flying Time Spear</i></font>
 
 306
 00:26:00,100 --> 00:26:02,420
-<font face="Impress BT" size="38"><i>Seven Great Treasures</i></font>
+<font face="Impress BT" size="38"><i>{\an8}Seven Great Treasures</i></font>
 
 307
 00:26:02,820 --> 00:26:04,820
-<font face="Impress BT" size="38"><i>Dragon Palace Gate</i></font>
+<font face="Impress BT" size="38"><i>{\an8}Dragon Palace Gate</i></font>
 
 308
 00:26:09,610 --> 00:26:15,290

@@ -4,7 +4,7 @@
 
 2
 00:00:23,950 --> 00:00:29,250
-<font face="Times New Roman" size="34">Translation
+<font face="Times New Roman" size="34">{\an1}Translation
 <font size="40">skywalker6705 @ Vegapunk Fansubs</font></font>
 
 3
@@ -17,12 +17,12 @@
 
 5
 00:00:34,130 --> 00:00:37,720
-<font face="Times New Roman" size="34">Initial timing
+<font face="Times New Roman" size="34">{\an1}Initial timing
 <font size="40">Kuzan @ Vegapunk Fansubs</font></font>
 
 6
 00:00:37,930 --> 00:00:41,430
-<font face="Times New Roman" size="34">Timing
+<font face="Times New Roman" size="34">{\an1}Timing
 <font size="40">Galaxy 9000</font></font>
 
 7
@@ -31,7 +31,7 @@
 
 8
 00:00:41,640 --> 00:00:45,020
-<font face="Times New Roman" size="34">Quality checking
+<font face="Times New Roman" size="34">{\an1}Quality checking
 <font size="40">Sewil</font></font>
 
 9
@@ -40,7 +40,7 @@
 
 10
 00:00:45,270 --> 00:00:48,860
-<font face="Times New Roman" size="34">Editing
+<font face="Times New Roman" size="34">{\an1}Editing
 <font size="40">Sewil</font></font>
 
 11
@@ -53,7 +53,7 @@
 
 13
 00:00:54,790 --> 00:00:58,750
-<font face="Times New Roman" size="34">Soundtracking
+<font face="Times New Roman" size="34">{\an1}Soundtracking
 <font size="40">MaideV and Halee</font></font>
 
 14
@@ -62,7 +62,7 @@
 
 15
 00:01:00,170 --> 00:01:03,970
-<font face="Times New Roman" size="34">Raw providing
+<font face="Times New Roman" size="34">{\an1}Raw providing
 <font size="40">SOFCJ-Raws</font></font>
 
 16
@@ -107,7 +107,7 @@
 
 26
 00:02:41,570 --> 00:02:50,270
-<font face="impress bt" size="63" color="#fefefe"><b>The Strongest Family Lineage?!
+<font face="impress bt" size="63" color="#fefefe"><b>{\an5}The Strongest Family Lineage?!
 The Vice-Admiral and The Revolutionary!</b></font>
 
 27
@@ -236,11 +236,11 @@ The Vice-Admiral and The Revolutionary!</b></font>
 
 58
 00:04:39,930 --> 00:04:41,870
-<font face="Impress BT" size="55">Let us meet the Pirates!</font>
+<font face="Impress BT" size="55">{\an8}Let us meet the Pirates!</font>
 
 59
 00:04:41,870 --> 00:04:44,480
-<font face="Impress BT" size="55">We want to apologize for accusing them of the assassination!</font>
+<font face="Impress BT" size="55">{\an8}We want to apologize for accusing them of the assassination!</font>
 
 60
 00:04:44,820 --> 00:04:47,160
@@ -329,7 +329,7 @@ The Remains of Iceberg's House.</font>
 
 81
 00:05:51,560 --> 00:05:55,210
-<font face="Impress BT" size="55">I see, so you burned the blueprints...</font>
+<font face="Impress BT" size="55">{\an8}I see, so you burned the blueprints...</font>
 
 82
 00:05:56,470 --> 00:05:57,730
@@ -1338,7 +1338,7 @@ Monkey D. Garp
 
 332
 00:22:14,070 --> 00:22:17,470
-<font face="Impress BT" size="55">It's because of you two that we've become who we are!</font>
+<font face="Impress BT" size="55">{\an8}It's because of you two that we've become who we are!</font>
 
 333
 00:22:14,470 --> 00:22:17,470

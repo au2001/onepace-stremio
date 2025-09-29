@@ -48,7 +48,7 @@
 
 13
 00:00:39,810 --> 00:00:43,070
-<font face="Times New Roman" size="34">Translation & initial timing
+<font face="Times New Roman" size="34">{\an1}Translation & initial timing
 <font size="40">Yibis Fansubs</font></font>
 
 14
@@ -57,7 +57,7 @@
 
 15
 00:00:45,240 --> 00:00:48,840
-<font face="Times New Roman" size="34">Timing
+<font face="Times New Roman" size="34">{\an1}Timing
 <font size="40">Galaxy 9000
 
 </font>Time-checking
@@ -69,7 +69,7 @@
 
 17
 00:00:50,200 --> 00:00:54,260
-<font face="Times New Roman" size="34">Quality-checking
+<font face="Times New Roman" size="34">{\an1}Quality-checking
 <font size="40">Sewil
 Galaxy 9000
 Feeso</font></font>
@@ -80,7 +80,7 @@ Feeso</font></font>
 
 19
 00:00:54,590 --> 00:00:58,790
-<font face="Times New Roman" size="34">Soundtracking
+<font face="Times New Roman" size="34">{\an1}Soundtracking
 <font size="40">Halee</font></font>
 
 20
@@ -105,7 +105,7 @@ Feeso</font></font>
 
 25
 00:01:16,420 --> 00:01:18,520
-<font face="Times New Roman" size="34">Video editing
+<font face="Times New Roman" size="34">{\an1}Video editing
 <font size="40">Sewil</font></font>
 
 26
@@ -178,7 +178,7 @@ Feeso</font></font>
 
 43
 00:02:30,030 --> 00:02:39,040
-<font face="impress bt" size="63" color="#fefefe"><b>The King of Fishman Island
+<font face="impress bt" size="63" color="#fefefe"><b>{\an5}The King of Fishman Island
 Invited to Ryuuguu Palace!</b></font>
 
 44
@@ -284,7 +284,7 @@ from the Mermaid Café.</font>
 
 68
 00:03:51,240 --> 00:03:55,580
-<font face="Impress BT" size="55">So they ran away again -dosun?
+<font face="Impress BT" size="55">{\an8}So they ran away again -dosun?
 They never learn, do they -dosun?</font>
 
 69
@@ -299,11 +299,11 @@ They never learn, do they -dosun?</font>
 
 71
 00:03:57,290 --> 00:03:59,450
-<font face="Impress BT" size="55">Humans run away all the time.</font>
+<font face="Impress BT" size="55">{\an8}Humans run away all the time.</font>
 
 72
 00:03:59,500 --> 00:04:03,420
-<font face="Impress BT" size="55">Maybe I should just tear them apart?</font>
+<font face="Impress BT" size="55">{\an8}Maybe I should just tear them apart?</font>
 
 73
 00:03:59,720 --> 00:04:03,420
@@ -334,11 +334,11 @@ They never learn, do they -dosun?</font>
 
 79
 00:04:14,930 --> 00:04:17,850
-<font face="Impress BT" size="55">In that case, should I take a shot at them -hi?</font>
+<font face="Impress BT" size="55">{\an8}In that case, should I take a shot at them -hi?</font>
 
 80
 00:04:17,850 --> 00:04:20,230
-<font face="Impress BT" size="55">Not necessary, Ikaros.</font>
+<font face="Impress BT" size="55">{\an8}Not necessary, Ikaros.</font>
 
 81
 00:04:20,230 --> 00:04:22,270
@@ -407,7 +407,7 @@ I am the president of the Criminal clothing brand.</font>
 
 97
 00:05:36,830 --> 00:05:39,950
-<font face="Impress BT" size="55">and it's sold in stores in every country! </font>
+<font face="Impress BT" size="55">and it's sold in stores in every country! {Gil: Maybe "worldwide" or something?}{ def: we had "all over the world" last line.  maybe reverse: "My brand is known in every counrty, and it's sold in stores worldwide!" }</font>
 
 98
 00:05:39,960 --> 00:05:41,420
@@ -443,11 +443,11 @@ I am the president of the Criminal clothing brand.</font>
 
 106
 00:05:57,330 --> 00:06:00,420
-<font face="Impress BT" size="55" color="#d6d6d6">Wait, dear customer, you're being unreasonable!</font>
+<font face="Impress BT" size="55" color="#d6d6d6">{\an8}Wait, dear customer, you're being unreasonable!</font>
 
 107
 00:06:00,420 --> 00:06:03,660
-<font face="Impress BT" size="55" color="#d6d6d6">This is a very high-class brand we're selling here.</font>
+<font face="Impress BT" size="55" color="#d6d6d6">{\an8}This is a very high-class brand we're selling here.</font>
 
 108
 00:06:00,800 --> 00:06:01,760
@@ -675,7 +675,7 @@ I'm a popular designer, after all...</font>
 
 163
 00:08:25,080 --> 00:08:27,250
-<font face="Impress BT" size="55">Does he have business with those humans? </font>
+<font face="Impress BT" size="55">Does he have business with those humans? {Gil: Those humans?}</font>
 
 164
 00:08:27,250 --> 00:08:32,160
@@ -720,11 +720,11 @@ The depths</font>
 
 174
 00:09:01,350 --> 00:09:03,020
-<font face="Impress BT" size="55">Hurry! Row Faster!</font>
+<font face="Impress BT" size="55">{\an8}Hurry! Row Faster!</font>
 
 175
 00:09:03,020 --> 00:09:04,720
-<font face="Impress BT" size="55">Or else they'll spot us!</font>
+<font face="Impress BT" size="55">{\an8}Or else they'll spot us!</font>
 
 176
 00:09:04,720 --> 00:09:08,090
@@ -761,7 +761,7 @@ had a paddle installed on the ship!</font>
 
 184
 00:09:33,270 --> 00:09:36,580
-<font face="Impress BT" size="55">What's that?  He's wearing handcuffs! </font>
+<font face="Impress BT" size="55">What's that?  He's wearing handcuffs! { def: shackles? }</font>
 
 185
 00:09:40,730 --> 00:09:41,480
@@ -913,7 +913,7 @@ Fishman Island's dark history of oppression!</font>
 
 221
 00:12:39,390 --> 00:12:42,870
-<font face="Impress BT" size="55"><i>Ryuuguu Kingdom, the Mermaids' Cove. </i></font>
+<font face="Impress BT" size="55"><i>Ryuuguu Kingdom, the Mermaids' Cove. {Yeah, the caption and narration say the exact same thing. Pretty unnecessary, huh?}</i></font>
 
 222
 00:12:42,870 --> 00:12:45,940
@@ -930,7 +930,7 @@ Fishman Island's dark history of oppression!</font>
 225
 00:12:52,560 --> 00:12:55,890
 <font face="Impress BT" size="55">Since it's just a barrel,
-maybe it's filled with some high-class liquor? </font>
+maybe it's filled with some high-class liquor? { def: tlced from manga }</font>
 
 226
 00:12:57,480 --> 00:12:59,880
@@ -979,7 +979,7 @@ maybe it's filled with some high-class liquor? </font>
 237
 00:13:52,540 --> 00:13:54,650
 <font face="Impress BT" size="55">It's a swamp!
-How'd it get in this rocky area?! </font>
+How'd it get in this rocky area?! {Gil: Only just on the screen long enough for me to read. A good way of shortening the line isn't coming to mind right now...}</font>
 
 238
 00:13:54,870 --> 00:13:58,390
@@ -1069,7 +1069,7 @@ A swamp-man, who ate the Swamp Fruit!</font>
 
 259
 00:15:25,450 --> 00:15:27,570
-<font face="Impress BT" size="55">The Straw Hat Pirates? </font>
+<font face="Impress BT" size="55">{\an8}The Straw Hat Pirates? {Gil: Originally "The crew of the pirate Straw Hat?" but that sounds way awkward to me.}</font>
 
 260
 00:15:27,570 --> 00:15:31,530
@@ -1134,7 +1134,7 @@ the only ones who were there at the time...</font>
 
 275
 00:16:19,880 --> 00:16:20,960
-<font face="Impress BT" size="55">Prince Fukaboshi. </font>
+<font face="Impress BT" size="55">Prince Fukaboshi. { def: i never get used to people just randomly saying someone's name }</font>
 
 276
 00:16:21,050 --> 00:16:24,860
@@ -1189,7 +1189,7 @@ is going to destroy Fishman Island?</font>
 
 288
 00:17:15,030 --> 00:17:16,570
-<font face="Impress BT" size="55">They're gone...</font>
+<font face="Impress BT" size="55">{\an8}They're gone...</font>
 
 289
 00:17:16,570 --> 00:17:19,500
@@ -1238,7 +1238,7 @@ and she cares a lot about him -jamon.</font>
 
 300
 00:18:01,190 --> 00:18:03,700
-<font face="Impress BT" size="55">So he'd been attacked by the Kraken...</font>
+<font face="Impress BT" size="55">{\an8}So he'd been attacked by the Kraken...</font>
 
 301
 00:18:02,430 --> 00:18:06,660
@@ -1246,7 +1246,7 @@ and she cares a lot about him -jamon.</font>
 
 302
 00:18:03,700 --> 00:18:07,710
-<font face="Impress BT" size="55">That was really dangerous,
+<font face="Impress BT" size="55">{\an8}That was really dangerous,
 and I'm thankful that you saved him -jamon.</font>
 
 303
@@ -1324,7 +1324,7 @@ What a selfish man.</font>
 
 320
 00:19:14,630 --> 00:19:15,700
-<font face="Impress BT" size="55">Zori!  </font>
+<font face="Impress BT" size="55">Zori! {Let's make that his offical name! -FAb} {Gil: Better than "Zolo"}</font>
 
 321
 00:19:15,900 --> 00:19:17,270
@@ -1390,7 +1390,7 @@ and you could say we haven't...</font>
 
 336
 00:20:10,600 --> 00:20:13,280
-<font face="Impress BT" size="55">By the way, old man.  </font>
+<font face="Impress BT" size="55">By the way, old man. {Kijou: the word Nami uses for Neptune is, rather than 'old man', endearing. It's what you'd use for your grandad or someone similar to that position. It's a very friendly (but very casual) term. So 'gramps' or something similar would probably suit better, since at least to me 'old man' sounds a bit rude.} { def: gramps works for me, so long as this isn't the same word that Luffy uses when we say "old man" }</font>
 
 337
 00:20:14,090 --> 00:20:17,060
@@ -1438,7 +1438,7 @@ that reach ten thousand meters below the sea?</font>
 
 347
 00:21:00,140 --> 00:21:04,980
-<font face="Impress BT" size="55">but it is a mysterious tree that receives light at the surface and emits it from its roots -jamon. </font>
+<font face="Impress BT" size="55">but it is a mysterious tree that receives light at the surface and emits it from its roots -jamon. {Oh look, Neptune has taken a page out of the Monkey D. Luffy-book of explaining supernatural phenomena.}</font>
 
 348
 00:21:04,980 --> 00:21:10,380
@@ -1495,7 +1495,7 @@ Yarukiman Mangroves on Sabaody?</font>
 
 361
 00:21:44,050 --> 00:21:48,150
-<font face="Impress BT" size="55">Neptune! </font>
+<font face="Impress BT" size="55">Neptune! {Gil: Yes, we know your name . Can you please shut the hell up now?}</font>
 
 362
 00:21:48,860 --> 00:21:51,080
@@ -1622,7 +1622,7 @@ watch over the princess to keep her calm!</font>
 
 392
 00:23:50,070 --> 00:23:56,660
-<font face="Impress BT" size="55"><i>you just disappeared without a trace!  Can't you see that you made everyone worry, Your Majesty?!  </i></font>
+<font face="Impress BT" size="55"><i>you just disappeared without a trace!  Can't you see that you made everyone worry, Your Majesty?! {Gil: Split after "trace!"?} { def: drop "from the palace".  small sacrafice }</i></font>
 
 393
 00:23:56,660 --> 00:23:57,880
@@ -1638,7 +1638,7 @@ watch over the princess to keep her calm!</font>
 
 396
 00:24:04,060 --> 00:24:07,440
-<font face="Impress BT" size="55">I sincerely apologize for bringing this up when you've just brought guests here...</font>
+<font face="Impress BT" size="55">{\an8}I sincerely apologize for bringing this up when you've just brought guests here...</font>
 
 397
 00:24:07,200 --> 00:24:12,210
@@ -1647,11 +1647,11 @@ watch over the princess to keep her calm!</font>
 
 398
 00:24:07,440 --> 00:24:11,760
-<font face="Impress BT" size="55">but we have important business to discuss.</font>
+<font face="Impress BT" size="55">{\an8}but we have important business to discuss.</font>
 
 399
 00:24:11,760 --> 00:24:14,970
-<font face="Impress BT" size="55">Yes, Prince Fukaboshi...</font>
+<font face="Impress BT" size="55">{\an8}Yes, Prince Fukaboshi...</font>
 
 400
 00:24:13,230 --> 00:24:18,020
@@ -1660,11 +1660,11 @@ watch over the princess to keep her calm!</font>
 
 401
 00:24:14,970 --> 00:24:16,890
-<font face="Impress BT" size="55">contacted us just a moment ago.</font>
+<font face="Impress BT" size="55">{\an8}contacted us just a moment ago.</font>
 
 402
 00:24:16,890 --> 00:24:18,700
-<font face="Impress BT" size="55">What are we to do?</font>
+<font face="Impress BT" size="55">{\an8}What are we to do?</font>
 
 403
 00:24:19,480 --> 00:24:22,040
@@ -1778,7 +1778,7 @@ So this isn't where the feast is being held?</font>
 
 430
 00:26:22,860 --> 00:26:28,140
-<font face="Impress BT" size="55">Who might you be?!</font>
+<font face="Impress BT" size="55">{\an8}Who might you be?!</font>
 
 431
 00:26:26,080 --> 00:26:30,750

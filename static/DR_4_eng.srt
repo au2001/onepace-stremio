@@ -28,7 +28,7 @@
 
 8
 00:00:23,750 --> 00:00:28,070
-<font face="Times New Roman" size="34">Translation & initial timing
+<font face="Times New Roman" size="34">{\an1}Translation & initial timing
 <font size="40">Tsuki
 Yibis (Opening)</font></font>
 
@@ -38,7 +38,7 @@ Yibis (Opening)</font></font>
 
 10
 00:00:28,150 --> 00:00:32,160
-<font face="Times New Roman" size="34">Timing
+<font face="Times New Roman" size="34">{\an1}Timing
 <font size="40">Galaxy 9000
 
 </font>Time-checking
@@ -50,14 +50,14 @@ Yibis (Opening)</font></font>
 
 12
 00:00:34,660 --> 00:00:37,600
-<font face="Times New Roman" size="34">Quality-checking
+<font face="Times New Roman" size="34">{\an1}Quality-checking
 <font size="40">Sewil
 Galaxy 9000
 Halee</font></font>
 
 13
 00:00:39,030 --> 00:00:42,630
-<font face="Times New Roman" size="34">Soundtracking
+<font face="Times New Roman" size="34">{\an1}Soundtracking
 <font size="40">Halee</font></font>
 
 14
@@ -70,7 +70,7 @@ Halee</font></font>
 
 16
 00:00:45,500 --> 00:00:48,170
-<font face="Times New Roman" size="34">Video editing
+<font face="Times New Roman" size="34">{\an1}Video editing
 <font size="40">Sewil</font></font>
 
 17
@@ -87,7 +87,7 @@ Halee</font></font>
 
 20
 00:01:00,420 --> 00:01:04,520
-<font face="Times New Roman" size="34">Raw provider
+<font face="Times New Roman" size="34">{\an1}Raw provider
 <font size="40">Crunchyroll</font></font>
 
 21
@@ -180,7 +180,7 @@ Halee</font></font>
 
 43
 00:02:30,040 --> 00:02:38,620
-<font face="impress bt" size="63" color="#fefefe"><b>Bellamy's Changed Motivations and B Block's Start!</b></font>
+<font face="impress bt" size="63" color="#fefefe"><b>{\an5}Bellamy's Changed Motivations and B Block's Start!</b></font>
 
 44
 00:02:39,740 --> 00:02:43,340
@@ -208,7 +208,7 @@ Halee</font></font>
 
 50
 00:03:07,120 --> 00:03:12,800
-<font face="Impress BT" size="55">He ranked No. 1 in the "most annoying pirate who should just go away"-poll!</font>
+<font face="Impress BT" size="55">{\an8}He ranked No. 1 in the "most annoying pirate who should just go away"-poll!</font>
 
 51
 00:03:07,940 --> 00:03:13,610
@@ -218,7 +218,7 @@ Bounty: 150,000,000 Belly</font>
 
 52
 00:03:12,800 --> 00:03:13,610
-<font face="Impress BT" size="55">The pirate...</font>
+<font face="Impress BT" size="55">{\an8}The pirate...</font>
 
 53
 00:03:14,940 --> 00:03:19,000
@@ -334,11 +334,11 @@ Bounty: 150,000,000 Belly</font>
 
 81
 00:05:15,800 --> 00:05:17,530
-<font face="Impress BT" size="55">The medical room is that way!</font>
+<font face="Impress BT" size="55">{\an8}The medical room is that way!</font>
 
 82
 00:05:17,530 --> 00:05:20,200
-<font face="Impress BT" size="55">We don't have enough stretchers.
+<font face="Impress BT" size="55">{\an8}We don't have enough stretchers.
 Walk by yourself if you can!</font>
 
 83
@@ -537,7 +537,7 @@ Bellamy the Hyena
 
 131
 00:08:17,080 --> 00:08:18,510
-<font face="Impress BT" size="55">Fighting King
+<font face="Impress BT" size="55">{\an3}Fighting King
 Elizabello II</font>
 
 132
@@ -647,7 +647,7 @@ Jeet</font>
 
 156
 00:10:13,940 --> 00:10:20,040
-<font face="Impress BT" size="55">He blew a hole in an enemy country's fort with a single blow, shaking the earth!</font>
+<font face="Impress BT" size="55">{\an8}He blew a hole in an enemy country's fort with a single blow, shaking the earth!</font>
 
 157
 00:10:13,980 --> 00:10:20,950
@@ -1015,7 +1015,7 @@ Ricky</font>
 
 246
 00:16:23,480 --> 00:16:25,630
-<font face="Impress BT" size="55">He's fooling around again.</font>
+<font face="Impress BT" size="55">{\an8}He's fooling around again.</font>
 
 247
 00:16:25,630 --> 00:16:30,430

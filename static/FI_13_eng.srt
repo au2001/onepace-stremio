@@ -33,7 +33,7 @@ the legendary Pirate King Gold Roger.</i></font>
 
 9
 00:02:29,810 --> 00:02:38,410
-<font face="Agency FB" size="63" color="#fefefe"><b>Shaking of the Kingdom!
+<font face="Agency FB" size="63" color="#fefefe"><b>{\an5}Shaking of the Kingdom!
 Luffy vs. Jinbe!</b></font>
 
 10
@@ -162,24 +162,24 @@ it's clear that he meant no harm.</font>
 
 39
 00:04:48,530 --> 00:04:51,750
-<font face="Impress BT" size="55"><i>So, whoever the culprit is... </i></font>
+<font face="Impress BT" size="55"><i>So, whoever the culprit is... {Copy-paste from 546}</i></font>
 
 40
 00:04:52,620 --> 00:04:56,110
-<font face="Impress BT" size="55"><i>please don't be angry for me. </i></font>
+<font face="Impress BT" size="55"><i>please don't be angry for me. {End copy-paste from 546}</i></font>
 
 41
 00:04:58,000 --> 00:05:01,050
-<font face="Impress BT" size="55"><i>Don't tell the people on our island anything! </i></font>
+<font face="Impress BT" size="55"><i>Don't tell the people on our island anything! {Copy-paste from 543}</i></font>
 
 42
 00:05:01,050 --> 00:05:05,650
 <font face="Impress BT" size="55"><i>Not about the tragedy that befell us,
-nor about our anger toward the humans. </i></font>
+nor about our anger toward the humans. {End copy-paste from 543}</i></font>
 
 43
 00:05:07,020 --> 00:05:09,650
-<font face="Impress BT" size="55"><i>Don't let it get to you, Jinbe. </i></font>
+<font face="Impress BT" size="55"><i>Don't let it get to you, Jinbe. {Copy-paste from 544}</i></font>
 
 44
 00:05:09,650 --> 00:05:13,450
@@ -189,7 +189,7 @@ You're like brothers.</i></font>
 45
 00:05:13,450 --> 00:05:17,490
 <font face="Impress BT" size="55"><i>No matter what happens,
-you wouldn't be able to kill him.</i></font>
+you wouldn't be able to kill him.{End copy-paste from 544}</i></font>
 
 46
 00:05:24,800 --> 00:05:28,240
@@ -1377,11 +1377,11 @@ there's no other way to do this.</font>
 
 331
 00:25:17,340 --> 00:25:18,920
-<font face="Impress BT" size="38"><i>Fishman Karate</i></font>
+<font face="Impress BT" size="38"><i>{\an8}Fishman Karate</i></font>
 
 332
 00:25:18,920 --> 00:25:21,390
-<font face="Impress BT" size="38"><i>Shark Tile True Fist</i></font>
+<font face="Impress BT" size="38"><i>{\an8}Shark Tile True Fist</i></font>
 
 333
 00:25:29,350 --> 00:25:29,770
@@ -1459,7 +1459,7 @@ to the water inside one's body.</font>
 
 351
 00:26:52,950 --> 00:26:54,980
-<font face="Impress BT" size="55">Hey, get out of the way, Robin! </font>
+<font face="Impress BT" size="55">Hey, get out of the way, Robin! {Gil : End of line cut off by keyframe.}</font>
 
 352
 00:26:55,000 --> 00:26:56,980

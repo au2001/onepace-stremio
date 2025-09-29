@@ -12,12 +12,12 @@
 
 4
 00:00:31,890 --> 00:00:37,270
-<font face="FOT-Greco Std B" size="34">Translation
+<font face="FOT-Greco Std B" size="34">{\an4}Translation
 Yibis</font>
 
 5
 00:00:31,890 --> 00:00:37,270
-<font face="FOT-Greco Std B" size="34">Soundtracking
+<font face="FOT-Greco Std B" size="34">{\an4}Soundtracking
 Halee</font>
 
 6
@@ -26,22 +26,22 @@ Halee</font>
 
 7
 00:00:37,380 --> 00:00:42,140
-<font face="FOT-Greco Std B" size="34">Editing
+<font face="FOT-Greco Std B" size="34">{\an4}Editing
 Sewil</font>
 
 8
 00:00:37,380 --> 00:00:42,140
-<font face="FOT-Greco Std B" size="34">Infoboxes
+<font face="FOT-Greco Std B" size="34">{\an4}Infoboxes
 Sewil</font>
 
 9
 00:00:37,380 --> 00:00:42,140
-<font face="FOT-Greco Std B" size="34">Timing
+<font face="FOT-Greco Std B" size="34">{\an4}Timing
 Datenshi</font>
 
 10
 00:00:37,380 --> 00:00:42,140
-<font face="FOT-Greco Std B" size="34">Edit-checking
+<font face="FOT-Greco Std B" size="34">{\an4}Edit-checking
 Galaxy 9000</font>
 
 11
@@ -454,7 +454,7 @@ Galaxy 9000</font>
 
 113
 00:09:00,680 --> 00:09:02,540
-<font face="Impress BT" size="55">I'll be the Pirate King! </font>
+<font face="Impress BT" size="55">I'll be the Pirate King! {Starts Late}</font>
 
 114
 00:09:07,960 --> 00:09:09,760
@@ -742,7 +742,7 @@ Galaxy 9000</font>
 
 185
 00:14:10,120 --> 00:14:12,880
-<font face="Impress BT" size="55" color="#d6d6d6">Please pull yourself together! Are you OK?</font>
+<font face="Impress BT" size="55" color="#d6d6d6">{\an8}Please pull yourself together! Are you OK?</font>
 
 186
 00:14:12,520 --> 00:14:13,840
@@ -750,7 +750,7 @@ Galaxy 9000</font>
 
 187
 00:14:13,260 --> 00:14:18,680
-<font face="Impress BT" size="55" color="#d6d6d6">I can't believe I did something like that! Please pull yourself together!</font>
+<font face="Impress BT" size="55" color="#d6d6d6">{\an8}I can't believe I did something like that! Please pull yourself together!</font>
 
 188
 00:14:16,040 --> 00:14:17,140
@@ -795,11 +795,11 @@ Mermaid</font></font>
 
 198
 00:14:36,920 --> 00:14:40,040
-<font face="Impress BT" size="55">I thought I was going to be digested. Thank you for saving me.</font>
+<font face="Impress BT" size="55">{\an8}I thought I was going to be digested. Thank you for saving me.</font>
 
 199
 00:14:40,200 --> 00:14:42,660
-<font face="Impress BT" size="55">I keep getting swallowed by monsters.</font>
+<font face="Impress BT" size="55">{\an8}I keep getting swallowed by monsters.</font>
 
 200
 00:14:42,820 --> 00:14:44,700
@@ -971,7 +971,7 @@ Mermaid</font></font>
 
 242
 00:16:42,300 --> 00:16:44,200
-<font face="Impress BT" size="55" color="#d6d6d6">She does not poop!</font>
+<font face="Impress BT" size="55" color="#d6d6d6">{\an8}She does not poop!</font>
 
 243
 00:16:43,060 --> 00:16:45,500

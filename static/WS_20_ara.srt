@@ -9,153 +9,153 @@ https://mpv.io/
 
 2
 00:00:26,260 --> 00:00:31,820
-<font face="Khalid Art bold" size="60"><font color="#000000">مونتاج</font></font>
+<font face="Khalid Art bold" size="60">{\an7}<font color="#000000">مونتاج</font></font>
 
 3
 00:00:26,260 --> 00:00:31,820
-<font face="Khalid Art bold" size="60">مونتاج</font>
+<font face="Khalid Art bold" size="60">{\an7}مونتاج</font>
 
 4
 00:00:26,260 --> 00:00:31,820
-<font face="Khalid Art bold" size="60">مونتاج</font>
+<font face="Khalid Art bold" size="60">{\an7}مونتاج</font>
 
 5
 00:00:26,260 --> 00:00:31,820
-<font face="Khalid Art bold" size="60"><font color="#000000">Galaxy 9000</font></font>
+<font face="Khalid Art bold" size="60">{\an7}<font color="#000000">Galaxy 9000</font></font>
 
 6
 00:00:26,260 --> 00:00:31,820
-<font face="Khalid Art bold" size="60">Galaxy 9000</font>
+<font face="Khalid Art bold" size="60">{\an7}Galaxy 9000</font>
 
 7
 00:00:32,530 --> 00:00:36,980
-<font face="Khalid Art bold" size="60"><font color="#000000">جرافيك</font></font>
+<font face="Khalid Art bold" size="60">{\an7}<font color="#000000">جرافيك</font></font>
 
 8
 00:00:32,530 --> 00:00:36,980
-<font face="Khalid Art bold" size="60">جرافيك</font>
+<font face="Khalid Art bold" size="60">{\an7}جرافيك</font>
 
 9
 00:00:32,530 --> 00:00:36,980
-<font face="Khalid Art bold" size="60">جرافيك</font>
+<font face="Khalid Art bold" size="60">{\an7}جرافيك</font>
 
 10
 00:00:32,530 --> 00:00:36,980
-<font face="Khalid Art bold" size="60"><font color="#000000">Datenshi</font></font>
+<font face="Khalid Art bold" size="60">{\an7}<font color="#000000">Datenshi</font></font>
 
 11
 00:00:32,530 --> 00:00:36,980
-<font face="Khalid Art bold" size="60">Datenshi</font>
+<font face="Khalid Art bold" size="60">{\an7}Datenshi</font>
 
 12
 00:00:37,100 --> 00:00:40,980
-<font face="Khalid Art bold" size="60"><font color="#000000">كاريوكي</font></font>
+<font face="Khalid Art bold" size="60">{\an7}<font color="#000000">كاريوكي</font></font>
 
 13
 00:00:37,100 --> 00:00:40,980
-<font face="Khalid Art bold" size="60">كاريوكي</font>
+<font face="Khalid Art bold" size="60">{\an7}كاريوكي</font>
 
 14
 00:00:37,100 --> 00:00:40,980
-<font face="Khalid Art bold" size="60">كاريوكي</font>
+<font face="Khalid Art bold" size="60">{\an7}كاريوكي</font>
 
 15
 00:00:37,100 --> 00:00:40,980
-<font face="Khalid Art bold" size="60"><font color="#000000">KaitouYahiko</font></font>
+<font face="Khalid Art bold" size="60">{\an7}<font color="#000000">KaitouYahiko</font></font>
 
 16
 00:00:37,100 --> 00:00:40,980
-<font face="Khalid Art bold" size="60">KaitouYahiko</font>
+<font face="Khalid Art bold" size="60">{\an7}KaitouYahiko</font>
 
 17
 00:00:42,480 --> 00:00:47,110
-<font face="Khalid Art bold" size="60"><font color="#000000">ضبط الجودة</font></font>
+<font face="Khalid Art bold" size="60">{\an7}<font color="#000000">ضبط الجودة</font></font>
 
 18
 00:00:42,480 --> 00:00:47,110
-<font face="Khalid Art bold" size="60">ضبط الجودة</font>
+<font face="Khalid Art bold" size="60">{\an7}ضبط الجودة</font>
 
 19
 00:00:42,480 --> 00:00:47,110
-<font face="Khalid Art bold" size="60">ضبط الجودة</font>
+<font face="Khalid Art bold" size="60">{\an7}ضبط الجودة</font>
 
 20
 00:00:42,480 --> 00:00:47,110
-<font face="Khalid Art bold" size="60"><font color="#000000">Pepperjack   PhosCity   Raiyan
+<font face="Khalid Art bold" size="60">{\an7}<font color="#000000">Pepperjack   PhosCity   Raiyan
 Scolines       Zenef</font></font>
 
 21
 00:00:42,480 --> 00:00:47,110
-<font face="Khalid Art bold" size="60">Pepperjack   PhosCity   Raiyan
+<font face="Khalid Art bold" size="60">{\an7}Pepperjack   PhosCity   Raiyan
 Scolines       Zenef</font>
 
 22
 00:00:55,080 --> 00:01:02,420
-<font face="Khalid Art bold" size="60"><font color="#000000">Halee                                                          الصوت</font></font>
+<font face="Khalid Art bold" size="60">{\an7}<font color="#000000">Halee                                                          الصوت</font></font>
 
 23
 00:00:55,080 --> 00:01:02,420
-<font face="Khalid Art bold" size="60">Halee                                                          الصوت</font>
+<font face="Khalid Art bold" size="60">{\an7}Halee                                                          الصوت</font>
 
 24
 00:01:02,420 --> 00:01:06,440
-<font face="Khalid Art bold" size="60"><font color="#000000">مزامنة الترجمة والمحاكاة</font></font>
+<font face="Khalid Art bold" size="60">{\an7}<font color="#000000">مزامنة الترجمة والمحاكاة</font></font>
 
 25
 00:01:02,420 --> 00:01:06,440
-<font face="Khalid Art bold" size="60">مزامنة الترجمة والمحاكاة</font>
+<font face="Khalid Art bold" size="60">{\an7}مزامنة الترجمة والمحاكاة</font>
 
 26
 00:01:02,420 --> 00:01:06,440
-<font face="Khalid Art bold" size="60">مزامنة الترجمة والمحاكاة</font>
+<font face="Khalid Art bold" size="60">{\an7}مزامنة الترجمة والمحاكاة</font>
 
 27
 00:01:02,420 --> 00:01:06,440
-<font face="Khalid Art bold" size="60"><font color="#000000">Gab</font></font>
+<font face="Khalid Art bold" size="60">{\an7}<font color="#000000">Gab</font></font>
 
 28
 00:01:02,420 --> 00:01:06,440
-<font face="Khalid Art bold" size="60">Gab</font>
+<font face="Khalid Art bold" size="60">{\an7}Gab</font>
 
 29
 00:01:35,120 --> 00:01:38,790
-<font face="Khalid Art bold" size="60"><font color="#000000">التدقيق اللغوي</font></font>
+<font face="Khalid Art bold" size="60">{\an7}<font color="#000000">التدقيق اللغوي</font></font>
 
 30
 00:01:35,120 --> 00:01:38,790
-<font face="Khalid Art bold" size="60">التدقيق اللغوي</font>
+<font face="Khalid Art bold" size="60">{\an7}التدقيق اللغوي</font>
 
 31
 00:01:35,120 --> 00:01:38,790
-<font face="Khalid Art bold" size="60">التدقيق اللغوي</font>
+<font face="Khalid Art bold" size="60">{\an7}التدقيق اللغوي</font>
 
 32
 00:01:35,120 --> 00:01:38,790
-<font face="Khalid Art bold" size="60"><font color="#000000">Raven-</font></font>
+<font face="Khalid Art bold" size="60">{\an7}<font color="#000000">Raven-</font></font>
 
 33
 00:01:35,120 --> 00:01:38,790
-<font face="Khalid Art bold" size="60">Raven-</font>
+<font face="Khalid Art bold" size="60">{\an7}Raven-</font>
 
 34
 00:01:38,930 --> 00:01:43,100
-<font face="Khalid Art bold" size="60"><font color="#000000">ترجمة</font></font>
+<font face="Khalid Art bold" size="60">{\an7}<font color="#000000">ترجمة</font></font>
 
 35
 00:01:38,930 --> 00:01:43,100
-<font face="Khalid Art bold" size="60">ترجمة</font>
+<font face="Khalid Art bold" size="60">{\an7}ترجمة</font>
 
 36
 00:01:38,930 --> 00:01:43,100
-<font face="Khalid Art bold" size="60">ترجمة</font>
+<font face="Khalid Art bold" size="60">{\an7}ترجمة</font>
 
 37
 00:01:38,930 --> 00:01:43,100
-<font face="Khalid Art bold" size="60"><font color="#000000">Crunchyroll</font></font>
+<font face="Khalid Art bold" size="60">{\an7}<font color="#000000">Crunchyroll</font></font>
 
 38
 00:01:38,930 --> 00:01:43,100
-<font face="Khalid Art bold" size="60">Crunchyroll</font>
+<font face="Khalid Art bold" size="60">{\an7}Crunchyroll</font>
 
 39
 00:01:50,090 --> 00:02:00,090
@@ -176,7 +176,7 @@ https://mpv.io/
 
 42
 00:01:58,100 --> 00:01:59,770
-<font face="Bahij Nassim" size="111"><b>هذه درع النجمة</b></font>
+<font face="Bahij Nassim" size="111"><b>{It's a star shield.-OG}هذه درع النجمة{This feels like a named move to me, wondering if it should be added to Glossary?-WF}</b></font>
 
 43
 00:02:00,140 --> 00:02:02,480
@@ -192,7 +192,7 @@ https://mpv.io/
 
 46
 00:02:06,980 --> 00:02:08,690
-<font face="Hacen Digital Arabia LT" size="60">سيّد المسامير</font>
+<font face="Hacen Digital Arabia LT" size="60">{\an8}سيّد المسامير</font>
 
 47
 00:02:06,980 --> 00:02:08,690
@@ -200,7 +200,7 @@ https://mpv.io/
 
 48
 00:02:10,030 --> 00:02:10,740
-<font face="Hacen Digital Arabia LT" size="60">مشية القمر</font>
+<font face="Hacen Digital Arabia LT" size="60">{\an8}مشية القمر</font>
 
 49
 00:02:10,030 --> 00:02:10,740
@@ -238,7 +238,7 @@ https://mpv.io/
 
 57
 00:02:39,350 --> 00:02:41,020
-<font face="Hacen Digital Arabia LT" size="60">فاصوليا اليسرى</font>
+<font face="Hacen Digital Arabia LT" size="60">{\an8}فاصوليا اليسرى</font>
 
 58
 00:02:39,350 --> 00:02:41,020
@@ -270,7 +270,7 @@ https://mpv.io/
 
 65
 00:03:04,160 --> 00:03:05,370
-<font face="Hacen Digital Arabia LT" size="60">الإصبع المؤلم</font>
+<font face="Hacen Digital Arabia LT" size="60">{\an8}الإصبع المؤلم</font>
 
 66
 00:03:04,160 --> 00:03:05,370
@@ -278,7 +278,7 @@ https://mpv.io/
 
 67
 00:03:05,370 --> 00:03:06,290
-<font face="Hacen Digital Arabia LT" size="60">الركض الفائق</font>
+<font face="Hacen Digital Arabia LT" size="60">{\an8}الركض الفائق</font>
 
 68
 00:03:05,370 --> 00:03:06,290
@@ -290,11 +290,11 @@ https://mpv.io/
 
 70
 00:03:09,170 --> 00:03:11,130
-<font face="Bahij Nassim" size="111"><b>لاحظ إذًا</b></font>
+<font face="Bahij Nassim" size="111"><b>{He noticed it...-OG}{He's got my number...-WF}لاحظ إذًا{Looking at the manga it seems this line is in relation to Nero figuring out Franky's weakness, confirmed by PP, WF}</b></font>
 
 71
 00:03:13,340 --> 00:03:14,220
-<font face="Hacen Digital Arabia LT" size="60">ركلة العاصفة</font>
+<font face="Hacen Digital Arabia LT" size="60">{\an8}ركلة العاصفة</font>
 
 72
 00:03:13,340 --> 00:03:14,220
@@ -318,7 +318,7 @@ https://mpv.io/
 
 77
 00:03:26,520 --> 00:03:29,650
-<font face="Bahij Nassim" size="111"><b>وفهمتُ حيلك التافهة أيضًا</b></font>
+<font face="Bahij Nassim" size="111"><b>{I've already figured out your petty nature, too.-OG}وفهمتُ حيلك التافهة أيضًا{WF}{I think “petty nature” is supposed to be sth like “sly/crafty personality”, like he uses cheap tricks. He’s saying that he’s now used to Franky being like that-TL from PP}</b></font>
 
 78
 00:03:30,150 --> 00:03:33,530
@@ -338,7 +338,7 @@ https://mpv.io/
 
 82
 00:03:40,780 --> 00:03:43,260
-<font face="Hacen Digital Arabia LT" size="60">المنيع</font>
+<font face="Hacen Digital Arabia LT" size="60">{\an8}المنيع</font>
 
 83
 00:03:40,780 --> 00:03:43,260
@@ -419,7 +419,7 @@ https://mpv.io/
 
 102
 00:04:49,100 --> 00:04:50,600
-<font face="Hacen Digital Arabia LT" size="60">القنطور</font>
+<font face="Hacen Digital Arabia LT" size="60">{\an8}القنطور</font>
 
 103
 00:04:49,100 --> 00:04:50,600
@@ -436,8 +436,8 @@ https://mpv.io/
 
 106
 00:05:01,610 --> 00:05:03,570
-<font face="Bahij Nassim" size="111"><b>!سحقًا! يا لغطرستك
-!إنّك مجرّد مجرم</b></font>
+<font face="Bahij Nassim" size="111"><b>{Dammit! You're a criminal!-OG}!سحقًا! يا لغطرستك
+!إنّك مجرّد مجرم{WF}{He does say “criminal” in the manga in this line (cheeky criminal), but here it seems like he’s just saying sth like “cheeky” or “impudent” or “audacious”-TL from PP}</b></font>
 
 107
 00:05:04,080 --> 00:05:06,740
@@ -483,7 +483,7 @@ https://mpv.io/
 
 117
 00:05:37,570 --> 00:05:41,700
-<font face="Hacen Digital Arabia LT" size="60">كينبو الرامن: عصا المعكرونة القارعة</font>
+<font face="Hacen Digital Arabia LT" size="60">{\an8}كينبو الرامن: عصا المعكرونة القارعة</font>
 
 118
 00:05:37,570 --> 00:05:41,700
@@ -509,7 +509,7 @@ https://mpv.io/
 
 123
 00:06:06,180 --> 00:06:07,850
-<font face="Hacen Digital Arabia LT" size="60">شعاع الرامن</font>
+<font face="Hacen Digital Arabia LT" size="60">{\an8}شعاع الرامن</font>
 
 124
 00:06:06,180 --> 00:06:07,850
@@ -517,7 +517,7 @@ https://mpv.io/
 
 125
 00:06:11,480 --> 00:06:13,440
-<font face="Hacen Digital Arabia LT" size="60">التقشير</font>
+<font face="Hacen Digital Arabia LT" size="60">{\an8}التقشير</font>
 
 126
 00:06:11,480 --> 00:06:13,440
@@ -551,7 +551,7 @@ https://mpv.io/
 
 133
 00:06:52,810 --> 00:06:54,480
-<font face="Hacen Digital Arabia LT" size="60">رمية سكاكين المطبخ</font>
+<font face="Hacen Digital Arabia LT" size="60">{\an8}رمية سكاكين المطبخ</font>
 
 134
 00:06:52,810 --> 00:06:54,480
@@ -563,7 +563,7 @@ https://mpv.io/
 
 136
 00:06:57,690 --> 00:06:58,900
-<font face="Hacen Digital Arabia LT" size="60">ركلة العين</font>
+<font face="Hacen Digital Arabia LT" size="60">{\an8}ركلة العين</font>
 
 137
 00:06:57,690 --> 00:06:58,900
@@ -601,7 +601,7 @@ https://mpv.io/
 
 145
 00:07:25,130 --> 00:07:26,180
-<font face="Hacen Digital Arabia LT" size="60">ركلة الأنف</font>
+<font face="Hacen Digital Arabia LT" size="60">{\an8}ركلة الأنف</font>
 
 146
 00:07:25,130 --> 00:07:26,180
@@ -609,7 +609,7 @@ https://mpv.io/
 
 147
 00:07:26,180 --> 00:07:27,180
-<font face="Hacen Digital Arabia LT" size="60">الخد</font>
+<font face="Hacen Digital Arabia LT" size="60">{\an8}الخد</font>
 
 148
 00:07:26,180 --> 00:07:27,180
@@ -617,7 +617,7 @@ https://mpv.io/
 
 149
 00:07:27,180 --> 00:07:28,300
-<font face="Hacen Digital Arabia LT" size="60">الفم</font>
+<font face="Hacen Digital Arabia LT" size="60">{\an8}الفم</font>
 
 150
 00:07:27,180 --> 00:07:28,300
@@ -625,7 +625,7 @@ https://mpv.io/
 
 151
 00:07:28,300 --> 00:07:29,390
-<font face="Hacen Digital Arabia LT" size="60">الأسنان</font>
+<font face="Hacen Digital Arabia LT" size="60">{\an8}الأسنان</font>
 
 152
 00:07:28,300 --> 00:07:29,390
@@ -633,7 +633,7 @@ https://mpv.io/
 
 153
 00:07:29,390 --> 00:07:30,350
-<font face="Hacen Digital Arabia LT" size="60">الذقن</font>
+<font face="Hacen Digital Arabia LT" size="60">{\an8}الذقن</font>
 
 154
 00:07:29,390 --> 00:07:30,350
@@ -665,7 +665,7 @@ https://mpv.io/
 
 161
 00:07:55,710 --> 00:07:58,420
-<font face="Hacen Digital Arabia LT" size="60">ركلات التشذيب</font>
+<font face="Hacen Digital Arabia LT" size="60">{\an8}ركلات التشذيب</font>
 
 162
 00:07:55,710 --> 00:07:58,420
@@ -793,7 +793,7 @@ https://mpv.io/
 
 192
 00:10:52,630 --> 00:10:56,760
-<font face="Hacen Digital Arabia LT" size="60">كينبو الرامن: التقنية السريّة
+<font face="Hacen Digital Arabia LT" size="60">{\an8}كينبو الرامن: التقنية السريّة
 سكّين المطبخ القاطعة للمعكرونة السامّة</font>
 
 193
@@ -831,7 +831,7 @@ https://mpv.io/
 
 201
 00:11:17,360 --> 00:11:18,820
-<font face="Hacen Digital Arabia LT" size="60">نحت</font>
+<font face="Hacen Digital Arabia LT" size="60">{\an8}نحت</font>
 
 202
 00:11:17,360 --> 00:11:18,820
@@ -839,7 +839,7 @@ https://mpv.io/
 
 203
 00:11:19,330 --> 00:11:20,620
-<font face="Hacen Digital Arabia LT" size="60">الثلاث نقاط</font>
+<font face="Hacen Digital Arabia LT" size="60">{\an8}الثلاث نقاط</font>
 
 204
 00:11:19,330 --> 00:11:20,620
@@ -883,7 +883,7 @@ https://mpv.io/
 
 214
 00:12:48,460 --> 00:12:52,670
-<font face="Hacen Digital Arabia LT" size="60">المطرقة القصوى</font>
+<font face="Hacen Digital Arabia LT" size="60">{\an8}المطرقة القصوى</font>
 
 215
 00:12:48,460 --> 00:12:52,670
@@ -1023,7 +1023,7 @@ https://mpv.io/
 
 248
 00:15:12,220 --> 00:15:13,430
-<font face="Hacen Digital Arabia LT" size="60">الركض الفائق</font>
+<font face="Hacen Digital Arabia LT" size="60">{\an8}الركض الفائق</font>
 
 249
 00:15:12,220 --> 00:15:13,430
@@ -1112,12 +1112,14 @@ https://mpv.io/
 
 269
 00:16:42,980 --> 00:16:45,820
-<font face="Bahij Nassim" size="111"><b>افترض وجود شيطان قد يحرق العالم عن بكرة أبيه</b></font>
+<font face="Bahij Nassim" size="111"><b>{Suppose there exists a devil that would
+burn the world to the ground.-OG}افترض وجود شيطان قد يحرق العالم عن بكرة أبيه{CPS, Also wonder if maybe "devil" should be switched for something like "power". Very limited space to work with, WF}{Yes, he’s saying “devil” here… and he’s saying it as a living thing, not an inanimate weapon or power.-TL from PP}</b></font>
 
 270
 00:16:46,690 --> 00:16:53,910
-<font face="Bahij Nassim" size="111"><b>إن كان الشخص القادر على إيقاظه
-هي طفلة بريئة لا تتعدى الثمانية أعوام</b></font>
+<font face="Bahij Nassim" size="111"><b>{If the person who can raise this devil is
+an innocent girl who's only eight years old,-OG}إن كان الشخص القادر على إيقاظه
+هي طفلة بريئة لا تتعدى الثمانية أعوام{PP}</b></font>
 
 271
 00:16:53,910 --> 00:16:55,740
@@ -1133,7 +1135,7 @@ https://mpv.io/
 
 274
 00:17:06,800 --> 00:17:12,220
-<font face="Bahij Nassim" size="111"><b>إنني أبيّن لك حقيقة نيكو روبين</b></font>
+<font face="Bahij Nassim" size="111"><b>{I'm telling you that is Nico Robin's life.-OG}إنني أبيّن لك حقيقة نيكو روبين{WF}</b></font>
 
 275
 00:17:13,140 --> 00:17:16,970
@@ -1191,8 +1193,9 @@ https://mpv.io/
 
 288
 00:18:11,450 --> 00:18:16,700
-<font face="Bahij Nassim" size="111"><b>كم ستعاني تلك المرأة قبل أن تموت
-...راقب ذلك جيّدًا و</b></font>
+<font face="Bahij Nassim" size="111"><b>{How much agony she'll experience
+before she dies... you just watch and–-OG}كم ستعاني تلك المرأة قبل أن تموت
+...راقب ذلك جيّدًا و{WF}{When he's cut off I think he’s saying they should think about it, like internalize and reflect upon how much agony robin will be going through-TL from PP}</b></font>
 
 289
 00:18:16,700 --> 00:18:18,660
@@ -1313,7 +1316,7 @@ https://mpv.io/
 
 317
 00:19:57,970 --> 00:20:00,220
-<font face="Hacen Digital Arabia LT" size="60">نجم الدخان</font>
+<font face="Hacen Digital Arabia LT" size="60">{\an8}نجم الدخان</font>
 
 318
 00:19:57,970 --> 00:20:00,220
@@ -1357,7 +1360,7 @@ https://mpv.io/
 
 328
 00:20:48,020 --> 00:20:50,900
-<font face="Bahij Nassim" size="111"><b>!ليس كذلك</b></font>
+<font face="Bahij Nassim" size="111"><b>{You've got it wrong!-OG}!ليس كذلك{WF}</b></font>
 
 329
 00:20:50,900 --> 00:20:51,980
@@ -1374,7 +1377,7 @@ https://mpv.io/
 
 332
 00:21:01,410 --> 00:21:02,820
-<font face="Bahij Nassim" size="111"><b>إنّه هناك؟</b></font>
+<font face="Bahij Nassim" size="111"><b>{Yokozuna?-OG}{That guy?-Polly}إنّه هناك؟{WF}</b></font>
 
 333
 00:21:03,200 --> 00:21:06,330
@@ -1390,7 +1393,7 @@ https://mpv.io/
 
 336
 00:21:11,540 --> 00:21:15,340
-<font face="Bahij Nassim" size="111"><b>!سنصطدم</b></font>
+<font face="Bahij Nassim" size="111"><b>{We're gonna collide!-OG}!سنصطدم{Polly}{EL 01 @ 02:11}</b></font>
 
 337
 00:21:20,590 --> 00:21:22,340
@@ -1514,7 +1517,7 @@ https://mpv.io/
 
 366
 00:23:10,540 --> 00:23:12,660
-<font face="Hacen Digital Arabia LT" size="60">سحق</font>
+<font face="Hacen Digital Arabia LT" size="60">{\an8}سحق</font>
 
 367
 00:23:10,540 --> 00:23:12,660
@@ -1547,7 +1550,7 @@ https://mpv.io/
 
 374
 00:23:38,650 --> 00:23:40,110
-<font face="Hacen Digital Arabia LT" size="60">ثمان أزهار</font>
+<font face="Hacen Digital Arabia LT" size="60">{\an8}ثمان أزهار</font>
 
 375
 00:23:38,650 --> 00:23:40,110
@@ -1555,7 +1558,7 @@ https://mpv.io/
 
 376
 00:23:40,610 --> 00:23:41,650
-<font face="Hacen Digital Arabia LT" size="60">تشبّث</font>
+<font face="Hacen Digital Arabia LT" size="60">{\an8}تشبّث</font>
 
 377
 00:23:40,610 --> 00:23:41,650
@@ -1682,7 +1685,7 @@ https://mpv.io/
 
 407
 00:26:32,450 --> 00:26:33,400
-<font face="Hacen Digital Arabia LT" size="60">ركلة العاصفة</font>
+<font face="Hacen Digital Arabia LT" size="60">{\an8}ركلة العاصفة</font>
 
 408
 00:26:32,450 --> 00:26:33,400
@@ -1739,7 +1742,7 @@ https://mpv.io/
 
 421
 00:27:31,420 --> 00:27:32,550
-<font face="Hacen Digital Arabia LT" size="60">مسدّس الإصبع</font>
+<font face="Hacen Digital Arabia LT" size="60">{\an8}مسدّس الإصبع</font>
 
 422
 00:27:31,420 --> 00:27:32,550
@@ -1751,7 +1754,7 @@ https://mpv.io/
 
 424
 00:27:41,760 --> 00:27:43,020
-<font face="Hacen Digital Arabia LT" size="60">الجسد الحديديّ</font>
+<font face="Hacen Digital Arabia LT" size="60">{\an8}الجسد الحديديّ</font>
 
 425
 00:27:41,760 --> 00:27:43,020

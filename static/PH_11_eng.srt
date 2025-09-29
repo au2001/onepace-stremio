@@ -24,12 +24,12 @@
 
 7
 00:00:24,200 --> 00:00:27,490
-<font face="Times New Roman" size="34">Translation
+<font face="Times New Roman" size="34">{\an1}Translation
 <font size="40">bobthemilkman @ Yibis Fansubs</font></font>
 
 8
 00:00:27,640 --> 00:00:30,740
-<font face="Times New Roman" size="34">Translation check
+<font face="Times New Roman" size="34">{\an1}Translation check
 <font size="40">Lord Starfish @ Yibis Fansubs</font></font>
 
 9
@@ -38,12 +38,12 @@
 
 10
 00:00:31,190 --> 00:00:34,370
-<font face="Times New Roman" size="34">Initial timing
+<font face="Times New Roman" size="34">{\an1}Initial timing
 <font size="40">FAbian101 @ Yibis Fansubs</font></font>
 
 11
 00:00:34,860 --> 00:00:38,430
-<font face="Times New Roman" size="34">Timing
+<font face="Times New Roman" size="34">{\an1}Timing
 <font size="40">Galaxy 9000</font></font>
 
 12
@@ -52,12 +52,12 @@
 
 13
 00:00:41,440 --> 00:00:43,710
-<font face="Times New Roman" size="34">Quality checking
+<font face="Times New Roman" size="34">{\an1}Quality checking
 <font size="40">Sewil</font></font>
 
 14
 00:00:43,750 --> 00:00:45,960
-<font face="Times New Roman" size="34">Soundtracking
+<font face="Times New Roman" size="34">{\an1}Soundtracking
 <font size="40">MaideV and Halee</font></font>
 
 15
@@ -66,12 +66,12 @@
 
 16
 00:00:46,010 --> 00:00:48,250
-<font face="Times New Roman" size="34">Raw providing
+<font face="Times New Roman" size="34">{\an1}Raw providing
 <font size="40">OPC-Raws</font></font>
 
 17
 00:00:49,610 --> 00:00:53,050
-<font face="Times New Roman" size="34">Editing
+<font face="Times New Roman" size="34">{\an1}Editing
 <font size="40">Sewil</font></font>
 
 18
@@ -184,7 +184,7 @@
 
 45
 00:02:29,950 --> 00:02:38,160
-<font face="impress bt" size="63" color="#fefefe"><b>The Experiment Begins!
+<font face="impress bt" size="63" color="#fefefe"><b>{\an5}The Experiment Begins!
 Shinokuni Unleashed!</b></font>
 
 46
@@ -719,7 +719,7 @@ to become a flawless weapon of mass destruction.</font>
 
 175
 00:11:40,820 --> 00:11:42,460
-<font face="Impress BT" size="38"><i>Land of Death</i></font>
+<font face="Impress BT" size="38"><i>{\an8}Land of Death</i></font>
 
 176
 00:11:42,880 --> 00:11:46,900

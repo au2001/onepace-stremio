@@ -20,12 +20,12 @@
 
 6
 00:00:24,160 --> 00:00:27,420
-<font face="Times New Roman" size="34">Translation & initial syncing
+<font face="Times New Roman" size="34">{\an1}Translation & initial syncing
 <font size="40">Yibis Fansubs</font></font>
 
 7
 00:00:27,620 --> 00:00:30,690
-<font face="Times New Roman" size="34">Syncing
+<font face="Times New Roman" size="34">{\an1}Syncing
 <font size="40">Galaxy 9000
 
 </font>Sync-checking
@@ -37,12 +37,12 @@
 
 9
 00:00:31,150 --> 00:00:34,300
-<font face="Times New Roman" size="34">Quality-checking
+<font face="Times New Roman" size="34">{\an1}Quality-checking
 <font size="40">Sewil</font></font>
 
 10
 00:00:34,800 --> 00:00:38,390
-<font face="Times New Roman" size="34">Soundtracking
+<font face="Times New Roman" size="34">{\an1}Soundtracking
 <font size="40">Halee</font></font>
 
 11
@@ -51,7 +51,7 @@
 
 12
 00:00:41,380 --> 00:00:43,650
-<font face="Times New Roman" size="34">Video editing
+<font face="Times New Roman" size="34">{\an1}Video editing
 <font size="40">Sewil</font></font>
 
 13
@@ -168,7 +168,7 @@
 
 41
 00:02:29,870 --> 00:02:38,620
-<font face="impress bt" size="63" color="#fefefe"><b>Zoro's Strongest One-Sword Style
+<font face="impress bt" size="63" color="#fefefe"><b>{\an5}Zoro's Strongest One-Sword Style
 and Mocha's Plight!</b></font>
 
 42
@@ -250,19 +250,19 @@ In Front of the Exit</font>
 
 61
 00:03:38,390 --> 00:03:39,800
-<font face="Impress BT" size="55">You should get out of here too.</font>
+<font face="Impress BT" size="55">{\an8}You should get out of here too.</font>
 
 62
 00:03:39,800 --> 00:03:41,320
-<font face="Impress BT" size="55">I'm free to do what I want.</font>
+<font face="Impress BT" size="55">{\an8}I'm free to do what I want.</font>
 
 63
 00:03:41,320 --> 00:03:43,010
-<font face="Impress BT" size="55">I'm saying that you're in the way!</font>
+<font face="Impress BT" size="55">{\an8}I'm saying that you're in the way!</font>
 
 64
 00:03:43,010 --> 00:03:44,820
-<font face="Impress BT" size="55">You're free to believe whatever you want.</font>
+<font face="Impress BT" size="55">{\an8}You're free to believe whatever you want.</font>
 
 65
 00:03:45,170 --> 00:03:46,620
@@ -458,7 +458,7 @@ In Front of the Exit</font>
 
 113
 00:06:41,690 --> 00:06:44,330
-<font face="Impress BT" size="55"><i>What's happened to my shoulder?!</i></font>
+<font face="Impress BT" size="55"><i>What's happened to my shoulder?!{From 612}</i></font>
 
 114
 00:06:48,500 --> 00:06:50,450
@@ -718,7 +718,7 @@ In Front of the Exit</font>
 
 178
 00:11:30,350 --> 00:11:33,070
-<font face="impress bt" size="45">Winner: Zoro
+<font face="impress bt" size="45">{\an8}Winner: Zoro
 10 minutes until Shinokuni fills up building B</font>
 
 179
@@ -755,7 +755,7 @@ In Front of the Exit</font>
 
 187
 00:11:53,240 --> 00:11:56,450
-<font face="Impress BT" size="38"><i>Shuusui: Clear Autumn Water</i></font>
+<font face="Impress BT" size="38"><i>{\an8}Shuusui: Clear Autumn Water</i></font>
 
 188
 00:11:56,450 --> 00:11:59,590
@@ -1392,7 +1392,7 @@ Just shut up and let me carry you, you sword geek!</font>
 
 346
 00:21:12,360 --> 00:21:13,080
-<font face="Impress BT" size="55">What?!</font>
+<font face="Impress BT" size="55">{\an8}What?!</font>
 
 347
 00:21:20,630 --> 00:21:22,450

@@ -353,7 +353,7 @@ until you've rested a few days.</font>
 
 89
 00:05:31,110 --> 00:05:32,280
-<font face="Impress BT" size="55"><i>He's a revolutionary.</i></font>
+<font face="Impress BT" size="55"><i>He's a revolutionary.{Garp is clearly only capable of discussing matters of lineage with his finger up his nose.}</i></font>
 
 90
 00:05:34,710 --> 00:05:36,790
@@ -425,7 +425,7 @@ until you've rested a few days.</font>
 
 107
 00:06:26,550 --> 00:06:29,380
-<font face="Impress BT" size="55"><i>Do vyou have some family vyou long for back in the eastern seas?</i></font>
+<font face="Impress BT" size="55"><i>Do vyou have some family vyou long for back in the eastern seas?{recheck: should this be sea or seas?}</i></font>
 
 108
 00:06:29,380 --> 00:06:30,930
@@ -501,7 +501,7 @@ until you've rested a few days.</font>
 
 126
 00:07:22,390 --> 00:07:27,520
-<font face="Impress BT" size="55">That would mean Straw-Hat-boy's brother, Ace, is also Dragon's son!</font>
+<font face="Impress BT" size="55">That would mean Straw-Hat-boy's brother, Ace, is also Dragon's son!{holy deceptive foreshadowing, batman!}</font>
 
 127
 00:07:27,520 --> 00:07:31,170
@@ -826,7 +826,7 @@ Portgas D. Ace into custody...</font>
 
 207
 00:12:45,810 --> 00:12:49,840
-<font face="Impress BT" size="55">The guy next to him is the one who broke in yesterday, Straw Hat Luffy!</font>
+<font face="Impress BT" size="55">The guy next to him is the one who broke in yesterday, Straw Hat Luffy!{That was just one day? orz}</font>
 
 208
 00:12:49,840 --> 00:12:52,210
@@ -1066,7 +1066,7 @@ Portgas D. Ace into custody...</font>
 
 267
 00:16:00,440 --> 00:16:01,970
-<font face="Impress BT" size="55">Old dude... Who're you?</font>
+<font face="Impress BT" size="55">Old dude... Who're you?{ //Ossan }</font>
 
 268
 00:16:02,450 --> 00:16:05,060
@@ -1086,7 +1086,7 @@ Portgas D. Ace into custody...</font>
 
 272
 00:16:24,020 --> 00:16:29,890
-<font face="Impress BT" size="55">One or two lives shouldn't be enough to get a man down here! </font>
+<font face="Impress BT" size="55">One or two lives shouldn't be enough to get a man down here! {Just risking one or two of your lives can't possibly be enough to get you down here... //Actually, I'm not entirely sure about this myself, but I believe this is closer.}</font>
 
 273
 00:16:29,890 --> 00:16:33,320
@@ -1146,7 +1146,7 @@ Portgas D. Ace into custody...</font>
 
 287
 00:17:13,150 --> 00:17:14,100
-<font face="Impress BT" size="55">They're watching vour every move. </font>
+<font face="Impress BT" size="55">They're watching vour every move. {They've got their hands all over the place.}</font>
 
 288
 00:17:15,980 --> 00:17:18,080
@@ -1398,7 +1398,7 @@ Portgas D. Ace into custody...</font>
 
 350
 00:21:17,740 --> 00:21:20,740
-<font face="Impress BT" size="38"><i>Choki: Sound of snipping</i></font>
+<font face="Impress BT" size="38"><i>{\an8}Choki: Sound of snipping</i></font>
 
 351
 00:21:21,500 --> 00:21:24,180
