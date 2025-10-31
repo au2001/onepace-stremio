@@ -49,7 +49,7 @@ the legendary Pirate King Gold Roger.</i></font>
 
 13
 00:02:49,210 --> 00:02:51,180
-<font face="Impress BT" size="55">Mom, what's that? </font>
+<font face="Impress BT" size="55">Mom, what's that? {jeeves66: The mother makes a "What?" grunt after this line. Include?}</font>
 
 14
 00:03:02,010 --> 00:03:04,170
@@ -101,7 +101,7 @@ the legendary Pirate King Gold Roger.</i></font>
 
 26
 00:03:42,540 --> 00:03:50,820
-<font face="Agency FB" size="63" color="#fefefe"><b>The Beginning of the Vengeful Plan!
+<font face="Agency FB" size="63" color="#fefefe"><b>{\an5}The Beginning of the Vengeful Plan!
 Zoro vs. Hody!</b></font>
 
 27
@@ -1035,7 +1035,7 @@ In fact, I've never eaten any Arlong before.</font>
 
 247
 00:20:34,020 --> 00:20:35,580
-<font face="Impress BT" size="38"><i>Rough Shark</i></font>
+<font face="Impress BT" size="38"><i>{\an8}Rough Shark</i></font>
 
 248
 00:20:44,390 --> 00:20:48,110
@@ -1087,7 +1087,7 @@ In fact, I've never eaten any Arlong before.</font>
 
 260
 00:22:01,460 --> 00:22:03,220
-<font face="Impress BT" size="38"><i>Shark Archery</i></font>
+<font face="Impress BT" size="38"><i>{\an8}Shark Archery</i></font>
 
 261
 00:22:06,920 --> 00:22:08,220
@@ -1614,7 +1614,7 @@ must not turn around, Sanji!</font>
 
 388
 00:31:14,670 --> 00:31:17,420
-<font face="Impress BT" size="55">You nearly died from seeing regular mermaids. </font>
+<font face="Impress BT" size="55">You nearly died from seeing regular mermaids. { def: to be fair, it was a face full of mermaid boob that did it }</font>
 
 389
 00:31:19,510 --> 00:31:21,550
@@ -1686,7 +1686,7 @@ fulfilling the dream that's within my grasp...</font>
 
 405
 00:32:44,470 --> 00:32:48,390
-<font face="Impress BT" size="55">Even my dreams were wretched, when compared to this. </font>
+<font face="Impress BT" size="55">Even my dreams were wretched, when compared to this. {Gil : Line seems to go on past the keyframe. Timing check?}</font>
 
 406
 00:32:49,850 --> 00:32:55,310
@@ -1939,7 +1939,7 @@ then it hurts me just seeing you alive!</font>
 
 466
 00:36:50,430 --> 00:36:52,730
-<font face="Impress BT" size="55">That's right, you're working with Decken, aren't you? </font>
+<font face="Impress BT" size="55">That's right, you're working with Decken, aren't you? {lit. an accomplice of}</font>
 
 467
 00:36:52,750 --> 00:36:54,480
@@ -2317,7 +2317,7 @@ a profound impact on the kingdom.</font>
 556
 00:43:36,730 --> 00:43:40,970
 <font face="Impress BT" size="55">Yes sir!  We shall immediately remove
-Hody and his crew from the premises. </font>
+Hody and his crew from the premises. {they just say, "and that crew." It's ambiguous as to which crew they mean, but I think they mean Hody's.}</font>
 
 557
 00:43:40,970 --> 00:43:42,020
@@ -2389,6 +2389,6 @@ It feels like I'm gonna drown and die at any moment.</font>
 
 573
 00:45:07,980 --> 00:45:13,190
-<font face="Agency FB" size="63" color="#fefefe"><b>At the Sea Forest!
+<font face="Agency FB" size="63" color="#fefefe"><b>{\an5}At the Sea Forest!
 Arlong and Hody</b></font>
 

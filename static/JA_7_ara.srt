@@ -9,31 +9,31 @@ https://mpv.io/
 
 2
 00:00:54,190 --> 00:00:57,320
-<font face="Khalid Art bold" size="60">مونتاج</font>
+<font face="Khalid Art bold" size="60">{\an7}مونتاج</font>
 
 3
 00:00:54,190 --> 00:00:57,320
-<font face="FOT-Greco Std B Strp" size="43"><b>Sewil</b></font>
+<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}Sewil</b></font>
 
 4
 00:00:57,320 --> 00:01:00,040
-<font face="Khalid Art bold" size="60">جرافيك</font>
+<font face="Khalid Art bold" size="60">{\an7}جرافيك</font>
 
 5
 00:00:57,320 --> 00:01:00,040
-<font face="FOT-Greco Std B Strp" size="43"><b>AphantasticRabbit
-Datenshi
-Gabingus
-PamkinPenguin
-Pepperjack</b></font>
+<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}AphantasticRabbit{Marco and Jozu recolor}
+Datenshi{Title Card and Information Boxes}
+Gabingus{Marco Redesign Lead}
+PamkinPenguin{Marco and Jozu recolor}
+Pepperjack{After Effects}</b></font>
 
 6
 00:01:00,040 --> 00:01:03,240
-<font face="Khalid Art bold" size="60">ضبط الجودة</font>
+<font face="Khalid Art bold" size="60">{\an7}ضبط الجودة</font>
 
 7
 00:01:00,040 --> 00:01:03,240
-<font face="FOT-Greco Std B Strp" size="43"><b>Galaxy 9000
+<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}Galaxy 9000
 Pepperjack
 PhosCity
 Scolines
@@ -41,45 +41,45 @@ Zenef</b></font>
 
 8
 00:01:03,240 --> 00:01:06,490
-<font face="Khalid Art bold" size="60">كاريوكي</font>
+<font face="Khalid Art bold" size="60">{\an7}كاريوكي</font>
 
 9
 00:01:03,240 --> 00:01:06,490
-<font face="FOT-Greco Std B Strp" size="43"><b>KaitouYahiko</b></font>
+<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}KaitouYahiko</b></font>
 
 10
 00:01:06,490 --> 00:01:09,300
-<font face="Khalid Art bold" size="60">الصوت</font>
+<font face="Khalid Art bold" size="60">{\an7}الصوت</font>
 
 11
 00:01:06,490 --> 00:01:09,300
-<font face="FOT-Greco Std B Strp" size="43"><b>Halee</b></font>
+<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}Halee</b></font>
 
 12
 00:01:09,300 --> 00:01:12,520
-<font face="Khalid Art bold" size="60">مزامنة الترجمة</font>
+<font face="Khalid Art bold" size="60">{\an7}مزامنة الترجمة</font>
 
 13
 00:01:09,300 --> 00:01:12,520
-<font face="FOT-Greco Std B Strp" size="43"><b>Gab
+<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}Gab
 Raven-</b></font>
 
 14
 00:01:12,520 --> 00:01:15,330
-<font face="Khalid Art bold" size="60">التدقيق اللغوي</font>
+<font face="Khalid Art bold" size="60">{\an7}التدقيق اللغوي</font>
 
 15
 00:01:12,520 --> 00:01:15,330
-<font face="FOT-Greco Std B Strp" size="43"><b>Raven-
+<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}Raven-
 FiberAhmed</b></font>
 
 16
 00:01:15,330 --> 00:01:18,200
-<font face="Khalid Art bold" size="60">ترجمة</font>
+<font face="Khalid Art bold" size="60">{\an7}ترجمة</font>
 
 17
 00:01:15,330 --> 00:01:18,200
-<font face="FOT-Greco Std B Strp" size="43"><b>Crunchyroll</b></font>
+<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}Crunchyroll</b></font>
 
 18
 00:01:49,710 --> 00:01:59,710
@@ -204,7 +204,7 @@ https://mpv.io/
 
 45
 00:03:56,840 --> 00:03:58,630
-<font face="Hacen Digital Arabia LT" size="60">النّابض</font>
+<font face="Hacen Digital Arabia LT" size="60">{\an8}النّابض</font>
 
 46
 00:03:56,840 --> 00:03:58,630
@@ -212,7 +212,7 @@ https://mpv.io/
 
 47
 00:03:58,630 --> 00:04:00,680
-<font face="Hacen Digital Arabia LT" size="60">القانص</font>
+<font face="Hacen Digital Arabia LT" size="60">{\an8}القانص</font>
 
 48
 00:03:58,630 --> 00:04:00,680
@@ -255,7 +255,7 @@ https://mpv.io/
 
 57
 00:04:43,640 --> 00:04:45,770
-<font face="Hacen Digital Arabia LT" size="60">النّابض</font>
+<font face="Hacen Digital Arabia LT" size="60">{\an8}النّابض</font>
 
 58
 00:04:43,640 --> 00:04:45,770
@@ -263,7 +263,7 @@ https://mpv.io/
 
 59
 00:04:45,770 --> 00:04:47,230
-<font face="Hacen Digital Arabia LT" size="60">الواثب</font>
+<font face="Hacen Digital Arabia LT" size="60">{\an8}الواثب</font>
 
 60
 00:04:45,770 --> 00:04:47,230
@@ -345,11 +345,11 @@ https://mpv.io/
 
 78
 00:06:32,540 --> 00:06:35,040
-<font face="Bahij Nassim" size="111"><b>!هذا صحيح! إنّهما من كانا هنا هذا المساء</b></font>
+<font face="Bahij Nassim" size="111"><b>!هذا صحيح! إنّهما من كانا هنا هذا المساء{Jaya 06, 14:30}</b></font>
 
 79
 00:06:40,050 --> 00:06:43,630
-<font face="Bahij Nassim" size="111"><b>!مكافآتهما أعلى من مكافأتك يا بيلامي</b></font>
+<font face="Bahij Nassim" size="111"><b>{Their bounties are higher than yours, Bellamy!~OG}!مكافآتهما أعلى من مكافأتك يا بيلامي{Jaya 06, 14:33}</b></font>
 
 80
 00:06:45,840 --> 00:06:48,430
@@ -422,7 +422,7 @@ https://mpv.io/
 
 96
 00:07:55,450 --> 00:07:58,830
-<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>!مهلًا، مهلًا، كونا أكثر حذرًا أيّها الغبيّان</b></font>
+<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>{\an8}!مهلًا، مهلًا، كونا أكثر حذرًا أيّها الغبيّان</b></font>
 
 97
 00:07:57,040 --> 00:08:00,170
@@ -430,7 +430,7 @@ https://mpv.io/
 
 98
 00:07:58,830 --> 00:08:01,210
-<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>هذه السّفينة هي كنزنا القيّم</b></font>
+<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>{\an8}هذه السّفينة هي كنزنا القيّم</b></font>
 
 99
 00:08:00,170 --> 00:08:03,420
@@ -438,7 +438,7 @@ https://mpv.io/
 
 100
 00:08:01,210 --> 00:08:04,000
-<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>!كفى أيّها الوغدان</b></font>
+<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>{\an8}!كفى أيّها الوغدان</b></font>
 
 101
 00:08:03,420 --> 00:08:05,010
@@ -446,7 +446,7 @@ https://mpv.io/
 
 102
 00:08:04,000 --> 00:08:05,010
-<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>!توقفا</b></font>
+<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>{\an8}!توقفا</b></font>
 
 103
 00:08:11,180 --> 00:08:12,390
@@ -488,13 +488,15 @@ https://mpv.io/
 
 112
 00:08:49,430 --> 00:08:54,140
-<font face="Al-Jazeera-Arabic-Bold" size="70"><font size="80">ظهيرة الأمس
-جزيرة في الغراند لاين</font></font>
+<font face="Al-Jazeera-Arabic-Bold" size="70"><font size="80">{The Previous Afternoon,
+On an Island in the Grand Line~OG}ظهيرة الأمس
+جزيرة في الغراند لاين{~Rangicus}</font></font>
 
 113
 00:08:49,430 --> 00:08:54,140
-<font face="Al-Jazeera-Arabic-Bold" size="70"><font size="80">ظهيرة الأمس
-جزيرة في الغراند لاين</font></font>
+<font face="Al-Jazeera-Arabic-Bold" size="70"><font size="80">{The Previous Afternoon,
+On an Island in the Grand Line~OG}ظهيرة الأمس
+جزيرة في الغراند لاين{~Rangicus}</font></font>
 
 114
 00:08:55,680 --> 00:08:58,390
@@ -551,7 +553,7 @@ https://mpv.io/
 
 126
 00:09:36,430 --> 00:09:40,310
-<font face="Hacen Digital Arabia LT" size="60">«الزعيم»</font>
+<font face="Hacen Digital Arabia LT" size="60">{\an8}«الزعيم»</font>
 
 127
 00:09:38,060 --> 00:09:40,310
@@ -573,7 +575,7 @@ https://mpv.io/
 
 131
 00:09:47,940 --> 00:09:54,910
-<font face="Hacen Digital Arabia LT" size="60">«الزعيم»</font>
+<font face="Hacen Digital Arabia LT" size="60">{\an8}«الزعيم»</font>
 
 132
 00:09:51,950 --> 00:09:54,910
@@ -869,7 +871,7 @@ https://mpv.io/
 
 199
 00:14:19,340 --> 00:14:25,970
-<font face="Hacen Digital Arabia LT" size="60">«العدالة»</font>
+<font face="Hacen Digital Arabia LT" size="60">{\an8}«العدالة»</font>
 
 200
 00:14:22,300 --> 00:14:24,840
@@ -898,28 +900,32 @@ https://mpv.io/
 
 205
 00:14:32,560 --> 00:14:35,270
-<font face="Bahij Nassim" size="111"><b>نعم، هذا صحيح</b></font>
+<font face="Bahij Nassim" size="111"><b>{\an8}نعم، هذا صحيح</b></font>
 
 206
 00:14:35,270 --> 00:14:38,690
-<font face="Bahij Nassim" size="111"><b>،لكنّ الشعر الأحمر لا يثير القلق إلّا إن استُفزّ</b></font>
+<font face="Bahij Nassim" size="111"><b>{\an8}{But Red Hair is formidable
+only when agitated;}،لكنّ الشعر الأحمر لا يثير القلق إلّا إن استُفزّ{~PJ, workshop}</b></font>
 
 207
 00:14:38,690 --> 00:14:41,860
-<font face="Bahij Nassim" size="111"><b>ومع ذلك، فهو ليس رجلًا
- يسعى للهيمنة على العالم</b></font>
+<font face="Bahij Nassim" size="111"><b>{\an8}{he is not the type to change things
+about the world on his own.~OG}ومع ذلك، فهو ليس رجلًا
+ يسعى للهيمنة على العالم{~Z/Gaijin}</b></font>
 
 208
 00:14:41,860 --> 00:14:44,280
-<font face="Bahij Nassim" size="111"><b>لنتحلّ بالصّبر ونراقب</b></font>
+<font face="Bahij Nassim" size="111"><b>{\an8}{Let us be patient and watch.~OG}لنتحلّ بالصّبر ونراقب{~Westfal}</b></font>
 
 209
 00:14:44,280 --> 00:14:46,410
-<font face="Bahij Nassim" size="111"><b>الشّيتشيبوكاي أكثر أهمّيّة الآن</b></font>
+<font face="Bahij Nassim" size="111"><b>{\an8}{The Seven Warlords of the Sea
+are more important now.~OG}الشّيتشيبوكاي أكثر أهمّيّة الآن{~Poppy/Z}</b></font>
 
 210
 00:14:46,410 --> 00:14:48,990
-<font face="Bahij Nassim" size="111"><b>علينا إيجاد بديل لكروكودايل بسرعة</b></font>
+<font face="Bahij Nassim" size="111"><b>{\an8}{We must find a successor
+for Crocodile quickly.~OG}علينا إيجاد بديل لكروكودايل بسرعة{~Z}</b></font>
 
 211
 00:14:49,740 --> 00:14:52,160
@@ -1064,7 +1070,7 @@ https://mpv.io/
 
 242
 00:16:27,970 --> 00:16:30,050
-<font face="Hacen Digital Arabia LT" size="60">«العدالة»</font>
+<font face="Hacen Digital Arabia LT" size="60">{\an8}«العدالة»</font>
 
 243
 00:16:30,050 --> 00:16:33,180
@@ -1272,7 +1278,7 @@ https://mpv.io/
 
 290
 00:19:26,020 --> 00:19:29,690
-<font face="Bahij Nassim" size="111"><b>شانكس... يعيد لي هذا 
+<font face="Bahij Nassim" size="111"><b>{\an8}شانكس... يعيد لي هذا 
 الاسم الذّكريات</b></font>
 
 291
@@ -1403,11 +1409,11 @@ https://mpv.io/
 
 318
 00:21:16,460 --> 00:21:21,890
-<font face="Al-Jazeera-Arabic-Bold" size="70"><font size="80">جزيرة ثلجيّة</font></font>
+<font face="Al-Jazeera-Arabic-Bold" size="70"><font size="80">{On a Winter Island~OG}جزيرة ثلجيّة{~Rangicus}</font></font>
 
 319
 00:21:16,460 --> 00:21:21,890
-<font face="Al-Jazeera-Arabic-Bold" size="70"><font size="80"><font color="#fefffd">جزيرة ثلجيّة</font></font></font>
+<font face="Al-Jazeera-Arabic-Bold" size="70"><font size="80"><font color="#fefffd">{On a Winter Island~OG}جزيرة ثلجيّة{~Rangicus}</font></font></font>
 
 320
 00:21:19,260 --> 00:21:21,890
@@ -1468,7 +1474,7 @@ https://mpv.io/
 
 333
 00:22:05,930 --> 00:22:08,430
-<font face="Bahij Nassim" size="111"><b>لا مجال للقلق حول هذا الآن</b></font>
+<font face="Bahij Nassim" size="111"><b>{This is no time for that.~OG}{No need to worry about that.~Poppy}لا مجال للقلق حول هذا الآن{~Jasmine}</b></font>
 
 334
 00:22:09,810 --> 00:22:11,140
@@ -1544,11 +1550,12 @@ https://mpv.io/
 
 351
 00:23:19,210 --> 00:23:22,130
-<font face="Bahij Nassim" size="111"><b>من خلال هاكيْه، بدا أن 30 مليون مبلغ قليل</b></font>
+<font face="Bahij Nassim" size="111"><b>{In terms of ambitious spirit, I didn't
+think he was even worth 30 million...~OG TL- Big mistranslation. BB felt his haki and knew something was wrong with the 30 million, so he's seeing that 100 million makes more sense, though still surprising.}{From his haki, I didn't think he was only worth thirty-million...~Poppy}من خلال هاكيْه، بدا أن 30 مليون مبلغ قليل{~Z}</b></font>
 
 352
 00:23:22,130 --> 00:23:23,800
-<font face="Bahij Nassim" size="111"><b>...ولكن لم أعتقد أنها تصل لهذا العلو</b></font>
+<font face="Bahij Nassim" size="111"><b>{To think it was this high...~OG}...ولكن لم أعتقد أنها تصل لهذا العلو{~Jasmine}</b></font>
 
 353
 00:23:23,800 --> 00:23:26,130
@@ -1590,13 +1597,15 @@ https://mpv.io/
 
 362
 00:24:03,380 --> 00:24:06,840
-<font face="Al-Jazeera-Arabic-Bold" size="70"><font size="70">«البطل، جيزس بارجس»
-ربّان قراصنة اللّحية السّوداء</font></font>
+<font face="Al-Jazeera-Arabic-Bold" size="70"><font size="70">{"Champion" Jesus Burgess
+Blackbeard Pirate Helmsman~OG}«البطل، جيزس بارجس»
+ربّان قراصنة اللّحية السّوداء{~PJ}</font></font>
 
 363
 00:24:03,380 --> 00:24:06,840
-<font face="Al-Jazeera-Arabic-Bold" size="70"><font size="70"><font color="#f7f7f9">«البطل، جيزس بارجس»
-ربّان قراصنة اللّحية السّوداء</font></font></font>
+<font face="Al-Jazeera-Arabic-Bold" size="70"><font size="70"><font color="#f7f7f9">{"Champion" Jesus Burgess
+Blackbeard Pirate Helmsman~OG\c&HFAF8FD&}«البطل، جيزس بارجس»
+ربّان قراصنة اللّحية السّوداء{~PJ}</font></font></font>
 
 364
 00:24:06,840 --> 00:24:08,930
@@ -1612,27 +1621,31 @@ https://mpv.io/
 
 367
 00:24:15,230 --> 00:24:18,810
-<font face="Al-Jazeera-Arabic-Bold" size="70"><font size="70">مارشال دي تيتش
+<font face="Al-Jazeera-Arabic-Bold" size="70"><font size="70">{Marshall D. "Blackbeard" Teach
+Blackbeard Pirate Captain~OG}مارشال دي تيتش
 «اللحية السوداء»
-قبطان قراصنة اللّحية السّوداء</font></font>
+قبطان قراصنة اللّحية السّوداء{~PJ}</font></font>
 
 368
 00:24:15,230 --> 00:24:18,810
-<font face="Al-Jazeera-Arabic-Bold" size="70"><font size="70"><font color="#f7f7f9">مارشال دي تيتش
+<font face="Al-Jazeera-Arabic-Bold" size="70"><font size="70"><font color="#f7f7f9">{Marshall D. "Blackbeard" Teach
+Blackbeard Pirate Captain~OG}مارشال دي تيتش
 «اللحية السوداء»
-قبطان قراصنة اللّحية السّوداء</font></font></font>
+قبطان قراصنة اللّحية السّوداء{~PJ}</font></font></font>
 
 369
 00:24:21,230 --> 00:24:24,780
-<font face="Al-Jazeera-Arabic-Bold" size="70"><font size="70">فان أوغر
+<font face="Al-Jazeera-Arabic-Bold" size="70"><font size="70">{"Supersonic" Van Augur
+Blackbeard Pirate Sniper~OG}فان أوغر
 «ذو سرعة الضوء»
-قنّاص قراصنة اللّحية السّوداء</font></font>
+قنّاص قراصنة اللّحية السّوداء{~PJ}</font></font>
 
 370
 00:24:21,230 --> 00:24:24,780
-<font face="Al-Jazeera-Arabic-Bold" size="70"><font size="70"><font color="#fef9ff">فان أوغر
+<font face="Al-Jazeera-Arabic-Bold" size="70"><font size="70"><font color="#fef9ff">{"Supersonic" Van Augur
+Blackbeard Pirate Sniper~OG}فان أوغر
 «ذو سرعة الضوء»
-قنّاص قراصنة اللّحية السّوداء</font></font></font>
+قنّاص قراصنة اللّحية السّوداء{~PJ}</font></font></font>
 
 371
 00:24:24,780 --> 00:24:30,820
@@ -1640,13 +1653,15 @@ https://mpv.io/
 
 372
 00:24:30,820 --> 00:24:34,790
-<font face="Al-Jazeera-Arabic-Bold" size="70"><font size="70">دوك كيو
+<font face="Al-Jazeera-Arabic-Bold" size="70"><font size="70">{Doc Q "the Reaper"
+Blackbeard Pirate Doctor~OG}دوك كيو
 «حاصد الأرواح»
-طبيب قراصنة اللّحية السّوداء</font></font>
+طبيب قراصنة اللّحية السّوداء{~PJ}</font></font>
 
 373
 00:24:30,820 --> 00:24:34,790
-<font face="Al-Jazeera-Arabic-Bold" size="70"><font size="70"><font color="#fef9ff">دوك كيو
+<font face="Al-Jazeera-Arabic-Bold" size="70"><font size="70"><font color="#fef9ff">{Doc Q "the Reaper"
+Blackbeard Pirate Doctor~OG}دوك كيو
 «حاصد الأرواح»
-طبيب قراصنة اللّحية السّوداء</font></font></font>
+طبيب قراصنة اللّحية السّوداء{~PJ}</font></font></font>
 

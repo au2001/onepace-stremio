@@ -9,80 +9,80 @@ https://mpv.io/
 
 2
 00:00:54,190 --> 00:00:57,320
-<font face="Khalid Art bold" size="60">مونتاج</font>
+<font face="Khalid Art bold" size="60">{\an7}مونتاج</font>
 
 3
 00:00:54,190 --> 00:00:57,320
-<font face="FOT-Greco Std B Strp" size="43"><b>Sewil</b></font>
+<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}Sewil</b></font>
 
 4
 00:00:57,320 --> 00:01:00,040
-<font face="Khalid Art bold" size="60">جرافيك</font>
+<font face="Khalid Art bold" size="60">{\an7}جرافيك</font>
 
 5
 00:00:57,320 --> 00:01:00,040
-<font face="FOT-Greco Std B Strp" size="43"><b>Datenshi</b></font>
+<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}Datenshi</b></font>
 
 6
 00:01:00,040 --> 00:01:03,240
-<font face="Khalid Art bold" size="60">ضبط الجودة</font>
+<font face="Khalid Art bold" size="60">{\an7}ضبط الجودة</font>
 
 7
 00:01:00,040 --> 00:01:03,240
-<font face="FOT-Greco Std B Strp" size="43"><b>Galaxy 9000
+<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}Galaxy 9000
 Pepperjack
 Zenef</b></font>
 
 8
 00:01:03,240 --> 00:01:06,490
-<font face="Khalid Art bold" size="60">كاريوكي</font>
+<font face="Khalid Art bold" size="60">{\an7}كاريوكي</font>
 
 9
 00:01:03,240 --> 00:01:06,490
-<font face="FOT-Greco Std B Strp" size="43"><b>KaitouYahiko</b></font>
+<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}KaitouYahiko</b></font>
 
 10
 00:01:06,490 --> 00:01:09,300
-<font face="Khalid Art bold" size="60">الصوت</font>
+<font face="Khalid Art bold" size="60">{\an7}الصوت</font>
 
 11
 00:01:06,490 --> 00:01:09,300
-<font face="FOT-Greco Std B Strp" size="43"><b>Halee</b></font>
+<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}Halee</b></font>
 
 12
 00:01:09,300 --> 00:01:12,520
-<font face="Khalid Art bold" size="60">مزامنة الترجمة</font>
+<font face="Khalid Art bold" size="60">{\an7}مزامنة الترجمة</font>
 
 13
 00:01:09,300 --> 00:01:12,520
-<font face="FOT-Greco Std B Strp" size="43"><b>Gab
+<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}Gab
 Galaxy 9000
 Raven-</b></font>
 
 14
 00:01:12,520 --> 00:01:15,330
-<font face="Khalid Art bold" size="60">محاكاة</font>
+<font face="Khalid Art bold" size="60">{\an7}محاكاة</font>
 
 15
 00:01:12,520 --> 00:01:15,330
-<font face="FOT-Greco Std B Strp" size="43"><b>Gab</b></font>
+<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}Gab</b></font>
 
 16
 00:01:15,330 --> 00:01:18,520
-<font face="Khalid Art bold" size="60">التدقيق اللغوي</font>
+<font face="Khalid Art bold" size="60">{\an7}التدقيق اللغوي</font>
 
 17
 00:01:15,330 --> 00:01:18,520
-<font face="FOT-Greco Std B Strp" size="43"><b>Raven-
+<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}Raven-
 FiberAhmed</b></font>
 
 18
 00:01:18,520 --> 00:01:21,230
-<font face="Khalid Art bold" size="60">ترجمة</font>
+<font face="Khalid Art bold" size="60">{\an7}ترجمة</font>
 
 19
 00:01:18,520 --> 00:01:21,230
-<font face="FOT-Greco Std B Strp" size="43"><b>Crunchyroll</b></font>
+<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}Crunchyroll</b></font>
 
 20
 00:01:49,710 --> 00:01:59,710
@@ -209,7 +209,10 @@ https://mpv.io/
 
 49
 00:03:41,410 --> 00:03:44,790
-<font face="Bahij Nassim" size="111"><b>!كلّا يا لوفي! النّحل الدّبّ سامّ للغاية</b></font>
+<font face="Bahij Nassim" size="111"><b>{No, Luffy!
+Bear-bees are really poisonous!-OG}{No, Luffy!
+Bear-bees are super venomous! - AR- Venomous strikes again}{THAT ASIAN VARIETY OF INSECT
+GONNA STING YOU REAL GOOD BUDDY - Poppy - Sadly turned down for space and accuracy reasons :(}!كلّا يا لوفي! النّحل الدّبّ سامّ للغاية{AR}</b></font>
 
 50
 00:03:45,790 --> 00:03:47,290
@@ -244,7 +247,7 @@ https://mpv.io/
 
 57
 00:04:20,210 --> 00:04:21,010
-<font face="Hacen Digital Arabia LT" size="60">النّصل الكبير القاطع</font>
+<font face="Hacen Digital Arabia LT" size="60">{\an8}النّصل الكبير القاطع</font>
 
 58
 00:04:20,210 --> 00:04:21,010
@@ -272,7 +275,7 @@ https://mpv.io/
 
 64
 00:04:42,300 --> 00:04:44,510
-<font face="Hacen Digital Arabia LT" size="60">سونار الدّمار</font>
+<font face="Hacen Digital Arabia LT" size="60">{\an8}سونار الدّمار</font>
 
 65
 00:04:42,300 --> 00:04:44,510
@@ -304,7 +307,7 @@ https://mpv.io/
 
 72
 00:05:09,970 --> 00:05:11,210
-<font face="Hacen Digital Arabia LT" size="60">النّابض</font>
+<font face="Hacen Digital Arabia LT" size="60">{\an8}النّابض</font>
 
 73
 00:05:09,970 --> 00:05:11,210
@@ -312,7 +315,7 @@ https://mpv.io/
 
 74
 00:05:13,500 --> 00:05:15,850
-<font face="Hacen Digital Arabia LT" size="60">القانص</font>
+<font face="Hacen Digital Arabia LT" size="60">{\an8}القانص</font>
 
 75
 00:05:13,500 --> 00:05:15,850
@@ -494,7 +497,7 @@ https://mpv.io/
 
 116
 00:08:39,750 --> 00:08:43,210
-<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>!مهلًا أيّها العمّ! أخبرنا ما حدث أوّلًا</b></font>
+<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>{\an8}!مهلًا أيّها العمّ! أخبرنا ما حدث أوّلًا</b></font>
 
 117
 00:08:44,150 --> 00:08:48,840

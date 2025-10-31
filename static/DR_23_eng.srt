@@ -32,7 +32,7 @@
 
 9
 00:00:23,750 --> 00:00:28,070
-<font face="Times New Roman" size="34">Translation & initial timing
+<font face="Times New Roman" size="34">{\an1}Translation & initial timing
 Yibis</font>
 
 10
@@ -41,7 +41,7 @@ Yibis</font>
 
 11
 00:00:28,160 --> 00:00:32,160
-<font face="Times New Roman" size="34">Timing
+<font face="Times New Roman" size="34">{\an1}Timing
 Halee</font>
 
 12
@@ -50,7 +50,7 @@ Halee</font>
 
 13
 00:00:34,660 --> 00:00:37,600
-<font face="Times New Roman" size="34">Quality-checking
+<font face="Times New Roman" size="34">{\an1}Quality-checking
 Sewil
 Galaxy 9000
 Halee</font>
@@ -61,7 +61,7 @@ Halee</font>
 
 15
 00:00:39,020 --> 00:00:42,640
-<font face="Times New Roman" size="34">Soundtracking
+<font face="Times New Roman" size="34">{\an1}Soundtracking
 Halee</font>
 
 16
@@ -70,12 +70,12 @@ Halee</font>
 
 17
 00:00:45,870 --> 00:00:48,560
-<font face="Times New Roman" size="34">Video editing
+<font face="Times New Roman" size="34">{\an1}Video editing
 Sewil</font>
 
 18
 00:00:45,870 --> 00:00:48,560
-<font face="Times New Roman" size="34">Raw provider
+<font face="Times New Roman" size="34">{\an1}Raw provider
 GS-Raws</font>
 
 19
@@ -164,7 +164,7 @@ GS-Raws</font>
 
 40
 00:02:02,970 --> 00:02:06,410
-<font face="Impress BT" size="55">We weren't going to actually give that prize to anyone! </font>
+<font face="Impress BT" size="55">We weren't going to actually give that prize to anyone! {...Then why did you ACTUALLY PUT IT IN THE CHEST? -Starfish}{Cecil: XDDDDD}</font>
 
 41
 00:02:23,460 --> 00:02:27,260
@@ -216,7 +216,7 @@ GS-Raws</font>
 
 53
 00:03:13,440 --> 00:03:17,440
-<font face="Impress BT" size="55">You're a man, right? Save yourself!</font>
+<font face="Impress BT" size="55">You're a man, right? Save yourself!{...Say, wasn't there a thread on the forum about whether or not One Piece is sexist? Because I find Sabo's attitude here rather sexist. -Starfish}{Cecil: I sort of get the feeling he's referring to his reputation as a powerful pirate + stuff too. Misogynist pigs.}{I'm just pissed because I can't get MY scalemail bikini to contain my boobs when I swordfight. I just made up the sexism thing to feel better about my own shortcomings. -Kae}</font>
 
 54
 00:03:17,980 --> 00:03:20,980
@@ -260,7 +260,7 @@ GS-Raws</font>
 
 64
 00:03:56,150 --> 00:03:58,620
-<font face="Impress BT" size="55">I'm using your technique!</font>
+<font face="Impress BT" size="55">I'm using your technique!{Xemnas: Come up with your own techniques you lazy bum}</font>
 
 65
 00:04:00,850 --> 00:04:02,620
@@ -392,7 +392,7 @@ GS-Raws</font>
 
 97
 00:07:17,350 --> 00:07:20,850
-<font face="Impress BT" size="55"><i>Are we... seeing... </i></font>
+<font face="Impress BT" size="55"><i>Are we... seeing... {Ah, there we have the common One Piece Hive Mind Syndrome again. Hundreds of people somehow managing to speak in perfect unison despite taking several pauses in their sentences.}{Cecil: I love it XD}</i></font>
 
 98
 00:07:20,850 --> 00:07:24,620
@@ -568,7 +568,7 @@ Hack</font>
 
 140
 00:10:42,650 --> 00:10:45,960
-<font face="Impress BT" size="55">We're warriors from the revolutionary army. </font>
+<font face="Impress BT" size="55">{\an8}We're warriors from the revolutionary army. {Cecil: It dosen't say Fishman Karate substitute teacher on Koala? That's kinda a shame, since I thought that was a cool fact}</font>
 
 141
 00:10:47,830 --> 00:10:49,900
@@ -790,7 +790,7 @@ so unlocking this is tricky.</font>
 
 194
 00:14:56,370 --> 00:14:57,400
-<font face="Impress BT" size="55">It's the stone guy. </font>
+<font face="Impress BT" size="55">It's the stone guy. {Xemnas: I was just waiting for someone to stomp on his head and say "Shut up!" when he was doing the whole evil laugh.}</font>
 
 195
 00:14:57,400 --> 00:14:58,210
@@ -846,7 +846,7 @@ so unlocking this is tricky.</font>
 
 208
 00:15:55,370 --> 00:15:59,340
-<font face="Impress BT" size="55">What are we gonna do? 
+<font face="Impress BT" size="55">{\an8}What are we gonna do? 
  The guys who were toys...</font>
 
 209
@@ -895,7 +895,7 @@ so unlocking this is tricky.</font>
 
 220
 00:16:56,660 --> 00:16:58,000
-<font face="Impress BT" size="55">Robin-san! </font>
+<font face="Impress BT" size="55">Robin-san! {LET ME BURY MY FACE IN YOUR DISPROPORTIONATELY MASSIVE TITS!}{Cecil: Wow, she really does exactly that.}{can you blame her?}</font>
 
 221
 00:16:58,830 --> 00:17:00,520
@@ -976,7 +976,7 @@ In front of the Rampart Tower</font>
 
 240
 00:18:07,370 --> 00:18:09,070
-<font face="Impress BT" size="55">You freak! </font>
+<font face="Impress BT" size="55">You freak! {Xemnas: Fixed, but I think the wording needs a bit of work.}{Cecil: idk what the raw trans is, but would something like "Freaky Bastard!" (No idea if he says bastard) or even "You freak!"}</font>
 
 241
 00:18:12,070 --> 00:18:16,410
@@ -1032,7 +1032,7 @@ In front of the Rampart Tower</font>
 
 254
 00:19:39,620 --> 00:19:41,630
-<font face="Impress BT" size="55">What is that clone?!</font>
+<font face="Impress BT" size="55">What is that clone?!{I sure do love how the animation isn't making it obvious at all what that Doffy-clone is. For the record, he did NOT have a massive coil of strings covering his severed neck in the manga. -Starfish}{Xemnas: Anime and their censorship laws...}</font>
 
 255
 00:19:44,500 --> 00:19:45,600
@@ -1040,7 +1040,7 @@ In front of the Rampart Tower</font>
 
 256
 00:19:48,500 --> 00:19:51,240
-<font face="Impress BT" size="55">It looks like a marionette made of strings.</font>
+<font face="Impress BT" size="55">It looks like a marionette made of strings.{damn, ain't she clever. -kae}</font>
 
 257
 00:19:51,240 --> 00:19:54,170
@@ -1060,7 +1060,7 @@ In front of the Rampart Tower</font>
 
 261
 00:20:10,760 --> 00:20:15,530
-<font face="Impress BT" size="55"><i>Please stop this!</i></font>
+<font face="Impress BT" size="55"><i>Please stop this!{Copy-paste from 660}</i></font>
 
 262
 00:20:17,950 --> 00:20:20,950
@@ -1068,7 +1068,7 @@ In front of the Rampart Tower</font>
 
 263
 00:20:20,950 --> 00:20:24,100
-<font face="Impress BT" size="55">What of it?! </font>
+<font face="Impress BT" size="55">What of it?! {TLC  pls double check the timing of this. Should this cover the "oboiteita na"?}{Xemnas: It's good as it is. and yes it should cover those words as well.}</font>
 
 264
 00:20:24,100 --> 00:20:29,370
@@ -1141,7 +1141,7 @@ In front of the Rampart Tower</font>
 281
 00:22:43,980 --> 00:22:47,680
 <font face="Impress BT" size="55">How should I know?!  
-Anyway, we gotta get off the island! </font>
+Anyway, we gotta get off the island! {I bet this guy is gonna be the pirate king. Just look at that 'stache.}</font>
 
 282
 00:22:47,680 --> 00:22:52,320

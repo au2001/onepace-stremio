@@ -28,7 +28,7 @@
 
 8
 00:00:23,750 --> 00:00:28,070
-<font face="Impress BT" size="34">Translation & initial timing
+<font face="Impress BT" size="34">{\an1}Translation & initial timing
 <font size="40">Yibis</font></font>
 
 9
@@ -37,7 +37,7 @@
 
 10
 00:00:28,160 --> 00:00:32,160
-<font face="Impress BT" size="34">Timing
+<font face="Impress BT" size="34">{\an1}Timing
 <font size="40">Sewil
 Galaxy 9000</font></font>
 
@@ -47,7 +47,7 @@ Galaxy 9000</font></font>
 
 12
 00:00:34,660 --> 00:00:37,600
-<font face="Impress BT" size="34">Quality-checking
+<font face="Impress BT" size="34">{\an1}Quality-checking
 <font size="40">Sewil
 Galaxy 9000
 Halee</font></font>
@@ -58,7 +58,7 @@ Halee</font></font>
 
 14
 00:00:39,020 --> 00:00:42,640
-<font face="Impress BT" size="34">Soundtracking
+<font face="Impress BT" size="34">{\an1}Soundtracking
 <font size="40">Halee</font></font>
 
 15
@@ -67,11 +67,11 @@ Halee</font></font>
 
 16
 00:00:45,870 --> 00:00:48,560
-<font face="Impress BT" size="34">Video editing         <font size="40">Sewil</font></font>
+<font face="Impress BT" size="34">{\an1}Video editing         <font size="40">Sewil</font></font>
 
 17
 00:00:45,870 --> 00:00:48,560
-<font face="Impress BT" size="34">Raw provider      <font size="40">GS-Raws</font></font>
+<font face="Impress BT" size="34">{\an1}Raw provider      <font size="40">GS-Raws</font></font>
 
 18
 00:00:51,200 --> 00:00:56,050
@@ -288,7 +288,7 @@ certain pirate is always there.</font>
 
 71
 00:05:24,480 --> 00:05:25,270
-<font face="Impress BT" size="55">He fell asleep?! </font>
+<font face="Impress BT" size="55">He fell asleep?! {Xemnas: Post QC change, changed this to better fit what was being shown as he was awake moments before.}</font>
 
 72
 00:06:25,520 --> 00:06:27,600
@@ -429,7 +429,7 @@ certain pirate is always there.</font>
 106
 00:08:48,610 --> 00:08:56,310
 <font face="Impress BT" size="55"><i>Regarding the worldwide announcement of Doflamingo
- renouncing his throne and title as a Warlord...</i></font>
+ renouncing his throne and title as a Warlord...{Copy-paste from 642}</i></font>
 
 107
 00:08:56,810 --> 00:08:58,650
@@ -437,7 +437,7 @@ certain pirate is always there.</font>
 
 108
 00:08:58,650 --> 00:09:00,080
-<font face="Impress BT" size="55"><i>The information was incorrect.</i></font>
+<font face="Impress BT" size="55"><i>The information was incorrect.{End copy-paste from 642}</i></font>
 
 109
 00:09:01,100 --> 00:09:04,120
@@ -685,7 +685,7 @@ certain pirate is always there.</font>
 
 170
 00:12:50,680 --> 00:12:57,460
-<font face="Impress BT" size="55">The four commanders who were meant to participate in the finals are unfortunately unable to do so. </font>
+<font face="Impress BT" size="55">The four commanders who were meant to participate in the finals are unfortunately unable to do so. {Halee: Shall we put "unfortunately" at the beginning of the sentence (with a comma, of course)?}</font>
 
 171
 00:13:00,860 --> 00:13:03,800
@@ -805,7 +805,7 @@ certain pirate is always there.</font>
 
 200
 00:14:43,960 --> 00:14:46,800
-<font face="Impress BT" size="55">Aren't you the woman our cook went off with earlier? </font>
+<font face="Impress BT" size="55">Aren't you the woman our cook went off with earlier? {Cecil: Is this the 1st time Zoro has referred to Sanji without an insult? XD}</font>
 
 201
 00:14:46,800 --> 00:14:47,750
@@ -813,11 +813,11 @@ certain pirate is always there.</font>
 
 202
 00:14:48,180 --> 00:14:49,100
-<font face="Impress BT" size="55"><i>Black Leg.</i></font>
+<font face="Impress BT" size="55"><i>Black Leg.{Copy-paste from 652}</i></font>
 
 203
 00:14:50,650 --> 00:14:53,010
-<font face="Impress BT" size="55"><i>My precious Violet-chan!</i></font>
+<font face="Impress BT" size="55"><i>My precious Violet-chan!{End copy-paste from 652}</i></font>
 
 204
 00:14:53,540 --> 00:14:56,220
@@ -865,7 +865,7 @@ certain pirate is always there.</font>
 
 215
 00:15:27,060 --> 00:15:29,540
-<font face="Impress BT" size="55">Did you forget about my powers? </font>
+<font face="Impress BT" size="55">Did you forget about my powers? {Yet she didn't know Wicca was in Zoro's costume?}{Cecil: Holy shit, that's true!!}</font>
 
 216
 00:15:29,540 --> 00:15:32,970
@@ -881,7 +881,7 @@ certain pirate is always there.</font>
 
 219
 00:15:42,820 --> 00:15:44,690
-<font face="Impress BT" size="55">I saw it all! </font>
+<font face="Impress BT" size="55">I saw it all! {So does her clairvoyance-powers also allow her to HEAR the things she's spying on? I mean I have to assume so because otherwise it'd be a bit weird that she'd know the details of their plan. -Starfish}</font>
 
 220
 00:15:45,910 --> 00:15:48,830
@@ -953,7 +953,7 @@ certain pirate is always there.</font>
 
 237
 00:17:00,240 --> 00:17:02,170
-<font face="Impress BT" size="55">There are stairs as well.</font>
+<font face="Impress BT" size="55">There are stairs as well.{Okay seriously, has Kin'emon been hanging around Legolas from Lord of the Rings lately? Because he sure seems to have picked up a knack for stating the glaringly obvious. -Starfish}</font>
 
 238
 00:17:02,580 --> 00:17:07,980
@@ -1049,7 +1049,7 @@ certain pirate is always there.</font>
 
 261
 00:18:37,030 --> 00:18:38,450
-<font face="Impress BT" size="55">I can't... </font>
+<font face="Impress BT" size="55">I can't... {we should make this "I can't even..." ^^}</font>
 
 262
 00:18:38,450 --> 00:18:40,330
@@ -1165,7 +1165,7 @@ certain pirate is always there.</font>
 
 290
 00:20:28,810 --> 00:20:31,440
-<font face="Impress BT" size="55">I missed again -<i>in.</i></font>
+<font face="Impress BT" size="55">{\an8}I missed again -<i>in.</i></font>
 
 291
 00:20:29,100 --> 00:20:34,110
@@ -1174,7 +1174,7 @@ Machvise</font></font></font>
 
 292
 00:20:31,440 --> 00:20:34,110
-<font face="Impress BT" size="55">You sure are fast -<i>in.</i></font>
+<font face="Impress BT" size="55">{\an8}You sure are fast -<i>in.</i></font>
 
 293
 00:20:34,110 --> 00:20:37,100
@@ -1210,7 +1210,7 @@ Machvise</font></font></font>
 
 301
 00:21:02,140 --> 00:21:05,130
-<font face="Impress BT" size="55">The Navy has made their move. </font>
+<font face="Impress BT" size="55">The Navy has made their move. {Cecil: "The Suit Chamber? Can we get a slightly different TL?}{Xemnas: It does sound weird, but it represents the 4 suits in trump cards and I don't know what else we could change it to.}</font>
 
 302
 00:21:05,130 --> 00:21:10,950
@@ -1267,7 +1267,7 @@ Chamber</font>
 
 315
 00:22:18,240 --> 00:22:23,200
-<font face="Impress BT" size="55">There once was an incident when a certain pirate attempted to take over a country. </font>
+<font face="Impress BT" size="55">There once was an incident when a certain pirate attempted to take over a country. {Cecil: I wonder if he means Arabasta?}</font>
 
 316
 00:22:23,200 --> 00:22:29,030
@@ -1315,7 +1315,7 @@ Chamber</font>
 
 327
 00:23:18,480 --> 00:23:22,950
-<font face="Impress BT" size="55">This is the year the World Council Meeting Reverie will be held. </font>
+<font face="Impress BT" size="55">This is the year the World Council Meeting Reverie will be held. {Well, finally they acknowledged the name of the meeting. Seriously, this thing was mentioned rather frequently back during Fishman Island, but not once was it ever referred to as anything other than "the world council meeting". Even though the name "Reverie" was established in the manga the very first time it was brought up. -Starfish}{Cecil: In the manga here, they just call it the Reverie.}</font>
 
 328
 00:23:26,340 --> 00:23:30,240

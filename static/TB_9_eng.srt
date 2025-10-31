@@ -20,7 +20,7 @@
 
 6
 00:00:23,480 --> 00:00:28,960
-<font face="Times New Roman" size="34">Translation & initial syncing
+<font face="Times New Roman" size="34">{\an1}Translation & initial syncing
 <font size="40">Vegapunk Fansubs</font></font>
 
 7
@@ -33,7 +33,7 @@
 
 9
 00:00:29,360 --> 00:00:34,510
-<font face="Times New Roman" size="34">Syncing
+<font face="Times New Roman" size="34">{\an1}Syncing
 <font size="40">Galaxy 9000
 
 </font>Sync-checking
@@ -45,7 +45,7 @@
 
 11
 00:00:35,570 --> 00:00:40,740
-<font face="Times New Roman" size="34">Quality checking
+<font face="Times New Roman" size="34">{\an1}Quality checking
 <font size="40">Sewil</font></font>
 
 12
@@ -54,17 +54,17 @@
 
 13
 00:00:40,900 --> 00:00:44,120
-<font face="Times New Roman" size="34">Video editing
+<font face="Times New Roman" size="34">{\an1}Video editing
 <font size="40">Sewil</font></font>
 
 14
 00:00:44,290 --> 00:00:47,500
-<font face="Times New Roman" size="34">Title card artist
+<font face="Times New Roman" size="34">{\an1}Title card artist
 <font size="40">horizonofdreams.deviantart.com</font></font>
 
 15
 00:00:44,290 --> 00:00:47,500
-<font face="Times New Roman" size="34">Soundtracking
+<font face="Times New Roman" size="34">{\an1}Soundtracking
 <font size="40">Halee</font></font>
 
 16
@@ -157,7 +157,7 @@
 
 38
 00:02:30,120 --> 00:02:38,680
-<font face="impress bt" size="63" color="#fefefe"><b>The Hope and Despair of the Skeleton
+<font face="impress bt" size="63" color="#fefefe"><b>{\an5}The Hope and Despair of the Skeleton
 and the Straw Hats' Counterattack!</b></font>
 
 39
@@ -594,7 +594,7 @@ and the Straw Hats' Counterattack!</b></font>
 
 147
 00:08:24,560 --> 00:08:26,220
-<font face="Impress BT" size="55"><i>Take care, Laboon! </i></font>
+<font face="Impress BT" size="55"><i>Take care, Laboon! {I cant understand this so i kinda randomly timed it.. check it please-campa}</i></font>
 
 148
 00:08:26,220 --> 00:08:31,150
@@ -1622,13 +1622,13 @@ and the Straw Hats' Counterattack!</b></font>
 
 404
 00:23:25,860 --> 00:23:29,300
-<font face="Impress BT" size="55"><font size="35">Heading to
+<font face="Impress BT" size="55"><font size="35">{\an6}Heading to
 Moriah's
 Dance Hall</font></font>
 
 405
 00:23:25,860 --> 00:23:29,300
-<font face="Impress BT" size="55"><font size="35">Heading to
+<font face="Impress BT" size="55"><font size="35">{\an6}Heading to
 Perona's
 Room</font></font>
 

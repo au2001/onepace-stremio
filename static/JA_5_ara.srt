@@ -9,81 +9,81 @@ https://mpv.io/
 
 2
 00:00:54,190 --> 00:00:57,320
-<font face="Khalid Art bold" size="60">مونتاج</font>
+<font face="Khalid Art bold" size="60">{\an7}مونتاج</font>
 
 3
 00:00:54,190 --> 00:00:57,320
-<font face="FOT-Greco Std B Strp" size="43"><b>Sewil</b></font>
+<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}Sewil</b></font>
 
 4
 00:00:57,320 --> 00:01:00,040
-<font face="Khalid Art bold" size="60">جرافيك</font>
+<font face="Khalid Art bold" size="60">{\an7}جرافيك</font>
 
 5
 00:00:57,320 --> 00:01:00,040
-<font face="FOT-Greco Std B Strp" size="43"><b>Datenshi</b></font>
+<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}Datenshi</b></font>
 
 6
 00:01:00,040 --> 00:01:03,240
-<font face="Khalid Art bold" size="60">ضبط الجودة</font>
+<font face="Khalid Art bold" size="60">{\an7}ضبط الجودة</font>
 
 7
 00:01:00,040 --> 00:01:03,240
-<font face="FOT-Greco Std B Strp" size="43"><b>Galaxy 9000
+<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}Galaxy 9000
 Pepperjack
 Zenef
 PhosCity</b></font>
 
 8
 00:01:03,240 --> 00:01:06,490
-<font face="Khalid Art bold" size="60">كاريوكي</font>
+<font face="Khalid Art bold" size="60">{\an7}كاريوكي</font>
 
 9
 00:01:03,240 --> 00:01:06,490
-<font face="FOT-Greco Std B Strp" size="43"><b>KaitouYahiko</b></font>
+<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}KaitouYahiko</b></font>
 
 10
 00:01:06,490 --> 00:01:09,300
-<font face="Khalid Art bold" size="60">الصوت</font>
+<font face="Khalid Art bold" size="60">{\an7}الصوت</font>
 
 11
 00:01:06,490 --> 00:01:09,300
-<font face="FOT-Greco Std B Strp" size="43"><b>Halee</b></font>
+<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}Halee</b></font>
 
 12
 00:01:09,300 --> 00:01:12,520
-<font face="Khalid Art bold" size="60">مزامنة الترجمة</font>
+<font face="Khalid Art bold" size="60">{\an7}مزامنة الترجمة</font>
 
 13
 00:01:09,300 --> 00:01:12,520
-<font face="FOT-Greco Std B Strp" size="43"><b>Gab
+<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}Gab
 Galaxy 9000
 Raven-</b></font>
 
 14
 00:01:12,520 --> 00:01:15,330
-<font face="Khalid Art bold" size="60">محاكاة</font>
+<font face="Khalid Art bold" size="60">{\an7}محاكاة</font>
 
 15
 00:01:12,520 --> 00:01:15,330
-<font face="FOT-Greco Std B Strp" size="43"><b>Gab</b></font>
+<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}Gab</b></font>
 
 16
 00:01:15,330 --> 00:01:18,520
-<font face="Khalid Art bold" size="60">التدقيق اللغوي</font>
+<font face="Khalid Art bold" size="60">{\an7}التدقيق اللغوي</font>
 
 17
 00:01:15,330 --> 00:01:18,520
-<font face="FOT-Greco Std B Strp" size="43"><b>Raven-
+<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}Raven-
 FiberAhmed</b></font>
 
 18
 00:01:18,520 --> 00:01:21,230
-<font face="Khalid Art bold" size="60">ترجمة</font>
+<font face="Khalid Art bold" size="60">{\an7}ترجمة</font>
 
 19
 00:01:18,520 --> 00:01:21,230
-<font face="FOT-Greco Std B Strp" size="43"><b>Crunchyroll</b></font>
+<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}Crunchyroll</b></font>
 
 20
 00:01:49,760 --> 00:01:54,680
@@ -265,7 +265,7 @@ https://mpv.io/
 
 60
 00:03:50,200 --> 00:03:52,590
-<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>!أديروا الدّفّة مباشرةً للسحب</b></font>
+<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>{\an8}!أديروا الدّفّة مباشرةً للسحب{PP}{timing}</b></font>
 
 61
 00:03:53,050 --> 00:03:56,260
@@ -273,7 +273,7 @@ https://mpv.io/
 
 62
 00:03:53,380 --> 00:03:57,180
-<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>!أديروا الدّفّة مباشرة للسحب</b></font>
+<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>{\an8}!أديروا الدّفّة مباشرة للسحب{PP}{timing}</b></font>
 
 63
 00:03:56,260 --> 00:03:58,550
@@ -282,7 +282,7 @@ https://mpv.io/
 
 64
 00:03:57,180 --> 00:03:58,550
-<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>...أديروا الدّفّة مـ</b></font>
+<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>{\an8}...أديروا الدّفّة مـ{WF+PP}{timing}</b></font>
 
 65
 00:04:00,430 --> 00:04:01,810
@@ -463,7 +463,7 @@ https://mpv.io/
 
 104
 00:06:43,860 --> 00:06:44,760
-<font face="Bahij Nassim" size="111"><b>...علمتُ ذلك</b></font>
+<font face="Bahij Nassim" size="111"><b>{How did I know?-OG}{Should've known...-WF}...علمتُ ذلك{Z}</b></font>
 
 105
 00:06:44,760 --> 00:06:49,260
@@ -767,15 +767,15 @@ https://mpv.io/
 
 175
 00:10:45,670 --> 00:10:47,750
-<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>!سيأكلني</b></font>
+<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>{\an8}!سيأكلني{PP}{Might need timing}</b></font>
 
 176
 00:10:53,170 --> 00:10:55,050
-<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>!ابتعد عني</b></font>
+<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>{\an8}!ابتعد عني{PP}</b></font>
 
 177
 00:10:55,050 --> 00:10:56,250
-<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>!حان دوري</b></font>
+<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>{\an8}!حان دوري{PP}</b></font>
 
 178
 00:10:58,100 --> 00:11:00,430
@@ -897,13 +897,15 @@ https://mpv.io/
 
 205
 00:12:43,580 --> 00:12:47,410
-<font face="Bahij Nassim" size="111"><b>لكنّ الوقت العابر الّذي اختبرناه»
- من هذه الحضارة الّتي ازدهرت</b></font>
+<font face="Bahij Nassim" size="111"><b>{"...but experiencing the transience
+of this civilization that flourished-OG}لكنّ الوقت العابر الّذي اختبرناه»
+ من هذه الحضارة الّتي ازدهرت{WF+Gaijin}</b></font>
 
 206
 00:12:47,410 --> 00:12:51,040
-<font face="Bahij Nassim" size="111"><b>لوقت طويل في البحر الواسع 
-!تركنا عاجزين عن الكلام</b></font>
+<font face="Bahij Nassim" size="111"><b>{for a long time on the wide
+open sea left us speechless!-OG}لوقت طويل في البحر الواسع 
+!تركنا عاجزين عن الكلام{WF+Gaijin}</b></font>
 
 207
 00:12:51,040 --> 00:12:54,940
@@ -1290,17 +1292,17 @@ https://mpv.io/
 
 296
 00:17:24,770 --> 00:17:30,150
-<font face="Al-Jazeera-Arabic-Bold" size="70"><font size="80">الفريق الأول
-سانجي – أوسوب – نامي</font></font>
+<font face="Al-Jazeera-Arabic-Bold" size="70"><font size="80">{Nami - Sanji - Usopp - OG}الفريق الأول
+سانجي – أوسوب – نامي{PP+PJ}</font></font>
 
 297
 00:17:24,770 --> 00:17:30,150
-<font face="Al-Jazeera-Arabic-Bold" size="70"><font size="80">الفريق الأول
-سانجي – أوسوب – نامي</font></font>
+<font face="Al-Jazeera-Arabic-Bold" size="70"><font size="80">{Nami - Sanji - Usopp - OG}الفريق الأول
+سانجي – أوسوب – نامي{PP+PJ}</font></font>
 
 298
 00:17:26,530 --> 00:17:30,150
-<font face="Bahij Nassim" size="111"><b>،لا تقلقي! مهما كان ما سنلقاه
+<font face="Bahij Nassim" size="111"><b>{\an8}،لا تقلقي! مهما كان ما سنلقاه
 !فسأحميك يا نامي-سان</b></font>
 
 299
@@ -1411,21 +1413,21 @@ https://mpv.io/
 
 323
 00:18:54,110 --> 00:18:57,240
-<font face="Al-Jazeera-Arabic-Bold" size="70"><font size="80">الفريق الثاني
-زورو – روبين</font></font>
+<font face="Al-Jazeera-Arabic-Bold" size="70"><font size="80">{Robin - Zoro-OG}الفريق الثاني
+زورو – روبين{PP+PJ}</font></font>
 
 324
 00:18:54,110 --> 00:18:57,240
-<font face="Al-Jazeera-Arabic-Bold" size="70"><font size="80">الفريق الثاني
-زورو – روبين</font></font>
+<font face="Al-Jazeera-Arabic-Bold" size="70"><font size="80">{Robin - Zoro-OG}الفريق الثاني
+زورو – روبين{PP+PJ}</font></font>
 
 325
 00:18:54,710 --> 00:18:56,050
-<font face="Bahij Nassim" size="111"><b>...أسمع صرخات</b></font>
+<font face="Bahij Nassim" size="111"><b>{\an8}...أسمع صرخات</b></font>
 
 326
 00:18:56,050 --> 00:18:57,240
-<font face="Bahij Nassim" size="111"><b>انسي أمرهم</b></font>
+<font face="Bahij Nassim" size="111"><b>{\an8}انسي أمرهم</b></font>
 
 327
 00:19:01,620 --> 00:19:04,830
@@ -1470,25 +1472,25 @@ https://mpv.io/
 
 337
 00:19:34,400 --> 00:19:37,110
-<font face="Bahij Nassim" size="111"><b>!انظر يا تشوبر! إنّها أطلس</b></font>
+<font face="Bahij Nassim" size="111"><b>{\an8}!انظر يا تشوبر! إنّها أطلس</b></font>
 
 338
 00:19:35,700 --> 00:19:40,280
-<font face="Al-Jazeera-Arabic-Bold" size="70"><font size="80">الفريق الثالث
-لوفي – تشوبر</font></font>
+<font face="Al-Jazeera-Arabic-Bold" size="70"><font size="80">{Luffy - Chopper - OG}الفريق الثالث
+لوفي – تشوبر{PJ}</font></font>
 
 339
 00:19:35,700 --> 00:19:40,280
-<font face="Al-Jazeera-Arabic-Bold" size="70"><font size="80">الفريق الثالث
-لوفي – تشوبر</font></font>
+<font face="Al-Jazeera-Arabic-Bold" size="70"><font size="80">{Luffy - Chopper - OG}الفريق الثالث
+لوفي – تشوبر{PJ}</font></font>
 
 340
 00:19:37,110 --> 00:19:37,910
-<font face="Bahij Nassim" size="111"><b>أطلس؟</b></font>
+<font face="Bahij Nassim" size="111"><b>أ{\an8}طلس؟</b></font>
 
 341
 00:19:37,910 --> 00:19:42,870
-<font face="Bahij Nassim" size="111"><b>نعم! خنافس أطلس وهرقل من أكثر الحشرات 
+<font face="Bahij Nassim" size="111"><b>{\an8}نعم! خنافس أطلس وهرقل من أكثر الحشرات 
 !الّتي تحظى بالإعجاب في العالم</b></font>
 
 342

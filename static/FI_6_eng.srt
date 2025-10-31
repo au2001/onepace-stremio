@@ -48,7 +48,7 @@
 
 13
 00:00:39,780 --> 00:00:43,040
-<font face="Times New Roman" size="34">Translation & initial timing
+<font face="Times New Roman" size="34">{\an1}Translation & initial timing
 <font size="40">Yibis Fansubs</font></font>
 
 14
@@ -57,7 +57,7 @@
 
 15
 00:00:45,210 --> 00:00:48,810
-<font face="Times New Roman" size="34">Timing
+<font face="Times New Roman" size="34">{\an1}Timing
 <font size="40">Galaxy 9000
 
 </font>Time-checking
@@ -69,7 +69,7 @@
 
 17
 00:00:50,170 --> 00:00:54,230
-<font face="Times New Roman" size="34">Quality-checking
+<font face="Times New Roman" size="34">{\an1}Quality-checking
 <font size="40">Sewil
 Galaxy 9000</font></font>
 
@@ -79,7 +79,7 @@ Galaxy 9000</font></font>
 
 19
 00:00:54,560 --> 00:00:58,750
-<font face="Times New Roman" size="34">Soundtracking
+<font face="Times New Roman" size="34">{\an1}Soundtracking
 <font size="40">Halee</font></font>
 
 20
@@ -104,7 +104,7 @@ Galaxy 9000</font></font>
 
 25
 00:01:16,390 --> 00:01:18,490
-<font face="Times New Roman" size="34">Video editing
+<font face="Times New Roman" size="34">{\an1}Video editing
 <font size="40">Sewil</font></font>
 
 26
@@ -177,7 +177,7 @@ Galaxy 9000</font></font>
 
 43
 00:02:30,000 --> 00:02:38,840
-<font face="impress bt" size="63" color="#fefefe"><b>The Mermaid Princess in Hard-Shell Tower!
+<font face="impress bt" size="63" color="#fefefe"><b>{\an5}The Mermaid Princess in Hard-Shell Tower!
 Shirahoshi of the Neptune Family!</b></font>
 
 44
@@ -187,7 +187,7 @@ Great Monk Wadatsumi <font size="28">(Giant Puffer Fishman)</font></font>
 
 45
 00:02:41,260 --> 00:02:43,310
-<font face="Impress BT" size="55">Wadatsumi.</font>
+<font face="Impress BT" size="55">{\an8}Wadatsumi.</font>
 
 46
 00:02:45,490 --> 00:02:48,350
@@ -235,7 +235,7 @@ Great Monk Wadatsumi <font size="28">(Giant Puffer Fishman)</font></font>
 
 57
 00:03:34,250 --> 00:03:37,850
-<font face="Impress BT" size="55">I presume!</font>
+<font face="Impress BT" size="55">{\an8}I presume!</font>
 
 58
 00:03:35,030 --> 00:03:39,430
@@ -248,7 +248,7 @@ Vander Decken IX</font>
 
 60
 00:03:37,850 --> 00:03:40,040
-<font face="Impress BT" size="55">Princess Shirahoshi!</font>
+<font face="Impress BT" size="55">{\an8}Princess Shirahoshi!</font>
 
 61
 00:03:40,040 --> 00:03:47,640
@@ -268,7 +268,7 @@ Vander Decken IX</font>
 
 65
 00:04:02,840 --> 00:04:07,090
-<font face="Impress BT" size="55">It's either "Death or Marriage" for you!   </font>
+<font face="Impress BT" size="55">It's either "Death or Marriage" for you! {Overly literal translations FTL.} {Gil: Fucking Engrish} {Death or Marriage / Dead or Marriage ? ugh.}</font>
 
 66
 00:04:07,740 --> 00:04:12,530
@@ -564,7 +564,7 @@ since he has set me as his target.</font>
 
 136
 00:08:58,850 --> 00:09:03,440
-<font face="Impress BT" size="55">I'm not even allowed to take a single step outside Hard-Shell Tower. </font>
+<font face="Impress BT" size="55">I'm not even allowed to take a single step outside Hard-Shell Tower. { def: "single step"? maybe "set a single fin" }</font>
 
 137
 00:09:07,620 --> 00:09:09,960
@@ -584,7 +584,7 @@ since he has set me as his target.</font>
 
 141
 00:09:18,020 --> 00:09:21,290
-<font face="Impress BT" size="55">for five minutes at a time.    </font>
+<font face="Impress BT" size="55">for five minutes at a time. {...WHY?! I mean, I get that he wants to protect her from the guy who can telekinetically throw giant axes at her, but why the hell is he also refusing to let her have more than five minutes of contact with other people at a time?!}  {To prevent the door for being opened for too long? -FAb} {Gil: Because one can't simply go in the room, close the door behind themselves, talk to her for however long they want, then leave and close the door on the way out... no... okay.}</font>
 
 142
 00:09:21,850 --> 00:09:23,200
@@ -699,11 +699,11 @@ have you gone on adventures and such?</font>
 169
 00:10:51,660 --> 00:10:55,880
 <font face="Impress BT" size="55">Wait, wait!
-You're asking too many questions!  Wait a second! </font>
+You're asking too many questions!  Wait a second! {Also why is my head suddenly the same size as my body? Also what the hell is wrong with your face?}{ def: rubber man... }</font>
 
 170
 00:10:55,880 --> 00:10:56,640
-<font face="Impress BT" size="55">Alright. </font>
+<font face="Impress BT" size="55">Alright. { def: timing? }</font>
 
 171
 00:10:57,430 --> 00:10:59,770
@@ -829,7 +829,7 @@ I'll just blow it all away!</font>
 
 201
 00:12:44,790 --> 00:12:47,850
-<font face="Impress BT" size="55">Usopp-chin!  Nami-chin!  Brook-chin!</font>
+<font face="Impress BT" size="55">{\an8}Usopp-chin!  Nami-chin!  Brook-chin!</font>
 
 202
 00:12:44,820 --> 00:12:47,850
@@ -958,7 +958,7 @@ the Black Kabuto!</font>
 
 232
 00:14:47,500 --> 00:14:50,120
-<font face="Impress BT" size="55">Wait right there, Wadatsumi.</font>
+<font face="Impress BT" size="55">{\an8}Wait right there, Wadatsumi.</font>
 
 233
 00:14:49,480 --> 00:14:52,720
@@ -966,7 +966,7 @@ the Black Kabuto!</font>
 
 234
 00:14:50,120 --> 00:14:52,720
-<font face="Impress BT" size="55">Right, understood.</font>
+<font face="Impress BT" size="55">{\an8}Right, understood.</font>
 
 235
 00:14:54,840 --> 00:14:57,780
@@ -1301,7 +1301,7 @@ the New World with such a simple Pose.</font>
 
 316
 00:19:23,410 --> 00:19:28,480
-<font face="Impress BT" size="55" color="#d6d6d6">Akkamanbo!  Yay!  Yay!</font>
+<font face="Impress BT" size="55" color="#d6d6d6">{\an8}Akkamanbo!  Yay!  Yay!</font>
 
 317
 00:19:24,000 --> 00:19:26,120
@@ -1313,7 +1313,7 @@ the New World with such a simple Pose.</font>
 
 319
 00:19:29,750 --> 00:19:31,680
-<font face="Impress BT" size="55">Hello, who is this? </font>
+<font face="Impress BT" size="55">Hello, who is this? { def: maybe we should have a style for voice from speaker }</font>
 
 320
 00:19:32,820 --> 00:19:34,120
@@ -1575,19 +1575,19 @@ Coral Hill</font>
 
 383
 00:22:46,420 --> 00:22:47,790
-<font face="Impress BT" size="55">They really did it!</font>
+<font face="Impress BT" size="55">{\an8}They really did it!</font>
 
 384
 00:22:47,790 --> 00:22:51,480
-<font face="Impress BT" size="55">Apparently the Straw Hat Pirates have occupied Ryuuguu Palace!</font>
+<font face="Impress BT" size="55">{\an8}Apparently the Straw Hat Pirates have occupied Ryuuguu Palace!</font>
 
 385
 00:22:51,480 --> 00:22:52,320
-<font face="Impress BT" size="55">What?!</font>
+<font face="Impress BT" size="55">{\an8}What?!</font>
 
 386
 00:22:52,320 --> 00:22:54,600
-<font face="Impress BT" size="55">What's their objective?!</font>
+<font face="Impress BT" size="55">{\an8}What's their objective?!</font>
 
 387
 00:22:54,600 --> 00:22:58,500
@@ -1670,11 +1670,11 @@ Things are progressing in that direction!</font>
 
 406
 00:24:06,360 --> 00:24:09,200
-<font face="Impress BT" size="55">Hey!  Are you done thinking yet?</font>
+<font face="Impress BT" size="55">{\an8}Hey!  Are you done thinking yet?</font>
 
 407
 00:24:09,200 --> 00:24:10,760
-<font face="Impress BT" size="55">Let's go outside!</font>
+<font face="Impress BT" size="55">{\an8}Let's go outside!</font>
 
 408
 00:24:10,760 --> 00:24:13,200

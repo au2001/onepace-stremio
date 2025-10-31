@@ -1,167 +1,167 @@
 1
 00:00:26,260 --> 00:00:31,820
-<font face="Khalid Art bold" size="60"><font color="#000000">مونتاج</font></font>
+<font face="Khalid Art bold" size="60">{\an7}<font color="#000000">مونتاج</font></font>
 
 2
 00:00:26,260 --> 00:00:31,820
-<font face="Khalid Art bold" size="60">مونتاج</font>
+<font face="Khalid Art bold" size="60">{\an7}مونتاج</font>
 
 3
 00:00:26,260 --> 00:00:31,820
-<font face="Khalid Art bold" size="60">مونتاج</font>
+<font face="Khalid Art bold" size="60">{\an7}مونتاج</font>
 
 4
 00:00:26,260 --> 00:00:31,820
-<font face="Khalid Art bold" size="60"><font color="#000000">Galaxy 9000</font></font>
+<font face="Khalid Art bold" size="60">{\an7}<font color="#000000">Galaxy 9000</font></font>
 
 5
 00:00:26,260 --> 00:00:31,820
-<font face="Khalid Art bold" size="60">Galaxy 9000</font>
+<font face="Khalid Art bold" size="60">{\an7}Galaxy 9000</font>
 
 6
 00:00:32,530 --> 00:00:36,980
-<font face="Khalid Art bold" size="60"><font color="#000000">جرافيك</font></font>
+<font face="Khalid Art bold" size="60">{\an7}<font color="#000000">جرافيك</font></font>
 
 7
 00:00:32,530 --> 00:00:36,980
-<font face="Khalid Art bold" size="60">جرافيك</font>
+<font face="Khalid Art bold" size="60">{\an7}جرافيك</font>
 
 8
 00:00:32,530 --> 00:00:36,980
-<font face="Khalid Art bold" size="60">جرافيك</font>
+<font face="Khalid Art bold" size="60">{\an7}جرافيك</font>
 
 9
 00:00:32,530 --> 00:00:36,980
-<font face="Khalid Art bold" size="60"><font color="#000000">Datenshi</font></font>
+<font face="Khalid Art bold" size="60">{\an7}<font color="#000000">Datenshi</font></font>
 
 10
 00:00:32,530 --> 00:00:36,980
-<font face="Khalid Art bold" size="60">Datenshi</font>
+<font face="Khalid Art bold" size="60">{\an7}Datenshi</font>
 
 11
 00:00:37,100 --> 00:00:40,980
-<font face="Khalid Art bold" size="60"><font color="#000000">كاريوكي</font></font>
+<font face="Khalid Art bold" size="60">{\an7}<font color="#000000">كاريوكي</font></font>
 
 12
 00:00:37,100 --> 00:00:40,980
-<font face="Khalid Art bold" size="60">كاريوكي</font>
+<font face="Khalid Art bold" size="60">{\an7}كاريوكي</font>
 
 13
 00:00:37,100 --> 00:00:40,980
-<font face="Khalid Art bold" size="60">كاريوكي</font>
+<font face="Khalid Art bold" size="60">{\an7}كاريوكي</font>
 
 14
 00:00:37,100 --> 00:00:40,980
-<font face="Khalid Art bold" size="60"><font color="#000000">KaitouYahiko</font></font>
+<font face="Khalid Art bold" size="60">{\an7}<font color="#000000">KaitouYahiko</font></font>
 
 15
 00:00:37,100 --> 00:00:40,980
-<font face="Khalid Art bold" size="60">KaitouYahiko</font>
+<font face="Khalid Art bold" size="60">{\an7}KaitouYahiko</font>
 
 16
 00:00:42,480 --> 00:00:47,110
-<font face="Khalid Art bold" size="60"><font color="#000000">ضبط الجودة</font></font>
+<font face="Khalid Art bold" size="60">{\an7}<font color="#000000">ضبط الجودة</font></font>
 
 17
 00:00:42,480 --> 00:00:47,110
-<font face="Khalid Art bold" size="60">ضبط الجودة</font>
+<font face="Khalid Art bold" size="60">{\an7}ضبط الجودة</font>
 
 18
 00:00:42,480 --> 00:00:47,110
-<font face="Khalid Art bold" size="60">ضبط الجودة</font>
+<font face="Khalid Art bold" size="60">{\an7}ضبط الجودة</font>
 
 19
 00:00:42,480 --> 00:00:47,110
-<font face="Khalid Art bold" size="60"><font color="#000000">Pepperjack         PhosCity
+<font face="Khalid Art bold" size="60">{\an7}<font color="#000000">Pepperjack         PhosCity
 Zenef</font></font>
 
 20
 00:00:42,480 --> 00:00:47,110
-<font face="Khalid Art bold" size="60">Pepperjack         PhosCity
+<font face="Khalid Art bold" size="60">{\an7}Pepperjack         PhosCity
 Zenef</font>
 
 21
 00:00:55,080 --> 00:01:02,420
-<font face="Khalid Art bold" size="60"><font color="#000000">Halee                               الصوت</font></font>
+<font face="Khalid Art bold" size="60">{\an7}<font color="#000000">Halee                               الصوت</font></font>
 
 22
 00:00:55,080 --> 00:01:02,420
-<font face="Khalid Art bold" size="60">Halee                               الصوت</font>
+<font face="Khalid Art bold" size="60">{\an7}Halee                               الصوت</font>
 
 23
 00:00:55,080 --> 00:01:02,420
-<font face="Khalid Art bold" size="60"><font color="#000000">Halee                               الصوت</font></font>
+<font face="Khalid Art bold" size="60">{\an7}<font color="#000000">Halee                               الصوت</font></font>
 
 24
 00:00:55,080 --> 00:01:02,420
-<font face="Khalid Art bold" size="60">Halee                               الصوت</font>
+<font face="Khalid Art bold" size="60">{\an7}Halee                               الصوت</font>
 
 25
 00:01:02,420 --> 00:01:06,440
-<font face="Khalid Art bold" size="60"><font color="#000000">مزامنة الترجمة</font></font>
+<font face="Khalid Art bold" size="60">{\an7}<font color="#000000">مزامنة الترجمة</font></font>
 
 26
 00:01:02,420 --> 00:01:06,440
-<font face="Khalid Art bold" size="60">مزامنة الترجمة</font>
+<font face="Khalid Art bold" size="60">{\an7}مزامنة الترجمة</font>
 
 27
 00:01:02,420 --> 00:01:06,440
-<font face="Khalid Art bold" size="60">مزامنة الترجمة</font>
+<font face="Khalid Art bold" size="60">{\an7}مزامنة الترجمة</font>
 
 28
 00:01:02,420 --> 00:01:06,440
-<font face="Khalid Art bold" size="60"><font color="#000000">PhosCity          Raven-
+<font face="Khalid Art bold" size="60">{\an7}<font color="#000000">PhosCity          Raven-
 Gab
 Qasim</font></font>
 
 29
 00:01:02,420 --> 00:01:06,440
-<font face="Khalid Art bold" size="60">PhosCity          Raven-
+<font face="Khalid Art bold" size="60">{\an7}PhosCity          Raven-
 Gab
 Qasim</font>
 
 30
 00:01:35,120 --> 00:01:38,790
-<font face="Khalid Art bold" size="60"><font color="#000000">التدقيق اللغوي</font></font>
+<font face="Khalid Art bold" size="60">{\an7}<font color="#000000">التدقيق اللغوي</font></font>
 
 31
 00:01:35,120 --> 00:01:38,790
-<font face="Khalid Art bold" size="60">التدقيق اللغوي</font>
+<font face="Khalid Art bold" size="60">{\an7}التدقيق اللغوي</font>
 
 32
 00:01:35,120 --> 00:01:38,790
-<font face="Khalid Art bold" size="60">التدقيق اللغوي</font>
+<font face="Khalid Art bold" size="60">{\an7}التدقيق اللغوي</font>
 
 33
 00:01:35,120 --> 00:01:38,790
-<font face="Khalid Art bold" size="60"><font color="#000000">Qasim
+<font face="Khalid Art bold" size="60">{\an7}<font color="#000000">Qasim
 Raven-</font></font>
 
 34
 00:01:35,120 --> 00:01:38,790
-<font face="Khalid Art bold" size="60">Qasim
+<font face="Khalid Art bold" size="60">{\an7}Qasim
 Raven-</font>
 
 35
 00:01:38,930 --> 00:01:43,100
-<font face="Khalid Art bold" size="60"><font color="#000000">ترجمة</font></font>
+<font face="Khalid Art bold" size="60">{\an7}<font color="#000000">ترجمة</font></font>
 
 36
 00:01:38,930 --> 00:01:43,100
-<font face="Khalid Art bold" size="60">ترجمة</font>
+<font face="Khalid Art bold" size="60">{\an7}ترجمة</font>
 
 37
 00:01:38,930 --> 00:01:43,100
-<font face="Khalid Art bold" size="60">ترجمة</font>
+<font face="Khalid Art bold" size="60">{\an7}ترجمة</font>
 
 38
 00:01:38,930 --> 00:01:43,100
-<font face="Khalid Art bold" size="60"><font color="#000000">Crunchyroll
+<font face="Khalid Art bold" size="60">{\an7}<font color="#000000">Crunchyroll
 3asqmanga</font></font>
 
 39
 00:01:38,930 --> 00:01:43,100
-<font face="Khalid Art bold" size="60">Crunchyroll
+<font face="Khalid Art bold" size="60">{\an7}Crunchyroll
 3asqmanga</font>
 
 40
@@ -174,17 +174,17 @@ Raven-</font>
 
 42
 00:01:57,560 --> 00:02:02,520
-<font face="Al-Jazeera-Arabic-Bold" size="70"><font size="90">جزيرة حوض بناء السفن
+<font face="Al-Jazeera-Arabic-Bold" size="70">{\an2}<font size="90">{Shipyard Island}جزيرة حوض بناء السفن
 مدخل المحطة الزرقاء</font></font>
 
 43
 00:01:57,560 --> 00:02:02,520
-<font face="Al-Jazeera-Arabic-Bold" size="70"><font size="90">جزيرة حوض بناء السفن
+<font face="Al-Jazeera-Arabic-Bold" size="70">{\an2}<font size="90">{Shipyard Island}جزيرة حوض بناء السفن
 مدخل المحطة الزرقاء</font></font>
 
 44
 00:01:57,560 --> 00:02:02,520
-<font face="Al-Jazeera-Arabic-Bold" size="70"><font size="90">جزيرة حوض بناء السفن
+<font face="Al-Jazeera-Arabic-Bold" size="70">{\an2}<font size="90">{Shipyard Island}جزيرة حوض بناء السفن
 مدخل المحطة الزرقاء</font></font>
 
 45
@@ -365,15 +365,15 @@ Raven-</font>
 
 88
 00:04:54,730 --> 00:05:01,160
-<font face="Al-Jazeera-Arabic-Bold" size="70"><font size="90">أنقاض شركة غاليلا</font></font>
+<font face="Al-Jazeera-Arabic-Bold" size="70">{\an2}<font size="90">{Ruins of Galley la Company}أنقاض شركة غاليلا</font></font>
 
 89
 00:04:54,730 --> 00:05:01,160
-<font face="Al-Jazeera-Arabic-Bold" size="70"><font size="90"><font color="#fefefe">أنقاض شركة غاليلا</font></font></font>
+<font face="Al-Jazeera-Arabic-Bold" size="70">{\an2}<font size="90"><font color="#fefefe">{Ruins of Galley la Company}أنقاض شركة غاليلا</font></font></font>
 
 90
 00:04:54,730 --> 00:05:01,160
-<font face="Al-Jazeera-Arabic-Bold" size="70"><font size="90"><font color="#fefefe">أنقاض شركة غاليلا</font></font></font>
+<font face="Al-Jazeera-Arabic-Bold" size="70">{\an2}<font size="90"><font color="#fefefe">{Ruins of Galley la Company}أنقاض شركة غاليلا</font></font></font>
 
 91
 00:04:55,670 --> 00:04:58,670
@@ -1426,7 +1426,7 @@ Raven-</font>
 
 342
 00:21:22,050 --> 00:21:26,770
-<font face="Al-Jazeera-Arabic-Bold" size="70">نامي، اقرئي هذه رجاءً
+<font face="Al-Jazeera-Arabic-Bold" size="70">{\an8}نامي، اقرئي هذه رجاءً
 <font size="70">(إن لم تكن نامي، فلا تقرأها أيّها الغبيّ!)</font></font>
 
 343
@@ -1609,11 +1609,11 @@ Raven-</font>
 
 384
 00:24:22,120 --> 00:24:24,350
-<font face="Hacen Digital Arabia LT" size="60">ركلة العنق</font>
+<font face="Hacen Digital Arabia LT" size="60">{\an8}ركلة العنق</font>
 
 385
 00:24:22,120 --> 00:24:24,350
-<font face="K Farnaz" size="87"><b>كولير شوت</b></font>
+<font face="K Farnaz" size="87"><b>{Collier Shoot!}كولير شوت</b></font>
 
 386
 00:24:22,120 --> 00:24:24,350
@@ -1690,29 +1690,29 @@ Raven-</font>
 
 404
 00:25:26,630 --> 00:25:30,970
-<font face="Al-Jazeera-Arabic-Bold" size="70"><font size="90">«جيري»
+<font face="Al-Jazeera-Arabic-Bold" size="70">{\an2}<font size="90">«جيري»
 عميل استخباراتي في سي بي 6
 من جزيرة الكاراتيه</font></font>
 
 405
 00:25:26,630 --> 00:25:30,970
-<font face="Al-Jazeera-Arabic-Bold" size="70"><font size="90">«جيري»
+<font face="Al-Jazeera-Arabic-Bold" size="70">{\an2}<font size="90">«جيري»
 عميل استخباراتي في سي بي 6
 من جزيرة الكاراتيه</font></font>
 
 406
 00:25:26,630 --> 00:25:30,970
-<font face="Al-Jazeera-Arabic-Bold" size="70"><font size="90">«جيري»
+<font face="Al-Jazeera-Arabic-Bold" size="70">{\an2}<font size="90">«جيري»
 عميل استخباراتي في سي بي 6
 من جزيرة الكاراتيه</font></font>
 
 407
 00:25:27,400 --> 00:25:29,500
-<font face="Bahij Nassim" size="111"><b>أنا موجود</b></font>
+<font face="Bahij Nassim" size="111"><b>{\an8}أنا موجود</b></font>
 
 408
 00:25:29,500 --> 00:25:30,970
-<font face="Bahij Nassim" size="111"><b>جيري-سان</b></font>
+<font face="Bahij Nassim" size="111"><b>{\an8}جيري-سان</b></font>
 
 409
 00:25:35,980 --> 00:25:42,370
@@ -1738,15 +1738,15 @@ Raven-</font>
 
 414
 00:25:57,060 --> 00:26:01,770
-<font face="Hacen Digital Arabia LT" size="60">طعنات وميض الشّفق القطبيّ لجيري</font>
+<font face="Hacen Digital Arabia LT" size="60">{\an8}طعنات وميض الشّفق القطبيّ لجيري</font>
 
 415
 00:25:57,060 --> 00:26:01,770
-<font face="K Farnaz" size="87"><b>جيري أورورا فليكر جاب</b></font>
+<font face="K Farnaz" size="87"><b>{Jerry... Aurora Flicker... Jab!}جيري أورورا فليكر جاب</b></font>
 
 416
 00:25:57,060 --> 00:26:01,770
-<font face="K Farnaz" size="87"><b>جيري أورورا فليكر جاب</b></font>
+<font face="K Farnaz" size="87"><b>{Jerry... Aurora Flicker... Jab!}جيري أورورا فليكر جاب</b></font>
 
 417
 00:26:02,580 --> 00:26:05,290
@@ -1792,27 +1792,27 @@ Raven-</font>
 
 427
 00:26:33,090 --> 00:26:35,820
-<font face="Hacen Digital Arabia LT" size="60">...قفزة</font>
+<font face="Hacen Digital Arabia LT" size="60">{\an8}...قفزة</font>
 
 428
 00:26:33,090 --> 00:26:35,820
-<font face="K Farnaz" size="87"><b>سكريو</b></font>
+<font face="K Farnaz" size="87"><b>{Screw...}سكريو</b></font>
 
 429
 00:26:33,090 --> 00:26:35,820
-<font face="K Farnaz" size="87"><b>سكريو</b></font>
+<font face="K Farnaz" size="87"><b>{Screw...}سكريو</b></font>
 
 430
 00:26:35,820 --> 00:26:38,370
-<font face="Hacen Digital Arabia LT" size="60">الرّكلة اللّولبيّة</font>
+<font face="Hacen Digital Arabia LT" size="60">{\an8}الرّكلة اللّولبيّة</font>
 
 431
 00:26:35,820 --> 00:26:38,370
-<font face="K Farnaz" size="87"><b>دروب كِكُ</b></font>
+<font face="K Farnaz" size="87"><b>{Drop Kick!}دروب كِكُ</b></font>
 
 432
 00:26:35,820 --> 00:26:38,370
-<font face="K Farnaz" size="87"><b>دروب كِكُ</b></font>
+<font face="K Farnaz" size="87"><b>{Drop Kick!}دروب كِكُ</b></font>
 
 433
 00:26:38,370 --> 00:26:40,500
@@ -1824,15 +1824,15 @@ Raven-</font>
 
 435
 00:26:46,730 --> 00:26:48,500
-<font face="Hacen Digital Arabia LT" size="60">سيخ الشّوي</font>
+<font face="Hacen Digital Arabia LT" size="60">{\an8}سيخ الشّوي</font>
 
 436
 00:26:46,730 --> 00:26:48,500
-<font face="K Farnaz" size="87"><b>بروشيت</b></font>
+<font face="K Farnaz" size="87"><b>{Brochette!}بروشيت</b></font>
 
 437
 00:26:46,730 --> 00:26:48,500
-<font face="K Farnaz" size="87"><b>بروشيت</b></font>
+<font face="K Farnaz" size="87"><b>{Brochette!}بروشيت</b></font>
 
 438
 00:26:58,650 --> 00:27:04,140

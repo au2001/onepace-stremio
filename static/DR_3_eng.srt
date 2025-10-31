@@ -28,7 +28,7 @@
 
 8
 00:00:23,750 --> 00:00:28,070
-<font face="Times New Roman" size="34">Translation & initial timing
+<font face="Times New Roman" size="34">{\an1}Translation & initial timing
 <font size="40">Tsuki
 Yibis (Opening)</font></font>
 
@@ -38,7 +38,7 @@ Yibis (Opening)</font></font>
 
 10
 00:00:28,150 --> 00:00:32,160
-<font face="Times New Roman" size="34">Timing
+<font face="Times New Roman" size="34">{\an1}Timing
 <font size="40">Sewil
 Galaxy 9000
 
@@ -51,13 +51,13 @@ Galaxy 9000
 
 12
 00:00:34,660 --> 00:00:37,600
-<font face="Times New Roman" size="34">Quality-checking
+<font face="Times New Roman" size="34">{\an1}Quality-checking
 <font size="40">Sewil
 Galaxy 9000</font></font>
 
 13
 00:00:39,030 --> 00:00:42,630
-<font face="Times New Roman" size="34">Soundtracking
+<font face="Times New Roman" size="34">{\an1}Soundtracking
 <font size="40">Halee</font></font>
 
 14
@@ -70,7 +70,7 @@ Galaxy 9000</font></font>
 
 16
 00:00:45,500 --> 00:00:48,170
-<font face="Times New Roman" size="34">Video editing
+<font face="Times New Roman" size="34">{\an1}Video editing
 <font size="40">Sewil</font></font>
 
 17
@@ -87,7 +87,7 @@ Galaxy 9000</font></font>
 
 20
 00:01:00,420 --> 00:01:04,520
-<font face="Times New Roman" size="34">Raw provider
+<font face="Times New Roman" size="34">{\an1}Raw provider
 <font size="40">Crunchyroll</font></font>
 
 21
@@ -180,7 +180,7 @@ Galaxy 9000</font></font>
 
 43
 00:02:30,030 --> 00:02:38,700
-<font face="impress bt" size="63" color="#fefefe"><b>The Colosseum of Many New Faces
+<font face="impress bt" size="63" color="#fefefe"><b>{\an5}The Colosseum of Many New Faces
 and Maynard's Pursuit!</b></font>
 
 44
@@ -239,7 +239,7 @@ Chinjao Family</font>
 
 57
 00:03:14,650 --> 00:03:16,760
-<font face="Impress BT" size="55">Hold it right there, you idiot!</font>
+<font face="Impress BT" size="55">{\an8}Hold it right there, you idiot!</font>
 
 58
 00:03:16,720 --> 00:03:20,260
@@ -253,7 +253,7 @@ Sai</font>
 
 60
 00:03:18,020 --> 00:03:23,080
-<font face="Impress BT" size="55">That big one started it! If you're gonna throw someone out, it's gonna to be him!</font>
+<font face="Impress BT" size="55">{\an8}That big one started it! If you're gonna throw someone out, it's gonna to be him!</font>
 
 61
 00:03:22,830 --> 00:03:24,750
@@ -262,7 +262,7 @@ Boo</font>
 
 62
 00:03:23,080 --> 00:03:24,750
-<font face="Impress BT" size="55">He's unconscious though.</font>
+<font face="Impress BT" size="55">{\an8}He's unconscious though.</font>
 
 63
 00:03:24,750 --> 00:03:27,740
@@ -336,11 +336,11 @@ Funk Brothers</font>
 
 80
 00:04:11,690 --> 00:04:17,300
-<font face="Impress BT" size="55">It's an international war for the devil fruit!</font>
+<font face="Impress BT" size="55">{\an8}It's an international war for the devil fruit!</font>
 
 81
 00:04:17,300 --> 00:04:20,200
-<font face="Impress BT" size="55">Ganging up and paying people off?</font>
+<font face="Impress BT" size="55">{\an8}Ganging up and paying people off?</font>
 
 82
 00:04:17,510 --> 00:04:22,010
@@ -349,11 +349,11 @@ Funk Brothers</font>
 
 83
 00:04:20,200 --> 00:04:22,010
-<font face="Impress BT" size="55">You make me sick!</font>
+<font face="Impress BT" size="55">{\an8}You make me sick!</font>
 
 84
 00:04:22,010 --> 00:04:24,660
-<font face="Impress BT" size="55">It's a one-on-one fight.</font>
+<font face="Impress BT" size="55">{\an8}It's a one-on-one fight.</font>
 
 85
 00:04:22,110 --> 00:04:28,040
@@ -362,11 +362,11 @@ Bobby Funk</font>
 
 86
 00:04:24,660 --> 00:04:29,980
-<font face="Impress BT" size="55">Even if you cheat like that, only one contestant per block can go to the next round.</font>
+<font face="Impress BT" size="55">{\an8}Even if you cheat like that, only one contestant per block can go to the next round.</font>
 
 87
 00:04:29,980 --> 00:04:32,580
-<font face="Impress BT" size="55">Cut the crap!</font>
+<font face="Impress BT" size="55">{\an8}Cut the crap!</font>
 
 88
 00:04:30,090 --> 00:04:36,100
@@ -375,15 +375,15 @@ Dagama</font>
 
 89
 00:04:32,580 --> 00:04:35,850
-<font face="Impress BT" size="55">I know you two are here on your country's orders, too!</font>
+<font face="Impress BT" size="55">{\an8}I know you two are here on your country's orders, too!</font>
 
 90
 00:04:35,850 --> 00:04:38,290
-<font face="Impress BT" size="55">Any country that has the Flame Fruit,</font>
+<font face="Impress BT" size="55">{\an8}Any country that has the Flame Fruit,</font>
 
 91
 00:04:38,290 --> 00:04:40,680
-<font face="Impress BT" size="55">which is more powerful than any weapon,</font>
+<font face="Impress BT" size="55">{\an8}which is more powerful than any weapon,</font>
 
 92
 00:04:38,800 --> 00:04:44,300
@@ -392,7 +392,7 @@ Elizabello II</font>
 
 93
 00:04:40,680 --> 00:04:44,300
-<font face="Impress BT" size="55">would give any country an advantage in diplomatic relations.</font>
+<font face="Impress BT" size="55">{\an8}would give any country an advantage in diplomatic relations.</font>
 
 94
 00:04:44,890 --> 00:04:49,150
@@ -518,7 +518,7 @@ do our best, everybody!</font>
 
 124
 00:06:48,390 --> 00:06:53,160
-<font face="Impress BT" size="55">This is awesome! Can we use anything here?!</font>
+<font face="Impress BT" size="55">{\an8}This is awesome! Can we use anything here?!</font>
 
 125
 00:06:48,570 --> 00:06:53,160
@@ -608,7 +608,7 @@ than that old man's!</font>
 
 146
 00:07:54,370 --> 00:07:58,410
-<font face="Impress BT" size="55">There is a weight limit for gear.</font>
+<font face="Impress BT" size="55">{\an8}There is a weight limit for gear.</font>
 
 147
 00:07:54,500 --> 00:07:58,410
@@ -895,7 +895,7 @@ a eight-meter-tall giant!</font>
 
 216
 00:11:31,920 --> 00:11:35,780
-<font face="Impress BT" size="55">Rebecca. I'm a gladiator.</font>
+<font face="Impress BT" size="55">{\an8}Rebecca. I'm a gladiator.</font>
 
 217
 00:11:34,510 --> 00:11:39,980
@@ -904,11 +904,11 @@ Rebecca</font>
 
 218
 00:11:35,780 --> 00:11:37,540
-<font face="Impress BT" size="55">Thank you for what you did earlier.</font>
+<font face="Impress BT" size="55">{\an8}Thank you for what you did earlier.</font>
 
 219
 00:11:37,540 --> 00:11:39,980
-<font face="Impress BT" size="55">I didn't like Spartan.</font>
+<font face="Impress BT" size="55">{\an8}I didn't like Spartan.</font>
 
 220
 00:11:41,380 --> 00:11:44,480
@@ -1123,7 +1123,7 @@ the fearful Emperor Blackbeard's pirate crew.</font>
 
 271
 00:14:58,380 --> 00:15:00,700
-<font face="Impress BT" size="55"><i>Burgess! Burgess! Burgess! Burgess!</i></font>
+<font face="Impress BT" size="55">{\an8}<i>Burgess! Burgess! Burgess! Burgess!</i></font>
 
 272
 00:14:59,190 --> 00:15:03,780
@@ -1132,7 +1132,7 @@ the fearful Emperor Blackbeard's pirate crew.</font>
 
 273
 00:15:00,700 --> 00:15:03,780
-<font face="Impress BT" size="55">The Blackbeard Pirates, huh?</font>
+<font face="Impress BT" size="55">{\an8}The Blackbeard Pirates, huh?</font>
 
 274
 00:15:03,780 --> 00:15:08,320
@@ -1203,7 +1203,7 @@ know where the factory is!</font>
 
 290
 00:15:42,220 --> 00:15:44,120
-<font face="Impress BT" size="55">"Pirate Mercenary" Hajrudin...</font>
+<font face="Impress BT" size="55">{\an8}"Pirate Mercenary" Hajrudin...</font>
 
 291
 00:15:44,120 --> 00:15:45,540
@@ -1247,7 +1247,7 @@ know where the factory is!</font>
 
 301
 00:16:09,480 --> 00:16:14,700
-<font face="Impress BT" size="55">Or were you talking with someone on the outside?</font>
+<font face="Impress BT" size="55">{\an8}Or were you talking with someone on the outside?</font>
 
 302
 00:16:10,060 --> 00:16:14,570
@@ -1256,7 +1256,7 @@ Bounty: 67,000,000 Belly</font>
 
 303
 00:16:14,700 --> 00:16:18,390
-<font face="Impress BT" size="55">You're strange!</font>
+<font face="Impress BT" size="55">{\an8}You're strange!</font>
 
 304
 00:16:15,230 --> 00:16:19,720
@@ -1326,7 +1326,7 @@ names, aren't there?</font>
 
 320
 00:17:16,900 --> 00:17:21,660
-<font face="Impress BT" size="55">And in the meantime, let's head for... uh...</font>
+<font face="Impress BT" size="55">{\an8}And in the meantime, let's head for... uh...</font>
 
 321
 00:17:19,860 --> 00:17:24,870
@@ -1334,11 +1334,11 @@ names, aren't there?</font>
 
 322
 00:17:21,660 --> 00:17:23,620
-<font face="Impress BT" size="55">What was the name?</font>
+<font face="Impress BT" size="55">{\an8}What was the name?</font>
 
 323
 00:17:23,620 --> 00:17:25,120
-<font face="Impress BT" size="55">It's Green Bit.</font>
+<font face="Impress BT" size="55">{\an8}It's Green Bit.</font>
 
 324
 00:17:25,000 --> 00:17:29,490
@@ -1347,11 +1347,11 @@ names, aren't there?</font>
 
 325
 00:17:25,120 --> 00:17:27,260
-<font face="Impress BT" size="55">Yes, let's go there.</font>
+<font face="Impress BT" size="55">{\an8}Yes, let's go there.</font>
 
 326
 00:17:27,260 --> 00:17:29,490
-<font face="Impress BT" size="55">And um...</font>
+<font face="Impress BT" size="55">{\an8}And um...</font>
 
 327
 00:17:29,490 --> 00:17:33,260
@@ -1409,11 +1409,11 @@ not the number of enemies...</font>
 
 340
 00:18:13,760 --> 00:18:17,070
-<font face="Impress BT" size="55">Oh, and earlier, I mentioned a name; "The Missionary" Gambia...</font>
+<font face="Impress BT" size="55">{\an8}Oh, and earlier, I mentioned a name; "The Missionary" Gambia...</font>
 
 341
 00:18:17,070 --> 00:18:19,500
-<font face="Impress BT" size="55">who works under Bartolomeo.</font>
+<font face="Impress BT" size="55">{\an8}who works under Bartolomeo.</font>
 
 342
 00:18:17,210 --> 00:18:21,380
@@ -1422,7 +1422,7 @@ Capman</font>
 
 343
 00:18:19,500 --> 00:18:21,380
-<font face="Impress BT" size="55">You can cross that out.</font>
+<font face="Impress BT" size="55">{\an8}You can cross that out.</font>
 
 344
 00:18:23,060 --> 00:18:24,650
@@ -1439,7 +1439,7 @@ Maynard the Pursuer</font>
 
 347
 00:18:31,420 --> 00:18:34,490
-<font face="Impress BT" size="55">I'll continue with the plan we have for here, also.</font>
+<font face="Impress BT" size="55">{\an8}I'll continue with the plan we have for here, also.</font>
 
 348
 00:18:36,930 --> 00:18:41,920
@@ -1452,7 +1452,7 @@ Caesar exchange team</font>
 
 350
 00:18:46,240 --> 00:18:48,510
-<font face="Impress BT" size="55">Green Bit?</font>
+<font face="Impress BT" size="55">{\an8}Green Bit?</font>
 
 351
 00:18:48,510 --> 00:18:51,410
@@ -1597,11 +1597,11 @@ Nobody is crossing it nowadays.</font>
 
 386
 00:20:43,780 --> 00:20:47,040
-<font face="Impress BT" size="55">The strongest intelligence organization in the world.</font>
+<font face="Impress BT" size="55">{\an8}The strongest intelligence organization in the world.</font>
 
 387
 00:20:47,040 --> 00:20:51,230
-<font face="Impress BT" size="55">Cipher Pol Aigis 0!</font>
+<font face="Impress BT" size="55">{\an8}Cipher Pol Aigis 0!</font>
 
 388
 00:20:51,230 --> 00:20:55,370
@@ -1753,7 +1753,7 @@ Sunny safety and security team</font>
 
 424
 00:23:43,280 --> 00:23:46,870
-<font face="Impress BT" size="55">All wrong! You shouldn't drink it all up!</font>
+<font face="Impress BT" size="55">{\an8}All wrong! You shouldn't drink it all up!</font>
 
 425
 00:23:46,870 --> 00:23:56,480
@@ -1777,11 +1777,11 @@ Sunny safety and security team</font>
 
 430
 00:24:02,750 --> 00:24:04,300
-<font face="Impress BT" size="55">Yes, sir!</font>
+<font face="Impress BT" size="55">{\an8}Yes, sir!</font>
 
 431
 00:24:04,300 --> 00:24:06,920
-<font face="Impress BT" size="55">I'll bring it to you right away, sir!</font>
+<font face="Impress BT" size="55">{\an8}I'll bring it to you right away, sir!</font>
 
 432
 00:24:04,400 --> 00:24:06,920

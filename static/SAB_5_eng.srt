@@ -12,12 +12,12 @@
 
 4
 00:00:31,890 --> 00:00:37,270
-<font face="FOT-Greco Std B" size="34">Translation
+<font face="FOT-Greco Std B" size="34">{\an4}Translation
 Yibis</font>
 
 5
 00:00:31,890 --> 00:00:37,270
-<font face="FOT-Greco Std B" size="34">Soundtracking
+<font face="FOT-Greco Std B" size="34">{\an4}Soundtracking
 Halee</font>
 
 6
@@ -26,22 +26,22 @@ Halee</font>
 
 7
 00:00:37,380 --> 00:00:42,140
-<font face="FOT-Greco Std B" size="34">Editing
+<font face="FOT-Greco Std B" size="34">{\an4}Editing
 Sewil</font>
 
 8
 00:00:37,380 --> 00:00:42,140
-<font face="FOT-Greco Std B" size="34">Infoboxes
+<font face="FOT-Greco Std B" size="34">{\an4}Infoboxes
 Sewil</font>
 
 9
 00:00:37,380 --> 00:00:42,140
-<font face="FOT-Greco Std B" size="34">Timing
+<font face="FOT-Greco Std B" size="34">{\an4}Timing
 Datenshi</font>
 
 10
 00:00:37,380 --> 00:00:42,140
-<font face="FOT-Greco Std B" size="34">Edit-checking
+<font face="FOT-Greco Std B" size="34">{\an4}Edit-checking
 Galaxy 9000</font>
 
 11
@@ -277,7 +277,7 @@ Grove 13</font>
 
 67
 00:03:53,640 --> 00:03:55,380
-<font face="Impress BT" size="55">Well then, we're here!</font>
+<font face="Impress BT" size="55">{\an8}Well then, we're here!</font>
 
 68
 00:03:58,360 --> 00:03:59,840
@@ -309,7 +309,7 @@ Grove 13</font>
 
 75
 00:04:18,790 --> 00:04:23,640
-<font face="Impress BT" size="38"><i>Shakki's Rip-off Bar</i></font>
+<font face="Impress BT" size="38"><i>{\an8}Shakki's Rip-off Bar</i></font>
 
 76
 00:04:20,400 --> 00:04:23,620
@@ -353,11 +353,11 @@ Grove 13</font>
 
 86
 00:04:48,740 --> 00:04:49,820
-<font face="Impress BT" size="55">Welcome.</font>
+<font face="Impress BT" size="55">{\an8}Welcome.</font>
 
 87
 00:04:50,380 --> 00:04:51,780
-<font face="Impress BT" size="55">What can I do for you?</font>
+<font face="Impress BT" size="55">{\an8}What can I do for you?</font>
 
 88
 00:04:52,480 --> 00:04:53,200
@@ -3142,11 +3142,11 @@ Roger Pirates</font>
 
 745
 00:43:48,820 --> 00:43:49,820
-<font face="Impress BT" size="55">I simply</font>
+<font face="Impress BT" size="55">{\an8}I simply</font>
 
 746
 00:43:50,760 --> 00:43:52,480
-<font face="Impress BT" size="55">love</font>
+<font face="Impress BT" size="55">{\an8}love</font>
 
 747
 00:43:52,360 --> 00:43:58,450
@@ -3161,5 +3161,5 @@ Silvers Rayleigh</font>
 
 748
 00:43:54,660 --> 00:43:56,380
-<font face="Impress BT" size="55">young girls.</font>
+<font face="Impress BT" size="55">{\an8}young girls.</font>
 

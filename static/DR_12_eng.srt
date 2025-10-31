@@ -28,7 +28,7 @@
 
 8
 00:00:23,750 --> 00:00:28,070
-<font face="Impress BT" size="34">Translation & initial timing
+<font face="Impress BT" size="34">{\an1}Translation & initial timing
 <font size="40">Yibis</font></font>
 
 9
@@ -37,7 +37,7 @@
 
 10
 00:00:28,150 --> 00:00:32,160
-<font face="Impress BT" size="34">Timing
+<font face="Impress BT" size="34">{\an1}Timing
 <font size="40">Galaxy 9000
 
 </font>Time-checking
@@ -49,14 +49,14 @@
 
 12
 00:00:34,660 --> 00:00:37,600
-<font face="Impress BT" size="34">Quality-checking
+<font face="Impress BT" size="34">{\an1}Quality-checking
 <font size="40">Sewil
 Galaxy 9000
 Halee</font></font>
 
 13
 00:00:39,030 --> 00:00:42,630
-<font face="Impress BT" size="34">Soundtracking
+<font face="Impress BT" size="34">{\an1}Soundtracking
 <font size="40">Halee</font></font>
 
 14
@@ -69,7 +69,7 @@ Halee</font></font>
 
 16
 00:00:45,500 --> 00:00:48,170
-<font face="Impress BT" size="34">Video editing
+<font face="Impress BT" size="34">{\an1}Video editing
 <font size="40">Sewil</font></font>
 
 17
@@ -86,7 +86,7 @@ Halee</font></font>
 
 20
 00:01:00,420 --> 00:01:04,520
-<font face="Impress BT" size="34">Raw provider
+<font face="Impress BT" size="34">{\an1}Raw provider
 <font size="40">Crunchyroll</font></font>
 
 21
@@ -103,7 +103,7 @@ Halee</font></font>
 
 24
 00:01:11,330 --> 00:01:15,140
-<font face="Impress BT" size="34">Meadows artist
+<font face="Impress BT" size="34">{\an1}Meadows artist
 <font size="40">lord-nadjib.deviantart.com</font></font>
 
 25
@@ -176,7 +176,7 @@ Halee</font></font>
 
 42
 00:02:30,060 --> 00:02:38,720
-<font face="impress bt" size="63" color="#fefefe"><b>D Block's Fiery Start and
+<font face="impress bt" size="63" color="#fefefe"><b>{\an5}D Block's Fiery Start and
 the Heavenly Demon's Revelation!</b></font>
 
 43
@@ -238,11 +238,11 @@ even more than Bartolomeo from Block B.</font>
 
 57
 00:03:41,180 --> 00:03:43,260
-<font face="Impress BT" size="55">What an ill mannered crowd! </font>
+<font face="Impress BT" size="55">What an ill mannered crowd! {Best. animation. ever.}</font>
 
 58
 00:03:43,260 --> 00:03:44,500
-<font face="Impress BT" size="55">I don't even want to look at you! </font>
+<font face="Impress BT" size="55">I don't even want to look at you! { def: i messed around with the timing here }</font>
 
 59
 00:03:44,860 --> 00:03:46,560
@@ -250,7 +250,7 @@ even more than Bartolomeo from Block B.</font>
 
 60
 00:03:50,830 --> 00:03:57,430
-<font face="Impress BT" size="55">Captain of the Beautiful Pirates,
+<font face="Impress BT" size="55">{\an8}Captain of the Beautiful Pirates,
 Cavendish the White Horse makes his entrance!</font>
 
 61
@@ -267,11 +267,11 @@ Cavendish the White Horse makes his entrance!</font>
 
 64
 00:04:06,090 --> 00:04:07,630
-<font face="Impress BT" size="55">Hey, get a hold of yourself! </font>
+<font face="Impress BT" size="55">Hey, get a hold of yourself! {FEELING A LITTLE INSECURE ALL THE SUDDEN, ARE WE?}</font>
 
 65
 00:04:07,630 --> 00:04:12,670
-<font face="Impress BT" size="55">All the ladies in the audience are fainting! </font>
+<font face="Impress BT" size="55">All the ladies in the audience are fainting! {So, why is HE blushing? SUSPICIOUS!!!!!!!}{ def: unconsious women excite him }</font>
 
 66
 00:04:12,670 --> 00:04:18,540
@@ -456,7 +456,7 @@ if they tried to interview me!</font>
 
 109
 00:06:53,990 --> 00:06:59,100
-<font face="Impress BT" size="55">Now, while all that was happening,
+<font face="Impress BT" size="55">{\an8}Now, while all that was happening,
 all the participants have finished entering in the ring!</font>
 
 110
@@ -475,7 +475,7 @@ Cavendish</font>
 
 113
 00:06:59,640 --> 00:07:04,340
-<font face="Impress BT" size="55">One contender has dropped out, so Block D has 137 participants!</font>
+<font face="Impress BT" size="55">{\an8}One contender has dropped out, so Block D has 137 participants!</font>
 
 114
 00:07:00,130 --> 00:07:01,200
@@ -562,7 +562,7 @@ Damask</font>
 
 133
 00:08:05,770 --> 00:08:12,110
-<font face="Impress BT" size="55">This battle is to restore the honor of King Riku, who was dethroned in shame ten years ago,</font>
+<font face="Impress BT" size="55">This battle is to restore the honor of King Riku, who was dethroned in shame ten years ago,{The second half of this line was originally in the line below. But since 1: this line is on screen for way longer, and 2: it matches the Japanese better this way, I moved it here. -Starfish}</font>
 
 134
 00:08:12,110 --> 00:08:15,440
@@ -597,7 +597,7 @@ and figure out the best time to run away.</font>
 
 141
 00:09:00,700 --> 00:09:04,650
-<font face="Impress BT" size="55">Left is the side that you don't have your swords on. </font>
+<font face="Impress BT" size="55">Left is the side that you don't have your swords on. {God this is awkward wording, fix please.}</font>
 
 142
 00:09:04,650 --> 00:09:07,150
@@ -630,7 +630,7 @@ a female commander of the Donquixote Family, Jora.</font>
 
 149
 00:09:36,390 --> 00:09:44,460
-<font face="Impress BT" size="55">Trébol, Diamante and Pica.
+<font face="Impress BT" size="55">Trébol, Diamante and Pica.{I've noticed that there seems to be some inconsistency with whether the annoying slimey dude's name is spelled as Trebol or Trébol. For the record I believe the latter would be more accurate, unless Oda has actually specified that it's meant to be spelled the other way. (Trébol is Spanish for clover, as in the card. Likewise, Pica is Spanish for spade, so I changed that too to fit the pun.) -Starfish}
 There's no way I could ever forget their faces.</font>
 
 150
@@ -727,7 +727,7 @@ There's no way I could ever forget their faces.</font>
 
 173
 00:10:49,990 --> 00:10:51,200
-<font face="Impress BT" size="55">This is so much fun! </font>
+<font face="Impress BT" size="55">This is so much fun! { This is such a mood whiplash! -Starfish }</font>
 
 174
 00:10:51,200 --> 00:10:55,320
@@ -776,7 +776,7 @@ I am an artist through and through.</font>
 184
 00:11:27,050 --> 00:11:31,270
 <font face="Impress BT" size="55">Don't bother trying to explain!
-These commoners will never understand, Soul King! </font>
+These commoners will never understand, Soul King! { def: 'philistines' plays into her snooty speech, but it may be too much (originally 'commoners') }</font>
 
 185
 00:11:31,270 --> 00:11:35,090
@@ -812,11 +812,11 @@ These commoners will never understand, Soul King! </font>
 
 193
 00:12:00,120 --> 00:12:02,930
-<font face="Impress BT" size="55">and then they shall be silent forever more! </font>
+<font face="Impress BT" size="55">and then they shall be silent forever more! {Yeah, she basically just says they'll die (or literally "their breath will stop", but I tried to poetry-ify it some more because that only seems in character for her. -Starfish}</font>
 
 194
 00:12:02,930 --> 00:12:04,030
-<font face="Impress BT" size="55">What?! </font>
+<font face="Impress BT" size="55">What?! {Is this necessary? It just sounds like a shocked noise... -Fadeout4}{Xemnas: I feel it's a bit too prominent to have nothing there.}</font>
 
 195
 00:12:04,030 --> 00:12:05,680
@@ -898,7 +898,7 @@ the bow of my violin is in fact a sword in a cane.</font>
 
 214
 00:13:00,590 --> 00:13:04,630
-<font face="Impress BT" size="55">Because my eyes are like knotholes!</font>
+<font face="Impress BT" size="55">Because my eyes are like knotholes!{Stole this entire joke translation from FUNi because argh. -Starfish}{ def: ...just empty sockets. }</font>
 
 215
 00:13:00,880 --> 00:13:04,630
@@ -918,11 +918,11 @@ the bow of my violin is in fact a sword in a cane.</font>
 
 219
 00:13:12,680 --> 00:13:14,800
-<font face="Impress BT" size="55">Long ago...</font>
+<font face="Impress BT" size="55">{\an8}Long ago...</font>
 
 220
 00:13:14,800 --> 00:13:19,180
-<font face="Impress BT" size="55">To be precise, 800 years ago, Law.  </font>
+<font face="Impress BT" size="55">{\an8}To be precise, 800 years ago, Law. {Literally "Right now it's been eight hundred years since then, Law." I omitted Law's name from the line because it's not strictly necessary and I feel it reads better without it. Though, feel free to put it back in  if you disagree, other ppls working on the script later. -Starfish} {I also hear a "Law" at the end of this... -Fadeout4}{ def: agreed, the name is obviously said.  it doesn't add anything to the line but people will notice if it isn't there }</font>
 
 221
 00:13:15,290 --> 00:13:19,180
@@ -994,7 +994,7 @@ the Holy Land Mariejoa and founded the Government...</font>
 
 236
 00:14:45,840 --> 00:14:49,000
-<font face="Impress BT" size="55"><i>I was worried about Nami-san before you were!</i></font>
+<font face="Impress BT" size="55"><i>I was worried about Nami-san before you were!{Skimming the last episode's script, I don't THINK this dialogue was in there... But I could be wrong. -Starfish}</i></font>
 
 237
 00:14:49,000 --> 00:14:52,690
@@ -1070,7 +1070,7 @@ so we must avoid drawing attention to ourselves.</font>
 
 254
 00:15:46,820 --> 00:15:50,900
-<font face="Impress BT" size="55">That's the Pirate Hunter Zoro-senpai!</font>
+<font face="Impress BT" size="55">That's the Pirate Hunter Zoro-senpai!{Orgasm}{BartoRomeo-chan XD}</font>
 
 255
 00:15:50,900 --> 00:15:54,000
@@ -1104,7 +1104,7 @@ they say he sliced the entire island in half!</font>
 
 262
 00:16:14,160 --> 00:16:17,490
-<font face="Impress BT" size="55">Gladius, you really should calm down.</font>
+<font face="Impress BT" size="55">{\an8}Gladius, you really should calm down.</font>
 
 263
 00:16:17,490 --> 00:16:18,900
@@ -1126,12 +1126,12 @@ that woman's betrayal has messed up our plans?</font>
 267
 00:16:39,920 --> 00:16:43,730
 <font face="Impress BT" size="55">And now look what's happened!
-She took out her own subordinates and ran away! </font>
+She took out her own subordinates and ran away! {Xemnas: The word used here "Shitomete" generally implies that she killed them and as we're not sure whether she killed them or not, I used this wording which leaves it ambiguous either way as to whether she killed them or just knocked them out.}</font>
 
 268
 00:16:45,040 --> 00:16:48,090
 <font face="Impress BT" size="55">Calm down!
-You don't want to explode in here, do you?! </font>
+You don't want to explode in here, do you?! {Xemnas: Isn't that ichigo's sword from bleach?}</font>
 
 269
 00:16:50,290 --> 00:16:55,130
@@ -1155,7 +1155,7 @@ or rather, betrays the young master, must die.</font>
 273
 00:17:20,590 --> 00:17:27,890
 <font face="Impress BT" size="55">Just think about it. She could easily have found
-the Straw Hats' ship yesterday using her Clairvoyance. </font>
+the Straw Hats' ship yesterday using her Clairvoyance. { def: clairvoyance capitalized? }{Xemnas: I think it should be, since it's also the name of her ability.}</font>
 
 274
 00:17:30,070 --> 00:17:34,680
@@ -1168,7 +1168,7 @@ Heading Towards Green Bit</font>
 
 276
 00:17:41,180 --> 00:17:44,960
-<font face="Impress BT" size="55">You should have waited at the port, as we planned. </font>
+<font face="Impress BT" size="55">You should have waited at the port, as we planned. {literally "the promised port" -Starfish}</font>
 
 277
 00:17:44,960 --> 00:17:47,790
@@ -1189,7 +1189,7 @@ Heading Towards Green Bit</font>
 281
 00:17:58,180 --> 00:18:02,330
 <font face="Impress BT" size="55">So there are at least 3,000 marines
-in this country right now.</font>
+in this country right now.{She strictly speaking says there are at least "over three thousand", but to me the like "at least over X" sounds weird... Saying that there are at least three thousand indicates that there are probably more anyway. -Starfish}</font>
 
 282
 00:18:02,790 --> 00:18:05,890
@@ -1304,7 +1304,7 @@ without lifting a finger.</font>
 
 309
 00:19:42,450 --> 00:19:44,310
-<font face="Impress BT" size="55"><i>Listen up, you have to... </i></font>
+<font face="Impress BT" size="55"><i>Listen up, you have to... {copy past from 648}</i></font>
 
 310
 00:19:44,310 --> 00:19:46,500
@@ -1312,7 +1312,7 @@ without lifting a finger.</font>
 
 311
 00:19:46,500 --> 00:19:48,970
-<font face="Impress BT" size="55"><i>I'm leaving Caesar in your care!  </i></font>
+<font face="Impress BT" size="55"><i>I'm leaving Caesar in your care! {end copy paste} {Cecil: There was a mistake in that CP, which worries me XD}</i></font>
 
 312
 00:19:48,970 --> 00:19:52,020
@@ -1360,7 +1360,7 @@ without lifting a finger.</font>
 
 323
 00:20:31,460 --> 00:20:38,980
-<font face="Impress BT" size="55">Surely by now, Violet will have exposed all your plans. You can be sure your crewmates have been caught! </font>
+<font face="Impress BT" size="55">Surely by now, Violet will have exposed all your plans. You can be sure your crewmates have been caught! {Halee: How about rewording the 2d sentence as: "You can be sure your crewmates have been caught."}</font>
 
 324
 00:20:46,700 --> 00:20:50,180
@@ -1422,7 +1422,7 @@ Straw Hat Crew over in Dressrosa.</font>
 
 338
 00:22:03,140 --> 00:22:05,300
-<font face="Impress BT" size="55">What does the sky look like?  </font>
+<font face="Impress BT" size="55">What does the sky look like? {Xemnas: He's asking if there are cumulonimbus clouds in the sky or not.} {Halee: Unless it's some speech quirk from Fujitora, it should read "What DOES the sky look like?"}</font>
 
 339
 00:22:05,300 --> 00:22:06,690

@@ -12,7 +12,7 @@
 
 4
 00:00:30,340 --> 00:00:34,610
-<font face="Impress BT" size="34">Translation & initial timing
+<font face="Impress BT" size="34">{\an1}Translation & initial timing
 <font size="40">Vegapunk</font></font>
 
 5
@@ -21,7 +21,7 @@
 
 6
 00:00:34,950 --> 00:00:38,580
-<font face="Impress BT" size="34">Timing
+<font face="Impress BT" size="34">{\an1}Timing
 <font size="40">Galaxy 9000
 
 </font>Time-checking
@@ -29,7 +29,7 @@
 
 7
 00:00:38,780 --> 00:00:43,750
-<font face="Impress BT" size="34">Quality-checking
+<font face="Impress BT" size="34">{\an1}Quality-checking
 <font size="40">Sewil
 Galaxy 9000
 Halee</font></font>
@@ -44,7 +44,7 @@ Halee</font></font>
 
 10
 00:00:50,760 --> 00:00:54,160
-<font face="Impress BT" size="34">Soundtracking
+<font face="Impress BT" size="34">{\an1}Soundtracking
 <font size="40">Halee</font></font>
 
 11
@@ -53,12 +53,12 @@ Halee</font></font>
 
 12
 00:00:54,330 --> 00:00:58,030
-<font face="Impress BT" size="34">Video editing
+<font face="Impress BT" size="34">{\an1}Video editing
 <font size="40">Sewil</font></font>
 
 13
 00:00:54,330 --> 00:00:58,030
-<font face="Impress BT" size="34">Raw provider
+<font face="Impress BT" size="34">{\an1}Raw provider
 <font size="40">SOFCJ-Raws</font></font>
 
 14
@@ -127,7 +127,7 @@ Halee</font></font>
 
 30
 00:02:29,900 --> 00:02:36,330
-<font face="impress bt" size="63" color="#fefefe"><b>The Power That Can Deflect Anything?!
+<font face="impress bt" size="63" color="#fefefe"><b>{\an5}The Power That Can Deflect Anything?!
 Zoro Fights Prepared to Die!</b></font>
 
 31
@@ -184,7 +184,7 @@ Zoro Fights Prepared to Die!</b></font>
 
 44
 00:03:18,350 --> 00:03:20,080
-<font face="Impress BT" size="55">Captain!</font>
+<font face="Impress BT" size="55">{\an8}Captain!</font>
 
 45
 00:03:21,210 --> 00:03:23,450
@@ -952,7 +952,7 @@ Zoro Fights Prepared to Die!</b></font>
 
 236
 00:14:01,490 --> 00:14:03,160
-<font face="Impress BT" size="55">Be careful! </font>
+<font face="Impress BT" size="55">Be careful! {Padding before this with breathing. Cut if possible}</font>
 
 237
 00:14:03,160 --> 00:14:05,300
@@ -968,7 +968,7 @@ Zoro Fights Prepared to Die!</b></font>
 
 240
 00:14:13,060 --> 00:14:15,670
-<font face="Impress BT" size="55">S-So scary! </font>
+<font face="Impress BT" size="55">S-So scary! {Non-Canon}</font>
 
 241
 00:14:16,140 --> 00:14:19,100
@@ -1328,7 +1328,7 @@ Zoro Fights Prepared to Die!</b></font>
 
 330
 00:21:50,990 --> 00:21:52,810
-<font face="Impress BT" size="38"><i>Grind</i></font>
+<font face="Impress BT" size="38"><i>{\an8}Grind</i></font>
 
 331
 00:21:50,990 --> 00:21:52,810

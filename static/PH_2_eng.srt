@@ -102,7 +102,7 @@ it's exactly what the legends describe!</font>
 
 26
 00:04:51,770 --> 00:04:54,230
-<font face="Impress BT" size="38"><i>Ultimate Tiger Hunt</i></font>
+<font face="Impress BT" size="38"><i>{\an8}Ultimate Tiger Hunt</i></font>
 
 27
 00:05:19,540 --> 00:05:24,210
@@ -262,19 +262,19 @@ it's exactly what the legends describe!</font>
 
 66
 00:09:14,270 --> 00:09:16,860
-<font face="Impress BT" size="38"><i>Sure-Kill Green Star</i></font>
+<font face="Impress BT" size="38"><i>{\an8}Sure-Kill Green Star</i></font>
 
 67
 00:09:35,930 --> 00:09:37,330
-<font face="Impress BT" size="38"><i>One-Sword Style</i></font>
+<font face="Impress BT" size="38"><i>{\an8}One-Sword Style</i></font>
 
 68
 00:09:44,390 --> 00:09:46,010
-<font face="Impress BT" size="38"><i>Draw-and-Resheathe Technique</i></font>
+<font face="Impress BT" size="38"><i>{\an8}Draw-and-Resheathe Technique</i></font>
 
 69
 00:09:52,860 --> 00:09:55,390
-<font face="Impress BT" size="38"><i>Death Lion Song</i></font>
+<font face="Impress BT" size="38"><i>{\an8}Death Lion Song</i></font>
 
 70
 00:10:06,410 --> 00:10:07,920
@@ -666,7 +666,7 @@ and covered with active volcanoes!</font>
 
 165
 00:16:50,930 --> 00:16:53,140
-<font face="Impress BT" size="55"><i>Please, help me! </i></font>
+<font face="Impress BT" size="55"><i>Please, help me! {Copy-paste from 579}</i></font>
 
 166
 00:16:53,650 --> 00:16:54,950
@@ -682,7 +682,7 @@ and covered with active volcanoes!</font>
 
 169
 00:17:02,160 --> 00:17:04,710
-<font face="Impress BT" size="55"><i>The samurai's gonna kill us all! </i></font>
+<font face="Impress BT" size="55"><i>The samurai's gonna kill us all! {End copy-paste from 579}</i></font>
 
 170
 00:17:04,710 --> 00:17:10,460
@@ -1116,7 +1116,7 @@ even if my greatest failure must be known!</font>
 
 275
 00:23:35,390 --> 00:23:42,690
-<font face="Impress BT" size="55">Women shall walk three steps behind men and address them with a modest grace! </font>
+<font face="Impress BT" size="55">Women shall walk three steps behind men and address them with a modest grace! {Gil : Nami says 'Huh?' or something after this line. Maybe add this in?}</font>
 
 276
 00:23:45,480 --> 00:23:47,510
@@ -1140,7 +1140,7 @@ even if my greatest failure must be known!</font>
 
 281
 00:23:56,990 --> 00:23:59,660
-<font face="Impress BT" size="55">Cease this, woman! </font>
+<font face="Impress BT" size="55">Cease this, woman! {Gil : Originally 'Lass'. Makes me think of a scottish accent more than something a samurai would say. Maybe something like 'Girl' or just 'Woman' would be better. Alternatively, if we want to make him sound old-fashioned a bit more we could use 'Wench' or something... }</font>
 
 282
 00:24:02,860 --> 00:24:05,460
@@ -1177,7 +1177,7 @@ to have been robbed down to your underwear.</font>
 
 290
 00:24:19,720 --> 00:24:23,310
-<font face="Impress BT" size="55">How lewd!  That is nothing but a breast-band, is it not?! </font>
+<font face="Impress BT" size="55">How lewd!  That is nothing but a breast-band, is it not?! {lol this piano music...suddenly this is a saloon! -Fadeout4}</font>
 
 291
 00:24:23,310 --> 00:24:25,760
@@ -1262,7 +1262,7 @@ to have been robbed down to your underwear.</font>
 311
 00:25:47,810 --> 00:25:51,290
 <font face="Impress BT" size="55">Hey, wait a second.
-What do you mean "island of ice"?  </font>
+What do you mean "island of ice"? {should we add an "oy, oy" to the beginning of this? -Fadeout4} {Gil : I'd rather not. It sounds okay when spoken but is kind of retarded to write.}</font>
 
 312
 00:25:51,290 --> 00:25:53,990
@@ -1294,7 +1294,7 @@ What do you mean "island of ice"?  </font>
 
 319
 00:26:16,370 --> 00:26:19,590
-<font face="Impress BT" size="55">but I came to this island via a sea of ice floes.</font>
+<font face="Impress BT" size="55">but I came to this island via a sea of ice floes.{tlc suggested "but I came to this island of ice via a sea of ice floes.", but I'd have shortened it anyway as redundant. -kae}</font>
 
 320
 00:26:20,850 --> 00:26:24,600
@@ -1310,7 +1310,7 @@ What do you mean "island of ice"?  </font>
 
 323
 00:26:31,360 --> 00:26:35,860
-<font face="Impress BT" size="55">The burning island Luffy and the others went to is an arctic island from the other side. </font>
+<font face="Impress BT" size="55">The burning island Luffy and the others went to is an arctic island from the other side. {3 line madness!! Also, not sure if this line and the next should be "Main" or "Thoughts" style}</font>
 
 324
 00:26:35,860 --> 00:26:40,480
@@ -1383,7 +1383,7 @@ It doesn't look like we'll be able to...</font>
 
 341
 00:28:13,860 --> 00:28:17,130
-<font face="Impress BT" size="55">This topknot is a hairstyle unique to the Wano Kingdom. </font>
+<font face="Impress BT" size="55">This topknot is a hairstyle unique to the Wano Kingdom. {And how the hell would Sanji know this? -Fadeout4}</font>
 
 342
 00:28:19,330 --> 00:28:24,760
@@ -1411,7 +1411,7 @@ It doesn't look like we'll be able to...</font>
 
 348
 00:28:36,890 --> 00:28:44,820
-<font face="Impress BT" size="55">We came here after receiving an emergency signal from someone you attacked, samurai! </font>
+<font face="Impress BT" size="55">We came here after receiving an emergency signal from someone you attacked, samurai! {3 line madness PART 2!! -Fadeout4}</font>
 
 349
 00:28:44,820 --> 00:28:46,720
@@ -1455,11 +1455,11 @@ It doesn't look like we'll be able to...</font>
 
 359
 00:29:38,170 --> 00:29:40,170
-<font face="Impress BT" size="55">Who are they?! </font>
+<font face="Impress BT" size="55">Who are they?! {Gil : Nami's face looks like a plastic mask}</font>
 
 360
 00:29:40,170 --> 00:29:41,090
-<font face="Impress BT" size="55">Sanji-kun! </font>
+<font face="Impress BT" size="55">Sanji-kun! {Gil : And now an ugly plastic mask}</font>
 
 361
 00:29:41,090 --> 00:29:42,740
@@ -1965,7 +1965,7 @@ and we don't know what's going on here!</font>
 
 485
 00:36:29,240 --> 00:36:30,410
-<font face="Impress BT" size="55">Sanji-kun! </font>
+<font face="Impress BT" size="55">Sanji-kun! {OMG SANJI HAS TURNED INTO A SUPER-SAIYAN!!!}</font>
 
 486
 00:36:30,410 --> 00:36:31,950
@@ -2147,7 +2147,7 @@ I hate you for stealing Nami-san's affection!</font>
 
 530
 00:39:33,350 --> 00:39:37,390
-<font face="Impress BT" size="55">I was so surprised!  I felt like a bone in a thunderstorm!  </font>
+<font face="Impress BT" size="55">I was so surprised!  I felt like a bone in a thunderstorm! {The phrase he uses is literally "like my bones were hit by a pigeon-bullet". I looked it up, and it appears to be a play on the Japanese proverb 鳩が豆鉄砲を食ったよう, (literally "Like a pigeon being shot by a bean-bullet") which is apparently an expression of being extremely surprised, and it says that the English equivalent of this term is "Like a duck in a thunderstorm".} {Gil: Oh god...}</font>
 
 531
 00:39:38,810 --> 00:39:39,600
@@ -2159,7 +2159,7 @@ I hate you for stealing Nami-san's affection!</font>
 
 533
 00:39:42,400 --> 00:39:45,280
-<font face="Impress BT" size="55">No, a duck in a bonestorm? </font>
+<font face="Impress BT" size="55">No, a duck in a bonestorm? {Gil : This is horrible...}</font>
 
 534
 00:39:45,280 --> 00:39:46,360
@@ -2363,11 +2363,11 @@ We're already friends, so don't attack me!</font>
 
 583
 00:42:51,630 --> 00:42:52,790
-<font face="Impress BT" size="38"><i>Bellflower</i></font>
+<font face="Impress BT" size="38"><i>{\an8}Bellflower</i></font>
 
 584
 00:43:03,760 --> 00:43:05,990
-<font face="Impress BT" size="55">A leopard and a giraffe, huh? </font>
+<font face="Impress BT" size="55">A leopard and a giraffe, huh? {Gil: What is this? Enies Lobby?}</font>
 
 585
 00:43:07,680 --> 00:43:10,850

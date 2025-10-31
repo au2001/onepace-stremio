@@ -9,164 +9,164 @@ https://mpv.io/
 
 2
 00:00:26,260 --> 00:00:31,820
-<font face="Khalid Art bold" size="60"><font color="#000000">مونتاج</font></font>
+<font face="Khalid Art bold" size="60">{\an7}<font color="#000000">مونتاج</font></font>
 
 3
 00:00:26,260 --> 00:00:31,820
-<font face="Khalid Art bold" size="60">مونتاج</font>
+<font face="Khalid Art bold" size="60">{\an7}مونتاج</font>
 
 4
 00:00:26,260 --> 00:00:31,820
-<font face="Khalid Art bold" size="60">مونتاج</font>
+<font face="Khalid Art bold" size="60">{\an7}مونتاج</font>
 
 5
 00:00:26,260 --> 00:00:31,820
-<font face="Khalid Art bold" size="60"><font color="#000000">Galaxy 9000</font></font>
+<font face="Khalid Art bold" size="60">{\an7}<font color="#000000">Galaxy 9000</font></font>
 
 6
 00:00:26,260 --> 00:00:31,820
-<font face="Khalid Art bold" size="60">Galaxy 9000</font>
+<font face="Khalid Art bold" size="60">{\an7}Galaxy 9000</font>
 
 7
 00:00:32,530 --> 00:00:36,980
-<font face="Khalid Art bold" size="60"><font color="#000000">جرافيك</font></font>
+<font face="Khalid Art bold" size="60">{\an7}<font color="#000000">جرافيك</font></font>
 
 8
 00:00:32,530 --> 00:00:36,980
-<font face="Khalid Art bold" size="60">جرافيك</font>
+<font face="Khalid Art bold" size="60">{\an7}جرافيك</font>
 
 9
 00:00:32,530 --> 00:00:36,980
-<font face="Khalid Art bold" size="60">جرافيك</font>
+<font face="Khalid Art bold" size="60">{\an7}جرافيك</font>
 
 10
 00:00:32,530 --> 00:00:36,980
-<font face="Khalid Art bold" size="60"><font color="#000000">Datenshi</font></font>
+<font face="Khalid Art bold" size="60">{\an7}<font color="#000000">Datenshi</font></font>
 
 11
 00:00:32,530 --> 00:00:36,980
-<font face="Khalid Art bold" size="60">Datenshi</font>
+<font face="Khalid Art bold" size="60">{\an7}Datenshi</font>
 
 12
 00:00:37,100 --> 00:00:40,980
-<font face="Khalid Art bold" size="60"><font color="#000000">كاريوكي</font></font>
+<font face="Khalid Art bold" size="60">{\an7}<font color="#000000">كاريوكي</font></font>
 
 13
 00:00:37,100 --> 00:00:40,980
-<font face="Khalid Art bold" size="60">كاريوكي</font>
+<font face="Khalid Art bold" size="60">{\an7}كاريوكي</font>
 
 14
 00:00:37,100 --> 00:00:40,980
-<font face="Khalid Art bold" size="60">كاريوكي</font>
+<font face="Khalid Art bold" size="60">{\an7}كاريوكي</font>
 
 15
 00:00:37,100 --> 00:00:40,980
-<font face="Khalid Art bold" size="60"><font color="#000000">KaitouYahiko</font></font>
+<font face="Khalid Art bold" size="60">{\an7}<font color="#000000">KaitouYahiko</font></font>
 
 16
 00:00:37,100 --> 00:00:40,980
-<font face="Khalid Art bold" size="60">KaitouYahiko</font>
+<font face="Khalid Art bold" size="60">{\an7}KaitouYahiko</font>
 
 17
 00:00:42,480 --> 00:00:47,110
-<font face="Khalid Art bold" size="60"><font color="#000000">ضبط الجودة</font></font>
+<font face="Khalid Art bold" size="60">{\an7}<font color="#000000">ضبط الجودة</font></font>
 
 18
 00:00:42,480 --> 00:00:47,110
-<font face="Khalid Art bold" size="60">ضبط الجودة</font>
+<font face="Khalid Art bold" size="60">{\an7}ضبط الجودة</font>
 
 19
 00:00:42,480 --> 00:00:47,110
-<font face="Khalid Art bold" size="60">ضبط الجودة</font>
+<font face="Khalid Art bold" size="60">{\an7}ضبط الجودة</font>
 
 20
 00:00:42,480 --> 00:00:47,110
-<font face="Khalid Art bold" size="60"><font color="#000000">Pepperjack   PhosCity   Raiyan
+<font face="Khalid Art bold" size="60">{\an7}<font color="#000000">Pepperjack   PhosCity   Raiyan
 Scolines       Zenef</font></font>
 
 21
 00:00:42,480 --> 00:00:47,110
-<font face="Khalid Art bold" size="60">Pepperjack   PhosCity   Raiyan
+<font face="Khalid Art bold" size="60">{\an7}Pepperjack   PhosCity   Raiyan
 Scolines       Zenef</font>
 
 22
 00:00:55,080 --> 00:01:02,420
-<font face="Khalid Art bold" size="60"><font color="#000000">Halee                               الصوت</font></font>
+<font face="Khalid Art bold" size="60">{\an7}<font color="#000000">Halee                               الصوت</font></font>
 
 23
 00:00:55,080 --> 00:01:02,420
-<font face="Khalid Art bold" size="60">Halee                               الصوت</font>
+<font face="Khalid Art bold" size="60">{\an7}Halee                               الصوت</font>
 
 24
 00:00:55,080 --> 00:01:02,420
-<font face="Khalid Art bold" size="60"><font color="#000000">Halee                               الصوت</font></font>
+<font face="Khalid Art bold" size="60">{\an7}<font color="#000000">Halee                               الصوت</font></font>
 
 25
 00:00:55,080 --> 00:01:02,420
-<font face="Khalid Art bold" size="60">Halee                               الصوت</font>
+<font face="Khalid Art bold" size="60">{\an7}Halee                               الصوت</font>
 
 26
 00:01:02,420 --> 00:01:06,440
-<font face="Khalid Art bold" size="60"><font color="#000000">مزامنة الترجمة</font></font>
+<font face="Khalid Art bold" size="60">{\an7}<font color="#000000">مزامنة الترجمة</font></font>
 
 27
 00:01:02,420 --> 00:01:06,440
-<font face="Khalid Art bold" size="60">مزامنة الترجمة</font>
+<font face="Khalid Art bold" size="60">{\an7}مزامنة الترجمة</font>
 
 28
 00:01:02,420 --> 00:01:06,440
-<font face="Khalid Art bold" size="60">مزامنة الترجمة</font>
+<font face="Khalid Art bold" size="60">{\an7}مزامنة الترجمة</font>
 
 29
 00:01:02,420 --> 00:01:06,440
-<font face="Khalid Art bold" size="60"><font color="#000000">Gab
+<font face="Khalid Art bold" size="60">{\an7}<font color="#000000">Gab
 Raven-</font></font>
 
 30
 00:01:02,420 --> 00:01:06,440
-<font face="Khalid Art bold" size="60">Gab
+<font face="Khalid Art bold" size="60">{\an7}Gab
 Raven-</font>
 
 31
 00:01:35,120 --> 00:01:38,790
-<font face="Khalid Art bold" size="60"><font color="#000000">التدقيق اللغوي</font></font>
+<font face="Khalid Art bold" size="60">{\an7}<font color="#000000">التدقيق اللغوي</font></font>
 
 32
 00:01:35,120 --> 00:01:38,790
-<font face="Khalid Art bold" size="60">التدقيق اللغوي</font>
+<font face="Khalid Art bold" size="60">{\an7}التدقيق اللغوي</font>
 
 33
 00:01:35,120 --> 00:01:38,790
-<font face="Khalid Art bold" size="60">التدقيق اللغوي</font>
+<font face="Khalid Art bold" size="60">{\an7}التدقيق اللغوي</font>
 
 34
 00:01:35,120 --> 00:01:38,790
-<font face="Khalid Art bold" size="60"><font color="#000000">Raven-</font></font>
+<font face="Khalid Art bold" size="60">{\an7}<font color="#000000">Raven-</font></font>
 
 35
 00:01:35,120 --> 00:01:38,790
-<font face="Khalid Art bold" size="60">Raven-</font>
+<font face="Khalid Art bold" size="60">{\an7}Raven-</font>
 
 36
 00:01:38,930 --> 00:01:43,100
-<font face="Khalid Art bold" size="60"><font color="#000000">ترجمة</font></font>
+<font face="Khalid Art bold" size="60">{\an7}<font color="#000000">ترجمة</font></font>
 
 37
 00:01:38,930 --> 00:01:43,100
-<font face="Khalid Art bold" size="60">ترجمة</font>
+<font face="Khalid Art bold" size="60">{\an7}ترجمة</font>
 
 38
 00:01:38,930 --> 00:01:43,100
-<font face="Khalid Art bold" size="60">ترجمة</font>
+<font face="Khalid Art bold" size="60">{\an7}ترجمة</font>
 
 39
 00:01:38,930 --> 00:01:43,100
-<font face="Khalid Art bold" size="60"><font color="#000000">Crunchyroll
+<font face="Khalid Art bold" size="60">{\an7}<font color="#000000">Crunchyroll
 3asqmanga</font></font>
 
 40
 00:01:38,930 --> 00:01:43,100
-<font face="Khalid Art bold" size="60">Crunchyroll
+<font face="Khalid Art bold" size="60">{\an7}Crunchyroll
 3asqmanga</font>
 
 41
@@ -493,7 +493,7 @@ https://mpv.io/
 
 118
 00:08:19,310 --> 00:08:20,810
-<font face="Hacen Digital Arabia LT" size="60">أسلوب السّيف الواحد</font>
+<font face="Hacen Digital Arabia LT" size="60">{\an8}أسلوب السّيف الواحد</font>
 
 119
 00:08:19,310 --> 00:08:20,810
@@ -501,7 +501,7 @@ https://mpv.io/
 
 120
 00:08:20,810 --> 00:08:23,980
-<font face="Hacen Digital Arabia LT" size="60">مدفع العنقاء ذي السّتّ والثّلاثين رطل</font>
+<font face="Hacen Digital Arabia LT" size="60">{\an8}مدفع العنقاء ذي السّتّ والثّلاثين رطل</font>
 
 121
 00:08:20,810 --> 00:08:23,980
@@ -521,7 +521,7 @@ https://mpv.io/
 
 125
 00:08:43,000 --> 00:08:45,340
-<font face="Hacen Digital Arabia LT" size="60">نقطة تعزيز القفز</font>
+<font face="Hacen Digital Arabia LT" size="60">{\an8}نقطة تعزيز القفز</font>
 
 126
 00:08:43,000 --> 00:08:45,340
@@ -549,7 +549,8 @@ https://mpv.io/
 
 132
 00:09:38,390 --> 00:09:40,310
-<font face="Bahij Nassim" size="111"><b>سيكونون بخير بما أنّهم وصلوا للجسر العظيم</b></font>
+<font face="Bahij Nassim" size="111"><b>{They'll be safe, since they got
+to the Great Bridge. - OG}{They'll be safe on the Great Bridge. - ~Poppy}سيكونون بخير بما أنّهم وصلوا للجسر العظيم{~PJ}</b></font>
 
 133
 00:09:40,310 --> 00:09:42,770
@@ -620,7 +621,7 @@ https://mpv.io/
 
 149
 00:11:43,100 --> 00:11:45,980
-<font face="Bahij Nassim" size="111"><b>هذا طبيعيّ، ستستمرّ في القدوم</b></font>
+<font face="Bahij Nassim" size="111"><b>{It'll keep coming back. - OG}{It's just natural. They'll keep on coming. - ~PP}هذا طبيعيّ، ستستمرّ في القدوم{~Zenef}</b></font>
 
 150
 00:11:45,980 --> 00:11:50,310
@@ -658,7 +659,7 @@ https://mpv.io/
 
 158
 00:12:20,140 --> 00:12:22,890
-<font face="Bahij Nassim" size="111"><b>إنكم متهورون حقًا</b></font>
+<font face="Bahij Nassim" size="111"><b>{You guys are really crazy. - OG}إنكم متهورون حقًا{~Poppy}</b></font>
 
 159
 00:12:22,890 --> 00:12:25,310
@@ -697,11 +698,11 @@ https://mpv.io/
 
 167
 00:12:59,930 --> 00:13:01,390
-<font face="Bahij Nassim" size="111"><b>هل كنتَ في المدينة؟</b></font>
+<font face="Bahij Nassim" size="111"><b>{Were you in the lower side of town? - OG}هل كنتَ في المدينة؟{~Poppy}</b></font>
 
 168
 00:13:01,390 --> 00:13:04,140
-<font face="Bahij Nassim" size="111"><b>.ا... اعفني من الإجابة عن سؤالك</b></font>
+<font face="Bahij Nassim" size="111"><b>{What? W-Well, not particularly... - OG}.ا... اعفني من الإجابة عن سؤالك{~Poppy}</b></font>
 
 169
 00:13:04,140 --> 00:13:05,890
@@ -713,23 +714,24 @@ https://mpv.io/
 
 171
 00:13:14,400 --> 00:13:16,400
-<font face="Bahij Nassim" size="111"><b>يا لك من أخرق يا زورو</b></font>
+<font face="Bahij Nassim" size="111"><b>{You're so clumsy, Zoro! - OG}يا لك من أخرق يا زورو{~Poppy}</b></font>
 
 172
 00:13:16,400 --> 00:13:18,650
-<font face="Bahij Nassim" size="111"><b>كيف حدث هذا؟</b></font>
+<font face="Bahij Nassim" size="111"><b>{What'd you have to do to be in that situ– - OG}كيف حدث هذا؟{~Poppy}</b></font>
 
 173
 00:13:18,650 --> 00:13:21,160
-<font face="Bahij Nassim" size="111"><b>!أنت آخر من يحق له السخرية</b></font>
+<font face="Bahij Nassim" size="111"><b>{Are you in any position
+to be laughing at others?! - OG}!أنت آخر من يحق له السخرية{~Poppy}</b></font>
 
 174
 00:13:21,160 --> 00:13:22,610
-<font face="Bahij Nassim" size="111"><b>كلاكما أخرقان</b></font>
+<font face="Bahij Nassim" size="111"><b>{You both are super clumsy! - OG}كلاكما أخرقان{~Poppy}</b></font>
 
 175
 00:13:23,530 --> 00:13:25,370
-<font face="Bahij Nassim" size="111"><b>...أين سانجي وأوسو</b></font>
+<font face="Bahij Nassim" size="111"><b>{Then what happened to Sanji and Uso– - OG}...أين سانجي وأوسو{~PJ}</b></font>
 
 176
 00:13:25,370 --> 00:13:26,240
@@ -866,11 +868,13 @@ https://mpv.io/
 
 207
 00:15:46,050 --> 00:15:49,340
-<font face="Bahij Nassim" size="111"><b>...هذه المدينة التي عانت دائمًا من أكوا لاغونا</b></font>
+<font face="Bahij Nassim" size="111"><b>{The town that had never been damaged
+by Aqua Laguna up until now... - OG}{This town, which had always
+endured Aqua Laguna until now... - ~Poppy}...هذه المدينة التي عانت دائمًا من أكوا لاغونا{~WF/Poppy}</b></font>
 
 208
 00:15:49,890 --> 00:15:51,510
-<font face="Bahij Nassim" size="111"><b>أمست خرابًا</b></font>
+<font face="Bahij Nassim" size="111"><b>{is now wrecked. - OG}أمست خرابًا{~Poppy}</b></font>
 
 209
 00:15:52,140 --> 00:15:55,770
@@ -912,11 +916,13 @@ https://mpv.io/
 
 218
 00:16:21,420 --> 00:16:26,470
-<font face="Bahij Nassim" size="111"><b>إن انتظرنا حتى الصباح، فهل سنستطيع تحقيق مُرادنا؟</b></font>
+<font face="Bahij Nassim" size="111"><b>{If we are to wait until morning,
+can our wish come true? - OG}{If we wait until morning,
+can our wish still come true? - ~Poppy}إن انتظرنا حتى الصباح، فهل سنستطيع تحقيق مُرادنا؟{~Poppy}</b></font>
 
 219
 00:16:28,970 --> 00:16:32,050
-<font face="Bahij Nassim" size="111"><b>أعرف إنيس لوبي</b></font>
+<font face="Bahij Nassim" size="111"><b>{I know Enies Lobby. - OG}أعرف إنيس لوبي{~Poppy}</b></font>
 
 220
 00:16:32,550 --> 00:16:35,560
@@ -941,7 +947,7 @@ https://mpv.io/
 
 225
 00:16:47,740 --> 00:16:50,160
-<font face="Bahij Nassim" size="111"><b>وبها ما يُسمى محكمة، لكنها اسمٌ فحسب</b></font>
+<font face="Bahij Nassim" size="111"><b>{What's there is a court in name only. - OG}{~Poppy}وبها ما يُسمى محكمة، لكنها اسمٌ فحسب</b></font>
 
 226
 00:16:50,780 --> 00:16:55,040
@@ -949,7 +955,7 @@ https://mpv.io/
 
 227
 00:16:55,040 --> 00:16:59,410
-<font face="Bahij Nassim" size="111"><b>،بعد المرور بهذه المحكمة الخالية دون توقّف</b></font>
+<font face="Bahij Nassim" size="111"><b>{After passing through this empty court without stopping, - OG}{After passing straight through this empty courthouse, - ~PP}،بعد المرور بهذه المحكمة الخالية دون توقّف{~Poppy}</b></font>
 
 228
 00:16:59,410 --> 00:17:03,500
@@ -970,23 +976,28 @@ https://mpv.io/
 
 232
 00:17:16,010 --> 00:17:20,350
-<font face="Bahij Nassim" size="111"><b>،وما إن تبحر من الميناء وراء تلك البوابات</b></font>
+<font face="Bahij Nassim" size="111"><b>{This is because there are only
+two places that you can reach - OG}،وما إن تبحر من الميناء وراء تلك البوابات{~Poppy}</b></font>
 
 233
 00:17:20,350 --> 00:17:22,810
-<font face="Bahij Nassim" size="111"><b>لا وجهة إلا مكانين اثنين</b></font>
+<font face="Bahij Nassim" size="111"><b>{after sailing out from the harbor
+beyond these gates. - OG}لا وجهة إلا مكانين اثنين{~Poppy}</b></font>
 
 234
 00:17:24,190 --> 00:17:28,860
-<font face="Bahij Nassim" size="111"><b>الوجهة الأولى هي أعتى قوة للعدالة في العالم</b></font>
+<font face="Bahij Nassim" size="111"><b>{One is the greatest military force
+for justice in the world: - OG}{One is the greatest miltary force,
+the keepers of justice in this world: - ~Poppy}الوجهة الأولى هي أعتى قوة للعدالة في العالم{~PP/Viz}</b></font>
 
 235
 00:17:28,860 --> 00:17:30,110
-<font face="Bahij Nassim" size="111"><b>مقر البحرية</b></font>
+<font face="Bahij Nassim" size="111"><b>{Navy Headquarters. - OG}مقر البحرية{~Poppy}</b></font>
 
 236
 00:17:31,570 --> 00:17:35,160
-<font face="Bahij Nassim" size="111"><b>والآخر هو سجن ضخم في عمق البحر</b></font>
+<font face="Bahij Nassim" size="111"><b>{The other is Impel Down,
+the large, deep-sea prison, - OG}والآخر هو سجن ضخم في عمق البحر{~Poppy/PP}</b></font>
 
 237
 00:17:35,160 --> 00:17:39,370
@@ -1007,12 +1018,13 @@ https://mpv.io/
 
 241
 00:17:45,290 --> 00:17:49,420
-<font face="Bahij Nassim" size="111"><b>إنيس لوبي هي مؤسّسة قضائيّة
-،يُلقى فيها المجرمون</b></font>
+<font face="Bahij Nassim" size="111"><b>{Enies Lobby is a judicial institution
+that criminals are just dumped into - OG}إنيس لوبي هي مؤسّسة قضائيّة
+،يُلقى فيها المجرمون{~Poppy/Jasmine/Viz}</b></font>
 
 242
 00:17:49,420 --> 00:17:52,930
-<font face="Bahij Nassim" size="111"><b>!دون إظهار أيّ رحمة</b></font>
+<font face="Bahij Nassim" size="111"><b>{without being shown any mercy. - OG}!دون إظهار أيّ رحمة{~Poppy}</b></font>
 
 243
 00:17:52,930 --> 00:17:54,340
@@ -1024,11 +1036,14 @@ https://mpv.io/
 
 245
 00:17:57,760 --> 00:18:00,480
-<font face="Bahij Nassim" size="111"><b>!لا يهم أين سيأخذونها، فما ينتظرها هو التعذيب</b></font>
+<font face="Bahij Nassim" size="111"><b>{No matter where she's taken,
+she'll see hell beyond that point! - OG}{No matter her destination,
+only hell awaits her there! - ~Poppy}!لا يهم أين سيأخذونها، فما ينتظرها هو التعذيب{~AR}</b></font>
 
 246
 00:18:00,850 --> 00:18:05,360
-<font face="Bahij Nassim" size="111"><b>!في كل لحظة تمضي ونحن هنا، تقترب روبين أكثر من بوابات العدالة</b></font>
+<font face="Bahij Nassim" size="111"><b>{Each moment we sit here talking,
+she gets closer to the Gates of Justice! - OG}!في كل لحظة تمضي ونحن هنا، تقترب روبين أكثر من بوابات العدالة{~Poppy}</b></font>
 
 247
 00:18:05,730 --> 00:18:08,320
@@ -1107,7 +1122,7 @@ https://mpv.io/
 
 265
 00:19:16,090 --> 00:19:17,890
-<font face="Bahij Nassim" size="111"><b>!صديقتنا تنتظرنا</b></font>
+<font face="Bahij Nassim" size="111"><b>{Our friends are waiting! - OG}!صديقتنا تنتظرنا{~Poppy}</b></font>
 
 266
 00:19:17,890 --> 00:19:21,140
@@ -1185,32 +1200,32 @@ https://mpv.io/
 
 284
 00:20:39,130 --> 00:20:42,510
-<font face="Al-Jazeera-Arabic-Bold" size="55">المقطورة السابعة
+<font face="Al-Jazeera-Arabic-Bold" size="55">{\an2}المقطورة السابعة
 (الأخيرة)</font>
 
 285
 00:20:39,130 --> 00:20:42,510
-<font face="Al-Jazeera-Arabic-Bold" size="55">المقطورة السابعة
+<font face="Al-Jazeera-Arabic-Bold" size="55">{\an2}المقطورة السابعة
 (الأخيرة)</font>
 
 286
 00:20:39,130 --> 00:20:42,510
-<font face="Al-Jazeera-Arabic-Bold" size="55">المقطورة السابعة
+<font face="Al-Jazeera-Arabic-Bold" size="55">{\an2}المقطورة السابعة
 (الأخيرة)</font>
 
 287
 00:20:51,440 --> 00:20:55,780
-<font face="Al-Jazeera-Arabic-Bold" size="55">المقطورة السادسة
+<font face="Al-Jazeera-Arabic-Bold" size="55">{\an2}المقطورة السادسة
 (مقطورة الشحن)</font>
 
 288
 00:20:51,440 --> 00:20:55,780
-<font face="Al-Jazeera-Arabic-Bold" size="55">المقطورة السادسة
+<font face="Al-Jazeera-Arabic-Bold" size="55">{\an2}المقطورة السادسة
 (مقطورة الشحن)</font>
 
 289
 00:20:51,440 --> 00:20:55,780
-<font face="Al-Jazeera-Arabic-Bold" size="55">المقطورة السادسة
+<font face="Al-Jazeera-Arabic-Bold" size="55">{\an2}المقطورة السادسة
 (مقطورة الشحن)</font>
 
 290
@@ -1256,7 +1271,7 @@ https://mpv.io/
 
 300
 00:21:50,210 --> 00:21:51,670
-<font face="Hacen Digital Arabia LT" size="60">العنق</font>
+<font face="Hacen Digital Arabia LT" size="60">{\an8}العنق</font>
 
 301
 00:21:50,210 --> 00:21:51,670
@@ -1264,7 +1279,7 @@ https://mpv.io/
 
 302
 00:21:53,630 --> 00:21:55,340
-<font face="Hacen Digital Arabia LT" size="60">المقليّ</font>
+<font face="Hacen Digital Arabia LT" size="60">{\an8}{Frit!~OG}المقليّ{~Glossary}</font>
 
 303
 00:21:53,630 --> 00:21:55,340
@@ -1321,7 +1336,9 @@ https://mpv.io/
 
 316
 00:22:50,060 --> 00:22:55,440
-<font face="Bahij Nassim" size="111"><b>!أنا الوجه المُظلم لووتر سڤن... المٌفكك فرانكي</b></font>
+<font face="Bahij Nassim" size="111"><b>{I'm Franky, demolition worker
+and the face of the Water Seven underworld. - OG}{I'm Franky, demolitionist
+and boss of the Water Seven underworld. - ~Poppy}!أنا الوجه المُظلم لووتر سڤن... المٌفكك فرانكي{~Poppy}</b></font>
 
 317
 00:22:56,980 --> 00:22:59,980
@@ -1329,7 +1346,8 @@ https://mpv.io/
 
 318
 00:22:59,980 --> 00:23:02,940
-<font face="Bahij Nassim" size="111"><b>!كيف تجرأت على أذيّة زميلنا طويل الأنف؟</b></font>
+<font face="Bahij Nassim" size="111"><b>{How dare you give our Long Nose
+a terrible time, then?! - OG}!كيف تجرأت على أذيّة زميلنا طويل الأنف؟{~Poppy}</b></font>
 
 319
 00:23:02,940 --> 00:23:05,570
@@ -1342,7 +1360,8 @@ https://mpv.io/
 
 321
 00:23:07,200 --> 00:23:10,580
-<font face="Bahij Nassim" size="111"><b>!تمهل يا سانجي! حدث الكثير بعد ذلك</b></font>
+<font face="Bahij Nassim" size="111"><b>{Ah, Sanji, hold on a sec.
+All sorts of things happened after that. - OG}!تمهل يا سانجي! حدث الكثير بعد ذلك{~PP}</b></font>
 
 322
 00:23:10,580 --> 00:23:13,750
@@ -1350,7 +1369,7 @@ https://mpv.io/
 
 323
 00:23:13,750 --> 00:23:16,000
-<font face="Bahij Nassim" size="111"><b>!توقّف عن قول أشياء كهذه</b></font>
+<font face="Bahij Nassim" size="111"><b>{Stop saying things like that! - OG}{You have to stop saying crap like that! - ~Poppy}!توقّف عن قول أشياء كهذه{~PP/WF/Poppy}</b></font>
 
 324
 00:23:16,500 --> 00:23:20,460
@@ -1388,7 +1407,7 @@ https://mpv.io/
 
 332
 00:23:49,950 --> 00:23:51,450
-<font face="Bahij Nassim" size="111"><b>!كف عن الثرثرة أيّها الأحمق</b></font>
+<font face="Bahij Nassim" size="111"><b>{You're getting on my nerves! - OG}!كف عن الثرثرة أيّها الأحمق{~Poppy}</b></font>
 
 333
 00:23:51,450 --> 00:23:52,580
@@ -1404,7 +1423,7 @@ https://mpv.io/
 
 336
 00:24:01,800 --> 00:24:03,000
-<font face="Bahij Nassim" size="111"><b>...العقيد تي بون</b></font>
+<font face="Bahij Nassim" size="111"><b>{Captain T Bone... - OG}...العقيد تي بون{~Poppy}</b></font>
 
 337
 00:24:08,430 --> 00:24:11,640
@@ -1412,17 +1431,20 @@ https://mpv.io/
 
 338
 00:24:11,680 --> 00:24:16,230
-<font face="Al-Jazeera-Arabic-Bold" size="55">مستودع الطوب الأحمر
+<font face="Al-Jazeera-Arabic-Bold" size="55">{\an2}{Behind the Garbage Dump,
+At the Brick Warehouse~OG}مستودع الطوب الأحمر
 خلف منشأة معالجة النفايات</font>
 
 339
 00:24:11,680 --> 00:24:16,230
-<font face="Al-Jazeera-Arabic-Bold" size="55">مستودع الطوب الأحمر
+<font face="Al-Jazeera-Arabic-Bold" size="55">{\an2}{Behind the Garbage Dump,
+At the Brick Warehouse~OG}مستودع الطوب الأحمر
 خلف منشأة معالجة النفايات</font>
 
 340
 00:24:11,680 --> 00:24:16,230
-<font face="Al-Jazeera-Arabic-Bold" size="55">مستودع الطوب الأحمر
+<font face="Al-Jazeera-Arabic-Bold" size="55">{\an2}{Behind the Garbage Dump,
+At the Brick Warehouse~OG}مستودع الطوب الأحمر
 خلف منشأة معالجة النفايات</font>
 
 341
@@ -1456,7 +1478,7 @@ https://mpv.io/
 
 348
 00:24:36,250 --> 00:24:38,670
-<font face="Bahij Nassim" size="111"><b>ماذا؟ إنّه مفتوح؟</b></font>
+<font face="Bahij Nassim" size="111"><b>{What the heck? It's open, huh? - OG}ماذا؟ إنّه مفتوح؟{~Poppy}</b></font>
 
 349
 00:24:43,920 --> 00:24:45,170
@@ -1480,11 +1502,13 @@ https://mpv.io/
 
 354
 00:24:55,600 --> 00:24:58,310
-<font face="Hacen Digital Arabia LT" size="60">روكيت مان: الرجل الصاروخ</font>
+<font face="Hacen Digital Arabia LT" size="60">{\an8}روكيت مان: الرجل الصاروخ</font>
 
 355
 00:24:58,310 --> 00:25:01,810
-<font face="Bahij Nassim" size="111"><b>يُمنع نقل المسافرين على متنه</b></font>
+<font face="Bahij Nassim" size="111"><b>{We can't even allow
+passengers to be on board. - OG}{We can't even allow
+passengers on board. - ~PP}يُمنع نقل المسافرين على متنه{~Viz}</b></font>
 
 356
 00:25:01,810 --> 00:25:03,190
@@ -1516,11 +1540,11 @@ https://mpv.io/
 
 363
 00:25:21,330 --> 00:25:23,920
-<font face="Bahij Nassim" size="111"><b>كانت القرصانة على حقّ</b></font>
+<font face="Bahij Nassim" size="111"><b>{It's just like what the pirate girl said. - OG}كانت القرصانة على حقّ{~Poppy}</b></font>
 
 364
 00:25:23,920 --> 00:25:25,460
-<font face="Bahij Nassim" size="111"><b>هل أنتِ من أحضرهم إلى هنا يا كوكورو-سان؟</b></font>
+<font face="Bahij Nassim" size="111"><b>{So you brought them here, Kokoro - -san}{? - OG}هل أنتِ من أحضرهم إلى هنا يا كوكورو-سان؟{~WF}</b></font>
 
 365
 00:25:25,460 --> 00:25:28,670
@@ -1562,7 +1586,8 @@ https://mpv.io/
 
 374
 00:25:58,370 --> 00:26:03,500
-<font face="Bahij Nassim" size="111"><b>...يصعب التحكم بسرعة محركه مهما حاولنا إجراء تعديلات</b></font>
+<font face="Bahij Nassim" size="111"><b>{No matter how much you tune it up,
+its steam engine can't control the speed. - OG}...يصعب التحكم بسرعة محركه مهما حاولنا إجراء تعديلات{~Poppy}</b></font>
 
 375
 00:26:03,500 --> 00:26:06,590
@@ -1598,11 +1623,13 @@ https://mpv.io/
 
 383
 00:26:32,030 --> 00:26:33,660
-<font face="Bahij Nassim" size="111"><b>أظن لأنّه نزف كثيرًا</b></font>
+<font face="Bahij Nassim" size="111"><b>{He probably bled too much. - OG}أظن لأنّه نزف كثيرًا{~Poppy}</b></font>
 
 384
 00:26:34,910 --> 00:26:39,120
-<font face="Bahij Nassim" size="111"><b>نعم، أشعر أن طاقتي خارت... ليت لدينا بعض اللحم</b></font>
+<font face="Bahij Nassim" size="111"><b>{I kinda feel weak. If only we had
+some meat or something... - OG}{I'm feeling kinda weak.
+If only we had some meat or something... - ~Poppy}نعم، أشعر أن طاقتي خارت... ليت لدينا بعض اللحم{~PP}</b></font>
 
 385
 00:26:39,580 --> 00:26:40,950
@@ -1614,16 +1641,18 @@ https://mpv.io/
 
 387
 00:26:44,580 --> 00:26:47,960
-<font face="Bahij Nassim" size="111"><b>ما حاجتُك للذهابِ إلى مكانٍ كهذا؟
-لماذا لا تأكلين هنا؟</b></font>
+<font face="Bahij Nassim" size="111"><b>{You don't have to go to a place
+like that, right? Why don't you eat here? - OG}{Isn't it strange to go somewhere like this?
+Can't you just eat here? - ~Poppy}ما حاجتُك للذهابِ إلى مكانٍ كهذا؟
+لماذا لا تأكلين هنا؟{~Poppy/PP}</b></font>
 
 388
 00:26:47,960 --> 00:26:50,130
-<font face="Bahij Nassim" size="111"><b>!هذا صحيح! ألا تتضوّرين جوعًا؟</b></font>
+<font face="Bahij Nassim" size="111"><b>{That's right! You're starving, right? - OG}!هذا صحيح! ألا تتضوّرين جوعًا؟{~Poppy}</b></font>
 
 389
 00:26:50,130 --> 00:26:51,760
-<font face="Bahij Nassim" size="111"><b>!أتظن أنني سأتناول كل هذا وحدي؟</b></font>
+<font face="Bahij Nassim" size="111"><b>{There's no way I could eat that much! - OG}!أتظن أنني سأتناول كل هذا وحدي؟{~Poppy}</b></font>
 
 390
 00:26:51,760 --> 00:26:52,840
@@ -1631,11 +1660,11 @@ https://mpv.io/
 
 391
 00:26:53,340 --> 00:26:54,680
-<font face="Bahij Nassim" size="111"><b>آسفة لتأخري</b></font>
+<font face="Bahij Nassim" size="111"><b>{Sorry it took so long! - OG}آسفة لتأخري{~Poppy}</b></font>
 
 392
 00:26:54,680 --> 00:26:55,510
-<font face="Bahij Nassim" size="111"><b>نامي؟</b></font>
+<font face="Bahij Nassim" size="111"><b>{Nami... - OG}نامي؟{~Poppy}</b></font>
 
 393
 00:26:55,510 --> 00:26:57,890
@@ -1655,7 +1684,8 @@ https://mpv.io/
 
 397
 00:27:04,520 --> 00:27:07,310
-<font face="Bahij Nassim" size="111"><b>لم أكن أعرف بوجود قطار آخر في مكانٍ كهذا</b></font>
+<font face="Bahij Nassim" size="111"><b>{Whoa... I never knew there was
+another one in a place like this. - OG}لم أكن أعرف بوجود قطار آخر في مكانٍ كهذا{~Poppy}</b></font>
 
 398
 00:27:07,310 --> 00:27:08,570
@@ -1687,7 +1717,10 @@ https://mpv.io/
 
 405
 00:27:20,910 --> 00:27:26,710
-<font face="Bahij Nassim" size="111"><b> إن استطعتِ وضعه على السكة الحديدية بعد خروجكم
+<font face="Bahij Nassim" size="111"><b>{If you can get on the railway after going out - OG}{If you can make it onto the railway~Poppy} {to the sea via a canal, that'll be
+a success for the time being. - OG}{getting out to sea via the canal,
+we'll count that as a success. - ~Poppy}{after getting out to sea
+via the canal, that'll be a start.~Poppy/PP/Viz}إن استطعتِ وضعه على السكة الحديدية بعد خروجكم
 فسيكون نجاحًا بحد ذاته كبداية</b></font>
 
 406
@@ -1834,11 +1867,15 @@ https://mpv.io/
 
 441
 00:29:36,590 --> 00:29:40,970
-<font face="Bahij Nassim" size="111"><b>سنمطتي الثيران الملكية ثم نقفز إلى البحر</b></font>
+<font face="Bahij Nassim" size="111"><b>{We'll jump out to the sea using
+our king bulls at the same time you do. - OG}{We'll jump out to the sea with you
+using our king bulls. - ~PP}سنمطتي الثيران الملكية ثم نقفز إلى البحر{~Zenef}</b></font>
 
 442
 00:29:40,970 --> 00:29:43,550
-<font face="Bahij Nassim" size="111"><b>لذا كل ما نحتاجه منكم هو السماح لنا بالتشبث بنهاية القطار</b></font>
+<font face="Bahij Nassim" size="111"><b>{So all you need to do is to let us
+hold on to the end of the train. - OG}{You just need to let us
+hold on to the back of the train. - ~Poppy}لذا كل ما نحتاجه منكم هو السماح لنا بالتشبث بنهاية القطار{~Poppy}</b></font>
 
 443
 00:29:44,220 --> 00:29:45,720
@@ -1846,7 +1883,7 @@ https://mpv.io/
 
 444
 00:29:45,720 --> 00:29:47,270
-<font face="Bahij Nassim" size="111"><b>!شكرًا على الموافقة</b></font>
+<font face="Bahij Nassim" size="111"><b>{Thanks for letting us go with you! - OG}!شكرًا على الموافقة{~Poppy}</b></font>
 
 445
 00:29:47,270 --> 00:29:48,890
@@ -1891,13 +1928,13 @@ https://mpv.io/
 
 455
 00:31:26,030 --> 00:31:29,370
-<font face="Bahij Nassim" size="111"><b>!حسنًا! لننطلق</b></font>
+<font face="Bahij Nassim" size="111"><b>{All right! Depart! - OG}!حسنًا! لننطلق{~WF/PP}</b></font>
 
 456
 00:31:32,250 --> 00:31:33,290
-<font face="Bahij Nassim" size="111"><b>...ها نحن قادمون</b></font>
+<font face="Bahij Nassim" size="111"><b>{We're gonna go...! - OG}...ها نحن قادمون{~Poppy}</b></font>
 
 457
 00:31:34,120 --> 00:31:38,380
-<font face="Bahij Nassim" size="111"><b>!لاستعادة كل شيء</b></font>
+<font face="Bahij Nassim" size="111"><b>{To get everything back! - OG}!لاستعادة كل شيء{~Zenef}</b></font>
 

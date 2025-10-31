@@ -9,36 +9,36 @@ https://mpv.io/
 
 2
 00:00:01,770 --> 00:00:04,280
-<font face="Khalid Art bold" size="60">مونتاج</font>
+<font face="Khalid Art bold" size="60">{\an7}مونتاج</font>
 
 3
 00:00:01,770 --> 00:00:04,280
-<font face="FOT-Greco Std B Strp" size="43"><b>Feeso
+<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}Feeso
 Galaxy 9000</b></font>
 
 4
 00:00:04,280 --> 00:00:06,780
-<font face="Khalid Art bold" size="60">الصوت</font>
+<font face="Khalid Art bold" size="60">{\an7}الصوت</font>
 
 5
 00:00:04,280 --> 00:00:06,780
-<font face="FOT-Greco Std B Strp" size="43"><b>Halee</b></font>
+<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}Halee</b></font>
 
 6
 00:00:04,280 --> 00:00:06,780
-<font face="Khalid Art bold" size="60">جرافيك</font>
+<font face="Khalid Art bold" size="60">{\an7}جرافيك</font>
 
 7
 00:00:04,280 --> 00:00:06,780
-<font face="FOT-Greco Std B Strp" size="43"><b>Datenshi</b></font>
+<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}Datenshi</b></font>
 
 8
 00:00:06,780 --> 00:00:10,780
-<font face="Khalid Art bold" size="60">ضبط الجودة</font>
+<font face="Khalid Art bold" size="60">{\an7}ضبط الجودة</font>
 
 9
 00:00:06,780 --> 00:00:10,780
-<font face="FOT-Greco Std B Strp" size="43"><b>FishyBusyness
+<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}FishyBusyness
 Gab
 Galaxy 9000
 Gol D. Rocks
@@ -51,45 +51,45 @@ Zenef</b></font>
 
 10
 00:00:10,780 --> 00:00:13,280
-<font face="Khalid Art bold" size="60">كاريوكي</font>
+<font face="Khalid Art bold" size="60">{\an7}كاريوكي</font>
 
 11
 00:00:10,780 --> 00:00:13,280
-<font face="FOT-Greco Std B Strp" size="43"><b>Rocks-Team</b></font>
+<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}Rocks-Team</b></font>
 
 12
 00:00:10,780 --> 00:00:13,280
-<font face="Khalid Art bold" size="60">مزامنة الترجمة</font>
+<font face="Khalid Art bold" size="60">{\an7}مزامنة الترجمة</font>
 
 13
 00:00:10,780 --> 00:00:13,280
-<font face="FOT-Greco Std B Strp" size="43"><b>Gab
+<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}Gab
 Raven-</b></font>
 
 14
 00:00:13,280 --> 00:00:16,790
-<font face="Khalid Art bold" size="60">التدقيق اللغوي</font>
+<font face="Khalid Art bold" size="60">{\an7}التدقيق اللغوي</font>
 
 15
 00:00:13,280 --> 00:00:16,790
-<font face="FOT-Greco Std B Strp" size="43"><b>Raven-
+<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}Raven-
 FiberAhmed</b></font>
 
 16
 00:00:16,790 --> 00:00:19,250
-<font face="Khalid Art bold" size="60">الخام</font>
+<font face="Khalid Art bold" size="60">{\an7}الخام</font>
 
 17
 00:00:16,790 --> 00:00:19,250
-<font face="FOT-Greco Std B Strp" size="43"><b>Neo-Raws</b></font>
+<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}Neo-Raws</b></font>
 
 18
 00:00:16,790 --> 00:00:19,250
-<font face="Khalid Art bold" size="60">ترجمة</font>
+<font face="Khalid Art bold" size="60">{\an7}ترجمة</font>
 
 19
 00:00:16,790 --> 00:00:19,250
-<font face="FOT-Greco Std B Strp" size="43"><b>Crunchyroll</b></font>
+<font face="FOT-Greco Std B Strp" size="43"><b>{\an7}Crunchyroll</b></font>
 
 20
 00:01:50,010 --> 00:02:00,000
@@ -235,7 +235,7 @@ https://mpv.io/
 
 54
 00:04:27,330 --> 00:04:29,580
-<font face="Bahij Nassim" size="111"><b>!من أجل القرويين</b></font>
+<font face="Bahij Nassim" size="111"><b>{all for the villagers' sake! - Funi}{all for the sake of the village! - Polly}{We drove him out! - Polly+Nikki}!من أجل القرويين{Polly+Nikki+WF}</b></font>
 
 55
 00:04:33,460 --> 00:04:36,760
@@ -243,7 +243,7 @@ https://mpv.io/
 
 56
 00:04:35,380 --> 00:04:36,760
-<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>!آنستي</b></font>
+<font face="Bahij Nassim" size="111" color="#d6d6d6"><b>{Miss! - Funi}!آنستي{Polly}</b></font>
 
 57
 00:04:36,760 --> 00:04:37,970
@@ -255,11 +255,11 @@ https://mpv.io/
 
 59
 00:04:45,010 --> 00:04:46,680
-<font face="Bahij Nassim" size="111"><b>ماذا؟</b></font>
+<font face="Bahij Nassim" size="111"><b>{What?! - Funi}ماذا؟{Z}</b></font>
 
 60
 00:04:46,680 --> 00:04:47,930
-<font face="Bahij Nassim" size="111"><b>...إذًا عليّ</b></font>
+<font face="Bahij Nassim" size="111"><b>{Then I'l– - Funi}...إذًا عليّ{Polly}</b></font>
 
 61
 00:04:47,930 --> 00:04:50,020
@@ -396,19 +396,21 @@ https://mpv.io/
 
 93
 00:06:49,390 --> 00:06:52,390
-<font face="Al-Jazeera-Arabic-Bold" size="90"><font color="#000000">شام
+<font face="Al-Jazeera-Arabic-Bold" size="90">{\an8}<font color="#000000">{Sham
+Ship Guard - Funi}شام
 حارس السفينة
 قراصنة القط الأسود</font></font>
 
 94
 00:06:49,390 --> 00:06:52,390
-<font face="Al-Jazeera-Arabic-Bold" size="90"><font color="#fbfafa">شام
+<font face="Al-Jazeera-Arabic-Bold" size="90">{\an8}<font color="#fbfafa">شام
 حارس السفينة
 قراصنة القط الأسود</font></font>
 
 95
 00:06:49,390 --> 00:06:52,390
-<font face="Al-Jazeera-Arabic-Bold" size="90"><font color="#fbfafa">شام
+<font face="Al-Jazeera-Arabic-Bold" size="90">{\an8}<font color="#fbfafa">{Sham
+Ship Guard - Funi\c&HE6E6E6&}شام
 حارس السفينة
 قراصنة القط الأسود</font></font>
 
@@ -418,19 +420,21 @@ https://mpv.io/
 
 97
 00:06:52,560 --> 00:06:55,690
-<font face="Al-Jazeera-Arabic-Bold" size="90"><font color="#000000">بوتشي
+<font face="Al-Jazeera-Arabic-Bold" size="90">{\an8}<font color="#000000">{Buchi
+Ship Guard - Funi}بوتشي
 حارس السفينة
 قراصنة القط الأسود</font></font>
 
 98
 00:06:52,560 --> 00:06:55,690
-<font face="Al-Jazeera-Arabic-Bold" size="90"><font color="#fbfafa">بوتشي
+<font face="Al-Jazeera-Arabic-Bold" size="90">{\an8}<font color="#fbfafa">بوتشي
 حارس السفينة
 قراصنة القط الأسود</font></font>
 
 99
 00:06:52,560 --> 00:06:55,690
-<font face="Al-Jazeera-Arabic-Bold" size="90"><font color="#fbfafa">بوتشي
+<font face="Al-Jazeera-Arabic-Bold" size="90">{\an8}<font color="#fbfafa">{Sham
+Ship Guard - Funi\c&HE6E6E6&}بوتشي
 حارس السفينة
 قراصنة القط الأسود</font></font>
 
@@ -506,7 +510,7 @@ https://mpv.io/
 
 117
 00:07:40,940 --> 00:07:41,940
-<font face="Bahij Nassim" size="111"><b>!بسرعة</b></font>
+<font face="Bahij Nassim" size="111"><b>{Hurry! - Funi}!بسرعة{Polly}</b></font>
 
 118
 00:07:41,940 --> 00:07:44,400
@@ -588,7 +592,7 @@ https://mpv.io/
 
 137
 00:08:38,910 --> 00:08:40,370
-<font face="Bahij Nassim" size="111"><b>...القط السارق</b></font>
+<font face="Bahij Nassim" size="111"><b>{"Cat Burglar"... - Funi}...القط السارق{Polly - this is a pun on 猫ばば (nekobaba), which is something like pickpocketing}</b></font>
 
 138
 00:08:40,790 --> 00:08:42,880
@@ -620,11 +624,11 @@ https://mpv.io/
 
 145
 00:09:16,160 --> 00:09:17,950
-<font face="Bahij Nassim" size="111"><b>!ماذا قطعت؟</b></font>
+<font face="Bahij Nassim" size="111"><b>{What did you cut?! - Funi}{You'll have to be quicker than that! - Polly}!ماذا قطعت؟{Z}</b></font>
 
 146
 00:09:17,950 --> 00:09:19,960
-<font face="Bahij Nassim" size="111"><b>!أستطيع لوي نفسي كالقط</b></font>
+<font face="Bahij Nassim" size="111"><b>{I can bend like a cat! - Funi}{I have cat-like reflexes! - Polly}{I'm as bendy as a cat! - Z}!أستطيع لوي نفسي كالقط{Z+WF}</b></font>
 
 147
 00:09:22,710 --> 00:09:24,420
@@ -636,7 +640,7 @@ https://mpv.io/
 
 149
 00:09:25,340 --> 00:09:27,210
-<font face="Bahij Nassim" size="111"><b>!حسنًا يا شام</b></font>
+<font face="Bahij Nassim" size="111"><b>{Right, Sham! - Funi}{I got it, Sham! - Polly}!حسنًا يا شام{Z}</b></font>
 
 150
 00:09:27,920 --> 00:09:30,220
@@ -656,7 +660,7 @@ https://mpv.io/
 
 154
 00:09:39,850 --> 00:09:42,600
-<font face="Bahij Nassim" size="111"><b>!ثبّته جيدًا يا شام</b></font>
+<font face="Bahij Nassim" size="111"><b>{Hey! Hold him down, Sham! - Funi}{Hey! Hold him still, Sham! - Polly}!ثبّته جيدًا يا شام{Polly+Nikki}</b></font>
 
 155
 00:09:42,600 --> 00:09:43,980
@@ -721,7 +725,7 @@ https://mpv.io/
 
 170
 00:10:32,280 --> 00:10:33,490
-<font face="Hacen Digital Arabia LT" size="60">النجم الرئيس</font>
+<font face="Hacen Digital Arabia LT" size="60">{\an8}النجم الرئيس</font>
 
 171
 00:10:32,280 --> 00:10:33,490
@@ -733,11 +737,13 @@ https://mpv.io/
 
 173
 00:10:46,880 --> 00:10:49,880
-<font face="Bahij Nassim" size="111"><b>!لماذا تهاجم صديقنا؟</b></font>
+<font face="Bahij Nassim" size="111"><b>{Why're you attacking
+a guy on [/i1]our[/i] side?! - Funi}{Why are you hitting
+a guy on our side?! - Polly}!لماذا تهاجم صديقنا؟{WF+Polly}</b></font>
 
 174
 00:10:50,630 --> 00:10:52,090
-<font face="Bahij Nassim" size="111"><b>!ليس كذلك</b></font>
+<font face="Bahij Nassim" size="111"><b>{No, it's not like that! - Funi}{No, it's not that! - Polly}!ليس كذلك{WF}</b></font>
 
 175
 00:10:52,090 --> 00:10:55,630
@@ -773,7 +779,7 @@ https://mpv.io/
 
 183
 00:11:19,780 --> 00:11:20,990
-<font face="Bahij Nassim" size="111"><b>...إنّه</b></font>
+<font face="Bahij Nassim" size="111"><b>{He... - Funi}...إنّه{Polly -  you could maybe go for "Incredible..." or "I see..." but this is the closest to the OG I think}</b></font>
 
 184
 00:11:21,540 --> 00:11:23,750
@@ -809,7 +815,7 @@ https://mpv.io/
 
 192
 00:11:45,180 --> 00:11:46,140
-<font face="Bahij Nassim" size="111"><b>!مهلًا يا نامي</b></font>
+<font face="Bahij Nassim" size="111"><b>{Hey! Nami! - Funi}!مهلًا يا نامي{Polly}</b></font>
 
 193
 00:12:06,330 --> 00:12:07,370
@@ -858,7 +864,7 @@ https://mpv.io/
 
 204
 00:13:22,490 --> 00:13:23,740
-<font face="Bahij Nassim" size="111"><b>...أليس كذلك</b></font>
+<font face="Bahij Nassim" size="111"><b>{Right... - Funi}...أليس كذلك{Polly}</b></font>
 
 205
 00:13:24,620 --> 00:13:26,200
@@ -982,15 +988,16 @@ https://mpv.io/
 
 234
 00:15:42,750 --> 00:15:46,220
-<font face="Bahij Nassim" size="111"><b>.أشعر أنني فقدت شيئًا من سرعتي</b></font>
+<font face="Bahij Nassim" size="111"><b>{I do feel a bit of sluggishness. - Funi}.أشعر أنني فقدت شيئًا من سرعتي</b></font>
 
 235
 00:15:47,030 --> 00:15:48,590
-<font face="Bahij Nassim" size="111"><b>،كان زورو يعاني في مواجهتهم</b></font>
+<font face="Bahij Nassim" size="111"><b>{He's handling them like kids, - Funi}{Zoro struggled with them, - Polly}،كان زورو يعاني في مواجهتهم{Polly}</b></font>
 
 236
 00:15:48,590 --> 00:15:52,220
-<font face="Bahij Nassim" size="111"><b>!ولكن هذا الرجل يتعامل معهما كالأطفال</b></font>
+<font face="Bahij Nassim" size="111"><b>{after they had the upper hand
+against Zoro and his one sword! - Funi}!ولكن هذا الرجل يتعامل معهما كالأطفال{Polly}</b></font>
 
 237
 00:15:53,470 --> 00:15:57,810
@@ -1107,11 +1114,11 @@ https://mpv.io/
 
 264
 00:18:00,020 --> 00:18:01,520
-<font face="Bahij Nassim" size="111"><b>...حتى وإن استخدمت ثلاثة سيوف</b></font>
+<font face="Bahij Nassim" size="111"><b>{Three swords won't help you! - Funi}...حتى وإن استخدمت ثلاثة سيوف{Polly+Nikki}</b></font>
 
 265
 00:18:01,520 --> 00:18:03,310
-<font face="Bahij Nassim" size="111"><b>!قدرتك هي نفسها</b></font>
+<font face="Bahij Nassim" size="111"><b>{Your skill's still the same! - Funi}{...if you can't even use 'em! - Polly}!قدرتك هي نفسها{Polly}</b></font>
 
 266
 00:18:05,360 --> 00:18:06,060
@@ -1119,7 +1126,7 @@ https://mpv.io/
 
 267
 00:18:05,360 --> 00:18:06,060
-<font face="Hacen Digital Arabia LT" size="60">فخ</font>
+<font face="Hacen Digital Arabia LT" size="60">{\an8}فخ</font>
 
 268
 00:18:09,610 --> 00:18:11,530
@@ -1131,7 +1138,7 @@ https://mpv.io/
 
 270
 00:18:12,280 --> 00:18:13,820
-<font face="Hacen Digital Arabia LT" size="60">النمر</font>
+<font face="Hacen Digital Arabia LT" size="60">{\an8}النمر</font>
 
 271
 00:18:18,580 --> 00:18:21,160
@@ -1273,11 +1280,11 @@ https://mpv.io/
 
 305
 00:21:38,650 --> 00:21:40,070
-<font face="Hacen Digital Arabia LT" size="60">تشاكرام: سلاح دائري حاد</font>
+<font face="Hacen Digital Arabia LT" size="60">{\an8}تشاكرام: سلاح دائري حاد</font>
 
 306
 00:21:40,070 --> 00:21:42,530
-<font face="Bahij Nassim" size="111"><b>!لم تكن مجرد أداة تنويم مغناطيسي؟</b></font>
+<font face="Bahij Nassim" size="111"><b>{It wasn't just a hypnosis tool?! - Funi}!لم تكن مجرد أداة تنويم مغناطيسي؟{Polly}</b></font>
 
 307
 00:21:43,740 --> 00:21:48,580
@@ -1394,7 +1401,7 @@ https://mpv.io/
 
 335
 00:23:28,090 --> 00:23:30,310
-<font face="Hacen Digital Arabia LT" size="60">.الهاراماكي: إحدى الملابس اليابانية التقليدية، وهو حزام حول البطن</font>
+<font face="Hacen Digital Arabia LT" size="60">{\an8}.الهاراماكي: إحدى الملابس اليابانية التقليدية، وهو حزام حول البطن</font>
 
 336
 00:23:30,310 --> 00:23:34,520
@@ -1491,7 +1498,7 @@ https://mpv.io/
 
 359
 00:25:12,240 --> 00:25:13,030
-<font face="Bahij Nassim" size="111"><b>...لهذا</b></font>
+<font face="Bahij Nassim" size="111"><b>{So I... - Funi}...لهذا{Polly}</b></font>
 
 360
 00:25:13,030 --> 00:25:14,620
@@ -1539,11 +1546,11 @@ https://mpv.io/
 
 371
 00:26:01,460 --> 00:26:03,250
-<font face="Bahij Nassim" size="111"><b>!اترك هذه القرية</b></font>
+<font face="Bahij Nassim" size="111"><b>{Just please leave this village! - Funi}!اترك هذه القرية{Polly}</b></font>
 
 372
 00:26:03,250 --> 00:26:04,880
-<font face="Bahij Nassim" size="111"><b>!الآن</b></font>
+<font face="Bahij Nassim" size="111"><b>{Right now! - Funi}!الآن{Polly}</b></font>
 
 373
 00:26:04,880 --> 00:26:09,090

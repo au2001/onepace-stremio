@@ -391,7 +391,7 @@ just because you snatched the King away from us!</font>
 
 94
 00:07:32,040 --> 00:07:35,030
-<font face="Agency FB" size="63" color="#fefefe"><b>100,000 vs. 10!
+<font face="Agency FB" size="63" color="#fefefe"><b>{\an5}100,000 vs. 10!
 The Straw Hats' Explosive Moves</b></font>
 
 95
@@ -548,11 +548,11 @@ Those great people wouldn't want us to.</font>
 
 131
 00:09:46,660 --> 00:09:50,230
-<font face="Impress BT" size="55"><i>Don't tell the people on our island anything! </i></font>
+<font face="Impress BT" size="55"><i>Don't tell the people on our island anything! { from 543 }</i></font>
 
 132
 00:09:51,140 --> 00:09:57,690
-<font face="Impress BT" size="55"><i>Don't lose yourself in anger and hatred because of me. </i></font>
+<font face="Impress BT" size="55"><i>Don't lose yourself in anger and hatred because of me. { from 546 }</i></font>
 
 133
 00:09:59,080 --> 00:10:02,490
@@ -1138,7 +1138,7 @@ then you'll have to beat all of us first!</font>
 
 272
 00:21:08,780 --> 00:21:12,100
-<font face="Impress BT" size="38"><i>Black Rope - Grand Dragon Twist/Tornado </i></font>
+<font face="Impress BT" size="38"><i>{\an8}Black Rope - Grand Dragon Twist/Tornado {What an incredibly bloated TL note...}</i></font>
 
 273
 00:21:20,640 --> 00:21:24,370
@@ -1203,7 +1203,7 @@ The Grim Reaper's scythe or something?</font>
 
 288
 00:22:08,620 --> 00:22:11,040
-<font face="Impress BT" size="55">The Sea Urchin Spine Squadron! </font>
+<font face="Impress BT" size="55">The Sea Urchin Spine Squadron! {Again, the alliteration was honestly not intended.}</font>
 
 289
 00:22:11,570 --> 00:22:14,680
@@ -1211,7 +1211,7 @@ The Grim Reaper's scythe or something?</font>
 
 290
 00:22:15,920 --> 00:22:19,370
-<font face="Impress BT" size="38"><i>A Thousand Needles</i></font>
+<font face="Impress BT" size="38"><i>{\an8}A Thousand Needles</i></font>
 
 291
 00:22:19,320 --> 00:22:22,770
@@ -1355,7 +1355,7 @@ The Grim Reaper's scythe or something?</font>
 
 326
 00:24:46,770 --> 00:24:50,650
-<font face="Impress BT" size="38"><i>Moon Step</i></font>
+<font face="Impress BT" size="38"><i>{\an8}Moon Step</i></font>
 
 327
 00:24:46,780 --> 00:24:50,620
@@ -1630,7 +1630,7 @@ will take them down!</font>
 
 394
 00:30:50,360 --> 00:30:55,400
-<font face="Impress BT" size="55"><i>There it is!  A dinosaur!  I wanna try it! </i></font>
+<font face="Impress BT" size="55"><i>There it is!  A dinosaur!  I wanna try it! { def: There it is? }{ Btwb: That confuses me too. }</i></font>
 
 395
 00:30:53,560 --> 00:30:55,400
@@ -1658,7 +1658,7 @@ will take them down!</font>
 
 401
 00:31:15,510 --> 00:31:16,740
-<font face="Impress BT" size="55">Fire! </font>
+<font face="Impress BT" size="55">Fire! {I would just like to take a moment to point out how the sound this tank makes is the greatest thing ever.}{Ditto}</font>
 
 402
 00:31:19,370 --> 00:31:20,810

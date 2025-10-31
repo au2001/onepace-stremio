@@ -12,17 +12,17 @@
 
 4
 00:00:31,860 --> 00:00:37,230
-<font face="FOT-Greco Std B" size="34"><font size="28">Translation
+<font face="FOT-Greco Std B" size="34">{\an7}<font size="28">Translation
 </font></font>Yibis
 
 5
 00:00:31,860 --> 00:00:37,230
-<font face="FOT-Greco Std B" size="34"><font size="28">Soundtracking
+<font face="FOT-Greco Std B" size="34">{\an7}<font size="28">Soundtracking
 </font></font>Halee
 
 6
 00:00:31,860 --> 00:00:37,230
-<font face="FOT-Greco Std B" size="34"><font size="28">Editing
+<font face="FOT-Greco Std B" size="34">{\an7}<font size="28">Editing
 </font></font>Sewil
 
 7
@@ -31,17 +31,17 @@
 
 8
 00:00:37,370 --> 00:00:42,100
-<font face="FOT-Greco Std B" size="34"><font size="28">Infoboxes/title card</font></font>
+<font face="FOT-Greco Std B" size="34">{\an7}<font size="28">Infoboxes/title card</font></font>
 BernieCrane
 
 9
 00:00:37,370 --> 00:00:42,100
-<font face="FOT-Greco Std B" size="34"><font size="28">Timing
+<font face="FOT-Greco Std B" size="34">{\an7}<font size="28">Timing
 </font></font>Datenshi
 
 10
 00:00:37,370 --> 00:00:42,100
-<font face="FOT-Greco Std B" size="34"><font size="28">Quality checking
+<font face="FOT-Greco Std B" size="34">{\an7}<font size="28">Quality checking
 </font></font>Galaxy 9000
 alasta
 Mr. Luffy

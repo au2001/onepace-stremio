@@ -28,7 +28,7 @@
 
 8
 00:00:23,750 --> 00:00:28,090
-<font face="Times New Roman" size="34">Translation & initial timing
+<font face="Times New Roman" size="34">{\an1}Translation & initial timing
 <font size="40">Yibis Fansubs
 Tsuki</font></font>
 
@@ -38,7 +38,7 @@ Tsuki</font></font>
 
 10
 00:00:28,130 --> 00:00:32,140
-<font face="Times New Roman" size="34">Timing
+<font face="Times New Roman" size="34">{\an1}Timing
 <font size="40">Galaxy 9000
 
 </font>Time-checking
@@ -50,13 +50,13 @@ Tsuki</font></font>
 
 12
 00:00:34,640 --> 00:00:37,580
-<font face="Times New Roman" size="34">Quality-checking
+<font face="Times New Roman" size="34">{\an1}Quality-checking
 <font size="40">Sewil
 Galaxy 9000</font></font>
 
 13
 00:00:39,010 --> 00:00:42,610
-<font face="Times New Roman" size="34">Soundtracking
+<font face="Times New Roman" size="34">{\an1}Soundtracking
 <font size="40">Halee</font></font>
 
 14
@@ -69,7 +69,7 @@ Galaxy 9000</font></font>
 
 16
 00:00:45,480 --> 00:00:48,150
-<font face="Times New Roman" size="34">Video editing
+<font face="Times New Roman" size="34">{\an1}Video editing
 <font size="40">Sewil</font></font>
 
 17
@@ -86,7 +86,7 @@ Galaxy 9000</font></font>
 
 20
 00:01:00,400 --> 00:01:04,500
-<font face="Times New Roman" size="34">Raw provider
+<font face="Times New Roman" size="34">{\an1}Raw provider
 <font size="40">Crunchyroll</font></font>
 
 21
@@ -179,7 +179,7 @@ Galaxy 9000</font></font>
 
 43
 00:02:30,030 --> 00:02:38,880
-<font face="impress bt" size="63" color="#fefefe"><b>Corrida Colosseum!
+<font face="impress bt" size="63" color="#fefefe"><b>{\an5}Corrida Colosseum!
 The Great Tournament</b></font>
 
 44
@@ -387,7 +387,7 @@ with one of the Wano Country's treasures!</font>
 
 93
 00:05:23,290 --> 00:05:25,920
-<font face="Impress BT" size="55">I've got a great idea. </font>
+<font face="Impress BT" size="55">I've got a great idea. { edit: I just realized something. }</font>
 
 94
 00:05:25,920 --> 00:05:26,500
@@ -511,7 +511,7 @@ that Mingo was talking about?!</font>
 
 122
 00:07:23,200 --> 00:07:24,100
-<font face="Impress BT" size="55">Ow!</font>
+<font face="Impress BT" size="55">{\an8}Ow!</font>
 
 123
 00:07:23,500 --> 00:07:26,160
@@ -519,7 +519,7 @@ that Mingo was talking about?!</font>
 
 124
 00:07:24,100 --> 00:07:26,160
-<font face="Impress BT" size="55">It's him!  The Thunder Soldier!</font>
+<font face="Impress BT" size="55">{\an8}It's him!  The Thunder Soldier!</font>
 
 125
 00:07:26,160 --> 00:07:30,260
@@ -770,7 +770,7 @@ the Flame Fruit reappeared somewhere unnoticed.</font>
 
 184
 00:11:39,510 --> 00:11:42,110
-<font face="Impress BT" size="55">I'd rather not become an anchor. </font>
+<font face="Impress BT" size="55">I'd rather not become an anchor. { def: dude, you're like 60% metal already.  how much swimming are you doing? }</font>
 
 185
 00:11:42,110 --> 00:11:45,890
@@ -870,7 +870,7 @@ Violet</font>
 
 208
 00:13:18,610 --> 00:13:21,850
-<font face="Impress BT" size="55">No one in the world can match your dancing! </font>
+<font face="Impress BT" size="55">No one in the world can match your dancing! {Xemnas: No one in the world can match the laziness of that animation.}</font>
 
 209
 00:13:27,920 --> 00:13:29,050
@@ -954,7 +954,7 @@ Nami-san and Robin-chan hopelessly fall for me?</font>
 
 228
 00:14:51,250 --> 00:14:56,700
-<font face="Impress BT" size="55">She must have snuck out the back door into Lovers' Avenue.  She can't be far!</font>
+<font face="Impress BT" size="55">She must have snuck out the back door into Lovers' Avenue.  She can't be far!{Good thing they aren't just doing a full 360 around on their immediate surroundings. I think they would probably have spotted her. -Starfish}</font>
 
 229
 00:14:56,700 --> 00:14:58,240
@@ -962,7 +962,7 @@ Nami-san and Robin-chan hopelessly fall for me?</font>
 
 230
 00:14:58,240 --> 00:14:59,280
-<font face="Impress BT" size="55">Yes sir!  </font>
+<font face="Impress BT" size="55">Yes sir! { def: does this count as translating?  cause if it does i think i could be a translator } {Xemnas: lol}</font>
 
 231
 00:15:02,190 --> 00:15:04,940
@@ -990,7 +990,7 @@ Nami-san and Robin-chan hopelessly fall for me?</font>
 
 237
 00:15:27,310 --> 00:15:29,410
-<font face="Impress BT" size="55">But there's so much blood! </font>
+<font face="Impress BT" size="55">But there's so much blood!{Dear anime-creators everywhere. THAT IS NOT WHERE THE BLOOD GOES WHEN ONE IS TURNED ON. SRSLY. WHERE DID THAT STEREOTYPE EVEN COME FROM. -Starfish} {Xemnas: That's Japan for you. If you ever come across something weird, 99% of the time it originated in Japan.}</font>
 
 238
 00:15:29,410 --> 00:15:31,480
@@ -1099,7 +1099,7 @@ as to escort me to the next town?</font>
 
 264
 00:17:02,660 --> 00:17:05,100
-<font face="Impress BT" size="55">The colosseum is enormous!</font>
+<font face="Impress BT" size="55">{\an8}The colosseum is enormous!</font>
 
 265
 00:17:05,340 --> 00:17:09,240
@@ -1136,7 +1136,7 @@ Suddenly, I wanna participate too.</font>
 
 273
 00:17:31,270 --> 00:17:33,900
-<font face="Impress BT" size="55">I have entered the colosseum!</font>
+<font face="Impress BT" size="55">{\an8}I have entered the colosseum!</font>
 
 274
 00:17:32,670 --> 00:17:37,170
@@ -1145,7 +1145,7 @@ Suddenly, I wanna participate too.</font>
 
 275
 00:17:33,900 --> 00:17:36,410
-<font face="Impress BT" size="55">You know the law, don't you?</font>
+<font face="Impress BT" size="55">{\an8}You know the law, don't you?</font>
 
 276
 00:17:38,890 --> 00:17:42,910
@@ -1224,7 +1224,7 @@ Shall I carry your luggage for you?</font>
 
 294
 00:18:49,290 --> 00:18:50,710
-<font face="Impress BT" size="55">He's taking it personally!</font>
+<font face="Impress BT" size="55">He's taking it personally!{...I will admit, I am not sure I fully understand this conversation =/ -Starfish}</font>
 
 295
 00:18:51,050 --> 00:18:56,180
@@ -1342,7 +1342,7 @@ would want to participate, anyway.</font>
 
 323
 00:20:47,640 --> 00:20:51,840
-<font face="Impress BT" size="55">This is the worst kind of joke!</font>
+<font face="Impress BT" size="55">{\an8}This is the worst kind of joke!</font>
 
 324
 00:20:47,740 --> 00:20:53,230
